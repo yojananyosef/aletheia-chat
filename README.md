@@ -5,44 +5,59 @@ Una aplicación de lectura bíblica inmersiva diseñada bajo el sistema **Neo-AI
 ## 🚀 Características Premium
 
 - **Experiencia Inmersiva de Chat:** Lee la Biblia como si estuvieras en una conversación en tiempo real con sus protagonistas.
+- **Rutas reales por capítulo:** Deep-linking (`/genesis/1`), back-button del navegador y metadata por libro/capítulo (App Router).
 - **Diseño Adaptativo Extremo:** Optimizado para todo tipo de pantallas, desde móviles hasta monitores 4K Cinema.
 - **Sistema NAAS v3.4:** Interfaz de alto contraste, tipografía premium (Space Grotesk) y jerarquía visual matemática.
 - **Lectura Adaptativa Humana:** Los mensajes avanzan a un ritmo de lectura natural, calculando el tiempo según la longitud del texto.
-- **Efectos de Sonido:** Micro-interacciones auditivas (pop y typing) para una mayor inmersión.
+- **Efectos de Sonido:** Micro-interacciones auditivas (pop) para una mayor inmersión.
 - **Navegación Inteligente:** Selector de libros dinámico y pausas estratégicas en títulos de sección.
 - **Likes Interactivos:** Doble toque estilo Instagram para marcar tus versículos favoritos con un corazón dinámico.
+- **Persistencia versionada:** Progreso, favoritos y ajustes en `localStorage` con claves `naas:v1:*`, validación Zod y migración automática desde versiones anteriores.
 
 ## 🛠️ Stack Tecnológico
 
-- **Framework:** Next.js (App Router) + TypeScript
+- **Framework:** Next.js 16 (App Router) + React 19 + TypeScript
 - **Arquitectura:** Screaming Architecture (Dominio Aislado) + Clean Code / Principios SOLID
-- **Estilos:** Tailwind CSS (Diseño basado en utilidades)
-- **Animaciones:** Framer Motion (Transiciones fluidas y estados dinámicos)
+- **Estilos:** Tailwind CSS 4 (config CSS-first con `@theme`) + `next/font`
+- **Animaciones:** Motion (ex Framer Motion)
 - **Iconos:** Lucide React
-- **Datos:** JSON estructurado para capítulos y versículos
+- **Validación:** Zod (datos de capítulos y persistencia)
+- **QA:** ESLint 9 (flat config) + Vitest + Testing Library + Playwright
 
 ## 📦 Instalación y Desarrollo
+
+Requisitos: Node 22+ y pnpm (ver `mise.toml`).
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/yojananyosef/bible-app-naas.git
    ```
 
-2. Instala las dependencias (se recomienda Bun):
+2. Instala las dependencias:
    ```bash
-   bun install
+   pnpm install
    ```
 
 3. Inicia el servidor de desarrollo:
    ```bash
-   bun run dev
+   pnpm dev
    ```
    (Abre http://localhost:3000)
 
-4. Construye para producción:
+4. Verificación completa:
    ```bash
-   bun run build && bun run start
+   pnpm lint        # ESLint
+   pnpm test        # Vitest (unit)
+   pnpm build       # Build de producción
+   pnpm test:e2e    # Playwright (e2e, arranca pnpm dev)
    ```
+
+## 🗺️ Rutas
+
+| Ruta | Descripción |
+|------|-------------|
+| `/` | Home: catálogo de libros, búsqueda y favoritos |
+| `/[book]/[chapter]` | Chat de lectura (ej. `/genesis/1`, `/exodus/4`) — prerenderizado con `generateStaticParams`, 404 para combinaciones inválidas |
 
 ## 📂 Estructura de Datos
 
@@ -63,6 +78,17 @@ Los capítulos se almacenan en formato JSON en `public/data/[libro]/[capitulo].j
   ]
 }
 ```
+
+## 💾 Persistencia (localStorage)
+
+| Clave | Contenido |
+|-------|-----------|
+| `naas:v1:favorites` | Versículos marcados con ❤️ (schema Zod) |
+| `naas:v1:settings` | Sonido y velocidad de lectura |
+| `naas:v1:lastChapter:{book}` | Último capítulo visitado por libro |
+| `naas:v1:progress:{book}:{chapter}` | Índice de mensaje para reanudar lectura |
+
+Las claves legacy (`bible_favorites`, `isMuted`, `readingSpeedMultiplier`, `lastChapter_*`, `chatProgress_*`) se migran automáticamente la primera vez que se leen.
 
 ## 🎨 Principios de Diseño
 
