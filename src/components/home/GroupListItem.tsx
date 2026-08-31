@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, CheckCheck, Lock } from 'lucide-react';
+import { CheckCheck, Lock } from 'lucide-react';
 import { BookInfo } from '../../types/bible';
 import { Surface, Avatar } from '../ui/Surface';
 

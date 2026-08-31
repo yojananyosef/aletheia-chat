@@ -15,7 +15,7 @@ interface InputBarProps {
 
 export const InputBar: React.FC<InputBarProps> = (props) => {
     return (
-        <div className="border-t-4 border-[#0A0A0A] bg-white/95 backdrop-blur-md px-4 py-4 sm:p-6 flex justify-center z-50 shrink-0 h-auto pb-safe transition-all shadow-[0_-4px_10px_rgba(0,0,0,0.05)]">
+        <div className="border-t-4 border-[#0A0A0A] bg-white/95 backdrop-blur-md px-4 py-4 sm:p-6 flex justify-center z-50 shrink-0 h-auto pb-safe transition-all shadow-[0_-4px_10px_rgba(0,0,0,0.05)] select-none">
             <div className="w-full max-w-4xl flex items-center gap-3 h-full min-h-[60px]">
                 {!props.error && !props.isComplete ? (
                     !props.nextMessage ? (
@@ -43,6 +43,7 @@ export const InputBar: React.FC<InputBarProps> = (props) => {
                             </button>
                             <button
                                 onClick={props.onManualNext}
+                                aria-label={`Enviar mensaje de ${props.nextMessage?.speaker ?? 'personaje'}`}
                                 className="bg-[#FFD600] w-14 h-14 rounded-full flex items-center justify-center border-2 border-black shadow-[3px_3px_0_#0A0A0A] active:scale-90 transition-all outline-none shrink-0"
                             >
                                 <Send className="w-6 h-6" />

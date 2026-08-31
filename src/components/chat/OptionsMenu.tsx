@@ -1,7 +1,6 @@
 import React from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'motion/react';
 import { Info, Volume2, VolumeX, RotateCcw, Zap, Eye, Settings2, Activity } from 'lucide-react';
-import { Surface } from '../ui/Surface';
 import { READING_SPEEDS } from '../../constants/books';
 
 interface OptionsMenuProps {

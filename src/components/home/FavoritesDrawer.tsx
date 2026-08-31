@@ -1,5 +1,5 @@
 import React from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'motion/react';
 import { X, Heart, BookOpen } from 'lucide-react';
 import { FavoriteMessage } from '../../types/bible';
 
@@ -32,7 +32,7 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClos
                                 <Heart className="w-6 h-6 fill-black" />
                                 <h3 className="text-xl font-black uppercase tracking-tighter italic">Tesoros en el Corazón</h3>
                             </div>
-                            <button onClick={onClose} className="p-2 border-2 border-black bg-white text-black hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none font-black text-xs">
+                            <button onClick={onClose} aria-label="Cerrar favoritos" className="p-2 border-2 border-black bg-white text-black hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none font-black text-xs">
                                 <X className="w-5 h-5" strokeWidth={3} />
                             </button>
                         </div>
@@ -57,13 +57,14 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClos
                                                 </div>
                                                 <button
                                                     onClick={() => onToggleLike(fav.id, fav.bookId)}
+                                                    aria-label="Quitar de favoritos"
                                                     className="p-1.5 bg-red-50 text-red-600 border-2 border-transparent hover:border-red-600 transition-all rounded-sm"
                                                 >
                                                     <Heart className="w-4 h-4 fill-current" />
                                                 </button>
                                             </div>
                                             <p className="text-sm md:text-base font-medium italic text-gray-800 leading-relaxed border-l-4 border-[#FFD600] pl-4">
-                                                "{fav.text}"
+                                                &ldquo;{fav.text}&rdquo;
                                             </p>
                                         </div>
                                     ))}

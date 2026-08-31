@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowLeft, ChevronDown, MoreVertical } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'motion/react';
 import { BookInfo } from '../../types/bible';
 import { OptionsMenu } from './OptionsMenu';
 
@@ -24,13 +24,13 @@ interface ChatHeaderProps {
 
 export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
     return (
-        <header className="border-b-4 border-[#0A0A0A] bg-white px-4 py-2 safe-top sticky top-0 z-50 flex items-center justify-between shrink-0 h-auto sm:h-24 md:h-24 transition-all overflow-visible">
+        <header className="border-b-4 border-[#0A0A0A] bg-white px-4 py-2 safe-top sticky top-0 z-50 flex items-center justify-between shrink-0 h-auto sm:h-24 md:h-24 transition-all overflow-visible select-none">
             <div className="flex items-center gap-3 min-w-0 h-full py-2">
-                <button onClick={props.onBack} className="p-2 border-2 border-black hover:bg-gray-100 transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none shrink-0 bg-white">
+                <button onClick={props.onBack} aria-label="Volver a la selección de libros" className="p-2 border-2 border-black hover:bg-gray-100 transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none shrink-0 bg-white">
                     <ArrowLeft className="w-5 h-5 sm:w-6 sm:h-6 text-[#0A0A0A]" strokeWidth={2.5} />
                 </button>
                 <div className="min-w-0 text-left flex flex-col justify-center relative">
-                    <button onClick={props.onToggleSelector} className="flex items-center gap-2 group max-w-full outline-none">
+                    <button onClick={props.onToggleSelector} aria-label="Seleccionar capítulo" aria-expanded={props.isSelectorOpen} className="flex items-center gap-2 group max-w-full outline-none">
                         <h1 className="text-xl md:text-2xl font-black leading-none uppercase truncate">{props.book?.name} • Cap {props.chapter}</h1>
                         <ChevronDown className={`w-5 h-5 transition-transform shrink-0 ${props.isSelectorOpen ? 'rotate-180' : ''}`} strokeWidth={3} />
                     </button>
@@ -62,6 +62,8 @@ export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
                 <div className="relative">
                     <button
                         onClick={props.onToggleOptions}
+                        aria-label="Opciones de lectura"
+                        aria-expanded={props.isOptionsOpen}
                         className={`p-2 border-2 border-black transition-all outline-none h-fit shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none ${props.isOptionsOpen ? 'bg-[#FFD600]' : 'hover:bg-gray-100'}`}
                     >
                         <MoreVertical className="w-6 h-6" strokeWidth={2.5} />

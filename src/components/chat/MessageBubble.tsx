@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { Heart } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'motion/react';
 import { Message } from '../../core/domain/Message';
 import { Avatar, Surface } from '../ui/Surface';
 
@@ -18,13 +18,13 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
     const isSerpent = message.speaker === 'Serpiente';
     const actorColor = "bg-[#F5F5F5]";
 
-    const handleInteraction = (e?: any) => {
+    const handleInteraction = (e?: React.MouseEvent) => {
         const now = Date.now();
         const timeSince = now - lastTap.current;
 
         if (timeSince < 300 && timeSince > 0) {
             onToggleLike(message.id);
-            if (e.cancelable) e.preventDefault();
+            if (e && e.cancelable) e.preventDefault();
         }
         lastTap.current = now;
     };

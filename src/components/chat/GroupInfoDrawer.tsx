@@ -1,8 +1,8 @@
 import React from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { ShieldCheck, X, Users, MessageSquare } from 'lucide-react';
+import { motion, AnimatePresence } from 'motion/react';
+import { ShieldCheck, X, Users } from 'lucide-react';
 import { BookInfo } from '../../types/bible';
-import { Avatar, Surface } from '../ui/Surface';
+import { Avatar } from '../ui/Surface';
 
 interface GroupInfoDrawerProps {
     isOpen: boolean;
@@ -34,7 +34,7 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
                                 <Users className="w-6 h-6" />
                                 <h3 className="text-xl font-black uppercase tracking-tighter italic">Detalles del Grupo</h3>
                             </div>
-                            <button onClick={onClose} className="p-2 border-2 border-black bg-white hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none">
+                            <button onClick={onClose} aria-label="Cerrar información del grupo" className="p-2 border-2 border-black bg-white hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none">
                                 <X className="w-5 h-5" strokeWidth={3} />
                             </button>
                         </div>
@@ -50,7 +50,7 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
                             </div>
 
                             <p className="text-base font-medium text-gray-800 mb-8 leading-tight italic border-l-4 border-[#FFD600] pl-4 py-2 text-left bg-gray-50">
-                                "{book.description}"
+                                &ldquo;{book.description}&rdquo;
                             </p>
 
                             <div className="w-full text-left space-y-6">
