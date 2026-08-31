@@ -1,26 +1,23 @@
-import React, { useState, useEffect } from 'react';
+'use client';
+
+import React from 'react';
+import { useRouter } from 'next/navigation';
 import { Search, MoreVertical, Heart, ShieldCheck, MessageSquare, Users, Book } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence } from 'motion/react';
 
 import { useUIState } from '../context/UIStateContext';
 import { usePersistentState } from '../hooks/usePersistentState';
 import { useSpiritualLevel } from '../hooks/useSpiritualLevel';
 import { useBookFilter } from '../hooks/useBookFilter';
+import { useHasMounted } from '../hooks/useHasMounted';
 
 import { Surface } from '../components/ui/Surface';
 import { GroupListItem } from '../components/home/GroupListItem';
 import { FavoritesDrawer } from '../components/home/FavoritesDrawer';
 
-interface HomeViewProps {
-    onOpenChat: () => void;
-}
-
-export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
-    const [isMounted, setIsMounted] = useState(false);
-
-    useEffect(() => {
-        setIsMounted(true);
-    }, []);
+export const HomeView: React.FC = () => {
+    const router = useRouter();
+    const hasMounted = useHasMounted();
 
     const {
         showHomeSearch, setShowHomeSearch,
@@ -29,13 +26,12 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
         homeSearchQuery
     } = useUIState();
 
-    const { favorites, changeBook, getInitialChapter, setFavorites } = usePersistentState();
+    const { favorites, getInitialChapter, setFavorites } = usePersistentState();
     const { filteredBooks, setQuery } = useBookFilter(homeSearchQuery);
     const userLevel = useSpiritualLevel(favorites.length);
 
     const handleSelectBook = (id: string) => {
-        changeBook(id);
-        onOpenChat();
+        router.push(`/${id}/${getInitialChapter(id)}`);
     };
 
     const handleToggleLike = (id: string, targetBookId?: string) => {
@@ -45,7 +41,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
     return (
         <div className="h-full w-full bg-white overflow-hidden">
             <main data-viewport-scope="home" className="w-full flex flex-col h-full overflow-hidden font-sans">
-                <header data-aida="attention" className="border-b-4 border-black bg-[#FFD600] shrink-0 relative z-50">
+                <header data-aida="attention" className="border-b-4 border-black bg-[#FFD600] shrink-0 relative z-50 select-none">
                     <div className="safe-top" />
                     <div className="px-6 py-4 flex items-center justify-between">
                         <div className="flex flex-col text-left">
@@ -54,6 +50,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                         </div>
                         <div className="flex gap-3">
                             <Surface
+                                ariaLabel={showHomeSearch ? 'Cerrar búsqueda' : 'Buscar libro'}
                                 onClick={() => { setShowHomeSearch(!showHomeSearch); if (showHomeSearch) setQuery(''); }}
                                 className={`p-2 rounded-full border-2 transition-colors active:scale-95 ${showHomeSearch ? 'bg-black text-[#FFD600]' : 'bg-white'}`}
                             >
@@ -61,6 +58,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                             </Surface>
                             <div className="relative">
                                 <Surface
+                                    ariaLabel="Abrir centro de control"
                                     onClick={() => setShowHomeOptions(!showHomeOptions)}
                                     className={`p-2 rounded-full border-2 transition-colors active:scale-95 ${showHomeOptions ? 'bg-black text-[#FFD600]' : 'bg-white'}`}
                                 >
@@ -73,7 +71,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                                             initial={{ opacity: 0, scale: 0.9, y: 10 }}
                                             animate={{ opacity: 1, scale: 1, y: 0 }}
                                             exit={{ opacity: 0, scale: 0.9, y: 10 }}
-                                            className="absolute top-full right-0 mt-2 w-[85vw] sm:w-80 bg-white border-4 border-black shadow-[6px_6px_0_#0A0A0A] z-[100]"
+                                            className="absolute top-full right-0 mt-2 w-[85vw] sm:w-80 bg-white border-4 border-black shadow-[6px_6px_0_#0A0A0A] z-[100] select-none"
                                         >
                                             <div className="bg-black text-white p-3 text-[10px] font-black uppercase tracking-widest">Centro de Control</div>
                                             <div className="p-1">
@@ -106,7 +104,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                                                                 <span className="text-[9px] font-black uppercase tracking-[0.15em] text-gray-400">Estado de Sincronización</span>
                                                                 <span className="bg-black text-[#FFD600] px-2 py-0.5 text-[10px] font-black italic shadow-[2px_2px_0_rgba(0,0,0,0.1)]">{Math.floor(userLevel.progress)}%</span>
                                                             </div>
-                                                            <div className="h-6 border-4 border-black bg-gray-100 p-1 shadow-inner">
+                                                            <div className="h-6 border-4 border-black bg-gray-100 p-1 shadow-[inset_0_2px_4px_rgba(0,0,0,0.15)]">
                                                                 <motion.div
                                                                     initial={{ width: 0 }}
                                                                     animate={{ width: `${userLevel.progress}%` }}
@@ -157,6 +155,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                                         value={homeSearchQuery}
                                         onChange={(e) => setQuery(e.target.value)}
                                         placeholder="BUSCAR LIBRO..."
+                                        aria-label="Buscar libro"
                                         className="w-full bg-white border-4 border-black p-3 font-black uppercase tracking-tighter text-lg placeholder:text-gray-300 focus:outline-none shadow-[4px_4px_0_#0A0A0A]"
                                     />
                                 </div>
@@ -180,7 +179,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                             <GroupListItem
                                 key={book.id}
                                 book={book}
-                                lastChapter={isMounted ? getInitialChapter(book.id) : 1}
+                                lastChapter={hasMounted ? getInitialChapter(book.id) : 1}
                                 onSelect={handleSelectBook}
                             />
                         ))}
@@ -193,16 +192,16 @@ export const HomeView: React.FC<HomeViewProps> = ({ onOpenChat }) => {
                     </div>
                 </section>
 
-                <nav data-aida="action" className="fixed bottom-0 left-0 right-0 sm:absolute border-t-4 border-black bg-white/95 backdrop-blur-md px-6 py-3 pb-safe flex justify-around items-center shrink-0 z-50">
-                    <button className="flex flex-col items-center gap-1.5 transition-transform active:scale-90">
+                <nav data-aida="action" className="fixed bottom-0 left-0 right-0 sm:absolute border-t-4 border-black bg-white/95 backdrop-blur-md px-6 py-3 pb-safe flex justify-around items-center shrink-0 z-50 select-none">
+                    <button aria-label="Chats" className="flex flex-col items-center gap-1.5 transition-transform active:scale-90">
                         <MessageSquare className="w-6 h-6" />
                         <span className="text-[10px] font-black uppercase tracking-tighter">CHATS</span>
                     </button>
-                    <button className="flex flex-col items-center gap-1.5 opacity-20 grayscale transition-transform active:scale-90">
+                    <button aria-label="Community (próximamente)" className="flex flex-col items-center gap-1.5 opacity-20 grayscale transition-transform active:scale-90">
                         <Users className="w-6 h-6" />
                         <span className="text-[10px] font-black uppercase tracking-tighter">COMMUNITY</span>
                     </button>
-                    <button className="flex flex-col items-center gap-1.5 opacity-20 grayscale transition-transform active:scale-90">
+                    <button aria-label="Scriptorium (próximamente)" className="flex flex-col items-center gap-1.5 opacity-20 grayscale transition-transform active:scale-90">
                         <Book className="w-6 h-6" />
                         <span className="text-[10px] font-black uppercase tracking-tighter">SCRIPTORIUM</span>
                     </button>

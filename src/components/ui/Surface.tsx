@@ -10,6 +10,7 @@ interface SurfaceProps {
     dataCta?: 'primary' | 'secondary';
     active?: boolean;
     elevation?: boolean;
+    ariaLabel?: string;
 }
 
 export const Surface: React.FC<SurfaceProps> = ({
@@ -21,7 +22,8 @@ export const Surface: React.FC<SurfaceProps> = ({
     dataAida,
     dataCta,
     active,
-    elevation = true
+    elevation = true,
+    ariaLabel
 }) => {
     const isPrimary = dataCta === 'primary';
 
@@ -32,6 +34,7 @@ export const Surface: React.FC<SurfaceProps> = ({
             onTouchStart={onTouchStart}
             data-aida={dataAida}
             data-cta={dataCta}
+            aria-label={ariaLabel}
             className={`
                 border-2 border-[#0A0A0A] 
                 transition-all duration-150 ease-out

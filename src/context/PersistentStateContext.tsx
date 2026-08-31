@@ -1,70 +1,81 @@
-import React, { createContext, useContext, useState, useEffect } from 'react';
+'use client';
+
+import React, { createContext, useContext, useCallback, useSyncExternalStore } from 'react';
 import { FavoriteMessage } from '../types/bible';
 import { BIBLE_BOOKS } from '../constants/books';
+import { StorageService } from '../core/services/StorageService';
+
+const FAVORITES_STORAGE_KEY = 'naas:v1:favorites';
+const EMPTY_FAVORITES: FavoriteMessage[] = [];
+
+type FavoritesListener = () => void;
+const listeners = new Set<FavoritesListener>();
+
+let favoritesCache: FavoriteMessage[] | null = null;
+
+function readFavorites(): FavoriteMessage[] {
+    if (favoritesCache === null) {
+        favoritesCache = StorageService.getFavorites();
+    }
+    return favoritesCache;
+}
+
+function writeFavorites(next: FavoriteMessage[]): void {
+    favoritesCache = next;
+    StorageService.setFavorites(next);
+    listeners.forEach(listener => listener());
+}
+
+function subscribeFavorites(listener: FavoritesListener): () => void {
+    listeners.add(listener);
+    const onStorage = (event: StorageEvent) => {
+        if (event.key === FAVORITES_STORAGE_KEY || event.key === null) {
+            favoritesCache = null;
+            listener();
+        }
+    };
+    window.addEventListener('storage', onStorage);
+    return () => {
+        listeners.delete(listener);
+        window.removeEventListener('storage', onStorage);
+    };
+}
 
 interface PersistentState {
-    currentBookId: string;
-    currentChapter: number;
-    setCurrentChapter: (chapter: number) => void;
     favorites: FavoriteMessage[];
     setFavorites: React.Dispatch<React.SetStateAction<FavoriteMessage[]>>;
-    changeBook: (id: string) => void;
     getInitialChapter: (bookId: string) => number;
 }
 
 const PersistentStateContext = createContext<PersistentState | undefined>(undefined);
 
 export const PersistentStateProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-    const [currentBookId, setCurrentBookId] = useState<string>(() => {
-        if (typeof window === 'undefined') return 'genesis';
-        return localStorage.getItem('lastBook') || 'genesis';
-    });
+    const favorites = useSyncExternalStore(
+        subscribeFavorites,
+        readFavorites,
+        () => EMPTY_FAVORITES
+    );
 
-    const getInitialChapter = (bookId: string) => {
-        if (typeof window === 'undefined') return 1;
-        const saved = localStorage.getItem(`lastChapter_${bookId}`);
+    const setFavorites = useCallback((update: React.SetStateAction<FavoriteMessage[]>) => {
+        const current = readFavorites();
+        const next = typeof update === 'function' ? update(current) : update;
+        writeFavorites(next);
+    }, []);
+
+    const getInitialChapter = useCallback((bookId: string): number => {
         const book = BIBLE_BOOKS.find(b => b.id === bookId);
         if (!book) return 1;
-        const savedVal = saved ? Number(saved) : -1;
-        return book.availableChapters.includes(savedVal) ? savedVal : (book.availableChapters[0] || 1);
-    };
-
-    const [currentChapter, setCurrentChapter] = useState<number>(() => getInitialChapter(currentBookId));
-
-    const [favorites, setFavorites] = useState<FavoriteMessage[]>(() => {
-        if (typeof window === 'undefined') return [];
-        const saved = localStorage.getItem('bible_favorites');
-        return saved ? JSON.parse(saved) : [];
-    });
-
-    // Sync to local storage
-    useEffect(() => {
-        if (typeof window !== 'undefined') {
-            localStorage.setItem('lastBook', currentBookId);
-            localStorage.setItem(`lastChapter_${currentBookId}`, currentChapter.toString());
-            localStorage.setItem('bible_favorites', JSON.stringify(favorites));
-        }
-    }, [currentBookId, currentChapter, favorites]);
-
-    const changeBook = (id: string) => {
-        const initialChap = getInitialChapter(id);
-        setCurrentBookId(id);
-        setCurrentChapter(initialChap);
-        if (typeof window !== 'undefined') {
-            localStorage.setItem('lastBook', id);
-            localStorage.setItem(`lastChapter_${id}`, initialChap.toString());
-        }
-    };
+        const saved = StorageService.getLastChapter(bookId);
+        return saved !== null && book.availableChapters.includes(saved)
+            ? saved
+            : (book.availableChapters[0] || 1);
+    }, []);
 
     return (
         <PersistentStateContext.Provider value={{
-            currentBookId,
-            currentChapter,
-            setCurrentChapter,
             favorites,
             setFavorites,
-            changeBook,
-            getInitialChapter
+            getInitialChapter,
         }}>
             {children}
         </PersistentStateContext.Provider>
