@@ -15,4 +15,11 @@ export const ChapterDataSchema = z.object({
     messages: z.array(MessageSchema),
 });
 
+export const FavoriteMessageSchema = MessageSchema.extend({
+    bookId: z.string(),
+    bookName: z.string(),
+    chapter: z.number(),
+});
+
 export type ValidatedChapterData = z.infer<typeof ChapterDataSchema>;
+export type ValidatedFavoriteMessage = z.infer<typeof FavoriteMessageSchema>;

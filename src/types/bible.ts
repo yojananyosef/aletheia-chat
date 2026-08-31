@@ -2,7 +2,7 @@ import { MessageData, Speaker } from '../core/domain/Message';
 
 export type { Speaker };
 
-export interface Message extends MessageData { }
+export type Message = MessageData;
 
 export interface ChapterData {
     book: string;
