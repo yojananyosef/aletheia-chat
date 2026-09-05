@@ -3,10 +3,9 @@
   "splits": [
     {
       "id": "dijo-con-cita",
-      "pattern": "^(.*?\\b(?:dijo|respondió|llamó|bendijo|habló|clamó|preguntó|contestó)\\b[^:]*:)\\s*(.+)$",
+      "comment": "Tallos (cubre dijo/dijeron/dicho, respondió/respondieron, llamó, habló...). Los \\b los vuelve unicode-aware run.mjs (rx()). El corte múltiple lo hace el código: corta en cada 'verbo+:' válido, donde válido = primer corte del verso O segmento con fin de frase (?!.…) antes de la cola narrativa. Así '¿Conque Dios os ha dicho: No comáis...?' NO se fragmenta, pero '¿Quién te ha puesto...? Entonces Moisés tuvo miedo, y dijo: Ciertamente...' SÍ (burb1 Hebreo, narr, burb2 Moisés).",
+      "verbStem": "(dij[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+)",
       "flags": "i",
-      "narratorPart": "$1",
-      "speechPart": "$2",
       "minSpeechLen": 2
     }
   ],
@@ -18,6 +17,12 @@
     { "id": "adan-hombre", "pattern": "\\b(ad[aá]n|el hombre)\\b", "flags": "i", "speaker": "Adán", "confidence": 0.8 },
     { "id": "moises", "pattern": "\\b(mois[eé]s)\\b", "flags": "i", "speaker": "Moisés", "confidence": 0.9 },
     { "id": "faraon", "pattern": "\\b(fara[oó]n)\\b", "flags": "i", "speaker": "Faraón", "confidence": 0.9 },
+    { "id": "rey-egipto", "pattern": "\\b(rey de egipto)\\b", "flags": "i", "speaker": "Faraón", "confidence": 0.9 },
+    { "id": "parteras", "pattern": "\\b(parteras?)\\b", "flags": "i", "speaker": "Parteras", "confidence": 0.9 },
+    { "id": "hija-faraon", "pattern": "\\b(hija de fara[oó]n)\\b", "flags": "i", "speaker": "Hija de Faraón", "confidence": 0.9 },
+    { "id": "hermana", "pattern": "\\b(su hermana|la hermana|hermana)\\b", "flags": "i", "speaker": "Hermana", "confidence": 0.85 },
+    { "id": "reuel", "pattern": "\\b(reuel)\\b", "flags": "i", "speaker": "Reuel", "confidence": 0.9 },
+    { "id": "jetro", "pattern": "\\b(jetro|jethro)\\b", "flags": "i", "speaker": "Jetro", "confidence": 0.9 },
     { "id": "eva", "pattern": "\\b(eva)\\b", "flags": "i", "speaker": "Eva", "confidence": 0.9 }
   ],
   "aliases": {

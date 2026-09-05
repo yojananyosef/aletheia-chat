@@ -1,170 +1,178 @@
 {
     "book": "Éxodo",
     "chapter": 1,
-    "title": "Opresión de los israelitas en Egipto",
+    "title": "Éxodo 1",
     "messages": [
         {
-            "id": "ex1_sec1",
+            "id": "e1_sec1_ddf8",
             "speaker": "Sistema",
             "verse": 1,
-            "text": "Opresión de los israelitas en Egipto",
+            "text": "I. HASTA LA SALIDA DE EGIPTO",
             "isSectionTitle": true
         },
         {
-            "id": "ex1_1",
-            "speaker": "Narrador",
+            "id": "e1_sec1_d609",
+            "speaker": "Sistema",
             "verse": 1,
-            "text": "Estos fueron los nombres de los hijos de Israel (Jacob) que vinieron con él y sus familias a Egipto:"
+            "text": "Nombres de los hijos de Jacob",
+            "isSectionTitle": true
         },
         {
-            "id": "ex1_2",
+            "id": "e1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Éstos son los nombres de los hijos de Israel, que entraron en Egipto con Jacob; cada uno entró con su familia."
+        },
+        {
+            "id": "e1_2",
             "speaker": "Narrador",
             "verse": 2,
             "text": "Rubén, Simeón, Leví y Judá;"
         },
         {
-            "id": "ex1_3",
+            "id": "e1_3",
             "speaker": "Narrador",
             "verse": 3,
             "text": "Isacar, Zabulón y Benjamín;"
         },
         {
-            "id": "ex1_4",
+            "id": "e1_4",
             "speaker": "Narrador",
             "verse": 4,
             "text": "Dan y Neftalí, Gad y Aser."
         },
         {
-            "id": "ex1_5",
+            "id": "e1_5",
             "speaker": "Narrador",
             "verse": 5,
-            "text": "Allí Jacob tuvo 70 descendientes, incluyendo a José, que ya estaba en Egipto."
+            "text": "Y todas las almas de los que salieron de los lomos de Jacob, fueron setenta. Y José estaba en Egipto."
         },
         {
-            "id": "ex1_6",
+            "id": "e1_6",
             "speaker": "Narrador",
             "verse": 6,
-            "text": "Finalmente José, todos sus hermanos, y toda esa generación murieron."
+            "text": "Y murió José, y todos sus hermanos, y toda aquella generación."
         },
         {
-            "id": "ex1_7",
+            "id": "e1_7",
             "speaker": "Narrador",
             "verse": 7,
-            "text": "Sin embargo, los israelitas tenían muchos hijos y su número aumentaba rápidamente. De hecho, eran tantos que se volvieron muy poderosos, y el país estaba lleno de ellos."
+            "text": "Y los hijos de Israel fructificaron, y crecieron y se multiplicaron, y fueron aumentados y fortalecidos en extremo; y la tierra se llenó de ellos."
         },
         {
-            "id": "ex1_8",
+            "id": "e1_sec8_6117",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Opresión del pueblo de Israel",
+            "isSectionTitle": true
+        },
+        {
+            "id": "e1_8",
             "speaker": "Narrador",
             "verse": 8,
-            "text": "Entonces subió al poder un nuevo rey que no tenía ningún conocimiento acerca de José."
+            "text": "Entretanto, se levantó un nuevo rey sobre Egipto, que no conocía a José,"
         },
         {
-            "id": "ex1_9a",
+            "id": "e1_9a",
             "speaker": "Narrador",
             "verse": 9,
-            "text": "Este rey se reunió con sus compatriotas egipcios y les dijo:"
+            "text": "Y dijo a su pueblo:"
         },
         {
-            "id": "ex1_9b",
+            "id": "e1_9b",
             "speaker": "Faraón",
             "verse": 9,
-            "text": "Debemos tener cuidado con estos israelitas, pues son más numerosos y más poderosos que nosotros."
+            "text": "He aquí, el pueblo de los hijos de Israel es más grande y más fuerte que nosotros:"
         },
         {
-            "id": "ex1_10",
-            "speaker": "Faraón",
+            "id": "e1_10",
+            "speaker": "Narrador",
             "verse": 10,
-            "text": "Tenemos que hacer un plan para evitar que sigan multiplicándose, porque que si llega a haber una guerra, se pondrán del lado de nuestros enemigos, lucharán contra nosotros, y huirán del país."
+            "text": "Ahora, pues, seamos sabios para con él, no sea que se multiplique, y acontezca que viniendo guerra, él también se una con nuestros enemigos, y pelee contra nosotros, y se vaya de la tierra."
         },
         {
-            "id": "ex1_11",
+            "id": "e1_11",
             "speaker": "Narrador",
             "verse": 11,
-            "text": "Entonces los egipcios comenzaron a obligarlos a hacer trabajos forzados y asignaron capataces para que estuvieran a cargo de ellos. Los usaron para construir las ciudades de almacenamiento de Pitón y Ramsés."
+            "text": "Entonces pusieron sobre ellos comisarios de tributos para que los oprimieran con sus cargas. Y edificaron para Faraón las ciudades de abastecimiento, Pitón y Ramesés."
         },
         {
-            "id": "ex1_12",
+            "id": "e1_12",
             "speaker": "Narrador",
             "verse": 12,
-            "text": "Pero cuanto más maltrataban a los israelitas, más se multiplicaban y se extendían, y también los egipcios los detestaban aún más."
+            "text": "Pero cuanto más los oprimían, tanto más se multiplicaban y crecían; así que ellos estaban fastidiados de los hijos de Israel."
         },
         {
-            "id": "ex1_13",
+            "id": "e1_13",
             "speaker": "Narrador",
             "verse": 13,
-            "text": "Los egipcios trataban a los israelitas con violencia,"
+            "text": "Y los egipcios hicieron servir a los hijos de Israel con dureza;"
         },
         {
-            "id": "ex1_14",
+            "id": "e1_14",
             "speaker": "Narrador",
             "verse": 14,
-            "text": "haciendo de sus vidas una miseria. Los obligaban a hacer trabajos duros, construyendo con mortero y ladrillos, y haciendo todo tipo de trabajo pesado en los campos. Y en medio de todo este trabajo duro los trataban con crueldad."
+            "text": "y amargaron su vida con dura servidumbre, en hacer barro y ladrillo, y en toda labor del campo, y en todo su servicio, al cual los obligaban con rigor."
         },
         {
-            "id": "ex1_15",
+            "id": "e1_15a",
             "speaker": "Narrador",
             "verse": 15,
-            "text": "Entonces el rey les dio órdenes a las parteras hebreas Sifra y Fúa."
+            "text": "Y habló el rey de Egipto a las parteras de las hebreas, una de las cuales se llamaba Sifra, y otra Fúa, y les dijo:"
         },
         {
-            "id": "ex1_16a",
+            "id": "e1_16",
             "speaker": "Narrador",
             "verse": 16,
-            "text": "Y les dijo:"
+            "text": "Cuando asistáis a las hebreas en sus partos, y las mirareis sobre sus asientos, si fuere hijo, matadlo; y si fuere hija, entonces viva."
         },
         {
-            "id": "ex1_16b",
-            "speaker": "Faraón",
-            "verse": 16,
-            "text": "Cuando ayuden a las mujeres hebreas durante el parto, si ven que es un niño, mátenlo; pero si es una niña, déjenla vivir."
-        },
-        {
-            "id": "ex1_17",
+            "id": "e1_17",
             "speaker": "Narrador",
             "verse": 17,
-            "text": "Pero como las parteras respetaban a Dios, no hicieron lo que el rey de Egipto les había ordenado, sino que dejaban vivir a los niños también."
+            "text": "Mas las parteras temieron a Dios, y no hicieron como les mandó el rey de Egipto, sino que preservaban la vida a los niños."
         },
         {
-            "id": "ex1_18a",
+            "id": "e1_18a",
             "speaker": "Narrador",
             "verse": 18,
-            "text": "Entonces el rey de Egipto llamó a las parteras y les preguntó:"
+            "text": "Y el rey de Egipto hizo llamar a las parteras y les dijo:"
         },
         {
-            "id": "ex1_18b",
+            "id": "e1_18b",
             "speaker": "Faraón",
             "verse": 18,
-            "text": "¿Por qué han hecho esto, y han dejado vivir a los niños varones?"
+            "text": "¿Por qué habéis hecho esto, que habéis preservado la vida a los niños?"
         },
         {
-            "id": "ex1_19",
+            "id": "e1_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y las parteras respondieron a Faraón:"
+        },
+        {
+            "id": "e1_19b",
             "speaker": "Parteras",
             "verse": 19,
-            "text": "Las mujeres hebreas no son como las egipcias. Dan a luz más fácilmente, y tienen a sus hijos antes de que lleguen las parteras."
+            "text": "Porque las mujeres hebreas no son como las egipcias; porque son robustas, y dan a luz antes que la partera venga a ellas."
         },
         {
-            "id": "ex1_20",
+            "id": "e1_20",
             "speaker": "Narrador",
             "verse": 20,
-            "text": "Y Dios trató bien a las parteras, y el pueblo aumentó en número, así que había aún muchos más de ellos."
+            "text": "Y Dios hizo bien a las parteras: y el pueblo se multiplicó, y se fortaleció en gran manera."
         },
         {
-            "id": "ex1_21",
+            "id": "e1_21",
             "speaker": "Narrador",
             "verse": 21,
-            "text": "Y como las parteras reverenciaban a Dios, él les dio familias propias."
+            "text": "Y sucedió que por haber las parteras temido a Dios, Él les hizo casas."
         },
         {
-            "id": "ex1_22a",
+            "id": "e1_22",
             "speaker": "Narrador",
             "verse": 22,
-            "text": "Entonces el Faraón emitió esta orden a todo su pueblo:"
-        },
-        {
-            "id": "ex1_22b",
-            "speaker": "Faraón",
-            "verse": 22,
-            "text": "Arrojen al Nilo a todo niño hebreo que nazca, y por el contrario, dejen vivir a las niñas."
+            "text": "Entonces Faraón mandó a todo su pueblo, diciendo: Echad en el río a todo hijo que naciere, y a toda hija preservad la vida."
         }
     ]
 }

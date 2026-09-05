@@ -1,233 +1,250 @@
 {
     "book": "Éxodo",
     "chapter": 2,
-    "title": "Nacimiento de Moisés",
+    "title": "Éxodo 2",
     "messages": [
         {
-            "id": "ex2_sec1",
+            "id": "e2_sec1_637e",
             "speaker": "Sistema",
             "verse": 1,
             "text": "Nacimiento de Moisés",
             "isSectionTitle": true
         },
         {
-            "id": "ex2_1",
+            "id": "e2_1",
             "speaker": "Narrador",
             "verse": 1,
-            "text": "Fue en esa época que un hombre de la tribu de Leví se casó con una mujer que también era levita."
+            "text": "Un varón de la familia de Leví fue, y tomó por esposa a una hija de Leví:"
         },
         {
-            "id": "ex2_2",
+            "id": "e2_2",
             "speaker": "Narrador",
             "verse": 2,
-            "text": "Ella quedó embarazada y tuvo un hijo. Y viendo que era un bebé precioso, lo escondió durante tres meses."
+            "text": "La cual concibió, y dio a luz un hijo: y viéndole que era hermoso, le tuvo escondido tres meses."
         },
         {
-            "id": "ex2_3",
+            "id": "e2_3",
             "speaker": "Narrador",
             "verse": 3,
-            "text": "Pero cuando ya no pudo esconderlo más, cogió una cesta de papiro y la cubrió con alquitrán. Luego puso a su bebé en la cesta y lo colocó entre los juncos, a lo largo de la orilla del Nilo."
+            "text": "Pero no pudiendo ocultarle más tiempo, tomó una arquilla de juncos, y la calafateó con asfalto y betún, y colocó en ella al niño, y lo puso en un carrizal a la orilla del río:"
         },
         {
-            "id": "ex2_4",
+            "id": "e2_4",
             "speaker": "Narrador",
             "verse": 4,
-            "text": "Y la hermana del niño esperaba a cierta distancia, vigilándolo."
+            "text": "Y una hermana suya se paró a lo lejos, para ver lo que le acontecería."
         },
         {
-            "id": "ex2_5",
+            "id": "e2_sec5_536e",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "Moisés es adoptado por la hija del Faraón",
+            "isSectionTitle": true
+        },
+        {
+            "id": "e2_5",
             "speaker": "Narrador",
             "verse": 5,
-            "text": "Entonces la hija del Faraón llegó para bañarse en el Nilo. Sus criadas caminaban por la orilla del río, y cuando ella vio la cesta entre los juncos, envió a su criada a buscarla y traérsela."
+            "text": "Y la hija de Faraón descendió a lavarse al río, y paseándose sus doncellas por la ribera del río, vio ella la arquilla en el carrizal, y envió una criada suya a que la tomase."
         },
         {
-            "id": "ex2_sec2",
-            "speaker": "Sistema",
-            "verse": 6,
-            "text": "Moisés en casa de Faraón",
-            "isSectionTitle": true
-        },
-        {
-            "id": "ex2_6a",
+            "id": "e2_6a",
             "speaker": "Narrador",
             "verse": 6,
-            "text": "Al abrirla, vio al niño que lloraba y sintió pesar por él."
+            "text": "Y cuando la abrió, vio al niño; y he aquí que el niño lloraba. Y teniendo compasión de él, dijo:"
         },
         {
-            "id": "ex2_6b",
+            "id": "e2_6b",
             "speaker": "Hija de Faraón",
             "verse": 6,
-            "text": "Este debe ser uno de los niños hebreos."
+            "text": "De los niños de los hebreos es éste."
         },
         {
-            "id": "ex2_7a",
+            "id": "e2_7a",
             "speaker": "Narrador",
             "verse": 7,
-            "text": "Entonces la hermana del niño le preguntó a la hija del Faraón:"
+            "text": "Entonces su hermana dijo a la hija de Faraón:"
         },
         {
-            "id": "ex2_7b",
+            "id": "e2_7b",
             "speaker": "Hermana",
             "verse": 7,
-            "text": "¿Desea que vaya a buscar a una de las mujeres hebreas para que lo cuide por usted?"
+            "text": "¿Iré a llamarte a una nodriza de las hebreas, para que te críe este niño?"
         },
         {
-            "id": "ex2_8a",
-            "speaker": "Hija de Faraón",
-            "verse": 8,
-            "text": "Sí, ve y hazlo."
-        },
-        {
-            "id": "ex2_8b",
+            "id": "e2_8a",
             "speaker": "Narrador",
             "verse": 8,
-            "text": "Así que la niña fue y llamó a la madre del bebé para que viniera."
+            "text": "Y la hija de Faraón respondió:"
         },
         {
-            "id": "ex2_9a",
+            "id": "e2_8b",
+            "speaker": "Hija de Faraón",
+            "verse": 8,
+            "text": "Ve. Entonces fue la doncella, y llamó a la madre del niño;"
+        },
+        {
+            "id": "e2_9a",
             "speaker": "Narrador",
             "verse": 9,
-            "text": "La hija del Faraón le dijo a la madre del niño:"
+            "text": "A la cual dijo la hija de Faraón:"
         },
         {
-            "id": "ex2_9b",
+            "id": "e2_9b",
             "speaker": "Hija de Faraón",
             "verse": 9,
-            "text": "Toma a este niño y amamántalo por mí. Yo misma te pagaré."
+            "text": "Lleva este niño, y críamelo, y yo te lo pagaré. Y la mujer tomó al niño, y lo crió."
         },
         {
-            "id": "ex2_9c",
-            "speaker": "Narrador",
-            "verse": 9,
-            "text": "Así que su madre se lo llevó a casa y lo cuidó."
-        },
-        {
-            "id": "ex2_10",
+            "id": "e2_10",
             "speaker": "Narrador",
             "verse": 10,
-            "text": "Cuando el niño creció, se lo llevó a la hija del Faraón, quien lo adoptó como su hijo. Ella lo llamó Moisés, porque dijo: \"Yo lo saqué del agua\"."
+            "text": "Y cuando creció el niño, ella lo trajo a la hija de Faraón, la cual lo prohijó, y le puso por nombre Moisés, diciendo: Porque de las aguas lo saqué."
         },
         {
-            "id": "ex2_sec3",
+            "id": "e2_sec11_c619",
             "speaker": "Sistema",
             "verse": 11,
-            "text": "Moisés huye a Madián",
+            "text": "Huída de Moisés al desierto",
             "isSectionTitle": true
         },
         {
-            "id": "ex2_11",
+            "id": "e2_11",
             "speaker": "Narrador",
             "verse": 11,
-            "text": "Más tarde, cuando Moisés había crecido, fue a visitar a su pueblo, los hebreos. Los vio haciendo trabajos forzados. También vio a un egipcio golpeando a un hebreo, uno de su propio pueblo."
+            "text": "Y en aquellos días aconteció que, crecido ya Moisés, salió a sus hermanos, y vio sus cargas: y vio a un egipcio que hería a uno de los hebreos, sus hermanos."
         },
         {
-            "id": "ex2_12",
+            "id": "e2_12",
             "speaker": "Narrador",
             "verse": 12,
-            "text": "Entonces miró a su alrededor para asegurarse de que nadie estuviera mirando, y luego mató al egipcio y enterró su cuerpo en la arena."
+            "text": "Y miró a todas partes, y viendo que no parecía nadie, mató al egipcio, y lo escondió en la arena."
         },
         {
-            "id": "ex2_13a",
+            "id": "e2_13a",
             "speaker": "Narrador",
             "verse": 13,
-            "text": "Al día siguiente, regresó y vio a dos hebreos peleando entre sí. Entonces le dijo al culpable:"
+            "text": "Y salió al día siguiente, y viendo a dos hebreos que reñían, dijo al que hacía la injuria:"
         },
         {
-            "id": "ex2_13b",
+            "id": "e2_13b",
             "speaker": "Moisés",
             "verse": 13,
-            "text": "¿Por qué golpeas a uno de los tuyos?"
+            "text": "¿Por qué hieres a tu prójimo?"
         },
         {
-            "id": "ex2_14a",
+            "id": "e2_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "e2_14b",
             "speaker": "Hebreo",
             "verse": 14,
-            "text": "¿Quién te ha encargado como juez sobre nosotros? ¿Acaso vas a matarme como lo hiciste con el egipcio?"
+            "text": "¿Quién te ha puesto a ti por príncipe y juez sobre nosotros? ¿Piensas matarme como mataste al egipcio?"
         },
         {
-            "id": "ex2_14b",
+            "id": "e2_14c",
             "speaker": "Narrador",
             "verse": 14,
-            "text": "Entonces Moisés se asustó por esto y pensó para sí: \"¡La gente sabe lo que he hecho!\""
+            "text": "Entonces Moisés tuvo miedo, y dijo:"
         },
         {
-            "id": "ex2_15",
+            "id": "e2_14d",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Ciertamente esta cosa es descubierta."
+        },
+        {
+            "id": "e2_15",
             "speaker": "Narrador",
             "verse": 15,
-            "text": "Cuando el Faraón se enteró, trató de mandar a matar a Moisés, pero Moisés huyó del Faraón y se fue a vivir a Madián."
+            "text": "Y cuando Faraón escuchó esto, procuró matar a Moisés; pero Moisés huyó de delante de Faraón, y habitó en la tierra de Madián; y se sentó junto a un pozo."
         },
         {
-            "id": "ex2_16",
+            "id": "e2_16",
             "speaker": "Narrador",
             "verse": 16,
-            "text": "Un día, mientras estaba sentado junto a un pozo, las siete hijas del sacerdote de Madián vinieron a buscar agua para llenar los bebederos a fin de que el rebaño de su padre pudiera beber."
+            "text": "Tenía el sacerdote de Madián siete hijas, las cuales vinieron a sacar agua, para llenar las pilas y dar de beber a las ovejas de su padre."
         },
         {
-            "id": "ex2_17",
+            "id": "e2_17",
             "speaker": "Narrador",
             "verse": 17,
-            "text": "Entonces llegaron unos pastores y las echaron de allí, pero Moisés intervino y las puso a salvo, y le dio de beber a su rebaño."
+            "text": "Mas los pastores vinieron, y las echaron: Entonces Moisés se levantó y las defendió, y abrevó sus ovejas."
         },
         {
-            "id": "ex2_18a",
+            "id": "e2_18a",
             "speaker": "Narrador",
             "verse": 18,
-            "text": "Cuando llegaron a casa, su padre Reuel les preguntó:"
+            "text": "Y volviendo ellas a Reuel su padre, les dijo él:"
         },
         {
-            "id": "ex2_18b",
+            "id": "e2_18b",
             "speaker": "Reuel",
             "verse": 18,
-            "text": "¿Cómo es que hoy han regresado tan rápido?"
+            "text": "¿Por qué habéis venido hoy tan pronto?"
         },
         {
-            "id": "ex2_19",
+            "id": "e2_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y ellas respondieron:"
+        },
+        {
+            "id": "e2_19b",
             "speaker": "Hijas",
             "verse": 19,
-            "text": "Un egipcio nos rescató de unos pastores que nos atacaron. Incluso nos trajo agua para que el rebaño pudiera beber."
+            "text": "Un varón egipcio nos defendió de mano de los pastores, y también nos sacó el agua, y abrevó las ovejas."
         },
         {
-            "id": "ex2_20",
+            "id": "e2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y dijo a sus hijas:"
+        },
+        {
+            "id": "e2_20b",
             "speaker": "Reuel",
             "verse": 20,
-            "text": "¿Y dónde está? No lo dejaste allí, ¿verdad? ¡Ve e invítalo a comer con nosotros!"
+            "text": "¿Y dónde está? ¿Por qué habéis dejado ese hombre? llamadle para que coma pan."
         },
         {
-            "id": "ex2_21",
+            "id": "e2_21",
             "speaker": "Narrador",
             "verse": 21,
-            "text": "Y Moisés aceptó quedarse con el hombre, quien arregló que su hija Séfora se casara con Moisés."
+            "text": "Y Moisés acordó en morar con aquel varón; y él dio a Moisés a su hija Séfora."
         },
         {
-            "id": "ex2_22",
+            "id": "e2_22a",
             "speaker": "Narrador",
             "verse": 22,
-            "text": "Ella tuvo un hijo y Moisés le puso el nombre de Gersón, porque dijo: \"Soy un exiliado que vive en un país extranjero\"."
+            "text": "Y ella le dio a luz un hijo, y él le puso por nombre Gersón, porque dijo:"
         },
         {
-            "id": "ex2_sec4",
-            "speaker": "Sistema",
-            "verse": 23,
-            "text": "Dios oye a Israel",
-            "isSectionTitle": true
+            "id": "e2_22b",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Peregrino soy en tierra ajena."
         },
         {
-            "id": "ex2_23",
+            "id": "e2_23",
             "speaker": "Narrador",
             "verse": 23,
-            "text": "Años más tarde, el rey de Egipto murió. Pero los israelitas seguían quejándose por su duro trabajo. Su clamor pidiendo ayuda en medio de sus dificultades llegó hasta Dios."
+            "text": "Y aconteció que después de muchos días murió el rey de Egipto, y los hijos de Israel gemían a causa de la servidumbre, y clamaron; y subió a Dios el clamor de ellos con motivo de su servidumbre."
         },
         {
-            "id": "ex2_24",
+            "id": "e2_24",
             "speaker": "Narrador",
             "verse": 24,
-            "text": "Dios escuchó sus gemidos y se acordó de su pacto con Abraham, Isaac, y Jacob."
+            "text": "Y oyó Dios el gemido de ellos, y se acordó Dios de su pacto con Abraham, Isaac y Jacob."
         },
         {
-            "id": "ex2_25",
+            "id": "e2_25",
             "speaker": "Narrador",
             "verse": 25,
-            "text": "Además Dios miraba con compasión a los israelitas, y se preocupaba por ellos."
+            "text": "Y miró Dios a los hijos de Israel, y los reconoció Dios."
         }
     ]
 }

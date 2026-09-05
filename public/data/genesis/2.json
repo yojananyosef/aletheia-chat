@@ -1,183 +1,190 @@
 {
     "book": "Génesis",
     "chapter": 2,
-    "title": "",
+    "title": "Génesis 2",
     "messages": [
+        {
+            "id": "g2_sec1_320a",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Dios santifica el sábado",
+            "isSectionTitle": true
+        },
         {
             "id": "g2_1",
             "speaker": "Narrador",
             "verse": 1,
-            "text": "La creación de los cielos, la tierra y todo lo que hay en ellos quedó terminada."
+            "text": "Y fueron acabados los cielos y la tierra, y todo el ejército de ellos."
         },
         {
             "id": "g2_2",
             "speaker": "Narrador",
             "verse": 2,
-            "text": "Cuando llegó el séptimo día, Dios había terminado el trabajo que había hecho, y descansó en el séptimo día de todo el trabajo que había estado haciendo."
+            "text": "Y acabó Dios en el séptimo día su obra que había hecho, y reposó en el séptimo día de toda su obra que había hecho."
         },
         {
             "id": "g2_3",
             "speaker": "Narrador",
             "verse": 3,
-            "text": "Entonces Dios bendijo el séptimo día y lo apartó como día santo, porque en él descansó de todo el trabajo que había hecho en la creación."
+            "text": "Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda su obra que Dios había creado y hecho."
         },
         {
-            "id": "g2_sec2",
+            "id": "g2_sec4_3ef7",
             "speaker": "Sistema",
             "verse": 4,
-            "text": "El huerto del Edén",
+            "text": "El paraíso",
             "isSectionTitle": true
         },
         {
             "id": "g2_4",
             "speaker": "Narrador",
             "verse": 4,
-            "text": "Este es el relato de la creación del Señor Dios cuando hizo los cielos y la tierra."
+            "text": "Éstos son los orígenes de los cielos y de la tierra cuando fueron creados, el día que Jehová Dios hizo la tierra y los cielos,"
         },
         {
             "id": "g2_5",
             "speaker": "Narrador",
             "verse": 5,
-            "text": "Hasta este momento no había plantas silvestres ni cultivos creciendo sobre la tierra, porque el Señor Dios no había enviado la lluvia, y porque no había quien cultivara el suelo."
+            "text": "y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese; porque aún no había Jehová Dios hecho llover sobre la tierra, ni había hombre para que labrase la tierra,"
         },
         {
             "id": "g2_6",
             "speaker": "Narrador",
             "verse": 6,
-            "text": "El rocío brotaba de la tierra y hacía que la superficie del suelo estuviera húmeda."
+            "text": "sino que subía de la tierra un vapor, que regaba toda la faz de la tierra."
         },
         {
             "id": "g2_7",
             "speaker": "Narrador",
             "verse": 7,
-            "text": "Entonces el Señor formó al hombre Adán con polvo de la tierra. Y sopló en sus fosas nasales el aliento de vida, y Adán se convirtió en un ser vivo."
+            "text": "Formó, pues, Jehová Dios al hombre del polvo de la tierra, y sopló en su nariz aliento de vida; y fue el hombre un alma viviente."
         },
         {
             "id": "g2_8",
             "speaker": "Narrador",
             "verse": 8,
-            "text": "Entonces el Señor sembró un jardín en Edén, al oriente. Allí puso al hombre Adán, a quien había creado."
+            "text": "Y Jehová Dios plantó un huerto en Edén, al oriente, y puso allí al hombre que había formado."
         },
         {
             "id": "g2_9",
             "speaker": "Narrador",
             "verse": 9,
-            "text": "El Señor creó toda clase de árboles para que crecieran en el jardín, árboles hermosos y árboles que producían frutas agradables al paladar. El árbol de la vida se encontraba en medio del jardín, así como el árbol del conocimiento del bien y del mal."
+            "text": "Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista, y bueno para comer: también el árbol de la vida en medio del huerto, y el árbol del conocimiento del bien y el mal."
         },
         {
             "id": "g2_10",
             "speaker": "Narrador",
             "verse": 10,
-            "text": "De Edén salía un río que regaba el jardín, y desde allí se dividía en cuatro brazos."
+            "text": "Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro ramales."
         },
         {
             "id": "g2_11",
             "speaker": "Narrador",
             "verse": 11,
-            "text": "El primero fue llamado Pisón, y pasaba por toda la tierra de Havila, donde había oro."
+            "text": "El nombre del uno era Pisón; éste es el que rodea toda la tierra de Havila, donde hay oro;"
         },
         {
             "id": "g2_12",
             "speaker": "Narrador",
             "verse": 12,
-            "text": "(El oro de esta tierra es puro. Allí también hay bedelio y ónice)."
+            "text": "y el oro de aquella tierra es bueno; hay allí también bedelio y piedra ónice."
         },
         {
             "id": "g2_13",
             "speaker": "Narrador",
             "verse": 13,
-            "text": "El segundo brazo fue llamado Gijón y rodea toda la tierra de Cus."
+            "text": "El nombre del segundo río es Gihón: éste es el que rodea toda la tierra de Etiopía."
         },
         {
             "id": "g2_14",
             "speaker": "Narrador",
             "verse": 14,
-            "text": "El tercer brazo fue llamado Tigris y rodeaba el oriente de la ciudad de Asur. El cuarto brazo fue llamado Éufrates."
+            "text": "Y el nombre del tercer río es Hidekel; éste es el que va delante de Asiria. Y el cuarto río es el Éufrates."
         },
         {
             "id": "g2_15",
             "speaker": "Narrador",
             "verse": 15,
-            "text": "El Señor Dios puso al hombre en el Jardín de Edén para que lo cultivara y cuidara de él."
+            "text": "Tomó, pues, Jehová Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase."
         },
         {
-            "id": "g2_16a",
+            "id": "g2_16",
             "speaker": "Narrador",
             "verse": 16,
-            "text": "El Señor Dios le dio orden a Adán:"
-        },
-        {
-            "id": "g2_16b",
-            "speaker": "Dios",
-            "verse": 16,
-            "text": "Eres libre de comer el fruto de todos los árboles del jardín,"
+            "text": "Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto libremente podrás comer;"
         },
         {
             "id": "g2_17",
-            "speaker": "Dios",
+            "speaker": "Narrador",
             "verse": 17,
-            "text": "pero no debes comer del árbol del conocimiento del bien y del mal, porque el día que comas de él, será seguro que morirás."
+            "text": "pero del árbol del conocimiento del bien y el mal no comerás; porque el día que de él comieres, ciertamente morirás."
         },
         {
-            "id": "g2_sec3",
+            "id": "g2_sec18_f976",
             "speaker": "Sistema",
             "verse": 18,
-            "text": "Formación de la mujer",
+            "text": "Creación de la mujer",
             "isSectionTitle": true
         },
         {
             "id": "g2_18a",
             "speaker": "Narrador",
             "verse": 18,
-            "text": "Entonces el Señor Dios dijo:"
+            "text": "Y dijo Jehová Dios:"
         },
         {
             "id": "g2_18b",
             "speaker": "Dios",
             "verse": 18,
-            "text": "No es bueno que Adán esté solo. Haré a alguien que lo ayude, alguien que sea como él."
+            "text": "No es bueno que el hombre esté solo; le haré ayuda idónea para él."
         },
         {
             "id": "g2_19",
             "speaker": "Narrador",
             "verse": 19,
-            "text": "El Señor Dios usó la tierra para hacer a los animales salvajes y a todas las aves. A todos los animales los trajo hasta donde estaba Adán para que les pusiera nombre, y Adán puso nombre a cada criatura viviente."
+            "text": "Formó, pues, Jehová Dios de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán, para que viese cómo les había de llamar; y de la manera que Adán llamó a los animales vivientes, ése es su nombre."
         },
         {
             "id": "g2_20",
             "speaker": "Narrador",
             "verse": 20,
-            "text": "Adán le puso nombre a todo el ganado, a todas las aves, y a los animales salvajes. Pero Adán no encontraba a nadie que pudiera ayudarlo."
+            "text": "Y puso nombres a toda bestia y ave de los cielos y a todo animal del campo: mas para Adán no se halló ayuda idónea para él."
         },
         {
             "id": "g2_21",
             "speaker": "Narrador",
             "verse": 21,
-            "text": "Así que el Señor hizo que Adán durmiera profundamente, y mientras dormía Dios quitó una de las costillas de Adán y después volvió a cerrar el lugar del cual tomó el tejido."
+            "text": "Y Jehová Dios hizo caer sueño profundo sobre Adán, y se quedó dormido; entonces tomó una de sus costillas, y cerró la carne en su lugar;"
         },
         {
             "id": "g2_22",
             "speaker": "Narrador",
             "verse": 22,
-            "text": "Y el Señor hizo a una mujer, usando la costilla que había tomado de Adán, y entonces se la presentó a Adán."
+            "text": "Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre."
         },
         {
-            "id": "g2_23",
+            "id": "g2_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dijo Adán:"
+        },
+        {
+            "id": "g2_23b",
             "speaker": "Adán",
             "verse": 23,
-            "text": "¡Por fin! Esta es hueso de mis huesos y carne de mi carne. Ella será llamada mujer, porque fue sacada del hombre."
+            "text": "Ésta es ahora hueso de mis huesos, y carne de mi carne; ella será llamada Varona, porque del varón fue tomada."
         },
         {
             "id": "g2_24",
             "speaker": "Narrador",
             "verse": 24,
-            "text": "Esta es la razón por la cual el hombre deja a su padre y a su madre y se une a su esposa, y los dos se vuelven un solo ser."
+            "text": "Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su esposa, y serán una sola carne."
         },
         {
             "id": "g2_25",
             "speaker": "Narrador",
             "verse": 25,
-            "text": "Adán y su esposa Eva estaban desnudos, pero no sentían vergüenza por ello."
+            "text": "Y estaban ambos desnudos, Adán y su esposa, y no se avergonzaban."
         }
     ]
 }

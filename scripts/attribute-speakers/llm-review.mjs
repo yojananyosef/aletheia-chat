@@ -69,16 +69,42 @@ if (!applyFile) {
   if (!write) {
     process.stdout.write(JSON.stringify({ cacheKey: `sha1:${sha}`, resolved: items.length, items }, null, 2) + '\n');
   } else {
-    // Re-emitir capítulo fusionando resolved sobre diagnóstico
-    const { messages } = attributeChapter({ verses, slug, chapter, patterns, participants });
-    const byKey = new Map(items.map(it => [`${it.verse}${it.subId}`, it.speaker]));
-    for (const m of messages) {
-      const verseMatch = m.id.match(/_(\d+)([a-z]*)$/);
-      const key = verseMatch ? `${verseMatch[1]}${verseMatch[2]}` : null;
-      if (key && byKey.has(key)) m.speaker = byKey.get(key);
-    }
+    // Si ya existe public/data/<slug>/<ch>.json (p. ej. generado con --platense-headings),
+    // fusionar speakers sobre él para no perder títulos/headings. Si no, regenerar.
     const dest = join(HERE, '..', '..', 'public', 'data', slug, `${chapter}.json`);
-    writeFileSync(dest, JSON.stringify({ book: srcBook.bookName, chapter, title: `${srcBook.bookName} ${chapter}`, messages }, null, 4) + '\n');
-    process.stderr.write(`# Fusionados ${items.length} speakers en ${dest}\n`);
+    const byKey = new Map(items.map(it => [`${it.verse}${it.subId}`, it]));
+    let messages;
+    let book;
+    let title;
+    try {
+      const existing = JSON.parse(readFileSync(dest, 'utf8'));
+      messages = existing.messages;
+      book = existing.book;
+      title = existing.title;
+    } catch {
+      const fresh = attributeChapter({ verses, slug, chapter, patterns, participants });
+      messages = fresh.messages;
+      book = srcBook.bookName;
+      title = `${srcBook.bookName} ${chapter}`;
+    }
+    let fused = 0;
+    for (const m of messages) {
+      const verseMatch = m.id.match(/_(\d+)([a-z0-9]*)$/);
+      const key = verseMatch ? `${verseMatch[1]}${verseMatch[2]}` : null;
+      const it = key && byKey.get(key);
+      if (it && m.speaker !== it.speaker) {
+        m.speaker = it.speaker;
+        fused++;
+      }
+    }
+    // Validar que todos los items encontraron su mensaje
+    const ids = new Set(messages.map(m => {
+      const vm = m.id.match(/_(\d+)([a-z0-9]*)$/);
+      return vm ? `${vm[1]}${vm[2]}` : null;
+    }));
+    const missing = items.filter(it => !ids.has(`${it.verse}${it.subId}`));
+    if (missing.length) throw new Error(`items sin mensaje destino: ${JSON.stringify(missing)}`);
+    writeFileSync(dest, JSON.stringify({ book, chapter, title, messages }, null, 4) + '\n');
+    process.stderr.write(`# Fusionados ${fused}/${items.length} speakers en ${dest}\n`);
   }
 }
