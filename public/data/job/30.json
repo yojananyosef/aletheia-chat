@@ -1,0 +1,193 @@
+{
+    "book": "Job",
+    "chapter": 30,
+    "title": "Job 30",
+    "messages": [
+        {
+            "id": "job30_1",
+            "speaker": "Job",
+            "verse": 1,
+            "text": "Pero ahora se ríen de mí los más jóvenes que yo; a cuyos padres yo desdeñara poner con los perros de mi ganado."
+        },
+        {
+            "id": "job30_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "¿Y de qué me serviría la fuerza de sus manos, si el vigor de ellos ha perecido?"
+        },
+        {
+            "id": "job30_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "Por causa de la pobreza y del hambre andaban solos; huían a la soledad, a lugar tenebroso, asolado y desierto."
+        },
+        {
+            "id": "job30_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Recogían malvas entre los arbustos, y raíces de enebro para calentarse."
+        },
+        {
+            "id": "job30_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "Eran arrojados de entre las gentes, les gritaban como tras el ladrón."
+        },
+        {
+            "id": "job30_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "Habitaban en las barrancas de los arroyos, en las cavernas de la tierra, y en las rocas."
+        },
+        {
+            "id": "job30_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Bramaban entre las matas, y se reunían debajo de los espinos."
+        },
+        {
+            "id": "job30_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "Eran hijos de viles, y hombres sin nombre, más bajos que la misma tierra."
+        },
+        {
+            "id": "job30_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "Y ahora yo soy su canción, y he venido a ser su refrán."
+        },
+        {
+            "id": "job30_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Me abominan, se alejan de mí, y aun de mi rostro no detuvieron su saliva."
+        },
+        {
+            "id": "job30_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Porque Dios desató mi cuerda, y me afligió, por eso se desenfrenaron delante de mi rostro."
+        },
+        {
+            "id": "job30_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "A la mano derecha se levantaron los jóvenes; Empujaron mis pies, y prepararon contra mí los caminos de su destrucción."
+        },
+        {
+            "id": "job30_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Mi senda desbarataron, se aprovecharon de mi quebrantamiento, contra los cuales no hubo ayudador."
+        },
+        {
+            "id": "job30_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "Vinieron como por portillo ancho, en mi calamidad, se volvieron contra mí."
+        },
+        {
+            "id": "job30_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "Terrores se han vuelto sobre mí; combatieron como el viento mi alma, y mi prosperidad pasó como nube"
+        },
+        {
+            "id": "job30_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Y ahora mi alma está derramada en mí; días de aflicción se han apoderado de mí."
+        },
+        {
+            "id": "job30_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "De noche taladra sobre mí mis huesos, y los que me roen no reposan."
+        },
+        {
+            "id": "job30_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "Con gran fuerza es desfigurada mi vestidura; me ciñe como el cuello de mi túnica."
+        },
+        {
+            "id": "job30_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "Me derribó en el lodo, y soy semejante al polvo y la ceniza."
+        },
+        {
+            "id": "job30_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "Clamo a ti, y no me oyes; me presento, y no me atiendes."
+        },
+        {
+            "id": "job30_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Te has vuelto cruel para mí; con el poder de tu mano me persigues."
+        },
+        {
+            "id": "job30_22",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "Me levantaste, me hiciste cabalgar sobre el viento, y disolviste mi sustancia."
+        },
+        {
+            "id": "job30_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "Pues yo sé que me llevarás a la muerte; y a la casa determinada a todo viviente."
+        },
+        {
+            "id": "job30_24",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "Sin embargo Él no extenderá su mano contra el sepulcro; aunque clamen cuando Él los quebrante?"
+        },
+        {
+            "id": "job30_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "¿No lloré yo al afligido? ¿No se entristeció mi alma sobre el menesteroso?"
+        },
+        {
+            "id": "job30_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "Cuando esperaba yo el bien, entonces vino el mal; y cuando esperaba la luz, vino la oscuridad."
+        },
+        {
+            "id": "job30_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "Mis entrañas hierven, y no reposan; días de aflicción me han sobrevenido."
+        },
+        {
+            "id": "job30_28",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "Denegrido ando, y no por el sol; me he levantado en la congregación y he clamado."
+        },
+        {
+            "id": "job30_29",
+            "speaker": "Job",
+            "verse": 29,
+            "text": "He venido a ser hermano de los dragones, y compañero de los búhos."
+        },
+        {
+            "id": "job30_30",
+            "speaker": "Job",
+            "verse": 30,
+            "text": "Mi piel está denegrida sobre mí, y mis huesos se han quemado del calor."
+        },
+        {
+            "id": "job30_31",
+            "speaker": "Job",
+            "verse": 31,
+            "text": "Y mi arpa se ha vuelto en luto, y mi flauta en voz de lamentadores."
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "book": "Job",
+    "chapter": 2,
+    "title": "Job 2",
+    "messages": [
+        {
+            "id": "job2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y otro día aconteció que vinieron los hijos de Dios para presentarse delante de Jehová, y Satanás vino también entre ellos para presentarse delante de Jehová."
+        },
+        {
+            "id": "job2_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo Jehová a Satanás:"
+        },
+        {
+            "id": "job2_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "¿De dónde vienes?"
+        },
+        {
+            "id": "job2_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Respondió Satanás a Jehová, y dijo:"
+        },
+        {
+            "id": "job2_2d",
+            "speaker": "Satán",
+            "verse": 2,
+            "text": "De rodear la tierra, y de andar por ella."
+        },
+        {
+            "id": "job2_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Jehová dijo a Satanás:"
+        },
+        {
+            "id": "job2_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "¿No has considerado a mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado del mal, y que aún retiene su integridad, a pesar de que tú me incitaste contra él para que lo arruinara sin causa?"
+        },
+        {
+            "id": "job2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y respondiendo Satanás dijo a Jehová:"
+        },
+        {
+            "id": "job2_4b",
+            "speaker": "Satán",
+            "verse": 4,
+            "text": "Piel por piel, todo lo que el hombre tiene dará por su vida."
+        },
+        {
+            "id": "job2_5",
+            "speaker": "Satán",
+            "verse": 5,
+            "text": "Mas extiende ahora tu mano, y toca su hueso y su carne, y verás si no te maldice en tu rostro."
+        },
+        {
+            "id": "job2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Jehová dijo a Satanás:"
+        },
+        {
+            "id": "job2_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "He aquí, él está en tu mano; mas guarda su vida."
+        },
+        {
+            "id": "job2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y salió Satanás de delante de Jehová, e hirió a Job de unas llagas malignas desde la planta de su pie hasta la coronilla de su cabeza."
+        },
+        {
+            "id": "job2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y tomó Job un tiesto para rascarse con él, y se sentó en medio de ceniza."
+        },
+        {
+            "id": "job2_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces su esposa le dijo:"
+        },
+        {
+            "id": "job2_9b",
+            "speaker": "Esposa",
+            "verse": 9,
+            "text": "¿Aún retienes tu integridad? Maldice a Dios y muérete."
+        },
+        {
+            "id": "job2_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "job2_10b",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Como suele hablar cualquiera de las mujeres fatuas, has hablado. ¿Recibiremos de Dios el bien, y el mal no lo recibiremos? En todo esto no pecó Job con sus labios."
+        },
+        {
+            "id": "job2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y tres amigos de Job, Elifaz temanita, Bildad suhita y Zofar naamatita, luego que oyeron todo este mal que le había sobrevenido, vinieron cada uno de su lugar; porque habían concertado de venir juntos para condolerse de él y para consolarle."
+        },
+        {
+            "id": "job2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando alzaron los ojos desde lejos y no lo conocieron, alzaron su voz y lloraron; y cada uno de ellos rasgó su manto, y esparcieron polvo hacia el cielo sobre sus cabezas."
+        },
+        {
+            "id": "job2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Así se sentaron con él en tierra por siete días y siete noches, y ninguno le hablaba palabra, porque veían que su dolor era muy grande."
+        }
+    ]
+}

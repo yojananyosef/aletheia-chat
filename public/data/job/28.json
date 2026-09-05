@@ -1,0 +1,193 @@
+{
+    "book": "Job",
+    "chapter": 28,
+    "title": "Job 28",
+    "messages": [
+        {
+            "id": "job28_1",
+            "speaker": "Job",
+            "verse": 1,
+            "text": "Ciertamente la plata tiene sus veneros, y el oro lugar donde se refina."
+        },
+        {
+            "id": "job28_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "El hierro se saca del polvo, y de la piedra es fundido el bronce."
+        },
+        {
+            "id": "job28_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "A las tinieblas puso término, y examina todo a la perfección, las piedras que hay en la oscuridad y en la sombra de muerte."
+        },
+        {
+            "id": "job28_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Brota el torrente de junto al morador, aguas que el pie había olvidado; se secan luego, se van del hombre."
+        },
+        {
+            "id": "job28_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "De la tierra nace el pan, y debajo de ella está como convertida en fuego."
+        },
+        {
+            "id": "job28_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "Lugar hay cuyas piedras son zafiro, y sus polvos de oro."
+        },
+        {
+            "id": "job28_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Hay senda que el ave no conoce, ni ojo de buitre ha visto;"
+        },
+        {
+            "id": "job28_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "los cachorros de león no la han pisado, ni el fiero león pasó por ella."
+        },
+        {
+            "id": "job28_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "En el pedernal puso su mano, y trastornó de raíz los montes."
+        },
+        {
+            "id": "job28_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "De los peñascos cortó ríos, y sus ojos vieron todo lo preciado."
+        },
+        {
+            "id": "job28_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Detuvo los ríos en su nacimiento, e hizo salir a luz lo escondido."
+        },
+        {
+            "id": "job28_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Mas ¿dónde se hallará la sabiduría? ¿Y dónde está el lugar de la inteligencia?"
+        },
+        {
+            "id": "job28_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "No conoce su valor el hombre, ni se halla en la tierra de los vivientes."
+        },
+        {
+            "id": "job28_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "El abismo dice:"
+        },
+        {
+            "id": "job28_14b",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "No está en mí: Y el mar dijo: Ni conmigo."
+        },
+        {
+            "id": "job28_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "No se dará por oro, ni su precio será a peso de plata."
+        },
+        {
+            "id": "job28_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "No puede ser apreciada con oro de Ofir, ni con ónice precioso, ni con zafiro."
+        },
+        {
+            "id": "job28_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "El oro no se le igualará, ni el diamante; ni se cambiará por joyas de oro fino."
+        },
+        {
+            "id": "job28_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "No se hará mención de coral ni de perlas: La sabiduría es mejor que las piedras preciosas."
+        },
+        {
+            "id": "job28_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "No se igualará con ella topacio de Etiopía; no se podrá apreciar con oro fino."
+        },
+        {
+            "id": "job28_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "¿De dónde, pues, vendrá la sabiduría? ¿Y dónde está el lugar de la inteligencia?"
+        },
+        {
+            "id": "job28_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Porque encubierta está a los ojos de todo viviente, y a toda ave del cielo es oculta."
+        },
+        {
+            "id": "job28_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "La destrucción y la muerte dijeron:"
+        },
+        {
+            "id": "job28_22b",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "Su fama hemos oído con nuestros oídos."
+        },
+        {
+            "id": "job28_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "Dios entiende el camino de ella, y Él conoce su lugar."
+        },
+        {
+            "id": "job28_24",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "Porque Él mira hasta los confines de la tierra, y ve debajo de todo el cielo."
+        },
+        {
+            "id": "job28_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "Al dar peso al viento, y poner las aguas por medida;"
+        },
+        {
+            "id": "job28_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "Cuando Él hizo ley para la lluvia, y camino para el relámpago de los truenos:"
+        },
+        {
+            "id": "job28_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "Entonces Él la vio, y la manifestó: La preparó y también la escudriñó."
+        },
+        {
+            "id": "job28_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dijo al hombre:"
+        },
+        {
+            "id": "job28_28b",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "He aquí que el temor del Señor es la sabiduría, y el apartarse del mal, la inteligencia."
+        }
+    ]
+}

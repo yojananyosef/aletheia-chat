@@ -1,0 +1,181 @@
+{
+    "book": "Job",
+    "chapter": 20,
+    "title": "Job 20",
+    "messages": [
+        {
+            "id": "job20_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Respondió entonces Zofar el naamatita, y dijo:"
+        },
+        {
+            "id": "job20_2",
+            "speaker": "Zofar",
+            "verse": 2,
+            "text": "Por cierto mis pensamientos me hacen responder, y por tanto me apresuro."
+        },
+        {
+            "id": "job20_3",
+            "speaker": "Zofar",
+            "verse": 3,
+            "text": "La reprensión de mi censura he oído, y me hace responder el espíritu de mi inteligencia."
+        },
+        {
+            "id": "job20_4",
+            "speaker": "Zofar",
+            "verse": 4,
+            "text": "¿No sabes esto, que desde la antigüedad, desde que el hombre fue puesto sobre la tierra;"
+        },
+        {
+            "id": "job20_5",
+            "speaker": "Zofar",
+            "verse": 5,
+            "text": "que la alegría de los impíos es breve, y el gozo del hipócrita sólo por un momento?"
+        },
+        {
+            "id": "job20_6",
+            "speaker": "Zofar",
+            "verse": 6,
+            "text": "Aunque subiere su altivez hasta el cielo, y su cabeza tocare las nubes,"
+        },
+        {
+            "id": "job20_7",
+            "speaker": "Zofar",
+            "verse": 7,
+            "text": "como su estiércol perecerá para siempre; los que le hubieren visto, dirán: ¿Qué es de él?"
+        },
+        {
+            "id": "job20_8",
+            "speaker": "Zofar",
+            "verse": 8,
+            "text": "Como sueño volará, y no será hallado, y se disipará como visión nocturna."
+        },
+        {
+            "id": "job20_9",
+            "speaker": "Zofar",
+            "verse": 9,
+            "text": "El ojo que le vio, nunca más le verá; ni su lugar le contemplará ya más."
+        },
+        {
+            "id": "job20_10",
+            "speaker": "Zofar",
+            "verse": 10,
+            "text": "Sus hijos buscarán el favor de los pobres; y sus manos devolverán lo que él robó."
+        },
+        {
+            "id": "job20_11",
+            "speaker": "Zofar",
+            "verse": 11,
+            "text": "Sus huesos están llenos del pecado de su juventud, yacerán con él en el polvo."
+        },
+        {
+            "id": "job20_12",
+            "speaker": "Zofar",
+            "verse": 12,
+            "text": "Si el mal se endulzó en su boca, si lo ocultaba debajo de su lengua;"
+        },
+        {
+            "id": "job20_13",
+            "speaker": "Zofar",
+            "verse": 13,
+            "text": "si le parecía bien, y no lo dejaba, sino que lo detenía en su paladar;"
+        },
+        {
+            "id": "job20_14",
+            "speaker": "Zofar",
+            "verse": 14,
+            "text": "su comida se mudará en sus entrañas, hiel de áspides será dentro de él."
+        },
+        {
+            "id": "job20_15",
+            "speaker": "Zofar",
+            "verse": 15,
+            "text": "Devoró riquezas, mas las vomitará; de su vientre las sacará Dios."
+        },
+        {
+            "id": "job20_16",
+            "speaker": "Zofar",
+            "verse": 16,
+            "text": "Veneno de áspides chupará; lo matará lengua de víbora."
+        },
+        {
+            "id": "job20_17",
+            "speaker": "Zofar",
+            "verse": 17,
+            "text": "No verá los arroyos, los ríos, los torrentes de miel y de leche."
+        },
+        {
+            "id": "job20_18",
+            "speaker": "Zofar",
+            "verse": 18,
+            "text": "Restituirá el trabajo conforme a los bienes que tomó; según su sustancia será la restitución, y no se gozará en ello."
+        },
+        {
+            "id": "job20_19",
+            "speaker": "Zofar",
+            "verse": 19,
+            "text": "Por cuanto quebrantó y desamparó a los pobres, y robó casas que él no edificó."
+        },
+        {
+            "id": "job20_20",
+            "speaker": "Zofar",
+            "verse": 20,
+            "text": "Por tanto, no sentirá él sosiego en su vientre, ni salvará nada de lo que codiciaba."
+        },
+        {
+            "id": "job20_21",
+            "speaker": "Zofar",
+            "verse": 21,
+            "text": "No quedó nada que no comiese; por tanto, su bien no será duradero."
+        },
+        {
+            "id": "job20_22",
+            "speaker": "Zofar",
+            "verse": 22,
+            "text": "En la plenitud de su prosperidad, tendrá estrechez; la mano de todos los malvados vendrá sobre él."
+        },
+        {
+            "id": "job20_23",
+            "speaker": "Zofar",
+            "verse": 23,
+            "text": "Cuando esté a punto de llenar su vientre, Dios enviará sobre él el furor de su ira, y la hará llover sobre él y sobre su comida."
+        },
+        {
+            "id": "job20_24",
+            "speaker": "Zofar",
+            "verse": 24,
+            "text": "Huirá de las armas de hierro, pero el arco de acero le atravesará."
+        },
+        {
+            "id": "job20_25",
+            "speaker": "Zofar",
+            "verse": 25,
+            "text": "Saldrá la saeta por su espalda, relumbrante saldrá por su hiel; sobre él vendrán terrores."
+        },
+        {
+            "id": "job20_26",
+            "speaker": "Zofar",
+            "verse": 26,
+            "text": "Todas las tinieblas estarán guardadas en sus lugares secretos; fuego no atizado lo devorará, y consumirá al que quede en su tienda."
+        },
+        {
+            "id": "job20_27",
+            "speaker": "Zofar",
+            "verse": 27,
+            "text": "Los cielos descubrirán su iniquidad, y la tierra se levantará contra él."
+        },
+        {
+            "id": "job20_28",
+            "speaker": "Zofar",
+            "verse": 28,
+            "text": "Los frutos de su casa serán trasportados; serán esparcidos en el día de su furor."
+        },
+        {
+            "id": "job20_29",
+            "speaker": "Zofar",
+            "verse": 29,
+            "text": "Ésta es la porción de Dios para el hombre impío, y la herencia que Dios le ha señalado."
+        }
+    ]
+}

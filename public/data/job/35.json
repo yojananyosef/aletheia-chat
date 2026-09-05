@@ -1,0 +1,121 @@
+{
+    "book": "Job",
+    "chapter": 35,
+    "title": "Job 35",
+    "messages": [
+        {
+            "id": "job35_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y procediendo Eliú en su razonamiento, dijo:"
+        },
+        {
+            "id": "job35_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "¿Piensas que es correcto esto que dijiste:"
+        },
+        {
+            "id": "job35_2b",
+            "speaker": "Eliú",
+            "verse": 2,
+            "text": "Más justo soy yo que Dios?"
+        },
+        {
+            "id": "job35_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque dijiste:"
+        },
+        {
+            "id": "job35_3b",
+            "speaker": "Eliú",
+            "verse": 3,
+            "text": "¿Qué ventaja sacarás tú de ello? ¿O qué provecho tendré de no haber pecado?"
+        },
+        {
+            "id": "job35_4",
+            "speaker": "Eliú",
+            "verse": 4,
+            "text": "Yo te responderé razones, y a tus compañeros contigo."
+        },
+        {
+            "id": "job35_5",
+            "speaker": "Eliú",
+            "verse": 5,
+            "text": "Mira a los cielos, y ve, y considera que las nubes son más altas que tú."
+        },
+        {
+            "id": "job35_6",
+            "speaker": "Eliú",
+            "verse": 6,
+            "text": "Si pecares, ¿qué habrás hecho contra Él? Y si tus transgresiones se multiplicaren, ¿qué le harás tú?"
+        },
+        {
+            "id": "job35_7",
+            "speaker": "Eliú",
+            "verse": 7,
+            "text": "Si fueres justo, ¿qué le darás a Él? ¿O qué recibirá de tu mano?"
+        },
+        {
+            "id": "job35_8",
+            "speaker": "Eliú",
+            "verse": 8,
+            "text": "Al hombre como tú dañará tu impiedad, y al hijo del hombre aprovechará tu justicia."
+        },
+        {
+            "id": "job35_9",
+            "speaker": "Eliú",
+            "verse": 9,
+            "text": "A causa de la multitud de las violencias clamarán, y se lamentarán por el poderío de los grandes."
+        },
+        {
+            "id": "job35_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y ninguno dice:"
+        },
+        {
+            "id": "job35_10b",
+            "speaker": "Eliú",
+            "verse": 10,
+            "text": "¿Dónde está Dios mi Hacedor, que da canciones en la noche,"
+        },
+        {
+            "id": "job35_11",
+            "speaker": "Eliú",
+            "verse": 11,
+            "text": "que nos enseña más que a las bestias de la tierra, y nos hace más sabios que las aves del cielo?"
+        },
+        {
+            "id": "job35_12",
+            "speaker": "Eliú",
+            "verse": 12,
+            "text": "Allí clamarán, pero Él no oirá, por la soberbia de los malos."
+        },
+        {
+            "id": "job35_13",
+            "speaker": "Eliú",
+            "verse": 13,
+            "text": "Ciertamente Dios no oirá la vanidad, ni la mirará el Omnipotente."
+        },
+        {
+            "id": "job35_14",
+            "speaker": "Eliú",
+            "verse": 14,
+            "text": "Aunque digas: No lo mirará; el juicio está delante de Él, espera pues, en Él."
+        },
+        {
+            "id": "job35_15",
+            "speaker": "Eliú",
+            "verse": 15,
+            "text": "Mas ahora, porque en su ira no visita, ni considera con rigor,"
+        },
+        {
+            "id": "job35_16",
+            "speaker": "Eliú",
+            "verse": 16,
+            "text": "por eso Job abre su boca vanamente, y multiplica palabras sin sabiduría."
+        }
+    ]
+}

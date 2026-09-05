@@ -1,0 +1,121 @@
+{
+    "book": "Job",
+    "chapter": 42,
+    "title": "Job 42",
+    "messages": [
+        {
+            "id": "job42_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y respondió Job a Jehová, y dijo:"
+        },
+        {
+            "id": "job42_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "Yo sé que todo lo puedes, y que no hay pensamiento que se esconda de ti."
+        },
+        {
+            "id": "job42_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "¿Quién es el que oscurece el consejo sin conocimiento? Por tanto yo hablaba lo que no entendía; cosas muy maravillosas para mí, que yo no sabía."
+        },
+        {
+            "id": "job42_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Oye te ruego, y hablaré; te preguntaré, y tú me enseñarás."
+        },
+        {
+            "id": "job42_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "De oídas te había oído; mas ahora mis ojos te ven."
+        },
+        {
+            "id": "job42_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "Por tanto me aborrezco, y me arrepiento en polvo y en ceniza."
+        },
+        {
+            "id": "job42_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y aconteció que después que habló Jehová estas palabras a Job, Jehová dijo a Elifaz temanita:"
+        },
+        {
+            "id": "job42_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Mi ira se encendió contra ti y tus dos compañeros; porque no habéis hablado de mí lo recto, como mi siervo Job."
+        },
+        {
+            "id": "job42_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Ahora pues, tomaos siete becerros y siete carneros, e id a mi siervo Job, y ofreced holocausto por vosotros, y mi siervo Job orará por vosotros; porque de cierto a él atenderé para no trataros según vuestra insensatez, por cuanto no habéis hablado de mí con rectitud, como mi siervo Job."
+        },
+        {
+            "id": "job42_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Fueron, pues, Elifaz temanita, y Bildad suhita, y Zofar naamatita, e hicieron como Jehová les dijo:"
+        },
+        {
+            "id": "job42_9b",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "y Jehová atendió a Job."
+        },
+        {
+            "id": "job42_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y mudó Jehová la aflicción de Job, orando él por sus amigos. Y Jehová aumentó al doble todas las cosas que habían sido de Job."
+        },
+        {
+            "id": "job42_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y vinieron a él todos sus hermanos, y todas sus hermanas, y todos los que antes le habían conocido, y comieron con él pan en su casa, y se condolieron de él, y le consolaron de todo aquel mal que Jehová había traído sobre él; y cada uno de ellos le dio una pieza de dinero, y un zarcillo de oro."
+        },
+        {
+            "id": "job42_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y bendijo Jehová la postrimería de Job más que su principio; porque tuvo catorce mil ovejas, y seis mil camellos, y mil yuntas de bueyes, y mil asnas."
+        },
+        {
+            "id": "job42_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y tuvo siete hijos y tres hijas."
+        },
+        {
+            "id": "job42_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y llamó el nombre de la primera, Jemima, y el nombre de la segunda, Cesia, y el nombre de la tercera, Keren-hapuc."
+        },
+        {
+            "id": "job42_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y en toda la tierra no había mujeres tan hermosas como las hijas de Job; y les dio su padre herencia entre sus hermanos."
+        },
+        {
+            "id": "job42_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y después de esto vivió Job ciento cuarenta años, y vio a sus hijos, y a los hijos de sus hijos, hasta la cuarta generación."
+        },
+        {
+            "id": "job42_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y murió Job, viejo y lleno de días."
+        }
+    ]
+}

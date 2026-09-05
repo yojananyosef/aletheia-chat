@@ -1,0 +1,211 @@
+{
+    "book": "Job",
+    "chapter": 1,
+    "title": "Job 1",
+    "messages": [
+        {
+            "id": "job1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Hubo un varón en tierra de Uz, que se llamaba Job; y este hombre era perfecto y recto, temeroso de Dios y apartado del mal."
+        },
+        {
+            "id": "job1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y le nacieron siete hijos y tres hijas."
+        },
+        {
+            "id": "job1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Su hacienda era siete mil ovejas, tres mil camellos, quinientas yuntas de bueyes, quinientas asnas y muchísimos criados; y este varón era el más grande de todos los orientales."
+        },
+        {
+            "id": "job1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "E iban sus hijos y hacían banquetes en sus casas, cada uno en su día; y enviaban a llamar a sus tres hermanas, para que comiesen y bebiesen con ellos."
+        },
+        {
+            "id": "job1_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y acontecía que habiendo pasado en turno los días del convite, Job enviaba y los santificaba, y se levantaba de mañana y ofrecía holocaustos conforme al número de todos ellos. Porque decía Job:"
+        },
+        {
+            "id": "job1_5b",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "Quizá habrán pecado mis hijos, y habrán blasfemado a Dios en sus corazones. De esta manera hacía todos los días."
+        },
+        {
+            "id": "job1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y un día vinieron los hijos de Dios a presentarse delante de Jehová, entre los cuales vino también Satanás."
+        },
+        {
+            "id": "job1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo Jehová a Satanás:"
+        },
+        {
+            "id": "job1_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "¿De dónde vienes?"
+        },
+        {
+            "id": "job1_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y respondiendo Satanás a Jehová, dijo:"
+        },
+        {
+            "id": "job1_7d",
+            "speaker": "Satán",
+            "verse": 7,
+            "text": "De rodear la tierra y de andar por ella."
+        },
+        {
+            "id": "job1_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Jehová dijo a Satanás:"
+        },
+        {
+            "id": "job1_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "¿No has considerado a mi siervo Job, que no hay otro como él en la tierra, varón perfecto y recto, temeroso de Dios y apartado de mal?"
+        },
+        {
+            "id": "job1_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y respondiendo Satanás a Jehová, dijo:"
+        },
+        {
+            "id": "job1_9b",
+            "speaker": "Satán",
+            "verse": 9,
+            "text": "¿Teme Job a Dios de balde?"
+        },
+        {
+            "id": "job1_10",
+            "speaker": "Satán",
+            "verse": 10,
+            "text": "¿No le has tú cercado a él, y a su casa, y a todo lo que tiene en derredor? El trabajo de sus manos has bendecido, y su hacienda ha crecido sobre la tierra."
+        },
+        {
+            "id": "job1_11",
+            "speaker": "Satán",
+            "verse": 11,
+            "text": "Mas extiende ahora tu mano, y toca todo lo que tiene, y verás si no blasfema contra ti en tu rostro."
+        },
+        {
+            "id": "job1_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo Jehová a Satanás:"
+        },
+        {
+            "id": "job1_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "He aquí, todo lo que tiene está en tu mano; solamente no pongas tu mano sobre él. Y salió Satanás de delante de Jehová."
+        },
+        {
+            "id": "job1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y aconteció un día que sus hijos e hijas estaban bebiendo y comiendo en casa de su hermano el primogénito,"
+        },
+        {
+            "id": "job1_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y vino un mensajero a Job, y le dijo:"
+        },
+        {
+            "id": "job1_14b",
+            "speaker": "Mensajero",
+            "verse": 14,
+            "text": "Estaban arando los bueyes, y las asnas paciendo cerca de ellos,"
+        },
+        {
+            "id": "job1_15",
+            "speaker": "Mensajero",
+            "verse": 15,
+            "text": "y acometieron los sabeos y los tomaron, y mataron a los criados a filo de espada; solamente escapé yo para traerte la noticia."
+        },
+        {
+            "id": "job1_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Aún estaba éste hablando, y vino otro que dijo:"
+        },
+        {
+            "id": "job1_16b",
+            "speaker": "Mensajero",
+            "verse": 16,
+            "text": "Fuego de Dios cayó del cielo, que quemó las ovejas y los criados, y los consumió; solamente escapé yo para traerte la noticia."
+        },
+        {
+            "id": "job1_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Todavía estaba éste hablando, y vino otro que dijo:"
+        },
+        {
+            "id": "job1_17b",
+            "speaker": "Mensajero",
+            "verse": 17,
+            "text": "Los caldeos hicieron tres escuadrones, y dieron sobre los camellos, y los tomaron, y mataron a los criados a filo de espada; solamente escapé yo para traerte la noticia."
+        },
+        {
+            "id": "job1_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entre tanto que éste hablaba, vino otro que dijo:"
+        },
+        {
+            "id": "job1_18b",
+            "speaker": "Mensajero",
+            "verse": 18,
+            "text": "Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano el primogénito;"
+        },
+        {
+            "id": "job1_19",
+            "speaker": "Mensajero",
+            "verse": 19,
+            "text": "y he aquí un gran viento que vino del lado del desierto, y azotó las cuatro esquinas de la casa, y cayó sobre los jóvenes, y murieron; solamente escapé yo para traerte la noticia."
+        },
+        {
+            "id": "job1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces Job se levantó, y rasgó su manto, y rasuró su cabeza, y cayendo en tierra adoró."
+        },
+        {
+            "id": "job1_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "job1_21b",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Desnudo salí del vientre de mi madre, y desnudo volveré allá. Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito."
+        },
+        {
+            "id": "job1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "En todo esto no pecó Job, ni atribuyó a Dios despropósito alguno."
+        }
+    ]
+}

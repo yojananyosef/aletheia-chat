@@ -1,0 +1,139 @@
+{
+    "book": "Job",
+    "chapter": 10,
+    "title": "Job 10",
+    "messages": [
+        {
+            "id": "job10_1",
+            "speaker": "Job",
+            "verse": 1,
+            "text": "Mi alma está hastiada de mi vida: Daré yo rienda suelta a mi queja sobre mí, hablaré en la amargura de mi alma."
+        },
+        {
+            "id": "job10_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "Diré a Dios: No me condenes; hazme entender por qué contiendes conmigo."
+        },
+        {
+            "id": "job10_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "¿Te parece bien que oprimas, que deseches la obra de tus manos, y que resplandezcas sobre el consejo de los impíos?"
+        },
+        {
+            "id": "job10_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "¿Acaso tienes tú ojos de carne? ¿Ves tú como ve el hombre?"
+        },
+        {
+            "id": "job10_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "¿Son tus días como los días del hombre, o tus años como los tiempos humanos,"
+        },
+        {
+            "id": "job10_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "para que inquieras mi iniquidad, y busques mi pecado?"
+        },
+        {
+            "id": "job10_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Tú sabes que no soy impío, y que no hay quien libre de tu mano."
+        },
+        {
+            "id": "job10_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "Tus manos me hicieron y me formaron, ¿y luego te vuelves y me deshaces?"
+        },
+        {
+            "id": "job10_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "Acuérdate ahora que como a barro me diste forma: ¿Y en polvo me has de tornar?"
+        },
+        {
+            "id": "job10_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "¿No me vaciaste como leche, y como queso me cuajaste?"
+        },
+        {
+            "id": "job10_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Me vestiste de piel y carne, y me rodeaste de huesos y nervios."
+        },
+        {
+            "id": "job10_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Vida y misericordia me concediste, y tu cuidado guardó mi espíritu."
+        },
+        {
+            "id": "job10_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Estas cosas has guardado en tu corazón; yo sé que están cerca de ti."
+        },
+        {
+            "id": "job10_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "Si peco, tú me observas, y no me tienes por limpio de mi iniquidad."
+        },
+        {
+            "id": "job10_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "Si fuere malo, ¡ay de mí! Y si fuere justo, no levantaré mi cabeza. Estoy hastiado de afrenta, por tanto, mira tú mi aflicción."
+        },
+        {
+            "id": "job10_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Si levanto mi cabeza, me cazas como a león, y vuelves a mostrarte maravilloso sobre mí."
+        },
+        {
+            "id": "job10_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "Renuevas contra mí tus pruebas, y aumentas conmigo tu furor como tropas de relevo."
+        },
+        {
+            "id": "job10_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "¿Por qué me sacaste de la matriz? Hubiera yo entregado el espíritu, y ningún ojo me habría visto."
+        },
+        {
+            "id": "job10_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "Fuera como si nunca hubiera existido, llevado del vientre a la sepultura."
+        },
+        {
+            "id": "job10_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "¿No son pocos mis días? Cesa, pues, y déjame, para que me conforte un poco."
+        },
+        {
+            "id": "job10_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Antes que vaya para no volver, a la tierra de tinieblas y de sombra de muerte;"
+        },
+        {
+            "id": "job10_22",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "Tierra de oscuridad, lóbrega como sombra de muerte, sin orden, donde la luz es como la oscuridad misma."
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "book": "Job",
+    "chapter": 19,
+    "title": "Job 19",
+    "messages": [
+        {
+            "id": "job19_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces respondió Job, y dijo:"
+        },
+        {
+            "id": "job19_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "¿Hasta cuándo angustiaréis mi alma, y me moleréis con palabras?"
+        },
+        {
+            "id": "job19_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "Ya me habéis vituperado diez veces: ¿No os avergonzáis de injuriarme?"
+        },
+        {
+            "id": "job19_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Y si en verdad he errado, conmigo se quedará mi error."
+        },
+        {
+            "id": "job19_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "Mas si vosotros os engrandecéis contra mí, y contra mí invocáis mi oprobio,"
+        },
+        {
+            "id": "job19_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "sabed ahora que Dios me ha derribado, y me ha envuelto en su red."
+        },
+        {
+            "id": "job19_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "He aquí yo clamo agravio, y no soy oído; doy voces, y no hay juicio."
+        },
+        {
+            "id": "job19_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "Cercó de vallado mi camino, y no pasaré; y sobre mis veredas puso tinieblas."
+        },
+        {
+            "id": "job19_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "Me ha despojado de mi gloria, y ha quitado la corona de mi cabeza."
+        },
+        {
+            "id": "job19_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Me arruinó por todos lados, y perezco; y ha arrancado mi esperanza como a un árbol."
+        },
+        {
+            "id": "job19_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "También encendió contra mí su furor, y me contó para sí entre sus enemigos."
+        },
+        {
+            "id": "job19_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Vinieron sus ejércitos a una, y atrincheraron contra mí su camino, y acamparon en derredor de mi tienda."
+        },
+        {
+            "id": "job19_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Hizo alejar de mí a mis hermanos, y del todo se extrañaron de mí mis conocidos."
+        },
+        {
+            "id": "job19_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "Mis parientes se detuvieron, y mis conocidos se olvidaron de mí."
+        },
+        {
+            "id": "job19_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "Los moradores de mi casa y mis criadas me tuvieron por extraño; forastero fui yo a sus ojos."
+        },
+        {
+            "id": "job19_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Llamé a mi siervo y no respondió; aunque con mi propia boca le suplicaba."
+        },
+        {
+            "id": "job19_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "Mi aliento vino a ser extraño a mi esposa, aunque por los hijos de mis entrañas le rogaba."
+        },
+        {
+            "id": "job19_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "Aun los muchachos me menospreciaron; al levantarme, hablaban contra mí."
+        },
+        {
+            "id": "job19_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "Todos mis amigos íntimos me aborrecieron; y los que yo amaba, se volvieron contra mí."
+        },
+        {
+            "id": "job19_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "Mi piel y mi carne se pegaron a mis huesos; y he escapado con sólo la piel de mis dientes."
+        },
+        {
+            "id": "job19_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Oh, vosotros mis amigos, tened compasión de mí, tened compasión de mí, porque la mano de Dios me ha tocado."
+        },
+        {
+            "id": "job19_22",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "¿Por qué me perseguís como Dios, y no os hartáis de mi carne?"
+        },
+        {
+            "id": "job19_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "¡Quién diese ahora que mis palabras fuesen escritas! ¡Quién diese que se escribiesen en un libro!"
+        },
+        {
+            "id": "job19_24",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "¡Que con cincel de hierro y con plomo fuesen esculpidas en piedra para siempre!"
+        },
+        {
+            "id": "job19_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "Yo sé que mi Redentor vive, y en el día final se levantará sobre la tierra;"
+        },
+        {
+            "id": "job19_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "y después de deshecha esta mi piel, en mi carne he de ver a Dios;"
+        },
+        {
+            "id": "job19_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "Al cual he de ver por mí mismo, y mis ojos lo verán, y no otro, aunque mis entrañas se consuman dentro de mí."
+        },
+        {
+            "id": "job19_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Mas debierais decir:"
+        },
+        {
+            "id": "job19_28b",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "¿Por qué lo perseguimos? Ya que la raíz del asunto se halla en mí."
+        },
+        {
+            "id": "job19_29",
+            "speaker": "Job",
+            "verse": 29,
+            "text": "Temed vosotros delante de la espada; porque la ira trae el castigo de la espada, para que sepáis que hay un juicio."
+        }
+    ]
+}

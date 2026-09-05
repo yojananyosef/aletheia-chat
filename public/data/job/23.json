@@ -1,0 +1,109 @@
+{
+    "book": "Job",
+    "chapter": 23,
+    "title": "Job 23",
+    "messages": [
+        {
+            "id": "job23_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y respondió Job, y dijo:"
+        },
+        {
+            "id": "job23_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "Hoy también hablaré con amargura; porque es más grave mi llaga que mi gemido."
+        },
+        {
+            "id": "job23_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "¡Quién me diera el saber dónde hallar a Dios! Yo iría hasta su silla."
+        },
+        {
+            "id": "job23_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Expondría mi causa delante de Él, y llenaría mi boca de argumentos."
+        },
+        {
+            "id": "job23_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "Yo sabría las palabras que Él me respondiera, y entendería lo que Él me dijera."
+        },
+        {
+            "id": "job23_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "¿Contendería conmigo con su gran fuerza? No; antes Él pondría fuerza en mí."
+        },
+        {
+            "id": "job23_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Allí el justo razonaría con Él, y yo sería liberado para siempre de mi Juez."
+        },
+        {
+            "id": "job23_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "He aquí yo iré al oriente, y Él no estará allí; y al occidente, y no lo percibiré:"
+        },
+        {
+            "id": "job23_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "Si al norte Él actuare, yo no lo veré; al sur se esconderá, y no lo veré."
+        },
+        {
+            "id": "job23_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Mas Él conoce el camino donde voy; me probará, y saldré como oro."
+        },
+        {
+            "id": "job23_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Mis pies han seguido sus pisadas; guardé su camino, y no me aparté."
+        },
+        {
+            "id": "job23_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Del mandamiento de sus labios nunca me separé; guardé las palabras de su boca más que mi comida."
+        },
+        {
+            "id": "job23_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Pero si Él determina una cosa, ¿quién le hará desistir? Lo que su alma desea, eso hace."
+        },
+        {
+            "id": "job23_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "Él, pues, acabará lo que ha determinado de mí: y muchas cosas como éstas hay en Él."
+        },
+        {
+            "id": "job23_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "Por lo cual yo me espanto en su presencia; cuando lo considero, tengo miedo de Él."
+        },
+        {
+            "id": "job23_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Dios ha enervado mi corazón, y me ha turbado el Omnipotente."
+        },
+        {
+            "id": "job23_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "¿Por qué no fui yo cortado delante de las tinieblas, ni cubrió con oscuridad mi rostro?"
+        }
+    ]
+}

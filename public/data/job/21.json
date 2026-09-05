@@ -1,0 +1,223 @@
+{
+    "book": "Job",
+    "chapter": 21,
+    "title": "Job 21",
+    "messages": [
+        {
+            "id": "job21_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y respondió Job, y dijo:"
+        },
+        {
+            "id": "job21_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "Oíd atentamente mis palabras, y sea esto vuestra consolación."
+        },
+        {
+            "id": "job21_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "Soportadme, y yo hablaré; y después que hubiere hablado, escarneced."
+        },
+        {
+            "id": "job21_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "¿Acaso me quejo yo ante algún hombre? ¿Y por qué no se ha de angustiar mi espíritu?"
+        },
+        {
+            "id": "job21_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "Miradme, y espantaos, y poned la mano sobre la boca."
+        },
+        {
+            "id": "job21_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "Aun cuando me acuerdo, me asombro, y el estremecimiento se apodera de mi carne."
+        },
+        {
+            "id": "job21_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "¿Por qué viven los impíos, y se envejecen, y aun crecen en riquezas?"
+        },
+        {
+            "id": "job21_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "Su simiente es establecida delante de ellos; y sus renuevos delante de sus ojos."
+        },
+        {
+            "id": "job21_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "Sus casas están libres de temor, y no hay azote de Dios sobre ellos."
+        },
+        {
+            "id": "job21_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Sus toros engendran, y no fallan; paren sus vacas, y no malogran su cría."
+        },
+        {
+            "id": "job21_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Sus pequeños salen como manada, y sus hijos van danzando."
+        },
+        {
+            "id": "job21_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Toman el pandero y el arpa, y se regocijan al son de la flauta."
+        },
+        {
+            "id": "job21_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Pasan sus días en prosperidad, y en un momento descienden a la sepultura."
+        },
+        {
+            "id": "job21_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Dicen, pues, a Dios:"
+        },
+        {
+            "id": "job21_14b",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "Apártate de nosotros, pues no queremos el conocimiento de tus caminos."
+        },
+        {
+            "id": "job21_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "¿Quién es el Todopoderoso, para que le sirvamos? ¿Y de qué nos aprovechará que oremos a Él?"
+        },
+        {
+            "id": "job21_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "He aquí que su bien no está en manos de ellos: El consejo de los impíos lejos esté de mí."
+        },
+        {
+            "id": "job21_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "¡Oh cuántas veces la lámpara de los impíos es apagada, y viene sobre ellos su quebranto, y Dios en su ira les reparte dolores!"
+        },
+        {
+            "id": "job21_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "Serán como la paja delante del viento, y como el tamo que arrebata el torbellino."
+        },
+        {
+            "id": "job21_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "Dios guardará la iniquidad para los hijos de ellos: Él le dará su pago, para que conozca."
+        },
+        {
+            "id": "job21_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "Verán sus ojos su quebranto, y beberá de la ira del Todopoderoso."
+        },
+        {
+            "id": "job21_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Porque ¿qué deleite tendrá él de su casa después de sí, siendo cortado el número de sus meses?"
+        },
+        {
+            "id": "job21_22",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "¿Enseñará alguien a Dios sabiduría, juzgando Él a los que están encumbrados?"
+        },
+        {
+            "id": "job21_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "Éste morirá en el vigor de su hermosura, todo quieto y pacífico."
+        },
+        {
+            "id": "job21_24",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "Sus colodras están llenas de leche, y sus huesos serán regados de tuétano."
+        },
+        {
+            "id": "job21_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "Y este otro morirá en amargura de ánimo, y sin haber comido jamás con gusto."
+        },
+        {
+            "id": "job21_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "Igualmente yacerán ellos en el polvo, y gusanos los cubrirán."
+        },
+        {
+            "id": "job21_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "He aquí, yo conozco vuestros pensamientos, y las imaginaciones que contra mí forjáis."
+        },
+        {
+            "id": "job21_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Porque decís:"
+        },
+        {
+            "id": "job21_28b",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "¿Qué es de la casa del príncipe, y qué de la tienda de las moradas de los impíos?"
+        },
+        {
+            "id": "job21_29",
+            "speaker": "Job",
+            "verse": 29,
+            "text": "¿No habéis preguntado a los que pasan por los caminos, y no habéis conocido sus señalamientos,"
+        },
+        {
+            "id": "job21_30",
+            "speaker": "Job",
+            "verse": 30,
+            "text": "que el malo es reservado para el día de la destrucción? Presentados serán en el día de la ira."
+        },
+        {
+            "id": "job21_31",
+            "speaker": "Job",
+            "verse": 31,
+            "text": "¿Quién le denunciará en su cara su camino? Y de lo que él hizo, ¿quién le dará el pago?"
+        },
+        {
+            "id": "job21_32",
+            "speaker": "Job",
+            "verse": 32,
+            "text": "Porque será llevado al sepulcro, y en su tumba permanecerá."
+        },
+        {
+            "id": "job21_33",
+            "speaker": "Job",
+            "verse": 33,
+            "text": "Los terrones del valle le serán dulces; y tras de él será llevado todo hombre, y antes de él han ido innumerables."
+        },
+        {
+            "id": "job21_34",
+            "speaker": "Job",
+            "verse": 34,
+            "text": "¿Cómo, pues, me consoláis en vano, viniendo a parar vuestras respuestas en falacia?"
+        }
+    ]
+}

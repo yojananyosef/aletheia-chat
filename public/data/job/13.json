@@ -1,0 +1,175 @@
+{
+    "book": "Job",
+    "chapter": 13,
+    "title": "Job 13",
+    "messages": [
+        {
+            "id": "job13_1",
+            "speaker": "Job",
+            "verse": 1,
+            "text": "He aquí que todas estas cosas han visto mis ojos, y oído y entendido mis oídos."
+        },
+        {
+            "id": "job13_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "Como vosotros lo sabéis, lo sé yo; no soy menos que vosotros."
+        },
+        {
+            "id": "job13_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "Mas yo hablaría con el Todopoderoso, y querría razonar con Dios."
+        },
+        {
+            "id": "job13_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Porque ciertamente vosotros sois fraguadores de mentira; todos vosotros sois médicos nulos."
+        },
+        {
+            "id": "job13_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "¡Oh que callarais del todo! Y os sería sabiduría."
+        },
+        {
+            "id": "job13_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "Oíd ahora mi razonamiento, y estad atentos a los argumentos de mis labios."
+        },
+        {
+            "id": "job13_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "¿Habéis de hablar iniquidad por Dios? ¿Habéis de hablar por Él engaño?"
+        },
+        {
+            "id": "job13_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "¿Haréis acepción de su persona? ¿Contenderéis vosotros por Dios?"
+        },
+        {
+            "id": "job13_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "¿Sería bueno que Él os escudriñase? ¿Os burlaréis de Él como quien se burla de algún hombre?"
+        },
+        {
+            "id": "job13_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Él os reprochará de seguro, si solapadamente hacéis acepción de personas."
+        },
+        {
+            "id": "job13_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "¿No debiera espantaros su majestad, y caer su pavor sobre vosotros?"
+        },
+        {
+            "id": "job13_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Vuestras memorias serán comparadas a la ceniza, y vuestros cuerpos como cuerpos de barro."
+        },
+        {
+            "id": "job13_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Callaos, dejadme y hablaré yo, y que venga sobre mí lo que viniere."
+        },
+        {
+            "id": "job13_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "¿Por qué quitaré yo mi carne con mis dientes, y pondré mi alma en mi mano?"
+        },
+        {
+            "id": "job13_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "He aquí, aunque Él me matare, en Él esperaré; pero sostendré delante de Él mis caminos."
+        },
+        {
+            "id": "job13_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Y Él mismo será mi salvación, porque no entrará en su presencia el hipócrita."
+        },
+        {
+            "id": "job13_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "Oíd con atención mi razonamiento, y mi declaración con vuestros oídos."
+        },
+        {
+            "id": "job13_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "He aquí ahora, yo he preparado mi causa, y sé que seré justificado."
+        },
+        {
+            "id": "job13_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "¿Quién es el que contenderá conmigo? Porque si ahora yo callara, moriría."
+        },
+        {
+            "id": "job13_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "A lo menos dos cosas no hagas conmigo; entonces no me esconderé de tu rostro."
+        },
+        {
+            "id": "job13_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Aparta de mí tu mano, y no me asombre tu terror."
+        },
+        {
+            "id": "job13_22",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "Llama luego, y yo responderé; o yo hablaré, y respóndeme tú."
+        },
+        {
+            "id": "job13_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "¿Cuántas iniquidades y pecados tengo yo? Hazme entender mi transgresión y mi pecado."
+        },
+        {
+            "id": "job13_24",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "¿Por qué escondes tu rostro, y me cuentas por tu enemigo?"
+        },
+        {
+            "id": "job13_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "¿A la hoja arrebatada has de quebrantar? ¿Y a una paja seca has de perseguir?"
+        },
+        {
+            "id": "job13_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "¿Por qué escribes contra mí amarguras, y me haces cargo de los pecados de mi juventud?"
+        },
+        {
+            "id": "job13_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "Pones además mis pies en el cepo, y vigilas todos mis caminos, imprimes marcas en las plantas de mis pies."
+        },
+        {
+            "id": "job13_28",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "Y el cuerpo mío se va gastando como de carcoma, como vestido que es comido de polilla."
+        }
+    ]
+}

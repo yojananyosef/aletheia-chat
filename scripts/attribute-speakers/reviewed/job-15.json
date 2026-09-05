@@ -1,0 +1,26 @@
+[
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  }
+]

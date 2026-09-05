@@ -1,0 +1,193 @@
+{
+    "book": "Job",
+    "chapter": 39,
+    "title": "Job 39",
+    "messages": [
+        {
+            "id": "job39_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "¿Sabes tú el tiempo en que paren las cabras monteses? ¿O miras tú las ciervas cuando están pariendo?"
+        },
+        {
+            "id": "job39_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "¿Puedes tú contar los meses de su preñez, y sabes el tiempo cuando han de parir?"
+        },
+        {
+            "id": "job39_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Se encorvan, hacen salir sus crías, pasan sus dolores."
+        },
+        {
+            "id": "job39_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Sus crías están sanas, crecen con el pasto: Salen y no vuelven a ellas."
+        },
+        {
+            "id": "job39_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "¿Quién dejó libre al asno montés? ¿O quién soltó las ataduras del asno veloz?"
+        },
+        {
+            "id": "job39_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Al cual yo puse casa en la soledad, y sus moradas en lugares estériles."
+        },
+        {
+            "id": "job39_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Se burla de la multitud de la ciudad; no oye las voces del arriero."
+        },
+        {
+            "id": "job39_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Lo oculto de los montes es su pasto, y anda buscando todo lo que está verde."
+        },
+        {
+            "id": "job39_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Querrá el unicornio servirte a ti, o quedarse en tu pesebre?"
+        },
+        {
+            "id": "job39_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¿Atarás tú al unicornio con coyunda para el surco? ¿Labrará los valles en pos de ti?"
+        },
+        {
+            "id": "job39_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "¿Confiarás tú en él, por ser grande su fortaleza, y le confiarás tu labor?"
+        },
+        {
+            "id": "job39_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "¿Fiarás de él para que recoja tu semilla y la junte en tu era?"
+        },
+        {
+            "id": "job39_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "¿Diste tú hermosas alas al pavo real, o alas y plumas al avestruz?"
+        },
+        {
+            "id": "job39_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "El cual desampara en la tierra sus huevos, y sobre el polvo los calienta,"
+        },
+        {
+            "id": "job39_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "y se olvida de que los pisará el pie, y que los quebrará bestia del campo."
+        },
+        {
+            "id": "job39_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Se endurece para con sus crías, como si no fuesen suyas, no temiendo que su trabajo haya sido en vano;"
+        },
+        {
+            "id": "job39_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Porque le privó Dios de sabiduría, y no le dio inteligencia."
+        },
+        {
+            "id": "job39_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Luego que se levanta en alto, se burla del caballo y de su jinete."
+        },
+        {
+            "id": "job39_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "¿Diste tú al caballo su fuerza? ¿Vestiste tú su cuello de crines?"
+        },
+        {
+            "id": "job39_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "¿Le intimidarás tú como a alguna langosta? El resoplido de su nariz es formidable:"
+        },
+        {
+            "id": "job39_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Escarba la tierra, se alegra en su fuerza, sale al encuentro de las armas:"
+        },
+        {
+            "id": "job39_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Hace burla del espanto, y no teme, ni vuelve el rostro delante de la espada."
+        },
+        {
+            "id": "job39_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Contra él suena la aljaba, el hierro de la lanza y de la jabalina;"
+        },
+        {
+            "id": "job39_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Y él con ímpetu y furor escarba la tierra, sin importarle el sonido de la trompeta;"
+        },
+        {
+            "id": "job39_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Antes como que dice entre los clarines:"
+        },
+        {
+            "id": "job39_25b",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "¡Ea! Y desde lejos huele la batalla, el grito de los capitanes, y el vocerío."
+        },
+        {
+            "id": "job39_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "¿Vuela el halcón por tu sabiduría, y extiende hacia el sur sus alas?"
+        },
+        {
+            "id": "job39_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "¿Se remonta el águila por tu mandamiento, y pone en alto su nido?"
+        },
+        {
+            "id": "job39_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Ella habita y mora en la roca, en la cumbre de la peña, en lugar seguro."
+        },
+        {
+            "id": "job39_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Desde allí acecha la presa; sus ojos observan de muy lejos."
+        },
+        {
+            "id": "job39_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Sus polluelos chupan la sangre; y donde hubiere cadáveres, allí está ella."
+        }
+    ]
+}

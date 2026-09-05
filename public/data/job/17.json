@@ -1,0 +1,109 @@
+{
+    "book": "Job",
+    "chapter": 17,
+    "title": "Job 17",
+    "messages": [
+        {
+            "id": "job17_1",
+            "speaker": "Job",
+            "verse": 1,
+            "text": "Mi aliento está corrompido, mis días se extinguen, y me está preparado el sepulcro."
+        },
+        {
+            "id": "job17_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "No hay sino escarnecedores conmigo, y mis ojos se detienen en su provocación."
+        },
+        {
+            "id": "job17_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "Determina ahora, dame fianza para contigo: ¿Quién es aquél que querría ser mi fiador?"
+        },
+        {
+            "id": "job17_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Porque has escondido de su corazón la inteligencia; por tanto, no los exaltarás."
+        },
+        {
+            "id": "job17_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "El que habla lisonjas a sus amigos, aun los ojos de sus hijos desfallecerán."
+        },
+        {
+            "id": "job17_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "Él me ha puesto por refrán de pueblos, y delante de ellos he sido como tamboril."
+        },
+        {
+            "id": "job17_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Y mis ojos se oscurecieron por causa del dolor, y mis pensamientos todos son como sombra."
+        },
+        {
+            "id": "job17_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "Los rectos se maravillarán de esto, y el inocente se levantará contra el hipócrita."
+        },
+        {
+            "id": "job17_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "No obstante, proseguirá el justo su camino, y el limpio de manos aumentará la fuerza."
+        },
+        {
+            "id": "job17_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Mas volved todos vosotros, y venid ahora, pues no hallo sabio entre vosotros."
+        },
+        {
+            "id": "job17_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Pasaron mis días, fueron deshechos mis planes, los designios de mi corazón."
+        },
+        {
+            "id": "job17_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Pusieron la noche por día, y la luz se acorta delante de las tinieblas."
+        },
+        {
+            "id": "job17_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Si yo espero, el sepulcro es mi casa: Haré mi cama en las tinieblas."
+        },
+        {
+            "id": "job17_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "A la corrupción he dicho:"
+        },
+        {
+            "id": "job17_14b",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "Mi padre eres tú; a los gusanos: Mi madre y mi hermana."
+        },
+        {
+            "id": "job17_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "¿Dónde está ahora mi esperanza? Y mi esperanza ¿quién la verá?"
+        },
+        {
+            "id": "job17_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Ellos descenderán a la profundidad de la fosa, cuando nosotros descansaremos juntos en el polvo."
+        }
+    ]
+}

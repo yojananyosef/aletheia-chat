@@ -1,0 +1,223 @@
+{
+    "book": "Job",
+    "chapter": 33,
+    "title": "Job 33",
+    "messages": [
+        {
+            "id": "job33_1",
+            "speaker": "Eliú",
+            "verse": 1,
+            "text": "Por tanto, Job, oye ahora mis razones, y escucha todas mis palabras."
+        },
+        {
+            "id": "job33_2",
+            "speaker": "Eliú",
+            "verse": 2,
+            "text": "He aquí yo abriré ahora mi boca, y mi lengua hablará en mi garganta."
+        },
+        {
+            "id": "job33_3",
+            "speaker": "Eliú",
+            "verse": 3,
+            "text": "Mis razones declararán la rectitud de mi corazón, y mis labios proferirán sabiduría pura."
+        },
+        {
+            "id": "job33_4",
+            "speaker": "Eliú",
+            "verse": 4,
+            "text": "El Espíritu de Dios me hizo, y la inspiración del Omnipotente me dio vida."
+        },
+        {
+            "id": "job33_5",
+            "speaker": "Eliú",
+            "verse": 5,
+            "text": "Si pudieres, respóndeme: Ordena tus palabras delante de mí, ponte de pie."
+        },
+        {
+            "id": "job33_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Heme aquí a mí en lugar de Dios, conforme a tu dicho:"
+        },
+        {
+            "id": "job33_6b",
+            "speaker": "Eliú",
+            "verse": 6,
+            "text": "Yo también del barro soy formado."
+        },
+        {
+            "id": "job33_7",
+            "speaker": "Eliú",
+            "verse": 7,
+            "text": "He aquí que mi terror no te espantará, ni mi mano se agravará sobre ti."
+        },
+        {
+            "id": "job33_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "De cierto tú dijiste a oídos míos, y yo oí la voz de tus palabras que decían:"
+        },
+        {
+            "id": "job33_9",
+            "speaker": "Eliú",
+            "verse": 9,
+            "text": "Yo soy limpio y sin defecto; y soy inocente, y no hay maldad en mí."
+        },
+        {
+            "id": "job33_10",
+            "speaker": "Eliú",
+            "verse": 10,
+            "text": "He aquí que Él buscó causas contra mí, y me tiene por su enemigo;"
+        },
+        {
+            "id": "job33_11",
+            "speaker": "Eliú",
+            "verse": 11,
+            "text": "Puso mis pies en el cepo, y vigiló todas mis sendas."
+        },
+        {
+            "id": "job33_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "He aquí en esto no has hablado justamente:"
+        },
+        {
+            "id": "job33_12b",
+            "speaker": "Eliú",
+            "verse": 12,
+            "text": "Yo te responderé que mayor es Dios que el hombre."
+        },
+        {
+            "id": "job33_13",
+            "speaker": "Eliú",
+            "verse": 13,
+            "text": "¿Por qué tomaste pleito contra Él? Porque Él no da cuenta de ninguna de sus razones."
+        },
+        {
+            "id": "job33_14",
+            "speaker": "Eliú",
+            "verse": 14,
+            "text": "Sin embargo, en una o en dos maneras habla Dios; mas el hombre no entiende."
+        },
+        {
+            "id": "job33_15",
+            "speaker": "Eliú",
+            "verse": 15,
+            "text": "Por sueño de visión nocturna, cuando el sueño cae sobre los hombres, cuando se adormecen sobre el lecho;"
+        },
+        {
+            "id": "job33_16",
+            "speaker": "Eliú",
+            "verse": 16,
+            "text": "Entonces revela al oído de los hombres, y les señala su consejo;"
+        },
+        {
+            "id": "job33_17",
+            "speaker": "Eliú",
+            "verse": 17,
+            "text": "Para quitar al hombre de su obra, y apartar del varón la soberbia."
+        },
+        {
+            "id": "job33_18",
+            "speaker": "Eliú",
+            "verse": 18,
+            "text": "Él libra su alma de la fosa, y su vida de perecer a espada."
+        },
+        {
+            "id": "job33_19",
+            "speaker": "Eliú",
+            "verse": 19,
+            "text": "También sobre su cama es castigado con dolor fuerte en todos sus huesos,"
+        },
+        {
+            "id": "job33_20",
+            "speaker": "Eliú",
+            "verse": 20,
+            "text": "que le hace que su vida aborrezca el pan, y su alma la comida suave."
+        },
+        {
+            "id": "job33_21",
+            "speaker": "Eliú",
+            "verse": 21,
+            "text": "Su carne desfallece hasta no verse, y sus huesos, que antes no se veían, aparecen."
+        },
+        {
+            "id": "job33_22",
+            "speaker": "Eliú",
+            "verse": 22,
+            "text": "Y su alma se acerca al sepulcro, y su vida a los que causan la muerte."
+        },
+        {
+            "id": "job33_23",
+            "speaker": "Eliú",
+            "verse": 23,
+            "text": "Si hubiese con él un elocuente mediador, uno entre mil, que anuncie al hombre su deber;"
+        },
+        {
+            "id": "job33_24",
+            "speaker": "Eliú",
+            "verse": 24,
+            "text": "Que le diga que Dios tuvo de él misericordia, que lo libró de descender al sepulcro, que halló redención:"
+        },
+        {
+            "id": "job33_25",
+            "speaker": "Eliú",
+            "verse": 25,
+            "text": "Su carne será más tierna que la del niño, volverá a los días de su juventud."
+        },
+        {
+            "id": "job33_26",
+            "speaker": "Eliú",
+            "verse": 26,
+            "text": "Orará a Dios, y Éste se agradará de él, y él verá su faz con júbilo. Porque Él restituirá al hombre su justicia."
+        },
+        {
+            "id": "job33_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Él mira sobre los hombres; y al que dijere:"
+        },
+        {
+            "id": "job33_27b",
+            "speaker": "Eliú",
+            "verse": 27,
+            "text": "Pequé, y pervertí lo recto, y no me ha aprovechado;"
+        },
+        {
+            "id": "job33_28",
+            "speaker": "Eliú",
+            "verse": 28,
+            "text": "Él redimirá su alma para que no pase al sepulcro, y su vida mirará la luz."
+        },
+        {
+            "id": "job33_29",
+            "speaker": "Eliú",
+            "verse": 29,
+            "text": "He aquí, todas estas cosas hace Dios, dos y tres veces con el hombre;"
+        },
+        {
+            "id": "job33_30",
+            "speaker": "Eliú",
+            "verse": 30,
+            "text": "Para apartar su alma del sepulcro, y para iluminarlo con la luz de los vivientes."
+        },
+        {
+            "id": "job33_31",
+            "speaker": "Eliú",
+            "verse": 31,
+            "text": "Escucha, Job, y óyeme; calla, y yo hablaré."
+        },
+        {
+            "id": "job33_32",
+            "speaker": "Eliú",
+            "verse": 32,
+            "text": "Si tienes algo qué decir, respóndeme; habla, porque yo te quiero justificar."
+        },
+        {
+            "id": "job33_33",
+            "speaker": "Eliú",
+            "verse": 33,
+            "text": "Y si no, óyeme tú a mí; calla, y te enseñaré sabiduría."
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "book": "Job",
+    "chapter": 31,
+    "title": "Job 31",
+    "messages": [
+        {
+            "id": "job31_1",
+            "speaker": "Job",
+            "verse": 1,
+            "text": "Hice pacto con mis ojos: ¿Cómo, pues, había yo de pensar en virgen?"
+        },
+        {
+            "id": "job31_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "Porque ¿qué galardón me daría de arriba Dios, y qué heredad el Omnipotente desde las alturas?"
+        },
+        {
+            "id": "job31_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "¿No hay quebrantamiento para el impío, y calamidad inesperada para los que obran iniquidad?"
+        },
+        {
+            "id": "job31_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "¿No ve Él mis caminos, y cuenta todos mis pasos?"
+        },
+        {
+            "id": "job31_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "Si anduve con mentira, y si mi pie se apresuró a engaño,"
+        },
+        {
+            "id": "job31_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "sea yo pesado en balanzas de justicia, y que Dios conozca mi integridad."
+        },
+        {
+            "id": "job31_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Si mis pasos se apartaron del camino, y si mi corazón se fue tras mis ojos, y si algo sucio se apegó a mis manos,"
+        },
+        {
+            "id": "job31_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "siembre yo y otro coma, y sean desarraigados mis renuevos."
+        },
+        {
+            "id": "job31_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "Si mi corazón fue engañado acerca de mujer, y si estuve acechando a la puerta de mi prójimo:"
+        },
+        {
+            "id": "job31_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Muela para otro mi esposa, y sobre ella otros se encorven."
+        },
+        {
+            "id": "job31_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "Porque es maldad e iniquidad, que han de castigar los jueces."
+        },
+        {
+            "id": "job31_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "Porque es fuego que devoraría hasta la destrucción, y desarraigaría toda mi hacienda."
+        },
+        {
+            "id": "job31_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "Si tuve en poco el derecho de mi siervo y de mi sierva, cuando ellos contendían conmigo,"
+        },
+        {
+            "id": "job31_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "¿qué haré yo cuando Dios se levante? Y cuando Él me pida cuentas, ¿qué le responderé yo?"
+        },
+        {
+            "id": "job31_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "El que en el vientre me hizo a mí, ¿no lo hizo a él? ¿Y no nos formó uno mismo en la matriz?"
+        },
+        {
+            "id": "job31_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "Si estorbé el contento de los pobres, e hice desfallecer los ojos de la viuda;"
+        },
+        {
+            "id": "job31_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "Y si comí mi bocado solo, y no comió de él el huérfano"
+        },
+        {
+            "id": "job31_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "(Porque desde mi juventud creció conmigo como con un padre, y desde el vientre de mi madre fui guía de la viuda);"
+        },
+        {
+            "id": "job31_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "Si he visto a alguno perecer por falta de ropa, o al menesteroso sin abrigo;"
+        },
+        {
+            "id": "job31_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "si no me bendijeron sus lomos, y del vellón de mis ovejas no se calentaron;"
+        },
+        {
+            "id": "job31_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "si alcé contra el huérfano mi mano, porque vi que me ayudarían en la puerta;"
+        },
+        {
+            "id": "job31_22",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "mi hombro se caiga de mi espalda, y mi brazo sea quebrado de mi antebrazo."
+        },
+        {
+            "id": "job31_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "Porque temí el castigo de Dios, contra cuya alteza yo no tendría poder."
+        },
+        {
+            "id": "job31_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Si puse en el oro mi esperanza, y dije al oro:"
+        },
+        {
+            "id": "job31_24b",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "Mi confianza eres tú;"
+        },
+        {
+            "id": "job31_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "Si me alegré de que mi riqueza era grande, y de que mi mano había adquirido mucho;"
+        },
+        {
+            "id": "job31_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "Ciertamente yo lo llevaría sobre mi hombro, y me lo ceñiría como una corona."
+        },
+        {
+            "id": "job31_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "y mi corazón se engañó en secreto, y mi boca besó mi mano:"
+        },
+        {
+            "id": "job31_28",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "Esto también sería maldad que debiera ser castigada por el juez; porque habría negado al Dios soberano."
+        },
+        {
+            "id": "job31_29",
+            "speaker": "Job",
+            "verse": 29,
+            "text": "Si me alegré en el quebrantamiento del que me aborrecía, y me regocijé cuando le halló el mal"
+        },
+        {
+            "id": "job31_30",
+            "speaker": "Job",
+            "verse": 30,
+            "text": "(Ni aun permití que mi lengua pecase, pidiendo maldición para su alma);"
+        },
+        {
+            "id": "job31_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Si los siervos de mi morada no decían:"
+        },
+        {
+            "id": "job31_31b",
+            "speaker": "Job",
+            "verse": 31,
+            "text": "¡Oh que nos diese de su carne, pues no estamos saciados!"
+        },
+        {
+            "id": "job31_32",
+            "speaker": "Job",
+            "verse": 32,
+            "text": "El extranjero no pasaba afuera la noche; mis puertas abría al caminante."
+        },
+        {
+            "id": "job31_33",
+            "speaker": "Job",
+            "verse": 33,
+            "text": "¿Acaso encubrí como Adán mis transgresiones, escondiendo en mi seno mi iniquidad,"
+        },
+        {
+            "id": "job31_34",
+            "speaker": "Job",
+            "verse": 34,
+            "text": "porque tuve temor de la gran multitud, y el menosprecio de las familias me atemorizó, y callé, y no salí de mi puerta?"
+        },
+        {
+            "id": "job31_35",
+            "speaker": "Job",
+            "verse": 35,
+            "text": "¡Quién me diera alguien que me oyese! He aquí mi deseo es que el Omnipotente me respondiese, y que mi adversario hubiese escrito un libro."
+        },
+        {
+            "id": "job31_36",
+            "speaker": "Job",
+            "verse": 36,
+            "text": "Ciertamente yo lo llevaría sobre mi hombro, y me lo ceñiría como una corona."
+        },
+        {
+            "id": "job31_37",
+            "speaker": "Job",
+            "verse": 37,
+            "text": "Yo le contaría el número de mis pasos, y como príncipe me presentaría ante Él."
+        },
+        {
+            "id": "job31_38",
+            "speaker": "Job",
+            "verse": 38,
+            "text": "Si mi tierra clama contra mí, y lloran todos sus surcos;"
+        },
+        {
+            "id": "job31_39",
+            "speaker": "Job",
+            "verse": 39,
+            "text": "Si comí su sustancia sin dinero, o causé que sus dueños perdieran su vida;"
+        },
+        {
+            "id": "job31_40",
+            "speaker": "Job",
+            "verse": 40,
+            "text": "En lugar de trigo me nazcan abrojos, y espinas en lugar de cebada. Terminan las palabras de Job."
+        }
+    ]
+}

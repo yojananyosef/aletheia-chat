@@ -1,0 +1,193 @@
+{
+    "book": "Job",
+    "chapter": 6,
+    "title": "Job 6",
+    "messages": [
+        {
+            "id": "job6_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y respondió Job y dijo:"
+        },
+        {
+            "id": "job6_2",
+            "speaker": "Job",
+            "verse": 2,
+            "text": "¡Oh, que pudiesen pesar justamente mi sufrimiento, y lo pusiesen en balanza junto con mi calamidad!"
+        },
+        {
+            "id": "job6_3",
+            "speaker": "Job",
+            "verse": 3,
+            "text": "Porque pesarían ahora más que la arena del mar; por tanto, mis palabras han sido precipitadas."
+        },
+        {
+            "id": "job6_4",
+            "speaker": "Job",
+            "verse": 4,
+            "text": "Porque las saetas del Todopoderoso están en mí, cuyo veneno bebe mi espíritu; y terrores de Dios me combaten."
+        },
+        {
+            "id": "job6_5",
+            "speaker": "Job",
+            "verse": 5,
+            "text": "¿Acaso gime el asno montés junto a la hierba? ¿Muge el buey junto a su pasto?"
+        },
+        {
+            "id": "job6_6",
+            "speaker": "Job",
+            "verse": 6,
+            "text": "¿Se comerá lo desabrido sin sal? ¿O habrá gusto en la clara del huevo?"
+        },
+        {
+            "id": "job6_7",
+            "speaker": "Job",
+            "verse": 7,
+            "text": "Las cosas que mi alma no quería tocar, son ahora mi triste alimento."
+        },
+        {
+            "id": "job6_8",
+            "speaker": "Job",
+            "verse": 8,
+            "text": "¡Quién me diera que viniese mi petición, y que me otorgase Dios lo que anhelo;"
+        },
+        {
+            "id": "job6_9",
+            "speaker": "Job",
+            "verse": 9,
+            "text": "y que agradara a Dios destruirme; que desatara su mano y acabara conmigo!"
+        },
+        {
+            "id": "job6_10",
+            "speaker": "Job",
+            "verse": 10,
+            "text": "Y sería aún mi consuelo, si me asaltase con dolor sin dar más tregua, que yo no he escondido las palabras del Santo."
+        },
+        {
+            "id": "job6_11",
+            "speaker": "Job",
+            "verse": 11,
+            "text": "¿Cuál es mi fuerza para esperar aún? ¿Y cuál mi fin para prolongar mi vida?"
+        },
+        {
+            "id": "job6_12",
+            "speaker": "Job",
+            "verse": 12,
+            "text": "¿Es mi fuerza la de las piedras, o es mi carne de bronce?"
+        },
+        {
+            "id": "job6_13",
+            "speaker": "Job",
+            "verse": 13,
+            "text": "¿No me ayudo a mí mismo, y el poder me falta del todo?"
+        },
+        {
+            "id": "job6_14",
+            "speaker": "Job",
+            "verse": 14,
+            "text": "El atribulado ha de ser consolado por su compañero; mas se ha abandonado el temor del Omnipotente."
+        },
+        {
+            "id": "job6_15",
+            "speaker": "Job",
+            "verse": 15,
+            "text": "Mis hermanos han sido traicioneros cual arroyo; pasan como corrientes impetuosas,"
+        },
+        {
+            "id": "job6_16",
+            "speaker": "Job",
+            "verse": 16,
+            "text": "que están obscuras por la helada, y encubiertas con nieve;"
+        },
+        {
+            "id": "job6_17",
+            "speaker": "Job",
+            "verse": 17,
+            "text": "que al tiempo del calor son deshechas, y al calentarse, desaparecen de su lugar;"
+        },
+        {
+            "id": "job6_18",
+            "speaker": "Job",
+            "verse": 18,
+            "text": "se apartan de la senda de su rumbo, van menguando y se pierden."
+        },
+        {
+            "id": "job6_19",
+            "speaker": "Job",
+            "verse": 19,
+            "text": "Miraron los caminantes de Tema, los caminantes de Seba esperaron en ellas;"
+        },
+        {
+            "id": "job6_20",
+            "speaker": "Job",
+            "verse": 20,
+            "text": "Pero fueron avergonzados por su esperanza; porque vinieron hasta ellas, y se hallaron confusos."
+        },
+        {
+            "id": "job6_21",
+            "speaker": "Job",
+            "verse": 21,
+            "text": "Ahora ciertamente como ellas sois vosotros; pues habéis visto mi infortunio, y teméis."
+        },
+        {
+            "id": "job6_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "¿Acaso yo os he dicho:"
+        },
+        {
+            "id": "job6_22b",
+            "speaker": "Job",
+            "verse": 22,
+            "text": "Traedme, y pagad por mí de vuestra hacienda;"
+        },
+        {
+            "id": "job6_23",
+            "speaker": "Job",
+            "verse": 23,
+            "text": "libradme de la mano del opresor, y redimidme del poder de los violentos?"
+        },
+        {
+            "id": "job6_24",
+            "speaker": "Job",
+            "verse": 24,
+            "text": "Enseñadme, y yo callaré; y hacedme entender en qué he errado."
+        },
+        {
+            "id": "job6_25",
+            "speaker": "Job",
+            "verse": 25,
+            "text": "¡Cuán fuertes son las palabras de rectitud! Pero, ¿qué reprende vuestra censura?"
+        },
+        {
+            "id": "job6_26",
+            "speaker": "Job",
+            "verse": 26,
+            "text": "¿Pensáis censurar las palabras, y los discursos de un desesperado, que son como el viento?"
+        },
+        {
+            "id": "job6_27",
+            "speaker": "Job",
+            "verse": 27,
+            "text": "También os arrojáis sobre el huérfano, y caváis un hoyo para vuestro amigo."
+        },
+        {
+            "id": "job6_28",
+            "speaker": "Job",
+            "verse": 28,
+            "text": "Ahora, pues, si queréis, miradme, y ved si miento delante de vosotros."
+        },
+        {
+            "id": "job6_29",
+            "speaker": "Job",
+            "verse": 29,
+            "text": "Tornad ahora, y no haya iniquidad; volved aún a considerar mi justicia en esto."
+        },
+        {
+            "id": "job6_30",
+            "speaker": "Job",
+            "verse": 30,
+            "text": "¿Hay iniquidad en mi lengua? ¿No puede mi paladar discernir las cosas depravadas?"
+        }
+    ]
+}

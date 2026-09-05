@@ -1,0 +1,169 @@
+{
+    "book": "Job",
+    "chapter": 5,
+    "title": "Job 5",
+    "messages": [
+        {
+            "id": "job5_1",
+            "speaker": "Elifaz",
+            "verse": 1,
+            "text": "Ahora, pues, da voces, si habrá quien te responda; ¿Y a cuál de los santos te volverás?"
+        },
+        {
+            "id": "job5_2",
+            "speaker": "Elifaz",
+            "verse": 2,
+            "text": "Es cierto que al necio lo mata la ira, y al codicioso lo consume la envidia."
+        },
+        {
+            "id": "job5_3",
+            "speaker": "Elifaz",
+            "verse": 3,
+            "text": "Yo he visto al necio que echaba raíces, y en la misma hora maldije su habitación."
+        },
+        {
+            "id": "job5_4",
+            "speaker": "Elifaz",
+            "verse": 4,
+            "text": "Sus hijos están lejos de la seguridad, en la puerta son quebrantados, y no hay quien los libre."
+        },
+        {
+            "id": "job5_5",
+            "speaker": "Elifaz",
+            "verse": 5,
+            "text": "Su mies comen los hambrientos, y la sacan de entre los espinos, y el atracador devora su hacienda."
+        },
+        {
+            "id": "job5_6",
+            "speaker": "Elifaz",
+            "verse": 6,
+            "text": "Porque la aflicción no sale del polvo, ni la molestia brota de la tierra."
+        },
+        {
+            "id": "job5_7",
+            "speaker": "Elifaz",
+            "verse": 7,
+            "text": "Pero como las chispas se levantan para volar por el aire, así el hombre nace para la aflicción."
+        },
+        {
+            "id": "job5_8",
+            "speaker": "Elifaz",
+            "verse": 8,
+            "text": "Ciertamente yo buscaría a Dios, y encomendaría a Él mi causa:"
+        },
+        {
+            "id": "job5_9",
+            "speaker": "Elifaz",
+            "verse": 9,
+            "text": "El cual hace cosas grandes e inescrutables, y maravillas sin número."
+        },
+        {
+            "id": "job5_10",
+            "speaker": "Elifaz",
+            "verse": 10,
+            "text": "Que da la lluvia sobre la faz de la tierra, y envía las aguas sobre los campos:"
+        },
+        {
+            "id": "job5_11",
+            "speaker": "Elifaz",
+            "verse": 11,
+            "text": "Que pone a los humildes en altura, y a los enlutados levanta a seguridad;"
+        },
+        {
+            "id": "job5_12",
+            "speaker": "Elifaz",
+            "verse": 12,
+            "text": "que frustra los pensamientos de los astutos, para que sus manos no hagan nada;"
+        },
+        {
+            "id": "job5_13",
+            "speaker": "Elifaz",
+            "verse": 13,
+            "text": "que prende a los sabios en la astucia de ellos, y entontece el consejo de los perversos;"
+        },
+        {
+            "id": "job5_14",
+            "speaker": "Elifaz",
+            "verse": 14,
+            "text": "De día tropiezan con las tinieblas, y a mediodía andan a tientas como de noche."
+        },
+        {
+            "id": "job5_15",
+            "speaker": "Elifaz",
+            "verse": 15,
+            "text": "Mas Él libra de la espada al pobre, de la boca de los impíos y de la mano violenta;"
+        },
+        {
+            "id": "job5_16",
+            "speaker": "Elifaz",
+            "verse": 16,
+            "text": "por tanto, el menesteroso tiene esperanza, y la iniquidad cierra su boca."
+        },
+        {
+            "id": "job5_17",
+            "speaker": "Elifaz",
+            "verse": 17,
+            "text": "He aquí, bienaventurado es el hombre a quien Dios castiga; por tanto, no menosprecies la corrección del Todopoderoso."
+        },
+        {
+            "id": "job5_18",
+            "speaker": "Elifaz",
+            "verse": 18,
+            "text": "Porque Él es quien hace la llaga, y Él la vendará: Él hiere, y sus manos curan."
+        },
+        {
+            "id": "job5_19",
+            "speaker": "Elifaz",
+            "verse": 19,
+            "text": "En seis tribulaciones te librará, y en la séptima no te tocará el mal."
+        },
+        {
+            "id": "job5_20",
+            "speaker": "Elifaz",
+            "verse": 20,
+            "text": "En el hambre te redimirá de la muerte, y en la guerra, del poder de la espada."
+        },
+        {
+            "id": "job5_21",
+            "speaker": "Elifaz",
+            "verse": 21,
+            "text": "Del azote de la lengua serás encubierto; no temerás de la destrucción cuando viniere."
+        },
+        {
+            "id": "job5_22",
+            "speaker": "Elifaz",
+            "verse": 22,
+            "text": "De la destrucción y del hambre te reirás, y no temerás de las fieras del campo:"
+        },
+        {
+            "id": "job5_23",
+            "speaker": "Elifaz",
+            "verse": 23,
+            "text": "Pues aun con las piedras del campo tendrás alianza, y las fieras del campo tendrán paz contigo."
+        },
+        {
+            "id": "job5_24",
+            "speaker": "Elifaz",
+            "verse": 24,
+            "text": "Y sabrás que hay paz en tu tienda; y visitarás tu morada, y no pecarás."
+        },
+        {
+            "id": "job5_25",
+            "speaker": "Elifaz",
+            "verse": 25,
+            "text": "Asimismo echarás de ver que tu descendencia será numerosa, y tu prole como la hierba de la tierra."
+        },
+        {
+            "id": "job5_26",
+            "speaker": "Elifaz",
+            "verse": 26,
+            "text": "Vendrás en la vejez a tu sepultura, como la gavilla de trigo que se recoge a su tiempo."
+        },
+        {
+            "id": "job5_27",
+            "speaker": "Elifaz",
+            "verse": 27,
+            "text": "He aquí lo que hemos inquirido, lo cual es así: Óyelo, y conócelo tú para tu bien."
+        }
+    ]
+}
