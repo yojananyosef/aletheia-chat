@@ -10,6 +10,7 @@ export type CanonicalSpeaker =
     | 'Marineros' | 'Rey de Nínive' | 'Impíos' | 'Pueblos'
     | 'Samuel' | 'Saúl' | 'David' | 'Salomón' | 'Elías' | 'Eliseo'
     | 'Esdras' | 'Nehemías' | 'Ester' | 'Mardoqueo' | 'Job' | 'Asaf'
+    | 'Satán' | 'Elifaz' | 'Bildad' | 'Zofar' | 'Eliú' | 'Esposa' | 'Mensajero'
     | 'Predicador' | 'Amado' | 'Amada'
     | 'Isaías' | 'Jeremías' | 'Ezequiel' | 'Daniel'
     | 'Oseas' | 'Joel' | 'Amós' | 'Abdías' | 'Jonás' | 'Miqueas'
