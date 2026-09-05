@@ -25,7 +25,9 @@ export const useBibleChat = ({
     const [isAdvancing, setIsAdvancing] = useState(false);
     const [error, setError] = useState<string | null>(null);
 
-    // Reset state when the book/chapter route changes (render-time adjustment)
+    // Reset state when the book/chapter route changes (render-time adjustment —
+    // patrón documentado React para estado derivado; el server component además
+    // pasa key={book:chapter} así en navegación real hay remount y esto es fallback).
     const chapterKey = `${book}:${chapter}`;
     const [loadedKey, setLoadedKey] = useState(chapterKey);
     if (loadedKey !== chapterKey) {
@@ -55,13 +57,13 @@ export const useBibleChat = ({
                 // Check if we have saved progress for this book+chapter
                 const savedProgress = StorageService.getProgress(book, chapter);
 
-                if (savedProgress !== null && savedProgress < json.messages.length) {
+                if (savedProgress !== null && savedProgress >= 0 && savedProgress < json.messages.length) {
                     // Resume from saved position
                     setCurrentIndex(savedProgress);
                 } else {
-                    // Fresh start — check if the first message needs manual send
+                    // Fresh start — pausa si el primer mensaje es personaje/Dios/título (todo no-Narrador)
                     const firstMsg = json.messages[0];
-                    const needsManualStart = firstMsg && (firstMsg.isHuman() || firstMsg.isTitle());
+                    const needsManualStart = firstMsg ? firstMsg.requiresManualAdvance() : false;
                     setCurrentIndex(needsManualStart ? -1 : 0);
                 }
             })
@@ -77,14 +79,15 @@ export const useBibleChat = ({
     const visibleMessages = data ? data.messages.slice(0, currentIndex + 1) : [];
     const nextMessage = data && (currentIndex + 1 < data.messages.length) ? data.messages[currentIndex + 1] : null;
 
-    // Domain behavior rules
-    const canAdvanceManually = nextMessage ? (nextMessage.isHuman() || nextMessage.isTitle()) : false;
+    // Domain behavior rules — pausa todo no-Narrador (Dios, personajes, títulos)
+    const canAdvanceManually = nextMessage ? nextMessage.requiresManualAdvance() : false;
 
-    // Auto-Advance Logic
+    // Auto-Advance Logic (solo Narrador)
     useEffect(() => {
         if (!isActive || !nextMessage || canAdvanceManually || !data) return;
 
         let isMounted = true;
+        let timeoutId: ReturnType<typeof setTimeout> | undefined;
         const autoAdvance = async () => {
             if (!isMounted) return;
 
@@ -111,7 +114,9 @@ export const useBibleChat = ({
             const maxDelay = Math.max(15000 * speed, 4000);
             delay = Math.min(delay, maxDelay);
 
-            await new Promise(r => setTimeout(r, delay));
+            await new Promise<void>(resolve => {
+                timeoutId = setTimeout(() => resolve(), delay);
+            });
 
             if (isMounted && isActive) {
                 setCurrentIndex(prev => prev + 1);
@@ -121,7 +126,11 @@ export const useBibleChat = ({
         };
 
         autoAdvance();
-        return () => { isMounted = false; setIsAdvancing(false); };
+        return () => {
+            isMounted = false;
+            if (timeoutId) clearTimeout(timeoutId);
+            setIsAdvancing(false);
+        };
     }, [nextMessage, canAdvanceManually, currentIndex, data, speed, isActive, onMessageUpdate]);
 
     const handleManualNext = () => {
@@ -133,7 +142,7 @@ export const useBibleChat = ({
     const restartChapter = () => {
         if (!data) return;
         const firstMsg = data.messages[0];
-        const needsManualStart = firstMsg && (firstMsg.isHuman() || firstMsg.isTitle());
+        const needsManualStart = firstMsg ? firstMsg.requiresManualAdvance() : false;
         setCurrentIndex(needsManualStart ? -1 : 0);
         setIsAdvancing(false);
         // Clear saved progress

@@ -36,5 +36,5 @@ export default async function BookChapterPage(
         notFound();
     }
 
-    return <ChatView bookId={book} chapter={chapterNumber} />;
+    return <ChatView key={`${book}:${chapterNumber}`} bookId={book} chapter={chapterNumber} />;
 }

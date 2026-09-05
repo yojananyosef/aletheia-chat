@@ -22,6 +22,14 @@ describe('Message (domain)', () => {
         expect(message.isHuman()).toBe(false);
     });
 
+    it('pausa todo no-Narrador (Dios, personajes y títulos requieren tap)', () => {
+        expect(new Message({ id: 'n', speaker: 'Narrador', text: 'x', verse: 1 }).requiresManualAdvance()).toBe(false);
+        expect(new Message({ id: 'd', speaker: 'Dios', text: '¡Que haya luz!', verse: 3 }).requiresManualAdvance()).toBe(true);
+        expect(new Message({ id: 'h', speaker: 'Adán', text: 'hola', verse: 4 }).requiresManualAdvance()).toBe(true);
+        expect(new Message({ id: 't', speaker: 'Sistema', text: 'Título', verse: 1, isSectionTitle: true }).requiresManualAdvance()).toBe(true);
+        expect(new Message({ id: 'nt', speaker: 'Narrador', text: 'Título', verse: 1, isSectionTitle: true }).requiresManualAdvance()).toBe(true);
+    });
+
     it('expone getters inmutables y toJSON devuelve los datos', () => {
         const data = { id: 'm4', speaker: 'Dios', text: '¡Que haya luz!', verse: 3 } as const;
         const message = new Message(data);

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useRef, useEffect, useState } from 'react';
+import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { RefreshCw, ShieldCheck, MessageSquare } from 'lucide-react';
 import { AnimatePresence } from 'motion/react';
@@ -46,9 +46,9 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
         StorageService.setLastChapter(bookId, chapter);
     }, [bookId, chapter]);
 
-    const onMessageNext = (msg: Message) => {
+    const onMessageNext = useCallback((msg: Message) => {
         if (!msg.isTitle() && msg.speaker !== 'Narrador') playPop();
-    };
+    }, [playPop]);
 
     const {
         data, currentIndex, isAdvancing, error, visibleMessages,
@@ -145,8 +145,8 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
                                 ))}
                             </AnimatePresence>
 
-                            {nextMessage && isAdvancing && nextMessage.isHuman() && (
-                                <TypingIndicator speaker={nextMessage.speaker} isGod={nextMessage.speaker === 'Dios'} />
+                            {nextMessage && isAdvancing && nextMessage.speaker === 'Narrador' && (
+                                <TypingIndicator speaker={nextMessage.speaker} isGod={false} />
                             )}
                         </>
                     ) : isNavigating ? (

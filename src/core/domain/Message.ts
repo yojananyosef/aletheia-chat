@@ -26,6 +26,16 @@ export class Message {
         return !!this.isSectionTitle;
     }
 
+    /** Solo el Narrador (no-título) fluye en auto-avance. */
+    isNarratorFlow(): boolean {
+        return this.speaker === 'Narrador' && !this.isTitle();
+    }
+
+    /** Todo no-Narrador pausa: Dios, humanos/personajes y títulos requieren tap. */
+    requiresManualAdvance(): boolean {
+        return !this.isNarratorFlow();
+    }
+
     toJSON(): MessageData {
         return { ...this.data };
     }

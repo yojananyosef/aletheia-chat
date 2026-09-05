@@ -79,7 +79,7 @@ describe('useBibleChat', () => {
         expect(window.localStorage.getItem('naas:v1:progress:genesis:1')).toBe('1');
     });
 
-    it('auto-avanza mensajes no humanos (Narrador/Dios) y se detiene ante uno humano', async () => {
+    it('auto-avanza solo Narrador y pausa Dios + humanos', async () => {
         const { result } = renderChat();
         await flushLoad();
 
@@ -88,15 +88,38 @@ describe('useBibleChat', () => {
         act(() => result.current.handleManualNext()); // index 0 (título)
         act(() => result.current.handleManualNext()); // index 1 (Narrador)
 
-        // El siguiente es Dios → auto-avanza tras su delay
-        await waitFor(() => expect(result.current.currentIndex).toBe(2));
-        expect(result.current.isAdvancing).toBe(false);
+        // El siguiente es Dios → pausa, requiere tap (todo no-Narrador)
+        await act(async () => {
+            await new Promise(resolve => setTimeout(resolve, 150));
+        });
+        expect(result.current.currentIndex).toBe(1);
+        expect(result.current.canAdvanceManually).toBe(true);
 
-        // El siguiente es humano (Adán) → no debe auto-avanzar más
+        act(() => result.current.handleManualNext()); // index 2 (Dios)
+        expect(result.current.currentIndex).toBe(2);
+
+        // El siguiente es humano (Adán) → sigue en pausa
         await act(async () => {
             await new Promise(resolve => setTimeout(resolve, 150));
         });
         expect(result.current.currentIndex).toBe(2);
+        expect(result.current.canAdvanceManually).toBe(true);
+    });
+
+    it('auto-avanza Narrador tras Narrador sin tap', async () => {
+        loadChapterService.mockImplementation(async (): Promise<ValidChapterData> =>
+            buildChapter(['narrator', 'narrator', 'human'])
+        );
+        // Primer Narrador arranca en 0 (no requiere tap)
+        const { result } = renderChat();
+        await flushLoad();
+        await waitFor(() => expect(result.current.data).not.toBeNull());
+        // Avanza solo al segundo Narrador y se detiene ante humano
+        await waitFor(() => expect(result.current.currentIndex).toBe(1), { timeout: 2000 });
+        await act(async () => {
+            await new Promise(resolve => setTimeout(resolve, 150));
+        });
+        expect(result.current.currentIndex).toBe(1);
         expect(result.current.canAdvanceManually).toBe(true);
     });
 
