@@ -1,0 +1,115 @@
+{
+    "book": "Jonás",
+    "chapter": 4,
+    "title": "Jonás 4",
+    "messages": [
+        {
+            "id": "jon4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pero esto desagradó a Jonás en gran manera, y se enojó."
+        },
+        {
+            "id": "jon4_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y oró a Jehová, y dijo:"
+        },
+        {
+            "id": "jon4_2b",
+            "speaker": "Jonás",
+            "verse": 2,
+            "text": "Ahora, oh Jehová, ¿no es esto lo que yo decía estando aún en mi tierra? Por eso me precaví huyendo a Tarsis; porque yo sabía yo que tú eres Dios clemente y piadoso, lento para la ira, y grande en misericordia, y que te arrepientes del mal."
+        },
+        {
+            "id": "jon4_3",
+            "speaker": "Jonás",
+            "verse": 3,
+            "text": "Ahora pues, oh Jehová, te ruego que me quites la vida; porque mejor me es la muerte que la vida."
+        },
+        {
+            "id": "jon4_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Jehová le dijo:"
+        },
+        {
+            "id": "jon4_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "¿Haces tú bien en enojarte tanto?"
+        },
+        {
+            "id": "jon4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces salió Jonás de la ciudad, y asentó hacia el oriente de la ciudad, y se hizo allí un cobertizo, y se sentó debajo de él a la sombra, hasta ver qué sería de la ciudad."
+        },
+        {
+            "id": "jon4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y preparó Jehová Dios una calabacera, la cual creció sobre Jonás para que hiciese sombra sobre su cabeza, y le librase de su mal; y Jonás se alegró grandemente por la calabacera."
+        },
+        {
+            "id": "jon4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mas Dios preparó un gusano al venir la mañana del día siguiente, el cual hirió a la calabacera, y se secó."
+        },
+        {
+            "id": "jon4_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y aconteció que al salir el sol, preparó Dios un recio viento solano; y el sol hirió a Jonás en la cabeza, y desmayaba; y deseaba la muerte, diciendo:"
+        },
+        {
+            "id": "jon4_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Mejor sería para mí la muerte que la vida."
+        },
+        {
+            "id": "jon4_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces dijo Dios a Jonás:"
+        },
+        {
+            "id": "jon4_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Tanto te enojas por la calabacera?"
+        },
+        {
+            "id": "jon4_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "jon4_9d",
+            "speaker": "Jonás",
+            "verse": 9,
+            "text": "Mucho me enojo, hasta la muerte."
+        },
+        {
+            "id": "jon4_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dijo Jehová:"
+        },
+        {
+            "id": "jon4_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Tuviste tú lástima de la calabacera, en la cual no trabajaste, ni tú la hiciste crecer; que en espacio de una noche nació, y en espacio de otra noche pereció:"
+        },
+        {
+            "id": "jon4_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "¿Y no tendré yo piedad de Nínive, aquella grande ciudad donde hay más de ciento veinte mil personas que no pueden discernir entre su mano derecha y su mano izquierda, y muchos animales?"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "book": "Rut",
+    "chapter": 3,
+    "title": "Rut 3",
+    "messages": [
+        {
+            "id": "rut3_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces Noemí, su suegra, le dijo:"
+        },
+        {
+            "id": "rut3_1b",
+            "speaker": "Noemí",
+            "verse": 1,
+            "text": "Hija mía, ¿no he de buscar descanso para ti, para que estés bien?"
+        },
+        {
+            "id": "rut3_2",
+            "speaker": "Noemí",
+            "verse": 2,
+            "text": "¿No es Boaz nuestro pariente, con cuyas mozas tú has estado? He aquí que esta noche él avienta la parva de las cebadas."
+        },
+        {
+            "id": "rut3_3",
+            "speaker": "Noemí",
+            "verse": 3,
+            "text": "Te lavarás pues, y te ungirás, y te pondrás tu vestido y bajarás a la era; pero no te darás a conocer al varón hasta que él haya acabado de comer y de beber."
+        },
+        {
+            "id": "rut3_4",
+            "speaker": "Noemí",
+            "verse": 4,
+            "text": "Y cuando él se acostare, observa tú el lugar donde él se acuesta, e irás, y descubrirás sus pies, y te acostarás allí; y él te dirá lo que debes hacer."
+        },
+        {
+            "id": "rut3_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ella le respondió:"
+        },
+        {
+            "id": "rut3_5b",
+            "speaker": "Rut",
+            "verse": 5,
+            "text": "Haré todo lo que tú me dices."
+        },
+        {
+            "id": "rut3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Descendió, pues, a la era, e hizo todo lo que su suegra le había mandado."
+        },
+        {
+            "id": "rut3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando Boaz hubo comido y bebido, y su corazón estuvo contento, se retiró a dormir a un lado del montón de grano. Entonces ella vino calladamente, y le descubrió los pies y se acostó."
+        },
+        {
+            "id": "rut3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y aconteció, que a la media noche se estremeció aquel hombre, y palpó; y he aquí, la mujer que estaba acostada a sus pies."
+        },
+        {
+            "id": "rut3_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces él dijo:"
+        },
+        {
+            "id": "rut3_9b",
+            "speaker": "Booz",
+            "verse": 9,
+            "text": "¿Quién eres?"
+        },
+        {
+            "id": "rut3_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "rut3_9d",
+            "speaker": "Rut",
+            "verse": 9,
+            "text": "Yo soy Ruth tu sierva; extiende el borde de tu capa sobre tu sierva, por cuanto eres pariente redentor."
+        },
+        {
+            "id": "rut3_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "rut3_10b",
+            "speaker": "Booz",
+            "verse": 10,
+            "text": "Bendita seas tú de Jehová, hija mía; pues has hecho mejor tu postrera gracia que la primera, no yendo tras los jóvenes, sean pobres o ricos."
+        },
+        {
+            "id": "rut3_11",
+            "speaker": "Booz",
+            "verse": 11,
+            "text": "Ahora, pues, no temas, hija mía: yo haré contigo lo que me pidas, pues toda la gente de mi pueblo sabe que eres una mujer virtuosa."
+        },
+        {
+            "id": "rut3_12",
+            "speaker": "Booz",
+            "verse": 12,
+            "text": "Y ahora, aunque es cierto que yo soy tu pariente redentor, con todo eso hay un pariente redentor más cercano que yo."
+        },
+        {
+            "id": "rut3_13",
+            "speaker": "Booz",
+            "verse": 13,
+            "text": "Quédate esta noche, y cuando sea de día, si él te redimiere, bien, que te redima; mas si él no te quisiere redimir, yo te redimiré, vive Jehová. Descansa, pues, hasta la mañana."
+        },
+        {
+            "id": "rut3_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y ella durmió a sus pies hasta la mañana, y se levantó antes que alguno pudiese reconocer al otro. Y él dijo:"
+        },
+        {
+            "id": "rut3_14b",
+            "speaker": "Booz",
+            "verse": 14,
+            "text": "Que no se sepa que vino mujer a la era."
+        },
+        {
+            "id": "rut3_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Después le dijo:"
+        },
+        {
+            "id": "rut3_15b",
+            "speaker": "Booz",
+            "verse": 15,
+            "text": "Dame el lienzo que traes sobre ti, y sostenlo. Y sosteniéndolo ella, él midió seis medidas de cebada, y las puso sobre ella; y ella se fue a la ciudad."
+        },
+        {
+            "id": "rut3_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y cuando llegó a donde estaba su suegra, ésta le dijo:"
+        },
+        {
+            "id": "rut3_16b",
+            "speaker": "Noemí",
+            "verse": 16,
+            "text": "¿Qué, pues, hija mía?"
+        },
+        {
+            "id": "rut3_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y ella le contó todo lo que aquel varón había hecho por ella."
+        },
+        {
+            "id": "rut3_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "rut3_17b",
+            "speaker": "Rut",
+            "verse": 17,
+            "text": "Estas seis medidas de cebada me dio, diciéndome: Para que no vayas a tu suegra con las manos vacías."
+        },
+        {
+            "id": "rut3_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces Noemí dijo:"
+        },
+        {
+            "id": "rut3_18b",
+            "speaker": "Noemí",
+            "verse": 18,
+            "text": "Reposa, hija mía, hasta que sepas cómo termina esto; porque aquel hombre no descansará hasta que concluya el asunto hoy."
+        }
+    ]
+}

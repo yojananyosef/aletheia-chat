@@ -1,0 +1,10 @@
+[
+  {"verse": 1, "subId": "b", "speaker": "Booz", "confidence": 0.9},
+  {"verse": 2, "subId": "b", "speaker": "Booz", "confidence": 0.85},
+  {"verse": 3, "subId": "b", "speaker": "Booz", "confidence": 0.9},
+  {"verse": 4, "subId": "a", "speaker": "Booz", "confidence": 0.85},
+  {"verse": 4, "subId": "b", "speaker": "Pariente", "confidence": 0.9},
+  {"verse": 10, "subId": "", "speaker": "Booz", "confidence": 0.85},
+  {"verse": 12, "subId": "", "speaker": "Ancianos", "confidence": 0.8},
+  {"verse": 15, "subId": "", "speaker": "Mujeres", "confidence": 0.8}
+]

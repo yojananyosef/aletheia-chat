@@ -1,0 +1,157 @@
+{
+    "book": "Jonás",
+    "chapter": 1,
+    "title": "Jonás 1",
+    "messages": [
+        {
+            "id": "jon1_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y la palabra de Jehová vino a Jonás, hijo de Amitai, diciendo:"
+        },
+        {
+            "id": "jon1_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Levántate, y ve a Nínive, la gran ciudad, y pregona contra ella; porque su maldad ha subido delante de mí."
+        },
+        {
+            "id": "jon1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Jonás se levantó para huir de la presencia de Jehová a Tarsis, y descendió a Jope; y halló un navío que partía para Tarsis; y pagando su pasaje, entró en él para irse con ellos a Tarsis de delante de Jehová."
+        },
+        {
+            "id": "jon1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas Jehová hizo levantar un gran viento en el mar, y se hizo una tan gran tempestad en el mar, que se pensó se rompería la nave."
+        },
+        {
+            "id": "jon1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los marineros tuvieron miedo, y cada uno clamaba a su dios; y echaron al mar los enseres que había en la nave, para descargarla de ellos. Pero Jonás se había bajado a los lados del buque, y se había echado a dormir."
+        },
+        {
+            "id": "jon1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y el maestre de la nave vino a él y le dijo:"
+        },
+        {
+            "id": "jon1_6b",
+            "speaker": "Marineros",
+            "verse": 6,
+            "text": "¿Qué tienes, dormilón? Levántate, y clama a tu Dios; quizá Dios tendrá compasión de nosotros, y no pereceremos."
+        },
+        {
+            "id": "jon1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijeron cada uno a su compañero:"
+        },
+        {
+            "id": "jon1_7b",
+            "speaker": "Marineros",
+            "verse": 7,
+            "text": "Venid, y echemos suertes, para saber por quién nos ha venido este mal. Y echaron suertes, y la suerte cayó sobre Jonás."
+        },
+        {
+            "id": "jon1_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces le dijeron ellos:"
+        },
+        {
+            "id": "jon1_8b",
+            "speaker": "Marineros",
+            "verse": 8,
+            "text": "Decláranos ahora por qué nos ha venido este mal. ¿Qué oficio tienes, y de dónde vienes? ¿Cuál es tu tierra, y de qué pueblo eres?"
+        },
+        {
+            "id": "jon1_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y él les respondió:"
+        },
+        {
+            "id": "jon1_9b",
+            "speaker": "Jonás",
+            "verse": 9,
+            "text": "Soy hebreo, y temo a Jehová, Dios de los cielos, que hizo el mar y la tierra."
+        },
+        {
+            "id": "jon1_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y aquellos hombres temieron sobremanera, y le dijeron:"
+        },
+        {
+            "id": "jon1_10b",
+            "speaker": "Marineros",
+            "verse": 10,
+            "text": "¿Por qué has hecho esto? Porque ellos entendieron que huía de delante de Jehová, porque él se los había declarado."
+        },
+        {
+            "id": "jon1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y le dijeron:"
+        },
+        {
+            "id": "jon1_11b",
+            "speaker": "Marineros",
+            "verse": 11,
+            "text": "¿Qué te haremos, para que el mar se nos aquiete? porque el mar se embravecía más y más."
+        },
+        {
+            "id": "jon1_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Él les respondió:"
+        },
+        {
+            "id": "jon1_12b",
+            "speaker": "Jonás",
+            "verse": 12,
+            "text": "Tomadme, y echadme al mar, y el mar se os aquietará; porque yo sé que por mi causa ha venido esta grande tempestad sobre vosotros."
+        },
+        {
+            "id": "jon1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y aquellos hombres trabajaron por tornar la nave a tierra; mas no pudieron, porque el mar iba a más, y se embravecía sobre ellos."
+        },
+        {
+            "id": "jon1_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces clamaron a Jehová, y dijeron:"
+        },
+        {
+            "id": "jon1_14b",
+            "speaker": "Marineros",
+            "verse": 14,
+            "text": "Te rogamos oh Jehová, te rogamos, no dejes que perezcamos por la vida de este hombre, ni pongas sobre nosotros la sangre inocente: porque tú, oh Jehová, has hecho como has querido."
+        },
+        {
+            "id": "jon1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y tomaron a Jonás, y lo echaron al mar; y el mar se aquietó de su furia."
+        },
+        {
+            "id": "jon1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y temieron aquellos hombres a Jehová con gran temor; y ofrecieron sacrificio a Jehová, y prometieron votos."
+        },
+        {
+            "id": "jon1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pero Jehová había prevenido un gran pez que tragase a Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches."
+        }
+    ]
+}

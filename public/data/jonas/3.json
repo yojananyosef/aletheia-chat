@@ -1,0 +1,85 @@
+{
+    "book": "Jonás",
+    "chapter": 3,
+    "title": "Jonás 3",
+    "messages": [
+        {
+            "id": "jon3_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vino palabra de Jehová segunda vez a Jonás, diciendo:"
+        },
+        {
+            "id": "jon3_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Levántate y ve a Nínive, aquella gran ciudad, y predica en ella el mensaje que yo te diré."
+        },
+        {
+            "id": "jon3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y se levantó Jonás, y fue a Nínive, conforme a la palabra de Jehová. Y era Nínive ciudad sobremanera grande, de tres días de camino."
+        },
+        {
+            "id": "jon3_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y comenzó Jonás a entrar por la ciudad, camino de un día, y pregonaba diciendo:"
+        },
+        {
+            "id": "jon3_4b",
+            "speaker": "Jonás",
+            "verse": 4,
+            "text": "De aquí a cuarenta días Nínive será destruida."
+        },
+        {
+            "id": "jon3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los hombres de Nínive creyeron a Dios, y pregonaron ayuno, y se vistieron de cilicio desde el mayor de ellos hasta el menor de ellos."
+        },
+        {
+            "id": "jon3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y llegó la noticia hasta el rey de Nínive, y se levantó de su silla, y echó de sí su vestidura, y se cubrió de cilicio, y se sentó sobre ceniza."
+        },
+        {
+            "id": "jon3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "E hizo pregonar y anunciar en Nínive, por mandato del rey y de sus grandes, diciendo:"
+        },
+        {
+            "id": "jon3_7b",
+            "speaker": "Rey de Nínive",
+            "verse": 7,
+            "text": "Hombres y animales, bueyes y ovejas, no gusten cosa alguna, no se les dé alimento, ni beban agua;"
+        },
+        {
+            "id": "jon3_8a",
+            "speaker": "Rey de Nínive",
+            "verse": 8,
+            "text": "Y que se cubran de cilicio los hombres y los animales, y clamen a Dios fuertemente:"
+        },
+        {
+            "id": "jon3_8b",
+            "speaker": "Rey de Nínive",
+            "verse": 8,
+            "text": "y conviértase cada uno de su mal camino, de la rapiña que está en sus manos."
+        },
+        {
+            "id": "jon3_9",
+            "speaker": "Rey de Nínive",
+            "verse": 9,
+            "text": "¿Quién sabe si se volverá y arrepentirá Dios, y se apartará del furor de su ira, y no pereceremos?"
+        },
+        {
+            "id": "jon3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y vio Dios lo que hicieron, que se convirtieron de su mal camino; y se arrepintió del mal que había dicho que les había de hacer, y no lo hizo."
+        }
+    ]
+}

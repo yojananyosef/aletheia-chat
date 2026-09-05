@@ -1,0 +1,223 @@
+{
+    "book": "Rut",
+    "chapter": 4,
+    "title": "Rut 4",
+    "messages": [
+        {
+            "id": "rut4_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Boaz subió a la puerta y se sentó allí; y he aquí pasaba aquel pariente redentor del cual Boaz había hablado, y le dijo:"
+        },
+        {
+            "id": "rut4_1b",
+            "speaker": "Booz",
+            "verse": 1,
+            "text": "Eh, fulano, ven acá y siéntate."
+        },
+        {
+            "id": "rut4_1c",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y él vino, y se sentó."
+        },
+        {
+            "id": "rut4_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces él tomó diez varones de los ancianos de la ciudad, y dijo:"
+        },
+        {
+            "id": "rut4_2b",
+            "speaker": "Booz",
+            "verse": 2,
+            "text": "Sentaos aquí."
+        },
+        {
+            "id": "rut4_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y ellos se sentaron."
+        },
+        {
+            "id": "rut4_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Luego dijo al pariente redentor:"
+        },
+        {
+            "id": "rut4_3b",
+            "speaker": "Booz",
+            "verse": 3,
+            "text": "Noemí, que ha vuelto del campo de Moab, vende una parte de las tierras que tuvo nuestro hermano Elimelec;"
+        },
+        {
+            "id": "rut4_4a",
+            "speaker": "Booz",
+            "verse": 4,
+            "text": "Y yo decidí hacértelo saber, y decirte que la tomes delante de los que están aquí sentados, y delante de los ancianos de mi pueblo. Si quieres redimir, redime; y si no quieres redimir, dímelo para que yo lo sepa; porque no hay otro que redima sino tú, y yo después de ti. Y él respondió:"
+        },
+        {
+            "id": "rut4_4b",
+            "speaker": "Pariente",
+            "verse": 4,
+            "text": "Yo redimiré."
+        },
+        {
+            "id": "rut4_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces replicó Boaz:"
+        },
+        {
+            "id": "rut4_5b",
+            "speaker": "Booz",
+            "verse": 5,
+            "text": "El mismo día que compres las tierras de mano de Noemí, debes tomar también a Ruth la moabita, esposa del difunto, para que restaures el nombre del muerto sobre su heredad."
+        },
+        {
+            "id": "rut4_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y respondió el pariente:"
+        },
+        {
+            "id": "rut4_6b",
+            "speaker": "Pariente",
+            "verse": 6,
+            "text": "No puedo redimir para mí, porque dañaría mi heredad; redime tú, usando de mi derecho, porque yo no podré redimir."
+        },
+        {
+            "id": "rut4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y en tiempos pasados había esta costumbre en Israel tocante a la redención o contrato, que para confirmar cualquier asunto, uno se quitaba el zapato y lo daba a su compañero; y éste era el testimonio en Israel."
+        },
+        {
+            "id": "rut4_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces el pariente dijo a Boaz:"
+        },
+        {
+            "id": "rut4_8b",
+            "speaker": "Pariente",
+            "verse": 8,
+            "text": "Tómalo tú."
+        },
+        {
+            "id": "rut4_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y se quitó su zapato."
+        },
+        {
+            "id": "rut4_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Boaz dijo a los ancianos y a todo el pueblo:"
+        },
+        {
+            "id": "rut4_9b",
+            "speaker": "Booz",
+            "verse": 9,
+            "text": "Vosotros sois testigos hoy de que tomo todas las cosas que fueron de Elimelec, y todo lo que fue de Quilión y de Mahalón, de mano de Noemí."
+        },
+        {
+            "id": "rut4_10",
+            "speaker": "Booz",
+            "verse": 10,
+            "text": "Y que también tomo por mi esposa a Ruth la moabita, esposa de Mahalón, para restaurar el nombre del difunto sobre su heredad, para que el nombre del muerto no se borre de entre sus hermanos y de la puerta de su lugar. Vosotros sois testigos hoy."
+        },
+        {
+            "id": "rut4_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y dijeron todos los del pueblo que estaban a la puerta con los ancianos:"
+        },
+        {
+            "id": "rut4_11b",
+            "speaker": "Ancianos",
+            "verse": 11,
+            "text": "Testigos somos. Jehová haga a la mujer que entra en tu casa como a Raquel y a Lea, las cuales edificaron la casa de Israel; y tú seas ilustre en Efrata, y seas de renombre en Belén;"
+        },
+        {
+            "id": "rut4_12",
+            "speaker": "Ancianos",
+            "verse": 12,
+            "text": "Y de la simiente que Jehová te diere de esta joven, sea tu casa como la casa de Fares, el que Tamar dio a luz a Judá."
+        },
+        {
+            "id": "rut4_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Boaz, pues, tomó a Ruth, y ella fue su esposa; y luego que entró a ella, Jehová le dio que concibiese y diese a luz un hijo."
+        },
+        {
+            "id": "rut4_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y las mujeres decían a Noemí:"
+        },
+        {
+            "id": "rut4_14b",
+            "speaker": "Mujeres",
+            "verse": 14,
+            "text": "Bendito sea Jehová, que hizo que no te faltase hoy pariente redentor, cuyo nombre será célebre en Israel."
+        },
+        {
+            "id": "rut4_15",
+            "speaker": "Mujeres",
+            "verse": 15,
+            "text": "Y él será el restaurador de tu vida, y sustentará tu vejez; porque tu nuera, que te ama, y es de más valor para ti que siete hijos, lo ha dado a luz."
+        },
+        {
+            "id": "rut4_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Noemí tomó al niño y lo puso en su regazo, y le fue su aya."
+        },
+        {
+            "id": "rut4_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y las vecinas le dieron un nombre, diciendo:"
+        },
+        {
+            "id": "rut4_17b",
+            "speaker": "Mujeres",
+            "verse": 17,
+            "text": "A Noemí le ha nacido un hijo; y le llamaron Obed. Éste es el padre de Isaí, padre de David."
+        },
+        {
+            "id": "rut4_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y éstas son las generaciones de Fares: Fares engendró a Hezrón;"
+        },
+        {
+            "id": "rut4_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y Hezrón engendró a Ram, y Ram engendró a Aminadab;"
+        },
+        {
+            "id": "rut4_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "y Aminadab engendró a Naasón, y Naasón engendró a Salmón;"
+        },
+        {
+            "id": "rut4_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "y Salmón engendró a Boaz, y Boaz engendró a Obed;"
+        },
+        {
+            "id": "rut4_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "y Obed engendró a Isaí, e Isaí engendró a David."
+        }
+    ]
+}

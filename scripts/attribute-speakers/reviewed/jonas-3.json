@@ -1,0 +1,7 @@
+[
+  {"verse": 2, "subId": "", "speaker": "Dios", "confidence": 0.9},
+  {"verse": 7, "subId": "b", "speaker": "Rey de Nínive", "confidence": 0.85},
+  {"verse": 8, "subId": "a", "speaker": "Rey de Nínive", "confidence": 0.85},
+  {"verse": 8, "subId": "b", "speaker": "Rey de Nínive", "confidence": 0.85},
+  {"verse": 9, "subId": "", "speaker": "Rey de Nínive", "confidence": 0.8}
+]

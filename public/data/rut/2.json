@@ -1,0 +1,289 @@
+{
+    "book": "Rut",
+    "chapter": 2,
+    "title": "Rut 2",
+    "messages": [
+        {
+            "id": "rut2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y tenía Noemí un pariente de su marido, varón rico y poderoso, de la familia de Elimelec, el cual se llamaba Boaz."
+        },
+        {
+            "id": "rut2_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Ruth la moabita dijo a Noemí:"
+        },
+        {
+            "id": "rut2_2b",
+            "speaker": "Rut",
+            "verse": 2,
+            "text": "Te ruego que me dejes ir al campo, y recogeré espigas en pos de aquel a cuyos ojos hallare gracia."
+        },
+        {
+            "id": "rut2_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y ella le respondió:"
+        },
+        {
+            "id": "rut2_2d",
+            "speaker": "Noemí",
+            "verse": 2,
+            "text": "Ve, hija mía."
+        },
+        {
+            "id": "rut2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Fue, pues, y llegando, espigó en el campo en pos de los segadores; y aconteció por ventura, que la parte del campo era de Boaz, el cual era de la parentela de Elimelec."
+        },
+        {
+            "id": "rut2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y he aquí que Boaz vino de Belén, y dijo a los segadores:"
+        },
+        {
+            "id": "rut2_4b",
+            "speaker": "Booz",
+            "verse": 4,
+            "text": "Jehová sea con vosotros."
+        },
+        {
+            "id": "rut2_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "rut2_4d",
+            "speaker": "Segadores",
+            "verse": 4,
+            "text": "Jehová te bendiga."
+        },
+        {
+            "id": "rut2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Boaz dijo a su siervo el mayordomo de los segadores:"
+        },
+        {
+            "id": "rut2_5b",
+            "speaker": "Booz",
+            "verse": 5,
+            "text": "¿De quién es esta joven?"
+        },
+        {
+            "id": "rut2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y el siervo, mayordomo de los segadores, respondió y dijo:"
+        },
+        {
+            "id": "rut2_6b",
+            "speaker": "Criado",
+            "verse": 6,
+            "text": "Es la joven de Moab, que volvió con Noemí de los campos de Moab;"
+        },
+        {
+            "id": "rut2_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y ha dicho:"
+        },
+        {
+            "id": "rut2_7b",
+            "speaker": "Criado",
+            "verse": 7,
+            "text": "Te ruego que me dejes recoger y juntar tras los segadores entre las gavillas: Entró, pues, y está desde por la mañana hasta ahora, menos un poco que se detuvo en casa."
+        },
+        {
+            "id": "rut2_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces Boaz dijo a Ruth:"
+        },
+        {
+            "id": "rut2_8b",
+            "speaker": "Booz",
+            "verse": 8,
+            "text": "Oye, hija mía, no vayas a espigar a otro campo, ni pases de aquí; y aquí estarás junto a mis criadas."
+        },
+        {
+            "id": "rut2_9",
+            "speaker": "Booz",
+            "verse": 9,
+            "text": "Mira bien el campo que ellas siegan, y síguelas; porque yo he mandado a los criados que no te toquen. Y si tuvieres sed, ve a los vasos, y bebe del agua que sacan los criados."
+        },
+        {
+            "id": "rut2_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Ella entonces bajando su rostro se inclinó a tierra, y le dijo:"
+        },
+        {
+            "id": "rut2_10b",
+            "speaker": "Rut",
+            "verse": 10,
+            "text": "¿Por qué he hallado gracia en tus ojos para que tú me reconozcas, siendo yo extranjera?"
+        },
+        {
+            "id": "rut2_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y respondiendo Boaz, le dijo:"
+        },
+        {
+            "id": "rut2_11b",
+            "speaker": "Booz",
+            "verse": 11,
+            "text": "Por cierto se me ha contado todo lo que has hecho con tu suegra después de la muerte de tu marido, y que dejando a tu padre y a tu madre y la tierra donde naciste, has venido a un pueblo que no conociste antes."
+        },
+        {
+            "id": "rut2_12",
+            "speaker": "Booz",
+            "verse": 12,
+            "text": "Jehová recompense tu obra, y tu remuneración sea completa por Jehová Dios de Israel, que has venido a refugiarte bajo sus alas."
+        },
+        {
+            "id": "rut2_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y ella dijo:"
+        },
+        {
+            "id": "rut2_13b",
+            "speaker": "Rut",
+            "verse": 13,
+            "text": "Señor mío, halle yo gracia delante de tus ojos; porque me has consolado, y porque has hablado al corazón de tu sierva, no siendo yo como una de tus criadas."
+        },
+        {
+            "id": "rut2_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Boaz le dijo a la hora de comer:"
+        },
+        {
+            "id": "rut2_14b",
+            "speaker": "Booz",
+            "verse": 14,
+            "text": "Acércate aquí, y come del pan, y moja tu bocado en el vinagre."
+        },
+        {
+            "id": "rut2_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y ella se sentó junto a los segadores, y él le dio del potaje, y comió hasta que se sació y le sobró."
+        },
+        {
+            "id": "rut2_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Luego se levantó para espigar. Y Boaz mandó a sus criados, diciendo:"
+        },
+        {
+            "id": "rut2_15b",
+            "speaker": "Booz",
+            "verse": 15,
+            "text": "Que recoja también espigas entre las gavillas, y no la avergoncéis;"
+        },
+        {
+            "id": "rut2_16",
+            "speaker": "Booz",
+            "verse": 16,
+            "text": "y dejad caer algunos de los manojos, y la dejaréis que los recoja, y no la reprendáis."
+        },
+        {
+            "id": "rut2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y espigó en el campo hasta la tarde, y desgranó lo que había recogido, y fue como un efa de cebada."
+        },
+        {
+            "id": "rut2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y lo tomó, y se fue a la ciudad; y su suegra vio lo que había recogido. Sacó también luego lo que le había sobrado después de quedar saciada, y se lo dio."
+        },
+        {
+            "id": "rut2_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y le dijo su suegra:"
+        },
+        {
+            "id": "rut2_19b",
+            "speaker": "Noemí",
+            "verse": 19,
+            "text": "¿Dónde has espigado hoy? ¿Y dónde has trabajado? Bendito sea el que te ha reconocido."
+        },
+        {
+            "id": "rut2_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y ella contó a su suegra con quién había trabajado, y dijo:"
+        },
+        {
+            "id": "rut2_19d",
+            "speaker": "Rut",
+            "verse": 19,
+            "text": "El nombre del varón con quien hoy he trabajado es Boaz."
+        },
+        {
+            "id": "rut2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y dijo Noemí a su nuera:"
+        },
+        {
+            "id": "rut2_20b",
+            "speaker": "Noemí",
+            "verse": 20,
+            "text": "Sea él bendito de Jehová, pues que no ha rehusado a los vivos la benevolencia que tuvo para con los finados."
+        },
+        {
+            "id": "rut2_20c",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Noemí le dijo:"
+        },
+        {
+            "id": "rut2_20d",
+            "speaker": "Noemí",
+            "verse": 20,
+            "text": "Nuestro pariente es aquel varón, y uno de nuestros redentores."
+        },
+        {
+            "id": "rut2_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Ruth la moabita dijo:"
+        },
+        {
+            "id": "rut2_21b",
+            "speaker": "Rut",
+            "verse": 21,
+            "text": "Además de esto me ha dicho: Júntate con mis criadas, hasta que hayan acabado toda mi siega."
+        },
+        {
+            "id": "rut2_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Noemí respondió a Ruth su nuera:"
+        },
+        {
+            "id": "rut2_22b",
+            "speaker": "Noemí",
+            "verse": 22,
+            "text": "Mejor es, hija mía, que salgas con sus criadas, y no que te encuentren en otro campo."
+        },
+        {
+            "id": "rut2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Estuvo, pues, junto con las criadas de Boaz espigando, hasta que la siega de las cebadas y la de los trigos fue acabada; y habitó con su suegra."
+        }
+    ]
+}
