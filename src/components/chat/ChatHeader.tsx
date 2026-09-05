@@ -3,6 +3,7 @@ import { ArrowLeft, ChevronDown, MoreVertical } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { BookInfo } from '../../types/bible';
 import { OptionsMenu } from './OptionsMenu';
+import { useDismissOnEscape } from '../../hooks/useDismissOnEscape';
 
 interface ChatHeaderProps {
     book: BookInfo | undefined;
@@ -10,6 +11,7 @@ interface ChatHeaderProps {
     subtitle: string;
     onBack: () => void;
     onToggleSelector: () => void;
+    onCloseSelector: () => void;
     isSelectorOpen: boolean;
     onSelectChapter: (chap: number) => void;
     isMuted: boolean;
@@ -20,9 +22,11 @@ interface ChatHeaderProps {
     onRestart: () => void;
     isOptionsOpen: boolean;
     onToggleOptions: () => void;
+    onCloseOptions: () => void;
 }
 
 export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
+    useDismissOnEscape(props.isSelectorOpen, props.onCloseSelector);
     return (
         <header className="border-b-4 border-[#0A0A0A] bg-white px-4 py-2 safe-top sticky top-0 z-50 flex items-center justify-between shrink-0 h-auto sm:h-24 md:h-24 transition-all overflow-visible select-none">
             <div className="flex items-center gap-3 min-w-0 h-full py-2">
@@ -77,6 +81,7 @@ export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
                         onSetSpeed={props.onSetSpeed}
                         onShowInfo={props.onShowInfo}
                         onRestart={props.onRestart}
+                        onClose={props.onCloseOptions}
                     />
                 </div>
             </div>

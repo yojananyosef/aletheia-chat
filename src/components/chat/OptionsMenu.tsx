@@ -2,6 +2,7 @@ import React from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Info, Volume2, VolumeX, RotateCcw, Zap, Eye, Settings2, Activity } from 'lucide-react';
 import { READING_SPEEDS } from '../../constants/books';
+import { useDismissOnEscape } from '../../hooks/useDismissOnEscape';
 
 interface OptionsMenuProps {
     isOpen: boolean;
@@ -11,11 +12,13 @@ interface OptionsMenuProps {
     onSetSpeed: (speed: number) => void;
     onShowInfo: () => void;
     onRestart: () => void;
+    onClose: () => void;
 }
 
 export const OptionsMenu: React.FC<OptionsMenuProps> = ({
-    isOpen, isMuted, currentSpeed, onToggleMute, onSetSpeed, onShowInfo, onRestart
+    isOpen, isMuted, currentSpeed, onToggleMute, onSetSpeed, onShowInfo, onRestart, onClose
 }) => {
+    useDismissOnEscape(isOpen, onClose);
     return (
         <AnimatePresence>
             {isOpen && (

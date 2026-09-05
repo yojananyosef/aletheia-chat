@@ -79,6 +79,21 @@ Los capítulos se almacenan en formato JSON en `public/data/[libro]/[capitulo].j
 }
 ```
 
+## 📜 Fuentes bíblicas y licencias
+
+El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
+`/home/j/proyectos/alethia-gateway/public/data/bibles/`:
+
+| Fuente | Libros | Uso |
+|--------|--------|-----|
+| **SpaRVG** (Reina Valera Gómez 2010) | 66 / 1189 caps | Texto principal en español moderno |
+| **SpaPlatense** (Straubinger) | 73 / 1334 caps | Títulos de sección (`headings`) + deuterocanónicos |
+| **RV1909** (Reina Valera 1909) | 66 / 1189 caps | Fallback de dominio público (`--source RV1909`) |
+
+> ⚖️ **Aviso legal:** SpaRVG y Platense pueden tener restricciones de redistribución.
+> Revisa sus licencias antes de publicar el corpus. RV1909 es dominio público y es la
+> opción segura si redistribuyes la app con datos incluidos. Ver `scripts/attribute-speakers/README.md`.
+
 ## 💾 Persistencia (localStorage)
 
 | Clave | Contenido |

@@ -90,7 +90,8 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
     const navigateToChapter = (targetChapter: number) => {
         if (targetChapter === chapter) return;
         setIsNavigating(true);
-        StorageService.clearProgress(bookId, targetChapter);
+        // No se borra el progreso del destino: al volver se reanuda (solo
+        // restartChapter explícito limpia). Ver spec robustness-perf Fase 2.
         router.push(`/${bookId}/${targetChapter}`);
     };
 
@@ -112,12 +113,13 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
                 <ChatHeader
                     book={bookConfig} chapter={chapter} subtitle={subtitle}
                     onBack={() => router.push('/')}
-                    onToggleSelector={() => setShowSelector(!showSelector)} isSelectorOpen={showSelector}
+                    onToggleSelector={() => setShowSelector(!showSelector)} onCloseSelector={() => setShowSelector(false)} isSelectorOpen={showSelector}
                     onSelectChapter={navigateToChapter}
                     isMuted={isMuted} currentSpeed={readingSpeed}
                     onToggleMute={() => setIsMuted(!isMuted)} onSetSpeed={setReadingSpeed}
                     onShowInfo={() => setShowInfo(true)} onRestart={restartChapter}
                     isOptionsOpen={showOptions} onToggleOptions={() => setShowOptions(!showOptions)}
+                    onCloseOptions={() => setShowOptions(false)}
                 />
 
                 <section ref={scrollRef} className="flex-1 overflow-y-auto p-4 md:p-8 lg:p-12 bg-white space-y-10 sm:space-y-12 scroll-smooth pb-32 no-scrollbar">
