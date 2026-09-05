@@ -1,0 +1,74 @@
+{
+    "book": "Salmos",
+    "chapter": 122,
+    "title": "Salmos 122",
+    "messages": [
+        {
+            "id": "psa122_sec1_28db",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cántico gradual: de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa122_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Yo me alegré con los que me decían:"
+        },
+        {
+            "id": "psa122_1b",
+            "speaker": "Pueblos",
+            "verse": 1,
+            "text": "A la casa de Jehová iremos."
+        },
+        {
+            "id": "psa122_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Nuestros pies estuvieron en tus puertas, oh Jerusalén;"
+        },
+        {
+            "id": "psa122_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Jerusalén, que se ha edificado como una ciudad que está bien unida entre sí."
+        },
+        {
+            "id": "psa122_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y allá subieron las tribus, las tribus de JAH, conforme al testimonio dado a Israel, para alabar el nombre de Jehová."
+        },
+        {
+            "id": "psa122_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque allá están los tronos del juicio, los tronos de la casa de David."
+        },
+        {
+            "id": "psa122_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pedid por la paz de Jerusalén; sean prosperados los que te aman."
+        },
+        {
+            "id": "psa122_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Haya paz dentro de tus muros, y prosperidad en tus palacios."
+        },
+        {
+            "id": "psa122_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por amor de mis hermanos y mis compañeros diré ahora: Haya paz en ti."
+        },
+        {
+            "id": "psa122_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por amor a la casa de Jehová nuestro Dios, procuraré tu bien."
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "book": "Salmos",
+    "chapter": 31,
+    "title": "Salmos 31",
+    "messages": [
+        {
+            "id": "psa31_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa31_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En ti, oh Jehová, he confiado; no sea yo confundido jamás: Líbrame en tu justicia."
+        },
+        {
+            "id": "psa31_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Inclina a mí tu oído, líbrame presto; sé tú mi Roca fuerte, mi fortaleza para salvarme."
+        },
+        {
+            "id": "psa31_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque tú eres mi Roca y mi castillo; y por amor a tu nombre me guiarás, y me encaminarás."
+        },
+        {
+            "id": "psa31_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Me sacarás de la red que han escondido para mí; porque tú eres mi fortaleza."
+        },
+        {
+            "id": "psa31_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "En tu mano encomiendo mi espíritu: Tú me has redimido, oh Jehová, Dios de verdad."
+        },
+        {
+            "id": "psa31_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Aborrecí a los que esperan en vanidades ilusorias; mas yo en Jehová he esperado."
+        },
+        {
+            "id": "psa31_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Me gozaré y alegraré en tu misericordia; porque has visto mi aflicción; has conocido mi alma en las angustias:"
+        },
+        {
+            "id": "psa31_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y no me encerraste en mano del enemigo; hiciste estar mis pies en lugar espacioso."
+        },
+        {
+            "id": "psa31_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Ten misericordia de mí, oh Jehová, que estoy en angustia; de pesar se han consumido mis ojos, mi alma, y mis entrañas."
+        },
+        {
+            "id": "psa31_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque mi vida se va gastando de dolor, y mis años de suspirar; se ha debilitado mi fuerza a causa de mi iniquidad, y mis huesos se han consumido."
+        },
+        {
+            "id": "psa31_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "De todos mis enemigos he sido oprobio, más de mis vecinos, y horror a mis conocidos; los que me veían afuera, huían de mí."
+        },
+        {
+            "id": "psa31_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "He sido olvidado de su corazón como un muerto; he venido a ser como un vaso quebrado."
+        },
+        {
+            "id": "psa31_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque he oído la calumnia de muchos; miedo por todas partes, cuando consultaban juntos contra mí, e ideaban quitarme la vida."
+        },
+        {
+            "id": "psa31_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas yo en ti confié, oh Jehová; yo dije:"
+        },
+        {
+            "id": "psa31_14b",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Tú eres mi Dios."
+        },
+        {
+            "id": "psa31_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "En tu mano están mis tiempos: Líbrame de la mano de mis enemigos, y de mis perseguidores."
+        },
+        {
+            "id": "psa31_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Haz resplandecer tu rostro sobre tu siervo: Sálvame por tu misericordia."
+        },
+        {
+            "id": "psa31_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "No sea yo avergonzado, oh Jehová, ya que te he invocado; sean avergonzados los impíos, estén mudos en el sepulcro."
+        },
+        {
+            "id": "psa31_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Enmudezcan los labios mentirosos, que hablan contra el justo cosas duras, con soberbia y menosprecio."
+        },
+        {
+            "id": "psa31_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "¡Cuán grande es tu bondad, que has guardado para los que te temen, que has mostrado para los que en ti confían, delante de los hijos de los hombres!"
+        },
+        {
+            "id": "psa31_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Los esconderás en el secreto de tu rostro de las arrogancias del hombre; los pondrás en un tabernáculo a cubierto de contención de lenguas."
+        },
+        {
+            "id": "psa31_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Bendito Jehová, porque ha hecho maravillosa su misericordia para conmigo en ciudad fuerte."
+        },
+        {
+            "id": "psa31_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y decía yo en mi premura:"
+        },
+        {
+            "id": "psa31_22b",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Cortado soy de delante de tus ojos; mas tú oíste la voz de mis súplicas, cuando a ti clamé."
+        },
+        {
+            "id": "psa31_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Amad a Jehová todos vosotros sus santos: A los fieles guarda Jehová, y paga abundantemente al que obra con soberbia."
+        },
+        {
+            "id": "psa31_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Esforzaos todos vosotros los que esperáis en Jehová, y Él fortalecerá vuestro corazón."
+        }
+    ]
+}

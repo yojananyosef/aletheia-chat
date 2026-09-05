@@ -1,0 +1,146 @@
+{
+    "book": "Salmos",
+    "chapter": 25,
+    "title": "Salmos 25",
+    "messages": [
+        {
+            "id": "psa25_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa25_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "A ti, oh Jehová, levantaré mi alma."
+        },
+        {
+            "id": "psa25_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Dios mío, en ti confío; no sea yo avergonzado, no se alegren de mí mis enemigos."
+        },
+        {
+            "id": "psa25_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Ciertamente ninguno de cuantos en ti esperan será confundido: Serán avergonzados los que se rebelan sin causa."
+        },
+        {
+            "id": "psa25_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Muéstrame, oh Jehová, tus caminos; enséñame tus sendas."
+        },
+        {
+            "id": "psa25_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Encamíname en tu verdad, y enséñame; porque tú eres el Dios de mi salvación; en ti he esperado todo el día."
+        },
+        {
+            "id": "psa25_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Acuérdate, oh Jehová, de tus piedades y de tus misericordias, que son eternas."
+        },
+        {
+            "id": "psa25_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "De los pecados de mi juventud, y de mis rebeliones, no te acuerdes; conforme a tu misericordia acuérdate de mí, por tu bondad, oh Jehová."
+        },
+        {
+            "id": "psa25_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Bueno y recto es Jehová; por tanto, Él enseñará a los pecadores el camino."
+        },
+        {
+            "id": "psa25_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Encaminará a los humildes por el juicio, y enseñará a los mansos su carrera."
+        },
+        {
+            "id": "psa25_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Todas las sendas de Jehová son misericordia y verdad, para los que guardan su pacto y sus testimonios."
+        },
+        {
+            "id": "psa25_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por amor de tu nombre, oh Jehová, perdonarás también mi pecado, que es grande."
+        },
+        {
+            "id": "psa25_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "¿Quién es el hombre que teme a Jehová? Él le enseñará el camino que ha de escoger."
+        },
+        {
+            "id": "psa25_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Su alma reposará en bienestar, y su simiente heredará la tierra."
+        },
+        {
+            "id": "psa25_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "El secreto de Jehová es para los que le temen; y a ellos hará conocer su pacto."
+        },
+        {
+            "id": "psa25_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mis ojos están siempre hacia Jehová; porque Él sacará mis pies de la red."
+        },
+        {
+            "id": "psa25_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mírame, y ten misericordia de mí; porque estoy solo y afligido."
+        },
+        {
+            "id": "psa25_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Las angustias de mi corazón se han aumentado; sácame de mis congojas."
+        },
+        {
+            "id": "psa25_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mira mi aflicción y mi trabajo; y perdona todos mis pecados."
+        },
+        {
+            "id": "psa25_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mira mis enemigos, que se han multiplicado, y con odio violento me aborrecen."
+        },
+        {
+            "id": "psa25_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Guarda mi alma, y líbrame; no sea yo avergonzado, porque en ti confié."
+        },
+        {
+            "id": "psa25_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Integridad y rectitud me guarden; porque en ti he esperado."
+        },
+        {
+            "id": "psa25_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Redime, oh Dios, a Israel de todas sus angustias."
+        }
+    ]
+}

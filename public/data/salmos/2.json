@@ -1,0 +1,85 @@
+{
+    "book": "Salmos",
+    "chapter": 2,
+    "title": "Salmos 2",
+    "messages": [
+        {
+            "id": "psa2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿Por qué se amotinan las gentes, y los pueblos piensan vanidad?"
+        },
+        {
+            "id": "psa2_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Se levantan los reyes de la tierra, y los príncipes consultan unidos contra Jehová y contra su ungido, diciendo:"
+        },
+        {
+            "id": "psa2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Rompamos sus coyundas, y echemos de nosotros sus cuerdas."
+        },
+        {
+            "id": "psa2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "El que mora en los cielos se reirá; el Señor se burlará de ellos."
+        },
+        {
+            "id": "psa2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces hablará a ellos en su furor, y los turbará con su ira."
+        },
+        {
+            "id": "psa2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero yo he puesto a mi Rey sobre Sión, mi santo monte."
+        },
+        {
+            "id": "psa2_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Yo publicaré el decreto:"
+        },
+        {
+            "id": "psa2_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Jehová me ha dicho: Mi Hijo eres tú; yo te engendré hoy."
+        },
+        {
+            "id": "psa2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Pídeme, y te daré por heredad las naciones, y por posesión tuya los confines de la tierra."
+        },
+        {
+            "id": "psa2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Los quebrantarás con vara de hierro; como vaso de alfarero los desmenuzarás."
+        },
+        {
+            "id": "psa2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y ahora, reyes, entended: Admitid corrección, jueces de la tierra."
+        },
+        {
+            "id": "psa2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Servid a Jehová con temor, y alegraos con temblor."
+        },
+        {
+            "id": "psa2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Besad al Hijo, para que no se enoje, y perezcáis en el camino, cuando se encendiere un poco su furor. Bienaventurados todos los que en Él confían."
+        }
+    ]
+}

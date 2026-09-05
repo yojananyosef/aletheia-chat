@@ -1,0 +1,1075 @@
+{
+    "book": "Salmos",
+    "chapter": 119,
+    "title": "Salmos 119",
+    "messages": [
+        {
+            "id": "psa119_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "ALEF. Bienaventurados los perfectos de camino; los que andan en la ley de Jehová."
+        },
+        {
+            "id": "psa119_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Bienaventurados los que guardan sus testimonios, y con todo el corazón le buscan:"
+        },
+        {
+            "id": "psa119_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pues no hacen iniquidad los que andan en sus caminos."
+        },
+        {
+            "id": "psa119_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Tú encargaste que sean muy guardados tus mandamientos."
+        },
+        {
+            "id": "psa119_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¡Oh que fuesen ordenados mis caminos para guardar tus estatutos!"
+        },
+        {
+            "id": "psa119_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces no sería yo avergonzado, cuando atendiese a todos tus mandamientos."
+        },
+        {
+            "id": "psa119_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Te alabaré con rectitud de corazón, cuando aprendiere los juicios de tu justicia."
+        },
+        {
+            "id": "psa119_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Tus estatutos guardaré; no me dejes enteramente."
+        },
+        {
+            "id": "psa119_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "BET. ¿Con qué limpiará el joven su camino? Con guardar tu palabra."
+        },
+        {
+            "id": "psa119_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Con todo mi corazón te he buscado; no me dejes divagar de tus mandamientos."
+        },
+        {
+            "id": "psa119_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "En mi corazón he guardado tus dichos, para no pecar contra ti."
+        },
+        {
+            "id": "psa119_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Bendito tú, oh Jehová; enséñame tus estatutos."
+        },
+        {
+            "id": "psa119_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Con mis labios he contado todos los juicios de tu boca."
+        },
+        {
+            "id": "psa119_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Me he gozado en el camino de tus testimonios, más que sobre toda riqueza."
+        },
+        {
+            "id": "psa119_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "En tus mandamientos meditaré, consideraré tus caminos."
+        },
+        {
+            "id": "psa119_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Me deleitaré en tus estatutos; no me olvidaré de tus palabras."
+        },
+        {
+            "id": "psa119_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "GIMEL. Haz bien a tu siervo; para que viva y guarde tu palabra."
+        },
+        {
+            "id": "psa119_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Abre mis ojos, y miraré las maravillas de tu ley."
+        },
+        {
+            "id": "psa119_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Advenedizo soy yo en la tierra; no encubras de mí tus mandamientos."
+        },
+        {
+            "id": "psa119_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Quebrantada está mi alma de desear tus juicios en todo tiempo."
+        },
+        {
+            "id": "psa119_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Destruiste a los soberbios malditos, que se desvían de tus mandamientos."
+        },
+        {
+            "id": "psa119_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Aparta de mí oprobio y menosprecio; porque tus testimonios he guardado."
+        },
+        {
+            "id": "psa119_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Príncipes también se sentaron y hablaron contra mí; mas tu siervo meditaba en tus estatutos."
+        },
+        {
+            "id": "psa119_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pues tus testimonios son mi delicia, y mis consejeros."
+        },
+        {
+            "id": "psa119_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "DALET. Mi alma está pegada al polvo; vivifícame según tu palabra."
+        },
+        {
+            "id": "psa119_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mis caminos te conté, y me has respondido:"
+        },
+        {
+            "id": "psa119_26b",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Enséñame tus estatutos."
+        },
+        {
+            "id": "psa119_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Hazme entender el camino de tus mandamientos, y hablaré de tus maravillas."
+        },
+        {
+            "id": "psa119_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Se deshace mi alma de ansiedad; fortaléceme según tu palabra."
+        },
+        {
+            "id": "psa119_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Aparta de mí el camino de mentira; y concédeme con gracia tu ley."
+        },
+        {
+            "id": "psa119_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Escogí el camino de la verdad; he puesto tus juicios delante de mí."
+        },
+        {
+            "id": "psa119_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Me he apegado a tus testimonios; oh Jehová, no me avergüences."
+        },
+        {
+            "id": "psa119_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Por el camino de tus mandamientos correré, cuando tú ensanches mi corazón."
+        },
+        {
+            "id": "psa119_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "HE. Enséñame, oh Jehová, el camino de tus estatutos, y lo guardaré hasta el fin."
+        },
+        {
+            "id": "psa119_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Dame entendimiento, y guardaré tu ley; y la observaré de todo corazón."
+        },
+        {
+            "id": "psa119_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Guíame por la senda de tus mandamientos; porque en ella tengo mi voluntad."
+        },
+        {
+            "id": "psa119_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Inclina mi corazón a tus testimonios, y no a la avaricia."
+        },
+        {
+            "id": "psa119_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Aparta mis ojos, que no vean la vanidad; avívame en tu camino."
+        },
+        {
+            "id": "psa119_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Confirma tu palabra a tu siervo, que te teme."
+        },
+        {
+            "id": "psa119_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Quita de mí el oprobio que he temido; porque buenos son tus juicios."
+        },
+        {
+            "id": "psa119_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "He aquí yo he anhelado tus mandamientos; vivifícame en tu justicia."
+        },
+        {
+            "id": "psa119_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "VAV. Venga a mí tu misericordia, oh Jehová; tu salvación, conforme a tu palabra."
+        },
+        {
+            "id": "psa119_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y daré por respuesta al que me injuria, que en tu palabra he confiado."
+        },
+        {
+            "id": "psa119_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y no quites de mi boca, en ningún tiempo, la palabra de verdad; porque en tus juicios he esperado."
+        },
+        {
+            "id": "psa119_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y guardaré tu ley continuamente, eternamente y para siempre."
+        },
+        {
+            "id": "psa119_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y andaré en libertad, porque busqué tus mandamientos."
+        },
+        {
+            "id": "psa119_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y hablaré de tus testimonios delante de los reyes, y no me avergonzaré."
+        },
+        {
+            "id": "psa119_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y me deleitaré en tus mandamientos, los cuales he amado."
+        },
+        {
+            "id": "psa119_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Alzaré asimismo mis manos a tus mandamientos que amé; y meditaré en tus estatutos."
+        },
+        {
+            "id": "psa119_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "ZAYIN. Acuérdate de la palabra dada a tu siervo, en la cual me has hecho esperar."
+        },
+        {
+            "id": "psa119_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Ésta es mi consuelo en mi aflicción; pues tu palabra me ha vivificado."
+        },
+        {
+            "id": "psa119_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Los soberbios se burlaron mucho de mí; mas no me he apartado de tu ley."
+        },
+        {
+            "id": "psa119_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Me acordé, oh Jehová, de tus juicios antiguos, y me consolé."
+        },
+        {
+            "id": "psa119_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Horror se apoderó de mí, a causa de los impíos que dejan tu ley."
+        },
+        {
+            "id": "psa119_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Cánticos han sido para mí tus estatutos en la casa de mis peregrinaciones."
+        },
+        {
+            "id": "psa119_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Me acordé en la noche de tu nombre, oh Jehová, y guardé tu ley."
+        },
+        {
+            "id": "psa119_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Esto tuve, porque guardé tus mandamientos."
+        },
+        {
+            "id": "psa119_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "JET. Tú eres mi porción, oh Jehová, he dicho que guardaré tus palabras."
+        },
+        {
+            "id": "psa119_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Tu presencia supliqué de todo corazón; ten misericordia de mí según tu palabra."
+        },
+        {
+            "id": "psa119_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Consideré mis caminos, y torné mis pies a tus testimonios."
+        },
+        {
+            "id": "psa119_60",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Me apresuré, y no me tardé en guardar tus mandamientos."
+        },
+        {
+            "id": "psa119_61",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Compañía de impíos me han robado; mas no me he olvidado de tu ley."
+        },
+        {
+            "id": "psa119_62",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "A media noche me levantaba a alabarte por tus justos juicios."
+        },
+        {
+            "id": "psa119_63",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Compañero soy yo de todos los que te temen y guardan tus mandamientos."
+        },
+        {
+            "id": "psa119_64",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "De tu misericordia, oh Jehová, está llena la tierra; enséñame tus estatutos."
+        },
+        {
+            "id": "psa119_65",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "TET. Bien has hecho con tu siervo, oh Jehová, conforme a tu palabra."
+        },
+        {
+            "id": "psa119_66",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "Enséñame buen sentido y sabiduría; porque tus mandamientos he creído."
+        },
+        {
+            "id": "psa119_67",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Antes que fuera yo humillado, descarriado andaba; mas ahora guardo tu palabra."
+        },
+        {
+            "id": "psa119_68",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "Bueno eres tú, y bienhechor; enséñame tus estatutos."
+        },
+        {
+            "id": "psa119_69",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "Contra mí forjaron mentira los soberbios; mas yo guardaré de todo corazón tus mandamientos."
+        },
+        {
+            "id": "psa119_70",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "Se engrosó el corazón de ellos como sebo; mas yo en tu ley me he deleitado."
+        },
+        {
+            "id": "psa119_71",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "Bueno me es haber sido humillado, para que aprenda tus estatutos."
+        },
+        {
+            "id": "psa119_72",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "Mejor me es la ley de tu boca, que millares de oro y plata."
+        },
+        {
+            "id": "psa119_73",
+            "speaker": "Narrador",
+            "verse": 73,
+            "text": "YOD. Tus manos me hicieron y me formaron; hazme entender, y aprenderé tus mandamientos."
+        },
+        {
+            "id": "psa119_74",
+            "speaker": "Narrador",
+            "verse": 74,
+            "text": "Los que te temen me verán, y se alegrarán; porque en tu palabra he esperado."
+        },
+        {
+            "id": "psa119_75",
+            "speaker": "Narrador",
+            "verse": 75,
+            "text": "Conozco, oh Jehová, que tus juicios son justos, y que conforme a tu fidelidad me afligiste."
+        },
+        {
+            "id": "psa119_76",
+            "speaker": "Narrador",
+            "verse": 76,
+            "text": "Sea ahora tu misericordia para consolarme, conforme a lo que has dicho a tu siervo."
+        },
+        {
+            "id": "psa119_77",
+            "speaker": "Narrador",
+            "verse": 77,
+            "text": "Vengan a mí tus misericordias, y viva; porque tu ley es mi delicia."
+        },
+        {
+            "id": "psa119_78",
+            "speaker": "Narrador",
+            "verse": 78,
+            "text": "Sean avergonzados los soberbios, porque sin causa me han calumniado; mas yo, meditaré en tus mandamientos."
+        },
+        {
+            "id": "psa119_79",
+            "speaker": "Narrador",
+            "verse": 79,
+            "text": "Tórnense a mí los que te temen y conocen tus testimonios."
+        },
+        {
+            "id": "psa119_80",
+            "speaker": "Narrador",
+            "verse": 80,
+            "text": "Sea mi corazón íntegro en tus estatutos; para que no sea yo avergonzado."
+        },
+        {
+            "id": "psa119_81",
+            "speaker": "Narrador",
+            "verse": 81,
+            "text": "KAF. Desfallece mi alma por tu salvación, mas espero en tu palabra."
+        },
+        {
+            "id": "psa119_82a",
+            "speaker": "Narrador",
+            "verse": 82,
+            "text": "Desfallecieron mis ojos por tu palabra, diciendo:"
+        },
+        {
+            "id": "psa119_82b",
+            "speaker": "Narrador",
+            "verse": 82,
+            "text": "¿Cuándo me consolarás?"
+        },
+        {
+            "id": "psa119_83",
+            "speaker": "Narrador",
+            "verse": 83,
+            "text": "Porque estoy como el odre al humo; pero no he olvidado tus estatutos."
+        },
+        {
+            "id": "psa119_84",
+            "speaker": "Narrador",
+            "verse": 84,
+            "text": "¿Cuántos son los días de tu siervo? ¿Cuándo harás juicio contra los que me persiguen?"
+        },
+        {
+            "id": "psa119_85",
+            "speaker": "Narrador",
+            "verse": 85,
+            "text": "Los soberbios han cavado hoyos para mí; mas no obran según tu ley."
+        },
+        {
+            "id": "psa119_86",
+            "speaker": "Narrador",
+            "verse": 86,
+            "text": "Todos tus mandamientos son verdad; sin causa me persiguen; ayúdame."
+        },
+        {
+            "id": "psa119_87",
+            "speaker": "Narrador",
+            "verse": 87,
+            "text": "Casi me han echado por tierra; mas yo no he dejado tus mandamientos."
+        },
+        {
+            "id": "psa119_88",
+            "speaker": "Narrador",
+            "verse": 88,
+            "text": "Vivifícame conforme a tu misericordia; y guardaré los testimonios de tu boca."
+        },
+        {
+            "id": "psa119_89",
+            "speaker": "Narrador",
+            "verse": 89,
+            "text": "LAMED. Para siempre, oh Jehová, está establecida tu palabra en el cielo."
+        },
+        {
+            "id": "psa119_90",
+            "speaker": "Narrador",
+            "verse": 90,
+            "text": "Por generación y generación es tu fidelidad; tú afirmaste la tierra, y permanece."
+        },
+        {
+            "id": "psa119_91",
+            "speaker": "Narrador",
+            "verse": 91,
+            "text": "Por tus ordenanzas permanecen todas las cosas hasta hoy, pues todas ellas te sirven."
+        },
+        {
+            "id": "psa119_92",
+            "speaker": "Narrador",
+            "verse": 92,
+            "text": "Si tu ley no hubiese sido mi delicia, ya en mi aflicción hubiera perecido."
+        },
+        {
+            "id": "psa119_93",
+            "speaker": "Narrador",
+            "verse": 93,
+            "text": "Nunca jamás me olvidaré de tus mandamientos; porque con ellos me has vivificado."
+        },
+        {
+            "id": "psa119_94",
+            "speaker": "Narrador",
+            "verse": 94,
+            "text": "Tuyo soy yo, guárdame; porque he buscado tus mandamientos."
+        },
+        {
+            "id": "psa119_95",
+            "speaker": "Narrador",
+            "verse": 95,
+            "text": "Los impíos me han aguardado para destruirme; mas yo consideraré tus testimonios."
+        },
+        {
+            "id": "psa119_96",
+            "speaker": "Narrador",
+            "verse": 96,
+            "text": "A toda perfección he visto fin; extenso sobremanera es tu mandamiento."
+        },
+        {
+            "id": "psa119_97",
+            "speaker": "Narrador",
+            "verse": 97,
+            "text": "MEM. ¡Oh, cuánto amo yo tu ley! Todo el día es ella mi meditación."
+        },
+        {
+            "id": "psa119_98",
+            "speaker": "Narrador",
+            "verse": 98,
+            "text": "Me has hecho más sabio que mis enemigos con tus mandamientos; porque siempre están conmigo."
+        },
+        {
+            "id": "psa119_99",
+            "speaker": "Narrador",
+            "verse": 99,
+            "text": "Más que todos mis enseñadores he entendido; porque tus testimonios son mi meditación."
+        },
+        {
+            "id": "psa119_100",
+            "speaker": "Narrador",
+            "verse": 100,
+            "text": "Más que los viejos he entendido, porque he guardado tus mandamientos."
+        },
+        {
+            "id": "psa119_101",
+            "speaker": "Narrador",
+            "verse": 101,
+            "text": "De todo mal camino contuve mis pies, para guardar tu palabra."
+        },
+        {
+            "id": "psa119_102",
+            "speaker": "Narrador",
+            "verse": 102,
+            "text": "No me aparté de tus juicios; porque tú me enseñaste."
+        },
+        {
+            "id": "psa119_103",
+            "speaker": "Narrador",
+            "verse": 103,
+            "text": "¡Cuán dulces son a mi paladar tus palabras! Más que la miel a mi boca."
+        },
+        {
+            "id": "psa119_104",
+            "speaker": "Narrador",
+            "verse": 104,
+            "text": "De tus mandamientos he adquirido inteligencia; por tanto, he aborrecido todo camino de mentira."
+        },
+        {
+            "id": "psa119_105",
+            "speaker": "Narrador",
+            "verse": 105,
+            "text": "NUN. Lámpara es a mis pies tu palabra, y lumbrera a mi camino."
+        },
+        {
+            "id": "psa119_106",
+            "speaker": "Narrador",
+            "verse": 106,
+            "text": "Juré y ratifiqué que he de guardar tus justos juicios."
+        },
+        {
+            "id": "psa119_107",
+            "speaker": "Narrador",
+            "verse": 107,
+            "text": "Afligido estoy en gran manera: vivifícame, oh Jehová, conforme a tu palabra."
+        },
+        {
+            "id": "psa119_108",
+            "speaker": "Narrador",
+            "verse": 108,
+            "text": "Te ruego, oh Jehová, que te sean agradables las ofrendas voluntarias de mi boca; y enséñame tus juicios."
+        },
+        {
+            "id": "psa119_109",
+            "speaker": "Narrador",
+            "verse": 109,
+            "text": "De continuo está mi alma en mi mano; mas no me he olvidado de tu ley."
+        },
+        {
+            "id": "psa119_110",
+            "speaker": "Narrador",
+            "verse": 110,
+            "text": "Me tendieron lazo los impíos; pero yo no me desvié de tus mandamientos."
+        },
+        {
+            "id": "psa119_111",
+            "speaker": "Narrador",
+            "verse": 111,
+            "text": "Por heredad he tomado tus testimonios para siempre; porque son el gozo de mi corazón."
+        },
+        {
+            "id": "psa119_112",
+            "speaker": "Narrador",
+            "verse": 112,
+            "text": "Mi corazón incliné a poner por obra tus estatutos de continuo, hasta el fin."
+        },
+        {
+            "id": "psa119_113",
+            "speaker": "Narrador",
+            "verse": 113,
+            "text": "SAMEC. Los pensamientos vanos aborrezco; mas amo tu ley."
+        },
+        {
+            "id": "psa119_114",
+            "speaker": "Narrador",
+            "verse": 114,
+            "text": "Mi escondedero y mi escudo eres tú; en tu palabra he esperado."
+        },
+        {
+            "id": "psa119_115",
+            "speaker": "Narrador",
+            "verse": 115,
+            "text": "Apartaos de mí, malignos; pues yo guardaré los mandamientos de mi Dios."
+        },
+        {
+            "id": "psa119_116",
+            "speaker": "Narrador",
+            "verse": 116,
+            "text": "Susténtame conforme a tu palabra, y viviré; y no dejes que me avergüence de mi esperanza."
+        },
+        {
+            "id": "psa119_117",
+            "speaker": "Narrador",
+            "verse": 117,
+            "text": "Sostenme, y seré salvo; y me deleitaré siempre en tus estatutos."
+        },
+        {
+            "id": "psa119_118",
+            "speaker": "Narrador",
+            "verse": 118,
+            "text": "Hollaste a todos los que se desvían de tus estatutos; porque mentira es su engaño."
+        },
+        {
+            "id": "psa119_119",
+            "speaker": "Narrador",
+            "verse": 119,
+            "text": "Como escorias hiciste consumir a todos los impíos de la tierra; por tanto yo he amado tus testimonios."
+        },
+        {
+            "id": "psa119_120",
+            "speaker": "Narrador",
+            "verse": 120,
+            "text": "Mi carne se ha estremecido por temor de ti; y de tus juicios tengo miedo."
+        },
+        {
+            "id": "psa119_121",
+            "speaker": "Narrador",
+            "verse": 121,
+            "text": "AIN. Juicio y justicia he hecho; no me abandones a mis opresores."
+        },
+        {
+            "id": "psa119_122",
+            "speaker": "Narrador",
+            "verse": 122,
+            "text": "Responde por tu siervo para bien; no permitas que me opriman los soberbios."
+        },
+        {
+            "id": "psa119_123",
+            "speaker": "Narrador",
+            "verse": 123,
+            "text": "Mis ojos desfallecieron por tu salvación, y por el dicho de tu justicia."
+        },
+        {
+            "id": "psa119_124",
+            "speaker": "Narrador",
+            "verse": 124,
+            "text": "Haz con tu siervo según tu misericordia, y enséñame tus estatutos."
+        },
+        {
+            "id": "psa119_125",
+            "speaker": "Narrador",
+            "verse": 125,
+            "text": "Tu siervo soy yo, dame entendimiento; para que sepa tus testimonios."
+        },
+        {
+            "id": "psa119_126",
+            "speaker": "Narrador",
+            "verse": 126,
+            "text": "Tiempo es de actuar, oh Jehová; porque han invalidado tu ley."
+        },
+        {
+            "id": "psa119_127",
+            "speaker": "Narrador",
+            "verse": 127,
+            "text": "Por tanto, amo tus mandamientos más que el oro, y más que oro muy puro."
+        },
+        {
+            "id": "psa119_128",
+            "speaker": "Narrador",
+            "verse": 128,
+            "text": "Por tanto, estimo rectos todos tus preceptos acerca de todas las cosas, y aborrezco todo camino de mentira."
+        },
+        {
+            "id": "psa119_129",
+            "speaker": "Narrador",
+            "verse": 129,
+            "text": "PE. Maravillosos son tus testimonios; por tanto, los ha guardado mi alma."
+        },
+        {
+            "id": "psa119_130",
+            "speaker": "Narrador",
+            "verse": 130,
+            "text": "El principio de tus palabras alumbra; hace entender a los simples."
+        },
+        {
+            "id": "psa119_131",
+            "speaker": "Narrador",
+            "verse": 131,
+            "text": "Mi boca abrí y suspiré; porque deseaba tus mandamientos."
+        },
+        {
+            "id": "psa119_132",
+            "speaker": "Narrador",
+            "verse": 132,
+            "text": "Mírame, y ten misericordia de mí, como acostumbras con los que aman tu nombre."
+        },
+        {
+            "id": "psa119_133",
+            "speaker": "Narrador",
+            "verse": 133,
+            "text": "Ordena mis pasos con tu palabra; y ninguna iniquidad se enseñoree de mí."
+        },
+        {
+            "id": "psa119_134",
+            "speaker": "Narrador",
+            "verse": 134,
+            "text": "Líbrame de la violencia de los hombres; y guardaré tus mandamientos."
+        },
+        {
+            "id": "psa119_135",
+            "speaker": "Narrador",
+            "verse": 135,
+            "text": "Haz que tu rostro resplandezca sobre tu siervo; y enséñame tus estatutos."
+        },
+        {
+            "id": "psa119_136",
+            "speaker": "Narrador",
+            "verse": 136,
+            "text": "Ríos de agua descendieron de mis ojos, porque no guardaban tu ley."
+        },
+        {
+            "id": "psa119_137",
+            "speaker": "Narrador",
+            "verse": 137,
+            "text": "TZADI. Justo eres tú, oh Jehová, y rectos tus juicios."
+        },
+        {
+            "id": "psa119_138",
+            "speaker": "Narrador",
+            "verse": 138,
+            "text": "Tus testimonios, que has encomendado, son rectos y muy fieles."
+        },
+        {
+            "id": "psa119_139",
+            "speaker": "Narrador",
+            "verse": 139,
+            "text": "Mi celo me ha consumido; porque mis enemigos se olvidaron de tus palabras."
+        },
+        {
+            "id": "psa119_140",
+            "speaker": "Narrador",
+            "verse": 140,
+            "text": "Sumamente pura es tu palabra; y la ama tu siervo."
+        },
+        {
+            "id": "psa119_141",
+            "speaker": "Narrador",
+            "verse": 141,
+            "text": "Pequeño soy yo y desechado; mas no me he olvidado de tus mandamientos."
+        },
+        {
+            "id": "psa119_142",
+            "speaker": "Narrador",
+            "verse": 142,
+            "text": "Tu justicia es justicia eterna, y tu ley la verdad."
+        },
+        {
+            "id": "psa119_143",
+            "speaker": "Narrador",
+            "verse": 143,
+            "text": "Aflicción y angustia me hallaron; mas tus mandamientos fueron mi delicia."
+        },
+        {
+            "id": "psa119_144",
+            "speaker": "Narrador",
+            "verse": 144,
+            "text": "Justicia eterna son tus testimonios; dame entendimiento, y viviré."
+        },
+        {
+            "id": "psa119_145",
+            "speaker": "Narrador",
+            "verse": 145,
+            "text": "COF. Clamé con todo mi corazón; respóndeme, Jehová, y guardaré tus estatutos."
+        },
+        {
+            "id": "psa119_146",
+            "speaker": "Narrador",
+            "verse": 146,
+            "text": "A ti clamé; sálvame, y guardaré tus testimonios."
+        },
+        {
+            "id": "psa119_147",
+            "speaker": "Narrador",
+            "verse": 147,
+            "text": "Me anticipé al alba, y clamé; esperé en tu palabra."
+        },
+        {
+            "id": "psa119_148",
+            "speaker": "Narrador",
+            "verse": 148,
+            "text": "Se anticiparon mis ojos a las vigilias de la noche, para meditar en tu palabra."
+        },
+        {
+            "id": "psa119_149",
+            "speaker": "Narrador",
+            "verse": 149,
+            "text": "Oye mi voz conforme a tu misericordia; oh Jehová, vivifícame conforme a tu juicio."
+        },
+        {
+            "id": "psa119_150",
+            "speaker": "Narrador",
+            "verse": 150,
+            "text": "Se me han acercado los que siguen la maldad; Lejos están de tu ley."
+        },
+        {
+            "id": "psa119_151",
+            "speaker": "Narrador",
+            "verse": 151,
+            "text": "Cercano estás tú, oh Jehová; y todos tus mandamientos son verdad."
+        },
+        {
+            "id": "psa119_152",
+            "speaker": "Narrador",
+            "verse": 152,
+            "text": "Hace ya mucho que he entendido tus testimonios, que para siempre los has establecido."
+        },
+        {
+            "id": "psa119_153",
+            "speaker": "Narrador",
+            "verse": 153,
+            "text": "RESH. Mira mi aflicción, y líbrame; porque de tu ley no me he olvidado."
+        },
+        {
+            "id": "psa119_154",
+            "speaker": "Narrador",
+            "verse": 154,
+            "text": "Aboga mi causa, y líbrame; vivifícame con tu palabra."
+        },
+        {
+            "id": "psa119_155",
+            "speaker": "Narrador",
+            "verse": 155,
+            "text": "Lejos está de los impíos la salvación; porque no buscan tus estatutos."
+        },
+        {
+            "id": "psa119_156",
+            "speaker": "Narrador",
+            "verse": 156,
+            "text": "Muchas son tus misericordias, oh Jehová; vivifícame conforme a tus juicios."
+        },
+        {
+            "id": "psa119_157",
+            "speaker": "Narrador",
+            "verse": 157,
+            "text": "Muchos son mis perseguidores y mis enemigos; mas de tus testimonios no me he apartado."
+        },
+        {
+            "id": "psa119_158",
+            "speaker": "Narrador",
+            "verse": 158,
+            "text": "Veía a los prevaricadores, y me disgustaba; porque no guardaban tus palabras."
+        },
+        {
+            "id": "psa119_159",
+            "speaker": "Narrador",
+            "verse": 159,
+            "text": "Mira, oh Jehová, que amo tus mandamientos; vivifícame conforme a tu misericordia."
+        },
+        {
+            "id": "psa119_160",
+            "speaker": "Narrador",
+            "verse": 160,
+            "text": "El principio de tu palabra es verdad; y eterno es todo juicio de tu justicia."
+        },
+        {
+            "id": "psa119_161",
+            "speaker": "Narrador",
+            "verse": 161,
+            "text": "SIN. Príncipes me han perseguido sin causa; mas mi corazón está asombrado de tu palabra."
+        },
+        {
+            "id": "psa119_162",
+            "speaker": "Narrador",
+            "verse": 162,
+            "text": "Me gozo yo en tu palabra, como el que halla muchos despojos."
+        },
+        {
+            "id": "psa119_163",
+            "speaker": "Narrador",
+            "verse": 163,
+            "text": "La mentira aborrezco y abomino; tu ley amo."
+        },
+        {
+            "id": "psa119_164",
+            "speaker": "Narrador",
+            "verse": 164,
+            "text": "Siete veces al día te alabo sobre los juicios de tu justicia."
+        },
+        {
+            "id": "psa119_165",
+            "speaker": "Narrador",
+            "verse": 165,
+            "text": "Mucha paz tienen los que aman tu ley; y no hay para ellos tropiezo."
+        },
+        {
+            "id": "psa119_166",
+            "speaker": "Narrador",
+            "verse": 166,
+            "text": "Tu salvación he esperado, oh Jehová; y tus mandamientos he puesto por obra."
+        },
+        {
+            "id": "psa119_167",
+            "speaker": "Narrador",
+            "verse": 167,
+            "text": "Mi alma ha guardado tus testimonios, y los he amado en gran manera."
+        },
+        {
+            "id": "psa119_168",
+            "speaker": "Narrador",
+            "verse": 168,
+            "text": "He guardado tus mandamientos y tus testimonios; porque todos mis caminos están delante de ti."
+        },
+        {
+            "id": "psa119_169",
+            "speaker": "Narrador",
+            "verse": 169,
+            "text": "TAU. Llegue mi clamor delante de ti, oh Jehová; dame entendimiento conforme a tu palabra."
+        },
+        {
+            "id": "psa119_170",
+            "speaker": "Narrador",
+            "verse": 170,
+            "text": "Llegue mi oración delante de ti; líbrame conforme a tu palabra."
+        },
+        {
+            "id": "psa119_171",
+            "speaker": "Narrador",
+            "verse": 171,
+            "text": "Mis labios rebosarán alabanza, cuando me hayas enseñado tus estatutos."
+        },
+        {
+            "id": "psa119_172",
+            "speaker": "Narrador",
+            "verse": 172,
+            "text": "Hablará mi lengua tus palabras; porque todos tus mandamientos son justicia."
+        },
+        {
+            "id": "psa119_173",
+            "speaker": "Narrador",
+            "verse": 173,
+            "text": "Que tu mano me ayude; Porque tus mandamientos he escogido."
+        },
+        {
+            "id": "psa119_174",
+            "speaker": "Narrador",
+            "verse": 174,
+            "text": "He deseado tu salvación, oh Jehová; y tu ley es mi delicia."
+        },
+        {
+            "id": "psa119_175",
+            "speaker": "Narrador",
+            "verse": 175,
+            "text": "Que viva mi alma y te alabe; y tus juicios me ayuden."
+        },
+        {
+            "id": "psa119_176",
+            "speaker": "Narrador",
+            "verse": 176,
+            "text": "Yo anduve errante como oveja extraviada; busca a tu siervo; porque no me he olvidado de tus mandamientos."
+        }
+    ]
+}

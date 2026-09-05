@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 84,
+    "title": "Salmos 84",
+    "messages": [
+        {
+            "id": "psa84_sec1_beea",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Gitit: Salmo para los hijos de Coré",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa84_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¡Cuán amables son tus moradas, oh Jehová de los ejércitos!"
+        },
+        {
+            "id": "psa84_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Anhela mi alma, y aun ardientemente desea los atrios de Jehová; mi corazón y mi carne cantan al Dios vivo."
+        },
+        {
+            "id": "psa84_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Aun el gorrión halla casa, y la golondrina nido para sí, donde ponga sus polluelos, en tus altares, oh Jehová de los ejércitos, Rey mío, y Dios mío."
+        },
+        {
+            "id": "psa84_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Bienaventurados los que habitan en tu casa; perpetuamente te alabarán. (Selah)"
+        },
+        {
+            "id": "psa84_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Bienaventurado el hombre que tiene su fortaleza en ti; en cuyo corazón están tus caminos."
+        },
+        {
+            "id": "psa84_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Atravesando el valle de lágrimas lo convierten en fuente, cuando la lluvia llena los estanques."
+        },
+        {
+            "id": "psa84_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Irán de fortaleza en fortaleza, verán a Dios en Sión."
+        },
+        {
+            "id": "psa84_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Jehová Dios de los ejércitos, oye mi oración: Escucha, oh Dios de Jacob. (Selah)"
+        },
+        {
+            "id": "psa84_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mira, oh Dios, escudo nuestro, y pon los ojos en el rostro de tu ungido."
+        },
+        {
+            "id": "psa84_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque mejor es un día en tus atrios que mil fuera de ellos: Escogería antes estar a la puerta de la casa de mi Dios, que habitar en las moradas de maldad."
+        },
+        {
+            "id": "psa84_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque sol y escudo es Jehová Dios: Gracia y gloria dará Jehová; no quitará el bien a los que en integridad andan."
+        },
+        {
+            "id": "psa84_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Jehová de los ejércitos, dichoso el hombre que en ti confía."
+        }
+    ]
+}

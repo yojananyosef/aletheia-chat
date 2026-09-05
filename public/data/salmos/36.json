@@ -1,0 +1,92 @@
+{
+    "book": "Salmos",
+    "chapter": 36,
+    "title": "Salmos 36",
+    "messages": [
+        {
+            "id": "psa36_sec1_19a4",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David, siervo del Señor",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa36_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "La iniquidad del impío me dice al corazón:"
+        },
+        {
+            "id": "psa36_1b",
+            "speaker": "Impíos",
+            "verse": 1,
+            "text": "No hay temor de Dios delante de sus ojos."
+        },
+        {
+            "id": "psa36_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Pues se lisonjea en sus propios ojos, hasta que se descubre que su iniquidad es aborrecible."
+        },
+        {
+            "id": "psa36_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Las palabras de su boca son iniquidad y fraude; dejó de ser sensato, y de hacer el bien."
+        },
+        {
+            "id": "psa36_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Iniquidad piensa sobre su cama; está en camino no bueno, el mal no aborrece."
+        },
+        {
+            "id": "psa36_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Hasta los cielos oh Jehová, es tu misericordia; tu fidelidad alcanza hasta las nubes."
+        },
+        {
+            "id": "psa36_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Tu justicia es como los montes de Dios, tus juicios abismo grande: Oh Jehová, al hombre y al animal conservas."
+        },
+        {
+            "id": "psa36_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "¡Cuán preciosa, oh Dios, es tu misericordia! Por eso los hijos de los hombres se amparan bajo la sombra de tus alas."
+        },
+        {
+            "id": "psa36_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Serán plenamente saciados de la grosura de tu casa; y tú los abrevarás del torrente de tus delicias."
+        },
+        {
+            "id": "psa36_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque contigo está el manantial de la vida: En tu luz veremos la luz."
+        },
+        {
+            "id": "psa36_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Extiende tu bondad a los que te conocen, y tu justicia a los rectos de corazón."
+        },
+        {
+            "id": "psa36_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "No venga contra mí pie de soberbia; y mano de impíos no me mueva."
+        },
+        {
+            "id": "psa36_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Allí cayeron los obradores de iniquidad; fueron derribados, y no podrán levantarse."
+        }
+    ]
+}

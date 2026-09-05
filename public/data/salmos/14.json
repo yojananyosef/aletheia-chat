@@ -1,0 +1,62 @@
+{
+    "book": "Salmos",
+    "chapter": 14,
+    "title": "Salmos 14",
+    "messages": [
+        {
+            "id": "psa14_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa14_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dijo el necio en su corazón:"
+        },
+        {
+            "id": "psa14_1b",
+            "speaker": "Impíos",
+            "verse": 1,
+            "text": "No hay Dios. Se corrompieron, hicieron obras abominables; no hay quien haga el bien."
+        },
+        {
+            "id": "psa14_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová miró desde los cielos sobre los hijos de los hombres, para ver si había algún entendido, que buscara a Dios."
+        },
+        {
+            "id": "psa14_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Todos se desviaron, a una se han corrompido; no hay quien haga el bien, no hay ni siquiera uno."
+        },
+        {
+            "id": "psa14_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "¿No tendrán conocimiento todos los obradores de iniquidad, que devoran a mi pueblo como si comiesen pan, y a Jehová no invocan?"
+        },
+        {
+            "id": "psa14_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Allí temblaron de espanto; porque Dios está con la generación de los justos."
+        },
+        {
+            "id": "psa14_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "El consejo del pobre habéis escarnecido, pero Jehová es su refugio."
+        },
+        {
+            "id": "psa14_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "¡Oh que de Sión viniese la salvación de Israel! Cuando Jehová hiciere volver a los cautivos de su pueblo, se gozará Jacob, y se alegrará Israel."
+        }
+    ]
+}

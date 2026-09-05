@@ -1,0 +1,98 @@
+{
+    "book": "Salmos",
+    "chapter": 19,
+    "title": "Salmos 19",
+    "messages": [
+        {
+            "id": "psa19_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa19_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos."
+        },
+        {
+            "id": "psa19_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Un día emite palabra a otro día, y una noche a otra noche declara sabiduría."
+        },
+        {
+            "id": "psa19_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "No hay habla, ni lenguaje, donde su voz no sea oída."
+        },
+        {
+            "id": "psa19_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Por toda la tierra salió su hilo, y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol."
+        },
+        {
+            "id": "psa19_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y éste, como un novio que sale de su tálamo, se alegra cual gigante para correr el camino."
+        },
+        {
+            "id": "psa19_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "De un extremo de los cielos es su salida, y su giro hasta el término de ellos; y nada hay que se esconda de su calor."
+        },
+        {
+            "id": "psa19_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "La ley de Jehová es perfecta, que convierte el alma; el testimonio de Jehová es fiel, que hace sabio al sencillo."
+        },
+        {
+            "id": "psa19_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Los mandamientos de Jehová son rectos, que alegran el corazón; el precepto de Jehová, es puro, que alumbra los ojos."
+        },
+        {
+            "id": "psa19_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El temor de Jehová, es limpio, que permanece para siempre; los juicios de Jehová son verdad, todos justos."
+        },
+        {
+            "id": "psa19_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Deseables son más que el oro, y más que mucho oro afinado; y dulces más que la miel, y la que destila del panal."
+        },
+        {
+            "id": "psa19_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Tu siervo es además amonestado con ellos; en guardarlos hay grande galardón."
+        },
+        {
+            "id": "psa19_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "¿Quién podrá entender sus propios errores? Líbrame de los que me son ocultos."
+        },
+        {
+            "id": "psa19_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Detén asimismo a tu siervo de pecados de soberbia; que no se enseñoreen de mí: Entonces seré íntegro, y estaré limpio de gran transgresión."
+        },
+        {
+            "id": "psa19_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Que los dichos de mi boca y la meditación de mi corazón sean gratos delante de ti, oh Jehová, Roca mía, y Redentor mío."
+        }
+    ]
+}

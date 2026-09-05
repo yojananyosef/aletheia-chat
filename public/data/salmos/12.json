@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 12,
+    "title": "Salmos 12",
+    "messages": [
+        {
+            "id": "psa12_sec1_34e7",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Seminit: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa12_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Salva, oh Jehová, porque se acabaron los piadosos; porque han desaparecido los fieles de entre los hijos de los hombres."
+        },
+        {
+            "id": "psa12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Mentira habla cada uno con su prójimo; Hablan con labios lisonjeros y con doblez de corazón."
+        },
+        {
+            "id": "psa12_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Jehová destruirá todos los labios lisonjeros, y la lengua que habla soberbias;"
+        },
+        {
+            "id": "psa12_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Los que han dicho:"
+        },
+        {
+            "id": "psa12_4b",
+            "speaker": "Impíos",
+            "verse": 4,
+            "text": "Por nuestra lengua prevaleceremos; nuestros labios son nuestros; ¿quién es señor sobre nosotros?"
+        },
+        {
+            "id": "psa12_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por la opresión de los pobres, por el gemido de los necesitados, ahora me levantaré, dice Jehová; los pondré a salvo del que contra ellos se engríe."
+        },
+        {
+            "id": "psa12_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Las palabras de Jehová son palabras puras; como plata refinada en horno de tierra, purificada siete veces."
+        },
+        {
+            "id": "psa12_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Tú, Jehová, las guardarás; las preservarás de esta generación para siempre."
+        },
+        {
+            "id": "psa12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Asediando andan los malos, cuando son exaltados los más viles de los hijos de los hombres."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 52,
+    "title": "Salmos 52",
+    "messages": [
+        {
+            "id": "psa52_sec1_ac44",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Masquil de David, cuando vino Doeg idumeo y dio cuenta a Saúl, diciéndole: David ha venido a casa de Ahimelec",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa52_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿Por qué te glorías de maldad, oh poderoso? La misericordia de Dios es continua."
+        },
+        {
+            "id": "psa52_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Agravios maquina tu lengua; como navaja afilada hace engaño."
+        },
+        {
+            "id": "psa52_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Amaste el mal más que el bien; la mentira más que hablar justicia. (Selah)"
+        },
+        {
+            "id": "psa52_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Has amado toda palabra perniciosa, oh lengua engañosa."
+        },
+        {
+            "id": "psa52_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por tanto Dios te derribará para siempre; te asolará y te arrancará de tu morada, y te desarraigará de la tierra de los vivientes. (Selah)"
+        },
+        {
+            "id": "psa52_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y verán los justos, y temerán; y se reirán de él, diciendo:"
+        },
+        {
+            "id": "psa52_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "He aquí el hombre que no puso a Dios por su fortaleza, sino que confió en la multitud de sus riquezas; y se mantuvo en su maldad."
+        },
+        {
+            "id": "psa52_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas yo estoy como olivo verde en la casa de Dios: En la misericordia de Dios confío eternamente y para siempre."
+        },
+        {
+            "id": "psa52_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Te alabaré para siempre por lo que has hecho; y esperaré en tu nombre, porque es bueno, delante de tus santos."
+        }
+    ]
+}

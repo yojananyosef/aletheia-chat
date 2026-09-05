@@ -1,0 +1,146 @@
+{
+    "book": "Salmos",
+    "chapter": 34,
+    "title": "Salmos 34",
+    "messages": [
+        {
+            "id": "psa34_sec1_13ac",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David, cuando mudó su semblante delante de Abimelec, y él lo echó, y se fue",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa34_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bendeciré a Jehová en todo tiempo; de continuo mi boca le alabará."
+        },
+        {
+            "id": "psa34_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "En Jehová se gloriará mi alma; lo oirán los mansos, y se alegrarán."
+        },
+        {
+            "id": "psa34_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Engrandeced a Jehová conmigo, y exaltemos a una su nombre."
+        },
+        {
+            "id": "psa34_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Busqué a Jehová, y Él me oyó, y me libró de todos mis temores."
+        },
+        {
+            "id": "psa34_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Los que a Él miraron, fueron alumbrados, y sus rostros no fueron avergonzados."
+        },
+        {
+            "id": "psa34_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Este pobre clamó, y le oyó Jehová, y lo libró de todas sus angustias."
+        },
+        {
+            "id": "psa34_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "El ángel de Jehová acampa en derredor de los que le temen, y los defiende."
+        },
+        {
+            "id": "psa34_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Gustad, y ved que es bueno Jehová: Dichoso el hombre que en Él confía."
+        },
+        {
+            "id": "psa34_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Temed a Jehová, vosotros sus santos; porque nada falta a los que le temen."
+        },
+        {
+            "id": "psa34_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Los leoncillos necesitan, y tienen hambre; pero los que buscan a Jehová, no tendrán falta de ningún bien."
+        },
+        {
+            "id": "psa34_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Venid, hijos, oídme; el temor de Jehová os enseñaré."
+        },
+        {
+            "id": "psa34_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "¿Quién es el hombre que desea vida, que desea muchos días para ver el bien?"
+        },
+        {
+            "id": "psa34_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Guarda tu lengua del mal, y tus labios de hablar engaño."
+        },
+        {
+            "id": "psa34_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Apártate del mal, y haz el bien; Busca la paz y síguela."
+        },
+        {
+            "id": "psa34_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Los ojos de Jehová están sobre los justos, y atentos sus oídos al clamor de ellos."
+        },
+        {
+            "id": "psa34_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "La ira de Jehová contra los que hacen mal, para cortar de la tierra la memoria de ellos."
+        },
+        {
+            "id": "psa34_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Claman los justos, y Jehová los oye, y los libra de todas sus angustias."
+        },
+        {
+            "id": "psa34_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Cercano está Jehová a los quebrantados de corazón; y salvará a los contritos de espíritu."
+        },
+        {
+            "id": "psa34_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Muchas son las aflicciones del justo; pero de todas ellas lo librará Jehová."
+        },
+        {
+            "id": "psa34_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Él guarda todos sus huesos; ni uno de ellos será quebrantado."
+        },
+        {
+            "id": "psa34_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Matará al malo la maldad; y los que aborrecen al justo serán asolados."
+        },
+        {
+            "id": "psa34_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Jehová redime el alma de sus siervos; y no serán desolados cuantos en Él confían."
+        }
+    ]
+}

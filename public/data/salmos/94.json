@@ -1,0 +1,157 @@
+{
+    "book": "Salmos",
+    "chapter": 94,
+    "title": "Salmos 94",
+    "messages": [
+        {
+            "id": "psa94_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Jehová, Dios de las venganzas, Dios de las venganzas, manifiéstate."
+        },
+        {
+            "id": "psa94_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Levántate, oh Juez de la tierra; da el pago a los soberbios."
+        },
+        {
+            "id": "psa94_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "¿Hasta cuándo los impíos, hasta cuándo, oh Jehová, se gozarán los impíos?"
+        },
+        {
+            "id": "psa94_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "¿Hasta cuándo pronunciarán, hablarán cosas duras, y se vanagloriarán todos los obradores de iniquidad?"
+        },
+        {
+            "id": "psa94_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "A tu pueblo, oh Jehová, quebrantan, y a tu heredad afligen."
+        },
+        {
+            "id": "psa94_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "A la viuda y al extranjero matan, y a los huérfanos quitan la vida."
+        },
+        {
+            "id": "psa94_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dicen:"
+        },
+        {
+            "id": "psa94_7b",
+            "speaker": "Impíos",
+            "verse": 7,
+            "text": "No mirará Jehová, ni hará caso el Dios de Jacob."
+        },
+        {
+            "id": "psa94_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entended, necios del pueblo; y vosotros fatuos, ¿cuándo seréis sabios?"
+        },
+        {
+            "id": "psa94_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El que plantó el oído, ¿no oirá? El que formó el ojo, ¿no verá?"
+        },
+        {
+            "id": "psa94_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El que castiga a las gentes, ¿no reprenderá? El que enseña la ciencia al hombre, ¿no sabrá?"
+        },
+        {
+            "id": "psa94_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Jehová conoce los pensamientos de los hombres, que son vanidad."
+        },
+        {
+            "id": "psa94_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Bienaventurado el hombre a quien tú, oh Jehová, corriges, y en tu ley lo instruyes;"
+        },
+        {
+            "id": "psa94_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "para darle reposo de los días de aflicción, en tanto que para el impío se cava el hoyo."
+        },
+        {
+            "id": "psa94_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque Jehová no abandonará a su pueblo, ni desamparará a su heredad;"
+        },
+        {
+            "id": "psa94_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "sino que el juicio volverá a la justicia, y en pos de ella irán todos los rectos de corazón."
+        },
+        {
+            "id": "psa94_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "¿Quién se levantará por mí contra los malignos? ¿Quién estará por mí contra los obradores de iniquidad?"
+        },
+        {
+            "id": "psa94_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Si no me ayudara Jehová, pronto moraría mi alma en el silencio."
+        },
+        {
+            "id": "psa94_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Cuando yo decía:"
+        },
+        {
+            "id": "psa94_18b",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mi pie resbala; tu misericordia, oh Jehová, me sustentaba."
+        },
+        {
+            "id": "psa94_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "En la multitud de mis pensamientos dentro de mí, tus consolaciones alegraban mi alma."
+        },
+        {
+            "id": "psa94_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "¿Se juntará contigo el trono de iniquidades, que forma agravio por ley?"
+        },
+        {
+            "id": "psa94_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Se juntan contra la vida del justo, y condenan la sangre inocente."
+        },
+        {
+            "id": "psa94_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas Jehová me ha sido por refugio; y mi Dios es la Roca de mi confianza."
+        },
+        {
+            "id": "psa94_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Él hará volver sobre ellos su iniquidad, y los destruirá en su propia maldad; los cortará Jehová nuestro Dios."
+        }
+    ]
+}

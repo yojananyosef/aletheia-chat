@@ -1,0 +1,122 @@
+{
+    "book": "Salmos",
+    "chapter": 59,
+    "title": "Salmos 59",
+    "messages": [
+        {
+            "id": "psa59_sec1_763c",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre No destruyas: Mictam de David, cuando envió Saúl, y guardaron la casa para matarlo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa59_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Líbrame de mis enemigos, oh Dios mío; ponme a salvo de los que contra mí se levantan."
+        },
+        {
+            "id": "psa59_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Líbrame de los obradores de iniquidad, y sálvame de hombres sanguinarios."
+        },
+        {
+            "id": "psa59_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque he aquí están acechando mi vida; se han juntado contra mí poderosos, no por falta mía, ni pecado mío, oh Jehová."
+        },
+        {
+            "id": "psa59_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Sin delito mío, corren y se aperciben; despierta para ayudarme, y mira."
+        },
+        {
+            "id": "psa59_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y tú, Jehová Dios de los ejércitos, Dios de Israel, despierta para castigar a todas las naciones; no tengas misericordia de todos los que se rebelan con iniquidad. (Selah)"
+        },
+        {
+            "id": "psa59_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Volverán a la tarde, ladrarán como perros, y rondarán la ciudad."
+        },
+        {
+            "id": "psa59_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "He aquí proferirán con su boca; espadas hay en sus labios, porque dicen:"
+        },
+        {
+            "id": "psa59_7b",
+            "speaker": "Impíos",
+            "verse": 7,
+            "text": "¿Quién oye?"
+        },
+        {
+            "id": "psa59_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas tú, oh Jehová, te reirás de ellos, te burlarás de todas las gentes."
+        },
+        {
+            "id": "psa59_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "A causa de su fuerza, esperaré yo en ti; porque Dios es mi defensa."
+        },
+        {
+            "id": "psa59_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El Dios de mi misericordia irá delante de mí: Dios perimitirá que yo vea en mis enemigos mi deseo."
+        },
+        {
+            "id": "psa59_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "No los mates, para que mi pueblo no se olvide; Dispérsalos con tu poder, y abátelos, oh Jehová, escudo nuestro,"
+        },
+        {
+            "id": "psa59_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "por el pecado de su boca, por la palabra de sus labios; sean presos por su soberbia, y por la maldición y mentira que profieren."
+        },
+        {
+            "id": "psa59_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Acábalos con furor, acábalos, y dejen de ser; y sepan que Dios domina en Jacob hasta los confines de la tierra. (Selah)"
+        },
+        {
+            "id": "psa59_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Vuelvan, pues, a la tarde, y ladren como perros, y ronden la ciudad."
+        },
+        {
+            "id": "psa59_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Anden errantes en busca de comida; y si no se saciaren, murmuren."
+        },
+        {
+            "id": "psa59_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Pero yo cantaré de tu poder, y alabaré de mañana tu misericordia: Porque has sido mi amparo y refugio en el día de mi angustia."
+        },
+        {
+            "id": "psa59_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Fortaleza mía, a ti cantaré; porque tú eres, oh Dios, mi refugio, el Dios de mi misericordia."
+        }
+    ]
+}

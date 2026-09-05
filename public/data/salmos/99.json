@@ -1,0 +1,67 @@
+{
+    "book": "Salmos",
+    "chapter": 99,
+    "title": "Salmos 99",
+    "messages": [
+        {
+            "id": "psa99_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Jehová reina, temblarán los pueblos: Él está sentado sobre los querubines, se conmoverá la tierra."
+        },
+        {
+            "id": "psa99_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová en Sión es grande, y exaltado sobre todos los pueblos."
+        },
+        {
+            "id": "psa99_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Alaben tu nombre grande y temible: Él es santo."
+        },
+        {
+            "id": "psa99_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y la gloria del rey ama el juicio: Tú confirmas la rectitud; tú has hecho en Jacob juicio y justicia."
+        },
+        {
+            "id": "psa99_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Exaltad a Jehová nuestro Dios, y postraos al estrado de sus pies: Él es santo."
+        },
+        {
+            "id": "psa99_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Moisés y Aarón entre sus sacerdotes, y Samuel entre los que invocaron su nombre; invocaban a Jehová, y Él les respondía."
+        },
+        {
+            "id": "psa99_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "En columna de nube hablaba con ellos; guardaban sus testimonios, y el estatuto que les había dado."
+        },
+        {
+            "id": "psa99_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Jehová Dios nuestro, tú les respondías:"
+        },
+        {
+            "id": "psa99_8b",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Tú les fuiste un Dios perdonador, aunque cobraste venganza de sus malas obras."
+        },
+        {
+            "id": "psa99_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Exaltad a Jehová nuestro Dios, y adorad en su santo monte; porque Jehová nuestro Dios es santo."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 47,
+    "title": "Salmos 47",
+    "messages": [
+        {
+            "id": "psa47_sec1_542b",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: De los hijos de Coré: Salmo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa47_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pueblos todos, batid las manos; aclamad a Dios con voz de júbilo."
+        },
+        {
+            "id": "psa47_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque Jehová el Altísimo es terrible; Rey grande sobre toda la tierra."
+        },
+        {
+            "id": "psa47_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Él sujetará a los pueblos debajo de nosotros, y a las naciones debajo de nuestros pies."
+        },
+        {
+            "id": "psa47_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Él nos elegirá nuestras heredades; la hermosura de Jacob, al cual amó. (Selah)"
+        },
+        {
+            "id": "psa47_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Subió Dios con júbilo, Jehová con sonido de trompeta."
+        },
+        {
+            "id": "psa47_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Cantad a Dios, cantad; cantad a nuestro Rey, cantad."
+        },
+        {
+            "id": "psa47_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque Dios es el Rey de toda la tierra: Cantad con inteligencia."
+        },
+        {
+            "id": "psa47_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Dios reina sobre las naciones; Sentado está Dios sobre su santo trono."
+        },
+        {
+            "id": "psa47_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Los príncipes de los pueblos se han reunido, aun el pueblo del Dios de Abraham: Porque de Dios son los escudos de la tierra; Él es muy enaltecido."
+        }
+    ]
+}

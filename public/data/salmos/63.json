@@ -1,0 +1,80 @@
+{
+    "book": "Salmos",
+    "chapter": 63,
+    "title": "Salmos 63",
+    "messages": [
+        {
+            "id": "psa63_sec1_8753",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David, estando en el desierto de Judá",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa63_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dios, Dios mío eres tú; de madrugada te buscaré; mi alma tiene sed de ti, mi carne te anhela, en tierra seca y árida donde agua no hay;"
+        },
+        {
+            "id": "psa63_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "para ver tu poder y tu gloria, así como te he mirado en el santuario."
+        },
+        {
+            "id": "psa63_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque mejor es tu misericordia que la vida; mis labios te alabarán."
+        },
+        {
+            "id": "psa63_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Así te bendeciré en mi vida; en tu nombre alzaré mis manos."
+        },
+        {
+            "id": "psa63_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Como de meollo y de grosura será saciada mi alma; y con labios de júbilo te alabará mi boca,"
+        },
+        {
+            "id": "psa63_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "cuando me acuerdo de ti en mi lecho, y medito en ti en las vigilias de la noche."
+        },
+        {
+            "id": "psa63_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque has sido mi socorro; y así en la sombra de tus alas me regocijaré."
+        },
+        {
+            "id": "psa63_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Está mi alma apegada a ti; tu diestra me ha sostenido."
+        },
+        {
+            "id": "psa63_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mas los que para destrucción buscan mi alma, caerán en los sitios más bajos de la tierra."
+        },
+        {
+            "id": "psa63_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Caerán a filo de espada; serán la porción de las zorras."
+        },
+        {
+            "id": "psa63_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pero el rey se alegrará en Dios; será alabado cualquiera que por Él jura; porque la boca de los que hablan mentira, será cerrada."
+        }
+    ]
+}

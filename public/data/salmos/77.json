@@ -1,0 +1,140 @@
+{
+    "book": "Salmos",
+    "chapter": 77,
+    "title": "Salmos 77",
+    "messages": [
+        {
+            "id": "psa77_sec1_7166",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: para Jedutún: Salmo de Asaf",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa77_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Con mi voz clamé a Dios, a Dios clamé, y Él me escuchó."
+        },
+        {
+            "id": "psa77_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Al Señor busqué en el día de mi angustia; mi mal corría de noche y no cesaba; mi alma rehusó el consuelo."
+        },
+        {
+            "id": "psa77_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Me acordaba de Dios, y me turbaba; me quejaba, y desmayaba mi espíritu. (Selah)"
+        },
+        {
+            "id": "psa77_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Detenías los párpados de mis ojos: Estaba yo quebrantado, y no hablaba."
+        },
+        {
+            "id": "psa77_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Consideraba los días desde el principio, los años de los siglos."
+        },
+        {
+            "id": "psa77_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Me acordaba de mis canciones de noche; meditaba en mi corazón, y mi espíritu inquiría."
+        },
+        {
+            "id": "psa77_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "¿Desechará el Señor para siempre, y no volverá más a sernos propicio?"
+        },
+        {
+            "id": "psa77_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "¿Ha cesado para siempre su misericordia? ¿Se ha acabado perpetuamente su promesa?"
+        },
+        {
+            "id": "psa77_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "¿Ha olvidado Dios el tener misericordia? ¿Ha encerrado con ira sus piedades? (Selah)"
+        },
+        {
+            "id": "psa77_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dije:"
+        },
+        {
+            "id": "psa77_10b",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Enfermedad mía es ésta; traeré, pues, a la memoria los años de la diestra del Altísimo."
+        },
+        {
+            "id": "psa77_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Me acordaré de las obras de Jehová; sí, haré yo memoria de tus maravillas antiguas."
+        },
+        {
+            "id": "psa77_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y meditaré en todas tus obras, y hablaré de tus hechos."
+        },
+        {
+            "id": "psa77_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Oh Dios, en santidad es tu camino: ¿Qué Dios es grande como nuestro Dios?"
+        },
+        {
+            "id": "psa77_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Tú eres el Dios que hace maravillas; hiciste notorio en los pueblos tu poder."
+        },
+        {
+            "id": "psa77_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Con tu brazo redimiste a tu pueblo, a los hijos de Jacob y de José. (Selah)"
+        },
+        {
+            "id": "psa77_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Te vieron las aguas, oh Dios; te vieron las aguas y temieron; y temblaron los abismos."
+        },
+        {
+            "id": "psa77_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Las nubes derramaron agua; tronaron los cielos, tus saetas salieron por doquier."
+        },
+        {
+            "id": "psa77_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Anduvo en derredor el sonido de tus truenos; los relámpagos alumbraron al mundo; se estremeció y tembló la tierra."
+        },
+        {
+            "id": "psa77_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "En el mar fue tu camino, y tus sendas en las muchas aguas; y tus pisadas no fueron conocidas."
+        },
+        {
+            "id": "psa77_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Condujiste a tu pueblo como ovejas, por mano de Moisés y de Aarón."
+        }
+    ]
+}

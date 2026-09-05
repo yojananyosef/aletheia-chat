@@ -1,0 +1,92 @@
+{
+    "book": "Salmos",
+    "chapter": 60,
+    "title": "Salmos 60",
+    "messages": [
+        {
+            "id": "psa60_sec1_5dd1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal; sobre Susan-edut: Mictam de David, para enseñar, cuando tuvo guerra contra Aram-naharaim y contra Aram de Soba, y volvió Joab, e hirió de Edom en el valle de la Sal a doce mil",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa60_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios, tú nos has desechado, nos disipaste; te has airado; ¡vuélvete a nosotros!"
+        },
+        {
+            "id": "psa60_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Hiciste temblar la tierra, la abriste; sana sus roturas, porque titubea."
+        },
+        {
+            "id": "psa60_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Has hecho ver a tu pueblo duras cosas; nos hiciste beber el vino de aturdimiento."
+        },
+        {
+            "id": "psa60_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Has dado bandera a los que te temen, que desplieguen por causa de la verdad. (Selah)"
+        },
+        {
+            "id": "psa60_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Para que sean librados tus amados, salva con tu diestra, y óyeme."
+        },
+        {
+            "id": "psa60_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Dios ha hablado en su santuario:"
+        },
+        {
+            "id": "psa60_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Yo me alegraré; repartiré a Siquem, y mediré el valle de Sucot."
+        },
+        {
+            "id": "psa60_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mío es Galaad, y mío es Manasés; y Efraín es la fortaleza de mi cabeza; Judá es mi legislador;"
+        },
+        {
+            "id": "psa60_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Moab, es la vasija en que me lavo; sobre Edom echaré mi zapato: Haz júbilo a causa de mí, oh Filistea."
+        },
+        {
+            "id": "psa60_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "¿Quién me llevará a la ciudad fortificada? ¿Quién me llevará hasta Edom?"
+        },
+        {
+            "id": "psa60_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Ciertamente, tú, oh Dios, que nos habías desechado; y no salías, oh Dios, con nuestros ejércitos."
+        },
+        {
+            "id": "psa60_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Danos socorro contra el enemigo, que vana es la ayuda del hombre."
+        },
+        {
+            "id": "psa60_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "En Dios haremos proezas; y Él hollará a nuestros enemigos."
+        }
+    ]
+}

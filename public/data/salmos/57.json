@@ -1,0 +1,80 @@
+{
+    "book": "Salmos",
+    "chapter": 57,
+    "title": "Salmos 57",
+    "messages": [
+        {
+            "id": "psa57_sec1_447d",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre No destruyas: Mictam de David, cuando huyó de delante de Saúl a la cueva",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa57_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Ten misericordia de mí, oh Dios, ten misericordia de mí; porque en ti ha confiado mi alma, y en la sombra de tus alas me ampararé, hasta que pasen los quebrantos."
+        },
+        {
+            "id": "psa57_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Clamaré al Dios Altísimo, al Dios que me favorece."
+        },
+        {
+            "id": "psa57_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Él enviará desde los cielos, y me salvará de la infamia del que quiere devorarme. (Selah) Dios enviará su misericordia y su verdad."
+        },
+        {
+            "id": "psa57_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mi vida está entre leones; estoy acostado entre hijos de hombres enfurecidos; sus dientes son lanzas y saetas, y su lengua es espada aguda."
+        },
+        {
+            "id": "psa57_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Sobre los cielos sé exaltado, oh Dios; sobre toda la tierra tu gloria."
+        },
+        {
+            "id": "psa57_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Red han armado a mis pasos; mi alma se ha abatido: Hoyo han cavado delante de mí; en medio de él han caído. (Selah)"
+        },
+        {
+            "id": "psa57_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mi corazón está firme, oh Dios, mi corazón está firme; cantaré y trovaré salmos."
+        },
+        {
+            "id": "psa57_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Despierta, oh gloria mía; despierta, salterio y arpa; me levantaré de mañana."
+        },
+        {
+            "id": "psa57_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Te alabaré entre los pueblos, oh Señor; cantaré de ti entre las naciones."
+        },
+        {
+            "id": "psa57_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque grande es hasta los cielos tu misericordia, y hasta las nubes tu verdad."
+        },
+        {
+            "id": "psa57_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Sé exaltado sobre los cielos, oh Dios; sobre toda la tierra sea tu gloria."
+        }
+    ]
+}

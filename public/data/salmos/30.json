@@ -1,0 +1,92 @@
+{
+    "book": "Salmos",
+    "chapter": 30,
+    "title": "Salmos 30",
+    "messages": [
+        {
+            "id": "psa30_sec1_c6d9",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo cantado en la dedicación de la casa de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa30_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Te glorificaré, oh Jehová; porque me has levantado, y no hiciste a mis enemigos alegrarse de mí."
+        },
+        {
+            "id": "psa30_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová Dios mío, a ti clamé, y me sanaste."
+        },
+        {
+            "id": "psa30_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Oh Jehová, hiciste subir mi alma del sepulcro; me diste vida, para que no descendiese a la fosa."
+        },
+        {
+            "id": "psa30_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Cantad a Jehová, vosotros sus santos, y celebrad la memoria de su santidad."
+        },
+        {
+            "id": "psa30_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque un momento durará su furor; mas en su voluntad está la vida: Por la noche durará el lloro, pero a la mañana vendrá la alegría."
+        },
+        {
+            "id": "psa30_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y dije yo en mi prosperidad:"
+        },
+        {
+            "id": "psa30_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "No seré movido jamás;"
+        },
+        {
+            "id": "psa30_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "porque tú, Jehová, por tu benevolencia has asentado mi monte con fortaleza. Escondiste tu rostro, fui conturbado."
+        },
+        {
+            "id": "psa30_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "A ti, oh Jehová, clamaré; y al Señor suplicaré."
+        },
+        {
+            "id": "psa30_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "¿Qué provecho hay en mi muerte, cuando yo descienda al sepulcro? ¿Te alabará el polvo? ¿Anunciará tu verdad?"
+        },
+        {
+            "id": "psa30_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Oye, oh Jehová, y ten misericordia de mí: Jehová, sé tú mi ayudador."
+        },
+        {
+            "id": "psa30_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Has cambiado mi lamento en baile; desataste mi cilicio, y me ceñiste de alegría."
+        },
+        {
+            "id": "psa30_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por tanto a ti cantaré, gloria mía, y no estaré callado. Jehová Dios mío, te alabaré para siempre."
+        }
+    ]
+}

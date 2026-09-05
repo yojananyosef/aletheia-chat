@@ -1,0 +1,116 @@
+{
+    "book": "Salmos",
+    "chapter": 86,
+    "title": "Salmos 86",
+    "messages": [
+        {
+            "id": "psa86_sec1_fa23",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Oración de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa86_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Inclina, oh Jehová, tu oído, y óyeme; porque estoy afligido y menesteroso."
+        },
+        {
+            "id": "psa86_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Guarda mi alma, porque soy piadoso: Salva tú, oh Dios mío, a tu siervo que en ti confía."
+        },
+        {
+            "id": "psa86_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Ten misericordia de mí, oh Jehová; porque a ti clamo todo el día."
+        },
+        {
+            "id": "psa86_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Alegra el alma de tu siervo; porque a ti, oh Señor, levanto mi alma."
+        },
+        {
+            "id": "psa86_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque tú, Señor, eres bueno y perdonador, y grande en misericordia para con todos los que te invocan."
+        },
+        {
+            "id": "psa86_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Escucha, oh Jehová, mi oración, y está atento a la voz de mis ruegos."
+        },
+        {
+            "id": "psa86_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "En el día de mi angustia te llamaré; porque tú me respondes."
+        },
+        {
+            "id": "psa86_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Oh Señor, ninguno hay como tú entre los dioses, ni hay obras que igualen tus obras."
+        },
+        {
+            "id": "psa86_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Todas las naciones que hiciste vendrán y adorarán delante de ti, oh Señor; y glorificarán tu nombre."
+        },
+        {
+            "id": "psa86_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque tú eres grande, y hacedor de maravillas: Sólo tú eres Dios."
+        },
+        {
+            "id": "psa86_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Enséñame, oh Jehová, tu camino; caminaré yo en tu verdad; consolida mi corazón para que tema tu nombre."
+        },
+        {
+            "id": "psa86_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Te alabaré, oh Jehová Dios mío, con todo mi corazón; y glorificaré tu nombre para siempre."
+        },
+        {
+            "id": "psa86_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque tu misericordia es grande para conmigo; y has librado mi alma del más profundo infierno."
+        },
+        {
+            "id": "psa86_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Oh Dios, soberbios se levantaron contra mí, y conspiración de hombres violentos ha buscado mi alma, y no te pusieron delante de sí."
+        },
+        {
+            "id": "psa86_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas tú, Señor, eres Dios misericordioso y clemente, lento para la ira y grande en misericordia y verdad;"
+        },
+        {
+            "id": "psa86_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mírame, y ten misericordia de mí; da tu fortaleza a tu siervo, y guarda al hijo de tu sierva."
+        },
+        {
+            "id": "psa86_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Haz conmigo señal para bien, y véanla los que me aborrecen, y sean avergonzados; porque tú, Jehová, me ayudaste, y me consolaste."
+        }
+    ]
+}

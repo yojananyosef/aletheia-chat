@@ -1,0 +1,188 @@
+{
+    "book": "Salmos",
+    "chapter": 102,
+    "title": "Salmos 102",
+    "messages": [
+        {
+            "id": "psa102_sec1_6eec",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Oración del afligido, cuando está angustiado, y delante de Jehová derrama su lamento",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa102_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Jehová, escucha mi oración, y llegue a ti mi clamor."
+        },
+        {
+            "id": "psa102_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "No escondas de mí tu rostro; en el día de mi angustia inclina a mí tu oído; en el día que te invocare, apresúrate a responderme."
+        },
+        {
+            "id": "psa102_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque mis días se han consumido como humo; y mis huesos cual tizón están quemados."
+        },
+        {
+            "id": "psa102_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mi corazón está herido, y secó como la hierba; por lo cual me olvido de comer mi pan."
+        },
+        {
+            "id": "psa102_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por la voz de mi gemido mis huesos se han pegado a mi carne."
+        },
+        {
+            "id": "psa102_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Soy semejante al pelícano del desierto; soy como el búho de las soledades."
+        },
+        {
+            "id": "psa102_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Velo, y soy como el pájaro solitario sobre el tejado."
+        },
+        {
+            "id": "psa102_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Cada día me afrentan mis enemigos; los que contra mí se enfurecen se han conjurado contra mí."
+        },
+        {
+            "id": "psa102_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por lo cual he comido ceniza a manera de pan, y mi bebida mezclo con lágrimas,"
+        },
+        {
+            "id": "psa102_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "a causa de tu enojo y de tu ira; pues me alzaste, y me has arrojado."
+        },
+        {
+            "id": "psa102_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mis días son como la sombra que se va; y me he secado como la hierba."
+        },
+        {
+            "id": "psa102_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas tú, Jehová, permanecerás para siempre, y tu memoria de generación en generación."
+        },
+        {
+            "id": "psa102_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Te levantarás y tendrás misericordia de Sión; porque es tiempo de tener misericordia de ella, pues el plazo ha llegado."
+        },
+        {
+            "id": "psa102_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque tus siervos aman sus piedras, y del polvo de ella tienen compasión."
+        },
+        {
+            "id": "psa102_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces las naciones temerán el nombre de Jehová, y todos los reyes de la tierra tu gloria;"
+        },
+        {
+            "id": "psa102_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "por cuanto Jehová habrá edificado a Sión, y en su gloria será visto;"
+        },
+        {
+            "id": "psa102_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Habrá considerado la oración de los desamparados, y no habrá desechado el ruego de ellos."
+        },
+        {
+            "id": "psa102_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Se escribirá esto para la generación venidera; y el pueblo que será creado, alabará a Jehová."
+        },
+        {
+            "id": "psa102_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque miró de lo alto de su santuario; Jehová miró desde los cielos a la tierra,"
+        },
+        {
+            "id": "psa102_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "para oír el gemido de los presos, para soltar a los sentenciados a muerte;"
+        },
+        {
+            "id": "psa102_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Para que anuncien en Sión el nombre de Jehová, y su alabanza en Jerusalén,"
+        },
+        {
+            "id": "psa102_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "cuando los pueblos se congreguen en uno, y los reinos, para servir a Jehová."
+        },
+        {
+            "id": "psa102_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Él debilitó mi fuerza en el camino; acortó mis días."
+        },
+        {
+            "id": "psa102_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Dije:"
+        },
+        {
+            "id": "psa102_24b",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Dios mío, no me cortes en la mitad de mis días; por generación de generaciones son tus años."
+        },
+        {
+            "id": "psa102_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Desde la antigüedad tú fundaste la tierra, y los cielos son obra de tus manos."
+        },
+        {
+            "id": "psa102_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Ellos perecerán, y tú permanecerás; y todos ellos como una vestidura se envejecerán; como ropa de vestir los mudarás, y serán mudados:"
+        },
+        {
+            "id": "psa102_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Mas tú eres el mismo, y tus años no tendrán fin."
+        },
+        {
+            "id": "psa102_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Los hijos de tus siervos permanecerán, y su simiente será establecida delante de ti."
+        }
+    ]
+}

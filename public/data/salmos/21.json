@@ -1,0 +1,92 @@
+{
+    "book": "Salmos",
+    "chapter": 21,
+    "title": "Salmos 21",
+    "messages": [
+        {
+            "id": "psa21_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa21_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Se alegrará el rey en tu fortaleza, oh Jehová; y en tu salvación se gozará mucho."
+        },
+        {
+            "id": "psa21_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "El deseo de su corazón le has concedido, y no le has negado la petición de sus labios. (Selah)"
+        },
+        {
+            "id": "psa21_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pues le has salido al encuentro con bendiciones de bien; corona de oro fino has puesto sobre su cabeza."
+        },
+        {
+            "id": "psa21_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Vida te demandó, y le diste largura de días eternamente y para siempre."
+        },
+        {
+            "id": "psa21_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Grande es su gloria en tu salvación; honra y majestad has puesto sobre él."
+        },
+        {
+            "id": "psa21_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque lo has bendecido para siempre; lo llenaste de alegría con tu rostro."
+        },
+        {
+            "id": "psa21_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por cuanto el rey confía en Jehová, y por la misericordia del Altísimo, no será conmovido."
+        },
+        {
+            "id": "psa21_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Alcanzará tu mano a todos tus enemigos; tu diestra alcanzará a los que te aborrecen."
+        },
+        {
+            "id": "psa21_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Los pondrás como horno de fuego en el tiempo de tu ira: Jehová los deshará en su furor, y fuego los consumirá."
+        },
+        {
+            "id": "psa21_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Su fruto destruirás de la tierra, y su simiente de entre los hijos de los hombres."
+        },
+        {
+            "id": "psa21_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque intentaron el mal contra ti; fraguaron maquinaciones, mas no prevalecerán."
+        },
+        {
+            "id": "psa21_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Pues tú los pondrás en fuga, cuando aprestares en tus cuerdas las saetas contra sus rostros."
+        },
+        {
+            "id": "psa21_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Engrandécete, oh Jehová, con tu poder: Cantaremos y alabaremos tu poderío."
+        }
+    ]
+}

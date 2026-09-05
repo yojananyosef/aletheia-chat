@@ -1,0 +1,56 @@
+{
+    "book": "Salmos",
+    "chapter": 87,
+    "title": "Salmos 87",
+    "messages": [
+        {
+            "id": "psa87_sec1_0335",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "A los hijos de Coré: Salmo: Canción",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa87_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Su cimiento está en el monte santo."
+        },
+        {
+            "id": "psa87_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Ama Jehová las puertas de Sión, más que todas las moradas de Jacob."
+        },
+        {
+            "id": "psa87_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Cosas gloriosas se dicen de ti, oh ciudad de Dios. (Selah)"
+        },
+        {
+            "id": "psa87_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mencionaré a Rahab y a Babilonia entre los que me conocen. He aquí Filistea y Tiro, con Etiopía: Éste nació allá."
+        },
+        {
+            "id": "psa87_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y de Sión se dirá: Éste y aquél nacieron en ella; y el Altísimo mismo la establecerá."
+        },
+        {
+            "id": "psa87_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Jehová contará cuando Él inscriba a los pueblos: Éste nació allí. (Selah)"
+        },
+        {
+            "id": "psa87_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cantores y tañedores en ella dirán: Todas mis fuentes estarán en ti."
+        }
+    ]
+}

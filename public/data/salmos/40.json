@@ -1,0 +1,128 @@
+{
+    "book": "Salmos",
+    "chapter": 40,
+    "title": "Salmos 40",
+    "messages": [
+        {
+            "id": "psa40_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa40_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pacientemente esperé en Jehová, y Él se inclinó a mí, y oyó mi clamor."
+        },
+        {
+            "id": "psa40_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y me sacó del pozo de la desesperación, del lodo cenagoso; puso mis pies sobre peña, y enderezó mis pasos."
+        },
+        {
+            "id": "psa40_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Puso luego en mi boca cántico nuevo, alabanza a nuestro Dios. Verán esto muchos, y temerán, y confiarán en Jehová."
+        },
+        {
+            "id": "psa40_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Bienaventurado el hombre que pone en Jehová su confianza, y no mira a los soberbios, ni a los que se desvían a la mentira."
+        },
+        {
+            "id": "psa40_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Has aumentado, oh Jehová Dios mío, tus maravillas; y tus pensamientos para con nosotros, no te los podremos contar; si yo anunciare y hablare de ellos, no pueden ser enumerados."
+        },
+        {
+            "id": "psa40_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Sacrificio y ofrenda no te agradan; has abierto mis oídos; holocausto y expiación no has demandado."
+        },
+        {
+            "id": "psa40_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces dije:"
+        },
+        {
+            "id": "psa40_7b",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "He aquí, vengo; en el rollo del libro está escrito de mí:"
+        },
+        {
+            "id": "psa40_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "El hacer tu voluntad, Dios mío, me ha agradado; y tu ley está en medio de mi corazón."
+        },
+        {
+            "id": "psa40_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "He predicado justicia en grande congregación; he aquí no he refrenado mis labios, Jehová, tú lo sabes."
+        },
+        {
+            "id": "psa40_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "No he encubierto tu justicia dentro de mi corazón: Tu fidelidad y tu salvación he proclamado: No he ocultado tu misericordia y tu verdad a la gran congregación."
+        },
+        {
+            "id": "psa40_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Tú, oh Jehová, no retengas de mí tus misericordias; tu misericordia y tu verdad me guarden siempre."
+        },
+        {
+            "id": "psa40_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque me han rodeado males sin número; me han alcanzado mis maldades, y no puedo levantar la vista; son más numerosas que los cabellos de mi cabeza, y mi corazón me falla."
+        },
+        {
+            "id": "psa40_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Quieras, oh Jehová, librarme; Jehová, apresúrate a socorrerme."
+        },
+        {
+            "id": "psa40_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Sean avergonzados y confundidos a una los que buscan mi vida para destruirla; vuelvan atrás y sean avergonzados los que mi mal desean."
+        },
+        {
+            "id": "psa40_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Sean asolados en pago de su afrenta los que me dicen:"
+        },
+        {
+            "id": "psa40_15b",
+            "speaker": "Impíos",
+            "verse": 15,
+            "text": "¡Ajá, ajá!"
+        },
+        {
+            "id": "psa40_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Gócense y alégrense en ti todos los que te buscan; y digan siempre los que aman tu salvación: Jehová sea engrandecido."
+        },
+        {
+            "id": "psa40_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Aunque afligido yo y necesitado, Jehová pensará en mí. Mi ayuda y mi Libertador eres tú; Dios mío, no te tardes."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "book": "Salmos",
+    "chapter": 125,
+    "title": "Salmos 125",
+    "messages": [
+        {
+            "id": "psa125_sec1_294a",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cántico gradual",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa125_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Los que confían en Jehová son como el monte de Sión que no se mueve; sino que permanece para siempre."
+        },
+        {
+            "id": "psa125_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Como Jerusalén tiene montes alrededor de ella, así Jehová está alrededor de su pueblo desde ahora y para siempre."
+        },
+        {
+            "id": "psa125_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque no reposará la vara de la impiedad sobre la heredad de los justos; para que no extiendan los justos sus manos a la iniquidad."
+        },
+        {
+            "id": "psa125_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Haz bien, oh Jehová, a los buenos, y a los que son rectos en sus corazones."
+        },
+        {
+            "id": "psa125_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas a los que se apartan tras sus perversidades, Jehová los llevará con los que obran iniquidad: Paz sea sobre Israel."
+        }
+    ]
+}

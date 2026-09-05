@@ -1,0 +1,74 @@
+{
+    "book": "Salmos",
+    "chapter": 6,
+    "title": "Salmos 6",
+    "messages": [
+        {
+            "id": "psa6_sec1_93e2",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: en Neginot sobre Seminit: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Jehová, no me reprendas en tu furor, ni me castigues con tu ira."
+        },
+        {
+            "id": "psa6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Ten misericordia de mí, oh Jehová, porque yo estoy debilitado; sáname, oh Jehová, porque mis huesos están conmovidos."
+        },
+        {
+            "id": "psa6_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mi alma también está muy turbada; y tú, Jehová, ¿hasta cuándo?"
+        },
+        {
+            "id": "psa6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Vuélvete, oh Jehová, libra mi alma; sálvame por tu misericordia."
+        },
+        {
+            "id": "psa6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque en la muerte no hay memoria de ti; en el sepulcro, ¿quién te alabará?"
+        },
+        {
+            "id": "psa6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Fatigado estoy de mi gemir; toda la noche hago nadar mi cama con mis lágrimas, riego mi lecho con mi llanto."
+        },
+        {
+            "id": "psa6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mis ojos están consumidos de sufrir; se han envejecido a causa de todos mis angustiadores."
+        },
+        {
+            "id": "psa6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Apartaos de mí, todos los obradores de iniquidad; porque Jehová ha oído la voz de mi lloro."
+        },
+        {
+            "id": "psa6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Jehová ha oído mi ruego; ha recibido Jehová mi oración."
+        },
+        {
+            "id": "psa6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Sean avergonzados y muy aterrados todos mis enemigos; que se vuelvan y súbitamente sean avergonzados."
+        }
+    ]
+}

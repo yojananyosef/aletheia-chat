@@ -1,0 +1,79 @@
+{
+    "book": "Salmos",
+    "chapter": 95,
+    "title": "Salmos 95",
+    "messages": [
+        {
+            "id": "psa95_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Venid, cantemos alegremente a Jehová: Aclamemos con júbilo a la Roca de nuestra salvación."
+        },
+        {
+            "id": "psa95_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Lleguemos ante su presencia con acción de gracias; aclamémosle con salmos."
+        },
+        {
+            "id": "psa95_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque Jehová es Dios grande; y Rey grande sobre todos los dioses."
+        },
+        {
+            "id": "psa95_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque en su mano están las profundidades de la tierra, y las alturas de los montes son suyas."
+        },
+        {
+            "id": "psa95_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Suyo también el mar, pues Él lo hizo; y sus manos formaron la tierra seca."
+        },
+        {
+            "id": "psa95_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Venid, adoremos y postrémonos; arrodillémonos delante de Jehová nuestro Hacedor."
+        },
+        {
+            "id": "psa95_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque Él es nuestro Dios; nosotros el pueblo de su prado y ovejas de su mano. Si oyereis hoy su voz,"
+        },
+        {
+            "id": "psa95_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "no endurezcáis vuestro corazón como en Meriba, como el día de Masah en el desierto;"
+        },
+        {
+            "id": "psa95_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "donde me tentaron vuestros padres, me probaron, y vieron mis obras."
+        },
+        {
+            "id": "psa95_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Cuarenta años estuve disgustado con esta generación, y dije:"
+        },
+        {
+            "id": "psa95_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Pueblo es que divaga de corazón, y no han conocido mis caminos."
+        },
+        {
+            "id": "psa95_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por tanto, juré en mi ira que no entrarían en mi reposo."
+        }
+    ]
+}

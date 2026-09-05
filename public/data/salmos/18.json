@@ -1,0 +1,320 @@
+{
+    "book": "Salmos",
+    "chapter": 18,
+    "title": "Salmos 18",
+    "messages": [
+        {
+            "id": "psa18_sec1_4cd3",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David, siervo de Jehová, el cual dijo a Jehová las palabras de este cántico el día que le libró Jehová de mano de todos sus enemigos, y de mano de Saúl. Entonces dijo:",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa18_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Te amaré, oh Jehová, fortaleza mía."
+        },
+        {
+            "id": "psa18_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová es mi Roca, mi castillo y mi Libertador; mi Dios, mi fortaleza, en Él confiaré; mi escudo, el cuerno de mi salvación, y mi alto refugio."
+        },
+        {
+            "id": "psa18_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Invocaré a Jehová, quien es digno de ser alabado, y seré salvo de mis enemigos."
+        },
+        {
+            "id": "psa18_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Me rodearon los dolores de la muerte, y torrentes de hombres perversos me atemorizaron."
+        },
+        {
+            "id": "psa18_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Dolores del infierno me rodearon, me previnieron lazos de muerte."
+        },
+        {
+            "id": "psa18_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "En mi angustia invoqué a Jehová, y clamé a mi Dios:"
+        },
+        {
+            "id": "psa18_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Él oyó mi voz desde su templo, y mi clamor llegó delante de Él, a sus oídos."
+        },
+        {
+            "id": "psa18_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "La tierra se estremeció y tembló; se conmovieron los cimientos de los montes, y se estremecieron, porque se indignó Él."
+        },
+        {
+            "id": "psa18_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Humo subió de su nariz, y de su boca fuego consumidor; carbones fueron por Él encendidos."
+        },
+        {
+            "id": "psa18_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Inclinó los cielos, y descendió; y densa oscuridad había debajo de sus pies."
+        },
+        {
+            "id": "psa18_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y cabalgó sobre un querubín, y voló: Voló sobre las alas del viento."
+        },
+        {
+            "id": "psa18_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Hizo de las tinieblas su escondedero, su pabellón en derredor de sí; oscuridad de aguas, nubes de los cielos."
+        },
+        {
+            "id": "psa18_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por el resplandor de su presencia, sus nubes pasaron; granizo y carbones encendidos."
+        },
+        {
+            "id": "psa18_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y tronó en los cielos Jehová, y el Altísimo dio su voz; granizo y carbones encendidos."
+        },
+        {
+            "id": "psa18_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Envió sus saetas, y los dispersó; lanzó relámpagos, y los destruyó."
+        },
+        {
+            "id": "psa18_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces aparecieron los senderos de las aguas, y se descubrieron los cimientos del mundo, a tu reprensión, oh Jehová, por el soplo del aliento de tu nariz."
+        },
+        {
+            "id": "psa18_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Envió desde lo alto; me tomó, me sacó de las muchas aguas."
+        },
+        {
+            "id": "psa18_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Me libró de mi poderoso enemigo, y de los que me aborrecían, pues ellos eran más fuertes que yo."
+        },
+        {
+            "id": "psa18_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Me asaltaron en el día de mi quebranto; pero Jehová fue mi apoyo."
+        },
+        {
+            "id": "psa18_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Él me sacó a lugar espacioso; me libró, porque se agradó de mí."
+        },
+        {
+            "id": "psa18_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Jehová me pagó conforme a mi justicia; conforme a la limpieza de mis manos me ha recompensado."
+        },
+        {
+            "id": "psa18_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Porque yo he guardado los caminos de Jehová, y no me aparté impíamente de mi Dios."
+        },
+        {
+            "id": "psa18_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pues todos sus juicios estuvieron delante de mí, y no eché de mí sus estatutos."
+        },
+        {
+            "id": "psa18_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y fui íntegro para con Él, y me guardé de mi maldad."
+        },
+        {
+            "id": "psa18_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Por tanto Jehová me pagó conforme a mi justicia; conforme a la limpieza de mis manos delante de sus ojos."
+        },
+        {
+            "id": "psa18_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Con el misericordioso te mostrarás misericordioso, y recto para con el hombre íntegro."
+        },
+        {
+            "id": "psa18_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Limpio te mostrarás para con el limpio, y severo serás para con el perverso."
+        },
+        {
+            "id": "psa18_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y tú salvarás al pueblo afligido, y humillarás los ojos altivos."
+        },
+        {
+            "id": "psa18_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Tú, pues, encenderás mi lámpara: Jehová mi Dios alumbrará mis tinieblas."
+        },
+        {
+            "id": "psa18_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Pues por ti he desbaratado ejércitos; y por mi Dios he saltado sobre muros."
+        },
+        {
+            "id": "psa18_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "En cuanto a Dios, perfecto es su camino: La palabra de Jehová es acrisolada: Es escudo a todos los que en Él esperan."
+        },
+        {
+            "id": "psa18_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Porque ¿quién es Dios fuera de Jehová? ¿Y qué roca hay aparte de nuestro Dios?"
+        },
+        {
+            "id": "psa18_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Dios es el que me ciñe de poder, y hace perfecto mi camino;"
+        },
+        {
+            "id": "psa18_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "quien hace mis pies como de ciervas, y me hace estar firme sobre mis alturas;"
+        },
+        {
+            "id": "psa18_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Él adiestra mis manos para la batalla, y el arco de acero será quebrado por mis brazos."
+        },
+        {
+            "id": "psa18_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Me diste asimismo el escudo de tu salvación, y tu diestra me sustentó, y tu benignidad me ha engrandecido."
+        },
+        {
+            "id": "psa18_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Ensanchaste mis pasos debajo de mí, para que mis pies no resbalasen."
+        },
+        {
+            "id": "psa18_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Perseguí a mis enemigos, y los alcancé, y no me volví hasta acabarlos."
+        },
+        {
+            "id": "psa18_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Los herí, de modo que no pudieron levantarse; cayeron debajo de mis pies."
+        },
+        {
+            "id": "psa18_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Pues me ceñiste de fuerza para la batalla; has sometido bajo mis pies a los que se levantaron contra mí."
+        },
+        {
+            "id": "psa18_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y me has dado la cerviz de mis enemigos, para que yo destruya a los que me aborrecen."
+        },
+        {
+            "id": "psa18_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Clamaron, y no hubo quien los salvase; aun a Jehová, pero Él no les respondió."
+        },
+        {
+            "id": "psa18_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y los molí como polvo delante del viento; los eché fuera como lodo de las calles."
+        },
+        {
+            "id": "psa18_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Me libraste de las contiendas del pueblo; me pusiste por cabeza de gentes; pueblo que yo no conocía, me servirá."
+        },
+        {
+            "id": "psa18_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Así que hubieren oído de mí, me obedecerán; los hijos de extraños se someterán a mí;"
+        },
+        {
+            "id": "psa18_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Los extraños se debilitarán, saldrán temblando de sus escondrijos."
+        },
+        {
+            "id": "psa18_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Viva Jehová, y bendita sea mi Roca; y enaltecido sea el Dios de mi salvación:"
+        },
+        {
+            "id": "psa18_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Es Dios quién por mí cobra venganza, y sujeta pueblos debajo de mí."
+        },
+        {
+            "id": "psa18_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "El que me libra de mis enemigos: Tú me enalteciste sobre los que se levantan contra mí; me has librado del hombre violento."
+        },
+        {
+            "id": "psa18_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Por tanto yo te confesaré entre las gentes, oh Jehová, y cantaré salmos a tu nombre."
+        },
+        {
+            "id": "psa18_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Grandes triunfos da a su rey, y hace misericordia a su ungido, a David y a su simiente, para siempre."
+        }
+    ]
+}

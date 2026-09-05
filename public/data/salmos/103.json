@@ -1,0 +1,146 @@
+{
+    "book": "Salmos",
+    "chapter": 103,
+    "title": "Salmos 103",
+    "messages": [
+        {
+            "id": "psa103_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa103_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bendice, alma mía a Jehová; y bendiga todo mi ser su santo nombre."
+        },
+        {
+            "id": "psa103_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios."
+        },
+        {
+            "id": "psa103_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Él es quien perdona todas tus iniquidades, el que sana todas tus dolencias;"
+        },
+        {
+            "id": "psa103_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "el que rescata del hoyo tu vida, el que te corona de favores y misericordias;"
+        },
+        {
+            "id": "psa103_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "el que sacia de bien tu boca de modo que te rejuvenezcas como el águila."
+        },
+        {
+            "id": "psa103_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Jehová el que hace justicia y derecho a todos los que padecen violencia."
+        },
+        {
+            "id": "psa103_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Sus caminos notificó a Moisés, y a los hijos de Israel sus obras."
+        },
+        {
+            "id": "psa103_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Misericordioso y clemente es Jehová; lento para la ira, y grande en misericordia."
+        },
+        {
+            "id": "psa103_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "No contenderá para siempre, ni para siempre guardará el enojo."
+        },
+        {
+            "id": "psa103_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "No ha hecho con nosotros conforme a nuestras iniquidades; ni nos ha pagado conforme a nuestros pecados."
+        },
+        {
+            "id": "psa103_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque como la altura de los cielos sobre la tierra, engrandeció su misericordia sobre los que le temen."
+        },
+        {
+            "id": "psa103_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras rebeliones."
+        },
+        {
+            "id": "psa103_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Como el padre se compadece de sus hijos, se compadece Jehová de los que le temen."
+        },
+        {
+            "id": "psa103_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque Él conoce nuestra condición; se acuerda que somos polvo."
+        },
+        {
+            "id": "psa103_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "El hombre, como la hierba son sus días, florece como la flor del campo;"
+        },
+        {
+            "id": "psa103_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "que pasa el viento por ella, y perece; y su lugar no la conoce más."
+        },
+        {
+            "id": "psa103_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas la misericordia de Jehová desde la eternidad y hasta la eternidad sobre los que le temen, y su justicia sobre los hijos de los hijos;"
+        },
+        {
+            "id": "psa103_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Sobre los que guardan su pacto, y los que se acuerdan de sus mandamientos para ponerlos por obra."
+        },
+        {
+            "id": "psa103_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Jehová afirmó en los cielos su trono; y su reino domina sobre todos."
+        },
+        {
+            "id": "psa103_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Bendecid a Jehová, vosotros sus ángeles, poderosos en fortaleza, que ejecutáis sus mandamientos, obedeciendo a la voz de su palabra."
+        },
+        {
+            "id": "psa103_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Bendecid a Jehová, vosotros todos sus ejércitos, ministros suyos, que hacéis su voluntad."
+        },
+        {
+            "id": "psa103_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Bendecid a Jehová, vosotras todas sus obras, en todos los lugares de su señorío. Bendice, alma mía, a Jehová."
+        }
+    ]
+}

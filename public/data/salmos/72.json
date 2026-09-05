@@ -1,0 +1,134 @@
+{
+    "book": "Salmos",
+    "chapter": 72,
+    "title": "Salmos 72",
+    "messages": [
+        {
+            "id": "psa72_sec1_2afb",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Para Salomón",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa72_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios, da tus juicios al rey, y tu justicia al hijo del rey."
+        },
+        {
+            "id": "psa72_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Él juzgará a tu pueblo con justicia, y a tus afligidos con juicio."
+        },
+        {
+            "id": "psa72_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Los montes llevarán paz al pueblo, y los collados justicia."
+        },
+        {
+            "id": "psa72_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Juzgará a los afligidos del pueblo, salvará los hijos del menesteroso, y quebrantará al violento."
+        },
+        {
+            "id": "psa72_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Te temerán mientras duren el sol y la luna, de generación en generación."
+        },
+        {
+            "id": "psa72_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Descenderá como la lluvia sobre la hierba cortada; como el rocío que destila sobre la tierra."
+        },
+        {
+            "id": "psa72_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "En sus días florecerá la justicia, y abundancia de paz hasta que no haya luna."
+        },
+        {
+            "id": "psa72_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y dominará de mar a mar, y desde el río hasta los confines de la tierra."
+        },
+        {
+            "id": "psa72_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Los que habitan el desierto se postrarán delante de él; y sus enemigos lamerán la tierra."
+        },
+        {
+            "id": "psa72_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Los reyes de Tarsis y de las islas traerán presentes; los reyes de Seba y de Sabá ofrecerán dones,"
+        },
+        {
+            "id": "psa72_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y todos los reyes se postrarán delante de él; todas las naciones le servirán."
+        },
+        {
+            "id": "psa72_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque él librará al menesteroso que clamare, y al afligido que no tuviere quien le socorra."
+        },
+        {
+            "id": "psa72_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Tendrá misericordia del pobre y del menesteroso, y salvará las almas de los pobres."
+        },
+        {
+            "id": "psa72_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "De engaño y de violencia redimirá sus almas; y la sangre de ellos será preciosa en sus ojos."
+        },
+        {
+            "id": "psa72_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y vivirá, y se le dará del oro de Seba; y se orará por él continuamente; todo el día se le bendecirá."
+        },
+        {
+            "id": "psa72_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Será echado un puño de grano en tierra, en las cumbres de los montes; su fruto hará ruido como el Líbano, y los de la ciudad florecerán como la hierba de la tierra."
+        },
+        {
+            "id": "psa72_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Su nombre será para siempre, perpetuado será su nombre mientras dure el sol; y benditas serán en él todas las naciones; lo llamarán bienaventurado."
+        },
+        {
+            "id": "psa72_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Bendito Jehová Dios, el Dios de Israel, sólo Él hace maravillas."
+        },
+        {
+            "id": "psa72_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y bendito sea su nombre glorioso para siempre; y toda la tierra sea llena de su gloria. Amén y amén."
+        },
+        {
+            "id": "psa72_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Terminan las oraciones de David, hijo de Isaí."
+        }
+    ]
+}

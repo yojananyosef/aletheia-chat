@@ -1,0 +1,164 @@
+{
+    "book": "Salmos",
+    "chapter": 139,
+    "title": "Salmos 139",
+    "messages": [
+        {
+            "id": "psa139_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa139_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Jehová, tú me has examinado y conocido."
+        },
+        {
+            "id": "psa139_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Tú conoces mi sentarme y mi levantarme, desde lejos entiendes mis pensamientos."
+        },
+        {
+            "id": "psa139_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mi andar y mi acostarme has rodeado, y todos mis caminos te son conocidos."
+        },
+        {
+            "id": "psa139_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pues aún no está la palabra en mi lengua, y he aquí, oh Jehová, tú la sabes toda."
+        },
+        {
+            "id": "psa139_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Detrás y delante me has rodeado, y sobre mí pusiste tu mano."
+        },
+        {
+            "id": "psa139_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Tal conocimiento es muy maravilloso para mí; alto es, no lo puedo comprender."
+        },
+        {
+            "id": "psa139_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "¿A dónde me iré de tu Espíritu? ¿O a dónde huiré de tu presencia?"
+        },
+        {
+            "id": "psa139_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Si subiere al cielo, allí estás tú; y si en el infierno hiciere mi lecho, he aquí allí tú estás."
+        },
+        {
+            "id": "psa139_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Si tomare las alas del alba, y habitare en el extremo del mar,"
+        },
+        {
+            "id": "psa139_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "aun allí me guiará tu mano, y me asirá tu diestra."
+        },
+        {
+            "id": "psa139_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Si dijere:"
+        },
+        {
+            "id": "psa139_11b",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Ciertamente las tinieblas me encubrirán; aun la noche resplandecerá alrededor de mí."
+        },
+        {
+            "id": "psa139_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Aun las tinieblas no encubren de ti, y la noche resplandece como el día: lo mismo te son las tinieblas que la luz."
+        },
+        {
+            "id": "psa139_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque tú formaste mis riñones; me cubriste en el vientre de mi madre."
+        },
+        {
+            "id": "psa139_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Te alabaré, porque formidable y maravillosamente me formaste. Maravillosas son tus obras, y mi alma lo sabe muy bien."
+        },
+        {
+            "id": "psa139_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "No fue encubierto de ti mi cuerpo, bien que en secreto fui formado, y entretejido en lo más profundo de la tierra."
+        },
+        {
+            "id": "psa139_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mi embrión vieron tus ojos, siendo aún imperfecto; y en tu libro estaban escritos todos mis miembros, que fueron luego formados, cuando aún no existía ninguno de ellos."
+        },
+        {
+            "id": "psa139_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "¡Qué preciosos me son, oh Dios, tus pensamientos! ¡Cuán grande es la suma de ellos!"
+        },
+        {
+            "id": "psa139_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Si los contara, serían más numerosos que la arena; al despertar aún estoy contigo."
+        },
+        {
+            "id": "psa139_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "De cierto, oh Dios, matarás al impío; apartaos, pues, de mí, hombres sanguinarios."
+        },
+        {
+            "id": "psa139_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque blasfemias dicen ellos contra ti; tus enemigos toman en vano tu nombre."
+        },
+        {
+            "id": "psa139_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "¿No odio, oh Jehová, a los que te aborrecen, y me enardezco contra tus enemigos?"
+        },
+        {
+            "id": "psa139_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Los aborrezco con perfecto odio; los tengo por enemigos."
+        },
+        {
+            "id": "psa139_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos:"
+        },
+        {
+            "id": "psa139_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y ve si hay en mí camino de perversidad, y guíame en el camino eterno."
+        }
+    ]
+}

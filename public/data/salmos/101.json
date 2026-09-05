@@ -1,0 +1,62 @@
+{
+    "book": "Salmos",
+    "chapter": 101,
+    "title": "Salmos 101",
+    "messages": [
+        {
+            "id": "psa101_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa101_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Misericordia y juicio cantaré; a ti cantaré yo, oh Jehová."
+        },
+        {
+            "id": "psa101_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Me conduciré con sabiduría en el camino de la perfección cuando vengas a mí. En integridad de mi corazón andaré en medio de mi casa."
+        },
+        {
+            "id": "psa101_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "No pondré delante de mis ojos cosa inicua; aborrezco la obra de los que se desvían; no se acercarán a mí."
+        },
+        {
+            "id": "psa101_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Corazón perverso se apartará de mí; no conoceré al malvado."
+        },
+        {
+            "id": "psa101_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Al que solapadamente infama a su prójimo, yo lo cortaré; no sufriré al de ojos altaneros, y de corazón vanidoso."
+        },
+        {
+            "id": "psa101_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mis ojos pondré en los fieles de la tierra, para que estén conmigo; el que anduviere en el camino de la perfección, éste me servirá."
+        },
+        {
+            "id": "psa101_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "No habitará dentro de mi casa el que hace fraude; el que habla mentiras no se afirmará delante de mis ojos."
+        },
+        {
+            "id": "psa101_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por las mañanas cortaré a todos los impíos de la tierra; para extirpar de la ciudad de Jehová a todos los que hacen iniquidad."
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "book": "Salmos",
+    "chapter": 105,
+    "title": "Salmos 105",
+    "messages": [
+        {
+            "id": "psa105_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabad a Jehová, invocad su nombre. Dad a conocer sus obras entre los pueblos."
+        },
+        {
+            "id": "psa105_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Cantadle, cantadle salmos; hablad de todas sus maravillas."
+        },
+        {
+            "id": "psa105_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Gloriaos en su santo nombre; alégrese el corazón de los que buscan a Jehová."
+        },
+        {
+            "id": "psa105_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Buscad a Jehová, y su fortaleza; buscad siempre su rostro."
+        },
+        {
+            "id": "psa105_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Acordaos de las maravillas que Él ha hecho, de sus prodigios y de los juicios de su boca,"
+        },
+        {
+            "id": "psa105_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "oh vosotros, simiente de Abraham su siervo, hijos de Jacob, sus escogidos."
+        },
+        {
+            "id": "psa105_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Él es Jehová nuestro Dios; en toda la tierra están sus juicios."
+        },
+        {
+            "id": "psa105_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Se acordó para siempre de su pacto; de la palabra que mandó para mil generaciones,"
+        },
+        {
+            "id": "psa105_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "del pacto que hizo con Abraham; y de su juramento a Isaac."
+        },
+        {
+            "id": "psa105_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y lo estableció a Jacob por decreto, a Israel por pacto sempiterno,"
+        },
+        {
+            "id": "psa105_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "psa105_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "A ti daré la tierra de Canaán, como porción de vuestra heredad."
+        },
+        {
+            "id": "psa105_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Cuando ellos eran pocos en número, y extranjeros en ella;"
+        },
+        {
+            "id": "psa105_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "cuando andaban de nación en nación, de un reino a otro pueblo;"
+        },
+        {
+            "id": "psa105_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "No consintió que hombre los agraviase; y por amor a ellos reprendió a los reyes, diciendo:"
+        },
+        {
+            "id": "psa105_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "No toquéis a mis ungidos, ni hagáis mal a mis profetas."
+        },
+        {
+            "id": "psa105_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y llamó al hambre sobre la tierra, y quebrantó todo sustento de pan."
+        },
+        {
+            "id": "psa105_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Envió un varón delante de ellos, a José, que fue vendido por siervo."
+        },
+        {
+            "id": "psa105_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Afligieron sus pies con grillos; en hierro fue puesta su persona."
+        },
+        {
+            "id": "psa105_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Hasta la hora que llegó su palabra, la palabra de Jehová le probó."
+        },
+        {
+            "id": "psa105_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Envió el rey, y le soltó; el señor de los pueblos, y le dejó ir libre."
+        },
+        {
+            "id": "psa105_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Lo puso por señor de su casa, y por gobernador de todas sus posesiones;"
+        },
+        {
+            "id": "psa105_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "para que reprimiera a sus grandes como él quisiese, y a sus ancianos enseñara sabiduría."
+        },
+        {
+            "id": "psa105_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Después entró Israel en Egipto, y Jacob peregrinó en la tierra de Cam."
+        },
+        {
+            "id": "psa105_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y multiplicó su pueblo en gran manera, y lo hizo más fuerte que sus enemigos."
+        },
+        {
+            "id": "psa105_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Cambió el corazón de ellos para que aborreciesen a su pueblo, para que contra sus siervos pensasen mal."
+        },
+        {
+            "id": "psa105_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Envió a su siervo Moisés, y a Aarón al cual escogió."
+        },
+        {
+            "id": "psa105_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Pusieron en ellos las palabras de sus señales, y sus prodigios en la tierra de Cam."
+        },
+        {
+            "id": "psa105_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Envió tinieblas, e hizo que oscureciera; y no fueron rebeldes a su palabra."
+        },
+        {
+            "id": "psa105_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Volvió sus aguas en sangre, y mató sus peces."
+        },
+        {
+            "id": "psa105_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Produjo su tierra ranas, aun en las cámaras de sus reyes."
+        },
+        {
+            "id": "psa105_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Habló, y vinieron enjambres de moscas, y piojos en todos sus términos."
+        },
+        {
+            "id": "psa105_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Les dio granizo en vez de lluvia, y llamas de fuego en su tierra."
+        },
+        {
+            "id": "psa105_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "E hirió sus viñas y sus higueras, y quebró los árboles de sus términos."
+        },
+        {
+            "id": "psa105_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Habló, y vinieron langostas, y pulgón sin número;"
+        },
+        {
+            "id": "psa105_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "y comieron toda la hierba de su país, y devoraron el fruto de su tierra."
+        },
+        {
+            "id": "psa105_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "También hirió de muerte a todos los primogénitos en su tierra, las primicias de toda su fuerza;"
+        },
+        {
+            "id": "psa105_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "y los sacó con plata y oro; y no hubo enfermo entre sus tribus."
+        },
+        {
+            "id": "psa105_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Egipto se alegró de que salieran; porque su terror había caído sobre ellos."
+        },
+        {
+            "id": "psa105_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Extendió una nube por cubierta, y fuego para alumbrar la noche."
+        },
+        {
+            "id": "psa105_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Pidieron, e hizo venir codornices; y los sació de pan del cielo."
+        },
+        {
+            "id": "psa105_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Abrió la peña, y fluyeron aguas; corrieron por los sequedales como un río."
+        },
+        {
+            "id": "psa105_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Porque se acordó de su santa palabra, dada a Abraham su siervo."
+        },
+        {
+            "id": "psa105_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y sacó a su pueblo con gozo; con júbilo a sus escogidos."
+        },
+        {
+            "id": "psa105_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y les dio las tierras de las naciones; y las labores de los pueblos heredaron;"
+        },
+        {
+            "id": "psa105_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "para que guardasen sus estatutos, y observasen sus leyes. Aleluya."
+        }
+    ]
+}

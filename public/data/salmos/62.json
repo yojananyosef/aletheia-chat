@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 62,
+    "title": "Salmos 62",
+    "messages": [
+        {
+            "id": "psa62_sec1_a0d5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: A Jedutún: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa62_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En Dios solamente está acallada mi alma; de Él viene mi salvación."
+        },
+        {
+            "id": "psa62_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Sólo Él es mi Roca, y mi salvación; es mi refugio, no resbalaré mucho."
+        },
+        {
+            "id": "psa62_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "¿Hasta cuándo maquinaréis contra un hombre? Pereceréis todos vosotros, caeréis como pared desplomada, como cerca derribada."
+        },
+        {
+            "id": "psa62_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Solamente consultan de cómo arrojarle de su grandeza; aman la mentira, con su boca bendicen, pero maldicen en sus entrañas. (Selah)"
+        },
+        {
+            "id": "psa62_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Alma mía, espera solamente en Dios; porque en Él está mi esperanza."
+        },
+        {
+            "id": "psa62_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Sólo Él es mi Roca y mi salvación. Él es mi refugio, no seré movido."
+        },
+        {
+            "id": "psa62_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "En Dios está mi salvación y mi gloria; en Dios está la roca de mi fortaleza, y mi refugio."
+        },
+        {
+            "id": "psa62_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Esperad en Él en todo tiempo, oh pueblos; derramad delante de Él vuestro corazón: Dios es nuestro refugio. (Selah)"
+        },
+        {
+            "id": "psa62_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por cierto, vanidad son los hijos de los hombres, mentira los hombres de renombre; pesándolos a todos juntos en la balanza, pesarán menos que la vanidad."
+        },
+        {
+            "id": "psa62_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "No confiéis en la violencia, ni en la rapiña; no os envanezcáis; si se aumentaren las riquezas, no pongáis el corazón en ellas."
+        },
+        {
+            "id": "psa62_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Una vez habló Dios; dos veces he oído esto; que de Dios es el poder."
+        },
+        {
+            "id": "psa62_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y de ti, oh Señor, es la misericordia; porque tú pagas a cada uno conforme a su obra."
+        }
+    ]
+}

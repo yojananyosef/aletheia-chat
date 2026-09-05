@@ -1,0 +1,92 @@
+{
+    "book": "Salmos",
+    "chapter": 79,
+    "title": "Salmos 79",
+    "messages": [
+        {
+            "id": "psa79_sec1_3d3e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de Asaf",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa79_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios, vinieron los gentiles a tu heredad; el templo de tu santidad han contaminado; pusieron a Jerusalén en montones."
+        },
+        {
+            "id": "psa79_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Dieron los cuerpos de tus siervos por comida a las aves de los cielos; la carne de tus santos a las bestias de la tierra."
+        },
+        {
+            "id": "psa79_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Derramaron su sangre como agua en los alrededores de Jerusalén; y no hubo quien los enterrase."
+        },
+        {
+            "id": "psa79_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Hemos venido a ser afrenta a nuestros vecinos, escarnio y burla a los que están en nuestros alrededores."
+        },
+        {
+            "id": "psa79_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Hasta cuándo, oh Jehová? ¿Estarás airado para siempre? ¿Arderá como fuego tu celo?"
+        },
+        {
+            "id": "psa79_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Derrama tu ira sobre las gentes que no te conocen, y sobre los reinos que no invocan tu nombre."
+        },
+        {
+            "id": "psa79_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque han devorado a Jacob, y su morada han asolado."
+        },
+        {
+            "id": "psa79_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "No recuerdes contra nosotros las iniquidades antiguas: Anticípennos presto tus misericordias, porque estamos muy abatidos."
+        },
+        {
+            "id": "psa79_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Ayúdanos, oh Dios, salvación nuestra, por la gloria de tu nombre; y líbranos, y aplácate sobre nuestros pecados por amor a tu nombre."
+        },
+        {
+            "id": "psa79_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque dirán las gentes: ¿Dónde está su Dios? Sea notoria entre las gentes, delante de nuestros ojos, la venganza de la sangre de tus siervos que fue derramada."
+        },
+        {
+            "id": "psa79_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entre ante tu presencia el gemido de los presos; conforme a la grandeza de tu brazo preserva a los sentenciados a muerte."
+        },
+        {
+            "id": "psa79_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y da a nuestros vecinos en su seno siete tantos de su infamia, con que te han deshonrado, oh Jehová."
+        },
+        {
+            "id": "psa79_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y nosotros, pueblo tuyo y ovejas de tu prado, te alabaremos para siempre: De generación en generación cantaremos tus alabanzas."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "book": "Salmos",
+    "chapter": 54,
+    "title": "Salmos 54",
+    "messages": [
+        {
+            "id": "psa54_sec1_c899",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: en Neginot: Masquil de David, cuando vinieron los zifeos y dijeron a Saúl: ¿No está David escondido en nuestra tierra?",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa54_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios, sálvame por tu nombre, y con tu poder defiéndeme."
+        },
+        {
+            "id": "psa54_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Oh Dios, oye mi oración; escucha las razones de mi boca."
+        },
+        {
+            "id": "psa54_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque extraños se han levantado contra mí, y hombres violentos buscan mi vida; no han puesto a Dios delante de sí. (Selah)"
+        },
+        {
+            "id": "psa54_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "He aquí, Dios es el que me ayuda; el Señor es con los que sostienen mi vida."
+        },
+        {
+            "id": "psa54_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Él volverá el mal a mis enemigos; córtalos por tu verdad."
+        },
+        {
+            "id": "psa54_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Voluntariamente sacrificaré a ti; alabaré tu nombre, oh Jehová, porque es bueno."
+        },
+        {
+            "id": "psa54_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque me ha librado de toda angustia, y en mis enemigos vieron mis ojos mi deseo."
+        }
+    ]
+}

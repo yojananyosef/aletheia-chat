@@ -1,0 +1,50 @@
+{
+    "book": "Salmos",
+    "chapter": 150,
+    "title": "Salmos 150",
+    "messages": [
+        {
+            "id": "psa150_sec1_c707",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa150_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabad a Dios en su santuario: Alabadle en el firmamento de su fortaleza."
+        },
+        {
+            "id": "psa150_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Alabadle por sus proezas; alabadle conforme a la muchedumbre de su grandeza."
+        },
+        {
+            "id": "psa150_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Alabadle con sonido de trompeta; alabadle con salterio y arpa."
+        },
+        {
+            "id": "psa150_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Alabadle con pandero y danza; alabadle con cuerdas y flauta."
+        },
+        {
+            "id": "psa150_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Alabadle con címbalos resonantes; alabadle con címbalos de júbilo."
+        },
+        {
+            "id": "psa150_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Todo lo que respira alabe a Jehová. Aleluya."
+        }
+    ]
+}

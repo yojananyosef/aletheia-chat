@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 98,
+    "title": "Salmos 98",
+    "messages": [
+        {
+            "id": "psa98_sec1_2788",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa98_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Cantad a Jehová cántico nuevo; porque ha hecho maravillas; su diestra lo ha salvado, y su santo brazo."
+        },
+        {
+            "id": "psa98_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová ha hecho notoria su salvación; a vista de las naciones ha descubierto su justicia."
+        },
+        {
+            "id": "psa98_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Se ha acordado de su misericordia y de su verdad para con la casa de Israel; todos los términos de la tierra han visto la salvación de nuestro Dios."
+        },
+        {
+            "id": "psa98_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Aclamad con júbilo a Jehová, toda la tierra; levantad la voz, regocijaos, y cantad salmos."
+        },
+        {
+            "id": "psa98_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Cantad salmos a Jehová con arpa; con arpa y voz de cántico."
+        },
+        {
+            "id": "psa98_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Aclamad con trompetas y sonidos de bocina delante del Rey Jehová."
+        },
+        {
+            "id": "psa98_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Brame el mar y su plenitud; el mundo y los que en él habitan;"
+        },
+        {
+            "id": "psa98_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Los ríos batan las manos; los montes todos hagan regocijo delante de Jehová:"
+        },
+        {
+            "id": "psa98_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque Él viene a juzgar la tierra; juzgará al mundo con justicia, y a los pueblos con equidad."
+        }
+    ]
+}

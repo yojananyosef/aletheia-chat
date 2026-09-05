@@ -1,0 +1,56 @@
+{
+    "book": "Salmos",
+    "chapter": 67,
+    "title": "Salmos 67",
+    "messages": [
+        {
+            "id": "psa67_sec1_bbde",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Neginot: Salmo: Cántico",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa67_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dios tenga misericordia de nosotros, y nos bendiga; haga resplandecer su rostro sobre nosotros (Selah);"
+        },
+        {
+            "id": "psa67_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Para que sea conocido en la tierra tu camino, en todas las naciones tu salvación."
+        },
+        {
+            "id": "psa67_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Te alaben los pueblos, oh Dios; todos los pueblos te alaben."
+        },
+        {
+            "id": "psa67_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Alégrense y gócense las naciones; porque juzgarás los pueblos con equidad, y pastorearás las naciones en la tierra. (Selah)"
+        },
+        {
+            "id": "psa67_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Te alaben los pueblos, oh Dios; todos los pueblos te alaben."
+        },
+        {
+            "id": "psa67_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "La tierra dará su fruto: Nos bendecirá Dios, el Dios nuestro."
+        },
+        {
+            "id": "psa67_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Bendíganos Dios, y témanlo todos los confines de la tierra."
+        }
+    ]
+}

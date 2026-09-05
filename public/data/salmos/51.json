@@ -1,0 +1,128 @@
+{
+    "book": "Salmos",
+    "chapter": 51,
+    "title": "Salmos 51",
+    "messages": [
+        {
+            "id": "psa51_sec1_d82e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David, cuando después que entró a Betsabé, vino a él Natán el profeta",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa51_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Ten piedad de mí, oh Dios, conforme a tu misericordia; conforme a la multitud de tus piedades borra mis rebeliones."
+        },
+        {
+            "id": "psa51_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Lávame más y más de mi maldad, y límpiame de mi pecado."
+        },
+        {
+            "id": "psa51_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque yo reconozco mis rebeliones; y mi pecado está siempre delante de mí."
+        },
+        {
+            "id": "psa51_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Contra ti, contra ti sólo he pecado, y he hecho lo malo delante de tus ojos: Para que seas reconocido justo en tu palabra, y tenido por puro en tu juicio."
+        },
+        {
+            "id": "psa51_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "He aquí, en maldad he sido formado, y en pecado me concibió mi madre."
+        },
+        {
+            "id": "psa51_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "He aquí, tú amas la verdad en lo íntimo; y en lo secreto me has hecho comprender sabiduría."
+        },
+        {
+            "id": "psa51_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Purifícame con hisopo, y seré limpio: Lávame, y seré más blanco que la nieve."
+        },
+        {
+            "id": "psa51_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Hazme oír gozo y alegría; y se recrearán los huesos que has abatido."
+        },
+        {
+            "id": "psa51_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Esconde tu rostro de mis pecados, y borra todas mis maldades."
+        },
+        {
+            "id": "psa51_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Crea en mí, oh Dios, un corazón limpio; y renueva un espíritu recto dentro de mí."
+        },
+        {
+            "id": "psa51_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "No me eches de delante de ti; y no quites de mí tu Santo Espíritu."
+        },
+        {
+            "id": "psa51_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Vuélveme el gozo de tu salvación; y el espíritu libre me sustente."
+        },
+        {
+            "id": "psa51_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces enseñaré a los prevaricadores tus caminos; y los pecadores se convertirán a ti."
+        },
+        {
+            "id": "psa51_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Líbrame de homicidios, oh Dios, Dios de mi salvación; cantará mi lengua tu justicia."
+        },
+        {
+            "id": "psa51_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Señor, abre mis labios; y publicará mi boca tu alabanza."
+        },
+        {
+            "id": "psa51_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque no quieres tú sacrificio, que yo lo daría; no quieres holocausto."
+        },
+        {
+            "id": "psa51_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Los sacrificios de Dios son el espíritu quebrantado; al corazón contrito y humillado no despreciarás tú, oh Dios."
+        },
+        {
+            "id": "psa51_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Haz bien con tu benevolencia a Sión: Edifica los muros de Jerusalén."
+        },
+        {
+            "id": "psa51_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces te agradarán los sacrificios de justicia, el holocausto u ofrenda del todo quemada: Entonces ofrecerán becerros sobre tu altar."
+        }
+    ]
+}

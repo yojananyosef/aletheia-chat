@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 5,
+    "title": "Salmos 5",
+    "messages": [
+        {
+            "id": "psa5_sec1_5076",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Nehilot: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Escucha, oh Jehová, mis palabras; considera mi meditación."
+        },
+        {
+            "id": "psa5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Está atento a la voz de mi clamor, Rey mío y Dios mío, porque a ti oraré."
+        },
+        {
+            "id": "psa5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Oh Jehová, de mañana oirás mi voz; de mañana presentaré mi oración delante de ti, y esperaré."
+        },
+        {
+            "id": "psa5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque tú no eres un Dios que se complace en la maldad; el malo no habitará junto a ti."
+        },
+        {
+            "id": "psa5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Los insensatos no estarán delante de tus ojos; aborreces a todos los que obran iniquidad."
+        },
+        {
+            "id": "psa5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Destruirás a los que hablan mentira; al hombre sanguinario y engañador abominará Jehová."
+        },
+        {
+            "id": "psa5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y yo por la multitud de tu misericordia entraré en tu casa; y adoraré hacia tu santo templo en tu temor."
+        },
+        {
+            "id": "psa5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Guíame, Jehová, en tu justicia a causa de mis enemigos; endereza delante de mí tu camino."
+        },
+        {
+            "id": "psa5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque en su boca no hay rectitud; sus entrañas son perversidad; sepulcro abierto es su garganta; con su lengua lisonjean."
+        },
+        {
+            "id": "psa5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Destrúyelos, oh Dios; caigan por sus propios consejos; por la multitud de sus transgresiones échalos fuera, porque se rebelaron contra ti."
+        },
+        {
+            "id": "psa5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pero alégrense todos los que en ti confían; para siempre den voces de júbilo, porque tú los defiendes: En ti se regocijen los que aman tu nombre."
+        },
+        {
+            "id": "psa5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque tú, oh Jehová, bendecirás al justo; lo rodearás de benevolencia como con un escudo."
+        }
+    ]
+}

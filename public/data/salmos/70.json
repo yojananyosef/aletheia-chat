@@ -1,0 +1,50 @@
+{
+    "book": "Salmos",
+    "chapter": 70,
+    "title": "Salmos 70",
+    "messages": [
+        {
+            "id": "psa70_sec1_ef66",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David, para conmemorar",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa70_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios, apresúrate a librarme; apresúrate, oh Jehová, a socorrerme."
+        },
+        {
+            "id": "psa70_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Sean avergonzados y confundidos los que buscan mi vida; sean vueltos atrás y avergonzados los que mi mal desean."
+        },
+        {
+            "id": "psa70_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Sean vueltos atrás, en pago de su afrenta, los que dicen:"
+        },
+        {
+            "id": "psa70_3b",
+            "speaker": "Impíos",
+            "verse": 3,
+            "text": "¡Ajá, ajá!"
+        },
+        {
+            "id": "psa70_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Gócense y alégrense en ti todos los que te buscan; y digan siempre los que aman tu salvación: Engrandecido sea Dios."
+        },
+        {
+            "id": "psa70_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Yo estoy afligido y necesitado; apresúrate a mí, oh Dios; mi ayuda y mi Libertador eres tú; oh Jehová, no te tardes."
+        }
+    ]
+}

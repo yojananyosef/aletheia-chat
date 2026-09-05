@@ -1,0 +1,62 @@
+{
+    "book": "Salmos",
+    "chapter": 130,
+    "title": "Salmos 130",
+    "messages": [
+        {
+            "id": "psa130_sec1_294a",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cántico gradual",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa130_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "De lo profundo, oh Jehová, a ti clamo."
+        },
+        {
+            "id": "psa130_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Señor, oye mi voz; estén atentos tus oídos a la voz de mi súplica."
+        },
+        {
+            "id": "psa130_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Jehová, si mirares a los pecados, ¿Quién, oh Señor, quedaría en pie?"
+        },
+        {
+            "id": "psa130_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pero en ti hay perdón, para que seas temido."
+        },
+        {
+            "id": "psa130_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Esperé yo a Jehová, esperó mi alma; en su palabra he esperado."
+        },
+        {
+            "id": "psa130_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mi alma espera a Jehová más que los centinelas a la mañana; más que los vigilantes a la mañana."
+        },
+        {
+            "id": "psa130_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Espere Israel a Jehová; porque en Jehová hay misericordia, y abundante redención con Él."
+        },
+        {
+            "id": "psa130_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Él redimirá a Israel de todos sus pecados."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "book": "Salmos",
+    "chapter": 117,
+    "title": "Salmos 117",
+    "messages": [
+        {
+            "id": "psa117_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabad a Jehová, naciones todas; pueblos todos, alabadle."
+        },
+        {
+            "id": "psa117_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque ha engrandecido sobre nosotros su misericordia; y la verdad de Jehová es para siempre. ¡Aleluya!"
+        }
+    ]
+}

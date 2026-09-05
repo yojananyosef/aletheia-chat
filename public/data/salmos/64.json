@@ -1,0 +1,80 @@
+{
+    "book": "Salmos",
+    "chapter": 64,
+    "title": "Salmos 64",
+    "messages": [
+        {
+            "id": "psa64_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa64_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Escucha, oh Dios, mi voz en mi oración; guarda mi vida del miedo del enemigo."
+        },
+        {
+            "id": "psa64_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Escóndeme del consejo secreto de los malignos; de la conspiración de los obradores de iniquidad;"
+        },
+        {
+            "id": "psa64_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "que afilan su lengua como espada, y estiran su arco para lanzar saetas, aun palabras amargas;"
+        },
+        {
+            "id": "psa64_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "para asaetear a escondidas al íntegro; de repente tiran contra él, y no temen."
+        },
+        {
+            "id": "psa64_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Obstinados en su inicuo designio, tratan de esconder los lazos, y dicen:"
+        },
+        {
+            "id": "psa64_5b",
+            "speaker": "Impíos",
+            "verse": 5,
+            "text": "¿Quién los ha de ver?"
+        },
+        {
+            "id": "psa64_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Inquieren iniquidades, hacen una investigación exacta; y el íntimo pensamiento de cada uno de ellos, así como el corazón, es profundo."
+        },
+        {
+            "id": "psa64_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mas Dios los herirá con saeta; de repente serán heridos."
+        },
+        {
+            "id": "psa64_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y harán caer sobre sí sus mismas lenguas; se espantarán todos los que los vieren."
+        },
+        {
+            "id": "psa64_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y temerán todos los hombres, y anunciarán la obra de Dios, y considerarán sus hechos."
+        },
+        {
+            "id": "psa64_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El justo se alegrará en Jehová, y confiará en Él; y se gloriarán todos los rectos de corazón."
+        }
+    ]
+}

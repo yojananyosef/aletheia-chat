@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 149,
+    "title": "Salmos 149",
+    "messages": [
+        {
+            "id": "psa149_sec1_c707",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa149_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Cantad a Jehová cántico nuevo; su alabanza sea en la congregación de los santos."
+        },
+        {
+            "id": "psa149_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Alégrese Israel en su Hacedor; los hijos de Sión se gocen en su Rey."
+        },
+        {
+            "id": "psa149_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Alaben su nombre con danza; canten a Él, con pandero y arpa."
+        },
+        {
+            "id": "psa149_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque Jehová toma contentamiento con su pueblo; hermoseará a los humildes con salvación."
+        },
+        {
+            "id": "psa149_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Regocíjense los santos con gloria: Canten con júbilo sobre sus camas."
+        },
+        {
+            "id": "psa149_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Las alabanzas de Dios estén en sus gargantas, y la espada de dos filos en sus manos;"
+        },
+        {
+            "id": "psa149_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "para cobrar venganza sobre las naciones, y castigo en los pueblos;"
+        },
+        {
+            "id": "psa149_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "para aprisionar a sus reyes en grillos, y a sus nobles con cadenas de hierro;"
+        },
+        {
+            "id": "psa149_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "para ejecutar en ellos el juicio escrito; gloria será esto para todos sus santos. Aleluya."
+        }
+    ]
+}

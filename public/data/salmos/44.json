@@ -1,0 +1,170 @@
+{
+    "book": "Salmos",
+    "chapter": 44,
+    "title": "Salmos 44",
+    "messages": [
+        {
+            "id": "psa44_sec1_1b7c",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal; para los hijos de Coré: Masquil",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa44_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios, con nuestros oídos hemos oído, nuestros padres nos han contado la obra que hiciste en sus días, en los tiempos antiguos."
+        },
+        {
+            "id": "psa44_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Tú con tu mano echaste a las naciones, y los plantaste a ellos; afligiste a los pueblos, y los arrojaste."
+        },
+        {
+            "id": "psa44_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque no se apoderaron de la tierra por su espada, ni su brazo los libró; sino tu diestra, y tu brazo, y la luz de tu rostro, porque te complaciste en ellos."
+        },
+        {
+            "id": "psa44_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Tú, oh Dios, eres mi Rey; manda salvación a Jacob."
+        },
+        {
+            "id": "psa44_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por medio de ti derribaremos a nuestros enemigos; en tu nombre hollaremos a nuestros adversarios."
+        },
+        {
+            "id": "psa44_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque no confiaré en mi arco, ni mi espada me salvará."
+        },
+        {
+            "id": "psa44_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pues tú nos has guardado de nuestros enemigos, y has avergonzado a los que nos aborrecían."
+        },
+        {
+            "id": "psa44_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "En Dios nos gloriaremos todo el tiempo, y para siempre alabaremos tu nombre. (Selah)"
+        },
+        {
+            "id": "psa44_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero nos has desechado, y nos has hecho avergonzar; y no sales con nuestros ejércitos."
+        },
+        {
+            "id": "psa44_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Nos has hecho retroceder ante el enemigo, y los que nos aborrecían nos han saqueado para sí."
+        },
+        {
+            "id": "psa44_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Nos pusiste como a ovejas para comida, y nos esparciste entre las naciones."
+        },
+        {
+            "id": "psa44_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Has vendido a tu pueblo de balde, y no acrecentaste tu riqueza con su precio."
+        },
+        {
+            "id": "psa44_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Nos pusiste por vergüenza a nuestros vecinos, por escarnio y por burla a los que nos rodean."
+        },
+        {
+            "id": "psa44_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Nos pusiste por proverbio entre las naciones, por movimiento de cabeza entre los pueblos."
+        },
+        {
+            "id": "psa44_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Cada día mi vergüenza está delante de mí, y me cubre la confusión de mi rostro,"
+        },
+        {
+            "id": "psa44_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "por la voz del que me injuria y vitupera, por razón del enemigo y del vengativo."
+        },
+        {
+            "id": "psa44_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Todo esto nos ha sobrevenido, pero no nos hemos olvidado de ti; y no hemos faltado a tu pacto."
+        },
+        {
+            "id": "psa44_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "No se ha vuelto atrás nuestro corazón, ni nuestros pasos se han apartado de tu camino;"
+        },
+        {
+            "id": "psa44_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "aunque nos quebrantaste en el lugar de los dragones y nos cubriste con sombra de muerte."
+        },
+        {
+            "id": "psa44_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Si nos hubiésemos olvidado del nombre de nuestro Dios, o extendido nuestras manos a dios ajeno,"
+        },
+        {
+            "id": "psa44_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "¿No demandaría Dios esto? Porque Él conoce los secretos del corazón."
+        },
+        {
+            "id": "psa44_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero por causa de ti nos matan cada día; somos contados como ovejas para el matadero."
+        },
+        {
+            "id": "psa44_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Despierta; ¿por qué duermes, Señor? Despierta, no nos deseches para siempre."
+        },
+        {
+            "id": "psa44_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "¿Por qué escondes tu rostro, y te olvidas de nuestra aflicción y de nuestra opresión?"
+        },
+        {
+            "id": "psa44_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Porque nuestra alma está agobiada hasta el polvo; nuestro vientre está pegado con la tierra."
+        },
+        {
+            "id": "psa44_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Levántate para ayudarnos, y redímenos por tu misericordia."
+        }
+    ]
+}

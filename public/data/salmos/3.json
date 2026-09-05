@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 3,
+    "title": "Salmos 3",
+    "messages": [
+        {
+            "id": "psa3_sec1_6351",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David, cuando huía de adelante de Absalón su hijo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¡Oh Jehová, cuánto se han multiplicado mis enemigos! Muchos se levantan contra mí."
+        },
+        {
+            "id": "psa3_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Muchos dicen de mi vida:"
+        },
+        {
+            "id": "psa3_2b",
+            "speaker": "Impíos",
+            "verse": 2,
+            "text": "No hay para él salvación en Dios. (Selah)"
+        },
+        {
+            "id": "psa3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero tú, oh Jehová, eres escudo alrededor de mí, mi gloria, y el que levanta mi cabeza."
+        },
+        {
+            "id": "psa3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Con mi voz clamé a Jehová, y Él me respondió desde su monte santo. (Selah)"
+        },
+        {
+            "id": "psa3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Yo me acosté y dormí, y desperté; porque Jehová me sostuvo."
+        },
+        {
+            "id": "psa3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "No temeré de diez millares de pueblos, que pusieren sitio contra mí."
+        },
+        {
+            "id": "psa3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Levántate, oh Jehová; sálvame, oh Dios mío; porque tú heriste a todos mis enemigos en la quijada; los dientes de los malos quebrantaste."
+        },
+        {
+            "id": "psa3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "De Jehová es la salvación: Sobre tu pueblo es tu bendición. (Selah)"
+        }
+    ]
+}

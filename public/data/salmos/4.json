@@ -1,0 +1,74 @@
+{
+    "book": "Salmos",
+    "chapter": 4,
+    "title": "Salmos 4",
+    "messages": [
+        {
+            "id": "psa4_sec1_a25f",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Neginot: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Respóndeme cuando clamo, oh Dios de mi justicia; estando en angustia, tú me hiciste ensanchar; ten misericordia de mí, y oye mi oración."
+        },
+        {
+            "id": "psa4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia? ¿Hasta cuándo amaréis la vanidad, y buscaréis la mentira? (Selah)"
+        },
+        {
+            "id": "psa4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Sabed, pues, que Jehová hizo apartar al piadoso para sí; Jehová oirá cuando yo a Él clamare."
+        },
+        {
+            "id": "psa4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Temblad, y no pequéis: Meditad en vuestro corazón sobre vuestra cama, y callad. (Selah)"
+        },
+        {
+            "id": "psa4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Ofreced sacrificios de justicia, y confiad en Jehová."
+        },
+        {
+            "id": "psa4_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Muchos dicen:"
+        },
+        {
+            "id": "psa4_6b",
+            "speaker": "Impíos",
+            "verse": 6,
+            "text": "¿Quién nos mostrará el bien?"
+        },
+        {
+            "id": "psa4_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Alza sobre nosotros, oh Jehová, la luz de tu rostro."
+        },
+        {
+            "id": "psa4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Tú diste alegría a mi corazón, más que la de ellos en el tiempo que se multiplicó su grano y su mosto."
+        },
+        {
+            "id": "psa4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "En paz me acostaré, y asimismo dormiré; porque sólo tú, Jehová, me haces estar confiado."
+        }
+    ]
+}

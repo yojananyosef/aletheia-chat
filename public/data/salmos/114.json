@@ -1,0 +1,55 @@
+{
+    "book": "Salmos",
+    "chapter": 114,
+    "title": "Salmos 114",
+    "messages": [
+        {
+            "id": "psa114_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Cuando Israel salió de Egipto, la casa de Jacob del pueblo de lengua extraña,"
+        },
+        {
+            "id": "psa114_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Judá fue su santuario, e Israel su señorío."
+        },
+        {
+            "id": "psa114_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "El mar lo vio, y huyó; el Jordán se volvió atrás."
+        },
+        {
+            "id": "psa114_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Los montes saltaron como carneros; los collados como corderitos."
+        },
+        {
+            "id": "psa114_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Qué tuviste, oh mar, que huiste? ¿Y tú, oh Jordán, que te volviste atrás?"
+        },
+        {
+            "id": "psa114_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Oh montes, ¿por qué saltasteis como carneros, y vosotros, collados, como corderitos?"
+        },
+        {
+            "id": "psa114_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "A la presencia del Señor tiembla la tierra, a la presencia del Dios de Jacob;"
+        },
+        {
+            "id": "psa114_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "El cual cambió la peña en estanque de aguas, y en fuente de aguas la roca."
+        }
+    ]
+}

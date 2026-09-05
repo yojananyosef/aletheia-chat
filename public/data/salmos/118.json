@@ -1,0 +1,181 @@
+{
+    "book": "Salmos",
+    "chapter": 118,
+    "title": "Salmos 118",
+    "messages": [
+        {
+            "id": "psa118_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabad a Jehová, porque Él es bueno; porque para siempre es su misericordia."
+        },
+        {
+            "id": "psa118_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Diga ahora Israel, que para siempre es su misericordia."
+        },
+        {
+            "id": "psa118_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Diga ahora la casa de Aarón, que para siempre es su misericordia."
+        },
+        {
+            "id": "psa118_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Digan ahora los que temen a Jehová, que para siempre es su misericordia."
+        },
+        {
+            "id": "psa118_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Desde la angustia invoqué a Jehová; y Jehová me respondió, poniéndome en lugar espacioso."
+        },
+        {
+            "id": "psa118_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Jehová está de mi lado, no temeré; ¿qué me puede hacer el hombre?"
+        },
+        {
+            "id": "psa118_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Jehová está por mí entre los que me ayudan; por tanto, yo veré mi deseo en los que me aborrecen."
+        },
+        {
+            "id": "psa118_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mejor es confiar en Jehová que confiar en el hombre."
+        },
+        {
+            "id": "psa118_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mejor es confiar en Jehová que confiar en príncipes."
+        },
+        {
+            "id": "psa118_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Todas las naciones me rodearon; pero en el nombre de Jehová yo las destruiré."
+        },
+        {
+            "id": "psa118_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Me rodearon y me asediaron; pero en el nombre de Jehová, yo las destruiré."
+        },
+        {
+            "id": "psa118_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Me rodearon como abejas; se extinguieron como fuego de espinos; en el nombre de Jehová yo las destruiré."
+        },
+        {
+            "id": "psa118_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Me empujaste con violencia para que cayese; pero Jehová me ayudó."
+        },
+        {
+            "id": "psa118_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mi fortaleza y mi canción es Jehová; y Él ha sido mi salvación."
+        },
+        {
+            "id": "psa118_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Voz de júbilo y de salvación hay en las tiendas de los justos; la diestra de Jehová hace proezas."
+        },
+        {
+            "id": "psa118_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "La diestra de Jehová es sublime: La diestra de Jehová hace proezas."
+        },
+        {
+            "id": "psa118_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "No moriré, sino que viviré, y contaré las obras de Jehová."
+        },
+        {
+            "id": "psa118_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Me castigó gravemente Jehová; mas no me entregó a la muerte."
+        },
+        {
+            "id": "psa118_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Abridme las puertas de la justicia; entraré por ellas, alabaré a Jehová."
+        },
+        {
+            "id": "psa118_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Ésta es la puerta de Jehová, por ella entrarán los justos."
+        },
+        {
+            "id": "psa118_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Te alabaré porque me has oído, y has sido mi salvación."
+        },
+        {
+            "id": "psa118_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "La piedra que desecharon los edificadores ha venido a ser cabeza del ángulo."
+        },
+        {
+            "id": "psa118_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "De parte de Jehová es esto; es maravilloso a nuestros ojos."
+        },
+        {
+            "id": "psa118_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Éste es el día que hizo Jehová; nos gozaremos y alegraremos en él."
+        },
+        {
+            "id": "psa118_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Oh Jehová, salva ahora, te ruego; oh Jehová, te ruego que hagas prosperar ahora."
+        },
+        {
+            "id": "psa118_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Bendito el que viene en el nombre de Jehová; desde la casa de Jehová os bendecimos."
+        },
+        {
+            "id": "psa118_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Dios es Jehová que nos ha resplandecido: Atad víctimas con cuerdas a los cuernos del altar."
+        },
+        {
+            "id": "psa118_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Mi Dios eres tú, y te alabaré: Dios mío, te exaltaré."
+        },
+        {
+            "id": "psa118_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Alabad a Jehová porque Él es bueno; porque para siempre es su misericordia."
+        }
+    ]
+}

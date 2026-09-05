@@ -1,0 +1,116 @@
+{
+    "book": "Salmos",
+    "chapter": 7,
+    "title": "Salmos 7",
+    "messages": [
+        {
+            "id": "psa7_sec1_3e85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Sigaión de David, que cantó a Jehová sobre las palabras de Cus, hijo de Benjamín.",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa7_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Jehová Dios mío, en ti he confiado: Sálvame de todos los que me persiguen, y líbrame;"
+        },
+        {
+            "id": "psa7_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "no sea que desgarren mi alma cual león, despedazándola, sin que haya quien libre."
+        },
+        {
+            "id": "psa7_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Jehová Dios mío, si yo he hecho esto, si hay en mis manos iniquidad;"
+        },
+        {
+            "id": "psa7_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "si pagué mal al que estaba en paz conmigo (Hasta he libertado al que sin causa era mi enemigo),"
+        },
+        {
+            "id": "psa7_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "persiga el enemigo mi alma, y alcáncela; y pise en tierra mi vida, y mi honra ponga en el polvo. (Selah)"
+        },
+        {
+            "id": "psa7_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Levántate, oh Jehová, en tu ira; levántate a causa de la furia de mis angustiadores, y despierta en favor mío el juicio que mandaste."
+        },
+        {
+            "id": "psa7_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y te rodeará congregación de pueblos; por amor a ellos vuelve a levantarte en alto."
+        },
+        {
+            "id": "psa7_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Jehová juzgará a los pueblos: Júzgame, oh Jehová, conforme a mi justicia y conforme a mi integridad."
+        },
+        {
+            "id": "psa7_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Termine ahora la maldad de los impíos, pero establece tú al justo; pues el Dios justo prueba la mente y el corazón."
+        },
+        {
+            "id": "psa7_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mi defensa está en Dios, que salva a los rectos de corazón."
+        },
+        {
+            "id": "psa7_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Dios es el que juzga al justo; y Dios está airado todos los días contra el impío."
+        },
+        {
+            "id": "psa7_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Si no se convierte, Él afilará su espada: Ha tensado ya su arco, lo ha preparado."
+        },
+        {
+            "id": "psa7_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Asimismo ha preparado para él armas de muerte; ha labrado sus saetas para los que persiguen."
+        },
+        {
+            "id": "psa7_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "He aquí, el impío ha gestado iniquidad; concibió maldad, y dio a luz engaño."
+        },
+        {
+            "id": "psa7_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pozo ha cavado, y lo ha ahondado; y en el hoyo que hizo caerá."
+        },
+        {
+            "id": "psa7_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Su maldad se volverá sobre su cabeza, y su agravio caerá sobre su propia coronilla."
+        },
+        {
+            "id": "psa7_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Alabaré a Jehová conforme a su justicia, y cantaré al nombre de Jehová el Altísimo."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "book": "Salmos",
+    "chapter": 111,
+    "title": "Salmos 111",
+    "messages": [
+        {
+            "id": "psa111_sec1_c707",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa111_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabaré a Jehová con todo mi corazón en la compañía de los rectos y en la congregación."
+        },
+        {
+            "id": "psa111_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Grandes son las obras de Jehová; buscadas de todos los que se deleitan en ellas."
+        },
+        {
+            "id": "psa111_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Gloria y hermosura es su obra; y su justicia permanece para siempre."
+        },
+        {
+            "id": "psa111_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Hizo memorables sus maravillas; clemente y misericordioso es Jehová."
+        },
+        {
+            "id": "psa111_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Él ha dado alimento a los que le temen; para siempre se acordará de su pacto."
+        },
+        {
+            "id": "psa111_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Él ha mostrado a su pueblo el poder de sus obras, dándoles la heredad de las naciones."
+        },
+        {
+            "id": "psa111_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Las obras de sus manos son verdad y juicio; fieles son todos sus mandamientos;"
+        },
+        {
+            "id": "psa111_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "afirmados eternamente y para siempre, hechos en verdad y en rectitud."
+        },
+        {
+            "id": "psa111_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Redención ha enviado a su pueblo; para siempre ha ordenado su pacto: Santo y temible es su nombre."
+        },
+        {
+            "id": "psa111_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El principio de la sabiduría es el temor de Jehová: Buen entendimiento tienen todos los que ponen por obra sus mandamientos: Su loor permanece para siempre."
+        }
+    ]
+}

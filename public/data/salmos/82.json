@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 82,
+    "title": "Salmos 82",
+    "messages": [
+        {
+            "id": "psa82_sec1_3d3e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de Asaf",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa82_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dios está en la reunión de los dioses; en medio de los dioses juzga."
+        },
+        {
+            "id": "psa82_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "¿Hasta cuándo juzgaréis injustamente, y aceptaréis las personas de los impíos? (Selah)"
+        },
+        {
+            "id": "psa82_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Defended al pobre y al huérfano; haced justicia al afligido y al menesteroso."
+        },
+        {
+            "id": "psa82_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Librad al afligido y al necesitado; libradlo de mano de los impíos."
+        },
+        {
+            "id": "psa82_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "No saben, no entienden, andan en tinieblas: Vacilan todos los cimientos de la tierra."
+        },
+        {
+            "id": "psa82_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Yo dije:"
+        },
+        {
+            "id": "psa82_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Vosotros sois dioses; y todos vosotros sois hijos del Altísimo."
+        },
+        {
+            "id": "psa82_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero como hombres moriréis; y caeréis como cualquiera de los príncipes."
+        },
+        {
+            "id": "psa82_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Levántate, oh Dios, juzga la tierra; porque tú heredarás todas las naciones."
+        }
+    ]
+}

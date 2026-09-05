@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 143,
+    "title": "Salmos 143",
+    "messages": [
+        {
+            "id": "psa143_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa143_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Jehová, oye mi oración, escucha mis ruegos; respóndeme por tu verdad, por tu justicia."
+        },
+        {
+            "id": "psa143_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y no entres en juicio con tu siervo; porque no se justificará delante de ti ningún viviente."
+        },
+        {
+            "id": "psa143_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque el enemigo ha perseguido mi alma; ha postrado en tierra mi vida; me ha hecho habitar en tinieblas como los ya muertos."
+        },
+        {
+            "id": "psa143_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y mi espíritu se angustió dentro de mí; mi corazón está desolado."
+        },
+        {
+            "id": "psa143_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Me acordé de los días antiguos; meditaba en todas tus obras, reflexionaba en las obras de tus manos."
+        },
+        {
+            "id": "psa143_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Extendí mis manos a ti; mi alma tiene sed de ti como la tierra sedienta. (Selah)"
+        },
+        {
+            "id": "psa143_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Respóndeme pronto, oh Jehová porque mi espíritu desfallece; no escondas de mí tu rostro, no venga yo a ser semejante a los que descienden a la fosa."
+        },
+        {
+            "id": "psa143_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Hazme oír por la mañana tu misericordia, porque en ti he confiado; hazme saber el camino por el que debo andar, porque a ti elevo mi alma."
+        },
+        {
+            "id": "psa143_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Líbrame de mis enemigos, oh Jehová: En ti me refugio."
+        },
+        {
+            "id": "psa143_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Enséñame a hacer tu voluntad, porque tú eres mi Dios; Bueno es tu Espíritu; guíame a tierra de rectitud."
+        },
+        {
+            "id": "psa143_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por tu nombre, oh Jehová, me vivificarás; por tu justicia, sacarás mi alma de angustia."
+        },
+        {
+            "id": "psa143_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y por tu misericordia disipa a mis enemigos, y destruye a todos los adversarios de mi alma; porque yo soy tu siervo."
+        }
+    ]
+}

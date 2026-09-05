@@ -1,0 +1,73 @@
+{
+    "book": "Salmos",
+    "chapter": 137,
+    "title": "Salmos 137",
+    "messages": [
+        {
+            "id": "psa137_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Junto a los ríos de Babilonia, allí nos sentábamos, y aun llorábamos, acordándonos de Sión."
+        },
+        {
+            "id": "psa137_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Sobre los sauces en medio de ella colgamos nuestras arpas."
+        },
+        {
+            "id": "psa137_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y los que allí nos habían llevado cautivos nos pedían que cantásemos, y los que nos habían desolado nos pedían alegría, diciendo:"
+        },
+        {
+            "id": "psa137_3b",
+            "speaker": "Impíos",
+            "verse": 3,
+            "text": "Cantadnos alguno de los cánticos de Sión."
+        },
+        {
+            "id": "psa137_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "¿Cómo cantaremos canción de Jehová en tierra extraña?"
+        },
+        {
+            "id": "psa137_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Si me olvidare de ti, oh Jerusalén, mi diestra olvide su destreza,"
+        },
+        {
+            "id": "psa137_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "mi lengua se pegue a mi paladar, si de ti no me acordare; si no enalteciere a Jerusalén como preferente asunto de mi alegría."
+        },
+        {
+            "id": "psa137_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Acuérdate, oh Jehová, contra los hijos de Edom en el día de Jerusalén; los cuales decían:"
+        },
+        {
+            "id": "psa137_7b",
+            "speaker": "Impíos",
+            "verse": 7,
+            "text": "Arrasadla, arrasadla hasta los cimientos."
+        },
+        {
+            "id": "psa137_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Hija de Babilonia, serás destruida, bienaventurado el que te diere el pago de lo que tú nos hiciste."
+        },
+        {
+            "id": "psa137_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Bienaventurado el que tomare y estrellare tus niños contra las piedras."
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "book": "Salmos",
+    "chapter": 22,
+    "title": "Salmos 22",
+    "messages": [
+        {
+            "id": "psa22_sec1_2794",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal, sobre Ajelet-sahar. Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dios mío, Dios mío, ¿por qué me has desamparado? ¿Por qué estás tan lejos de mi salvación, y de las palabras de mi clamor?"
+        },
+        {
+            "id": "psa22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Dios mío, clamo de día, y no me escuchas; y de noche, y no hay para mí sosiego."
+        },
+        {
+            "id": "psa22_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero tú eres santo, tú que habitas entre las alabanzas de Israel."
+        },
+        {
+            "id": "psa22_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "En ti esperaron nuestros padres: Esperaron, y tú los libraste."
+        },
+        {
+            "id": "psa22_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Clamaron a ti, y fueron librados; confiaron en ti, y no fueron avergonzados."
+        },
+        {
+            "id": "psa22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas yo soy gusano, y no hombre; oprobio de los hombres, y despreciado del pueblo."
+        },
+        {
+            "id": "psa22_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Todos los que me ven, se burlan de mí; estiran los labios, menean la cabeza, diciendo:"
+        },
+        {
+            "id": "psa22_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Confió en Jehová, líbrele Él; sálvele, puesto que en Él se complacía."
+        },
+        {
+            "id": "psa22_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero tú eres el que me sacó del vientre; Me hiciste estar confiado desde que estaba a los pechos de mi madre."
+        },
+        {
+            "id": "psa22_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Sobre ti fui echado desde la matriz; desde el vientre de mi madre, tú eres mi Dios."
+        },
+        {
+            "id": "psa22_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "No te alejes de mí, porque la angustia está cerca; porque no hay quien ayude."
+        },
+        {
+            "id": "psa22_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Me han rodeado muchos toros; fuertes toros de Basán me han cercado."
+        },
+        {
+            "id": "psa22_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Abrieron sobre mí su boca, como león rapaz y rugiente."
+        },
+        {
+            "id": "psa22_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Estoy derramado como aguas, y todos mis huesos se descoyuntaron: Mi corazón es como cera, derretido en medio de mis entrañas."
+        },
+        {
+            "id": "psa22_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Se secó como un tiesto mi vigor, y mi lengua se pegó a mi paladar; y me has puesto en el polvo de la muerte."
+        },
+        {
+            "id": "psa22_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque perros me han rodeado, me ha cercado cuadrilla de malignos; horadaron mis manos y mis pies."
+        },
+        {
+            "id": "psa22_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Contar puedo todos mis huesos; ellos me miran, y me observan."
+        },
+        {
+            "id": "psa22_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Repartieron entre sí mis vestiduras, y sobre mi ropa echaron suertes."
+        },
+        {
+            "id": "psa22_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas tú, oh Jehová, no te alejes; Fortaleza mía, apresúrate a socorrerme."
+        },
+        {
+            "id": "psa22_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Libra de la espada mi alma; del poder del perro mi vida."
+        },
+        {
+            "id": "psa22_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Sálvame de la boca del león, porque tú me has escuchado de los cuernos de los unicornios."
+        },
+        {
+            "id": "psa22_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Anunciaré tu nombre a mis hermanos; en medio de la congregación te alabaré."
+        },
+        {
+            "id": "psa22_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Los que teméis a Jehová, alabadle; glorificadle, simiente toda de Jacob; y temedle, vosotros, simiente toda de Israel."
+        },
+        {
+            "id": "psa22_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque no menospreció ni abominó la aflicción del pobre, ni de él escondió su rostro; sino que cuando clamó a Él, le oyó."
+        },
+        {
+            "id": "psa22_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "De ti será mi alabanza en la gran congregación; mis votos pagaré delante de los que le temen."
+        },
+        {
+            "id": "psa22_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Comerán los pobres, y serán saciados: Alabarán a Jehová los que le buscan: Vivirá vuestro corazón para siempre."
+        },
+        {
+            "id": "psa22_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Se acordarán, y se volverán a Jehová todos los términos de la tierra; y adorarán delante de ti todas las familias de las naciones."
+        },
+        {
+            "id": "psa22_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Porque de Jehová es el reino; y Él señorea sobre las naciones."
+        },
+        {
+            "id": "psa22_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Comerán y adorarán todos los poderosos de la tierra; se postrarán delante de Él todos los que descienden al polvo, si bien ninguno puede conservar la vida de su propia alma."
+        },
+        {
+            "id": "psa22_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "La posteridad le servirá; Esto será contado del Señor por una generación."
+        },
+        {
+            "id": "psa22_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Vendrán, y anunciarán su justicia a un pueblo que ha de nacer, le dirán que Él hizo esto."
+        }
+    ]
+}

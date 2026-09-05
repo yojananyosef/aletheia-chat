@@ -1,0 +1,62 @@
+{
+    "book": "Salmos",
+    "chapter": 110,
+    "title": "Salmos 110",
+    "messages": [
+        {
+            "id": "psa110_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa110_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Jehová dijo a mi Señor:"
+        },
+        {
+            "id": "psa110_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies."
+        },
+        {
+            "id": "psa110_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová enviará desde Sión la vara de tu poder: Domina en medio de tus enemigos."
+        },
+        {
+            "id": "psa110_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Tu pueblo estará dispuesto en el día de tu poder, en la hermosura de la santidad: desde el seno de la aurora, tienes tú el rocío de tu juventud."
+        },
+        {
+            "id": "psa110_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre, según el orden de Melquisedec."
+        },
+        {
+            "id": "psa110_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "El Señor a tu diestra herirá a los reyes en el día de su furor:"
+        },
+        {
+            "id": "psa110_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Juzgará entre las naciones, las llenará de cadáveres; herirá las cabezas en muchas tierras."
+        },
+        {
+            "id": "psa110_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Del arroyo beberá en el camino; por lo cual levantará la cabeza."
+        }
+    ]
+}

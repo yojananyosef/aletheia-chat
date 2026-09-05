@@ -1,0 +1,254 @@
+{
+    "book": "Salmos",
+    "chapter": 37,
+    "title": "Salmos 37",
+    "messages": [
+        {
+            "id": "psa37_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa37_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "No te impacientes a causa de los malignos, ni tengas envidia de los que hacen iniquidad."
+        },
+        {
+            "id": "psa37_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque como el pasto serán pronto cortados, y como la hierba verde se secarán."
+        },
+        {
+            "id": "psa37_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Espera en Jehová, y haz el bien; y vivirás en la tierra, y en verdad serás alimentado."
+        },
+        {
+            "id": "psa37_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Deléitate asimismo en Jehová, y Él te concederá las peticiones de tu corazón."
+        },
+        {
+            "id": "psa37_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Encomienda a Jehová tu camino; confía en Él, y Él hará."
+        },
+        {
+            "id": "psa37_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y exhibirá tu justicia como la luz, y tu derecho como el mediodía."
+        },
+        {
+            "id": "psa37_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Guarda silencio ante Jehová y espera en Él: No te alteres con motivo del que prospera en su camino, por causa del hombre que hace maldades."
+        },
+        {
+            "id": "psa37_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Deja la ira y depón el enojo; no te excites en manera alguna a hacer lo malo."
+        },
+        {
+            "id": "psa37_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque los malignos serán cortados, mas los que esperan en Jehová heredarán la tierra."
+        },
+        {
+            "id": "psa37_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pues de aquí a poco no existirá el malo; y contemplarás sobre su lugar, y ya no estará."
+        },
+        {
+            "id": "psa37_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pero los mansos heredarán la tierra, y se recrearán con abundancia de paz."
+        },
+        {
+            "id": "psa37_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Maquina el impío contra el justo, y cruje sobre él sus dientes."
+        },
+        {
+            "id": "psa37_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "El Señor se reirá de él; porque ve que viene su día."
+        },
+        {
+            "id": "psa37_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Los impíos han desenvainado la espada y entesado su arco, para derribar al pobre y al menesteroso, para matar a los de recto proceder."
+        },
+        {
+            "id": "psa37_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Su espada entrará en su propio corazón, y su arco será quebrado."
+        },
+        {
+            "id": "psa37_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mejor es lo poco del justo, que las riquezas de muchos pecadores."
+        },
+        {
+            "id": "psa37_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque los brazos de los impíos serán quebrados; Pero Jehová sostiene a los justos."
+        },
+        {
+            "id": "psa37_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Conoce Jehová los días de los rectos; y la heredad de ellos será para siempre."
+        },
+        {
+            "id": "psa37_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "No serán avergonzados en el mal tiempo; y en los días de hambre serán saciados."
+        },
+        {
+            "id": "psa37_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas los impíos perecerán, y los enemigos de Jehová como la grasa de los carneros serán consumidos; se disiparán como humo."
+        },
+        {
+            "id": "psa37_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "El impío toma prestado, y no paga; mas el justo tiene misericordia y da."
+        },
+        {
+            "id": "psa37_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Porque los bendecidos de Él heredarán la tierra; y los maldecidos por Él serán cortados."
+        },
+        {
+            "id": "psa37_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Por Jehová son ordenados los pasos del hombre bueno, y Él aprueba su camino."
+        },
+        {
+            "id": "psa37_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Cuando cayere, no quedará postrado; porque Jehová sostiene su mano."
+        },
+        {
+            "id": "psa37_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Joven fui, y he envejecido, y no he visto justo desamparado, ni a su simiente mendigando pan."
+        },
+        {
+            "id": "psa37_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "En todo tiempo tiene misericordia, y presta; y su simiente es para bendición."
+        },
+        {
+            "id": "psa37_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Apártate del mal y haz el bien, y vivirás para siempre."
+        },
+        {
+            "id": "psa37_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Porque Jehová ama la rectitud, y no desampara a sus santos; para siempre serán guardados; mas la simiente de los impíos será cortada."
+        },
+        {
+            "id": "psa37_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Los justos heredarán la tierra, y vivirán para siempre sobre ella."
+        },
+        {
+            "id": "psa37_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "La boca del justo hablará sabiduría; y su lengua pronunciará juicio."
+        },
+        {
+            "id": "psa37_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "La ley de su Dios está en su corazón; No vacilarán sus pasos."
+        },
+        {
+            "id": "psa37_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Acecha el impío al justo, y procura matarlo."
+        },
+        {
+            "id": "psa37_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Jehová no lo dejará en sus manos, ni lo condenará cuando sea juzgado."
+        },
+        {
+            "id": "psa37_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Espera en Jehová y guarda su camino, y Él te exaltará para que heredes la tierra: Cuando sean cortados los pecadores, lo verás."
+        },
+        {
+            "id": "psa37_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Vi yo al impío sumamente enaltecido, y que se extendía como un laurel verde;"
+        },
+        {
+            "id": "psa37_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "pero pasó, y he aquí ya no estaba; lo busqué, y no fue hallado."
+        },
+        {
+            "id": "psa37_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Considera al íntegro, y mira al justo; porque la postrimería de ellos es paz."
+        },
+        {
+            "id": "psa37_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Mas los transgresores serán todos a una destruidos; la postrimería de los impíos será cortada."
+        },
+        {
+            "id": "psa37_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Pero la salvación de los justos viene de Jehová; Él es su fortaleza en el tiempo de la angustia."
+        },
+        {
+            "id": "psa37_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Jehová los ayudará y los librará; los librará de los impíos y los salvará, por cuanto en Él confiaron."
+        }
+    ]
+}

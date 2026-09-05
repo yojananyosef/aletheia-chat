@@ -1,0 +1,133 @@
+{
+    "book": "Salmos",
+    "chapter": 10,
+    "title": "Salmos 10",
+    "messages": [
+        {
+            "id": "psa10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿Por qué estás lejos, oh Jehová, y te escondes en el tiempo de la tribulación?"
+        },
+        {
+            "id": "psa10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Con arrogancia el malo persigue al pobre; sean atrapados en los artificios que han ideado."
+        },
+        {
+            "id": "psa10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque el malo se jacta del deseo de su corazón, y bendice al codicioso al cual aborrece Jehová."
+        },
+        {
+            "id": "psa10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "El malo, por la altivez de su rostro, no busca a Dios; no hay Dios en ninguno de sus pensamientos."
+        },
+        {
+            "id": "psa10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Sus caminos son torcidos en todo tiempo; tus juicios los tiene muy lejos de su vista, y desprecia a todos sus enemigos."
+        },
+        {
+            "id": "psa10_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Dice en su corazón:"
+        },
+        {
+            "id": "psa10_6b",
+            "speaker": "Impíos",
+            "verse": 6,
+            "text": "No seré movido: Nunca me alcanzará el infortunio."
+        },
+        {
+            "id": "psa10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Su boca está llena de maldición, de engaño y de fraude; debajo de su lengua hay vejación y maldad."
+        },
+        {
+            "id": "psa10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Se sienta al acecho en las aldeas; en los escondrijos mata al inocente; sus ojos están acechando al pobre."
+        },
+        {
+            "id": "psa10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Acecha en oculto, como el león desde su cueva; acecha para arrebatar al pobre; arrebata al pobre trayéndolo a su red."
+        },
+        {
+            "id": "psa10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Se encoge, se agacha, y caen en sus garras muchos desdichados."
+        },
+        {
+            "id": "psa10_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Dice en su corazón:"
+        },
+        {
+            "id": "psa10_11b",
+            "speaker": "Impíos",
+            "verse": 11,
+            "text": "Dios ha olvidado, ha encubierto su rostro; nunca lo verá."
+        },
+        {
+            "id": "psa10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Levántate, oh Jehová Dios, alza tu mano, no te olvides de los pobres."
+        },
+        {
+            "id": "psa10_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "¿Por qué irrita el malo a Dios? En su corazón ha dicho:"
+        },
+        {
+            "id": "psa10_13b",
+            "speaker": "Impíos",
+            "verse": 13,
+            "text": "Tú no lo inquirirás."
+        },
+        {
+            "id": "psa10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Tú lo has visto; porque tú miras la maldad y la vejación, para cobrar venganza con tu mano: En ti se refugia el pobre, tú eres el amparo del huérfano."
+        },
+        {
+            "id": "psa10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Quiebra tú el brazo del impío y del maligno; persigue su maldad hasta que no halles ninguna."
+        },
+        {
+            "id": "psa10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Jehová es Rey eternamente y para siempre; de su tierra han perecido las naciones."
+        },
+        {
+            "id": "psa10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "El deseo de los humildes oíste, oh Jehová: Tú dispones su corazón, y haces atento tu oído;"
+        },
+        {
+            "id": "psa10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Para juzgar al huérfano y al oprimido, a fin de que no vuelva más a hacer violencia el hombre de la tierra."
+        }
+    ]
+}

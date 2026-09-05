@@ -1,0 +1,98 @@
+{
+    "book": "Salmos",
+    "chapter": 48,
+    "title": "Salmos 48",
+    "messages": [
+        {
+            "id": "psa48_sec1_23bf",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Canción: Salmo de los hijos de Coré",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa48_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Grande es Jehová y digno de ser en gran manera alabado, en la ciudad de nuestro Dios, en su monte santo."
+        },
+        {
+            "id": "psa48_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Hermosa provincia, el gozo de toda la tierra es el monte de Sión, a los lados del norte, la ciudad del gran Rey."
+        },
+        {
+            "id": "psa48_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Dios en sus palacios es conocido por refugio."
+        },
+        {
+            "id": "psa48_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque he aquí los reyes de la tierra se reunieron; pasaron todos."
+        },
+        {
+            "id": "psa48_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y viéndola ellos así, se maravillaron, se turbaron, se dieron prisa a huir."
+        },
+        {
+            "id": "psa48_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Les tomó allí temblor; dolor, como a mujer que da a luz."
+        },
+        {
+            "id": "psa48_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Con viento solano quiebras tú las naves de Tarsis."
+        },
+        {
+            "id": "psa48_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Como lo oímos, así hemos visto en la ciudad de Jehová de los ejércitos, en la ciudad de nuestro Dios: Dios la afirmará para siempre. (Selah)"
+        },
+        {
+            "id": "psa48_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Nos acordamos de tu misericordia, oh Dios, en medio de tu templo."
+        },
+        {
+            "id": "psa48_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Conforme a tu nombre, oh Dios, así es tu loor hasta los confines de la tierra; de justicia está llena tu diestra."
+        },
+        {
+            "id": "psa48_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Se alegrará el monte de Sión; se gozarán las hijas de Judá por tus juicios."
+        },
+        {
+            "id": "psa48_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Andad alrededor de Sión, y rodeadla; contad sus torres."
+        },
+        {
+            "id": "psa48_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Observad atentamente su antemuro; mirad sus palacios; para que lo contéis a la generación venidera."
+        },
+        {
+            "id": "psa48_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque este Dios es Dios nuestro eternamente y para siempre: Él nos guiará, aun hasta la muerte."
+        }
+    ]
+}

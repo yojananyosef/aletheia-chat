@@ -1,0 +1,104 @@
+{
+    "book": "Salmos",
+    "chapter": 41,
+    "title": "Salmos 41",
+    "messages": [
+        {
+            "id": "psa41_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa41_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bienaventurado el que piensa en el pobre; en el día malo lo librará Jehová."
+        },
+        {
+            "id": "psa41_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová lo guardará, y le dará vida; será bienaventurado en la tierra, y no lo entregarás a la voluntad de sus enemigos."
+        },
+        {
+            "id": "psa41_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Jehová lo sustentará sobre el lecho del dolor; ablandarás toda su cama en su enfermedad."
+        },
+        {
+            "id": "psa41_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Yo dije:"
+        },
+        {
+            "id": "psa41_4b",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Jehová, ten misericordia de mí; sana mi alma, porque contra ti he pecado."
+        },
+        {
+            "id": "psa41_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mis enemigos dicen mal de mí, preguntando:"
+        },
+        {
+            "id": "psa41_5b",
+            "speaker": "Impíos",
+            "verse": 5,
+            "text": "¿Cuándo morirá, y perecerá su nombre?"
+        },
+        {
+            "id": "psa41_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y si vienen a verme, hablan mentira; su corazón acumula iniquidad para sí; y al salir fuera, la divulgan."
+        },
+        {
+            "id": "psa41_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Reunidos murmuran contra mí todos los que me aborrecen; contra mí piensan mal, diciendo de mí:"
+        },
+        {
+            "id": "psa41_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Cosa pestilencial se ha apoderado de él; y el que cayó en cama, no volverá a levantarse."
+        },
+        {
+            "id": "psa41_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Aun mi íntimo amigo, en quien yo confiaba, el que de mi pan comía, levantó contra mí su calcañar."
+        },
+        {
+            "id": "psa41_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mas tú, Jehová, ten misericordia de mí, y levántame, y les daré el pago."
+        },
+        {
+            "id": "psa41_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "En esto conozco que te he agradado; en que mi enemigo no triunfa sobre mí."
+        },
+        {
+            "id": "psa41_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "En cuanto a mí, en mi integridad me has sustentado, y me has hecho estar delante de ti para siempre."
+        },
+        {
+            "id": "psa41_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Bendito sea Jehová, el Dios de Israel, desde la eternidad, y hasta la eternidad. Amén, y amén."
+        }
+    ]
+}

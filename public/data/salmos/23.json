@@ -1,0 +1,50 @@
+{
+    "book": "Salmos",
+    "chapter": 23,
+    "title": "Salmos 23",
+    "messages": [
+        {
+            "id": "psa23_sec1_7dcc",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David.",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa23_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Jehová es mi pastor; nada me faltará."
+        },
+        {
+            "id": "psa23_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "En lugares de delicados pastos me hará descansar; junto a aguas de reposo me pastoreará."
+        },
+        {
+            "id": "psa23_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Restaurará mi alma; me guiará por sendas de justicia por amor a su nombre."
+        },
+        {
+            "id": "psa23_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Aunque ande en valle de sombra de muerte, no temeré mal alguno; porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento."
+        },
+        {
+            "id": "psa23_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Aderezas mesa delante de mí, en presencia de mis angustiadores; unges mi cabeza con aceite; mi copa está rebosando."
+        },
+        {
+            "id": "psa23_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida; y en la casa de Jehová moraré por largos días."
+        }
+    ]
+}

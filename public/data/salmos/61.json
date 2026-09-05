@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 61,
+    "title": "Salmos 61",
+    "messages": [
+        {
+            "id": "psa61_sec1_a25f",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Neginot: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa61_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oye, oh Dios, mi clamor; atiende mi oración."
+        },
+        {
+            "id": "psa61_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Desde el cabo de la tierra clamaré a ti, cuando mi corazón desmayare:"
+        },
+        {
+            "id": "psa61_2b",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Llévame a la peña más alta que yo."
+        },
+        {
+            "id": "psa61_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque tú has sido mi refugio, y torre fuerte delante del enemigo."
+        },
+        {
+            "id": "psa61_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Yo habitaré en tu tabernáculo para siempre; estaré seguro bajo el abrigo de tus alas. (Selah)"
+        },
+        {
+            "id": "psa61_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque tú, oh Dios, has oído mis votos, has dado heredad a los que temen tu nombre."
+        },
+        {
+            "id": "psa61_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Días sobre días añadirás al rey; sus años serán como generación y generación."
+        },
+        {
+            "id": "psa61_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Estará para siempre delante de Dios: Misericordia y verdad prepara para que lo guarden."
+        },
+        {
+            "id": "psa61_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Así cantaré salmos a tu nombre para siempre, pagando mis votos cada día."
+        }
+    ]
+}

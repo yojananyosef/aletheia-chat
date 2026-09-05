@@ -1,0 +1,80 @@
+{
+    "book": "Salmos",
+    "chapter": 46,
+    "title": "Salmos 46",
+    "messages": [
+        {
+            "id": "psa46_sec1_dc99",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal; para los hijos de Coré: Salmo sobre Alamot",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa46_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones."
+        },
+        {
+            "id": "psa46_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Por tanto no temeremos aunque la tierra sea removida; Aunque se traspasen los montes al corazón del mar;"
+        },
+        {
+            "id": "psa46_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "aunque bramen y se turben sus aguas; aunque tiemblen los montes a causa de su braveza. (Selah)"
+        },
+        {
+            "id": "psa46_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Hay un río cuyas corrientes alegrarán la ciudad de Dios, el lugar santo de los tabernáculos del Altísimo."
+        },
+        {
+            "id": "psa46_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Dios está en medio de ella; no será conmovida: Dios la ayudará al clarear la mañana."
+        },
+        {
+            "id": "psa46_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Bramaron las naciones, titubearon los reinos; dio Él su voz, se derritió la tierra."
+        },
+        {
+            "id": "psa46_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Jehová de los ejércitos está con nosotros; nuestro refugio es el Dios de Jacob. (Selah)"
+        },
+        {
+            "id": "psa46_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Venid, ved las obras de Jehová, que ha puesto asolamientos en la tierra."
+        },
+        {
+            "id": "psa46_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Que hace cesar las guerras hasta los confines de la tierra; que quiebra el arco, corta la lanza, y quema los carros en el fuego."
+        },
+        {
+            "id": "psa46_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Estad quietos, y conoced que yo soy Dios; enaltecido seré entre las naciones, exaltado seré en la tierra."
+        },
+        {
+            "id": "psa46_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Jehová de los ejércitos está con nosotros; nuestro refugio es el Dios de Jacob. (Selah)"
+        }
+    ]
+}

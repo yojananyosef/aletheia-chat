@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 26,
+    "title": "Salmos 26",
+    "messages": [
+        {
+            "id": "psa26_sec1_c1e5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa26_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Júzgame, oh Jehová, porque yo en mi integridad he andado; he confiado asimismo en Jehová, no vacilaré."
+        },
+        {
+            "id": "psa26_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Examíname, oh Jehová, y pruébame; purifica mi conciencia y mi corazón."
+        },
+        {
+            "id": "psa26_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque tu misericordia está delante de mis ojos, y camino en tu verdad."
+        },
+        {
+            "id": "psa26_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "No me he sentado con hombres falsos, ni entraré con los hipócritas."
+        },
+        {
+            "id": "psa26_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "He aborrecido la reunión de los malignos, y no me sentaré con los impíos."
+        },
+        {
+            "id": "psa26_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Lavaré en inocencia mis manos, y andaré alrededor de tu altar, oh Jehová:"
+        },
+        {
+            "id": "psa26_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Para proclamar con voz de acción de gracias, y contar todas tus maravillas."
+        },
+        {
+            "id": "psa26_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Jehová, la habitación de tu casa he amado, y el lugar donde tu gloria habita."
+        },
+        {
+            "id": "psa26_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "No juntes con los pecadores mi alma, ni mi vida con hombres sanguinarios:"
+        },
+        {
+            "id": "psa26_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "En cuyas manos está el mal, y su diestra está llena de sobornos."
+        },
+        {
+            "id": "psa26_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas yo andaré en mi integridad: Redímeme, y ten misericordia de mí."
+        },
+        {
+            "id": "psa26_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mi pie ha estado en rectitud; en las congregaciones bendeciré a Jehová."
+        }
+    ]
+}

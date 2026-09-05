@@ -1,0 +1,92 @@
+{
+    "book": "Salmos",
+    "chapter": 85,
+    "title": "Salmos 85",
+    "messages": [
+        {
+            "id": "psa85_sec1_9604",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo para los hijos de Coré",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa85_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Fuiste propicio a tu tierra, oh Jehová; volviste la cautividad de Jacob."
+        },
+        {
+            "id": "psa85_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Perdonaste la iniquidad de tu pueblo; cubriste todos sus pecados. (Selah)"
+        },
+        {
+            "id": "psa85_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Dejaste todo tu enojo; te volviste de la ira de tu furor."
+        },
+        {
+            "id": "psa85_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Restáuranos, oh Dios, salvación nuestra, y haz cesar tu ira de sobre nosotros."
+        },
+        {
+            "id": "psa85_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Estarás enojado contra nosotros para siempre? ¿Extenderás tu ira de generación en generación?"
+        },
+        {
+            "id": "psa85_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "¿No volverás a darnos vida, para que tu pueblo se regocije en ti?"
+        },
+        {
+            "id": "psa85_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Muéstranos, oh Jehová, tu misericordia, y danos tu salvación."
+        },
+        {
+            "id": "psa85_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Escucharé lo que hable Jehová Dios; porque hablará paz a su pueblo y a sus santos, para que no se vuelvan a la locura."
+        },
+        {
+            "id": "psa85_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Ciertamente cercana está su salvación a los que le temen; para que habite la gloria en nuestra tierra."
+        },
+        {
+            "id": "psa85_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "La misericordia y la verdad se encontraron; la justicia y la paz se besaron."
+        },
+        {
+            "id": "psa85_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "La verdad brotará de la tierra; y la justicia mirará desde los cielos."
+        },
+        {
+            "id": "psa85_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Jehová dará también el bien; y nuestra tierra dará su fruto."
+        },
+        {
+            "id": "psa85_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "La justicia irá delante de Él, y nos pondrá en el camino de sus pasos."
+        }
+    ]
+}

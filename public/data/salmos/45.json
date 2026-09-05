@@ -1,0 +1,116 @@
+{
+    "book": "Salmos",
+    "chapter": 45,
+    "title": "Salmos 45",
+    "messages": [
+        {
+            "id": "psa45_sec1_1843",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Sosanim: para los hijos de Coré: Masquil: Canción de amores",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa45_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Rebosa mi corazón palabra buena: Refiero yo al Rey mis obras: Mi lengua es pluma de escribiente muy ligero."
+        },
+        {
+            "id": "psa45_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Te eres el más hermoso de los hijos de los hombres; la gracia se derrama en tus labios; por tanto, Dios te ha bendecido para siempre."
+        },
+        {
+            "id": "psa45_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Cíñete tu espada sobre el muslo, oh valiente, con tu gloria y con tu majestad."
+        },
+        {
+            "id": "psa45_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y en tu gloria sé prosperado: Cabalga sobre palabra de verdad, de humildad y de justicia; y tu diestra te enseñará cosas terribles."
+        },
+        {
+            "id": "psa45_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Tus saetas agudas con que caerán pueblos debajo de ti, penetrarán en el corazón de los enemigos del Rey."
+        },
+        {
+            "id": "psa45_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Tu trono, oh Dios, es eterno y para siempre; cetro de equidad es el cetro de tu reino."
+        },
+        {
+            "id": "psa45_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Amaste la justicia y aborreciste la maldad; por tanto Dios, el Dios tuyo, te ha ungido con óleo de alegría más que a tus compañeros."
+        },
+        {
+            "id": "psa45_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mirra, áloe y casia exhalan todas tus vestiduras; desde palacios de marfil te han alegrado."
+        },
+        {
+            "id": "psa45_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Hijas de reyes hay entre tus mujeres ilustres: La reina está a tu diestra, con oro de Ofir."
+        },
+        {
+            "id": "psa45_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Oye, hija, y mira, e inclina tu oído; y olvida a tu pueblo, y a la casa de tu padre;"
+        },
+        {
+            "id": "psa45_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y deseará el Rey tu hermosura: Adórale, porque Él es tu Señor."
+        },
+        {
+            "id": "psa45_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y la hija de Tiro vendrá con presentes; los ricos del pueblo implorarán tu favor."
+        },
+        {
+            "id": "psa45_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Toda gloriosa en su interior es la hija del Rey; de brocado de oro es su vestido."
+        },
+        {
+            "id": "psa45_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Con vestidos bordados será llevada al Rey; vírgenes en pos de ella: Sus compañeras serán traídas a ti."
+        },
+        {
+            "id": "psa45_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Serán traídas con alegría y gozo; entrarán en el palacio del Rey."
+        },
+        {
+            "id": "psa45_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "En lugar de tus padres serán tus hijos, a quienes harás príncipes en toda la tierra."
+        },
+        {
+            "id": "psa45_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Haré que tu nombre sea recordado en todas las generaciones; por lo cual te alabarán los pueblos eternamente y para siempre."
+        }
+    ]
+}

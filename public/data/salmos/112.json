@@ -1,0 +1,74 @@
+{
+    "book": "Salmos",
+    "chapter": 112,
+    "title": "Salmos 112",
+    "messages": [
+        {
+            "id": "psa112_sec1_c707",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa112_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bienaventurado el hombre que teme a Jehová, y en sus mandamientos se deleita en gran manera."
+        },
+        {
+            "id": "psa112_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Su simiente será poderosa en la tierra; la generación de los rectos será bendita."
+        },
+        {
+            "id": "psa112_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Bienes y riquezas hay en su casa; y su justicia permanece para siempre."
+        },
+        {
+            "id": "psa112_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "En las tinieblas resplandece luz a los rectos: Él es clemente, misericordioso y justo."
+        },
+        {
+            "id": "psa112_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "El hombre de bien tiene misericordia y presta; conduce sus asuntos con juicio."
+        },
+        {
+            "id": "psa112_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por lo cual no resbalará para siempre; en memoria eterna será el justo."
+        },
+        {
+            "id": "psa112_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "No tendrá temor de malas noticias; su corazón está firme, confiado en Jehová."
+        },
+        {
+            "id": "psa112_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Afianzado está su corazón, no temerá, hasta que vea en sus enemigos su deseo."
+        },
+        {
+            "id": "psa112_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Esparció, dio a los pobres; su justicia permanece para siempre; su cuerno será ensalzado en gloria."
+        },
+        {
+            "id": "psa112_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Lo verá el impío, y se irritará; crujirá los dientes, y se consumirá; el deseo de los impíos perecerá."
+        }
+    ]
+}

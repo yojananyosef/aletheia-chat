@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 113,
+    "title": "Salmos 113",
+    "messages": [
+        {
+            "id": "psa113_sec1_c707",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa113_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabad al Señor; oh siervos de Jehová, alabad el nombre de Jehová."
+        },
+        {
+            "id": "psa113_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Sea el nombre de Jehová bendito, desde ahora y para siempre."
+        },
+        {
+            "id": "psa113_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Desde el nacimiento del sol hasta donde se pone, sea alabado el nombre de Jehová."
+        },
+        {
+            "id": "psa113_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Excelso sobre todas las naciones es Jehová; sobre los cielos su gloria."
+        },
+        {
+            "id": "psa113_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Quién como Jehová nuestro Dios, que mora en las alturas,"
+        },
+        {
+            "id": "psa113_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "que se humilla a mirar lo que hay en el cielo y en la tierra?"
+        },
+        {
+            "id": "psa113_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Él levanta del polvo al pobre, y al menesteroso alza del muladar,"
+        },
+        {
+            "id": "psa113_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "para hacerlos sentar con los príncipes, con los príncipes de su pueblo."
+        },
+        {
+            "id": "psa113_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Él hace habitar en familia a la estéril, y que se goce en ser madre de hijos. Aleluya."
+        }
+    ]
+}

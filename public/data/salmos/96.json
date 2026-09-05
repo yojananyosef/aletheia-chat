@@ -1,0 +1,91 @@
+{
+    "book": "Salmos",
+    "chapter": 96,
+    "title": "Salmos 96",
+    "messages": [
+        {
+            "id": "psa96_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Cantad a Jehová cántico nuevo; cantad a Jehová, toda la tierra."
+        },
+        {
+            "id": "psa96_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Cantad a Jehová, bendecid su nombre; anunciad de día en día su salvación."
+        },
+        {
+            "id": "psa96_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Proclamad entre las naciones su gloria, en todos los pueblos sus maravillas."
+        },
+        {
+            "id": "psa96_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque grande es Jehová, y digno de suprema alabanza; temible sobre todos los dioses."
+        },
+        {
+            "id": "psa96_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque todos los dioses de los pueblos son ídolos; pero Jehová hizo los cielos."
+        },
+        {
+            "id": "psa96_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Honor y majestad delante de Él; Poder y gloria hay en su santuario."
+        },
+        {
+            "id": "psa96_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Dad a Jehová, oh familias de los pueblos; dad a Jehová la gloria y el poder."
+        },
+        {
+            "id": "psa96_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Dad a Jehová la gloria debida a su nombre; traed ofrenda, y venid a sus atrios."
+        },
+        {
+            "id": "psa96_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Adorad a Jehová en la hermosura de la santidad; temed delante de Él, toda la tierra."
+        },
+        {
+            "id": "psa96_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Decid entre las naciones:"
+        },
+        {
+            "id": "psa96_10b",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Jehová reina, también afirmó el mundo, no será conmovido: Juzgará a los pueblos en justicia."
+        },
+        {
+            "id": "psa96_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Alégrense los cielos, y gócese la tierra; brame el mar y su plenitud."
+        },
+        {
+            "id": "psa96_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Regocíjese el campo, y todo lo que en él está: Entonces todos los árboles del bosque rebosarán de contento delante de Jehová:"
+        },
+        {
+            "id": "psa96_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque Él viene, porque Él viene a juzgar la tierra. Juzgará al mundo con justicia, y a los pueblos con su verdad."
+        }
+    ]
+}

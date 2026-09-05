@@ -1,0 +1,79 @@
+{
+    "book": "Salmos",
+    "chapter": 97,
+    "title": "Salmos 97",
+    "messages": [
+        {
+            "id": "psa97_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Jehová reina; regocíjese la tierra: Alégrense las muchas islas."
+        },
+        {
+            "id": "psa97_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Nube y oscuridad alrededor de Él: Justicia y juicio son el fundamento de su trono."
+        },
+        {
+            "id": "psa97_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Fuego va delante de Él, y abrasa a sus enemigos alrededor."
+        },
+        {
+            "id": "psa97_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Sus relámpagos alumbraron el mundo; la tierra vio, y se estremeció."
+        },
+        {
+            "id": "psa97_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Los montes se derritieron como cera delante de Jehová, delante del Señor de toda la tierra."
+        },
+        {
+            "id": "psa97_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Los cielos anuncian su justicia, y todos los pueblos ven su gloria."
+        },
+        {
+            "id": "psa97_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Avergüéncense todos los que sirven a las imágenes de talla, los que se glorían en los ídolos: Adórenle todos los dioses."
+        },
+        {
+            "id": "psa97_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Oyó Sión, y se alegró; y las hijas de Judá, oh Jehová, se gozaron por tus juicios."
+        },
+        {
+            "id": "psa97_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque tú, Jehová, eres excelso sobre toda la tierra; eres muy enaltecido sobre todos los dioses."
+        },
+        {
+            "id": "psa97_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Los que a Jehová amáis, aborreced el mal: Él guarda las almas de sus santos; de mano de los impíos los libra."
+        },
+        {
+            "id": "psa97_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Luz está sembrada para el justo, y alegría para los rectos de corazón."
+        },
+        {
+            "id": "psa97_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Alegraos, justos, en Jehová; y alabad la memoria de su santidad."
+        }
+    ]
+}

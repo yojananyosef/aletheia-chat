@@ -1,0 +1,98 @@
+{
+    "book": "Salmos",
+    "chapter": 140,
+    "title": "Salmos 140",
+    "messages": [
+        {
+            "id": "psa140_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa140_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Líbrame, oh Jehová, del hombre malo; guárdame de hombres violentos;"
+        },
+        {
+            "id": "psa140_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "los cuales maquinan males en su corazón, cada día urden contiendas."
+        },
+        {
+            "id": "psa140_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Aguzaron su lengua como la serpiente; veneno de áspid hay debajo de sus labios. (Selah)"
+        },
+        {
+            "id": "psa140_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Guárdame, oh Jehová, de manos del impío, presérvame de los hombres violentos; que han pensado trastornar mis pasos."
+        },
+        {
+            "id": "psa140_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Me han escondido lazo y cuerdas los soberbios; han tendido red junto a la senda; me han puesto lazos. (Selah)"
+        },
+        {
+            "id": "psa140_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "He dicho a Jehová:"
+        },
+        {
+            "id": "psa140_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Dios mío eres tú; escucha, oh Jehová, la voz de mis ruegos."
+        },
+        {
+            "id": "psa140_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Oh Jehová mi Señor, fortaleza de mi salvación, tú cubriste mi cabeza en el día de la batalla."
+        },
+        {
+            "id": "psa140_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "No des, oh Jehová, al impío sus deseos; no saques adelante su pensamiento, no sea que se ensoberbezca. (Selah)"
+        },
+        {
+            "id": "psa140_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "En cuanto a los que por todas partes me rodean, la maldad de sus propios labios cubrirá su cabeza."
+        },
+        {
+            "id": "psa140_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Caigan sobre ellos carbones encendidos; sean arrojados en el fuego, en abismos profundos de donde no puedan salir."
+        },
+        {
+            "id": "psa140_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "El hombre deslenguado no será firme en la tierra; el mal cazará al hombre injusto para derribarle."
+        },
+        {
+            "id": "psa140_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Yo sé que Jehová amparará la causa del afligido, y el derecho de los menesterosos."
+        },
+        {
+            "id": "psa140_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Ciertamente los justos alabarán tu nombre; los rectos morarán en tu presencia."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 32,
+    "title": "Salmos 32",
+    "messages": [
+        {
+            "id": "psa32_sec1_6178",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de David: Masquil",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa32_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado."
+        },
+        {
+            "id": "psa32_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Bienaventurado el hombre a quien Jehová no imputa iniquidad, y en cuyo espíritu no hay engaño."
+        },
+        {
+            "id": "psa32_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mientras callé, se envejecieron mis huesos en mi gemir todo el día."
+        },
+        {
+            "id": "psa32_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque de día y de noche se agravó sobre mí tu mano; mi verdor se volvió en sequedades de estío. (Selah)"
+        },
+        {
+            "id": "psa32_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mi pecado te declaré, y no encubrí mi iniquidad. Dije:"
+        },
+        {
+            "id": "psa32_5b",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Confesaré mis transgresiones a Jehová; y tú perdonaste la maldad de mi pecado. (Selah)"
+        },
+        {
+            "id": "psa32_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por esto orará a ti todo santo en el tiempo de poder hallarte: Ciertamente en la inundación de muchas aguas no llegarán éstas a él."
+        },
+        {
+            "id": "psa32_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Tú eres mi refugio; me guardarás de angustia: Con cánticos de liberación me rodearás. (Selah)"
+        },
+        {
+            "id": "psa32_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Te haré entender, y te enseñaré el camino en que debes andar: Sobre ti fijaré mis ojos."
+        },
+        {
+            "id": "psa32_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "No seáis como el caballo, o como el mulo, sin entendimiento: Cuya boca ha de ser sujetada con cabestro y con freno, para que no lleguen a ti."
+        },
+        {
+            "id": "psa32_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Muchos dolores habrá para el impío; mas al que confía en Jehová, le rodeará misericordia."
+        },
+        {
+            "id": "psa32_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Alegraos en Jehová, y gozaos, justos; dad voces de júbilo todos vosotros los rectos de corazón."
+        }
+    ]
+}

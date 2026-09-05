@@ -1,0 +1,134 @@
+{
+    "book": "Salmos",
+    "chapter": 9,
+    "title": "Salmos 9",
+    "messages": [
+        {
+            "id": "psa9_sec1_743c",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Mutlaben: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Te alabaré, oh Jehová, con todo mi corazón; contaré todas tus maravillas."
+        },
+        {
+            "id": "psa9_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Me alegraré y me regocijaré en ti; cantaré a tu nombre, oh Altísimo;"
+        },
+        {
+            "id": "psa9_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "mis enemigos volvieron atrás; caerán y perecerán delante de ti."
+        },
+        {
+            "id": "psa9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque has sostenido mi derecho y mi causa; te sentaste en el trono juzgando con justicia."
+        },
+        {
+            "id": "psa9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Reprendiste a las naciones, destruiste al malo, raíste el nombre de ellos eternamente y para siempre."
+        },
+        {
+            "id": "psa9_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Oh enemigo, se han acabado para siempre los asolamientos, y las ciudades que derribaste; su memoria pereció con ellas."
+        },
+        {
+            "id": "psa9_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mas Jehová permanecerá para siempre; ha preparado su trono para juicio."
+        },
+        {
+            "id": "psa9_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Él juzgará al mundo con justicia; y juzgará a los pueblos con rectitud."
+        },
+        {
+            "id": "psa9_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Jehová será refugio al oprimido, refugio en los tiempos de angustia."
+        },
+        {
+            "id": "psa9_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "En ti confiarán los que conocen tu nombre; por cuanto tú, oh Jehová, no desamparaste a los que te buscaron."
+        },
+        {
+            "id": "psa9_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Cantad a Jehová, que habita en Sión; proclamad entre los pueblos sus obras."
+        },
+        {
+            "id": "psa9_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Cuando demandó la sangre, se acordó de ellos; no se olvidó del clamor de los pobres."
+        },
+        {
+            "id": "psa9_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Ten misericordia de mí, oh Jehová; mira mi aflicción que padezco de los que me aborrecen, tú que me levantas de las puertas de la muerte;"
+        },
+        {
+            "id": "psa9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Para que cuente yo todas tus alabanzas en las puertas de la hija de Sión, y me goce en tu salvación."
+        },
+        {
+            "id": "psa9_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Se hundieron las naciones en la fosa que hicieron; en la red que escondieron fue atrapado su pie."
+        },
+        {
+            "id": "psa9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Jehová es conocido por el juicio que hizo; en la obra de sus propias manos fue enlazado el malo. (Higaion. Selah)"
+        },
+        {
+            "id": "psa9_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Los malos serán trasladados al infierno, y todas las naciones que se olvidan de Dios."
+        },
+        {
+            "id": "psa9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque no para siempre será olvidado el pobre; ni la esperanza de los pobres perecerá perpetuamente."
+        },
+        {
+            "id": "psa9_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Levántate, oh Jehová; no se prevalezca el hombre; sean juzgadas las gentes delante de ti."
+        },
+        {
+            "id": "psa9_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Pon, oh Jehová, temor en ellos; conozcan las naciones que no son sino hombres. (Selah)"
+        }
+    ]
+}

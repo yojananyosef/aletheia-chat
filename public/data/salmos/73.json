@@ -1,0 +1,194 @@
+{
+    "book": "Salmos",
+    "chapter": 73,
+    "title": "Salmos 73",
+    "messages": [
+        {
+            "id": "psa73_sec1_00fc",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo de Asaf.",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa73_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Ciertamente bueno es Dios a Israel, a los limpios de corazón."
+        },
+        {
+            "id": "psa73_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "En cuanto a mí, casi se deslizaron mis pies; por poco resbalaron mis pasos."
+        },
+        {
+            "id": "psa73_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque tuve envidia de los insensatos, viendo la prosperidad de los impíos."
+        },
+        {
+            "id": "psa73_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque no hay dolores en su muerte; antes su fortaleza está entera."
+        },
+        {
+            "id": "psa73_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "No sufren trabajos como los demás mortales; ni son azotados como el resto de los hombres."
+        },
+        {
+            "id": "psa73_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por tanto soberbia los corona; la violencia los cubre como un manto."
+        },
+        {
+            "id": "psa73_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Sus ojos se les saltan de gordura; logran con creces los antojos del corazón."
+        },
+        {
+            "id": "psa73_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Blasfeman, y hablan con maldad de hacer violencia; hablan con altanería."
+        },
+        {
+            "id": "psa73_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Ponen en el cielo su boca, y su lengua pasea la tierra."
+        },
+        {
+            "id": "psa73_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Por eso su pueblo vuelve aquí, y aguas de abundancia son extraídas para ellos."
+        },
+        {
+            "id": "psa73_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y dicen:"
+        },
+        {
+            "id": "psa73_11b",
+            "speaker": "Impíos",
+            "verse": 11,
+            "text": "¿Cómo sabe Dios? ¿Y hay conocimiento en el Altísimo?"
+        },
+        {
+            "id": "psa73_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "He aquí estos impíos, sin ser turbados del mundo, alcanzaron riquezas."
+        },
+        {
+            "id": "psa73_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Verdaderamente en vano he limpiado mi corazón, y lavado mis manos en inocencia;"
+        },
+        {
+            "id": "psa73_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pues he sido azotado todo el día, y castigado cada mañana."
+        },
+        {
+            "id": "psa73_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Si yo hubiera dicho:"
+        },
+        {
+            "id": "psa73_15b",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Así hablaré; he aquí, habría traicionado la generación de tus hijos:"
+        },
+        {
+            "id": "psa73_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Cuando pensé para saber esto; fue duro trabajo para mí,"
+        },
+        {
+            "id": "psa73_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "hasta que entré en el santuario de Dios, entonces entendí la postrimería de ellos."
+        },
+        {
+            "id": "psa73_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Ciertamente los has puesto en deslizaderos; en asolamientos los harás caer."
+        },
+        {
+            "id": "psa73_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "¡Cómo han sido asolados de repente! Fueron enteramente consumidos de terrores."
+        },
+        {
+            "id": "psa73_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Como sueño del que despierta, así, Señor, cuando despertares, menospreciarás su apariencia."
+        },
+        {
+            "id": "psa73_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Mi corazón fue atribulado, y en mis riñones sentía punzadas."
+        },
+        {
+            "id": "psa73_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Tan torpe era yo, y no entendía; era como una bestia delante de ti."
+        },
+        {
+            "id": "psa73_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Con todo, yo siempre estuve contigo; Me tomaste de mi mano derecha."
+        },
+        {
+            "id": "psa73_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Me has guiado según tu consejo, y después me recibirás en gloria."
+        },
+        {
+            "id": "psa73_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "¿A quién tengo yo en los cielos, sino a ti? Y fuera de ti nada deseo en la tierra."
+        },
+        {
+            "id": "psa73_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mi carne y mi corazón desfallecen; mas la Roca de mi corazón y mi porción es Dios para siempre."
+        },
+        {
+            "id": "psa73_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Porque he aquí, los que se alejan de ti perecerán: Tú cortarás a todo aquel que fornicando, se aparta de ti."
+        },
+        {
+            "id": "psa73_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y en cuanto a mí, el acercarme a Dios es el bien; he puesto en el Señor Jehová mi esperanza, para contar todas tus obras."
+        }
+    ]
+}

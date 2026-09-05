@@ -1,0 +1,103 @@
+{
+    "book": "Salmos",
+    "chapter": 91,
+    "title": "Salmos 91",
+    "messages": [
+        {
+            "id": "psa91_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "El que habita al abrigo del Altísimo, morará bajo la sombra del Omnipotente."
+        },
+        {
+            "id": "psa91_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Diré yo a Jehová: Esperanza mía y castillo mío; mi Dios, en Él confiaré."
+        },
+        {
+            "id": "psa91_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Él te librará del lazo del cazador; de la peste destructora."
+        },
+        {
+            "id": "psa91_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Con sus plumas te cubrirá, y debajo de sus alas estarás seguro; escudo y adarga es su verdad."
+        },
+        {
+            "id": "psa91_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "No tendrás temor de espanto nocturno, ni de saeta que vuele de día;"
+        },
+        {
+            "id": "psa91_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "ni de pestilencia que ande en oscuridad, ni de mortandad que en medio del día destruya."
+        },
+        {
+            "id": "psa91_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Caerán a tu lado mil, y diez mil a tu diestra; mas a ti no llegará."
+        },
+        {
+            "id": "psa91_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Ciertamente con tus ojos mirarás, y verás la recompensa de los impíos."
+        },
+        {
+            "id": "psa91_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque has puesto a Jehová, que es mi refugio, al Altísimo por tu habitación,"
+        },
+        {
+            "id": "psa91_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "no te sobrevendrá mal, ni plaga tocará tu morada."
+        },
+        {
+            "id": "psa91_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pues a sus ángeles mandará acerca de ti, que te guarden en todos tus caminos;"
+        },
+        {
+            "id": "psa91_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "en sus manos te sostendrán, para que no tropieces con tu pie en piedra."
+        },
+        {
+            "id": "psa91_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Sobre el león y la serpiente pisarás; hollarás al cachorro del león y al dragón."
+        },
+        {
+            "id": "psa91_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Por cuanto en mí ha puesto su amor, yo también lo libraré; lo pondré en alto, por cuanto ha conocido mi nombre."
+        },
+        {
+            "id": "psa91_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Me invocará, y yo le responderé; con él estaré yo en la angustia; lo libraré, y lo glorificaré."
+        },
+        {
+            "id": "psa91_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Lo saciaré de larga vida y le mostraré mi salvación."
+        }
+    ]
+}

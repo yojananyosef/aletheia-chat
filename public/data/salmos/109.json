@@ -1,0 +1,200 @@
+{
+    "book": "Salmos",
+    "chapter": 109,
+    "title": "Salmos 109",
+    "messages": [
+        {
+            "id": "psa109_sec1_7b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa109_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Dios de mi alabanza, no calles;"
+        },
+        {
+            "id": "psa109_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque la boca del impío y la boca del engañador se han abierto contra mí: Han hablado de mí con lengua mentirosa,"
+        },
+        {
+            "id": "psa109_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y con palabras de odio me rodearon; Y pelearon contra mí sin causa."
+        },
+        {
+            "id": "psa109_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "En pago de mi amor me han sido adversarios; mas yo oraba."
+        },
+        {
+            "id": "psa109_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y me han devuelto mal por bien, y odio por amor."
+        },
+        {
+            "id": "psa109_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pon sobre él al impío; y Satanás esté a su diestra."
+        },
+        {
+            "id": "psa109_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Cuando sea juzgado, salga culpable; y su oración sea para pecado."
+        },
+        {
+            "id": "psa109_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Sean pocos sus días; tome otro su oficio."
+        },
+        {
+            "id": "psa109_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Sean huérfanos sus hijos, y viuda su esposa."
+        },
+        {
+            "id": "psa109_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y anden sus hijos vagabundos, y mendiguen; y procuren su pan lejos de sus desolados hogares."
+        },
+        {
+            "id": "psa109_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Tome el acreedor todo lo que tiene, y extraños saqueen su trabajo."
+        },
+        {
+            "id": "psa109_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "No tenga quien le haga misericordia; ni haya quien tenga compasión de sus huérfanos."
+        },
+        {
+            "id": "psa109_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Su posteridad sea cortada; sea borrado su nombre en la siguiente generación."
+        },
+        {
+            "id": "psa109_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Venga en memoria ante Jehová la maldad de sus padres, y el pecado de su madre no sea borrado."
+        },
+        {
+            "id": "psa109_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Estén siempre delante de Jehová, y Él corte de la tierra su memoria."
+        },
+        {
+            "id": "psa109_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Por cuanto no se acordó de hacer misericordia, y persiguió al hombre afligido y menesteroso y quebrantado de corazón, para matarlo."
+        },
+        {
+            "id": "psa109_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y amó la maldición, y le vino; y no quiso la bendición, y ésta se alejó de él."
+        },
+        {
+            "id": "psa109_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y se vistió de maldición como de su vestidura, y entró como agua en sus entrañas, y como aceite en sus huesos."
+        },
+        {
+            "id": "psa109_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Séale como vestidura con que se cubra, y en lugar de cinto con que se ciña siempre."
+        },
+        {
+            "id": "psa109_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Sea éste el pago de parte de Jehová para los que me calumnian, y para los que hablan mal contra mi alma."
+        },
+        {
+            "id": "psa109_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y tú, Señor Jehová, haz conmigo por amor de tu nombre; líbrame, porque tu misericordia es buena."
+        },
+        {
+            "id": "psa109_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Porque yo estoy afligido y necesitado; y mi corazón está herido dentro de mí."
+        },
+        {
+            "id": "psa109_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Me voy como la sombra cuando declina; soy sacudido como langosta."
+        },
+        {
+            "id": "psa109_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mis rodillas están debilitadas a causa del ayuno, y mi carne desfallecida por falta de gordura."
+        },
+        {
+            "id": "psa109_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Yo he sido para ellos objeto de oprobio; me miraban, y meneaban su cabeza."
+        },
+        {
+            "id": "psa109_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Ayúdame, Jehová Dios mío; sálvame conforme a tu misericordia."
+        },
+        {
+            "id": "psa109_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y entiendan que ésta es tu mano; que tú, Jehová, lo has hecho."
+        },
+        {
+            "id": "psa109_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Maldigan ellos, pero bendice tú; levántense, mas sean avergonzados, y regocíjese tu siervo."
+        },
+        {
+            "id": "psa109_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Sean vestidos de ignominia los que me calumnian; y sean cubiertos de su confusión como con manto."
+        },
+        {
+            "id": "psa109_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Yo alabaré a Jehová en gran manera con mi boca, y en medio de muchos le alabaré."
+        },
+        {
+            "id": "psa109_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Porque Él se pondrá a la diestra del pobre, para librar su alma de los que le juzgan."
+        }
+    ]
+}

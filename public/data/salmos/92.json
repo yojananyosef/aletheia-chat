@@ -1,0 +1,104 @@
+{
+    "book": "Salmos",
+    "chapter": 92,
+    "title": "Salmos 92",
+    "messages": [
+        {
+            "id": "psa92_sec1_41eb",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salmo: Canción para el día del sábado",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa92_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bueno es alabar a Jehová, y cantar salmos a tu nombre, oh Altísimo;"
+        },
+        {
+            "id": "psa92_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "anunciar por la mañana tu misericordia, y tu fidelidad en las noches,"
+        },
+        {
+            "id": "psa92_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "en el decacordio y en el salterio, en tono suave con el arpa."
+        },
+        {
+            "id": "psa92_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Por cuanto me has alegrado, oh Jehová, con tus obras; en las obras de tus manos me gozo."
+        },
+        {
+            "id": "psa92_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¡Cuán grandes son tus obras, oh Jehová! Muy profundos son tus pensamientos."
+        },
+        {
+            "id": "psa92_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "El hombre necio no sabe, y el insensato no entiende esto:"
+        },
+        {
+            "id": "psa92_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Que brotan los impíos como la hierba, y florecen todos los obradores de iniquidad, para ser destruidos para siempre."
+        },
+        {
+            "id": "psa92_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas tú, Jehová, para siempre eres Altísimo."
+        },
+        {
+            "id": "psa92_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque he aquí tus enemigos, oh Jehová, porque he aquí, perecerán tus enemigos; serán disipados todos los obradores de iniquidad."
+        },
+        {
+            "id": "psa92_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pero tú exaltarás mi cuerno como el del unicornio; seré ungido con aceite fresco."
+        },
+        {
+            "id": "psa92_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y mis ojos mirarán mi deseo sobre mis enemigos; oirán mis oídos de los que se levantaron contra mí, de los malignos."
+        },
+        {
+            "id": "psa92_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "El justo florecerá como la palmera; crecerá como cedro en el Líbano."
+        },
+        {
+            "id": "psa92_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Los que están plantados en la casa de Jehová, en los atrios de nuestro Dios florecerán."
+        },
+        {
+            "id": "psa92_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Aun en la vejez fructificarán; estarán vigorosos y verdes;"
+        },
+        {
+            "id": "psa92_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "para anunciar que Jehová es recto: Él es mi Roca, y en Él no hay injusticia."
+        }
+    ]
+}

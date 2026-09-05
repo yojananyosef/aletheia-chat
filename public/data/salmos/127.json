@@ -1,0 +1,44 @@
+{
+    "book": "Salmos",
+    "chapter": 127,
+    "title": "Salmos 127",
+    "messages": [
+        {
+            "id": "psa127_sec1_202b",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cántico gradual: para Salomón",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa127_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Si Jehová no edificare la casa, en vano trabajan los que la edifican; si Jehová no guardare la ciudad, en vano vela la guarda."
+        },
+        {
+            "id": "psa127_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Por demás es que os levantéis de madrugada, y vayáis tarde a reposar, y que comáis pan de dolores; pues que a su amado dará Dios el sueño."
+        },
+        {
+            "id": "psa127_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del vientre."
+        },
+        {
+            "id": "psa127_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Como saetas en mano del valiente, así son los hijos habidos en la juventud."
+        },
+        {
+            "id": "psa127_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Bienaventurado el hombre que llenó su aljaba de ellos; no será avergonzado cuando hablare con los enemigos en la puerta."
+        }
+    ]
+}

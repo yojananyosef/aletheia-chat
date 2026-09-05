@@ -1,0 +1,98 @@
+{
+    "book": "Salmos",
+    "chapter": 148,
+    "title": "Salmos 148",
+    "messages": [
+        {
+            "id": "psa148_sec1_c707",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa148_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Alabad a Jehová desde los cielos; alabadle en las alturas."
+        },
+        {
+            "id": "psa148_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Alabadle, vosotros todos sus ángeles; alabadle, vosotros todos sus ejércitos."
+        },
+        {
+            "id": "psa148_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Alabadle, sol y luna; alabadle, vosotras todas, lucientes estrellas."
+        },
+        {
+            "id": "psa148_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Alabadle, cielos de los cielos, y las aguas que están sobre los cielos."
+        },
+        {
+            "id": "psa148_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Alaben el nombre de Jehová; porque Él mandó, y fueron creados."
+        },
+        {
+            "id": "psa148_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Los estableció eternamente y para siempre; les puso ley que no será quebrantada."
+        },
+        {
+            "id": "psa148_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Alabad a Jehová, desde la tierra, los dragones y todos los abismos;"
+        },
+        {
+            "id": "psa148_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "el fuego y el granizo, la nieve y el vapor, el viento de tempestad que ejecuta su palabra;"
+        },
+        {
+            "id": "psa148_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "los montes y todos los collados; el árbol de fruto y todos los cedros;"
+        },
+        {
+            "id": "psa148_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "La bestia y todo animal, reptiles y volátiles;"
+        },
+        {
+            "id": "psa148_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "los reyes de la tierra y todos los pueblos; los príncipes y todos los jueces de la tierra;"
+        },
+        {
+            "id": "psa148_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "los jóvenes y también las doncellas; los ancianos y los niños."
+        },
+        {
+            "id": "psa148_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Alaben el nombre de Jehová, porque sólo su nombre es sublime; su gloria es sobre tierra y cielos."
+        },
+        {
+            "id": "psa148_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Él ha exaltado el cuerno de su pueblo; alábenle todos sus santos, los hijos de Israel, el pueblo a Él cercano. Aleluya."
+        }
+    ]
+}

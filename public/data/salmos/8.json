@@ -1,0 +1,68 @@
+{
+    "book": "Salmos",
+    "chapter": 8,
+    "title": "Salmos 8",
+    "messages": [
+        {
+            "id": "psa8_sec1_2e84",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Al Músico principal: sobre Gitit: Salmo de David",
+            "isSectionTitle": true
+        },
+        {
+            "id": "psa8_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra, que has puesto tu gloria sobre los cielos!"
+        },
+        {
+            "id": "psa8_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "De la boca de los niños y de los que maman, fundaste la fortaleza, a causa de tus enemigos, para hacer cesar al enemigo y al vengativo."
+        },
+        {
+            "id": "psa8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste:"
+        },
+        {
+            "id": "psa8_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Digo: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, para que lo visites?"
+        },
+        {
+            "id": "psa8_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Le has hecho un poco menor que los ángeles, y lo coronaste de gloria y de honra."
+        },
+        {
+            "id": "psa8_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Le hiciste señorear sobre las obras de tus manos; todo lo pusiste debajo de sus pies;"
+        },
+        {
+            "id": "psa8_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "ovejas y bueyes, todo ello; y también las bestias del campo,"
+        },
+        {
+            "id": "psa8_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "las aves de los cielos y los peces del mar; todo cuanto pasa por los senderos del mar."
+        },
+        {
+            "id": "psa8_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Oh Jehová, Señor nuestro, ¡Cuán grande es tu nombre en toda la tierra!"
+        }
+    ]
+}
