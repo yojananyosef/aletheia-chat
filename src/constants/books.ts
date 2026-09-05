@@ -49,7 +49,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     // --- HISTORIA ---
     { id: 'josue', name: 'Josué', availableChapters: [], isLocked: true, category: 'Historia', description: 'La conquista de la Tierra Prometida.', participants: ['Josué'] },
     { id: 'jueces', name: 'Jueces', availableChapters: [], isLocked: true, category: 'Historia', description: 'El ciclo de desobediencia y liberación de Israel.', participants: ['Gedeón', 'Sansón'] },
-    { id: 'rut', name: 'Rut', availableChapters: [], isLocked: true, category: 'Historia', description: 'Una historia de redención y lealtad.', participants: ['Rut', 'Booz'] },
+    { id: 'rut', name: 'Rut', availableChapters: [1, 2, 3, 4], category: 'Historia', description: 'Una historia de redención y lealtad.', participants: ['Dios', 'Narrador', 'Rut', 'Booz', 'Noemí', 'Nueras', 'Criado', 'Segadores', 'Pariente', 'Ancianos', 'Mujeres', 'Pueblo'] },
     { id: '1samuel', name: '1 Samuel', availableChapters: [], isLocked: true, category: 'Historia', description: 'El surgimiento de la monarquía en Israel.', participants: ['Samuel', 'Saúl', 'David'] },
     { id: '2samuel', name: '2 Samuel', availableChapters: [], isLocked: true, category: 'Historia', description: 'El reinado del rey David.', participants: ['David'] },
     { id: '1reyes', name: '1 Reyes', availableChapters: [], isLocked: true, category: 'Historia', description: 'El esplendor de Salomón y la división del reino.', participants: ['Salomón', 'Elías'] },
@@ -62,7 +62,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
 
     // --- POESÍA ---
     { id: 'job', name: 'Job', availableChapters: [], isLocked: true, category: 'Poesía', description: 'El sufrimiento humano y la soberanía de Dios.', participants: ['Job', 'Dios'] },
-    { id: 'salmos', name: 'Salmos', availableChapters: [], isLocked: true, category: 'Poesía', description: 'Cánticos de adoración, lamento y esperanza.', participants: ['David', 'Asaf'] },
+    { id: 'salmos', name: 'Salmos', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150], category: 'Poesía', description: 'Cánticos de adoración, lamento y esperanza.', participants: ['Dios', 'Narrador', 'David', 'Asaf', 'Impíos', 'Pueblos'] },
     { id: 'proverbios', name: 'Proverbios', availableChapters: [], isLocked: true, category: 'Poesía', description: 'Sabiduría práctica para la vida.', participants: ['Salomón'] },
     { id: 'eclesiastes', name: 'Eclesiastés', availableChapters: [], isLocked: true, category: 'Poesía', description: 'La búsqueda de significado bajo el sol.', participants: ['Predicador'] },
     { id: 'cantares', name: 'Cantares', availableChapters: [], isLocked: true, category: 'Poesía', description: 'La belleza del amor humano y divino.', participants: ['Amado', 'Amada'] },
@@ -79,7 +79,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'joel', name: 'Joel', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'El día del Señor y la promesa del Espíritu.', participants: ['Joel'] },
     { id: 'amos', name: 'Amós', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Justicia social y juicio.', participants: ['Amós'] },
     { id: 'abdias', name: 'Abdías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Juicio contra Edom.', participants: ['Abdías'] },
-    { id: 'jonas', name: 'Jonás', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'La misericordia de Dios hacia las naciones.', participants: ['Jonás'] },
+    { id: 'jonas', name: 'Jonás', availableChapters: [1, 2, 3, 4], category: 'Profetas Menores', description: 'La misericordia de Dios hacia las naciones.', participants: ['Dios', 'Narrador', 'Jonás', 'Marineros', 'Rey de Nínive'] },
     { id: 'miqueas', name: 'Miqueas', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Requerimientos de Dios y nacimiento en Belén.', participants: ['Miqueas'] },
     { id: 'nahum', name: 'Nahum', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Caída de Nínive.', participants: ['Nahum'] },
     { id: 'habacuc', name: 'Habacuc', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Diálogo con Dios sobre la injusticia.', participants: ['Habacuc'] },
