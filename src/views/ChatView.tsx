@@ -2,7 +2,7 @@
 
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
-import { RefreshCw, ShieldCheck, MessageSquare } from 'lucide-react';
+import { RefreshCw, ShieldCheck, MessageSquare, ArrowDown } from 'lucide-react';
 import { AnimatePresence } from 'motion/react';
 
 import { useBibleChat } from '../hooks/useBibleChat';
@@ -63,7 +63,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
     });
 
     const scrollRef = useRef<HTMLDivElement>(null);
-    useScrollOnUpdate(scrollRef, [currentIndex, isAdvancing]);
+    const { isFarFromBottom, scrollToBottom } = useScrollOnUpdate(scrollRef, [currentIndex, isAdvancing]);
 
     const isMessageLiked = (msgId: string) => isFavorite(bookId, msgId);
 
@@ -117,7 +117,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
                     onCloseOptions={() => setShowOptions(false)}
                 />
 
-                <section ref={scrollRef} className="flex-1 overflow-y-auto p-4 md:p-8 lg:p-12 bg-white space-y-10 sm:space-y-12 scroll-smooth pb-32 no-scrollbar">
+                <section ref={scrollRef} data-testid="chat-feed" className="chat-feed flex-1 overflow-y-auto p-4 md:p-8 lg:p-12 bg-white space-y-10 sm:space-y-12 scroll-smooth pb-32 no-scrollbar">
                     {error ? (
                         <div className="py-20 flex flex-col items-center opacity-40 italic">
                             <RefreshCw className="w-10 h-10 mb-4 animate-spin" />
@@ -158,6 +158,17 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
                         </div>
                     )}
                 </section>
+
+                {isFarFromBottom && (
+                    <button
+                        onClick={() => scrollToBottom()}
+                        aria-label="Ir al último mensaje"
+                        data-testid="scroll-down"
+                        className="absolute bottom-28 left-1/2 -translate-x-1/2 z-40 bg-black text-[#FFD600] border-2 border-black rounded-full w-12 h-12 flex items-center justify-center shadow-[3px_3px_0_rgba(0,0,0,0.3)] active:scale-90 transition-all"
+                    >
+                        <ArrowDown className="w-6 h-6" strokeWidth={3} />
+                    </button>
+                )}
 
                 <div className="absolute bottom-0 left-0 right-0 sm:relative">
                     <InputBar

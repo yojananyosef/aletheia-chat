@@ -41,6 +41,9 @@ export default function RootLayout({
 }) {
     return (
         <html lang="es" className={`h-full overflow-hidden selection:bg-yellow-200 ${inter.variable} ${spaceGrotesk.variable}`}>
+            <head>
+                <link rel="preload" href="/sounds/pop.mp3" as="audio" type="audio/mpeg" />
+            </head>
             <body className="h-full overflow-hidden bg-white text-[#0A0A0A] antialiased touch-manipulation">
                 <div id="root" className="h-full overflow-hidden">{children}</div>
             </body>

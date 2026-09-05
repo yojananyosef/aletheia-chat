@@ -43,6 +43,12 @@ h6 {
   @apply transition-all duration-150 ease-out hover:-translate-y-0.5 active:translate-y-0 active:shadow-none;
 }
 
+/* Feed escalable (Fase 2): el navegador salta el render fuera de pantalla. */
+.chat-feed > * {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 120px;
+}
+
 /* Native Mobile Polish */
 .safe-top { padding-top: env(safe-area-inset-top); }
 .safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
