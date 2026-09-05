@@ -4,7 +4,7 @@
     {
       "id": "dijo-con-cita",
       "comment": "Tallos (cubre dijo/dijeron/dicho, respondió/respondieron, llamó, habló...). Los \\b los vuelve unicode-aware run.mjs (rx()). El corte múltiple lo hace el código: corta en cada 'verbo+:' válido, donde válido = primer corte del verso O segmento con fin de frase (?!.…) antes de la cola narrativa. Así '¿Conque Dios os ha dicho: No comáis...?' NO se fragmenta, pero '¿Quién te ha puesto...? Entonces Moisés tuvo miedo, y dijo: Ciertamente...' SÍ (burb1 Hebreo, narr, burb2 Moisés).",
-      "verbStem": "(dij[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+)",
+      "verbStem": "(dij[\\p{L}\\p{N}_]+|diciendo|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+)",
       "flags": "i",
       "minSpeechLen": 2
     }
@@ -23,6 +23,11 @@
     { "id": "hermana", "pattern": "\\b(su hermana|la hermana|hermana)\\b", "flags": "i", "speaker": "Hermana", "confidence": 0.85 },
     { "id": "reuel", "pattern": "\\b(reuel)\\b", "flags": "i", "speaker": "Reuel", "confidence": 0.9 },
     { "id": "jetro", "pattern": "\\b(jetro|jethro)\\b", "flags": "i", "speaker": "Jetro", "confidence": 0.9 },
+    { "id": "jesus", "pattern": "\\bjes[úu]s\\b", "flags": "i", "speaker": "Jesús", "confidence": 0.9 },
+    { "id": "pablo", "pattern": "\\bpablo\\b", "flags": "i", "speaker": "Pablo", "confidence": 0.9 },
+    { "id": "satan", "pattern": "\\bsatan[áa]s\\b", "flags": "i", "speaker": "Satán", "confidence": 0.85 },
+    { "id": "jonas", "pattern": "\\bjon[áa]s\\b", "flags": "i", "speaker": "Jonás", "confidence": 0.9 },
+    { "id": "marineros", "pattern": "\\b(maestre|marineros?|los de la nave)\\b", "flags": "i", "speaker": "Marineros", "confidence": 0.8 },
     { "id": "eva", "pattern": "\\b(eva)\\b", "flags": "i", "speaker": "Eva", "confidence": 0.9 }
   ],
   "aliases": {

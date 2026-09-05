@@ -28,7 +28,25 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, '..', '..');
 const GATEWAY = '/home/j/proyectos/alethia-gateway/public/data/bibles';
 
-const CODE_BY_SLUG = { genesis: 'GEN', exodus: 'EXO' };
+/** Slug bible-app-naas -> código gateway (SpaRVG/RV1909/Platense comparten códigos). */
+export const CODE_BY_SLUG = {
+  genesis: 'GEN', exodus: 'EXO', levitico: 'LEV', numeros: 'NUM', deuteronomio: 'DEU',
+  josue: 'JOS', jueces: 'JDG', rut: 'RUT', '1samuel': '1SA', '2samuel': '2SA',
+  '1reyes': '1KI', '2reyes': '2KI', '1cronicas': '1CH', '2cronicas': '2CH',
+  esdras: 'EZR', nehemias: 'NEH', ester: 'EST', job: 'JOB', salmos: 'PSA',
+  proverbios: 'PRO', eclesiastes: 'ECC', cantares: 'SNG', isaias: 'ISA',
+  jeremias: 'JER', lamentaciones: 'LAM', ezequiel: 'EZK', daniel: 'DAN',
+  oseas: 'HOS', joel: 'JOL', amos: 'AMO', abdias: 'OBA', jonas: 'JON',
+  miqueas: 'MIC', nahum: 'NAM', habacuc: 'HAB', sofonias: 'ZEP', hageo: 'HAG',
+  zacarias: 'ZEC', malaquias: 'MAL', mateo: 'MAT', marcos: 'MRK', lucas: 'LUK',
+  juan: 'JHN', hechos: 'ACT', romanos: 'ROM', '1corintios': '1CO', '2corintios': '2CO',
+  galatas: 'GAL', efesios: 'EPH', filipenses: 'PHP', colosenses: 'COL',
+  '1tesalonicenses': '1TH', '2tesalonicenses': '2TH', '1timoteo': '1TI',
+  '2timoteo': '2TI', tito: 'TIT', filemon: 'PHM', hebreos: 'HEB', santiago: 'JAS',
+  '1pedro': '1PE', '2pedro': '2PE', '1juan': '1JN', '2juan': '2JN', '3juan': '3JN',
+  judas: 'JUD', revelation: 'REV',
+};
+// IDs históricos cortos para génesis/éxodo (compat localStorage); resto = código gateway.
 const ABBR_BY_SLUG = { genesis: 'g', exodus: 'e' };
 
 function parseArgs(argv) {
@@ -72,7 +90,7 @@ function rxRule(rule, global = false) {
   return rx(rule.pattern, rule.flags ?? 'i', global);
 }
 
-const DICENDI_RE = rx('\\b(dij[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+)\\b', 'i');
+const DICENDI_RE = rx('\\b(dij[\\p{L}]+|diciendo|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+)\\b', 'i');
 
 /**
  * Sujeto del verbo dicendi: PRIMER candidato (el sujeto suele ir primero en español).
@@ -155,7 +173,7 @@ function findCuts(text, verbStem, flags) {
 export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, patterns, participants }) {
   const messages = [];
   const diagnosis = [];
-  const abbr = ABBR_BY_SLUG[slug] ?? slug[0];
+  const abbr = ABBR_BY_SLUG[slug] ?? (CODE_BY_SLUG[slug] ?? slug).toLowerCase();
   const verbStem = patterns.splits[0].verbStem;
   const splitFlags = patterns.splits[0].flags ?? 'i';
   const minSpeechLen = patterns.splits[0].minSpeechLen ?? 2;
@@ -292,6 +310,10 @@ function main() {
 
   if (!args.write) {
     console.log(`# ${slug} cap ${args.chapter} · fuente ${args.source} · ${messages.length} mensajes · ${ambiguous.length} ambiguos`);
+    // Versos que terminan en ':' (diciendo:/dijo:) sin discurso propio: el discurso
+    // continúa en el verso siguiente, que el pipeline deja como Narrador. Revisar a mano.
+    const dangling = verses.filter(v => /:\s*$/.test(v.text ?? '')).map(v => v.number);
+    if (dangling.length) console.log(`# AVISO discurso continuado: versos ${dangling.join(', ')} terminan en ':' — verificar speaker del verso siguiente`);
     console.log('verse\tsub\tspeaker\tconf\trule\tambiguous\ttext…');
     for (const d of diagnosis) {
       const msg = messages.find(mm => mm.verse === d.verse && mm.id.endsWith(d.subId || `${d.verse}`));

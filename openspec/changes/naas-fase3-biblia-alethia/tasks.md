@@ -2,7 +2,12 @@
 
 ## 1. Scaffolding
 - [x] 1.1 `scripts/attribute-speakers/{patterns.es.json,participants.json,run.mjs,llm-review.mjs,schema.json,README.md}` creados.
-- [x] 1.2 `participants.json` génesis/éxodo completo (Dios, Serpiente, Mujer, Adán, Moisés, Faraón, Reuel, Séfora, Parteras, Hija de Faraón, Hermana, Hijas, Hebreo). Resto de libros pendiente.
+- [x] 1.2 `participants.json` completo 66 libros (+Marineros/Jonás); `CODE_BY_SLUG` 66 códigos gateway (exportado, reuse en `llm-review`); ids nuevos = código gateway en minúsculas (`g/e` históricos se conservan).
+
+## 1b. Extensión validada (smoke)
+- [x] 1b.1 Reglas Jesús/Pablo/Satán/Jonás/Marineros; tallo `diciendo`; aviso de discurso continuado (`verso termina en ':'`).
+- [x] 1b.2 Test canon: JOB 1:7 Satán + JON 1:6 Marineros (`node --test` 5/5).
+- [ ] 1b.3 Ingerir próximos libros (sugerido: `rut`, `jonas`, `salmos 23`): `--dry-run` → `reviewed/` → `--apply --write` → actualizar `availableChapters/isLocked` en `books.ts` (la Home aún lee el catálogo estático; `page.tsx` ya genera SSG desde FS).
 
 ## 2. Heurística
 - [x] 2.1 `run.mjs --book genesis --chapter 3 --source SpaRVG` parte discurso y asigna speaker; `--dry-run` imprime tabla verso→speaker→rule→confidence (GEN1 0 sayer-ambiguos, GEN3 4 ambiguos con defaults correctos).

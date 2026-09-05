@@ -15,11 +15,10 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
-import { attributeChapter } from './run.mjs';
+import { attributeChapter, CODE_BY_SLUG } from './run.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-const GATEWAY = '/home/j/proyectos/alethia-gateway/public/data/bibles';
-const CODE_BY_SLUG = { genesis: 'GEN', exodus: 'EXO' };
+const GATEWAY = '/home/j/proyectos/alethia-gateway/public/data/bibles/SpaRVG';
 
 function arg(name, def) {
   const i = process.argv.indexOf(name);

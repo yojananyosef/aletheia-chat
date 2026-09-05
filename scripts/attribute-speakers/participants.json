@@ -1,6 +1,444 @@
 {
   "$comment": "Vocabulario cerrado por libro (slug bible-app-naas). Speaker fuera de lista => ambiguous.",
-  "genesis": ["Dios", "Narrador", "Sistema", "Adán", "Eva", "Mujer", "Serpiente", "Caín", "Abel", "Noé", "Abraham", "Sara", "Isaac", "Jacob", "José"],
-  "exodus": ["Dios", "Narrador", "Sistema", "Moisés", "Faraón", "Aarón", "Séfora", "Jetro", "Reuel", "Parteras", "Hija de Faraón", "Hermana", "Hijas", "Hebreo"],
-  "_default": ["Dios", "Narrador", "Sistema"]
+  "genesis": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Adán",
+    "Eva",
+    "Mujer",
+    "Serpiente",
+    "Caín",
+    "Abel",
+    "Noé",
+    "Abraham",
+    "Sara",
+    "Isaac",
+    "Jacob",
+    "José"
+  ],
+  "exodus": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Moisés",
+    "Faraón",
+    "Aarón",
+    "Séfora",
+    "Jetro",
+    "Reuel",
+    "Parteras",
+    "Hija de Faraón",
+    "Hermana",
+    "Hijas",
+    "Hebreo"
+  ],
+  "levitico": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Moisés"
+  ],
+  "numeros": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Moisés"
+  ],
+  "deuteronomio": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Moisés"
+  ],
+  "josue": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Josué"
+  ],
+  "jueces": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Gedeón",
+    "Sansón"
+  ],
+  "rut": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Rut",
+    "Booz"
+  ],
+  "1samuel": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Samuel",
+    "Saúl",
+    "David"
+  ],
+  "2samuel": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "David"
+  ],
+  "1reyes": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Salomón",
+    "Elías"
+  ],
+  "2reyes": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Eliseo"
+  ],
+  "1cronicas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "David"
+  ],
+  "2cronicas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Salomón"
+  ],
+  "esdras": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Esdras"
+  ],
+  "nehemias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Nehemías"
+  ],
+  "ester": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Ester",
+    "Mardoqueo"
+  ],
+  "job": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Job",
+    "Satán"
+  ],
+  "salmos": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "David",
+    "Asaf"
+  ],
+  "proverbios": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Salomón"
+  ],
+  "eclesiastes": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Predicador"
+  ],
+  "cantares": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Amado",
+    "Amada"
+  ],
+  "isaias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Isaías"
+  ],
+  "jeremias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jeremías"
+  ],
+  "lamentaciones": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jeremías"
+  ],
+  "ezequiel": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Ezequiel"
+  ],
+  "daniel": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Daniel"
+  ],
+  "oseas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Oseas"
+  ],
+  "joel": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Joel"
+  ],
+  "amos": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Amós"
+  ],
+  "abdias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Abdías"
+  ],
+  "jonas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jonás",
+    "Marineros"
+  ],
+  "miqueas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Miqueas"
+  ],
+  "nahum": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Nahum"
+  ],
+  "habacuc": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Habacuc"
+  ],
+  "sofonias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Sofonías"
+  ],
+  "hageo": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Hageo"
+  ],
+  "zacarias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Zacarías"
+  ],
+  "malaquias": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Malaquías"
+  ],
+  "mateo": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jesús",
+    "Mateo"
+  ],
+  "marcos": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jesús"
+  ],
+  "lucas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jesús"
+  ],
+  "juan": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jesús",
+    "Juan"
+  ],
+  "hechos": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pedro",
+    "Pablo",
+    "Espíritu Santo",
+    "Jesús"
+  ],
+  "romanos": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "1corintios": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "2corintios": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "galatas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "efesios": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "filipenses": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "colosenses": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "1tesalonicenses": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "2tesalonicenses": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "1timoteo": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo",
+    "Timoteo"
+  ],
+  "2timoteo": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo",
+    "Timoteo"
+  ],
+  "tito": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "filemon": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pablo"
+  ],
+  "hebreos": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Autor anónimo"
+  ],
+  "santiago": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Santiago"
+  ],
+  "1pedro": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pedro"
+  ],
+  "2pedro": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Pedro"
+  ],
+  "1juan": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Juan"
+  ],
+  "2juan": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Juan"
+  ],
+  "3juan": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Juan"
+  ],
+  "judas": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Judas"
+  ],
+  "revelation": [
+    "Dios",
+    "Narrador",
+    "Sistema",
+    "Jesús",
+    "Juan",
+    "Ángeles"
+  ],
+  "_default": [
+    "Dios",
+    "Narrador",
+    "Sistema"
+  ]
 }

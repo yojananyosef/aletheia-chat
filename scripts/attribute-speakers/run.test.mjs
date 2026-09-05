@@ -55,4 +55,15 @@ describe('attribute-speakers (heurística)', () => {
       assert.ok(m.id && m.speaker && m.verse && typeof m.text === 'string' && m.text.length > 0);
     }
   });
+
+  it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
+    const job = run('job', 'JOB', 1);
+    const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));
+    assert.ok(satan, 'burbuja de Satán JOB 1:7 existe');
+    assert.equal(satan.speaker, 'Satán');
+    const jon = run('jonas', 'JON', 1);
+    const marineros = jon.messages.find(m => m.verse === 6 && /dormil/.test(m.text));
+    assert.ok(marineros, 'burbuja de Marineros JON 1:6 existe');
+    assert.equal(marineros.speaker, 'Marineros');
+  });
 });
