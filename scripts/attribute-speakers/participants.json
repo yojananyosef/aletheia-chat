@@ -69,7 +69,15 @@
     "Narrador",
     "Sistema",
     "Rut",
-    "Booz"
+    "Booz",
+    "Noemí",
+    "Nueras",
+    "Criado",
+    "Segadores",
+    "Pariente",
+    "Ancianos",
+    "Mujeres",
+    "Pueblo"
   ],
   "1samuel": [
     "Dios",
@@ -141,7 +149,9 @@
     "Narrador",
     "Sistema",
     "David",
-    "Asaf"
+    "Asaf",
+    "Impíos",
+    "Pueblos"
   ],
   "proverbios": [
     "Dios",
@@ -221,7 +231,8 @@
     "Narrador",
     "Sistema",
     "Jonás",
-    "Marineros"
+    "Marineros",
+    "Rey de Nínive"
   ],
   "miqueas": [
     "Dios",

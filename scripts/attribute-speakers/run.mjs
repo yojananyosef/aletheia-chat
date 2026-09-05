@@ -90,7 +90,7 @@ function rxRule(rule, global = false) {
   return rx(rule.pattern, rule.flags ?? 'i', global);
 }
 
-const DICENDI_RE = rx('\\b(dij[\\p{L}]+|diciendo|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+)\\b', 'i');
+const DICENDI_RE = rx('\\b(dij[\\p{L}]+|dic[\\p{L}]+|dec[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+|replic[\\p{L}]+)\\b', 'i');
 
 /**
  * Sujeto del verbo dicendi: PRIMER candidato (el sujeto suele ir primero en español).
@@ -126,19 +126,47 @@ function detectSayer(narratorPart, patterns) {
   // "a la cual dijo la hija de Faraón" → Hija de Faraón). Si no, default-Dios ambiguo.
   const verbM = narratorPart.match(DICENDI_RE);
   const verbIdx = verbM && verbM.index != null ? verbM.index : -1;
+  const verbEnd = verbIdx >= 0 ? verbIdx + verbM[0].length : -1;
   if (/^\s*(y\s+)?a(l)?\s+/i.test(narratorPart) && !deduped.some(h => verbIdx >= 0 && h.idx > verbIdx)) return null;
-  // Solo compiten los candidatos ANTES del verbo (sujetos). Lo que va después ("dijo a la
-  // mujer", "llamó Dios ... a Adán") es destinatario, no sayer alternativo.
-  // (verbM/verbIdx ya calculados arriba para la regla de destino antepuesto.)
-  const pre = verbIdx >= 0 ? deduped.filter(h => h.idx <= verbIdx) : deduped;
-  if (!pre.length) {
-    // Orden VSO: verbo primero, sujeto justo después ("Y dijo Moisés a Dios" -> Moisés;
-    // "Y respondió Dios a Moisés" -> Dios). El 2º sustantivo es el destinatario ("a Dios").
-    const first = deduped[0];
-    return { speaker: first.speaker, confidence: first.confidence, rule: `sayer-vso-${first.rule}` };
+  // VSO PRIMERO: sujeto post-verbal no introducido por a/al ("Y Noemí le dijo:" ->
+  // Noemí; "Y dijo Moisés a Dios" -> Moisés). Gana a menciones pre-verbales ("Sea
+  // él bendito de Jehová... Y Noemí le dijo:" hablaba Noemí, no Dios — RUT 2:20).
+  // Con a/al es destinatario ("dijo a la mujer") y se ignora.
+  if (verbEnd >= 0) {
+    // Destinatario = preposición a/al justo antes del candidato ("dijo Moisés a
+    // Dios", "dijo a su nuera"): se mira el FINAL del hueco verbo→candidato.
+    const isDest = (h) => /(^|\s)a(l)?(\s+\S+){0,3}\s*$/i.test(narratorPart.slice(verbEnd, h.idx));
+    const post = deduped.filter(h => h.idx > verbIdx && !isDest(h));
+    if (post.length) {
+      const distinct = new Set(post.map(h => h.speaker));
+      const first = post[0];
+      if (distinct.size > 1) {
+        return { speaker: first.speaker, confidence: 0.5, rule: `sayer-vso-multi-${first.rule}`, multi: true };
+      }
+      return { speaker: first.speaker, confidence: first.confidence, rule: `sayer-vso-${first.rule}` };
+    }
   }
+  // Sin sujeto post-verbal: compiten los candidatos ANTES del verbo (sujetos),
+  // salvo que vayan introducidos por a/al ("oró a Jehová, y dijo:" habla Jonás,
+  // no Dios — JON 4:2): el objeto de "a" es destinatario, nunca sujeto.
+  const pre = (verbIdx >= 0 ? deduped.filter(h => h.idx <= verbIdx) : deduped)
+    .filter(h => !/(^|\s)a(l)?\s*$/i.test(narratorPart.slice(0, h.idx)))
+    // Vocativo ("oh Jehová") y complementos ("en Jehová he confiado", "hablaron
+    // contra Dios", "el nombre de Jehová") no son sujeto (PSA 11:1, 31:14, 78:19).
+    .filter(h => !/(^|\s)(oh|en|contra|nombre de)\s*$/i.test(narratorPart.slice(0, h.idx)));
+  if (!pre.length) return null;
   const distinct = new Set(pre.map(h => h.speaker));
   const first = pre[0];
+  // Sujeto pronominal ("Y ella contó a su suegra... y dijo:" habla Rut, no la
+  // suegra — RUT 2:19): con ella/él/este/esta + candidato nominal, a revisión.
+  // OJO: \b nativo es ASCII-only ("ésta" no tiene borde); usar rx() unicode-aware.
+  // Solo pronombres (tildados o 1ª/2ª persona): "el" solo es artículo.
+  // yo/tú/ti/conmigo/contigo/mí resuelven correferencia imposible ("Mas yo en ti
+  // confié... yo dije:" habla David, no Jehová — PSA 31:14; "tú les respondías" 99:8).
+  const pronounSubj = rx('\\b(ella|él|este|esta|[eé]ste|[eé]sta|yo|tú|ti|conmigo|contigo|mí)\\b', 'i').test(narratorPart);
+  if (pronounSubj) {
+    return { speaker: first.speaker, confidence: Math.min(first.confidence, 0.7), rule: `sayer-pron-${first.rule}`, multi: true };
+  }
   if (distinct.size > 1) {
     return { speaker: first.speaker, confidence: 0.5, rule: `sayer-multi-${first.rule}`, multi: true };
   }
@@ -152,8 +180,12 @@ function detectSayer(narratorPart, patterns) {
  * narrativa. Evita fragmentar citas internas ("ha dicho: No comáis...").
  * La segmentación usa los STARTS: narr_k = text[s_k:e_k], speech_k = text[e_k:s_{k+1}].
  */
-function findCuts(text, verbStem, flags) {
-  const cutRe = new RegExp(`(?<![\\p{L}\\p{N}_])(?:${verbStem})(?![\\p{L}\\p{N}_])[^:]*:`, flags.includes('u') ? flags + 'g' : flags + 'ug');
+export function findCuts(text, verbStem, flags) {
+  // Gap templado: el corte empieza en el dicendi MÁS CERCANO al ':' ("bendito...
+  // dijo:" corta en "dijo:", no en "bendito"). Sin esto el [^:]* tragaba discurso
+  // intermedio (RUT 2:20 partía "Sea él bendito..." por la mitad).
+  const gap = `((?:(?!${verbStem})[^:])*)`;
+  const cutRe = new RegExp(`(?<![\\p{L}\\p{N}_])(?:${verbStem})(?![\\p{L}\\p{N}_])${gap}:`, flags.includes('u') ? flags + 'g' : flags + 'ug');
   const cuts = [];
   let lastEnd = 0;
   for (const m of text.matchAll(cutRe)) {
@@ -188,14 +220,22 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
   for (const v of verses) {
     const verseNum = v.number;
     const headings = [...(v.headings ?? []), ...(headingsByVerse[String(verseNum)] ?? [])].filter(Boolean);
+    let rawText = (v.text ?? '').trim();
+    // Encabezado incrustado SpaRVG («Salmo de David.» al inicio del verso, 124 casos
+    // solo en PSA): extraer a título Sistema en vez de contaminar el versículo.
+    const leadQuote = rawText.match(/^«([^»]+)»\s*([\s\S]*)$/);
+    if (leadQuote && leadQuote[2].trim()) {
+      headings.unshift(leadQuote[1].trim());
+      rawText = leadQuote[2].trim();
+    }
     // 1. headings -> títulos Sistema (solo el primero no genérico por verso para no duplicar)
     for (const h of headings) {
       const hid = `${abbr}${chapter}_sec${verseNum}_${createHash('sha1').update(h).digest('hex').slice(0, 4)}`;
       messages.push({ id: hid, speaker: 'Sistema', verse: verseNum, text: h, isSectionTitle: true });
-      diagnosis.push({ verse: verseNum, subId: '', speaker: 'Sistema', confidence: 0.95, rule: 'heading', ambiguous: false });
+        diagnosis.push({ verse: verseNum, subId: 'h', speaker: 'Sistema', confidence: 0.95, rule: 'heading', ambiguous: false });
     }
 
-    const text = (v.text ?? '').trim();
+    const text = rawText;
     if (!text) continue;
     const cuts = findCuts(text, verbStem, splitFlags);
 
@@ -262,9 +302,14 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         // Si el verso es pregunta/cita directa (¿...? / ¡...! / “...”), atribuir; si no, Narrador.
         const looksQuoted = /^[¿¡"“]/.test(text) || /[?!”"]\s*$/.test(text);
         if (looksQuoted) {
-          const ambiguous = hit.confidence < 0.8;
+          // Mención ≠ hablante (RUT 1:13/21 mencionan a Jehová pero habla Noemí;
+          // "llamaréis" no es verbo dicendi aunque case con llam-). La atribución
+          // por mención sin corte siempre va a revisión (capa 0.75); los casos
+          // genuinos ("dijo Dios:" etc.) ya salieron por la vía de cortes.
+          const confidence = Math.min(hit.confidence, 0.75);
+          const ambiguous = true;
           pushMsg(verseNum, '', hit.speaker, text);
-          diagnosis.push({ verse: verseNum, subId: '', speaker: hit.speaker, confidence: hit.confidence, rule: hit.rule, ambiguous });
+          diagnosis.push({ verse: verseNum, subId: '', speaker: hit.speaker, confidence, rule: hit.rule, ambiguous });
         } else {
           pushMsg(verseNum, '', 'Narrador', text);
           diagnosis.push({ verse: verseNum, subId: '', speaker: 'Narrador', confidence: 0.55, rule: 'fallback-narrator', ambiguous: false });
@@ -310,10 +355,12 @@ function main() {
 
   if (!args.write) {
     console.log(`# ${slug} cap ${args.chapter} · fuente ${args.source} · ${messages.length} mensajes · ${ambiguous.length} ambiguos`);
-    // Versos que terminan en ':' (diciendo:/dijo:) sin discurso propio: el discurso
-    // continúa en el verso siguiente, que el pipeline deja como Narrador. Revisar a mano.
-    const dangling = verses.filter(v => /:\s*$/.test(v.text ?? '')).map(v => v.number);
-    if (dangling.length) console.log(`# AVISO discurso continuado: versos ${dangling.join(', ')} terminan en ':' — verificar speaker del verso siguiente`);
+    // Discurso continuado: verso con ':' (final o medio, ej. RUT 1:8b "...madre:
+    // Jehová haga...") cuyo verso siguiente NO tiene cortes → el siguiente queda
+    // como Narrador aunque sea discurso. Revisar a mano.
+    const cutVerses = new Set(verses.filter(v => findCuts(v.text ?? '', patterns.splits[0].verbStem, patterns.splits[0].flags ?? 'i').length).map(v => v.number));
+    const dangling = verses.filter(v => /:/.test(v.text ?? '') && !cutVerses.has(v.number) && !cutVerses.has(v.number + 1)).map(v => v.number);
+    if (dangling.length) console.log(`# AVISO posible discurso continuado tras versos ${dangling.join(', ')} — verificar speaker del verso siguiente`);
     console.log('verse\tsub\tspeaker\tconf\trule\tambiguous\ttext…');
     for (const d of diagnosis) {
       const msg = messages.find(mm => mm.verse === d.verse && mm.id.endsWith(d.subId || `${d.verse}`));

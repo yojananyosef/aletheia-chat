@@ -56,6 +56,30 @@ describe('attribute-speakers (heurística)', () => {
     }
   });
 
+  it('mención sin dicendi no atribuye confiada: RUT 1:13/21 van a revisión', () => {
+    const { diagnosis } = run('rut', 'RUT', 1);
+    for (const v of [13, 21]) {
+      const d = diagnosis.find(dd => dd.verse === v);
+      assert.ok(d?.ambiguous, `verso ${v} ambiguo (mención Jehová ≠ hablante)`);
+    }
+  });
+
+  it('encabezado «...» inicial de PSA se extrae a título Sistema', () => {
+    const { messages } = run('salmos', 'PSA', 23);
+    const title = messages.find(m => m.verse === 1 && m.isSectionTitle);
+    assert.ok(title, 'título Sistema en PSA 23:1');
+    assert.equal(title.speaker, 'Sistema');
+    const verse = messages.find(m => m.verse === 1 && !m.isSectionTitle);
+    assert.ok(verse && !verse.text.startsWith('«'), 'versículo sin encabezado incrustado');
+  });
+
+  it('decir-familia corta: JON 3:4 pregonaba diciendo → Jonás', () => {
+    const { messages } = run('jonas', 'JON', 3);
+    const proclama = messages.find(m => m.verse === 4 && /cuarenta d[íi]as/.test(m.text));
+    assert.ok(proclama, 'proclama de Jonás JON 3:4 existe');
+    assert.equal(proclama.speaker, 'Jonás');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));

@@ -7,7 +7,8 @@
 ## 1b. Extensión validada (smoke)
 - [x] 1b.1 Reglas Jesús/Pablo/Satán/Jonás/Marineros; tallo `diciendo`; aviso de discurso continuado (`verso termina en ':'`).
 - [x] 1b.2 Test canon: JOB 1:7 Satán + JON 1:6 Marineros (`node --test` 5/5).
-- [ ] 1b.3 Ingerir próximos libros (sugerido: `rut`, `jonas`, `salmos 23`): `--dry-run` → `reviewed/` → `--apply --write` → actualizar `availableChapters/isLocked` en `books.ts` (la Home aún lee el catálogo estático; `page.tsx` ya genera SSG desde FS).
+- [x] 1b.3 Ingeridos `rut` 1-4 (143 msgs), `jonas` 1-4 (68 msgs), `salmos` 1-150 (2664 msgs): `--dry-run` → `reviewed/` (8+80 ficheros) → `--apply --write` → `availableChapters` activos en `books.ts` (Rut/Jonás/Salmos desbloqueados).
+- [x] 1b.4 Fixes de precisión descubiertos en la revisión: gap templado en `findCuts` (corte en dicendi más cercano al `:`), VSO-primero con destinatario `a/al`, exclusión pre-verbal `a|oh|en|contra|nombre de`, degradado pronominal (ella/él/yo/tú/ti/mí...), mención-sin-corte siempre a revisión, tallos `dic|dec|replic`, extracción de encabezado `«...»` a título Sistema, aviso de continuación extendido. Voces nuevas: Noemí, Nueras, Criado, Segadores, Pariente, Ancianos, Mujeres, Pueblo, Rey de Nínive, Impíos, Pueblos.
 
 ## 2. Heurística
 - [x] 2.1 `run.mjs --book genesis --chapter 3 --source SpaRVG` parte discurso y asigna speaker; `--dry-run` imprime tabla verso→speaker→rule→confidence (GEN1 0 sayer-ambiguos, GEN3 4 ambiguos con defaults correctos).

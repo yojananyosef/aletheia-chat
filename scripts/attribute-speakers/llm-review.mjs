@@ -34,7 +34,7 @@ const code = CODE_BY_SLUG[slug];
 
 const patterns = JSON.parse(readFileSync(join(HERE, 'patterns.es.json'), 'utf8'));
 const participants = JSON.parse(readFileSync(join(HERE, 'participants.json'), 'utf8'));
-const srcBook = JSON.parse(readFileSync(join(GATEWAY, source, `${code}.json`), 'utf8'));
+const srcBook = JSON.parse(readFileSync(join(GATEWAY, `${code}.json`), 'utf8'));
 const verses = srcBook.chapters[String(chapter)]?.verses ?? [];
 const { diagnosis } = attributeChapter({ verses, slug, chapter, patterns, participants });
 const ambiguous = diagnosis.filter(d => d.ambiguous);

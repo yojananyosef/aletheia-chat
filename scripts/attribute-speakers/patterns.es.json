@@ -4,7 +4,7 @@
     {
       "id": "dijo-con-cita",
       "comment": "Tallos (cubre dijo/dijeron/dicho, respondió/respondieron, llamó, habló...). Los \\b los vuelve unicode-aware run.mjs (rx()). El corte múltiple lo hace el código: corta en cada 'verbo+:' válido, donde válido = primer corte del verso O segmento con fin de frase (?!.…) antes de la cola narrativa. Así '¿Conque Dios os ha dicho: No comáis...?' NO se fragmenta, pero '¿Quién te ha puesto...? Entonces Moisés tuvo miedo, y dijo: Ciertamente...' SÍ (burb1 Hebreo, narr, burb2 Moisés).",
-      "verbStem": "(dij[\\p{L}\\p{N}_]+|diciendo|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+)",
+      "verbStem": "(dij[\\p{L}\\p{N}_]+|dic[\\p{L}\\p{N}_]+|dec[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+|replic[\\p{L}\\p{N}_]+)",
       "flags": "i",
       "minSpeechLen": 2
     }
@@ -28,6 +28,17 @@
     { "id": "satan", "pattern": "\\bsatan[áa]s\\b", "flags": "i", "speaker": "Satán", "confidence": 0.85 },
     { "id": "jonas", "pattern": "\\bjon[áa]s\\b", "flags": "i", "speaker": "Jonás", "confidence": 0.9 },
     { "id": "marineros", "pattern": "\\b(maestre|marineros?|los de la nave)\\b", "flags": "i", "speaker": "Marineros", "confidence": 0.8 },
+    { "id": "noemi", "pattern": "\\b(noem[íi]|suegra)\\b", "flags": "i", "speaker": "Noemí", "confidence": 0.9 },
+    { "id": "nueras", "pattern": "\\b(nueras?|orfa)\\b", "flags": "i", "speaker": "Nueras", "confidence": 0.8 },
+    { "id": "rut", "pattern": "\\bruth?\\b", "flags": "i", "speaker": "Rut", "confidence": 0.9 },
+    { "id": "booz", "pattern": "\\bbo[ao]z\\b", "flags": "i", "speaker": "Booz", "confidence": 0.95 },
+    { "id": "segadores", "pattern": "\\b(segadores?)\\b", "flags": "i", "speaker": "Segadores", "confidence": 0.8 },
+    { "id": "criado", "pattern": "\\b(siervo|mayordomo|criados?)\\b", "flags": "i", "speaker": "Criado", "confidence": 0.8 },
+    { "id": "pariente", "pattern": "\\bpariente\\b", "flags": "i", "speaker": "Pariente", "confidence": 0.85 },
+    { "id": "ancianos", "pattern": "\\b(ancianos?)\\b", "flags": "i", "speaker": "Ancianos", "confidence": 0.85 },
+    { "id": "mujeres", "pattern": "\\b(mujeres|vecinas?)\\b", "flags": "i", "speaker": "Mujeres", "confidence": 0.8 },
+    { "id": "rey-ninive", "pattern": "\\b(r[ée]y de n[íi]nive)\\b", "flags": "i", "speaker": "Rey de Nínive", "confidence": 0.85 },
+    { "id": "impios", "pattern": "\\b(necios?|imp[íi]os?)\\b", "flags": "i", "speaker": "Impíos", "confidence": 0.8 },
     { "id": "eva", "pattern": "\\b(eva)\\b", "flags": "i", "speaker": "Eva", "confidence": 0.9 }
   ],
   "aliases": {
