@@ -1,0 +1,6 @@
+{
+  "$comment": "Vocabulario cerrado por libro (slug bible-app-naas). Speaker fuera de lista => ambiguous.",
+  "genesis": ["Dios", "Narrador", "Sistema", "Adán", "Eva", "Mujer", "Serpiente", "Caín", "Abel", "Noé", "Abraham", "Sara", "Isaac", "Jacob", "José"],
+  "exodus": ["Dios", "Narrador", "Sistema", "Moisés", "Faraón", "Aarón", "Séfora", "Jetro", "Parteras", "Hija de Faraón"],
+  "_default": ["Dios", "Narrador", "Sistema"]
+}

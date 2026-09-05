@@ -1,0 +1,35 @@
+{
+  "$comment": "Regex de atribución speaker (orden de aplicación). group speaker normalizado vía aliases.",
+  "splits": [
+    {
+      "id": "dijo-con-cita",
+      "pattern": "^(.*?\\b(?:dijo|respondió|llamó|bendijo|habló|clamó|preguntó|contestó)\\b[^:]*:)\\s*(.+)$",
+      "flags": "i",
+      "narratorPart": "$1",
+      "speechPart": "$2",
+      "minSpeechLen": 2
+    }
+  ],
+  "speakerRules": [
+    { "id": "jehova-dios", "pattern": "\\b(jehov[aá]\\s+dios|dios)\\b", "flags": "i", "speaker": "Dios", "confidence": 0.95 },
+    { "id": "jehova-solo", "pattern": "\\bjehov[aá]\\b", "flags": "i", "speaker": "Dios", "confidence": 0.9 },
+    { "id": "serpiente", "pattern": "\\b(serpiente)\\b", "flags": "i", "speaker": "Serpiente", "confidence": 0.9 },
+    { "id": "mujer", "pattern": "\\b(mujer)\\b", "flags": "i", "speaker": "Mujer", "confidence": 0.75 },
+    { "id": "adan-hombre", "pattern": "\\b(ad[aá]n|el hombre)\\b", "flags": "i", "speaker": "Adán", "confidence": 0.8 },
+    { "id": "moises", "pattern": "\\b(mois[eé]s)\\b", "flags": "i", "speaker": "Moisés", "confidence": 0.9 },
+    { "id": "faraon", "pattern": "\\b(fara[oó]n)\\b", "flags": "i", "speaker": "Faraón", "confidence": 0.9 },
+    { "id": "eva", "pattern": "\\b(eva)\\b", "flags": "i", "speaker": "Eva", "confidence": 0.9 }
+  ],
+  "aliases": {
+    "jehová dios": "Dios",
+    "dios": "Dios",
+    "la serpiente": "Serpiente",
+    "serpiente": "Serpiente",
+    "la mujer": "Mujer",
+    "mujer": "Mujer",
+    "adán": "Adán",
+    "el hombre": "Adán",
+    "moisés": "Moisés",
+    "faraón": "Faraón"
+  }
+}
