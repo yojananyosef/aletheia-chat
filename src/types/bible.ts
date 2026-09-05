@@ -1,27 +1,15 @@
-import { MessageData, Speaker } from '../core/domain/Message';
+/**
+ * Single source de tipos de dominio (Fase 1): todo vive en `src/core/domain/*`
+ * y aquí solo se re-exporta para los componentes.
+ */
+import type { MessageData } from '../core/domain/Message';
 
-export type { Speaker };
-
-export type Message = MessageData;
+export type { Speaker, CanonicalSpeaker, MessageData, FavoriteMessage } from '../core/domain/Message';
+export type { BookInfo } from '../core/domain/BookInfo';
 
 export interface ChapterData {
     book: string;
     chapter: number;
     title: string;
-    messages: Message[];
-}
-
-export interface BookInfo {
-    id: string;
-    name: string;
-    availableChapters: number[];
-    isLocked?: boolean;
-    category: string;
-    description: string;
-    participants: string[];
-}
-export interface FavoriteMessage extends Message {
-    bookId: string;
-    bookName: string;
-    chapter: number;
+    messages: MessageData[];
 }

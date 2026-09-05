@@ -8,7 +8,7 @@ interface FavoritesDrawerProps {
     isOpen: boolean;
     onClose: () => void;
     favorites: FavoriteMessage[];
-    onToggleLike: (id: string, bookId: string) => void;
+    onToggleLike: (fav: FavoriteMessage) => void;
 }
 
 export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClose, favorites, onToggleLike }) => {
@@ -61,7 +61,7 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClos
                                                     <div className="text-[9px] font-bold text-gray-400">Speaker: {fav.speaker} • Versículo {fav.verse}</div>
                                                 </div>
                                                 <button
-                                                    onClick={() => onToggleLike(fav.id, fav.bookId)}
+                                                    onClick={() => onToggleLike(fav)}
                                                     aria-label="Quitar de favoritos"
                                                     className="p-1.5 bg-red-50 text-red-600 border-2 border-transparent hover:border-red-600 transition-all rounded-sm"
                                                 >

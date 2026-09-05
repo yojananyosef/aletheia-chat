@@ -1,16 +1,19 @@
-import { useState, useMemo } from 'react';
+import { useMemo } from 'react';
 import { BIBLE_BOOKS } from '../constants/books';
 
-export const useBookFilter = (initialQuery: string = '') => {
-    const [query, setQuery] = useState(initialQuery);
+/** Normaliza para búsqueda ES: trim + minúsculas + sin tildes (`génesis` = `genesis`). */
+export const normalizeEs = (s: string): string =>
+    s.trim().toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
 
+/** Filtro controlado: `query` viene del estado global (UIState), sin copia local. */
+export const useBookFilter = (query: string = '') => {
     const filteredBooks = useMemo(() => {
-        const lowerQuery = query.toLowerCase();
-        return BIBLE_BOOKS.filter(b =>
-            b.name.toLowerCase().includes(lowerQuery) ||
-            b.category.toLowerCase().includes(lowerQuery)
+        const q = normalizeEs(query);
+        if (!q) return BIBLE_BOOKS;
+        return BIBLE_BOOKS.filter(
+            (b) => normalizeEs(b.name).includes(q) || normalizeEs(b.category).includes(q)
         );
     }, [query]);
 
-    return { query, setQuery, filteredBooks };
+    return { filteredBooks };
 };

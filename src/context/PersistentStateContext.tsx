@@ -1,11 +1,10 @@
 'use client';
 
-import React, { createContext, useContext, useCallback, useSyncExternalStore } from 'react';
+import React, { createContext, useContext, useCallback, useMemo, useSyncExternalStore } from 'react';
 import { FavoriteMessage } from '../types/bible';
 import { BIBLE_BOOKS } from '../constants/books';
-import { StorageService } from '../core/services/StorageService';
+import { StorageService, FAVORITES_STORAGE_KEY } from '../core/services/StorageService';
 
-const FAVORITES_STORAGE_KEY = 'naas:v1:favorites';
 const EMPTY_FAVORITES: FavoriteMessage[] = [];
 
 type FavoritesListener = () => void;
@@ -27,6 +26,7 @@ function writeFavorites(next: FavoriteMessage[]): void {
 }
 
 function subscribeFavorites(listener: FavoritesListener): () => void {
+    if (typeof window === 'undefined') return () => {};
     listeners.add(listener);
     const onStorage = (event: StorageEvent) => {
         if (event.key === FAVORITES_STORAGE_KEY || event.key === null) {
@@ -71,12 +71,14 @@ export const PersistentStateProvider: React.FC<{ children: React.ReactNode }> = 
             : (book.availableChapters[0] || 1);
     }, []);
 
+    const value = useMemo<PersistentState>(() => ({
+        favorites,
+        setFavorites,
+        getInitialChapter,
+    }), [favorites, setFavorites, getInitialChapter]);
+
     return (
-        <PersistentStateContext.Provider value={{
-            favorites,
-            setFavorites,
-            getInitialChapter,
-        }}>
+        <PersistentStateContext.Provider value={value}>
             {children}
         </PersistentStateContext.Provider>
     );

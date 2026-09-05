@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useContext, useState, ReactNode } from 'react';
+import { createContext, useContext, useMemo, useState, ReactNode } from 'react';
 
 interface UIStateContextType {
     showFavorites: boolean;
@@ -24,14 +24,16 @@ export const UIStateProvider = ({ children }: { children: ReactNode }) => {
     const [showHomeSearch, setShowHomeSearch] = useState(false);
     const [homeSearchQuery, setHomeSearchQuery] = useState('');
 
+    const value = useMemo<UIStateContextType>(() => ({
+        showFavorites, setShowFavorites,
+        showInfo, setShowInfo,
+        showHomeOptions, setShowHomeOptions,
+        showHomeSearch, setShowHomeSearch,
+        homeSearchQuery, setHomeSearchQuery
+    }), [showFavorites, showInfo, showHomeOptions, showHomeSearch, homeSearchQuery]);
+
     return (
-        <UIStateContext.Provider value={{
-            showFavorites, setShowFavorites,
-            showInfo, setShowInfo,
-            showHomeOptions, setShowHomeOptions,
-            showHomeSearch, setShowHomeSearch,
-            homeSearchQuery, setHomeSearchQuery
-        }}>
+        <UIStateContext.Provider value={value}>
             {children}
         </UIStateContext.Provider>
     );

@@ -16,6 +16,9 @@ const Keys = {
     progress: (book: string, chapter: number) => `naas:${VERSION}:progress:${book}:${chapter}`,
 };
 
+/** Clave única de favoritos (Fase 1: elimina el duplicado en PersistentStateContext). */
+export const FAVORITES_STORAGE_KEY = Keys.favorites;
+
 // Pre naas:v1 keys — read for lazy migration, never written again.
 const LegacyKeys = {
     favorites: 'bible_favorites',

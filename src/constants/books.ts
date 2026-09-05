@@ -126,8 +126,11 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'revelation', name: 'Apocalipsis', availableChapters: [], isLocked: true, category: 'Profecía', description: 'La victoria final de Jesucristo.', participants: ['Jesús', 'Juan', 'Ángeles'] }
 ];
 
+/**
+ * Multiplicador de delays: MAYOR = más lento (Zen 2x pausa, Fast 0.25x lectura rápida).
+ */
 export const READING_SPEEDS = [
-    { label: 'Zen', val: 2.0, multiplier: 2.0 },
-    { label: 'Norm', val: 1.0, multiplier: 1.0 },
-    { label: 'Fast', val: 0.25, multiplier: 0.25 }
+    { label: 'Zen', multiplier: 2.0 },
+    { label: 'Norm', multiplier: 1.0 },
+    { label: 'Fast', multiplier: 0.25 }
 ];

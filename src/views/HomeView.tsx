@@ -7,9 +7,11 @@ import { motion, AnimatePresence } from 'motion/react';
 
 import { useUIState } from '../context/UIStateContext';
 import { usePersistentState } from '../hooks/usePersistentState';
-import { useSpiritualLevel } from '../hooks/useSpiritualLevel';
+import { useFavoritesToggle } from '../hooks/useFavoritesToggle';
+import { getSpiritualLevel } from '../hooks/useSpiritualLevel';
 import { useBookFilter } from '../hooks/useBookFilter';
 import { useHasMounted } from '../hooks/useHasMounted';
+import type { FavoriteMessage } from '../core/domain/Message';
 
 import { Surface } from '../components/ui/Surface';
 import { GroupListItem } from '../components/home/GroupListItem';
@@ -23,19 +25,20 @@ export const HomeView: React.FC = () => {
         showHomeSearch, setShowHomeSearch,
         showHomeOptions, setShowHomeOptions,
         showFavorites, setShowFavorites,
-        homeSearchQuery
+        homeSearchQuery, setHomeSearchQuery
     } = useUIState();
 
-    const { favorites, getInitialChapter, setFavorites } = usePersistentState();
-    const { filteredBooks, setQuery } = useBookFilter(homeSearchQuery);
-    const userLevel = useSpiritualLevel(favorites.length);
+    const { favorites, getInitialChapter } = usePersistentState();
+    const { toggleFavorite } = useFavoritesToggle();
+    const { filteredBooks } = useBookFilter(homeSearchQuery);
+    const userLevel = getSpiritualLevel(favorites.length);
 
     const handleSelectBook = (id: string) => {
         router.push(`/${id}/${getInitialChapter(id)}`);
     };
 
-    const handleToggleLike = (id: string, targetBookId?: string) => {
-        setFavorites(prev => prev.filter(f => !(f.bookId === targetBookId && f.id === id)));
+    const handleToggleLike = (fav: FavoriteMessage) => {
+        toggleFavorite(fav.id, fav.bookId, fav);
     };
 
     return (
@@ -49,9 +52,9 @@ export const HomeView: React.FC = () => {
                             <span className="text-[9px] sm:text-[10px] font-black uppercase tracking-widest mt-1 opacity-100">Neo-AIDA Accessible System</span>
                         </div>
                         <div className="flex gap-3">
-                            <Surface
-                                ariaLabel={showHomeSearch ? 'Cerrar búsqueda' : 'Buscar libro'}
-                                onClick={() => { setShowHomeSearch(!showHomeSearch); if (showHomeSearch) setQuery(''); }}
+                                <Surface
+                                    ariaLabel={showHomeSearch ? 'Cerrar búsqueda' : 'Buscar libro'}
+                                    onClick={() => { setShowHomeSearch(!showHomeSearch); if (showHomeSearch) setHomeSearchQuery(''); }}
                                 className={`p-2 rounded-full border-2 transition-colors active:scale-95 ${showHomeSearch ? 'bg-black text-[#FFD600]' : 'bg-white'}`}
                             >
                                 <Search className="w-5 h-5" />
@@ -153,14 +156,14 @@ export const HomeView: React.FC = () => {
                                         autoFocus
                                         type="text"
                                         value={homeSearchQuery}
-                                        onChange={(e) => setQuery(e.target.value)}
+                                        onChange={(e) => setHomeSearchQuery(e.target.value)}
                                         placeholder="BUSCAR LIBRO..."
                                         aria-label="Buscar libro"
                                         className="w-full bg-white border-4 border-black p-3 font-black uppercase tracking-tighter text-lg placeholder:text-gray-300 focus:outline-none shadow-[4px_4px_0_#0A0A0A]"
                                     />
                                 </div>
                                 <button
-                                    onClick={() => { setShowHomeSearch(false); setQuery(''); }}
+                                    onClick={() => { setShowHomeSearch(false); setHomeSearchQuery(''); }}
                                     className="bg-black text-white px-4 py-3 border-4 border-black font-black uppercase text-[10px] tracking-widest active:scale-95 transition-transform"
                                 >
                                     CERRAR

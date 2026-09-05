@@ -7,7 +7,7 @@ import { AnimatePresence } from 'motion/react';
 
 import { useBibleChat } from '../hooks/useBibleChat';
 import { useScrollOnUpdate } from '../hooks/useScrollOnUpdate';
-import { usePersistentState } from '../hooks/usePersistentState';
+import { useFavoritesToggle } from '../hooks/useFavoritesToggle';
 import { useUIState } from '../context/UIStateContext';
 import { useSettings, useAudio } from '../hooks/useSettings';
 import { BibleDataService } from '../core/services/BibleDataService';
@@ -33,7 +33,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
     const { isMuted, setIsMuted, readingSpeed, setReadingSpeed } = useSettings();
     const { playPop } = useAudio(isMuted);
 
-    const { favorites, setFavorites } = usePersistentState();
+    const { isFavorite, toggleFavorite } = useFavoritesToggle();
     const { showInfo, setShowInfo } = useUIState();
 
     const [showSelector, setShowSelector] = useState(false);
@@ -65,26 +65,21 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
     const scrollRef = useRef<HTMLDivElement>(null);
     useScrollOnUpdate(scrollRef, [currentIndex, isAdvancing]);
 
-    const isMessageLiked = (msgId: string) =>
-        favorites.some(f => f.bookId === bookId && f.id === msgId);
+    const isMessageLiked = (msgId: string) => isFavorite(bookId, msgId);
 
     const handleToggleLike = (id: string, overrideBookId?: string) => {
         const targetBookId = overrideBookId || bookId;
-        const existing = favorites.find(f => f.bookId === targetBookId && f.id === id);
-
-        if (existing) {
-            setFavorites(prev => prev.filter(f => !(f.bookId === targetBookId && f.id === id)));
-        } else {
-            const msgInstance = data?.messages.find(m => m.id === id);
-            if (!msgInstance || !bookConfig) return;
-
-            setFavorites(prev => [...prev, {
-                ...msgInstance.toJSON(),
-                bookId: targetBookId,
-                bookName: bookConfig.name,
-                chapter: chapter
-            }]);
+        const msgInstance = data?.messages.find(m => m.id === id);
+        if (!msgInstance || !bookConfig) {
+            // Sin datos del mensaje solo se puede borrar (el Drawer pasa el fav completo).
+            toggleFavorite(id, targetBookId);
+            return;
         }
+        toggleFavorite(id, targetBookId, {
+            ...msgInstance.toJSON(),
+            bookName: bookConfig.name,
+            chapter: chapter
+        });
     };
 
     const navigateToChapter = (targetChapter: number) => {

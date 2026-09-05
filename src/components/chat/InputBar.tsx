@@ -1,6 +1,6 @@
 import React from 'react';
 import { Send, BookOpen } from 'lucide-react';
-import { Message } from '../../types/bible';
+import { Message } from '../../core/domain/Message';
 
 interface InputBarProps {
     nextMessage: Message | null;

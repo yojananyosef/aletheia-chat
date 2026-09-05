@@ -1,4 +1,21 @@
-export type Speaker = 'Narrador' | 'Dios' | 'Moisés' | 'Sistema' | string;
+/** Voces conocidas (autocompletado). Cualquier otro string también vale: `(string & {})`. */
+export type CanonicalSpeaker =
+    | 'Narrador' | 'Dios' | 'Sistema'
+    | 'Serpiente' | 'Mujer' | 'Eva' | 'Adán' | 'Caín' | 'Abel' | 'Noé'
+    | 'Abraham' | 'Sara' | 'Isaac' | 'Jacob' | 'José'
+    | 'Moisés' | 'Aarón' | 'Faraón' | 'Séfora' | 'Jetro' | 'Reuel'
+    | 'Parteras' | 'Hija de Faraón' | 'Hermana' | 'Hijas' | 'Hebreo'
+    | 'Josué' | 'Gedeón' | 'Sansón' | 'Rut' | 'Booz'
+    | 'Samuel' | 'Saúl' | 'David' | 'Salomón' | 'Elías' | 'Eliseo'
+    | 'Esdras' | 'Nehemías' | 'Ester' | 'Mardoqueo' | 'Job' | 'Asaf'
+    | 'Predicador' | 'Amado' | 'Amada'
+    | 'Isaías' | 'Jeremías' | 'Ezequiel' | 'Daniel'
+    | 'Oseas' | 'Joel' | 'Amós' | 'Abdías' | 'Jonás' | 'Miqueas'
+    | 'Nahum' | 'Habacuc' | 'Sofonías' | 'Hageo' | 'Zacarías' | 'Malaquías'
+    | 'Jesús' | 'Mateo' | 'Pedro' | 'Pablo' | 'Espíritu Santo' | 'Timoteo'
+    | 'Santiago' | 'Juan' | 'Judas' | 'Ángeles';
+
+export type Speaker = CanonicalSpeaker | (string & {});
 
 export interface MessageData {
     id: string;
@@ -41,8 +58,12 @@ export class Message {
     }
 }
 
-export interface FavoriteMessageData extends MessageData {
+/** Canónico (Fase 1): antes duplicado como `FavoriteMessage` en types/bible. */
+export interface FavoriteMessage extends MessageData {
     bookId: string;
     bookName: string;
     chapter: number;
 }
+
+/** @deprecated Usar `FavoriteMessage`. */
+export type FavoriteMessageData = FavoriteMessage;
