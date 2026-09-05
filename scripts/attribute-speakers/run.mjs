@@ -90,7 +90,7 @@ function rxRule(rule, global = false) {
   return rx(rule.pattern, rule.flags ?? 'i', global);
 }
 
-const DICENDI_RE = rx('\\b(dij[\\p{L}]+|dic[\\p{L}]+|dec[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+|replic[\\p{L}]+)\\b', 'i');
+const DICENDI_RE = rx('\\b(dij[\\p{L}]+|dic[\\p{L}]+|dec[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+|replic[\\p{L}]+|exclam[\\p{L}]+)\\b', 'i');
 
 /**
  * Sujeto del verbo dicendi: PRIMER candidato (el sujeto suele ir primero en español).
@@ -355,11 +355,19 @@ function main() {
 
   if (!args.write) {
     console.log(`# ${slug} cap ${args.chapter} · fuente ${args.source} · ${messages.length} mensajes · ${ambiguous.length} ambiguos`);
-    // Discurso continuado: verso con ':' (final o medio, ej. RUT 1:8b "...madre:
-    // Jehová haga...") cuyo verso siguiente NO tiene cortes → el siguiente queda
-    // como Narrador aunque sea discurso. Revisar a mano.
+    // Discurso continuado: verso que TERMINA en ':' ("respondió Elifaz, y dijo:",
+    // JOB 4:1) cuyo siguiente NO tiene cortes → el siguiente queda como Narrador
+    // aunque sea discurso. También verso con ':' medio sin cortes propios ni del
+    // siguiente (RUT 1:8b). Revisar a mano.
     const cutVerses = new Set(verses.filter(v => findCuts(v.text ?? '', patterns.splits[0].verbStem, patterns.splits[0].flags ?? 'i').length).map(v => v.number));
-    const dangling = verses.filter(v => /:/.test(v.text ?? '') && !cutVerses.has(v.number) && !cutVerses.has(v.number + 1)).map(v => v.number);
+    const dangling = verses.filter(v => {
+      const t = v.text ?? '';
+      if (!cutVerses.has(v.number + 1)) {
+        if (/:\\s*$/.test(t)) return true;
+        if (/:/.test(t) && !cutVerses.has(v.number)) return true;
+      }
+      return false;
+    }).map(v => v.number);
     if (dangling.length) console.log(`# AVISO posible discurso continuado tras versos ${dangling.join(', ')} — verificar speaker del verso siguiente`);
     console.log('verse\tsub\tspeaker\tconf\trule\tambiguous\ttext…');
     for (const d of diagnosis) {

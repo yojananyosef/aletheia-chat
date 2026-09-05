@@ -4,7 +4,7 @@
     {
       "id": "dijo-con-cita",
       "comment": "Tallos (cubre dijo/dijeron/dicho, respondió/respondieron, llamó, habló...). Los \\b los vuelve unicode-aware run.mjs (rx()). El corte múltiple lo hace el código: corta en cada 'verbo+:' válido, donde válido = primer corte del verso O segmento con fin de frase (?!.…) antes de la cola narrativa. Así '¿Conque Dios os ha dicho: No comáis...?' NO se fragmenta, pero '¿Quién te ha puesto...? Entonces Moisés tuvo miedo, y dijo: Ciertamente...' SÍ (burb1 Hebreo, narr, burb2 Moisés).",
-      "verbStem": "(dij[\\p{L}\\p{N}_]+|dic[\\p{L}\\p{N}_]+|dec[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+|replic[\\p{L}\\p{N}_]+)",
+      "verbStem": "(dij[\\p{L}\\p{N}_]+|dic[\\p{L}\\p{N}_]+|dec[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+|replic[\\p{L}\\p{N}_]+|exclam[\\p{L}\\p{N}_]+)",
       "flags": "i",
       "minSpeechLen": 2
     }
@@ -39,6 +39,13 @@
     { "id": "mujeres", "pattern": "\\b(mujeres|vecinas?)\\b", "flags": "i", "speaker": "Mujeres", "confidence": 0.8 },
     { "id": "rey-ninive", "pattern": "\\b(r[ée]y de n[íi]nive)\\b", "flags": "i", "speaker": "Rey de Nínive", "confidence": 0.85 },
     { "id": "impios", "pattern": "\\b(necios?|imp[íi]os?)\\b", "flags": "i", "speaker": "Impíos", "confidence": 0.8 },
+    { "id": "job", "pattern": "\\bjob\\b", "flags": "i", "speaker": "Job", "confidence": 0.9 },
+    { "id": "elifaz", "pattern": "\\b(elifaz|temanita)\\b", "flags": "i", "speaker": "Elifaz", "confidence": 0.9 },
+    { "id": "bildad", "pattern": "\\b(bildad|suhita)\\b", "flags": "i", "speaker": "Bildad", "confidence": 0.9 },
+    { "id": "zofar", "pattern": "\\b(zofar|naamatita)\\b", "flags": "i", "speaker": "Zofar", "confidence": 0.9 },
+    { "id": "eliu", "pattern": "\\beli[úu]\\b", "flags": "i", "speaker": "Eliú", "confidence": 0.9 },
+    { "id": "esposa-job", "pattern": "\\besposa\\b", "flags": "i", "speaker": "Esposa", "confidence": 0.85 },
+    { "id": "mensajero", "pattern": "\\bmensajero\\b", "flags": "i", "speaker": "Mensajero", "confidence": 0.8 },
     { "id": "eva", "pattern": "\\b(eva)\\b", "flags": "i", "speaker": "Eva", "confidence": 0.9 }
   ],
   "aliases": {

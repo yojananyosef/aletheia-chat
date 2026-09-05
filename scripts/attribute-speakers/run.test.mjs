@@ -80,6 +80,17 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(proclama.speaker, 'Jonás');
   });
 
+  it('JOB 4: Elifaz introduce y 38:1 responde Dios', () => {
+    const { messages } = run('job', 'JOB', 4);
+    const intro = messages.find(m => m.verse === 1);
+    assert.ok(intro, 'JOB 4:1 existe');
+    assert.equal(intro.speaker, 'Narrador');
+    const j38 = run('job', 'JOB', 38);
+    const resp = j38.messages.find(m => m.verse === 1 && /torbellino/.test(m.text));
+    assert.ok(resp, 'JOB 38:1 existe');
+    assert.equal(resp.speaker, 'Narrador');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));
