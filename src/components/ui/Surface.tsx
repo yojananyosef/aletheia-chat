@@ -11,6 +11,8 @@ interface SurfaceProps {
     active?: boolean;
     elevation?: boolean;
     ariaLabel?: string;
+    /** Estado pulsado (p. ej. like activo): se expone como aria-pressed + doble-Enter lo alterna. */
+    pressed?: boolean;
 }
 
 export const Surface: React.FC<SurfaceProps> = ({
@@ -23,15 +25,26 @@ export const Surface: React.FC<SurfaceProps> = ({
     dataCta,
     active,
     elevation = true,
-    ariaLabel
+    ariaLabel,
+    pressed
 }) => {
     const isPrimary = dataCta === 'primary';
+    const interactive = !!(onClick || onDoubleClick || onTouchStart);
 
     return (
         <div
             onClick={onClick}
             onDoubleClick={onDoubleClick}
             onTouchStart={onTouchStart}
+            onKeyDown={interactive ? (e) => {
+                if ((e.key === 'Enter' || e.key === ' ') && onClick) {
+                    e.preventDefault();
+                    onClick();
+                }
+            } : undefined}
+            role={interactive ? 'button' : undefined}
+            tabIndex={interactive ? 0 : undefined}
+            aria-pressed={pressed}
             data-aida={dataAida}
             data-cta={dataCta}
             aria-label={ariaLabel}
@@ -39,7 +52,7 @@ export const Surface: React.FC<SurfaceProps> = ({
                 border-2 border-[#0A0A0A] 
                 transition-all duration-150 ease-out
                 ${isPrimary ? 'bg-[#FFD600]' : active ? 'bg-gray-100' : className.includes('bg-') ? '' : 'bg-white'}
-                ${(onClick || onDoubleClick || onTouchStart) ? `cursor-pointer ${elevation ? 'hover:-translate-y-0.5 shadow-[3px_3px_0_#0A0A0A]' : 'hover:bg-gray-50'} active:translate-y-0 active:shadow-none` : ''}
+                ${interactive ? `cursor-pointer ${elevation ? 'hover:-translate-y-0.5 shadow-[3px_3px_0_#0A0A0A]' : 'hover:bg-gray-50'} active:translate-y-0 active:shadow-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black` : ''}
                 ${className}
             `}
         >

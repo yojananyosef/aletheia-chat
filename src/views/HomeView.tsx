@@ -197,11 +197,11 @@ export const HomeView: React.FC = () => {
                         <MessageSquare className="w-6 h-6" />
                         <span className="text-[10px] font-black uppercase tracking-tighter">CHATS</span>
                     </button>
-                    <button aria-label="Community (próximamente)" className="flex flex-col items-center gap-1.5 opacity-20 grayscale transition-transform active:scale-90">
+                    <button aria-label="Community (próximamente)" aria-disabled="true" disabled tabIndex={-1} className="flex flex-col items-center gap-1.5 opacity-20 grayscale">
                         <Users className="w-6 h-6" />
                         <span className="text-[10px] font-black uppercase tracking-tighter">COMMUNITY</span>
                     </button>
-                    <button aria-label="Scriptorium (próximamente)" className="flex flex-col items-center gap-1.5 opacity-20 grayscale transition-transform active:scale-90">
+                    <button aria-label="Scriptorium (próximamente)" aria-disabled="true" disabled tabIndex={-1} className="flex flex-col items-center gap-1.5 opacity-20 grayscale">
                         <Book className="w-6 h-6" />
                         <span className="text-[10px] font-black uppercase tracking-tighter">SCRIPTORIUM</span>
                     </button>

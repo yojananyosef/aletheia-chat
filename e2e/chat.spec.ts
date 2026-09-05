@@ -9,7 +9,7 @@ test.describe('Chat', () => {
 
         await page.goto('/genesis/1');
         await expect(page.getByRole('heading', { name: /Génesis/ })).toBeVisible();
-        await expect(page.getByText('La Creación').first()).toBeVisible();
+        await expect(page.getByRole('button', { name: /creación/i }).first()).toBeVisible();
 
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
@@ -27,13 +27,36 @@ test.describe('Chat', () => {
         await expect(page).toHaveURL(/\/$/);
     });
 
+    test('mensaje de Dios pausa y requiere tap (no auto-avanza)', async ({ page }) => {
+        // Velocidad rápida para no esperar los delays de lectura en el test
+        await page.goto('/genesis/1');
+        await page.evaluate(() => window.localStorage.setItem('naas:v1:settings', JSON.stringify({ isMuted: true, readingSpeed: 0.25 })));
+        await page.reload();
+
+        // Dos títulos de sección (Platense) requieren tap
+        const titleBtn = page.getByRole('button', { name: /creación/i });
+        await titleBtn.click();
+        await titleBtn.click();
+
+        // Tras los narradores en auto, Dios pide tap: preview + Send, sin auto-avance
+        const sendGod = page.getByRole('button', { name: /enviar mensaje de dios/i });
+        await expect(sendGod).toBeVisible({ timeout: 30_000 });
+        await page.waitForTimeout(2000);
+        await expect(sendGod).toBeVisible();
+
+        await sendGod.click();
+        await expect(page.getByText('Sea la luz; y fue la luz.')).toBeVisible();
+    });
+
     test('doble-tap en un versículo lo marca como favorito y persiste tras recargar', async ({ page }) => {
         await page.goto('/genesis/1');
 
-        // El capítulo arranca con un título de sección que requiere avance manual
-        await page.getByRole('button', { name: 'La Creación' }).click();
+        // El capítulo arranca con títulos de sección que requieren avance manual
+        const titleBtn = page.getByRole('button', { name: /creación/i });
+        await titleBtn.click();
+        await titleBtn.click();
 
-        const bubble = page.getByText('En el principio, Dios creó los cielos y la tierra.');
+        const bubble = page.getByText('En el principio creó Dios el cielo y la tierra.');
         await expect(bubble).toBeVisible({ timeout: 20_000 });
 
         await bubble.dblclick();

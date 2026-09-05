@@ -46,6 +46,11 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                 animate={{ opacity: 1, y: 0 }}
                 className="flex justify-center"
                 onClick={handleInteraction}
+                onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handleInteraction(); } }}
+                role="button"
+                tabIndex={0}
+                aria-pressed={isLiked}
+                aria-label={`Versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
             >
                 <div className="group cursor-pointer max-w-2xl bg-[#EAEAEA] border-2 border-dashed border-[#0A0A0A] p-6 text-center relative font-medium text-gray-800 transition-colors hover:bg-white active:bg-white shadow-[4px_4px_0_rgba(0,0,0,0.05)]">
                     <span className="text-[10px] font-black text-gray-400 block mb-2 uppercase tracking-widest">v.{message.verse} NARRADOR</span>
@@ -73,7 +78,12 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                     />
                     <div
                         onClick={handleInteraction}
-                        className="p-4 md:p-6 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer"
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handleInteraction(); } }}
+                        role="button"
+                        tabIndex={0}
+                        aria-pressed={isLiked}
+                        aria-label={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
+                        className="p-4 md:p-6 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400"
                     >
                         <div className="flex justify-between gap-8 mb-2">
                             <span className="text-[10px] font-black uppercase tracking-tight text-red-400">
@@ -105,6 +115,8 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                 />
                 <Surface
                     onClick={handleInteraction}
+                    pressed={isLiked}
+                    ariaLabel={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
                     className={`p-4 md:p-6 relative border-2 border-black shadow-[4px_4px_0_#0A0A0A] overflow-visible ${isGod
                         ? 'bg-white rounded-r-2xl rounded-tl-2xl'
                         : `${actorColor} rounded-l-2xl rounded-tr-2xl`

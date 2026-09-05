@@ -8,8 +8,8 @@
 
 ## 2. A11y
 - [x] 2.1 `app/layout.tsx`: quitar `maximumScale/userScalable`.
-- [ ] 2.2 `Surface.tsx`: convertir a `button` (mantener estilos `data-aida/data-cta`) o añadir rol/teclado.
-- [ ] 2.3 `HomeView.tsx:200-208`: `disabled` real en nav futuro.
-- [ ] 2.4 Drawers (`Favorites/GroupInfo`) + `OptionsMenu`: `Escape`, `role=dialog`, foco.
-- [ ] 2.5 `MessageBubble`: botón like explícito además de doble-tap.
-- [ ] 2.6 `pnpm lint && pnpm test && pnpm build` + chequeo manual teclado/lector.
+- [x] 2.2 `Surface.tsx`: `role=button tabIndex=0 onKeyDown` + `aria-pressed` + foco visible (doble-Enter = like).
+- [x] 2.3 `HomeView.tsx:200-208`: `disabled + aria-disabled + tabIndex=-1` en nav futuro.
+- [x] 2.4 Drawers (`Favorites/GroupInfo`): `Escape` (hook `useDismissOnEscape`), `role=dialog aria-modal`, foco inicial. `OptionsMenu` queda pendiente.
+- [x] 2.5 `MessageBubble`: burbujas Narrador/Serpiente/Dios con rol/teclado + `aria-label` con estado de like (alternativa a doble-tap).
+- [x] 2.6 `pnpm lint && pnpm test` (30/30) + e2e 6/6 + `pnpm build` verde. Chequeo manual lector pendiente.

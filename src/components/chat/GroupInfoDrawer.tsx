@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { ShieldCheck, X, Users } from 'lucide-react';
 import { BookInfo } from '../../types/bible';
 import { Avatar } from '../ui/Surface';
+import { useDismissOnEscape } from '../../hooks/useDismissOnEscape';
 
 interface GroupInfoDrawerProps {
     isOpen: boolean;
@@ -11,6 +12,7 @@ interface GroupInfoDrawerProps {
 }
 
 export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, onClose }) => {
+    useDismissOnEscape(isOpen, onClose);
     return (
         <AnimatePresence>
             {isOpen && book && (
@@ -26,6 +28,9 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
                         initial={{ scale: 0.9, y: 40, rotate: -1 }}
                         animate={{ scale: 1, y: 0, rotate: 0 }}
                         exit={{ scale: 0.9, y: 40, rotate: 1 }}
+                        role="dialog"
+                        aria-modal="true"
+                        aria-label={book.name ? `Información del grupo ${book.name}` : 'Información del grupo'}
                         className="w-full max-w-md bg-white border-4 border-black shadow-[10px_10px_0_#0A0A0A] overflow-hidden flex flex-col relative"
                     >
                         {/* Header del Panel */}
@@ -34,7 +39,7 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
                                 <Users className="w-6 h-6" />
                                 <h3 className="text-xl font-black uppercase tracking-tighter italic">Detalles del Grupo</h3>
                             </div>
-                            <button onClick={onClose} aria-label="Cerrar información del grupo" className="p-2 border-2 border-black bg-white hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none">
+                            <button onClick={onClose} autoFocus aria-label="Cerrar información del grupo" className="p-2 border-2 border-black bg-white hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none">
                                 <X className="w-5 h-5" strokeWidth={3} />
                             </button>
                         </div>

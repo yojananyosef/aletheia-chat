@@ -2,6 +2,7 @@ import React from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { X, Heart, BookOpen } from 'lucide-react';
 import { FavoriteMessage } from '../../types/bible';
+import { useDismissOnEscape } from '../../hooks/useDismissOnEscape';
 
 interface FavoritesDrawerProps {
     isOpen: boolean;
@@ -11,6 +12,7 @@ interface FavoritesDrawerProps {
 }
 
 export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClose, favorites, onToggleLike }) => {
+    useDismissOnEscape(isOpen, onClose);
     return (
         <AnimatePresence>
             {isOpen && (
@@ -25,6 +27,9 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClos
                         initial={{ scale: 0.9, y: 40 }}
                         animate={{ scale: 1, y: 0 }}
                         exit={{ scale: 0.9, y: 40 }}
+                        role="dialog"
+                        aria-modal="true"
+                        aria-label="Versículos favoritos"
                         className="w-full max-w-2xl bg-white border-4 border-black shadow-[10px_10px_0_#0A0A0A] overflow-hidden h-[85vh] flex flex-col"
                     >
                         <div className="bg-[#FFD600] border-b-4 border-black p-6 flex items-center justify-between">
@@ -32,7 +37,7 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClos
                                 <Heart className="w-6 h-6 fill-black" />
                                 <h3 className="text-xl font-black uppercase tracking-tighter italic">Tesoros en el Corazón</h3>
                             </div>
-                            <button onClick={onClose} aria-label="Cerrar favoritos" className="p-2 border-2 border-black bg-white text-black hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none font-black text-xs">
+                            <button onClick={onClose} autoFocus aria-label="Cerrar favoritos" className="p-2 border-2 border-black bg-white text-black hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none font-black text-xs">
                                 <X className="w-5 h-5" strokeWidth={3} />
                             </button>
                         </div>
