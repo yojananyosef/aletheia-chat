@@ -16,5 +16,11 @@
     "subId": "b",
     "speaker": "Hijos de José",
     "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
   }
 ]

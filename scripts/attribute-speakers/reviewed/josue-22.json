@@ -58,5 +58,17 @@
     "subId": "",
     "speaker": "Finees",
     "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Finees",
+    "confidence": 0.85
   }
 ]

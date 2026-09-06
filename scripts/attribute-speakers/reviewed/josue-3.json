@@ -4,5 +4,17 @@
     "subId": "b",
     "speaker": "Oficiales",
     "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
   }
 ]
