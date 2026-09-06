@@ -1,0 +1,259 @@
+{
+    "book": "Josué",
+    "chapter": 22,
+    "title": "Josué 22",
+    "messages": [
+        {
+            "id": "jos22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces Josué llamó a los rubenitas, a los gaditas y a la media tribu de Manasés,"
+        },
+        {
+            "id": "jos22_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "jos22_2b",
+            "speaker": "Josué",
+            "verse": 2,
+            "text": "Vosotros habéis guardado todo lo que Moisés siervo de Jehová os mandó, y habéis obedecido a mi voz en todo lo que os he mandado."
+        },
+        {
+            "id": "jos22_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "No habéis dejado a vuestros hermanos en estos muchos días hasta hoy, sino que habéis cuidado de guardar los mandamientos de Jehová vuestro Dios."
+        },
+        {
+            "id": "jos22_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y ahora, Jehová vuestro Dios ha dado reposo a vuestros hermanos, como se los había prometido; volved, pues, e id a vuestras tiendas, a la tierra de vuestra posesión que Moisés, siervo de Jehová, os dio al otro lado del Jordán."
+        },
+        {
+            "id": "jos22_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Solamente que con diligencia cuidéis de poner por obra el mandamiento y la ley, que Moisés siervo de Jehová os intimó: que améis a Jehová vuestro Dios, y andéis en todos sus caminos; que guardéis sus mandamientos, y le sigáis, y le sirváis de todo vuestro corazón y de toda vuestra alma."
+        },
+        {
+            "id": "jos22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y bendiciéndolos Josué, los envió, y ellos se fueron a sus tiendas."
+        },
+        {
+            "id": "jos22_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "También a la media tribu de Manasés había dado Moisés posesión en Basán; mas a la otra media tribu dio Josué heredad entre sus hermanos de este lado del Jordán al occidente: y también a éstos envió Josué a sus tiendas, después de haberlos bendecido."
+        },
+        {
+            "id": "jos22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y les habló, diciendo:"
+        },
+        {
+            "id": "jos22_8b",
+            "speaker": "Josué",
+            "verse": 8,
+            "text": "Volveos a vuestras tiendas con grandes riquezas, y con mucho ganado, con plata, y con oro, y bronce, y muchas vestiduras; compartid con vuestros hermanos el despojo de vuestros enemigos."
+        },
+        {
+            "id": "jos22_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, se volvieron, y se apartaron de los hijos de Israel, de Silo, que está en la tierra de Canaán, para ir a la tierra de Galaad, a la tierra de sus posesiones, de la cual eran poseedores, según palabra de Jehová por mano de Moisés."
+        },
+        {
+            "id": "jos22_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y llegando a los términos del Jordán, que está en la tierra de Canaán, los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, edificaron allí un altar junto al Jordán, un altar de grande apariencia."
+        },
+        {
+            "id": "jos22_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y los hijos de Israel oyeron decir como los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, habían edificado un altar delante de la tierra de Canaán, en los términos del Jordán, al paso de los hijos de Israel:"
+        },
+        {
+            "id": "jos22_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando los hijos de Israel oyeron esto, se juntó toda la congregación de los hijos de Israel en Silo, para subir a pelear contra ellos."
+        },
+        {
+            "id": "jos22_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y enviaron los hijos de Israel a los hijos de Rubén y a los hijos de Gad y a la media tribu de Manasés en la tierra de Galaad, a Finees, hijo del sacerdote Eleazar,"
+        },
+        {
+            "id": "jos22_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y a diez príncipes con él; un príncipe de cada casa paterna de todas las tribus de Israel, cada uno de los cuales era cabeza de familia de sus padres en la multitud de Israel."
+        },
+        {
+            "id": "jos22_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Los cuales vinieron a los hijos de Rubén y a los hijos de Gad, y a la media tribu de Manasés, en la tierra de Galaad; y les hablaron, diciendo:"
+        },
+        {
+            "id": "jos22_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Toda la congregación de Jehová dice así:"
+        },
+        {
+            "id": "jos22_16b",
+            "speaker": "Finees",
+            "verse": 16,
+            "text": "¿Qué transgresión es ésta con que prevaricáis contra el Dios de Israel, volviéndoos hoy de seguir a Jehová, edificándoos altar para ser hoy rebeldes contra Jehová?"
+        },
+        {
+            "id": "jos22_17",
+            "speaker": "Finees",
+            "verse": 17,
+            "text": "¿Nos ha sido poco la maldad de Peor, de la que no estamos aún limpios hasta este día, por la cual fue la mortandad en la congregación de Jehová?"
+        },
+        {
+            "id": "jos22_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y vosotros os volvéis hoy de seguir a Jehová; mas será que vosotros os rebelaréis hoy contra Jehová, y mañana se airará Él contra toda la congregación de Israel."
+        },
+        {
+            "id": "jos22_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Que si os parece que la tierra de vuestra posesión es inmunda, pasaos a la tierra de la posesión de Jehová, en la cual está el tabernáculo de Jehová, y tomad posesión entre nosotros; pero no os rebeléis contra Jehová, ni os rebeléis contra nosotros, edificándoos altar a más del altar de Jehová nuestro Dios."
+        },
+        {
+            "id": "jos22_20",
+            "speaker": "Finees",
+            "verse": 20,
+            "text": "¿No cometió Acán, hijo de Zera, prevaricación en el anatema, y vino ira sobre toda la congregación de Israel? y aquel hombre no pereció solo en su iniquidad."
+        },
+        {
+            "id": "jos22_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces los hijos de Rubén y los hijos de Gad, y la media tribu de Manasés, respondieron y dijeron a los principales de la multitud de Israel:"
+        },
+        {
+            "id": "jos22_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "El Dios de los dioses, Jehová, el Dios de los dioses, Jehová, Él sabe, y lo sabrá Israel. Que si fue por rebelión o por prevaricación contra Jehová, no nos salves hoy."
+        },
+        {
+            "id": "jos22_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Que si nos hemos edificado altar para tornarnos de en pos de Jehová, o para sacrificar holocausto o presente, o para hacer sobre él sacrificios de paz, el mismo Jehová nos lo demande."
+        },
+        {
+            "id": "jos22_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Asimismo, si no lo hicimos por temor de esto, diciendo:"
+        },
+        {
+            "id": "jos22_24b",
+            "speaker": "Finees",
+            "verse": 24,
+            "text": "Mañana vuestros hijos dirán a nuestros hijos: ¿Qué tenéis que ver vosotros con Jehová, el Dios de Israel?"
+        },
+        {
+            "id": "jos22_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Jehová ha puesto por término el Jordán entre nosotros y vosotros, oh hijos de Rubén e hijos de Gad; no tenéis vosotros parte en Jehová: y así vuestros hijos harán que nuestros hijos no teman a Jehová."
+        },
+        {
+            "id": "jos22_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Por esto dijimos:"
+        },
+        {
+            "id": "jos22_26b",
+            "speaker": "Finees",
+            "verse": 26,
+            "text": "Hagamos ahora por edificarnos un altar, no para holocausto ni para sacrificio,"
+        },
+        {
+            "id": "jos22_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "sino para que sea un testimonio entre nosotros y vosotros, y entre los que vendrán después de nosotros, de que podemos hacer el servicio de Jehová delante de Él con nuestros holocaustos, con nuestros sacrificios, y con nuestras ofrendas de paz; y no digan mañana vuestros hijos a los nuestros: Vosotros no tenéis parte en Jehová."
+        },
+        {
+            "id": "jos22_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Nosotros, pues, dijimos:"
+        },
+        {
+            "id": "jos22_28b",
+            "speaker": "Finees",
+            "verse": 28,
+            "text": "Si aconteciere que tal digan a nosotros, o a nuestras generaciones en lo por venir, entonces responderemos: Mirad el símil del altar de Jehová, el cual hicieron nuestros padres, no para holocaustos o sacrificios, sino para que fuese testimonio entre nosotros y vosotros."
+        },
+        {
+            "id": "jos22_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Nunca tal acontezca que nos rebelemos contra Jehová, o que nos apartemos hoy de seguir a Jehová, edificando altar para holocaustos, para presente, o para sacrificio, a más del altar de Jehová nuestro Dios que está delante de su tabernáculo."
+        },
+        {
+            "id": "jos22_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y cuando Finees el sacerdote y los príncipes de la congregación, y las cabezas de la multitud de Israel que con él estaban, oyeron las palabras que hablaron los hijos de Rubén y los hijos de Gad y los hijos de Manasés, les pareció bien."
+        },
+        {
+            "id": "jos22_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y dijo Finees, hijo del sacerdote Eleazar, a los hijos de Rubén, a los hijos de Gad, y a los hijos de Manasés:"
+        },
+        {
+            "id": "jos22_31b",
+            "speaker": "Finees",
+            "verse": 31,
+            "text": "Hoy hemos entendido que Jehová está entre nosotros, pues que no habéis intentado esta traición contra Jehová. Ahora habéis librado a los hijos de Israel de la mano de Jehová."
+        },
+        {
+            "id": "jos22_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y Finees, hijo del sacerdote Eleazar, y los príncipes, se volvieron de con los hijos de Rubén, y de con los hijos de Gad, de la tierra de Galaad a la tierra de Canaán, a los hijos de Israel: a los cuales dieron la respuesta."
+        },
+        {
+            "id": "jos22_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y el asunto agradó a los hijos de Israel, y bendijeron a Dios los hijos de Israel; y no hablaron más de subir contra ellos en guerra, para destruir la tierra en que habitaban los hijos de Rubén y los hijos de Gad."
+        },
+        {
+            "id": "jos22_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y los hijos de Rubén y los hijos de Gad pusieron por nombre al altar Ed; pues dijeron:"
+        },
+        {
+            "id": "jos22_34b",
+            "speaker": "Gad y Rubén",
+            "verse": 34,
+            "text": "Será un testimonio entre nosotros que Jehová es Dios."
+        }
+    ]
+}

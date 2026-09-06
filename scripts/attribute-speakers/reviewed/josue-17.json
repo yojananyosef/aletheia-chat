@@ -1,0 +1,20 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Hijas de Zelofehad",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Hijos de José",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Hijos de José",
+    "confidence": 0.85
+  }
+]

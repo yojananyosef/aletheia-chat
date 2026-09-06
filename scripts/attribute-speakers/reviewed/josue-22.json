@@ -1,0 +1,62 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Finees",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Hombres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Rey de Jericó",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Rahab",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Espías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Rahab",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Espías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Rahab",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Espías",
+    "confidence": 0.85
+  }
+]

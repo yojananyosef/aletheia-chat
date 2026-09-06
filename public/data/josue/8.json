@@ -1,0 +1,235 @@
+{
+    "book": "Josué",
+    "chapter": 8,
+    "title": "Josué 8",
+    "messages": [
+        {
+            "id": "jos8_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová dijo a Josué:"
+        },
+        {
+            "id": "jos8_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "No temas, ni desmayes; toma contigo toda la gente de guerra, y levántate y sube a Hai. Mira, yo he entregado en tu mano al rey de Hai, y a su pueblo, a su ciudad, y a su tierra."
+        },
+        {
+            "id": "jos8_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y harás a Hai y a su rey como hiciste a Jericó y a su rey: sólo que sus despojos y sus bestias tomaréis para vosotros. Pondrás, pues, emboscadas a la ciudad detrás de ella."
+        },
+        {
+            "id": "jos8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y se levantó Josué, y toda la gente de guerra, para subir contra Hai: y escogió Josué treinta mil hombres fuertes, los cuales envió de noche."
+        },
+        {
+            "id": "jos8_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y les mandó, diciendo:"
+        },
+        {
+            "id": "jos8_4b",
+            "speaker": "Josué",
+            "verse": 4,
+            "text": "Mirad, pondréis emboscada a la ciudad detrás de ella: no os alejaréis mucho de la ciudad, y estaréis todos apercibidos."
+        },
+        {
+            "id": "jos8_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y yo y todo el pueblo que está conmigo nos acercaremos a la ciudad; y sucederá que cuando ellos salgan contra nosotros como lo hicieron antes, nosotros huiremos delante de ellos."
+        },
+        {
+            "id": "jos8_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y ellos saldrán tras nosotros, hasta que los arranquemos de la ciudad; porque ellos dirán: Huyen de nosotros como la primera vez. Huiremos, pues, delante de ellos."
+        },
+        {
+            "id": "jos8_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces vosotros os levantaréis de la emboscada, y os echaréis sobre la ciudad; porque Jehová vuestro Dios la entregará en vuestras manos."
+        },
+        {
+            "id": "jos8_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y cuando la hubiereis tomado, le prenderéis fuego. Haréis conforme a la palabra de Jehová. Mirad que yo os lo he mandado."
+        },
+        {
+            "id": "jos8_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces Josué los envió; y ellos se fueron a la emboscada, y se pusieron entre Betel y Hai, al occidente de Hai: y Josué se quedó aquella noche en medio del pueblo."
+        },
+        {
+            "id": "jos8_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y levantándose Josué muy de mañana, revistó al pueblo, y subió él, con los ancianos de Israel, delante del pueblo contra Hai."
+        },
+        {
+            "id": "jos8_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y toda la gente de guerra que estaba con él, subió, y se acercó, y llegaron delante de la ciudad, y acamparon al norte de Hai; y el valle estaba entre él y Hai."
+        },
+        {
+            "id": "jos8_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y tomó como cinco mil hombres, y los puso en emboscada entre Betel y Hai, al lado oeste de la ciudad."
+        },
+        {
+            "id": "jos8_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y habiendo ordenado al pueblo, todo el campamento que estaba en el norte de la ciudad, y su emboscada al occidente de la ciudad, Josué vino aquella noche hasta el medio del valle."
+        },
+        {
+            "id": "jos8_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y sucedió que cuando lo vio el rey de Hai, se levantó prestamente de mañana, y salió con la gente de la ciudad contra Israel, él y todo su pueblo, para combatir por el llano al tiempo señalado, no sabiendo que le estaba puesta emboscada a las espaldas de la ciudad."
+        },
+        {
+            "id": "jos8_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces Josué y todo Israel, fingiéndose vencidos ante ellos, huyeron por el camino del desierto."
+        },
+        {
+            "id": "jos8_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y todo el pueblo que estaba en Hai se juntó para seguirlos; y siguieron a Josué, siendo así arrancados de la ciudad."
+        },
+        {
+            "id": "jos8_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y no quedó hombre en Hai y Betel, que no saliera tras de Israel; y por seguir a Israel dejaron la ciudad abierta."
+        },
+        {
+            "id": "jos8_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces Jehová dijo a Josué:"
+        },
+        {
+            "id": "jos8_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Levanta la lanza que tienes en tu mano hacia Hai, porque yo la entregaré en tu mano. Y Josué levantó hacia la ciudad la lanza que en su mano tenía."
+        },
+        {
+            "id": "jos8_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y levantándose prestamente de su lugar los que estaban en la emboscada, corrieron luego que él alzó su mano, y vinieron a la ciudad, y la tomaron, y se apresuraron a prenderle fuego."
+        },
+        {
+            "id": "jos8_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y cuando los de la ciudad miraron atrás, observaron, y he aquí el humo de la ciudad que subía al cielo, y no pudieron huir ni a una parte ni a otra; y el pueblo que iba huyendo hacia el desierto se volvió contra quienes los perseguían."
+        },
+        {
+            "id": "jos8_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Josué y todo Israel, viendo que los de la emboscada habían tomado la ciudad, y que el humo de la ciudad subía, volvieron, e hirieron a los de Hai."
+        },
+        {
+            "id": "jos8_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y los otros salieron de la ciudad a su encuentro: y así fueron encerrados en medio de Israel, los unos de la una parte, y los otros de la otra. Y los hirieron hasta que no quedó ninguno de ellos que escapase."
+        },
+        {
+            "id": "jos8_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y tomaron vivo al rey de Hai, y le trajeron a Josué."
+        },
+        {
+            "id": "jos8_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y sucedió que cuando Israel acabó de matar a todos los moradores de Hai en el campo y en el desierto, adonde ellos los habían perseguido, y todos habían caído a filo de espada hasta ser consumidos, todos los israelitas volvieron a Hai y la hirieron a filo de espada."
+        },
+        {
+            "id": "jos8_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y el número de los que cayeron aquel día, hombres y mujeres, fue doce mil, todos los de Hai."
+        },
+        {
+            "id": "jos8_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Josué no retrajo su mano que había extendido con la lanza, hasta que hubo destruido a todos los moradores de Hai."
+        },
+        {
+            "id": "jos8_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "E Israel tomó para sí, sólo las bestias y el despojo de la ciudad, conforme a la palabra de Jehová que Él había mandado a Josué."
+        },
+        {
+            "id": "jos8_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Josué quemó a Hai y la redujo a un montón perpetuo, asolado hasta hoy."
+        },
+        {
+            "id": "jos8_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Mas al rey de Hai colgó de un madero hasta la tarde; y cuando el sol se puso, mandó Josué que quitasen del madero su cuerpo, y lo echasen a la puerta de la ciudad; y levantaron sobre él un gran montón de piedras, que permanece hasta hoy."
+        },
+        {
+            "id": "jos8_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces Josué edificó un altar a Jehová, el Dios de Israel, en el monte de Ebal,"
+        },
+        {
+            "id": "jos8_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "como Moisés, siervo de Jehová, lo había mandado a los hijos de Israel, como está escrito en el libro de la ley de Moisés, un altar de piedras enteras sobre las cuales nadie alzó hierro: y ofrecieron sobre él holocaustos a Jehová, y sacrificaron ofrendas de paz."
+        },
+        {
+            "id": "jos8_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "También escribió allí en piedras la repetición de la ley de Moisés, la cual él había escrito delante de los hijos de Israel."
+        },
+        {
+            "id": "jos8_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y todo Israel, y sus ancianos, oficiales, y jueces, estaban a uno y otro lado del arca, delante de los sacerdotes levitas que llevan el arca del pacto de Jehová; así extranjeros como naturales, la mitad de ellos estaba hacia el monte de Gerizim, y la otra mitad hacia el monte de Ebal; de la manera que Moisés, siervo de Jehová, lo había mandado antes, para que bendijesen primeramente al pueblo de Israel."
+        },
+        {
+            "id": "jos8_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Después de esto, leyó todas las palabras de la ley, las bendiciones y las maldiciones, conforme a todo lo que está escrito en el libro de la ley."
+        },
+        {
+            "id": "jos8_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "No hubo palabra alguna de todas las cosas que mandó Moisés, que Josué no hiciese leer delante de toda la congregación de Israel, mujeres y niños, y extranjeros que andaban entre ellos."
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "book": "Josué",
+    "chapter": 9,
+    "title": "Josué 9",
+    "messages": [
+        {
+            "id": "jos9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que cuando oyeron estas cosas todos los reyes que estaban a este lado del Jordán, así en las montañas como en los llanos, y en toda la costa del Mar Grande delante del Líbano, los heteos, amorreos, cananeos, ferezeos, heveos y jebuseos;"
+        },
+        {
+            "id": "jos9_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "se juntaron a una, de un acuerdo, para pelear contra Josué e Israel."
+        },
+        {
+            "id": "jos9_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y cuando los habitantes de Gabaón oyeron lo que Josué había hecho a Jericó y a Hai,"
+        },
+        {
+            "id": "jos9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "ellos usaron de astucia; pues fueron y se fingieron embajadores, y tomaron sacos viejos sobre sus asnos, y odres viejos de vino, rotos y remendados,"
+        },
+        {
+            "id": "jos9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "y zapatos viejos y recosidos en sus pies, con vestiduras viejas sobre sí; y todo el pan que traían para el camino, seco y mohoso."
+        },
+        {
+            "id": "jos9_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Así vinieron a Josué al campo en Gilgal, y le dijeron a él y a los de Israel:"
+        },
+        {
+            "id": "jos9_6b",
+            "speaker": "Gabaonitas",
+            "verse": 6,
+            "text": "Nosotros venimos de tierra muy lejana: haced, pues, ahora alianza con nosotros."
+        },
+        {
+            "id": "jos9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y los de Israel respondieron a los heveos:"
+        },
+        {
+            "id": "jos9_7b",
+            "speaker": "Israel",
+            "verse": 7,
+            "text": "Quizá vosotros habitáis en medio de nosotros, ¿cómo, pues, podremos nosotros hacer alianza con vosotros?"
+        },
+        {
+            "id": "jos9_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ellos respondieron a Josué:"
+        },
+        {
+            "id": "jos9_8b",
+            "speaker": "Gabaonitas",
+            "verse": 8,
+            "text": "Nosotros somos tus siervos."
+        },
+        {
+            "id": "jos9_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Josué les dijo:"
+        },
+        {
+            "id": "jos9_8d",
+            "speaker": "Josué",
+            "verse": 8,
+            "text": "¿Quiénes sois vosotros y de dónde venís?"
+        },
+        {
+            "id": "jos9_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "jos9_9b",
+            "speaker": "Gabaonitas",
+            "verse": 9,
+            "text": "Tus siervos han venido de muy lejanas tierras, por la fama de Jehová tu Dios; porque hemos oído su fama, y todo lo que Él hizo en Egipto,"
+        },
+        {
+            "id": "jos9_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y todo lo que hizo a los dos reyes de los amorreos que estaban al otro lado del Jordán; a Sehón, rey de Hesbón, y a Og, rey de Basán, que estaba en Astarot."
+        },
+        {
+            "id": "jos9_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por lo cual nuestros ancianos y todos los moradores de nuestra tierra nos dijeron:"
+        },
+        {
+            "id": "jos9_11b",
+            "speaker": "Gabaonitas",
+            "verse": 11,
+            "text": "Tomad en vuestras manos provisión para el camino, e id al encuentro de ellos, y decidles: Nosotros somos vuestros siervos, y haced ahora con nosotros alianza."
+        },
+        {
+            "id": "jos9_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Este nuestro pan lo tomamos caliente de nuestras casas para el camino el día que salimos para venir a vosotros; y helo aquí ahora está seco y mohoso."
+        },
+        {
+            "id": "jos9_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Estos odres de vino también los llenamos nuevos; y helos aquí, ya están rotos; también estas nuestras vestiduras y nuestros zapatos están ya viejos a causa de lo muy largo del camino."
+        },
+        {
+            "id": "jos9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y los hombres de Israel tomaron de su provisión del camino, y no consultaron a la boca de Jehová."
+        },
+        {
+            "id": "jos9_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Josué hizo paz con ellos, y concertó con ellos que les dejaría la vida: también los príncipes de la congregación les juraron."
+        },
+        {
+            "id": "jos9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y sucedió que pasados tres días después que hicieron alianza con ellos, oyeron que eran sus vecinos y que habitaban en medio de ellos."
+        },
+        {
+            "id": "jos9_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y partieron los hijos de Israel, y al tercer día llegaron a sus ciudades; y sus ciudades eran Gabaón, Cefira, Beerot y Quiriat-jearim."
+        },
+        {
+            "id": "jos9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y no los hirieron los hijos de Israel, por cuanto los príncipes de la congregación les habían jurado por Jehová, el Dios de Israel. Y toda la congregación murmuraba contra los príncipes."
+        },
+        {
+            "id": "jos9_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas todos los príncipes respondieron a toda la congregación:"
+        },
+        {
+            "id": "jos9_19b",
+            "speaker": "Príncipes",
+            "verse": 19,
+            "text": "Nosotros les hemos jurado por Jehová, el Dios de Israel; por tanto, ahora no les podemos tocar."
+        },
+        {
+            "id": "jos9_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Esto haremos con ellos: les dejaremos vivir, para que no venga ira sobre nosotros a causa del juramento que les hemos hecho."
+        },
+        {
+            "id": "jos9_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y los príncipes les dijeron:"
+        },
+        {
+            "id": "jos9_21b",
+            "speaker": "Príncipes",
+            "verse": 21,
+            "text": "Vivan; mas sean leñadores y aguadores para toda la congregación, como los príncipes les han dicho."
+        },
+        {
+            "id": "jos9_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y llamándolos Josué, les habló diciendo:"
+        },
+        {
+            "id": "jos9_22b",
+            "speaker": "Josué",
+            "verse": 22,
+            "text": "¿Por qué nos habéis engañado, diciendo: Habitamos muy lejos de vosotros, cuando moráis en medio de nosotros?"
+        },
+        {
+            "id": "jos9_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Ahora, pues, vosotros sois malditos, y ninguno de vosotros será exento de ser siervo, y de ser leñador y sacar el agua para la casa de mi Dios."
+        },
+        {
+            "id": "jos9_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y ellos respondieron a Josué, y dijeron:"
+        },
+        {
+            "id": "jos9_24b",
+            "speaker": "Gabaonitas",
+            "verse": 24,
+            "text": "Como fue dado a entender a tus siervos, que Jehová tu Dios había mandado a Moisés su siervo que os había de dar toda la tierra, y que había de destruir todos los moradores de la tierra delante de vosotros, por esto temimos en gran manera de vosotros por nuestras vidas, e hicimos esto."
+        },
+        {
+            "id": "jos9_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Ahora pues, henos aquí en tu mano; lo que te pareciere bueno y recto hacer de nosotros, hazlo."
+        },
+        {
+            "id": "jos9_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y él lo hizo así; que los libró de la mano de los hijos de Israel, para que no los matasen."
+        },
+        {
+            "id": "jos9_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y los constituyó Josué aquel día por leñadores y aguadores para la congregación y para el altar de Jehová, en el lugar que Él escogiese; lo que son hasta hoy."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Israel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Príncipes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Príncipes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,145 @@
+{
+    "book": "Josué",
+    "chapter": 3,
+    "title": "Josué 3",
+    "messages": [
+        {
+            "id": "jos3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Josué se levantó de mañana, y partieron de Sitim, y vinieron hasta el Jordán, él y todos los hijos de Israel, y reposaron allí antes de pasarlo."
+        },
+        {
+            "id": "jos3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y pasados tres días, los oficiales atravesaron por medio del campamento,"
+        },
+        {
+            "id": "jos3_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y mandaron al pueblo, diciendo:"
+        },
+        {
+            "id": "jos3_3b",
+            "speaker": "Oficiales",
+            "verse": 3,
+            "text": "Cuando viereis el arca del pacto de Jehová vuestro Dios, y los sacerdotes y levitas que la llevan, vosotros partiréis de vuestro lugar, y marcharéis en pos de ella,"
+        },
+        {
+            "id": "jos3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "pero entre vosotros y ella habrá una distancia como de la medida de dos mil codos, no os acercaréis a ella; para que sepáis el camino por el cuál debéis ir, por cuanto vosotros no habéis pasado antes por este camino."
+        },
+        {
+            "id": "jos3_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Josué dijo al pueblo:"
+        },
+        {
+            "id": "jos3_5b",
+            "speaker": "Josué",
+            "verse": 5,
+            "text": "Santificaos, porque mañana Jehová hará maravillas entre vosotros."
+        },
+        {
+            "id": "jos3_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y habló Josué a los sacerdotes, diciendo:"
+        },
+        {
+            "id": "jos3_6b",
+            "speaker": "Josué",
+            "verse": 6,
+            "text": "Tomad el arca del pacto, y pasad delante del pueblo. Y ellos tomaron el arca del pacto, y fueron delante del pueblo."
+        },
+        {
+            "id": "jos3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Jehová dijo a Josué:"
+        },
+        {
+            "id": "jos3_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Desde este día comenzaré a engrandecerte delante de los ojos de todo Israel, para que entiendan que como estuve con Moisés, así estaré contigo."
+        },
+        {
+            "id": "jos3_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Tú, pues, mandarás a los sacerdotes que llevan el arca del pacto, diciendo:"
+        },
+        {
+            "id": "jos3_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Cuando hubiereis entrado hasta el borde del agua del Jordán, pararéis en el Jordán."
+        },
+        {
+            "id": "jos3_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Josué dijo a los hijos de Israel:"
+        },
+        {
+            "id": "jos3_9b",
+            "speaker": "Josué",
+            "verse": 9,
+            "text": "Llegaos acá, y escuchad las palabras de Jehová vuestro Dios."
+        },
+        {
+            "id": "jos3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y añadió Josué: En esto conoceréis que el Dios viviente está en medio de vosotros, y que Él echará de delante de vosotros al cananeo, y al heteo, y al heveo, y al ferezeo, y al gergeseo, y al amorreo, y al jebuseo."
+        },
+        {
+            "id": "jos3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "He aquí, el arca del pacto del Señor de toda la tierra pasa el Jordán delante de vosotros."
+        },
+        {
+            "id": "jos3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Tomad, pues, ahora doce hombres de las tribus de Israel, de cada tribu uno."
+        },
+        {
+            "id": "jos3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y cuando las plantas de los pies de los sacerdotes que llevan el arca de Jehová Señor de toda la tierra, fueren asentadas sobre las aguas del Jordán, las aguas del Jordán se partirán; porque las aguas que vienen de arriba se detendrán en un montón."
+        },
+        {
+            "id": "jos3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y aconteció que cuando el pueblo partió de sus tiendas para pasar el Jordán con los sacerdotes delante del pueblo llevando el arca del pacto,"
+        },
+        {
+            "id": "jos3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "cuando los que llevaban el arca entraron en el Jordán y los pies de los sacerdotes que llevaban el arca se mojaron a la orilla del agua (porque el Jordán suele desbordarse sobre todas sus riberas todo el tiempo de la siega),"
+        },
+        {
+            "id": "jos3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "las aguas que venían de arriba, se pararon como en un montón bien lejos de la ciudad de Adam, que está al lado de Zaretán; y las que descendían al mar del Arabá, el Mar Salado, se acabaron y fueron partidas; y el pueblo pasó frente a Jericó."
+        },
+        {
+            "id": "jos3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas los sacerdotes que llevaban el arca del pacto de Jehová, estuvieron en seco, firmes en medio del Jordán, hasta que todo el pueblo hubo acabado de pasar el Jordán; y todo Israel pasó en seco."
+        }
+    ]
+}

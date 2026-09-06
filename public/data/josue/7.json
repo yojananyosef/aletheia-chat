@@ -1,0 +1,211 @@
+{
+    "book": "Josué",
+    "chapter": 7,
+    "title": "Josué 7",
+    "messages": [
+        {
+            "id": "jos7_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pero los hijos de Israel cometieron prevaricación en el anatema: porque Acán, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá, tomó del anatema; y la ira de Jehová se encendió contra los hijos de Israel."
+        },
+        {
+            "id": "jos7_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Josué envió hombres desde Jericó a Hai, que estaba junto a Betaven hacia el oriente de Betel; y les habló diciendo:"
+        },
+        {
+            "id": "jos7_2b",
+            "speaker": "Josué",
+            "verse": 2,
+            "text": "Subid, y reconoced la tierra. Y ellos subieron, y reconocieron a Hai."
+        },
+        {
+            "id": "jos7_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y volviendo a Josué, le dijeron:"
+        },
+        {
+            "id": "jos7_3b",
+            "speaker": "Espías",
+            "verse": 3,
+            "text": "No suba todo el pueblo, mas suban como dos mil o como tres mil hombres, y tomarán a Hai: no fatigues a todo el pueblo allí, porque son pocos."
+        },
+        {
+            "id": "jos7_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y subieron allá del pueblo como tres mil hombres, los cuales huyeron delante de los de Hai."
+        },
+        {
+            "id": "jos7_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los de Hai hirieron de ellos como treinta y seis hombres, y los siguieron desde la puerta hasta Sebarim, y los rompieron en la bajada: por lo que se disolvió el corazón del pueblo, y vino a ser como agua."
+        },
+        {
+            "id": "jos7_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Josué rompió sus vestiduras, y se postró en tierra sobre su rostro delante del arca de Jehová hasta la tarde, él y los ancianos de Israel; y echaron polvo sobre sus cabezas."
+        },
+        {
+            "id": "jos7_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Josué dijo:"
+        },
+        {
+            "id": "jos7_7b",
+            "speaker": "Josué",
+            "verse": 7,
+            "text": "¡Ah, Señor Jehová! ¿Por qué hiciste pasar a este pueblo el Jordán, para entregarnos en las manos de los amorreos y que nos destruyan? ¡Mejor nos hubiéramos quedado al otro lado del Jordán!"
+        },
+        {
+            "id": "jos7_8",
+            "speaker": "Josué",
+            "verse": 8,
+            "text": "¡Ay Señor! ¿Qué diré, ya que Israel ha vuelto la espalda delante de sus enemigos?"
+        },
+        {
+            "id": "jos7_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque los cananeos y todos los moradores de la tierra oirán, y nos cercarán, y raerán nuestro nombre de sobre la tierra: entonces ¿qué harás tú a tu grande nombre?"
+        },
+        {
+            "id": "jos7_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Jehová dijo a Josué:"
+        },
+        {
+            "id": "jos7_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Levántate; ¿por qué te postras así sobre tu rostro?"
+        },
+        {
+            "id": "jos7_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Israel ha pecado, y aun han quebrantado mi pacto que yo les había mandado; pues aun han tomado del anatema, y hasta han hurtado, y también han mentido, y aun lo han guardado entre sus enseres."
+        },
+        {
+            "id": "jos7_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por esto los hijos de Israel no podrán estar delante de sus enemigos, sino que delante de sus enemigos volverán la espalda; por cuanto han venido a ser anatema. Ya no seré más con vosotros, al menos que destruyáis el anatema de en medio de vosotros."
+        },
+        {
+            "id": "jos7_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Levántate, santifica al pueblo, y di: Santificaos para mañana, porque Jehová, el Dios de Israel, dice así:"
+        },
+        {
+            "id": "jos7_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Anatema hay en medio de ti, Israel; no podrás estar delante de tus enemigos, hasta tanto que hayáis quitado el anatema de en medio de vosotros."
+        },
+        {
+            "id": "jos7_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Os acercaréis, pues, mañana por vuestras tribus; y la tribu que Jehová tomare, se acercará por sus familias; y la familia que Jehová tomare, se acercará por sus casas; y la casa que Jehová tomare, se acercará por los varones;"
+        },
+        {
+            "id": "jos7_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y el que fuere sorprendido en el anatema, será quemado a fuego, él y todo lo que tiene, por cuanto ha quebrantado el pacto de Jehová, y ha cometido maldad en Israel."
+        },
+        {
+            "id": "jos7_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Josué, pues, levantándose de mañana, hizo venir a Israel por sus tribus; y fue tomada la tribu de Judá."
+        },
+        {
+            "id": "jos7_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y trajo a la tribu de Judá, y tomó la familia de los zeraítas; luego trajo a la familia de los zeraítas por los varones, y fue tomado Zabdi."
+        },
+        {
+            "id": "jos7_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "E hizo venir a los varones de su casa, y fue tomado Acán, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá."
+        },
+        {
+            "id": "jos7_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces Josué dijo a Acán:"
+        },
+        {
+            "id": "jos7_19b",
+            "speaker": "Josué",
+            "verse": 19,
+            "text": "Hijo mío, te ruego, da gloria a Jehová, el Dios de Israel, y confiesa ante Él; y declárame ahora lo que has hecho, no me lo encubras."
+        },
+        {
+            "id": "jos7_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Acán respondió a Josué, diciendo:"
+        },
+        {
+            "id": "jos7_20b",
+            "speaker": "Acán",
+            "verse": 20,
+            "text": "Verdaderamente yo he pecado contra Jehová, el Dios de Israel, y he hecho así y así:"
+        },
+        {
+            "id": "jos7_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Que vi entre el despojo un manto babilónico muy bueno, y doscientos siclos de plata, y un lingote de oro de peso de cincuenta siclos; lo cual codicié y tomé; y he aquí que está escondido debajo de tierra en el medio de mi tienda, y el dinero debajo de ello."
+        },
+        {
+            "id": "jos7_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Josué entonces envió mensajeros, los cuales fueron corriendo a la tienda; y he aquí estaba escondido en su tienda, y el dinero debajo de ello."
+        },
+        {
+            "id": "jos7_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y tomándolo de en medio de la tienda, lo trajeron a Josué y a todos los hijos de Israel, y lo pusieron delante de Jehová."
+        },
+        {
+            "id": "jos7_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Josué, y todo Israel con él, tomó a Acán, hijo de Zera, y el dinero, y el manto, y el lingote de oro, y sus hijos, y sus hijas, y sus bueyes, y sus asnos, y sus ovejas, y su tienda, y todo cuanto tenía, y lo llevaron todo al valle de Acor."
+        },
+        {
+            "id": "jos7_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y dijo Josué:"
+        },
+        {
+            "id": "jos7_25b",
+            "speaker": "Josué",
+            "verse": 25,
+            "text": "¿Por qué nos has turbado? Jehová te turbe en este día. Y todos los israelitas los apedrearon, y los quemaron a fuego, después de haberlos apedreado."
+        },
+        {
+            "id": "jos7_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y levantaron sobre él un gran montón de piedras, hasta hoy. Y Jehová se volvió del furor de su ira. Y por eso fue llamado aquel lugar el Valle de Acor, hasta hoy."
+        }
+    ]
+}
