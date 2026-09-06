@@ -1850,6 +1850,160 @@
       "flags": "i",
       "speaker": "Profeta",
       "confidence": 0.75
+    },
+    {
+      "id": "giezi",
+      "pattern": "\\b(giezi)\\b",
+      "flags": "i",
+      "speaker": "Giezi",
+      "confidence": 0.85
+    },
+    {
+      "id": "naaman",
+      "pattern": "\\b(naam[áa]n)\\b",
+      "flags": "i",
+      "speaker": "Naamán",
+      "confidence": 0.85
+    },
+    {
+      "id": "sunamita",
+      "pattern": "\\b(sunamita)\\b",
+      "flags": "i",
+      "speaker": "Sunamita",
+      "confidence": 0.85
+    },
+    {
+      "id": "joram",
+      "pattern": "\\b(joram)\\b",
+      "flags": "i",
+      "speaker": "Joram",
+      "confidence": 0.85
+    },
+    {
+      "id": "jehu",
+      "pattern": "\\b(jeh[úu])\\b",
+      "flags": "i",
+      "speaker": "Jehú",
+      "confidence": 0.85
+    },
+    {
+      "id": "hazael",
+      "pattern": "\\b(hazael)\\b",
+      "flags": "i",
+      "speaker": "Hazael",
+      "confidence": 0.85
+    },
+    {
+      "id": "atalia",
+      "pattern": "\\b(atal[íi]a)\\b",
+      "flags": "i",
+      "speaker": "Atalía",
+      "confidence": 0.85
+    },
+    {
+      "id": "joiadas",
+      "pattern": "\\b(joiadas?)\\b",
+      "flags": "i",
+      "speaker": "Joiada",
+      "confidence": 0.85
+    },
+    {
+      "id": "ezequias",
+      "pattern": "\\b(ezequ[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Ezequías",
+      "confidence": 0.85
+    },
+    {
+      "id": "rabsaces",
+      "pattern": "\\b(rabsaces)\\b",
+      "flags": "i",
+      "speaker": "Rabsaces",
+      "confidence": 0.85
+    },
+    {
+      "id": "eliaquim",
+      "pattern": "\\b(eliaquim)\\b",
+      "flags": "i",
+      "speaker": "Eliaquim",
+      "confidence": 0.85
+    },
+    {
+      "id": "hulda",
+      "pattern": "\\b(hulda)\\b",
+      "flags": "i",
+      "speaker": "Hulda",
+      "confidence": 0.85
+    },
+    {
+      "id": "hilcias",
+      "pattern": "\\b(hilc[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Hilcías",
+      "confidence": 0.85
+    },
+    {
+      "id": "safan",
+      "pattern": "\\b(saf[áa]n)\\b",
+      "flags": "i",
+      "speaker": "Safán",
+      "confidence": 0.85
+    },
+    {
+      "id": "josias",
+      "pattern": "\\b(jos[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Josías",
+      "confidence": 0.85
+    },
+    {
+      "id": "isaias",
+      "pattern": "\\b(isa[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Isaías",
+      "confidence": 0.85
+    },
+    {
+      "id": "senaquerib",
+      "pattern": "\\b(senaquerib)\\b",
+      "flags": "i",
+      "speaker": "Senaquerib",
+      "confidence": 0.85
+    },
+    {
+      "id": "gedalias",
+      "pattern": "\\b(gedal[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Gedalías",
+      "confidence": 0.85
+    },
+    {
+      "id": "joas",
+      "pattern": "\\b(jo[áa]s)\\b",
+      "flags": "i",
+      "speaker": "Joás",
+      "confidence": 0.85
+    },
+    {
+      "id": "acaz",
+      "pattern": "\\b(acaz)\\b",
+      "flags": "i",
+      "speaker": "Acaz",
+      "confidence": 0.85
+    },
+    {
+      "id": "capitan",
+      "pattern": "\\b(capit[áa]n)\\b",
+      "flags": "i",
+      "speaker": "Capitán",
+      "confidence": 0.8
+    },
+    {
+      "id": "nino",
+      "pattern": "\\b(ni[ñn]o)\\b",
+      "flags": "i",
+      "speaker": "Niño",
+      "confidence": 0.8
     }
   ],
   "aliases": {

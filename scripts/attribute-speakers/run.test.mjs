@@ -213,6 +213,13 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(s24.messages, 16, 'b'), 'David');
   });
 
+  it('2RE voces: Naamán 5:11, Eliseo 6:19', () => {
+    const s5 = run('2reyes', '2KI', 5);
+    assert.equal(speakerOf(s5.messages, 11, 'b'), 'Naamán');
+    const s6 = run('2reyes', '2KI', 6);
+    assert.equal(speakerOf(s6.messages, 19, 'b'), 'Eliseo');
+  });
+
   it('1RE voces: Elías 18:15, Salomón 2:22', () => {
     const s18 = run('1reyes', '1KI', 18);
     assert.equal(speakerOf(s18.messages, 15, 'b'), 'Elías');
