@@ -1,0 +1,79 @@
+{
+    "book": "Eclesiastés",
+    "chapter": 6,
+    "title": "Eclesiastés 6",
+    "messages": [
+        {
+            "id": "ecc6_1",
+            "speaker": "Predicador",
+            "verse": 1,
+            "text": "Hay un mal que he visto debajo del cielo, y muy común entre los hombres:"
+        },
+        {
+            "id": "ecc6_2",
+            "speaker": "Predicador",
+            "verse": 2,
+            "text": "Un hombre a quien Dios da riquezas, bienes y honra, y nada le falta de todo lo que su alma desea; mas Dios no le da facultad de comer de ello, sino que los extraños se lo comen. Esto es vanidad y penosa enfermedad."
+        },
+        {
+            "id": "ecc6_3",
+            "speaker": "Predicador",
+            "verse": 3,
+            "text": "Si el hombre engendrare cien hijos, y viviere muchos años, y los días de su edad fueren numerosos; si su alma no se sació del bien, y también careció de sepultura, yo digo que el abortivo es mejor que él."
+        },
+        {
+            "id": "ecc6_4",
+            "speaker": "Predicador",
+            "verse": 4,
+            "text": "Porque en vano vino, y a tinieblas va, y con tinieblas será cubierto su nombre."
+        },
+        {
+            "id": "ecc6_5",
+            "speaker": "Predicador",
+            "verse": 5,
+            "text": "Aunque no haya visto el sol, ni conocido nada, más reposo tiene éste que aquél."
+        },
+        {
+            "id": "ecc6_6",
+            "speaker": "Predicador",
+            "verse": 6,
+            "text": "Aunque aquél viviere mil años dos veces, sin haber gozado del bien, ¿no van todos a un mismo lugar?"
+        },
+        {
+            "id": "ecc6_7",
+            "speaker": "Predicador",
+            "verse": 7,
+            "text": "Todo el trabajo del hombre es para su boca, y con todo eso su alma no se sacia."
+        },
+        {
+            "id": "ecc6_8",
+            "speaker": "Predicador",
+            "verse": 8,
+            "text": "Porque ¿qué más tiene el sabio que el necio? ¿Qué más tiene el pobre que supo caminar entre los vivos?"
+        },
+        {
+            "id": "ecc6_9",
+            "speaker": "Predicador",
+            "verse": 9,
+            "text": "Más vale vista de ojos que deseo que pasa. Y también esto es vanidad y aflicción de espíritu."
+        },
+        {
+            "id": "ecc6_10",
+            "speaker": "Predicador",
+            "verse": 10,
+            "text": "El que es, ya su nombre ha sido nombrado; y se sabe que es hombre, y que no podrá contender con Aquél que es más poderoso que él."
+        },
+        {
+            "id": "ecc6_11",
+            "speaker": "Predicador",
+            "verse": 11,
+            "text": "Ciertamente las muchas palabras multiplican la vanidad. ¿Qué más tiene el hombre?"
+        },
+        {
+            "id": "ecc6_12",
+            "speaker": "Predicador",
+            "verse": 12,
+            "text": "Porque ¿quién sabe cuál es el bien del hombre en la vida, todos los días de la vida de su vanidad, los cuales él pasa como sombra? Porque ¿quién enseñará al hombre qué será después de él debajo del sol?"
+        }
+    ]
+}
