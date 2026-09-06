@@ -236,7 +236,13 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
   // orden transmitida (Jos 1:11a = Josué) de un marco narrativo puro
   // ("Y dijo al pueblo:" = Narrador). Denylist de sustantivos -ad/-ed.
   const IMPERATIVE_RE = new RegExp(`${WB_L}(?!verdad|bondad|maldad|ciudad|trinidad|mitad|voluntad|hermandad|amistad|merced|pared|edad|enfermedad)(\\w{3,}(?:ad|ed|id|aos|eos|[íi]os|ate|ete))${WB_R}`, 'iu');
-  const looksSpeech = (t) => SPEECHMARK_RE.test(t) || IMPERATIVE_RE.test(t);
+  // Verbos en 2ª persona (futuro/condicional/pretérito/subjuntivo: casi nunca
+  // son sustantivos). El presente -as/-es se excluye por ruido ("manos").
+  const VERB2_RE = new RegExp(`${WB_L}(?!atrás|jamás|además|país|raíz|maíz|compás|revés)([a-záéíóúñü]\\w*(?:arás|erás|irás|arías|erías|irías|aste|iste|ares|ieres|ases|ieses|áis|éis|aréis|eréis|iréis))${WB_R}`, 'u');
+  // Arranque narrativo ("Y vio/llamó/hizo Dios..."): el discurso divino dice
+  // "yo", no "Dios" en 3ª. Bloquea la red divina en interludios de acción.
+  const NARRSTART_RE = new RegExp(`^(?:y|e|entonces|mas|pero|pues|as[íi]|y aconteci[óo]|y sucedi[óo])\\s+(?:vio|vieron|llam[óo]|llamaron|hizo|hicieron|cre[óo]|crearon|puso|pusieron|fue|fueron|era|eran|hubo|hab[íi]a|hab[íi]an|estaba|estaban|dijo|dijeron|habl[óo]|hablaron|vino|vinieron|tom[óo]|tomaron|dio|dieron|envi[óo]|enviaron|sali[óo]|salieron|entr[óo]|entraron|muri[óo]|murieron|levant[óo]|levantaron|edific[óo]|ofreci[óo]|ofrecieron|junt[óo]|juntaron|reuni[óo]|extendi[óo]|sac[óo]|trajo|dej[óo]|oy[óo]|respondi[óo]|volvi[óo]|descendi[óo]|subi[óo]|durmi[óo]|comi[óo]|bebi[óo]|anduvo|pas[óo]|mir[óo]|hall[óo]|bendijo|hablaba|produjo|produjeron|apart[óo]|junt[óo]|separ[óo])${WB_R}`, 'iu');
+  const looksSpeech = (t) => SPEECHMARK_RE.test(t) || IMPERATIVE_RE.test(t) || VERB2_RE.test(t);
   // Hablante que introduce un verso-marco "...diciendo:". Orden:
   // 1) sujeto inicial explícito ("Y Josué mandó... diciendo:" -> Josué);
   // 2) Jehová como emisor ("Jehová habló a Josué... diciendo:" -> Dios,
@@ -412,6 +418,13 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
           // Sin marcas de discurso se asume interludio narrativo (rompe la voz).
           pushMsg(verseNum, '', carried, text);
           diagnosis.push({ verse: verseNum, subId: '', speaker: carried, confidence: 0.6, rule: 'speech-carryover', ambiguous: true });
+        } else if (carried === 'Dios' && valid.has('Dios') && !NARRSTART_RE.test(text)) {
+          // En contexto de discurso divino, un verso sin marcas puede ser
+          // continuación (Ex 9:4) o interludio narrativo: va a revisión en
+          // vez de perderse en silencio. La voz sigue activa. Los arranques
+          // de acción ("Y vio Dios...") siguen siendo Narrador en silencio.
+          pushMsg(verseNum, '', 'Dios', text);
+          diagnosis.push({ verse: verseNum, subId: '', speaker: 'Dios', confidence: 0.5, rule: 'speech-carryover-divine', ambiguous: true });
         } else {
           if (!DICENDI_RE.test(text)) carried = null;
           pushMsg(verseNum, '', 'Narrador', text);
@@ -420,6 +433,9 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
       } else if (carried && valid.has(carried) && looksSpeech(text)) {
         pushMsg(verseNum, '', carried, text);
         diagnosis.push({ verse: verseNum, subId: '', speaker: carried, confidence: 0.6, rule: 'speech-carryover', ambiguous: true });
+      } else if (carried === 'Dios' && valid.has('Dios') && !NARRSTART_RE.test(text)) {
+        pushMsg(verseNum, '', 'Dios', text);
+        diagnosis.push({ verse: verseNum, subId: '', speaker: 'Dios', confidence: 0.5, rule: 'speech-carryover-divine', ambiguous: true });
       } else {
         if (!DICENDI_RE.test(text)) carried = null;
         pushMsg(verseNum, '', 'Narrador', text);
