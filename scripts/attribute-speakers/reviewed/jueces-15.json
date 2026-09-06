@@ -36,9 +36,27 @@
     "confidence": 0.85
   },
   {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "d",
     "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Judá",
     "confidence": 0.85
   },
   {
@@ -66,6 +84,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 16,
     "subId": "b",
     "speaker": "Sansón",
@@ -75,6 +99,12 @@
     "verse": 18,
     "subId": "b",
     "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

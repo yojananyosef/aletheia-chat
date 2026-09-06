@@ -24,6 +24,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 8,
     "subId": "b",
     "speaker": "Danitas",
@@ -34,6 +40,12 @@
     "subId": "b",
     "speaker": "Danitas",
     "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Espías",
+    "confidence": 0.9
   },
   {
     "verse": 14,
@@ -67,6 +79,12 @@
   },
   {
     "verse": 24,
+    "subId": "c",
+    "speaker": "Micaía",
+    "confidence": 0.8
+  },
+  {
+    "verse": 24,
     "subId": "d",
     "speaker": "Micaía",
     "confidence": 0.85
@@ -76,11 +94,5 @@
     "subId": "b",
     "speaker": "Danitas",
     "confidence": 0.85
-  },
-  {
-    "verse": 24,
-    "subId": "c",
-    "speaker": "Micaía",
-    "confidence": 0.8
   }
 ]

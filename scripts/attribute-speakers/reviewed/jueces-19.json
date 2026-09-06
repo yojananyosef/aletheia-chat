@@ -30,6 +30,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
     "verse": 17,
     "subId": "b",
     "speaker": "Anciano",
@@ -38,6 +44,12 @@
   {
     "verse": 18,
     "subId": "b",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
     "speaker": "Levita",
     "confidence": 0.85
   },
@@ -60,6 +72,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Anciano",
+    "confidence": 0.85
+  },
+  {
     "verse": 28,
     "subId": "b",
     "speaker": "Levita",
@@ -69,18 +87,6 @@
     "verse": 30,
     "subId": "b",
     "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 19,
-    "subId": "",
-    "speaker": "Levita",
-    "confidence": 0.85
-  },
-  {
-    "verse": 24,
-    "subId": "",
-    "speaker": "Anciano",
     "confidence": 0.85
   }
 ]

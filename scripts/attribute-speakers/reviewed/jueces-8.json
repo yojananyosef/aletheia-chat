@@ -12,6 +12,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Gedeón",
@@ -90,9 +96,9 @@
     "confidence": 0.85
   },
   {
-    "verse": 3,
+    "verse": 26,
     "subId": "",
-    "speaker": "Gedeón",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

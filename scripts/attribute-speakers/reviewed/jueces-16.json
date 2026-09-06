@@ -30,6 +30,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 9,
     "subId": "b",
     "speaker": "Dalila",
@@ -102,6 +108,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 23,
     "subId": "b",
     "speaker": "Príncipes",
@@ -123,6 +135,12 @@
     "verse": 26,
     "subId": "b",
     "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {

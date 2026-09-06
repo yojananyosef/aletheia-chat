@@ -73,14 +73,50 @@
   },
   {
     "verse": 29,
+    "subId": "a",
+    "speaker": "Gaal",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
     "subId": "b",
     "speaker": "Gaal",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
     "verse": 31,
     "subId": "b",
     "speaker": "Zebul",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Zebul",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Zebul",
+    "confidence": 0.9
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -111,12 +147,6 @@
     "verse": 54,
     "subId": "b",
     "speaker": "Abimelec",
-    "confidence": 0.85
-  },
-  {
-    "verse": 29,
-    "subId": "a",
-    "speaker": "Gaal",
     "confidence": 0.85
   }
 ]

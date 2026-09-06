@@ -1,11 +1,5 @@
 [
   {
-    "verse": 3,
-    "subId": "b",
-    "speaker": "Ángel",
-    "confidence": 0.85
-  },
-  {
     "verse": 2,
     "subId": "",
     "speaker": "Ángel",
@@ -18,6 +12,24 @@
     "confidence": 0.85
   },
   {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 21,
     "subId": "",
     "speaker": "Dios",
@@ -27,6 +39,12 @@
     "verse": 22,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

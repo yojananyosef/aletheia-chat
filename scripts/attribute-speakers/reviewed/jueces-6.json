@@ -1,7 +1,19 @@
 [
   {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 13,
     "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "c",
     "speaker": "Gedeón",
     "confidence": 0.85
   },
@@ -36,6 +48,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 22,
     "subId": "b",
     "speaker": "Gedeón",
@@ -44,6 +62,24 @@
   {
     "verse": 24,
     "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
     "speaker": "Narrador",
     "confidence": 0.85
   },
@@ -84,32 +120,14 @@
     "confidence": 0.85
   },
   {
-    "verse": 39,
-    "subId": "b",
-    "speaker": "Gedeón",
-    "confidence": 0.85
-  },
-  {
-    "verse": 13,
-    "subId": "c",
-    "speaker": "Gedeón",
-    "confidence": 0.85
-  },
-  {
-    "verse": 9,
-    "subId": "",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
-    "verse": 26,
-    "subId": "",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
     "verse": 37,
     "subId": "",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "b",
     "speaker": "Gedeón",
     "confidence": 0.85
   }

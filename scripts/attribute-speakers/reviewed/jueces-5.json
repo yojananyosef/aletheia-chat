@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Débora",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Débora",
+    "confidence": 0.8
+  },
+  {
     "verse": 23,
     "subId": "b",
     "speaker": "Débora",
@@ -18,21 +30,15 @@
     "confidence": 0.85
   },
   {
-    "verse": 16,
-    "subId": "",
-    "speaker": "Débora",
-    "confidence": 0.8
-  },
-  {
     "verse": 30,
     "subId": "",
     "speaker": "Débora",
     "confidence": 0.8
   },
   {
-    "verse": 10,
+    "verse": 31,
     "subId": "",
-    "speaker": "Débora",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]
