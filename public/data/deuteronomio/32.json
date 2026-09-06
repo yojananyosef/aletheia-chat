@@ -1,0 +1,337 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 32,
+    "title": "Deuteronomio 32",
+    "messages": [
+        {
+            "id": "deu32_1",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Escuchad, oh cielos, y hablaré; Y oiga la tierra los dichos de mi boca."
+        },
+        {
+            "id": "deu32_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Goteará como la lluvia mi doctrina; destilará como el rocío mi razonamiento; como la llovizna sobre la grama, y como las gotas sobre la hierba:"
+        },
+        {
+            "id": "deu32_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Porque el nombre de Jehová proclamaré: Engrandeced a nuestro Dios."
+        },
+        {
+            "id": "deu32_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Él es la Roca, cuya obra es perfecta, porque todos sus caminos son rectitud: Dios de verdad, y sin ninguna iniquidad; justo y recto es Él."
+        },
+        {
+            "id": "deu32_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "Ellos se han corrompido a sí mismos; sus manchas no son las manchas de sus hijos, son una generación torcida y perversa."
+        },
+        {
+            "id": "deu32_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "¿Así pagas a Jehová, oh pueblo loco e ignorante? ¿No es Él tu Padre que te poseyó? Él te hizo y te estableció."
+        },
+        {
+            "id": "deu32_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Acuérdate de los tiempos antiguos; considera los años de muchas generaciones: Pregunta a tu padre, y él te declarará; a tus ancianos, y ellos te dirán."
+        },
+        {
+            "id": "deu32_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Cuando el Altísimo dio a las naciones su herencia, cuando separó a los hijos de los hombres, estableció los términos de los pueblos según el número de los hijos de Israel."
+        },
+        {
+            "id": "deu32_9",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Porque la porción de Jehová es su pueblo; Jacob la cuerda de su heredad."
+        },
+        {
+            "id": "deu32_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Lo halló en tierra desierta, en desierto horrible y yermo; lo condujo alrededor, lo instruyó, lo guardó como la niña de su ojo."
+        },
+        {
+            "id": "deu32_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "Como el águila despierta su nidada, revolotea sobre sus polluelos, extiende sus alas, los toma, los lleva sobre sus alas."
+        },
+        {
+            "id": "deu32_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Jehová solo le guió, y con él no hubo dios ajeno."
+        },
+        {
+            "id": "deu32_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Lo hizo subir sobre las alturas de la tierra, y comió los frutos del campo, e hizo que chupase miel de la peña, y aceite del duro pedernal;"
+        },
+        {
+            "id": "deu32_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "mantequilla de vacas y leche de ovejas, con grosura de corderos, y carneros de Basán; también machos cabríos, con lo mejor del trigo; y bebiste la sangre pura de la uva."
+        },
+        {
+            "id": "deu32_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Pero engordó Jesurún, y dio coces; Engordaste, te cubriste de grasa: Entonces dejó al Dios que lo hizo, y menospreció a la Roca de su salvación."
+        },
+        {
+            "id": "deu32_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Lo provocaron a celos con dioses ajenos; con abominaciones lo provocaron a ira."
+        },
+        {
+            "id": "deu32_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Ofrecieron sacrificio a los demonios, no a Dios; a dioses que no habían conocido, a nuevos dioses venidos de cerca, que no habían temido vuestros padres."
+        },
+        {
+            "id": "deu32_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "De la Roca que te creó te olvidaste: Te has olvidado de Dios tu Creador."
+        },
+        {
+            "id": "deu32_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Y lo vio Jehová, y se encendió en ira, por el menosprecio de sus hijos y de sus hijas."
+        },
+        {
+            "id": "deu32_20a",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "deu32_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Esconderé de ellos mi rostro, veré cuál será su fin; pues son una generación perversa, hijos sin fe."
+        },
+        {
+            "id": "deu32_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "Ellos me movieron a celos con lo que no es Dios; me provocaron a ira con sus vanidades: Yo también los moveré a celos con un pueblo que no es pueblo, los provocaré a ira con una nación insensata."
+        },
+        {
+            "id": "deu32_22",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Porque fuego se ha encendido en mi furor, y arderá hasta lo profundo del infierno; y devorará la tierra y sus frutos, y abrasará los fundamentos de los montes."
+        },
+        {
+            "id": "deu32_23",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Yo amontonaré males sobre ellos; emplearé en ellos mis saetas."
+        },
+        {
+            "id": "deu32_24",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Serán consumidos de hambre, y devorados de fiebre ardiente y de destrucción amarga; diente de fieras enviaré también sobre ellos, con veneno de serpientes de la tierra."
+        },
+        {
+            "id": "deu32_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "De fuera desolará la espada, y dentro de las cámaras el espanto; así al joven como a la virgen, al que es amamantado como al hombre cano."
+        },
+        {
+            "id": "deu32_26a",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "Yo dije:"
+        },
+        {
+            "id": "deu32_26b",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Los esparciré lejos, haré cesar de entre los hombres la memoria de ellos,"
+        },
+        {
+            "id": "deu32_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "si no temiese la ira del enemigo, no sea que se envanezcan sus adversarios, no sea que digan: Nuestra mano alta ha hecho todo esto, no Jehová."
+        },
+        {
+            "id": "deu32_28",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "Porque son una nación privada de consejos, y no hay en ellos entendimiento."
+        },
+        {
+            "id": "deu32_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "¡Oh, que fueran sabios, que comprendieran esto, que entendieran su postrimería!"
+        },
+        {
+            "id": "deu32_30",
+            "speaker": "Moisés",
+            "verse": 30,
+            "text": "¿Cómo podría perseguir uno a mil, y dos hacer huir a diez mil, si su Roca no los hubiese vendido, y Jehová no los hubiera entregado?"
+        },
+        {
+            "id": "deu32_31",
+            "speaker": "Moisés",
+            "verse": 31,
+            "text": "Porque la roca de ellos no es como nuestra Roca: Aun nuestros mismos enemigos son de ello jueces."
+        },
+        {
+            "id": "deu32_32",
+            "speaker": "Moisés",
+            "verse": 32,
+            "text": "Porque de la vid de Sodoma es la vid de ellos, y de los campos de Gomorra: Sus uvas son uvas ponzoñosas, sus racimos son amargos."
+        },
+        {
+            "id": "deu32_33",
+            "speaker": "Moisés",
+            "verse": 33,
+            "text": "Veneno de dragones es su vino, y ponzoña cruel de áspides."
+        },
+        {
+            "id": "deu32_34",
+            "speaker": "Moisés",
+            "verse": 34,
+            "text": "¿No tengo yo esto guardado conmigo, sellado en mis tesoros?"
+        },
+        {
+            "id": "deu32_35",
+            "speaker": "Moisés",
+            "verse": 35,
+            "text": "Mía es la venganza y la paga, a su tiempo su pie vacilará; porque el día de su aflicción está cercano, y lo que les está preparado se apresura."
+        },
+        {
+            "id": "deu32_36",
+            "speaker": "Moisés",
+            "verse": 36,
+            "text": "Porque Jehová juzgará a su pueblo, y por amor a sus siervos se arrepentirá, cuando viere que su fuerza se ha ido, y que no queda preso o desamparado."
+        },
+        {
+            "id": "deu32_37",
+            "speaker": "Moisés",
+            "verse": 37,
+            "text": "Y dirá: ¿Dónde están sus dioses, la roca en que se refugiaban;"
+        },
+        {
+            "id": "deu32_38",
+            "speaker": "Moisés",
+            "verse": 38,
+            "text": "que comían la grosura de sus sacrificios, y bebían el vino de sus libaciones? Levántense, que os ayuden y os defiendan."
+        },
+        {
+            "id": "deu32_39",
+            "speaker": "Moisés",
+            "verse": 39,
+            "text": "Ved ahora que yo, yo soy, y no hay dioses conmigo; yo hago morir, y yo hago vivir; yo hiero, y yo curo; y no hay quien pueda librar de mi mano."
+        },
+        {
+            "id": "deu32_40",
+            "speaker": "Moisés",
+            "verse": 40,
+            "text": "Porque yo alzo a los cielos mi mano, y digo: Vivo yo para siempre."
+        },
+        {
+            "id": "deu32_41",
+            "speaker": "Moisés",
+            "verse": 41,
+            "text": "Si afilare mi reluciente espada, y mi mano tomare el juicio, yo tomaré venganza de mis enemigos, y daré el pago a los que me aborrecen."
+        },
+        {
+            "id": "deu32_42",
+            "speaker": "Moisés",
+            "verse": 42,
+            "text": "Embriagaré de sangre mis saetas, y mi espada devorará carne: En la sangre de los muertos y de los cautivos, desde sus cabezas; en venganzas sobre el enemigo."
+        },
+        {
+            "id": "deu32_43",
+            "speaker": "Moisés",
+            "verse": 43,
+            "text": "Regocijaos, oh naciones, con su pueblo; porque Él vengará la sangre de sus siervos, Y tomará venganza de sus enemigos, y será misericordioso a su tierra y a su pueblo."
+        },
+        {
+            "id": "deu32_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y vino Moisés y recitó todas las palabras de este cántico a oídos del pueblo, él, y Josué, hijo de Nun."
+        },
+        {
+            "id": "deu32_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y acabó Moisés de recitar todas estas palabras a todo Israel;"
+        },
+        {
+            "id": "deu32_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "deu32_46b",
+            "speaker": "Moisés",
+            "verse": 46,
+            "text": "Poned vuestro corazón a todas las palabras que yo os testifico hoy, para que las mandéis a vuestros hijos, y cuiden de poner por obra todas las palabras de esta ley."
+        },
+        {
+            "id": "deu32_47",
+            "speaker": "Moisés",
+            "verse": 47,
+            "text": "Porque no os es cosa vana, mas es vuestra vida; y por ellas haréis prolongar vuestros días sobre la tierra adonde vais, pasando el Jordán para poseerla."
+        },
+        {
+            "id": "deu32_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y Jehová habló a Moisés aquel mismo día, diciendo:"
+        },
+        {
+            "id": "deu32_49",
+            "speaker": "Dios",
+            "verse": 49,
+            "text": "Sube a este monte de Abarim, al monte Nebo, que está en la tierra de Moab, que está frente a Jericó, y mira la tierra de Canaán, que yo doy por heredad a los hijos de Israel;"
+        },
+        {
+            "id": "deu32_50",
+            "speaker": "Dios",
+            "verse": 50,
+            "text": "y muere en el monte al cual subes, y sé reunido a tu pueblo; así como murió Aarón tu hermano en el monte Hor, y fue reunido a su pueblo;"
+        },
+        {
+            "id": "deu32_51",
+            "speaker": "Dios",
+            "verse": 51,
+            "text": "Por cuanto prevaricasteis contra mí en medio de los hijos de Israel en las aguas de Meriba de Cades, en el desierto de Zin; porque no me santificasteis en medio de los hijos de Israel."
+        },
+        {
+            "id": "deu32_52",
+            "speaker": "Dios",
+            "verse": 52,
+            "text": "Verás, por tanto, delante de ti la tierra; pero no entrarás allá, a la tierra que doy a los hijos de Israel."
+        }
+    ]
+}

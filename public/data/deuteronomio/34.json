@@ -1,0 +1,85 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 34,
+    "title": "Deuteronomio 34",
+    "messages": [
+        {
+            "id": "deu34_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y subió Moisés de los campos de Moab al monte Nebo, a la cumbre del Pisga, que está frente a Jericó. Y le mostró Jehová toda la tierra de Galaad hasta Dan,"
+        },
+        {
+            "id": "deu34_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y a todo Neftalí, y la tierra de Efraín y de Manasés, toda la tierra de Judá hasta el mar occidental;"
+        },
+        {
+            "id": "deu34_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "el Neguev, y la llanura del valle de Jericó, ciudad de las palmeras, hasta Zoar."
+        },
+        {
+            "id": "deu34_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y le dijo Jehová:"
+        },
+        {
+            "id": "deu34_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Ésta es la tierra de que juré a Abraham, a Isaac y a Jacob, diciendo: A tu simiente la daré. Te he permitido que la veas con tus ojos, mas no pasarás allá."
+        },
+        {
+            "id": "deu34_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y murió allí Moisés siervo de Jehová, en la tierra de Moab, conforme a la palabra de Jehová."
+        },
+        {
+            "id": "deu34_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y lo enterró en el valle, en tierra de Moab, enfrente de Bet-peor; pero ninguno sabe dónde está su sepulcro hasta hoy."
+        },
+        {
+            "id": "deu34_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y era Moisés de edad de ciento veinte años cuando murió; sus ojos nunca se oscurecieron, ni perdió su vigor."
+        },
+        {
+            "id": "deu34_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y los hijos de Israel lloraron a Moisés en los campos de Moab treinta días: Y así se cumplieron los días del lloro y del luto por Moisés."
+        },
+        {
+            "id": "deu34_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Josué, hijo de Nun, fue lleno del espíritu de sabiduría, porque Moisés había puesto sus manos sobre él. Y los hijos de Israel le obedecieron, e hicieron como Jehová mandó a Moisés."
+        },
+        {
+            "id": "deu34_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y nunca más se levantó profeta en Israel como Moisés, a quien haya conocido Jehová cara a cara;"
+        },
+        {
+            "id": "deu34_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "En todas las señales y prodigios que Jehová le envió a hacer en tierra de Egipto, a Faraón, y a todos sus siervos y a toda su tierra;"
+        },
+        {
+            "id": "deu34_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "y en toda aquella mano poderosa, y en todos los hechos grandiosos y terribles que Moisés hizo a la vista de todo Israel."
+        }
+    ]
+}

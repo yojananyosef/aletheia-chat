@@ -1,0 +1,127 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 8,
+    "title": "Deuteronomio 8",
+    "messages": [
+        {
+            "id": "deu8_1",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Cuidaréis de poner por obra todo mandamiento que yo os ordeno hoy, para que viváis, y seáis multiplicados, y entréis, y poseáis la tierra, de la cual juró Jehová a vuestros padres."
+        },
+        {
+            "id": "deu8_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Y te acordarás de todo el camino por donde te ha traído Jehová tu Dios estos cuarenta años en el desierto, para afligirte, para probarte, para saber lo que había en tu corazón, si habías de guardar o no sus mandamientos."
+        },
+        {
+            "id": "deu8_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Y te afligió, y te hizo tener hambre, y te sustentó con maná, comida que no conocías tú, ni tus padres la habían conocido; para hacerte saber que no sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Jehová vivirá el hombre."
+        },
+        {
+            "id": "deu8_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Tu ropa nunca se envejeció sobre ti, ni el pie se te ha hinchado por estos cuarenta años."
+        },
+        {
+            "id": "deu8_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "Reconoce asimismo en tu corazón, que como castiga el hombre a su hijo, así Jehová tu Dios te castiga."
+        },
+        {
+            "id": "deu8_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Guardarás, pues, los mandamientos de Jehová tu Dios, andando en sus caminos, y temiéndolo."
+        },
+        {
+            "id": "deu8_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Porque Jehová tu Dios te introduce en la buena tierra, tierra de arroyos, de aguas, de fuentes, de abismos que brotan por vegas y montes;"
+        },
+        {
+            "id": "deu8_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "tierra de trigo y cebada, y de vides, e higueras, y granados; tierra de olivos, de aceite, y de miel;"
+        },
+        {
+            "id": "deu8_9",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "tierra en la cual no comerás el pan con escasez, no te faltará nada en ella; tierra que sus piedras son hierro, y cortarás bronce de sus montes."
+        },
+        {
+            "id": "deu8_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Y comerás y te saciarás, y bendecirás a Jehová tu Dios por la buena tierra que te habrá dado."
+        },
+        {
+            "id": "deu8_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "Guárdate de que no te olvides de Jehová tu Dios, dejando de observar sus mandamientos, y sus derechos y sus estatutos que yo te ordeno hoy."
+        },
+        {
+            "id": "deu8_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "No sea que comas y te sacies, y edifiques buenas casas en que mores,"
+        },
+        {
+            "id": "deu8_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "y se multipliquen tus vacas y tus ovejas, y se te multiplique la plata y el oro, y todo lo que tuvieres se te aumente,"
+        },
+        {
+            "id": "deu8_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "y se eleve luego tu corazón, y te olvides de Jehová tu Dios, que te sacó de tierra de Egipto, de casa de siervos;"
+        },
+        {
+            "id": "deu8_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "que te hizo caminar por un desierto grande y espantoso, de serpientes ardientes, y de escorpiones, y de sed, donde no había agua, y Él te sacó agua de la roca del pedernal;"
+        },
+        {
+            "id": "deu8_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "que te sustentó con maná en el desierto, comida que tus padres no habían conocido, afligiéndote y probándote, para a la postre hacerte bien;"
+        },
+        {
+            "id": "deu8_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "y digas en tu corazón: Mi poder y la fortaleza de mi mano me han traído esta riqueza."
+        },
+        {
+            "id": "deu8_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Antes acuérdate de Jehová tu Dios; porque Él te da el poder para hacer las riquezas, a fin de confirmar su pacto que juró a tus padres, como en este día."
+        },
+        {
+            "id": "deu8_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Mas será que si llegares a olvidarte de Jehová tu Dios, y anduvieres en pos de dioses ajenos, y les sirvieres, y los adorares, yo testifico hoy contra vosotros, que de cierto pereceréis."
+        },
+        {
+            "id": "deu8_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Como las naciones que Jehová destruirá delante de vosotros, así pereceréis; por cuanto no habréis atendido a la voz de Jehová vuestro Dios."
+        }
+    ]
+}

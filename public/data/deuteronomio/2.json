@@ -1,0 +1,247 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 2,
+    "title": "Deuteronomio 2",
+    "messages": [
+        {
+            "id": "deu2_1",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Luego volvimos y nos fuimos al desierto, camino del Mar Rojo, como Jehová me había dicho; y rodeamos el monte de Seir por muchos días."
+        },
+        {
+            "id": "deu2_2a",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Y Jehová me habló, diciendo:"
+        },
+        {
+            "id": "deu2_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Bastante habéis rodeado este monte; volveos al norte."
+        },
+        {
+            "id": "deu2_4a",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y manda al pueblo, diciendo:"
+        },
+        {
+            "id": "deu2_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Pasando vosotros por el territorio de vuestros hermanos, los hijos de Esaú, que habitan en Seir, ellos tendrán miedo de vosotros; mas vosotros guardaos mucho:"
+        },
+        {
+            "id": "deu2_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "No os metáis con ellos; que no os daré de su tierra ni aun el ancho de la planta de un pie; porque yo he dado por heredad a Esaú el monte de Seir."
+        },
+        {
+            "id": "deu2_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Compraréis de ellos por dinero los alimentos, y comeréis; y también compraréis de ellos por dinero el agua, y beberéis;"
+        },
+        {
+            "id": "deu2_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "pues Jehová tu Dios te ha bendecido en toda la obra de tus manos; Él conoce tu caminar por este gran desierto; estos cuarenta años Jehová tu Dios ha estado contigo; nada te ha faltado."
+        },
+        {
+            "id": "deu2_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Y pasamos de nuestros hermanos, los hijos de Esaú que habitaban en Seir, por el camino de la llanura de Elat y de Ezión-geber. Y volvimos, y pasamos camino del desierto de Moab."
+        },
+        {
+            "id": "deu2_9a",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Y Jehová me dijo:"
+        },
+        {
+            "id": "deu2_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "No molestes a Moab, ni te empeñes con ellos en guerra, pues no te daré posesión de su tierra; porque yo he dado a Ar por heredad a los hijos de Lot."
+        },
+        {
+            "id": "deu2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "(Allí habitaron antes los emitas, pueblo grande y numeroso, y alto como los anaceos;"
+        },
+        {
+            "id": "deu2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "que también eran contados por gigantes como los anaceos; pero los moabitas los llaman emitas."
+        },
+        {
+            "id": "deu2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y en Seir habitaron antes los horeos, a los cuales echaron los hijos de Esaú; y los destruyeron de delante de sí, y moraron en lugar de ellos; como hizo Israel en la tierra de su posesión que les dio Jehová.)"
+        },
+        {
+            "id": "deu2_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Levantaos ahora, y pasad el arroyo de Zered. Y pasamos el arroyo de Zered."
+        },
+        {
+            "id": "deu2_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Y el tiempo que anduvimos de Cades-barnea hasta que pasamos el arroyo de Zered, fue de treinta y ocho años; hasta que se acabó toda la generación de los hombres de guerra de en medio del campamento, como Jehová les había jurado."
+        },
+        {
+            "id": "deu2_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Y también la mano de Jehová fue contra ellos para destruirlos de en medio del campamento, hasta acabarlos."
+        },
+        {
+            "id": "deu2_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Y aconteció que cuando todos los hombres de guerra se acabaron y perecieron de entre el pueblo,"
+        },
+        {
+            "id": "deu2_17a",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Jehová me habló, diciendo:"
+        },
+        {
+            "id": "deu2_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Tú pasarás hoy el término de Moab, a Ar,"
+        },
+        {
+            "id": "deu2_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "y cuando te acerques a los hijos de Amón; no los molestes, ni te metas con ellos; pues no te daré posesión de la tierra de los hijos de Amón; porque a los hijos de Lot la he dado por heredad."
+        },
+        {
+            "id": "deu2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "(Por tierra de gigantes fue también ella tenida: habitaron en ella gigantes en otro tiempo, a los cuales los amonitas llamaban zomzomeos;"
+        },
+        {
+            "id": "deu2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "pueblo grande, y numeroso, y alto, como los anaceos; a los cuales Jehová destruyó de delante de los amonitas, quienes les sucedieron, y habitaron en su lugar:"
+        },
+        {
+            "id": "deu2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Como hizo con los hijos de Esaú, que habitaban en Seir, de delante de los cuales destruyó a los horeos; y ellos les sucedieron, y habitaron en su lugar hasta hoy."
+        },
+        {
+            "id": "deu2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y a los aveos que habitaban en Haserin hasta Gaza, los caftoreos que salieron de Caftor los destruyeron, y habitaron en su lugar.)"
+        },
+        {
+            "id": "deu2_24",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Levantaos, partid, y pasad el arroyo de Arnón; he aquí yo he entregado en tu mano a Sehón amorreo, rey de Hesbón, y a su tierra; comienza a tomar posesión, y contiende con él en guerra."
+        },
+        {
+            "id": "deu2_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "Hoy comenzaré a poner tu miedo y tu espanto sobre los pueblos que están debajo de todo el cielo, los cuales oirán tu fama, y temblarán, y se angustiarán delante de ti."
+        },
+        {
+            "id": "deu2_26a",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "Y envié mensajeros desde el desierto de Cademot a Sehón, rey de Hesbón, con palabras de paz, diciendo:"
+        },
+        {
+            "id": "deu2_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "Pasaré por tu tierra por el camino; por el camino iré, sin apartarme ni a la derecha ni a la izquierda."
+        },
+        {
+            "id": "deu2_28",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "La comida me venderás por dinero, y comeré; el agua también me darás por dinero, y beberé; solamente pasaré a pie;"
+        },
+        {
+            "id": "deu2_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "como lo hicieron conmigo los hijos de Esaú que habitaban en Seir, y los moabitas que habitaban en Ar; hasta que cruce el Jordán a la tierra que nos da Jehová nuestro Dios."
+        },
+        {
+            "id": "deu2_30",
+            "speaker": "Moisés",
+            "verse": 30,
+            "text": "Mas Sehón, rey de Hesbón, no quiso que pasásemos por su territorio; porque Jehová tu Dios había endurecido su espíritu, e hizo obstinado su corazón para entregarlo en tu mano, como hasta hoy."
+        },
+        {
+            "id": "deu2_31a",
+            "speaker": "Moisés",
+            "verse": 31,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "deu2_31b",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "He aquí yo he comenzado a dar delante de ti a Sehón y a su tierra; comienza a tomar posesión, para que heredes su tierra."
+        },
+        {
+            "id": "deu2_32",
+            "speaker": "Moisés",
+            "verse": 32,
+            "text": "Y nos salió Sehón al encuentro, él y todo su pueblo, para pelear en Jahaza."
+        },
+        {
+            "id": "deu2_33",
+            "speaker": "Moisés",
+            "verse": 33,
+            "text": "Mas Jehová nuestro Dios lo entregó delante de nosotros; y lo derrotamos a él y a sus hijos, y a todo su pueblo."
+        },
+        {
+            "id": "deu2_34",
+            "speaker": "Moisés",
+            "verse": 34,
+            "text": "Y tomamos entonces todas sus ciudades, y destruimos todas las ciudades, hombres, mujeres y niños; no dejamos ninguno."
+        },
+        {
+            "id": "deu2_35",
+            "speaker": "Moisés",
+            "verse": 35,
+            "text": "Solamente tomamos para nosotros el ganado, y el despojo de las ciudades que habíamos tomado."
+        },
+        {
+            "id": "deu2_36",
+            "speaker": "Moisés",
+            "verse": 36,
+            "text": "Desde Aroer, que está junto a la ribera del arroyo de Arnón, y desde la ciudad que está junto al arroyo, hasta Galaad, no hubo ciudad que escapase de nosotros; todas las entregó Jehová nuestro Dios en nuestro poder."
+        },
+        {
+            "id": "deu2_37",
+            "speaker": "Moisés",
+            "verse": 37,
+            "text": "Solamente a la tierra de los hijos de Amón no llegaste, ni a todo lo que está a la orilla del arroyo de Jaboc ni a las ciudades del monte, ni a lugar alguno que Jehová nuestro Dios había prohibido."
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 14,
+    "title": "Deuteronomio 14",
+    "messages": [
+        {
+            "id": "deu14_1",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Hijos sois de Jehová vuestro Dios; no os sajaréis, ni pondréis calva sobre vuestros ojos por muerto;"
+        },
+        {
+            "id": "deu14_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "porque eres pueblo santo a Jehová tu Dios, y Jehová te ha escogido para que le seas un pueblo singular de entre todos los pueblos que están sobre la faz de la tierra."
+        },
+        {
+            "id": "deu14_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Nada abominable comerás."
+        },
+        {
+            "id": "deu14_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Éstos son los animales que comeréis: el buey, la oveja, y la cabra,"
+        },
+        {
+            "id": "deu14_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "el ciervo, la gacela, el corzo, la cabra montés, el antílope, el carnero montés y el gamo."
+        },
+        {
+            "id": "deu14_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Y todo animal de pezuñas, que tiene hendidura de dos uñas, y que rumiare entre los animales, ese comeréis."
+        },
+        {
+            "id": "deu14_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Pero éstos no comeréis de los que rumian, o tienen uña hendida: camello, y liebre, y conejo, porque rumian, mas no tienen uña hendida, os serán inmundos;"
+        },
+        {
+            "id": "deu14_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "ni puerco; porque tiene uña hendida, mas no rumia, os será inmundo. De la carne de éstos no comeréis, ni tocaréis sus cuerpos muertos."
+        },
+        {
+            "id": "deu14_9",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Esto comeréis de todo lo que está en el agua: todo lo que tiene aleta y escama comeréis;"
+        },
+        {
+            "id": "deu14_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Mas todo lo que no tuviere aleta y escama, no comeréis: inmundo os será."
+        },
+        {
+            "id": "deu14_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "Toda ave limpia comeréis."
+        },
+        {
+            "id": "deu14_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Y éstas son de las que no comeréis: el águila, el quebrantahuesos, el esmerejón,"
+        },
+        {
+            "id": "deu14_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "el azor, el halcón y el milano según su especie,"
+        },
+        {
+            "id": "deu14_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "y todo cuervo según su especie,"
+        },
+        {
+            "id": "deu14_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "El búho, el halcón nocturno, la gaviota, el gavilán según su especie,"
+        },
+        {
+            "id": "deu14_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "la lechuza, el búho real, el cisne,"
+        },
+        {
+            "id": "deu14_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "el pelícano, el buitre, el calamón,"
+        },
+        {
+            "id": "deu14_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "la cigüeña, la garza según su especie, la abubilla y el murciélago."
+        },
+        {
+            "id": "deu14_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Y todo insecto alado os será inmundo; no se comerá."
+        },
+        {
+            "id": "deu14_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Toda ave limpia comeréis."
+        },
+        {
+            "id": "deu14_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "Ninguna cosa mortecina comeréis: al extranjero que está en tus poblaciones la darás, y él la comerá: o véndela al extranjero; porque tú eres pueblo santo a Jehová tu Dios. No cocerás el cabrito en la leche de su madre."
+        },
+        {
+            "id": "deu14_22",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Sin falta diezmarás todo el producto de tu sementera, que rindiere tu campo cada año."
+        },
+        {
+            "id": "deu14_23",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Y comerás delante de Jehová tu Dios en el lugar que Él escogiere para hacer habitar allí su nombre, el diezmo de tu grano, de tu vino, y de tu aceite, y los primerizos de tus manadas, y de tus ganados, para que aprendas a temer a Jehová tu Dios todos los días."
+        },
+        {
+            "id": "deu14_24",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Y si el camino fuere tan largo que tú no puedas llevarlo por él, por estar lejos de ti el lugar que Jehová tu Dios hubiere escogido para poner en él su nombre, cuando Jehová tu Dios te bendijere,"
+        },
+        {
+            "id": "deu14_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "entonces lo venderás, y atarás el dinero en tu mano, y vendrás al lugar que Jehová tu Dios escogiere;"
+        },
+        {
+            "id": "deu14_26",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "y darás el dinero por todo lo que deseare tu alma, por vacas, o por ovejas, o por vino, o por sidra, o por cualquier cosa que tu alma te demandare: y comerás allí delante de Jehová tu Dios, y te alegrarás tú y tu familia."
+        },
+        {
+            "id": "deu14_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "Y no desampararás al levita que habitare en tus poblaciones; porque no tiene parte ni heredad contigo."
+        },
+        {
+            "id": "deu14_28",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "Al cabo de cada tres años sacarás todo el diezmo de tus productos de aquel año, y lo guardarás en tus ciudades:"
+        },
+        {
+            "id": "deu14_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "Y vendrá el levita, que no tiene parte ni heredad contigo, y el extranjero, el huérfano y la viuda que hubiere en tus poblaciones, y comerán y serán saciados; para que Jehová tu Dios te bendiga en toda obra de tus manos que hicieres."
+        }
+    ]
+}

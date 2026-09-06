@@ -1,0 +1,223 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 31,
+    "title": "Deuteronomio 31",
+    "messages": [
+        {
+            "id": "deu31_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Moisés fue y habló estas palabras a todo Israel,"
+        },
+        {
+            "id": "deu31_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "deu31_2b",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "De edad de ciento veinte años soy hoy día; no puedo más salir ni entrar; además de esto Jehová me ha dicho: No pasarás este Jordán."
+        },
+        {
+            "id": "deu31_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Jehová tu Dios, Él pasa delante de ti; Él destruirá estas naciones de delante de ti, y las heredarás: Josué será el que pasará delante de ti, como Jehová ha dicho."
+        },
+        {
+            "id": "deu31_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Y Jehová hará con ellos como hizo con Sehón y con Og, reyes de los amorreos, y con su tierra, a quienes destruyó."
+        },
+        {
+            "id": "deu31_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "Y Jehová los entregará delante de vosotros, y haréis con ellos conforme a todo lo que os he mandado."
+        },
+        {
+            "id": "deu31_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Esforzaos y sed valientes; no temáis, ni tengáis miedo de ellos; porque Jehová tu Dios es el que va contigo; no te dejará ni te desamparará."
+        },
+        {
+            "id": "deu31_7a",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Y llamó Moisés a Josué, y le dijo a vista de todo Israel:"
+        },
+        {
+            "id": "deu31_7b",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Esfuérzate y sé valiente; porque tú entrarás con este pueblo a la tierra que juró Jehová a sus padres que les daría, y tú se la harás heredar."
+        },
+        {
+            "id": "deu31_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Y Jehová es el que va delante de ti; Él estará contigo, no te dejará, ni te desamparará; no temas, ni desmayes."
+        },
+        {
+            "id": "deu31_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y escribió Moisés esta ley, y la dio a los sacerdotes, hijos de Leví, que llevaban el arca del pacto de Jehová, y a todos los ancianos de Israel."
+        },
+        {
+            "id": "deu31_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y les mandó Moisés, diciendo:"
+        },
+        {
+            "id": "deu31_10b",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Al fin de cada siete años, en el año de la remisión, en la fiesta de los tabernáculos,"
+        },
+        {
+            "id": "deu31_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "cuando viniere todo Israel a presentarse delante de Jehová tu Dios en el lugar que Él escogiere, leerás esta ley delante de todo Israel a oídos de ellos."
+        },
+        {
+            "id": "deu31_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Harás congregar al pueblo, varones y mujeres y niños, y tus extranjeros que estuvieren en tus ciudades, para que oigan y aprendan, y teman a Jehová vuestro Dios, y cuiden de poner por obra todas las palabras de esta ley:"
+        },
+        {
+            "id": "deu31_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "y para que los hijos de ellos que no supieron, oigan, y aprendan a temer a Jehová vuestro Dios, mientras viváis en la tierra adonde vais, cruzando el Jordán para poseerla."
+        },
+        {
+            "id": "deu31_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "deu31_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "He aquí se ha acercado el día en que has de morir; llama a Josué, y presentaos en el tabernáculo de la congregación para que yo le dé el cargo. Fueron, pues, Moisés y Josué, y se presentaron en el tabernáculo de la congregación."
+        },
+        {
+            "id": "deu31_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Y se apareció Jehová en el tabernáculo, en la columna de nube; y la columna de nube se puso sobre la puerta del tabernáculo."
+        },
+        {
+            "id": "deu31_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "deu31_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "He aquí tú vas a dormir con tus padres, y este pueblo se levantará y fornicará tras los dioses ajenos de la tierra adonde va para estar en medio de ellos; y me dejará, y quebrantará mi pacto que he concertado con él."
+        },
+        {
+            "id": "deu31_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Y mi furor se encenderá contra ellos en aquel día; y los abandonaré, y esconderé de ellos mi rostro y serán consumidos; y muchos males y angustias vendrán sobre ellos, y dirán en aquel día: ¿No nos han venido estos males porque no está nuestro Dios en medio de nosotros?"
+        },
+        {
+            "id": "deu31_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Y yo esconderé ciertamente mi rostro en aquel día, por todo el mal que ellos habrán hecho, por haberse vuelto a dioses ajenos."
+        },
+        {
+            "id": "deu31_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Ahora, pues, escribe este cántico, y enséñalo a los hijos de Israel; ponlo en su boca, para que este cántico me sea por testigo contra los hijos de Israel."
+        },
+        {
+            "id": "deu31_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Porque cuando yo los introduzca en la tierra que juré a sus padres, la cual fluye leche y miel, comerán y se saciarán, y engordarán; y luego se volverán a dioses ajenos y les servirán, y me enojarán y quebrantarán mi pacto."
+        },
+        {
+            "id": "deu31_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "Y sucederá que cuando les sobrevinieren muchos males y angustias, entonces este cántico responderá en su cara como testigo, pues no será olvidado de la boca de su linaje; porque yo conozco lo que se proponen, aun hoy, antes que los introduzca en la tierra que juré darles."
+        },
+        {
+            "id": "deu31_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Moisés escribió este cántico aquel día, y lo enseñó a los hijos de Israel."
+        },
+        {
+            "id": "deu31_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dio orden a Josué, hijo de Nun, y dijo:"
+        },
+        {
+            "id": "deu31_23b",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Esfuérzate y sé valiente, pues tú meterás a los hijos de Israel en la tierra que les juré, y yo estaré contigo."
+        },
+        {
+            "id": "deu31_24",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Y cuando Moisés acabó de escribir las palabras de esta ley en un libro hasta concluirse,"
+        },
+        {
+            "id": "deu31_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Mandó Moisés a los levitas que llevaban el arca del pacto de Jehová, diciendo:"
+        },
+        {
+            "id": "deu31_26",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "Tomad este libro de la ley, y ponedlo al lado del arca del pacto de Jehová vuestro Dios, y esté allí por testigo contra ti."
+        },
+        {
+            "id": "deu31_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "Porque yo conozco tu rebelión, y tu dura cerviz; he aquí que aún viviendo yo hoy con vosotros, sois rebeldes a Jehová; ¿cuánto más después que yo haya muerto?"
+        },
+        {
+            "id": "deu31_28",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "Congregad a mí a todos los ancianos de vuestras tribus, y a vuestros oficiales, y hablaré a sus oídos estas palabras, y llamaré como testigos contra ellos al cielo y a la tierra."
+        },
+        {
+            "id": "deu31_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "Porque yo sé que después de mi muerte, ciertamente os corromperéis y os apartaréis del camino que os he mandado; y que os ha de venir mal en los postreros días, por haber hecho mal ante los ojos de Jehová, enojándole con la obra de vuestras manos."
+        },
+        {
+            "id": "deu31_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces Moisés habló a oídos de toda la congregación de Israel las palabras de este cántico hasta acabarlo."
+        }
+    ]
+}

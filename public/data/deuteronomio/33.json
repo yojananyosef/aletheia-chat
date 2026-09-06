@@ -1,0 +1,247 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 33,
+    "title": "Deuteronomio 33",
+    "messages": [
+        {
+            "id": "deu33_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y esta es la bendición con la que Moisés, varón de Dios, bendijo a los hijos de Israel, antes de morir."
+        },
+        {
+            "id": "deu33_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "deu33_2b",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Jehová vino de Sinaí, y de Seir les esclareció; resplandeció del monte de Parán, y vino con diez mil santos; a su diestra la ley de fuego para ellos."
+        },
+        {
+            "id": "deu33_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Sí, Él amó al pueblo; todos sus santos están en tu mano; y ellos se sientan a tus pies; cada uno recibirá de tus palabras."
+        },
+        {
+            "id": "deu33_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Una ley nos mandó Moisés, la heredad de la congregación de Jacob."
+        },
+        {
+            "id": "deu33_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "Y fue rey en Jesurún, cuando se congregaron las cabezas del pueblo con las tribus de Israel."
+        },
+        {
+            "id": "deu33_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Viva Rubén, y no muera; y no sean pocos sus varones."
+        },
+        {
+            "id": "deu33_7a",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Y esta es la bendición para Judá. Dijo así:"
+        },
+        {
+            "id": "deu33_7b",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Oye, oh Jehová, la voz de Judá, y tráelo a su pueblo; sus manos le basten, y sé tú su ayuda contra sus enemigos."
+        },
+        {
+            "id": "deu33_8a",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Y a Leví dijo:"
+        },
+        {
+            "id": "deu33_8b",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Tu Tumim y tu Urim, sean con tu varón santo a quien probaste en Masah, con quien luchaste en las aguas de Meriba;"
+        },
+        {
+            "id": "deu33_9a",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "El que dijo a su padre y a su madre:"
+        },
+        {
+            "id": "deu33_9b",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "No los he visto; Y no reconoció a sus hermanos, ni conoció a sus propios hijos; Pues ellos guardaron tu palabra, y observaron tu pacto."
+        },
+        {
+            "id": "deu33_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Ellos enseñarán tus juicios a Jacob, y tu ley a Israel; pondrán el incienso delante de ti, y el holocausto sobre tu altar."
+        },
+        {
+            "id": "deu33_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "Bendice, oh Jehová, lo que hicieren, y recibe con agrado la obra de sus manos; hiere los lomos de sus enemigos, y de los que lo aborrecieren; para que nunca se levanten."
+        },
+        {
+            "id": "deu33_12a",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Y de Benjamín dijo:"
+        },
+        {
+            "id": "deu33_12b",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "El amado de Jehová habitará confiado cerca de Él; Jehová lo cubrirá siempre; Y entre sus hombros morará."
+        },
+        {
+            "id": "deu33_13a",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Y de José dijo:"
+        },
+        {
+            "id": "deu33_13b",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Bendita de Jehová sea su tierra, con lo mejor de los cielos, con el rocío, y con el abismo que está debajo."
+        },
+        {
+            "id": "deu33_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Con los más preciosos frutos del sol, y con los más preciosos frutos de la luna,"
+        },
+        {
+            "id": "deu33_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "con lo mejor de los montes antiguos y con lo precioso de los collados eternos,"
+        },
+        {
+            "id": "deu33_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "y con lo más precioso de la tierra y su plenitud; y la gracia del que habitó en la zarza venga sobre la cabeza de José, y sobre la coronilla del consagrado de sus hermanos."
+        },
+        {
+            "id": "deu33_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Su gloria es como la del primogénito de su toro, y sus cuernos, cuernos de unicornio; con ellos acorneará a los pueblos juntos hasta los confines de la tierra; y éstos son los diez millares de Efraín, y éstos los millares de Manasés."
+        },
+        {
+            "id": "deu33_18a",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Y de Zabulón dijo:"
+        },
+        {
+            "id": "deu33_18b",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Alégrate, Zabulón, cuando salieres: Y tú Isacar, en tus tiendas."
+        },
+        {
+            "id": "deu33_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Llamarán a los pueblos al monte; allí ofrecerán sacrificios de justicia; por lo cual chuparán de la abundancia de los mares, y de los tesoros escondidos de la arena."
+        },
+        {
+            "id": "deu33_20a",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Y de Gad dijo:"
+        },
+        {
+            "id": "deu33_20b",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Bendito el que hizo ensanchar a Gad; como león habita, y desgarra brazo y testa."
+        },
+        {
+            "id": "deu33_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "Y él proveyó para sí la primera parte, Porque allí una porción del legislador le fue reservada. Y vino con los jefes del pueblo; Ejecutó la justicia de Jehová, y sus juicios con Israel."
+        },
+        {
+            "id": "deu33_22a",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Y de Dan dijo:"
+        },
+        {
+            "id": "deu33_22b",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Dan es un cachorro de león; Él saltará desde Basán."
+        },
+        {
+            "id": "deu33_23a",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Y de Neftalí dijo:"
+        },
+        {
+            "id": "deu33_23b",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Neftalí, colmado de favores, y lleno de la bendición de Jehová, posee el occidente y el sur."
+        },
+        {
+            "id": "deu33_24a",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Y de Aser dijo:"
+        },
+        {
+            "id": "deu33_24b",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Bendecido sea Aser con hijos; sea agradable a sus hermanos, y moje su pie en aceite."
+        },
+        {
+            "id": "deu33_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "Hierro y bronce será tu calzado, y como tus días, así será tu fortaleza."
+        },
+        {
+            "id": "deu33_26",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "No hay como el Dios de Jesurún, que cabalga sobre los cielos para tu ayuda, y sobre las nubes en su majestad."
+        },
+        {
+            "id": "deu33_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "El eterno Dios es tu refugio y acá abajo los brazos eternos; Él echará de delante de ti al enemigo, y dirá: Destruye."
+        },
+        {
+            "id": "deu33_28",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "E Israel, la fuente de Jacob, habitará confiado solo en tierra de grano y de vino; también sus cielos destilarán rocío."
+        },
+        {
+            "id": "deu33_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "Bienaventurado tú, oh Israel, ¿Quién como tú, pueblo salvo por Jehová, escudo de tu socorro, y espada de tu excelencia? Así que tus enemigos serán humillados, y tú hollarás sobre sus lugares altos."
+        }
+    ]
+}

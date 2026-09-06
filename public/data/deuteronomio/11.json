@@ -1,0 +1,199 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 11,
+    "title": "Deuteronomio 11",
+    "messages": [
+        {
+            "id": "deu11_1",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Amarás, pues, a Jehová tu Dios, y guardarás su ordenanza, y sus estatutos y sus derechos y sus mandamientos, todos los días."
+        },
+        {
+            "id": "deu11_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Y comprended hoy: porque no hablo con vuestros hijos que no han sabido ni visto el castigo de Jehová vuestro Dios, su grandeza, su mano fuerte, y su brazo extendido,"
+        },
+        {
+            "id": "deu11_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "y sus señales, y sus obras que hizo en medio de Egipto a Faraón, rey de Egipto, y a toda su tierra;"
+        },
+        {
+            "id": "deu11_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "y lo que hizo al ejército de Egipto, a sus caballos y a sus carros; cómo hizo que las aguas del Mar Rojo cayeran sobre ellos cuando venían tras vosotros, y Jehová los destruyó hasta hoy;"
+        },
+        {
+            "id": "deu11_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "y lo que ha hecho con vosotros en el desierto, hasta que habéis llegado a este lugar;"
+        },
+        {
+            "id": "deu11_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "y lo que hizo con Datán y Abiram, hijos de Eliab hijo de Rubén; cómo abrió la tierra su boca, y se tragó a ellos y a sus casas, y sus tiendas, y toda la hacienda que tenían en pie en medio de todo Israel."
+        },
+        {
+            "id": "deu11_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Mas vuestros ojos han visto todos los grandes hechos que Jehová ha ejecutado."
+        },
+        {
+            "id": "deu11_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Guardad, pues, todos los mandamientos que yo os prescribo hoy, para que seáis fortalecidos, y entréis y poseáis la tierra, a la cual pasáis para poseerla;"
+        },
+        {
+            "id": "deu11_9",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Y para que os sean prolongados los días sobre la tierra, que juró Jehová a vuestros padres, que había de darla a ellos y a su simiente, tierra que fluye leche y miel."
+        },
+        {
+            "id": "deu11_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Que la tierra a la cual entras para poseerla, no es como la tierra de Egipto de donde habéis salido, donde sembrabas tu simiente, y regabas con tu pie, como huerto de hortaliza."
+        },
+        {
+            "id": "deu11_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "La tierra a la cual pasáis para poseerla, es tierra de montes y de vegas; que bebe el agua de la lluvia del cielo;"
+        },
+        {
+            "id": "deu11_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Tierra de la cual Jehová tu Dios cuida; siempre están sobre ella los ojos de Jehová tu Dios, desde el principio del año hasta el fin del año."
+        },
+        {
+            "id": "deu11_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Y será que, si obedeciereis cuidadosamente mis mandamientos que yo os prescribo hoy, amando a Jehová vuestro Dios, y sirviéndole con todo vuestro corazón, y con toda vuestra alma,"
+        },
+        {
+            "id": "deu11_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "yo daré la lluvia de vuestra tierra a su tiempo, la lluvia temprana y la lluvia tardía; y recogerás tu grano, tu vino y tu aceite."
+        },
+        {
+            "id": "deu11_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Daré también hierba en tu campo para tus bestias; y comerás, y te saciarás."
+        },
+        {
+            "id": "deu11_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Guardaos, pues, que vuestro corazón no se infatúe, y os apartéis, y sirváis a dioses ajenos, y os inclinéis a ellos;"
+        },
+        {
+            "id": "deu11_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "y así se encienda el furor de Jehová sobre vosotros, y cierre los cielos, y no haya lluvia, ni la tierra dé su fruto, y perezcáis pronto de la buena tierra que os da Jehová."
+        },
+        {
+            "id": "deu11_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Por tanto, pondréis estas mis palabras en vuestro corazón y en vuestra alma, y las ataréis por señal en vuestra mano, y serán por frontales entre vuestros ojos."
+        },
+        {
+            "id": "deu11_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Y las enseñaréis a vuestros hijos, hablando de ellas, cuando estés sentado en tu casa, y cuando andes por el camino; cuando te acuestes, y cuando te levantes."
+        },
+        {
+            "id": "deu11_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Y las escribirás en los postes de tu casa, y en tus puertas;"
+        },
+        {
+            "id": "deu11_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "para que sean aumentados vuestros días, y los días de vuestros hijos, sobre la tierra que juró Jehová a vuestros padres que les había de dar, como los días de los cielos sobre la tierra."
+        },
+        {
+            "id": "deu11_22",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Porque si guardareis cuidadosamente todos estos mandamientos que yo os prescribo, para que los cumpláis; y si amareis a Jehová vuestro Dios andando en todos sus caminos, y siguiéndole a Él,"
+        },
+        {
+            "id": "deu11_23",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Jehová también echará a todas estas naciones de delante de vosotros y poseeréis naciones grandes y más fuertes que vosotros."
+        },
+        {
+            "id": "deu11_24",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Todo lugar que pisare la planta de vuestro pie, será vuestro; desde el desierto y el Líbano, desde el río, el río Éufrates, hasta el mar postrero será vuestro término."
+        },
+        {
+            "id": "deu11_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "Nadie se sostendrá delante de vosotros; miedo y temor de vosotros pondrá Jehová vuestro Dios sobre la faz de toda la tierra que hollareis, como Él os ha dicho."
+        },
+        {
+            "id": "deu11_26",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "He aquí yo pongo hoy delante de vosotros la bendición y la maldición:"
+        },
+        {
+            "id": "deu11_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "La bendición, si obedeciereis los mandamientos de Jehová vuestro Dios, que yo os prescribo hoy;"
+        },
+        {
+            "id": "deu11_28",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "y la maldición, si no obedeciereis los mandamientos de Jehová vuestro Dios, y os apartareis del camino que yo os ordeno hoy, para ir en pos de dioses ajenos que no habéis conocido."
+        },
+        {
+            "id": "deu11_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "Y será que, cuando Jehová tu Dios te introdujere en la tierra a la cual vas para poseerla, pondrás la bendición sobre el monte Gerizim, y la maldición sobre el monte Ebal."
+        },
+        {
+            "id": "deu11_30",
+            "speaker": "Moisés",
+            "verse": 30,
+            "text": "¿No están éstos al otro lado del Jordán, hacia donde se pone el sol, en la tierra de los cananeos, que habitan el Arabá, frente a Gilgal, junto a la llanura de Moreh?"
+        },
+        {
+            "id": "deu11_31",
+            "speaker": "Moisés",
+            "verse": 31,
+            "text": "Porque vosotros pasáis el Jordán, para ir a poseer la tierra que os da Jehová vuestro Dios; y la poseeréis, y habitaréis en ella."
+        },
+        {
+            "id": "deu11_32",
+            "speaker": "Moisés",
+            "verse": 32,
+            "text": "Cuidaréis, pues, de poner por obra todos los estatutos y derechos que yo presento hoy delante de vosotros."
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 5,
+    "title": "Deuteronomio 5",
+    "messages": [
+        {
+            "id": "deu5_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Moisés llamó a todo Israel, y les dijo:"
+        },
+        {
+            "id": "deu5_1b",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Oye, Israel, los estatutos y derechos que yo pronuncio hoy en vuestros oídos: y aprendedlos, y guardadlos, para ponerlos por obra."
+        },
+        {
+            "id": "deu5_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Jehová nuestro Dios hizo pacto con nosotros en Horeb."
+        },
+        {
+            "id": "deu5_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "No con nuestros padres hizo Jehová este pacto, sino con nosotros todos los que estamos aquí hoy vivos."
+        },
+        {
+            "id": "deu5_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Cara a cara habló Jehová con vosotros en el monte de en medio del fuego"
+        },
+        {
+            "id": "deu5_5a",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "(Yo estaba entonces entre Jehová y vosotros, para declararos la palabra de Jehová; porque vosotros tuvisteis temor del fuego, y no subisteis al monte), diciendo:"
+        },
+        {
+            "id": "deu5_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre."
+        },
+        {
+            "id": "deu5_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "No tendrás dioses ajenos delante de mí."
+        },
+        {
+            "id": "deu5_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "No harás para ti escultura, ni imagen alguna de cosa que está arriba en el cielo, o abajo en la tierra, o en las aguas debajo de la tierra."
+        },
+        {
+            "id": "deu5_9",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "No te inclinarás a ellas ni les servirás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen,"
+        },
+        {
+            "id": "deu5_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "y que hago misericordia a millares de los que me aman y guardan mis mandamientos."
+        },
+        {
+            "id": "deu5_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "No tomarás en vano el nombre de Jehová tu Dios; porque Jehová no dará por inocente al que tomare en vano su nombre."
+        },
+        {
+            "id": "deu5_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Guarda el día sábado para santificarlo, como Jehová tu Dios te ha mandado."
+        },
+        {
+            "id": "deu5_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Seis días trabajarás y harás toda tu obra:"
+        },
+        {
+            "id": "deu5_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Mas el séptimo día es el sábado de Jehová tu Dios: no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni tu extranjero que está dentro de tus puertas; para que descanse tu siervo y tu sierva como tú."
+        },
+        {
+            "id": "deu5_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Y acuérdate que fuiste siervo en tierra de Egipto, y que Jehová tu Dios te sacó de allá con mano fuerte y brazo extendido: por lo cual Jehová tu Dios te ha mandado que guardes el día de reposo."
+        },
+        {
+            "id": "deu5_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la tierra que Jehová tu Dios te da."
+        },
+        {
+            "id": "deu5_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "No matarás."
+        },
+        {
+            "id": "deu5_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "No cometerás adulterio."
+        },
+        {
+            "id": "deu5_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "No hurtarás."
+        },
+        {
+            "id": "deu5_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "No dirás falso testimonio contra tu prójimo."
+        },
+        {
+            "id": "deu5_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "No codiciarás la esposa de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni ninguna cosa que sea de tu prójimo."
+        },
+        {
+            "id": "deu5_22a",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Estas palabras habló Jehová a toda vuestra congregación en el monte, de en medio del fuego, de la nube y de la oscuridad, a gran voz:"
+        },
+        {
+            "id": "deu5_22b",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "y no añadió más. Y las escribió en dos tablas de piedra, las cuales me dio a mí."
+        },
+        {
+            "id": "deu5_23",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Y aconteció que cuando oísteis la voz de en medio de las tinieblas, y visteis al monte que ardía en fuego, os acercasteis a mí, todos los príncipes de vuestras tribus, y vuestros ancianos;"
+        },
+        {
+            "id": "deu5_24a",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Y dijisteis:"
+        },
+        {
+            "id": "deu5_24b",
+            "speaker": "Pueblo",
+            "verse": 24,
+            "text": "He aquí, Jehová nuestro Dios nos ha mostrado su gloria y su grandeza, y hemos oído su voz de en medio del fuego: hoy hemos visto que Jehová habla al hombre, y éste vive."
+        },
+        {
+            "id": "deu5_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "Ahora pues, ¿por qué moriremos? Porque este gran fuego nos consumirá; si oyéremos otra vez la voz de Jehová nuestro Dios, moriremos."
+        },
+        {
+            "id": "deu5_26",
+            "speaker": "Pueblo",
+            "verse": 26,
+            "text": "Porque, ¿qué es toda carne, para que oiga la voz del Dios viviente que habla de en medio del fuego, como nosotros la oímos, y viva?"
+        },
+        {
+            "id": "deu5_27",
+            "speaker": "Moisés",
+            "verse": 27,
+            "text": "Acércate tú, y oye todas las cosas que Jehová nuestro Dios diga; y tú nos dirás todo lo que Jehová nuestro Dios te diga, y nosotros lo oiremos y lo haremos."
+        },
+        {
+            "id": "deu5_28a",
+            "speaker": "Moisés",
+            "verse": 28,
+            "text": "Y oyó Jehová la voz de vuestras palabras, cuando me hablabais; y me dijo Jehová:"
+        },
+        {
+            "id": "deu5_28b",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "He oído la voz de las palabras de este pueblo, que ellos te han hablado: bien está todo lo que han dicho."
+        },
+        {
+            "id": "deu5_29",
+            "speaker": "Moisés",
+            "verse": 29,
+            "text": "¡Quién diera que tuviesen tal corazón, que me temiesen, y guardasen todos los días todos mis mandamientos, para que a ellos y a sus hijos les fuese bien para siempre!"
+        },
+        {
+            "id": "deu5_30",
+            "speaker": "Moisés",
+            "verse": 30,
+            "text": "Ve, diles: Volveos a vuestras tiendas."
+        },
+        {
+            "id": "deu5_31",
+            "speaker": "Moisés",
+            "verse": 31,
+            "text": "Y tú quédate aquí conmigo, y te diré todos los mandamientos, y estatutos, y derechos que les has de enseñar, a fin que los pongan ahora por obra en la tierra que yo les doy para poseerla."
+        },
+        {
+            "id": "deu5_32",
+            "speaker": "Moisés",
+            "verse": 32,
+            "text": "Mirad, pues, que hagáis como Jehová vuestro Dios os ha mandado: no os apartéis a derecha ni a izquierda;"
+        },
+        {
+            "id": "deu5_33",
+            "speaker": "Moisés",
+            "verse": 33,
+            "text": "Andad en todo camino que Jehová vuestro Dios os ha mandado, para que viváis, y os vaya bien, y tengáis largos días en la tierra que habéis de poseer."
+        }
+    ]
+}

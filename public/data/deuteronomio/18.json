@@ -1,0 +1,157 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 18,
+    "title": "Deuteronomio 18",
+    "messages": [
+        {
+            "id": "deu18_1",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Los sacerdotes levitas, toda la tribu de Leví, no tendrán parte ni heredad con Israel; de las ofrendas encendidas a Jehová, y de la heredad de Él comerán."
+        },
+        {
+            "id": "deu18_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "No tendrán, pues, heredad entre sus hermanos: Jehová es su heredad, como Él les ha dicho."
+        },
+        {
+            "id": "deu18_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Y éste será el derecho de los sacerdotes de parte del pueblo, de los que ofrecieren en sacrificio buey o cordero; darán al sacerdote la espalda, y las quijadas, y el cuajar."
+        },
+        {
+            "id": "deu18_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Las primicias de tu grano, de tu vino, y de tu aceite, y las primicias de la lana de tus ovejas le darás:"
+        },
+        {
+            "id": "deu18_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "Porque le ha escogido Jehová tu Dios de todas tus tribus, para que esté para ministrar al nombre de Jehová, él y sus hijos para siempre."
+        },
+        {
+            "id": "deu18_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Y cuando el levita saliere de alguna de tus ciudades de todo Israel, donde hubiere peregrinado, y viniere con todo deseo de su alma al lugar que Jehová escogiere,"
+        },
+        {
+            "id": "deu18_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "ministrará al nombre de Jehová su Dios, como todos sus hermanos los levitas que estuvieren allí delante de Jehová."
+        },
+        {
+            "id": "deu18_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Tendrán porciones iguales para comer, aparte de lo que obtengan por la venta de sus patrimonios."
+        },
+        {
+            "id": "deu18_9",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Cuando hubieres entrado en la tierra que Jehová tu Dios te da, no aprenderás a hacer según las abominaciones de aquellas naciones."
+        },
+        {
+            "id": "deu18_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "No sea hallado en ti quien haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación, ni agorero, ni sortílego, ni hechicero,"
+        },
+        {
+            "id": "deu18_11",
+            "speaker": "Moisés",
+            "verse": 11,
+            "text": "ni encantador, ni adivino, ni espiritista, ni quien consulte a los muertos."
+        },
+        {
+            "id": "deu18_12",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Porque es abominación a Jehová cualquiera que hace estas cosas, y por estas abominaciones Jehová tu Dios las echa de delante de ti."
+        },
+        {
+            "id": "deu18_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Perfecto serás para con Jehová tu Dios."
+        },
+        {
+            "id": "deu18_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Porque estas naciones que has de heredar, escuchan a agoreros y a adivinos; pero en cuanto a ti, Jehová tu Dios no te ha permitido eso."
+        },
+        {
+            "id": "deu18_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Profeta de en medio de ti, de tus hermanos, como yo, te levantará Jehová tu Dios; a Él oiréis:"
+        },
+        {
+            "id": "deu18_16a",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Conforme a todo lo que pediste a Jehová tu Dios en Horeb el día de la asamblea, diciendo:"
+        },
+        {
+            "id": "deu18_16b",
+            "speaker": "Pueblo",
+            "verse": 16,
+            "text": "No vuelva yo a oír la voz de Jehová mi Dios, ni vea yo más este gran fuego, para que no muera."
+        },
+        {
+            "id": "deu18_17a",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Y Jehová me dijo:"
+        },
+        {
+            "id": "deu18_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Han hablado bien en lo que han dicho."
+        },
+        {
+            "id": "deu18_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Profeta les levantaré de en medio de sus hermanos, como tú; y pondré mis palabras en su boca, y Él les hablará todo lo que yo le mande."
+        },
+        {
+            "id": "deu18_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Y sucederá que a cualquiera que no escuche mis palabras que Él ha de hablar en mi nombre, yo lo llamaré a cuentas."
+        },
+        {
+            "id": "deu18_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Pero el profeta que tenga la presunción de hablar una palabra en mi nombre que yo no le haya mandado hablar, o que hable en nombre de dioses ajenos, el tal profeta morirá."
+        },
+        {
+            "id": "deu18_21a",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "Y si dices en tu corazón:"
+        },
+        {
+            "id": "deu18_21b",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "¿Cómo conoceremos la palabra que Jehová no ha hablado?"
+        },
+        {
+            "id": "deu18_22",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Cuando un profeta hable en el nombre de Jehová, y no acontece tal cosa, ni se cumple, es palabra que Jehová no ha hablado; con presunción la habló el tal profeta; no tengas temor de él."
+        }
+    ]
+}

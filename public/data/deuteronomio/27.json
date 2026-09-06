@@ -1,0 +1,187 @@
+{
+    "book": "Deuteronomio",
+    "chapter": 27,
+    "title": "Deuteronomio 27",
+    "messages": [
+        {
+            "id": "deu27_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y mandó Moisés, con los ancianos de Israel, al pueblo, diciendo:"
+        },
+        {
+            "id": "deu27_1b",
+            "speaker": "Moisés",
+            "verse": 1,
+            "text": "Guardaréis todos los mandamientos que yo prescribo hoy."
+        },
+        {
+            "id": "deu27_2",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Y será que, el día que pasareis el Jordán a la tierra que Jehová tu Dios te da, te has de levantar piedras grandes, las cuales revocarás con cal:"
+        },
+        {
+            "id": "deu27_3",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Y escribirás en ellas todas las palabras de esta ley, cuando hubieres pasado para entrar en la tierra que Jehová tu Dios te da, tierra que fluye leche y miel, como Jehová el Dios de tus padres te ha dicho."
+        },
+        {
+            "id": "deu27_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Será pues, cuando hubieres pasado el Jordán, que levantaréis estas piedras que yo os mando hoy, en el monte de Ebal, y las revocarás con cal:"
+        },
+        {
+            "id": "deu27_5",
+            "speaker": "Moisés",
+            "verse": 5,
+            "text": "Y edificarás allí altar a Jehová tu Dios, altar de piedras: no alzarás sobre ellas instrumento de hierro."
+        },
+        {
+            "id": "deu27_6",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "De piedras enteras edificarás el altar de Jehová tu Dios; y ofrecerás sobre él holocausto a Jehová tu Dios;"
+        },
+        {
+            "id": "deu27_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "y sacrificarás ofrendas de paz, y comerás allí; y te alegrarás delante de Jehová tu Dios."
+        },
+        {
+            "id": "deu27_8",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Y escribirás en las piedras todas las palabras de esta ley muy claramente."
+        },
+        {
+            "id": "deu27_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Moisés, con los sacerdotes levitas, habló a todo Israel, diciendo:"
+        },
+        {
+            "id": "deu27_9b",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Atiende y escucha, Israel: hoy eres hecho pueblo de Jehová tu Dios."
+        },
+        {
+            "id": "deu27_10",
+            "speaker": "Moisés",
+            "verse": 10,
+            "text": "Oirás pues la voz de Jehová tu Dios, y cumplirás sus mandamientos y sus estatutos, que yo te ordeno hoy."
+        },
+        {
+            "id": "deu27_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y mandó Moisés al pueblo en aquel día, diciendo:"
+        },
+        {
+            "id": "deu27_12a",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Éstos estarán sobre el monte de Gerizim para bendecir al pueblo, cuando hubiereis pasado el Jordán:"
+        },
+        {
+            "id": "deu27_12b",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Simeón, y Leví, y Judá, e Isacar, y José y Benjamín."
+        },
+        {
+            "id": "deu27_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Y éstos estarán para pronunciar la maldición en el monte Ebal: Rubén, Gad, y Aser, y Zabulón, Dan, y Neftalí."
+        },
+        {
+            "id": "deu27_14a",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Y hablarán los levitas, y dirán a todo varón de Israel en alta voz:"
+        },
+        {
+            "id": "deu27_15a",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Maldito el hombre que hiciere escultura o imagen de fundición, abominación a Jehová, obra de mano de artífice, y la pusiere en oculto. Y todo el pueblo responderá y dirá:"
+        },
+        {
+            "id": "deu27_15b",
+            "speaker": "Pueblo",
+            "verse": 15,
+            "text": "Amén."
+        },
+        {
+            "id": "deu27_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Maldito el que deshonrare a su padre o a su madre. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Maldito el que redujere el término de su prójimo. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Maldito el que hiciere errar al ciego en el camino. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Maldito el que torciere el derecho del extranjero, del huérfano, y de la viuda. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Maldito el que se acostare con la esposa de su padre; por cuanto descubrió el regazo de su padre. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_21",
+            "speaker": "Moisés",
+            "verse": 21,
+            "text": "Maldito el que se ayuntare con cualquier clase de bestia. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_22",
+            "speaker": "Moisés",
+            "verse": 22,
+            "text": "Maldito el que se acostare con su hermana, hija de su padre, o hija de su madre. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_23",
+            "speaker": "Moisés",
+            "verse": 23,
+            "text": "Maldito el que se acostare con su suegra. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_24",
+            "speaker": "Moisés",
+            "verse": 24,
+            "text": "Maldito el que hiriere a su prójimo ocultamente. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_25",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "Maldito el que recibiere cohecho para quitar la vida al inocente. Y dirá todo el pueblo: Amén."
+        },
+        {
+            "id": "deu27_26",
+            "speaker": "Moisés",
+            "verse": 26,
+            "text": "Maldito el que no confirmare las palabras de esta ley para cumplirlas. Y dirá todo el pueblo: Amén."
+        }
+    ]
+}
