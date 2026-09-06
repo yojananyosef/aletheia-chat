@@ -7,12 +7,24 @@
   },
   {
     "verse": 8,
+    "subId": "b",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
     "subId": "d",
     "speaker": "Príncipes",
     "confidence": 0.85
   },
   {
     "verse": 10,
+    "subId": "b",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
     "subId": "b",
     "speaker": "Filisteos",
     "confidence": 0.85

@@ -6,13 +6,13 @@
     "confidence": 0.85
   },
   {
-    "verse": 6,
-    "subId": "b",
-    "speaker": "Josafat",
-    "confidence": 0.85
+    "verse": 3,
+    "subId": "",
+    "speaker": "Jehú",
+    "confidence": 0.9
   },
   {
-    "verse": 9,
+    "verse": 6,
     "subId": "b",
     "speaker": "Josafat",
     "confidence": 0.85
@@ -20,6 +20,12 @@
   {
     "verse": 7,
     "subId": "",
+    "speaker": "Josafat",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
     "speaker": "Josafat",
     "confidence": 0.85
   },

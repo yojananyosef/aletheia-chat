@@ -1,5 +1,11 @@
 [
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.9
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Roboam",
@@ -28,6 +34,12 @@
     "subId": "b",
     "speaker": "Jóvenes",
     "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Roboam",
+    "confidence": 0.9
   },
   {
     "verse": 12,

@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Mensajero",
+    "confidence": 0.9
+  },
+  {
     "verse": 4,
     "subId": "b",
     "speaker": "Acab",
@@ -14,6 +20,12 @@
   {
     "verse": 5,
     "subId": "b",
+    "speaker": "Mensajero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
     "speaker": "Mensajero",
     "confidence": 0.85
   },
@@ -171,12 +183,6 @@
     "verse": 42,
     "subId": "b",
     "speaker": "Profeta",
-    "confidence": 0.85
-  },
-  {
-    "verse": 6,
-    "subId": "",
-    "speaker": "Mensajero",
     "confidence": 0.85
   }
 ]

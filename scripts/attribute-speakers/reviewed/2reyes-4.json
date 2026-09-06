@@ -48,6 +48,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
     "verse": 12,
     "subId": "b",
     "speaker": "Eliseo",
@@ -130,6 +136,12 @@
     "subId": "b",
     "speaker": "Narrador",
     "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "a",
+    "speaker": "Eliseo",
+    "confidence": 0.9
   },
   {
     "verse": 26,
@@ -225,12 +237,6 @@
     "verse": 43,
     "subId": "d",
     "speaker": "Eliseo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 10,
-    "subId": "",
-    "speaker": "Sunamita",
     "confidence": 0.85
   }
 ]

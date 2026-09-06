@@ -76,5 +76,17 @@
     "subId": "b",
     "speaker": "Hombres",
     "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   }
 ]

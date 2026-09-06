@@ -36,6 +36,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Salomón",
+    "confidence": 0.85
+  },
+  {
     "verse": 11,
     "subId": "b",
     "speaker": "Hiram",
@@ -48,9 +54,33 @@
     "confidence": 0.85
   },
   {
-    "verse": 10,
+    "verse": 13,
     "subId": "",
-    "speaker": "Salomón",
+    "speaker": "Hiram",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Hiram",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Hiram",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Hiram",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

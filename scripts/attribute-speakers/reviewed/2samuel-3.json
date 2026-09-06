@@ -12,6 +12,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Abner",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Abner",
+    "confidence": 0.9
+  },
+  {
     "verse": 12,
     "subId": "b",
     "speaker": "Abner",

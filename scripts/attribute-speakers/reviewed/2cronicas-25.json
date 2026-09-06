@@ -55,6 +55,12 @@
   },
   {
     "verse": 19,
+    "subId": "a",
+    "speaker": "Joás",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
     "subId": "b",
     "speaker": "Joás",
     "confidence": 0.85

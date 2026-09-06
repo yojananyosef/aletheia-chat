@@ -24,6 +24,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Elí",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 28,
     "subId": "",
     "speaker": "Dios",
@@ -67,19 +79,13 @@
   },
   {
     "verse": 36,
-    "subId": "b",
+    "subId": "a",
     "speaker": "Dios",
     "confidence": 0.85
   },
   {
-    "verse": 24,
-    "subId": "",
-    "speaker": "Elí",
-    "confidence": 0.85
-  },
-  {
     "verse": 36,
-    "subId": "a",
+    "subId": "b",
     "speaker": "Dios",
     "confidence": 0.85
   }

@@ -36,6 +36,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 14,
     "subId": "b",
     "speaker": "Nehemías",
@@ -48,14 +60,14 @@
     "confidence": 0.85
   },
   {
-    "verse": 22,
-    "subId": "b",
+    "verse": 20,
+    "subId": "",
     "speaker": "Nehemías",
     "confidence": 0.85
   },
   {
-    "verse": 20,
-    "subId": "",
+    "verse": 22,
+    "subId": "b",
     "speaker": "Nehemías",
     "confidence": 0.85
   }

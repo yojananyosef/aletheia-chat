@@ -6,10 +6,40 @@
     "confidence": 0.85
   },
   {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "b",
     "speaker": "Senaquerib",
     "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "a",
+    "speaker": "Senaquerib",
+    "confidence": 0.9
   },
   {
     "verse": 11,
@@ -19,9 +49,21 @@
   },
   {
     "verse": 12,
+    "subId": "a",
+    "speaker": "Senaquerib",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
     "subId": "b",
     "speaker": "Senaquerib",
     "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Senaquerib",
+    "confidence": 0.9
   },
   {
     "verse": 14,
@@ -130,23 +172,5 @@
     "subId": "",
     "speaker": "Narrador",
     "confidence": 0.85
-  },
-  {
-    "verse": 11,
-    "subId": "a",
-    "speaker": "Senaquerib",
-    "confidence": 0.9
-  },
-  {
-    "verse": 12,
-    "subId": "a",
-    "speaker": "Senaquerib",
-    "confidence": 0.9
-  },
-  {
-    "verse": 13,
-    "subId": "",
-    "speaker": "Senaquerib",
-    "confidence": 0.9
   }
 ]

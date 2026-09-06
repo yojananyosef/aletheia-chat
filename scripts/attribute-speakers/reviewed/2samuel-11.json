@@ -54,15 +54,21 @@
     "confidence": 0.85
   },
   {
+    "verse": 21,
+    "subId": "",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
     "verse": 23,
     "subId": "b",
     "speaker": "Mensajero",
     "confidence": 0.85
   },
   {
-    "verse": 21,
+    "verse": 24,
     "subId": "",
-    "speaker": "David",
-    "confidence": 0.85
+    "speaker": "Mensajero",
+    "confidence": 0.9
   }
 ]

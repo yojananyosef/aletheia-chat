@@ -145,6 +145,12 @@
   },
   {
     "verse": 26,
+    "subId": "a",
+    "speaker": "Micaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
     "subId": "b",
     "speaker": "Acab",
     "confidence": 0.85
