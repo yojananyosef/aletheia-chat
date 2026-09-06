@@ -52,5 +52,17 @@
     "subId": "b",
     "speaker": "Gedeón",
     "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
   }
 ]

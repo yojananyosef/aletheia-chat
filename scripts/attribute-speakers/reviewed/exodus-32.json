@@ -88,5 +88,41 @@
     "subId": "b",
     "speaker": "Dios",
     "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "a",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "a",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
   }
 ]

@@ -112,5 +112,71 @@
     "subId": "",
     "speaker": "Labán",
     "confidence": 0.8
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "a",
+    "speaker": "Labán",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 37,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.85
   }
 ]

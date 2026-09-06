@@ -1,9 +1,98 @@
 [
-  {"verse": 2, "subId": "d", "speaker": "Moisés", "confidence": 0.9},
-  {"verse": 3, "subId": "b", "speaker": "Dios", "confidence": 0.9},
-  {"verse": 7, "subId": "b", "speaker": "Dios", "confidence": 0.9},
-  {"verse": 13, "subId": "b", "speaker": "Moisés", "confidence": 0.8},
-  {"verse": 14, "subId": "b", "speaker": "Dios", "confidence": 0.9},
-  {"verse": 18, "subId": "b", "speaker": "Moisés", "confidence": 0.9},
-  {"verse": 26, "subId": "b", "speaker": "Séfora", "confidence": 0.8}
+  {
+    "verse": 2,
+    "subId": "d",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.8
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Séfora",
+    "confidence": 0.8
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  }
 ]

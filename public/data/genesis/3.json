@@ -60,7 +60,7 @@
         },
         {
             "id": "g3_5",
-            "speaker": "Narrador",
+            "speaker": "Serpiente",
             "verse": 5,
             "text": "mas sabe Dios que el día que comiereis de él, serán abiertos vuestros ojos, y seréis como dioses sabiendo el bien y el mal."
         },
@@ -175,7 +175,7 @@
         },
         {
             "id": "g3_15",
-            "speaker": "Narrador",
+            "speaker": "Dios",
             "verse": 15,
             "text": "Y pondré enemistad entre ti y la mujer, y entre tu simiente y su simiente; Él te herirá en la cabeza, y tú le herirás en el calcañar."
         },
@@ -205,13 +205,13 @@
         },
         {
             "id": "g3_18",
-            "speaker": "Narrador",
+            "speaker": "Dios",
             "verse": 18,
             "text": "espinos y cardos te producirá, y comerás plantas del campo."
         },
         {
             "id": "g3_19",
-            "speaker": "Narrador",
+            "speaker": "Dios",
             "verse": 19,
             "text": "Con el sudor de tu rostro comerás el pan hasta que vuelvas a la tierra, porque de ella fuiste tomado; pues polvo eres, y al polvo volverás."
         },
