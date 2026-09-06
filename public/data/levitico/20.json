@@ -1,0 +1,175 @@
+{
+    "book": "Levítico",
+    "chapter": 20,
+    "title": "Levítico 20",
+    "messages": [
+        {
+            "id": "lev20_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés diciendo:"
+        },
+        {
+            "id": "lev20_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Dirás asimismo a los hijos de Israel: Cualquier varón de los hijos de Israel, o de los extranjeros que peregrinan en Israel, que diere de su simiente a Moloc, de seguro morirá: el pueblo de la tierra lo apedreará con piedras."
+        },
+        {
+            "id": "lev20_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y yo pondré mi rostro contra el tal varón, y lo cortaré de entre su pueblo; por cuanto dio de su simiente a Moloc, contaminando mi santuario, y amancillando mi santo nombre."
+        },
+        {
+            "id": "lev20_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Que si escondiere el pueblo de la tierra sus ojos de aquel varón que hubiere dado de su simiente a Moloc, para no matarle,"
+        },
+        {
+            "id": "lev20_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "entonces yo pondré mi rostro contra aquel varón, y contra su familia, y le cortaré de entre su pueblo, con todos los que fornicaron en pos de él, prostituyéndose con Moloc."
+        },
+        {
+            "id": "lev20_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y la persona que atendiere a encantadores o adivinos, para prostituirse tras de ellos, yo pondré mi rostro contra la tal persona, y la cortaré de entre su pueblo."
+        },
+        {
+            "id": "lev20_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Santificaos, pues, y sed santos, porque yo Jehová soy vuestro Dios."
+        },
+        {
+            "id": "lev20_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y guardad mis estatutos, y ponedlos por obra: Yo Jehová que os santifico."
+        },
+        {
+            "id": "lev20_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Porque cualquiera que maldijere a su padre o a su madre, de cierto morirá; a su padre o a su madre maldijo; su sangre será sobre él."
+        },
+        {
+            "id": "lev20_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y el hombre que cometiere adulterio con la esposa de otro hombre, el que cometiere adulterio con la esposa de su prójimo, el adúltero y la adúltera indefectiblemente han de ser muertos."
+        },
+        {
+            "id": "lev20_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y cualquiera que se acostare con la esposa de su padre, la desnudez de su padre descubrió; ambos han de ser muertos; su sangre será sobre ellos."
+        },
+        {
+            "id": "lev20_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y cualquiera que se acostare con su nuera, ambos han de morir; cometieron depravación; su sangre será sobre ellos."
+        },
+        {
+            "id": "lev20_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y cualquiera que se acostare con un hombre como si se acostare con una mujer, ambos han cometido abominación; indefectiblemente han de ser muertos; su sangre será sobre ellos."
+        },
+        {
+            "id": "lev20_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y el que tomare esposa y a la madre de ella, comete vileza; quemarán en fuego a él y a ellas, para que no haya vileza entre vosotros."
+        },
+        {
+            "id": "lev20_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y cualquiera que tuviere cópula con bestia, ha de ser muerto; y mataréis a la bestia."
+        },
+        {
+            "id": "lev20_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y si una mujer se allegare a algún animal, para ayuntarse con él, a la mujer y al animal matarás; morirán indefectiblemente; su sangre será sobre ellos."
+        },
+        {
+            "id": "lev20_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Y cualquiera que tomare a su hermana, hija de su padre o hija de su madre, y viere su desnudez, y ella viere la suya, cosa detestable es; por tanto serán muertos a ojos de los hijos de su pueblo: descubrió la desnudez de su hermana; su pecado llevará."
+        },
+        {
+            "id": "lev20_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y cualquiera que se acostare con mujer menstruosa, y descubriere su desnudez, su fuente descubrió, y ella descubrió la fuente de su sangre: ambos serán cortados de entre su pueblo."
+        },
+        {
+            "id": "lev20_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "La desnudez de la hermana de tu madre, o de la hermana de tu padre, no descubrirás: por cuanto descubrió su parienta, su iniquidad llevarán."
+        },
+        {
+            "id": "lev20_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Y cualquiera que se acostare con la esposa del hermano de su padre, la desnudez del hermano de su padre descubrió; su pecado llevarán; morirán sin hijos."
+        },
+        {
+            "id": "lev20_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Y el que tomare la esposa de su hermano, comete inmundicia; la desnudez de su hermano descubrió; sin hijos serán."
+        },
+        {
+            "id": "lev20_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Guardad, pues, todos mis estatutos y todas mis ordenanzas, y ponedlos por obra; a fin de que no os vomite la tierra, en la cual yo os introduzco para que habitéis en ella."
+        },
+        {
+            "id": "lev20_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y no andéis en las prácticas de las naciones que yo echaré de delante de vosotros; porque ellos hicieron todas estas cosas, y los tuve en abominación."
+        },
+        {
+            "id": "lev20_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pero a vosotros os he dicho:"
+        },
+        {
+            "id": "lev20_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Vosotros poseeréis la tierra de ellos, y yo os la daré para que la poseáis por heredad, tierra que fluye leche y miel: Yo Jehová vuestro Dios, que os he apartado de los pueblos."
+        },
+        {
+            "id": "lev20_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Por tanto, vosotros haréis diferencia entre el animal limpio y el inmundo, y entre el ave inmunda y la limpia; y no contaminéis vuestras personas en los animales, ni en las aves, ni en ninguna cosa que se arrastra sobre la tierra, las cuales os he apartado por inmundas."
+        },
+        {
+            "id": "lev20_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Habéis, pues, de serme santos, porque yo Jehová soy santo, y os he apartado de los pueblos, para que seáis míos."
+        },
+        {
+            "id": "lev20_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Y el hombre o la mujer en quienes hubiere espíritu de pitonisa o de adivinación, han de ser muertos; los apedrearán con piedras; su sangre será sobre ellos."
+        }
+    ]
+}

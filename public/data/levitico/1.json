@@ -1,0 +1,115 @@
+{
+    "book": "Levítico",
+    "chapter": 1,
+    "title": "Levítico 1",
+    "messages": [
+        {
+            "id": "lev1_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y llamó Jehová a Moisés, y habló con él desde el tabernáculo de la congregación, diciendo:"
+        },
+        {
+            "id": "lev1_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "lev1_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Cuando alguno de entre vosotros ofreciere ofrenda a Jehová, de ganado vacuno u ovejuno haréis vuestra ofrenda."
+        },
+        {
+            "id": "lev1_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Si su ofrenda fuere holocausto de vacas, macho sin tacha lo ofrecerá: de su voluntad lo ofrecerá a la puerta del tabernáculo de la congregación delante de Jehová."
+        },
+        {
+            "id": "lev1_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y pondrá su mano sobre la cabeza del holocausto; y él lo aceptará para expiarle."
+        },
+        {
+            "id": "lev1_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Entonces degollará el becerro en la presencia de Jehová; y los sacerdotes, hijos de Aarón, ofrecerán la sangre, y la rociarán alrededor sobre el altar, el cual está a la puerta del tabernáculo de la congregación."
+        },
+        {
+            "id": "lev1_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y desollará el holocausto, y lo dividirá en sus piezas."
+        },
+        {
+            "id": "lev1_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y los hijos de Aarón sacerdote pondrán fuego sobre el altar, y compondrán la leña sobre el fuego."
+        },
+        {
+            "id": "lev1_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Luego los sacerdotes, hijos de Aarón, acomodarán las piezas, la cabeza y el redaño, sobre la leña que está sobre el fuego, que habrá encima del altar:"
+        },
+        {
+            "id": "lev1_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y lavará con agua sus intestinos y sus piernas; y el sacerdote lo quemará todo sobre el altar; holocausto es, ofrenda encendida de olor grato a Jehová."
+        },
+        {
+            "id": "lev1_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y si su ofrenda para holocausto fuere de ovejas, de los corderos, o de las cabras, macho sin defecto lo ofrecerá."
+        },
+        {
+            "id": "lev1_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y ha de degollarlo al lado norte del altar delante de Jehová; y los sacerdotes, hijos de Aarón, rociarán su sangre sobre el altar alrededor."
+        },
+        {
+            "id": "lev1_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y lo dividirá en sus piezas, con su cabeza y su redaño; y el sacerdote las acomodará sobre la leña que está sobre el fuego, que habrá encima del altar;"
+        },
+        {
+            "id": "lev1_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "y lavará sus entrañas y sus piernas con agua; y el sacerdote lo ofrecerá todo, y lo quemará sobre el altar; holocausto es, ofrenda encendida de olor grato a Jehová."
+        },
+        {
+            "id": "lev1_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y si el holocausto se hubiere de ofrecer a Jehová de aves, presentará su ofrenda de tórtolas, o de palominos."
+        },
+        {
+            "id": "lev1_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y el sacerdote la ofrecerá sobre el altar, y le quitará la cabeza y la quemará sobre el altar; y su sangre será exprimida sobre la pared del altar."
+        },
+        {
+            "id": "lev1_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y le ha de quitar el buche y las plumas, lo cual echará junto al altar, hacia el oriente, en el lugar de las cenizas."
+        },
+        {
+            "id": "lev1_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Y la henderá por sus alas, pero no la dividirá en dos; y el sacerdote la quemará sobre el altar, sobre la leña que estará en el fuego; holocausto es, ofrenda encendida de olor grato a Jehová."
+        }
+    ]
+}

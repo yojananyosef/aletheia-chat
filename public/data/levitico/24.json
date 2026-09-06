@@ -1,0 +1,151 @@
+{
+    "book": "Levítico",
+    "chapter": 24,
+    "title": "Levítico 24",
+    "messages": [
+        {
+            "id": "lev24_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "lev24_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Manda a los hijos de Israel que te traigan aceite puro de olivas machacadas para el alumbrado, para hacer arder las lámparas continuamente."
+        },
+        {
+            "id": "lev24_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Fuera del velo del testimonio, en el tabernáculo del testimonio, las aderezará Aarón desde la tarde hasta la mañana delante de Jehová, continuamente; será estatuto perpetuo por vuestras generaciones."
+        },
+        {
+            "id": "lev24_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Sobre el candelero limpio pondrá siempre en orden las lámparas delante de Jehová."
+        },
+        {
+            "id": "lev24_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y tomarás flor de harina, y cocerás de ella doce tortas; cada torta será de dos décimas."
+        },
+        {
+            "id": "lev24_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y las pondrás en dos hileras, seis en cada hilera, sobre la mesa limpia delante de Jehová."
+        },
+        {
+            "id": "lev24_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Pondrás también sobre cada orden incienso puro, y será para el pan por memorial, ofrenda encendida a Jehová."
+        },
+        {
+            "id": "lev24_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Cada día de sábado lo pondrá continuamente en orden delante de Jehová, de parte de los hijos de Israel por pacto sempiterno."
+        },
+        {
+            "id": "lev24_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y será de Aarón y de sus hijos, los cuales lo comerán en el lugar santo; porque es cosa muy santa para él, de las ofrendas encendidas a Jehová, por estatuto perpetuo."
+        },
+        {
+            "id": "lev24_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el hijo de una mujer israelita, cuyo padre era un egipcio, salió entre los hijos de Israel; y el hijo de la israelita y un hombre de Israel riñeron en el campamento."
+        },
+        {
+            "id": "lev24_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y el hijo de la mujer israelita blasfemó el nombre de Jehová, y maldijo; entonces le llevaron a Moisés. Y su madre se llamaba Selomit, hija de Dibri, de la tribu de Dan."
+        },
+        {
+            "id": "lev24_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y lo pusieron en la cárcel, hasta que les fuese declarado por palabra de Jehová."
+        },
+        {
+            "id": "lev24_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "lev24_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Saca al blasfemo fuera del campamento, y todos los que le oyeron pongan sus manos sobre la cabeza de él, y apedréelo toda la congregación."
+        },
+        {
+            "id": "lev24_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y hablarás a los hijos de Israel, diciendo:"
+        },
+        {
+            "id": "lev24_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Cualquiera que maldijere a su Dios, llevará su iniquidad."
+        },
+        {
+            "id": "lev24_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y el que blasfemare el nombre de Jehová, ha de ser muerto; toda la congregación lo apedreará; así el extranjero como el natural, si blasfemare el nombre de Jehová, que muera."
+        },
+        {
+            "id": "lev24_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Asimismo el hombre que hiere de muerte a cualquier persona, que sufra la muerte."
+        },
+        {
+            "id": "lev24_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y el que hiere de muerte a algún animal ha de restituirlo; animal por animal."
+        },
+        {
+            "id": "lev24_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y el que causare lesión en su prójimo, según hizo, así le sea hecho:"
+        },
+        {
+            "id": "lev24_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Rotura por rotura, ojo por ojo, diente por diente; según la lesión que haya hecho a otro, tal se hará a él."
+        },
+        {
+            "id": "lev24_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "El que hiere de muerte a algún animal, ha de restituirlo; mas el que hiere de muerte a un hombre, que muera."
+        },
+        {
+            "id": "lev24_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Un mismo derecho tendréis; como el extranjero, así será el natural; porque yo soy Jehová vuestro Dios."
+        },
+        {
+            "id": "lev24_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y habló Moisés a los hijos de Israel, y ellos sacaron al blasfemo fuera del campamento, y lo apedrearon. Y los hijos de Israel hicieron según Jehová había mandado a Moisés."
+        }
+    ]
+}

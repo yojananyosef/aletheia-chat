@@ -1,0 +1,163 @@
+{
+    "book": "Levítico",
+    "chapter": 21,
+    "title": "Levítico 21",
+    "messages": [
+        {
+            "id": "lev21_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "lev21_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Habla a los sacerdotes hijos de Aarón, y diles que no se contaminen por un muerto entre su pueblo."
+        },
+        {
+            "id": "lev21_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Mas por su pariente cercano, por su madre, o por su padre, o por su hijo, o por su hija o por su hermano,"
+        },
+        {
+            "id": "lev21_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "o por su hermana virgen, a él cercana, la cual no haya tenido marido, por ella se contaminará."
+        },
+        {
+            "id": "lev21_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "No se contaminará, para profanarse, porque es príncipe en su pueblo."
+        },
+        {
+            "id": "lev21_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "No harán calva en su cabeza, ni raerán la punta de su barba, ni en su carne harán rasguños."
+        },
+        {
+            "id": "lev21_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Santos serán a su Dios, y no profanarán el nombre de su Dios; porque las ofrendas encendidas para Jehová y el pan de su Dios ofrecen; por tanto, serán santos."
+        },
+        {
+            "id": "lev21_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "No tomará por esposa a mujer ramera o infame; ni tomará mujer repudiada de su marido; porque él es santo a su Dios."
+        },
+        {
+            "id": "lev21_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Lo santificarás por tanto, pues el pan de tu Dios ofrece; santo será para ti, porque santo soy yo Jehová que os santifico."
+        },
+        {
+            "id": "lev21_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y la hija del varón sacerdote, si comenzare a fornicar, a su padre amancilla, quemada será al fuego."
+        },
+        {
+            "id": "lev21_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y el sumo sacerdote entre sus hermanos, sobre cuya cabeza fue derramado el aceite de la unción, y que fue consagrado para llevar las vestimentas, no descubrirá su cabeza, ni romperá sus vestiduras:"
+        },
+        {
+            "id": "lev21_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Ni entrará donde haya alguna persona muerta, ni por su padre, o por su madre se contaminará."
+        },
+        {
+            "id": "lev21_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Ni saldrá del santuario, ni contaminará el santuario de su Dios; porque la corona del aceite de la unción de su Dios está sobre él: Yo Jehová."
+        },
+        {
+            "id": "lev21_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y tomará por esposa a mujer virgen."
+        },
+        {
+            "id": "lev21_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Mujer viuda, o divorciada, o infame, o ramera, no tomará; sino tomará de su pueblo virgen por esposa."
+        },
+        {
+            "id": "lev21_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y no amancillará su simiente en su pueblo; porque yo Jehová soy el que los santifico."
+        },
+        {
+            "id": "lev21_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "lev21_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Habla a Aarón, y dile:"
+        },
+        {
+            "id": "lev21_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Ninguno de tu simiente, por sus generaciones, que tenga algún defecto, se acercará para ofrecer el pan de su Dios."
+        },
+        {
+            "id": "lev21_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Porque ningún varón en el cual hubiere defecto se acercará; varón ciego, o cojo, o falto, o sobrado,"
+        },
+        {
+            "id": "lev21_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "o varón en el cual hubiere quebradura de pie o rotura de mano,"
+        },
+        {
+            "id": "lev21_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "o jorobado, o enano, o que tuviere nube en el ojo, o que tenga sarna, o empeine, o que tenga testículo dañado."
+        },
+        {
+            "id": "lev21_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Ningún varón de la simiente de Aarón sacerdote, en el cual hubiere defecto, se acercará para ofrecer las ofrendas encendidas de Jehová. Hay defecto en él; no se acercará a ofrecer el pan de su Dios."
+        },
+        {
+            "id": "lev21_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "El pan de su Dios, de lo muy santo y las cosas santificadas, comerá;"
+        },
+        {
+            "id": "lev21_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "pero no entrará tras el velo, ni se acercará al altar, por cuanto hay defecto en él; para que no profane mi santuario, porque yo Jehová soy el que los santifico."
+        },
+        {
+            "id": "lev21_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y Moisés habló esto a Aarón, y a sus hijos, y a todos los hijos de Israel."
+        }
+    ]
+}

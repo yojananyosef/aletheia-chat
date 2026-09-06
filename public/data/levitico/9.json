@@ -1,0 +1,181 @@
+{
+    "book": "Levítico",
+    "chapter": 9,
+    "title": "Levítico 9",
+    "messages": [
+        {
+            "id": "lev9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y fue en el día octavo, que Moisés llamó a Aarón y a sus hijos, y a los ancianos de Israel;"
+        },
+        {
+            "id": "lev9_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo a Aarón:"
+        },
+        {
+            "id": "lev9_2b",
+            "speaker": "Moisés",
+            "verse": 2,
+            "text": "Toma de la vacada un becerro para expiación, y un carnero para holocausto, sin defecto, y ofrécelos delante de Jehová."
+        },
+        {
+            "id": "lev9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y a los hijos de Israel hablarás, diciendo:"
+        },
+        {
+            "id": "lev9_3b",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Tomad un macho cabrío para expiación, y un becerro y un cordero de un año, sin defecto, para holocausto;"
+        },
+        {
+            "id": "lev9_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Asimismo un buey y un carnero para sacrificio de paz, que inmoléis delante de Jehová; y un presente amasado con aceite: porque Jehová se aparecerá hoy a vosotros."
+        },
+        {
+            "id": "lev9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y llevaron lo que mandó Moisés delante del tabernáculo de la congregación, y se llegó toda la congregación, y se pusieron delante de Jehová."
+        },
+        {
+            "id": "lev9_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Moisés dijo:"
+        },
+        {
+            "id": "lev9_6b",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Esto es lo que mandó Jehová; hacedlo, y la gloria de Jehová se os aparecerá."
+        },
+        {
+            "id": "lev9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo Moisés a Aarón:"
+        },
+        {
+            "id": "lev9_7b",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Acércate al altar, y haz tu expiación, y tu holocausto, y haz la reconciliación por ti y por el pueblo; haz también la ofrenda del pueblo, y haz la reconciliación por ellos; como ha mandado Jehová."
+        },
+        {
+            "id": "lev9_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces se acercó Aarón al altar y degolló el becerro de la expiación que era por él."
+        },
+        {
+            "id": "lev9_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los hijos de Aarón le trajeron la sangre; y él mojó su dedo en la sangre, y puso sobre los cuernos del altar, y derramó la demás sangre al pie del altar;"
+        },
+        {
+            "id": "lev9_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "E hizo arder sobre el altar la grosura y los riñones y el redaño del hígado de la expiación, como Jehová lo había mandado a Moisés."
+        },
+        {
+            "id": "lev9_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas la carne y la piel las quemó al fuego fuera del campamento."
+        },
+        {
+            "id": "lev9_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Degolló asimismo el holocausto, y los hijos de Aarón le presentaron la sangre, la cual él roció alrededor sobre el altar."
+        },
+        {
+            "id": "lev9_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y le presentaron después el holocausto en trozos, y la cabeza; y lo hizo quemar sobre el altar."
+        },
+        {
+            "id": "lev9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Luego lavó los intestinos y las piernas, y los quemó sobre el holocausto en el altar."
+        },
+        {
+            "id": "lev9_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Ofreció también la ofrenda del pueblo, y tomó el macho cabrío que era para la expiación del pueblo, y lo degolló, y lo ofreció por el pecado como el primero."
+        },
+        {
+            "id": "lev9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y ofreció el holocausto, e hizo según el rito."
+        },
+        {
+            "id": "lev9_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Ofreció asimismo la ofrenda, y llenó de ella su mano, y la quemó sobre el altar, además del holocausto de la mañana."
+        },
+        {
+            "id": "lev9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Degolló también el buey y el carnero en sacrificio de paz, que era por el pueblo; y los hijos de Aarón le presentaron la sangre (la cual roció él sobre el altar alrededor),"
+        },
+        {
+            "id": "lev9_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y las grosuras del buey y del carnero, la cola, lo que cubre las entrañas, los riñones y el redaño del hígado;"
+        },
+        {
+            "id": "lev9_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "y pusieron las grosuras sobre los pechos, y él quemó las grosuras sobre el altar."
+        },
+        {
+            "id": "lev9_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero los pechos, con la espaldilla derecha, los meció Aarón como ofrenda agitada delante de Jehová, tal como Moisés lo había mandado."
+        },
+        {
+            "id": "lev9_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Después alzó Aarón sus manos hacia el pueblo y los bendijo; y descendió de hacer la expiación, y el holocausto, y el sacrificio de paz."
+        },
+        {
+            "id": "lev9_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y entraron Moisés y Aarón en el tabernáculo de la congregación; y salieron, y bendijeron al pueblo:"
+        },
+        {
+            "id": "lev9_23b",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "y la gloria de Jehová se apareció a todo el pueblo."
+        },
+        {
+            "id": "lev9_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y salió fuego de delante de Jehová, y consumió el holocausto y las grosuras sobre el altar; y viéndolo todo el pueblo, alabaron, y cayeron sobre sus rostros."
+        }
+    ]
+}

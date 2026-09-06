@@ -1,0 +1,295 @@
+{
+    "book": "Levítico",
+    "chapter": 23,
+    "title": "Levítico 23",
+    "messages": [
+        {
+            "id": "lev23_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "lev23_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "lev23_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Las fiestas solemnes de Jehová, las cuales proclamaréis santas convocaciones, éstas son mis fiestas."
+        },
+        {
+            "id": "lev23_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Seis días se trabajará, y el séptimo día sábado de reposo será, convocación santa: ninguna obra haréis; sábado es de Jehová en dondequiera que habitéis."
+        },
+        {
+            "id": "lev23_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Éstas son las fiestas solemnes de Jehová, las convocaciones santas, a las cuales convocaréis en sus tiempos."
+        },
+        {
+            "id": "lev23_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "En el mes primero, el día catorce del mes, entre las dos tardes, pascua es de Jehová."
+        },
+        {
+            "id": "lev23_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y a los quince días de este mes es la fiesta solemne de los panes sin levadura a Jehová; siete días comeréis panes sin levadura."
+        },
+        {
+            "id": "lev23_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "El primer día tendréis santa convocación; ninguna obra de siervo haréis."
+        },
+        {
+            "id": "lev23_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y ofreceréis a Jehová siete días ofrenda encendida: el séptimo día será santa convocación; ninguna obra de siervo haréis."
+        },
+        {
+            "id": "lev23_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y habló Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "lev23_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "lev23_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Cuando hubiereis entrado en la tierra que yo os doy, y segareis su mies, traeréis al sacerdote un manojo de los primeros frutos de vuestra siega;"
+        },
+        {
+            "id": "lev23_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y el sacerdote mecerá el manojo delante de Jehová, para que seáis aceptos; el día siguiente del sábado lo mecerá el sacerdote."
+        },
+        {
+            "id": "lev23_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y el día que ofrezcáis el manojo, ofreceréis un cordero de un año, sin defecto, en holocausto a Jehová."
+        },
+        {
+            "id": "lev23_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y la ofrenda será dos décimas de flor de harina amasada con aceite, ofrenda encendida a Jehová en olor gratísimo; y su libación de vino, la cuarta parte de un hin."
+        },
+        {
+            "id": "lev23_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y no comeréis pan, ni grano tostado, ni espiga fresca, hasta este mismo día, hasta que hayáis ofrecido la ofrenda de vuestro Dios; estatuto perpetuo será por vuestras generaciones en dondequiera que habitéis."
+        },
+        {
+            "id": "lev23_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y os habéis de contar desde el siguiente día del sábado, desde el día en que ofrecisteis el manojo de la ofrenda mecida; siete semanas cumplidas serán:"
+        },
+        {
+            "id": "lev23_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Hasta el siguiente día del sábado séptimo contaréis cincuenta días; entonces ofreceréis grano nuevo a Jehová."
+        },
+        {
+            "id": "lev23_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "De vuestras habitaciones traeréis dos panes para ofrenda mecida, que serán de dos décimas de flor de harina, cocidos con levadura, por primicias a Jehová."
+        },
+        {
+            "id": "lev23_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y ofreceréis con el pan siete corderos de un año, sin defecto, y un becerro de la vacada y dos carneros; serán holocausto a Jehová, con su ofrenda y sus libaciones; ofrenda encendida de olor grato a Jehová."
+        },
+        {
+            "id": "lev23_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Ofreceréis además un macho cabrío por expiación; y dos corderos de un año en sacrificio de paz."
+        },
+        {
+            "id": "lev23_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Y el sacerdote los mecerá en ofrenda agitada delante de Jehová, con el pan de las primicias, y los dos corderos; serán cosa santa de Jehová para el sacerdote."
+        },
+        {
+            "id": "lev23_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Y proclamaréis en este mismo día; que os será santa convocación; ninguna obra de siervo haréis; os será estatuto perpetuo en dondequiera que habitéis por vuestras generaciones."
+        },
+        {
+            "id": "lev23_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y cuando segareis la mies de vuestra tierra, no segaréis hasta el último rincón de tu campo, ni espigarás tu siega; para el pobre, y para el extranjero la dejarás: Yo Jehová vuestro Dios."
+        },
+        {
+            "id": "lev23_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "lev23_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "lev23_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "En el mes séptimo, al primer día del mes tendréis sábado, una conmemoración al son de trompetas, y una santa convocación."
+        },
+        {
+            "id": "lev23_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Ninguna obra de siervo haréis; y ofreceréis ofrenda encendida a Jehová."
+        },
+        {
+            "id": "lev23_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y habló Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "lev23_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "También el décimo día de este mes séptimo será el día de la expiación: tendréis santa convocación, y afligiréis vuestras almas, y ofreceréis ofrenda encendida a Jehová."
+        },
+        {
+            "id": "lev23_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Ninguna obra haréis en este mismo día; porque es el día de la expiación, para reconciliaros delante de Jehová vuestro Dios."
+        },
+        {
+            "id": "lev23_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Porque toda persona que no se afligiere en este mismo día, será cortada de entre su pueblo."
+        },
+        {
+            "id": "lev23_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Y cualquiera persona que hiciere obra alguna en este mismo día, yo destruiré la tal persona de entre su pueblo."
+        },
+        {
+            "id": "lev23_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Ninguna obra haréis: os será por estatuto perpetuo por vuestras generaciones en dondequiera que habitéis."
+        },
+        {
+            "id": "lev23_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "Sábado de reposo será a vosotros, y afligiréis vuestras almas, comenzando a los nueve días del mes en la tarde; de tarde a tarde celebraréis vuestro sábado."
+        },
+        {
+            "id": "lev23_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y habló Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "lev23_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "lev23_34b",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "A los quince días de este mes séptimo será la fiesta solemne de los tabernáculos a Jehová por siete días."
+        },
+        {
+            "id": "lev23_35",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "El primer día habrá santa convocación: ninguna obra de siervo haréis."
+        },
+        {
+            "id": "lev23_36",
+            "speaker": "Dios",
+            "verse": 36,
+            "text": "Siete días ofreceréis ofrenda encendida a Jehová: el octavo día tendréis santa convocación, y ofreceréis ofrenda encendida a Jehová: es fiesta, ninguna obra de siervo haréis."
+        },
+        {
+            "id": "lev23_37",
+            "speaker": "Dios",
+            "verse": 37,
+            "text": "Éstas son las fiestas solemnes de Jehová, a las que convocaréis santas reuniones, para ofrecer ofrenda encendida a Jehová, holocausto y ofrenda, sacrificio y libaciones, cada cosa en su tiempo:"
+        },
+        {
+            "id": "lev23_38",
+            "speaker": "Dios",
+            "verse": 38,
+            "text": "Además de los sábados de Jehová, además de vuestros dones, además de todos vuestros votos, y además de todas vuestras ofrendas voluntarias que dais a Jehová."
+        },
+        {
+            "id": "lev23_39",
+            "speaker": "Dios",
+            "verse": 39,
+            "text": "También a los quince días del mes séptimo, cuando hubiereis almacenado el fruto de la tierra, haréis fiesta a Jehová por siete días: el primer día será sábado; sábado será también el octavo día."
+        },
+        {
+            "id": "lev23_40",
+            "speaker": "Dios",
+            "verse": 40,
+            "text": "Y tomaréis el primer día gajos con fruto de árbol hermoso, ramas de palmas, y ramas de árboles frondosos, y sauces de los arroyos; y os regocijaréis delante de Jehová vuestro Dios por siete días."
+        },
+        {
+            "id": "lev23_41",
+            "speaker": "Dios",
+            "verse": 41,
+            "text": "Y le haréis fiesta a Jehová por siete días cada un año; será estatuto perpetuo por vuestras generaciones; en el mes séptimo la haréis."
+        },
+        {
+            "id": "lev23_42",
+            "speaker": "Dios",
+            "verse": 42,
+            "text": "En tabernáculos habitaréis siete días: todo natural de Israel habitará en tabernáculos;"
+        },
+        {
+            "id": "lev23_43",
+            "speaker": "Dios",
+            "verse": 43,
+            "text": "Para que sepan vuestros descendientes que en tabernáculos hice yo habitar a los hijos de Israel, cuando los saqué de la tierra de Egipto: Yo Jehová vuestro Dios."
+        },
+        {
+            "id": "lev23_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Así habló Moisés a los hijos de Israel sobre las fiestas solemnes de Jehová."
+        }
+    ]
+}

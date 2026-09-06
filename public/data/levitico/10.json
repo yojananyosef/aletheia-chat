@@ -1,0 +1,157 @@
+{
+    "book": "Levítico",
+    "chapter": 10,
+    "title": "Levítico 10",
+    "messages": [
+        {
+            "id": "lev10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y los hijos de Aarón, Nadab y Abiú, tomaron cada uno su incensario, y pusieron fuego en ellos, sobre el cual pusieron incienso, y ofrecieron delante de Jehová fuego extraño, que Él nunca les mandó."
+        },
+        {
+            "id": "lev10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y salió fuego de delante de Jehová que los quemó, y murieron delante de Jehová."
+        },
+        {
+            "id": "lev10_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces dijo Moisés a Aarón:"
+        },
+        {
+            "id": "lev10_3b",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Esto es lo que habló Jehová, diciendo: En los que a mí se acercan me santificaré, y en presencia de todo el pueblo seré glorificado. Y Aarón calló."
+        },
+        {
+            "id": "lev10_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y llamó Moisés a Misael y a Elizafán, hijos de Uziel, tío de Aarón, y les dijo:"
+        },
+        {
+            "id": "lev10_4b",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Acercaos y sacad a vuestros hermanos de delante del santuario fuera del campamento."
+        },
+        {
+            "id": "lev10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ellos se acercaron, y los sacaron con sus túnicas fuera del campamento, como dijo Moisés."
+        },
+        {
+            "id": "lev10_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Moisés dijo a Aarón, y a Eleazar y a Itamar, sus hijos:"
+        },
+        {
+            "id": "lev10_6b",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "No descubráis vuestras cabezas, ni rasguéis vuestras vestiduras, para que no muráis, ni se levante la ira sobre toda la congregación: pero dejad que vuestros hermanos, toda la casa de Israel, lamente el incendio que Jehová ha hecho."
+        },
+        {
+            "id": "lev10_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Ni saldréis de la puerta del tabernáculo de la congregación, porque moriréis; por cuanto el aceite de la unción de Jehová está sobre vosotros. Y ellos hicieron conforme al dicho de Moisés."
+        },
+        {
+            "id": "lev10_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Jehová habló a Aarón, diciendo:"
+        },
+        {
+            "id": "lev10_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Tú, y tus hijos contigo, no beberéis vino ni sidra, cuando hubiereis de entrar en el tabernáculo de la congregación, para que no muráis; estatuto perpetuo será por vuestras generaciones;"
+        },
+        {
+            "id": "lev10_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y para poder discernir entre lo santo y lo profano, y entre lo inmundo y lo limpio;"
+        },
+        {
+            "id": "lev10_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "y para enseñar a los hijos de Israel todos los estatutos que Jehová les ha dicho por medio de Moisés."
+        },
+        {
+            "id": "lev10_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Moisés dijo a Aarón, y a Eleazar y a Itamar, sus hijos que habían quedado:"
+        },
+        {
+            "id": "lev10_12b",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Tomad la ofrenda que queda de las ofrendas encendidas a Jehová, y comedlo sin levadura junto al altar, porque es cosa muy santa."
+        },
+        {
+            "id": "lev10_13",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Habéis, pues, de comerlo en el lugar santo; porque ésta es tu porción, y la porción de tus hijos, de las ofrendas encendidas a Jehová, pues que así me ha sido mandado."
+        },
+        {
+            "id": "lev10_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Comeréis asimismo en lugar limpio, tú y tus hijos y tus hijas contigo, el pecho de la ofrenda mecida, y la espaldilla elevada, porque son tu porción, y la porción de tus hijos, son dados de los sacrificios de paz de los hijos de Israel."
+        },
+        {
+            "id": "lev10_15",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Con las ofrendas de las grosuras que se han de encender, traerán la espaldilla que se ha de elevar, y el pecho que será mecido, para que lo mezas por ofrenda agitada delante de Jehová; y será tuyo, y de tus hijos contigo, por estatuto perpetuo, como Jehová lo ha mandado."
+        },
+        {
+            "id": "lev10_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Moisés demandó el macho cabrío de la expiación, y se halló que era quemado; y se enojó contra Eleazar e Itamar, los hijos de Aarón que habían quedado, diciendo:"
+        },
+        {
+            "id": "lev10_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "¿Por qué no comisteis la expiación en el lugar santo? porque es muy santa, y Dios la dio a vosotros para llevar la iniquidad de la congregación, para que sean reconciliados delante de Jehová."
+        },
+        {
+            "id": "lev10_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Veis que su sangre no fue metida dentro del santuario: habíais de comerla en el lugar santo, como yo mandé."
+        },
+        {
+            "id": "lev10_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y respondió Aarón a Moisés:"
+        },
+        {
+            "id": "lev10_19b",
+            "speaker": "Aarón",
+            "verse": 19,
+            "text": "He aquí hoy han ofrecido su expiación y su holocausto delante de Jehová: pero me han acontecido estas cosas: pues si comiera yo hoy de la expiación, ¿Hubiera sido acepto a Jehová?"
+        },
+        {
+            "id": "lev10_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y cuando Moisés oyó esto, se dio por satisfecho."
+        }
+    ]
+}
