@@ -90,7 +90,7 @@ function rxRule(rule, global = false) {
   return rx(rule.pattern, rule.flags ?? 'i', global);
 }
 
-const DICENDI_RE = rx('\\b(dij[\\p{L}]+|dic[\\p{L}]+|dec[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+|replic[\\p{L}]+|exclam[\\p{L}]+)\\b', 'i');
+const DICENDI_RE = rx('\\b(dij[\\p{L}]+|dic[\\p{L}]+|dec[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+|replic[\\p{L}]+|exclam[\\p{L}]+|grit[\\p{L}]+|salud[\\p{L}]+)\\b', 'i');
 
 /**
  * Sujeto del verbo dicendi: PRIMER candidato (el sujeto suele ir primero en español).

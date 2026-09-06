@@ -4,7 +4,7 @@
     {
       "id": "dijo-con-cita",
       "comment": "Tallos (cubre dijo/dijeron/dicho, respondió/respondieron, llamó, habló...). Los \\b los vuelve unicode-aware run.mjs (rx()). El corte múltiple lo hace el código: corta en cada 'verbo+:' válido, donde válido = primer corte del verso O segmento con fin de frase (?!.…) antes de la cola narrativa. Así '¿Conque Dios os ha dicho: No comáis...?' NO se fragmenta, pero '¿Quién te ha puesto...? Entonces Moisés tuvo miedo, y dijo: Ciertamente...' SÍ (burb1 Hebreo, narr, burb2 Moisés).",
-      "verbStem": "(dij[\\p{L}\\p{N}_]+|dic[\\p{L}\\p{N}_]+|dec[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+|replic[\\p{L}\\p{N}_]+|exclam[\\p{L}\\p{N}_]+)",
+      "verbStem": "(dij[\\p{L}\\p{N}_]+|dic[\\p{L}\\p{N}_]+|dec[\\p{L}\\p{N}_]+|respond[\\p{L}\\p{N}_]+|llam[\\p{L}\\p{N}_]+|habl[\\p{L}\\p{N}_]+|bend[\\p{L}\\p{N}_]+|clam[\\p{L}\\p{N}_]+|pregunt[\\p{L}\\p{N}_]+|contest[\\p{L}\\p{N}_]+|replic[\\p{L}\\p{N}_]+|exclam[\\p{L}\\p{N}_]+|grit[\\p{L}\\p{N}_]+|salud[\\p{L}\\p{N}_]+)",
       "flags": "i",
       "minSpeechLen": 2
     }
@@ -513,6 +513,146 @@
       "flags": "i",
       "speaker": "Capataces",
       "confidence": 0.8
+    },
+    {
+      "id": "juan-bautista",
+      "pattern": "\\bjuan\\s+(el\\s+)?bautista\\b",
+      "flags": "i",
+      "speaker": "Juan el Bautista",
+      "confidence": 0.9
+    },
+    {
+      "id": "herodes",
+      "pattern": "\\bherodes\\b",
+      "flags": "i",
+      "speaker": "Herodes",
+      "confidence": 0.9
+    },
+    {
+      "id": "herodias",
+      "pattern": "\\bherod[ií]as\\b",
+      "flags": "i",
+      "speaker": "Herodías",
+      "confidence": 0.9
+    },
+    {
+      "id": "pilato",
+      "pattern": "\\bpilato\\b",
+      "flags": "i",
+      "speaker": "Pilato",
+      "confidence": 0.9
+    },
+    {
+      "id": "pedro",
+      "pattern": "\\bpedro\\b",
+      "flags": "i",
+      "speaker": "Pedro",
+      "confidence": 0.9
+    },
+    {
+      "id": "discipulos",
+      "pattern": "\\b(disc[íi]pulos?|ap[óo]stol(es)?|los doce)\\b",
+      "flags": "i",
+      "speaker": "Discípulos",
+      "confidence": 0.9
+    },
+    {
+      "id": "fariseos",
+      "pattern": "\\bfariseos?\\b",
+      "flags": "i",
+      "speaker": "Fariseos",
+      "confidence": 0.9
+    },
+    {
+      "id": "escribas",
+      "pattern": "\\b(escribas?|doctores de la ley)\\b",
+      "flags": "i",
+      "speaker": "Escribas",
+      "confidence": 0.9
+    },
+    {
+      "id": "saduceos",
+      "pattern": "\\bsaduceos?\\b",
+      "flags": "i",
+      "speaker": "Saduceos",
+      "confidence": 0.9
+    },
+    {
+      "id": "multitud",
+      "pattern": "\\b(multitud|muchedumbre|gent[íi]o|compa[ñn][íi]a)\\b",
+      "flags": "i",
+      "speaker": "Multitud",
+      "confidence": 0.85
+    },
+    {
+      "id": "demonio",
+      "pattern": "\\b(esp[íi]ritu inmundo|demonios?|legi[óo]n)\\b",
+      "flags": "i",
+      "speaker": "Demonio",
+      "confidence": 0.9
+    },
+    {
+      "id": "leproso",
+      "pattern": "\\bleproso\\b",
+      "flags": "i",
+      "speaker": "Leproso",
+      "confidence": 0.9
+    },
+    {
+      "id": "jairo",
+      "pattern": "\\bjairo\\b",
+      "flags": "i",
+      "speaker": "Jairo",
+      "confidence": 0.9
+    },
+    {
+      "id": "centurion",
+      "pattern": "\\bcenturi[óo]n\\b",
+      "flags": "i",
+      "speaker": "Centurión",
+      "confidence": 0.9
+    },
+    {
+      "id": "sumo-sacerdote",
+      "pattern": "\\bsumo sacerdote\\b",
+      "flags": "i",
+      "speaker": "Sumo sacerdote",
+      "confidence": 0.9
+    },
+    {
+      "id": "sacerdotes",
+      "pattern": "\\b(principales sacerdotes|pr[íi]ncipes de los sacerdotes|ancianos del pueblo)\\b",
+      "flags": "i",
+      "speaker": "Sacerdotes",
+      "confidence": 0.9
+    },
+    {
+      "id": "testigos",
+      "pattern": "\\bfalsos?\\s+testigos?\\b",
+      "flags": "i",
+      "speaker": "Testigos",
+      "confidence": 0.9
+    },
+    {
+      "id": "bartimeo",
+      "pattern": "\\bbartimeo\\b",
+      "flags": "i",
+      "speaker": "Bartimeo",
+      "confidence": 0.9
+    },
+    {
+      "id": "criada",
+      "pattern": "\\bcriadas?\\b",
+      "flags": "i",
+      "speaker": "Criada",
+      "confidence": 0.85
+    },
+    {
+      "id": "voz-cielo",
+      "pattern": "\\bvoz\\b[^:]{0,40}\\b(cielo|nube)\\b|\\b(cielo|nube)\\b[^:]{0,40}\\bvoz\\b",
+      "flags": "i",
+      "speaker": "Dios",
+      "confidence": 0.9
     }
   ],
   "aliases": {

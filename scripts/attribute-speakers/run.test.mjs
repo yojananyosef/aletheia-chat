@@ -117,6 +117,20 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(maria.speaker, 'María');
   });
 
+  it('MRK voces: Dios 1:11, Leproso 1:40, Herodes 6:16, Pedro 8:29, Pilato 15:2', () => {
+    const m1 = run('marcos', 'MRK', 1);
+    assert.equal(speakerOf(m1.messages, 11, 'b'), 'Dios');
+    assert.equal(speakerOf(m1.messages, 40, 'b'), 'Leproso');
+    const m6 = run('marcos', 'MRK', 6);
+    assert.equal(speakerOf(m6.messages, 16, 'b'), 'Herodes');
+    const m8 = run('marcos', 'MRK', 8);
+    const pedro = m8.messages.find(m => m.verse === 29 && /cristo/i.test(m.text));
+    assert.ok(pedro, 'burbuja de Pedro MRK 8:29 existe');
+    assert.equal(pedro.speaker, 'Pedro');
+    const m15 = run('marcos', 'MRK', 15);
+    assert.equal(speakerOf(m15.messages, 2, 'b'), 'Pilato');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));
