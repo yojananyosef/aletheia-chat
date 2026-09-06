@@ -200,6 +200,55 @@
       "confidence": 0.9
     },
     {
+      "id": "rey-jerico",
+      "pattern": "rey de jeric[óo]",
+      "flags": "i",
+      "speaker": "Rey de Jericó",
+      "confidence": 0.9
+    },
+    {
+      "id": "principe-ejercito",
+      "pattern": "pr[íi]ncipe del ej[ée]rcito",
+      "flags": "i",
+      "speaker": "Príncipe",
+      "confidence": 0.9
+    },
+    {
+      "id": "acan",
+      "pattern": "\\bac[áa]n\\b",
+      "flags": "i",
+      "speaker": "Acán",
+      "confidence": 0.9
+    },
+    {
+      "id": "gabaonitas",
+      "pattern": "moradores de gaba[óo]n|gabaonitas?",
+      "flags": "i",
+      "speaker": "Gabaonitas",
+      "confidence": 0.85
+    },
+    {
+      "id": "hijos-jose",
+      "pattern": "hijos de jos[ée]",
+      "flags": "i",
+      "speaker": "Hijos de José",
+      "confidence": 0.9
+    },
+    {
+      "id": "levitas-jos",
+      "pattern": "principales[^.]*levitas|padres de los levitas",
+      "flags": "i",
+      "speaker": "Levitas",
+      "confidence": 0.85
+    },
+    {
+      "id": "finees",
+      "pattern": "\\bfinees\\b",
+      "flags": "i",
+      "speaker": "Finees",
+      "confidence": 0.9
+    },
+    {
       "id": "ancianos",
       "pattern": "\\b(ancianos?)\\b",
       "flags": "i",

@@ -170,6 +170,22 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(d20.messages, 5, 'b'), 'Oficiales');
   });
 
+  it('JOS voces: Rey de Jericó 2:3, Príncipe 5:15, Acán 7:20', () => {
+    const j2 = run('josue', 'JOS', 2);
+    assert.equal(speakerOf(j2.messages, 3, 'b'), 'Rey de Jericó');
+    const j5 = run('josue', 'JOS', 5);
+    assert.equal(speakerOf(j5.messages, 15, 'b'), 'Príncipe');
+    const j7 = run('josue', 'JOS', 7);
+    assert.equal(speakerOf(j7.messages, 20, 'b'), 'Acán');
+  });
+
+  it('JOS voces: Hijos de José 17:14, Finees 22:31', () => {
+    const j17 = run('josue', 'JOS', 17);
+    assert.equal(speakerOf(j17.messages, 14, 'b'), 'Hijos de José');
+    const j22 = run('josue', 'JOS', 22);
+    assert.equal(speakerOf(j22.messages, 31, 'b'), 'Finees');
+  });
+
   it('MAT voces: Pedro 16:16 y 26:33', () => {
     const m16 = run('mateo', 'MAT', 16);
     assert.equal(speakerOf(m16.messages, 16, 'b'), 'Pedro');
