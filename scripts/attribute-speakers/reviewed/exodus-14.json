@@ -1,5 +1,23 @@
 [
   {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Egipcios",
@@ -13,9 +31,51 @@
   },
   {
     "verse": 12,
+    "subId": "a",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
     "subId": "b",
     "speaker": "Pueblo",
     "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 25,
@@ -24,15 +84,33 @@
     "confidence": 0.85
   },
   {
-    "verse": 12,
-    "subId": "a",
-    "speaker": "Pueblo",
+    "verse": 27,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
-    "verse": 14,
+    "verse": 28,
     "subId": "",
-    "speaker": "Moisés",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

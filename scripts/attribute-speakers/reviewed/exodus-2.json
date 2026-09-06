@@ -1,8 +1,50 @@
 [
-  {"verse": 6, "subId": "b", "speaker": "Hija de Faraón", "confidence": 0.85},
-  {"verse": 13, "subId": "b", "speaker": "Moisés", "confidence": 0.8},
-  {"verse": 14, "subId": "b", "speaker": "Hebreo", "confidence": 0.7},
-  {"verse": 19, "subId": "b", "speaker": "Hijas", "confidence": 0.7},
-  {"verse": 20, "subId": "b", "speaker": "Reuel", "confidence": 0.8},
-  {"verse": 22, "subId": "b", "speaker": "Moisés", "confidence": 0.7}
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Hija de Faraón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.8
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Hebreo",
+    "confidence": 0.7
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Reuel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Hijas",
+    "confidence": 0.7
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Reuel",
+    "confidence": 0.8
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.7
+  }
 ]

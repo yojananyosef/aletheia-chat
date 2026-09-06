@@ -12,6 +12,18 @@
     "confidence": 0.9
   },
   {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "a",
+    "speaker": "Faraón",
+    "confidence": 0.9
+  },
+  {
     "verse": 8,
     "subId": "b",
     "speaker": "Pueblo",
@@ -20,6 +32,12 @@
   {
     "verse": 10,
     "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
     "speaker": "Capataces",
     "confidence": 0.85
   },
@@ -54,6 +72,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
     "verse": 19,
     "subId": "b",
     "speaker": "Narrador",
@@ -66,15 +90,9 @@
     "confidence": 0.85
   },
   {
-    "verse": 11,
+    "verse": 23,
     "subId": "",
-    "speaker": "Capataces",
-    "confidence": 0.85
-  },
-  {
-    "verse": 18,
-    "subId": "",
-    "speaker": "Faraón",
-    "confidence": 0.85
+    "speaker": "Moisés",
+    "confidence": 0.9
   }
 ]

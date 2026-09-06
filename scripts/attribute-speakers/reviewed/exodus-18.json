@@ -30,6 +30,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
     "verse": 17,
     "subId": "b",
     "speaker": "Jetro",

@@ -6,21 +6,27 @@
     "confidence": 0.9
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Pueblo",
     "confidence": 0.8
   },
   {
-    "verse": 16,
-    "subId": "b",
-    "speaker": "Moisés",
+    "verse": 15,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
-    "verse": 6,
-    "subId": "",
-    "speaker": "Dios",
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Moisés",
     "confidence": 0.85
   }
 ]

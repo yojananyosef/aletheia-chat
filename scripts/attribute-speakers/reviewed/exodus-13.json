@@ -6,8 +6,74 @@
     "confidence": 0.9
   },
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "a",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
     "verse": 8,
     "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "a",
     "speaker": "Moisés",
     "confidence": 0.9
   },
@@ -18,15 +84,21 @@
     "confidence": 0.9
   },
   {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
     "verse": 19,
     "subId": "b",
     "speaker": "Narrador",
     "confidence": 0.8
-  },
-  {
-    "verse": 4,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
   }
 ]

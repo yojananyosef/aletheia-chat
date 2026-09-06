@@ -1,17 +1,5 @@
 [
   {
-    "verse": 10,
-    "subId": "b",
-    "speaker": "Faraón",
-    "confidence": 0.9
-  },
-  {
-    "verse": 19,
-    "subId": "b",
-    "speaker": "Encantadores",
-    "confidence": 0.85
-  },
-  {
     "verse": 2,
     "subId": "",
     "speaker": "Dios",
@@ -30,9 +18,45 @@
     "confidence": 0.85
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Faraón",
+    "confidence": 0.9
+  },
+  {
     "verse": 11,
     "subId": "",
     "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Encantadores",
     "confidence": 0.85
   },
   {
@@ -51,6 +75,12 @@
     "verse": 23,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {

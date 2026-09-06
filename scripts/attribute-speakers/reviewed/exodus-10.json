@@ -1,5 +1,11 @@
 [
   {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 3,
     "subId": "b",
     "speaker": "Dios",
@@ -24,6 +30,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
     "verse": 8,
     "subId": "b",
     "speaker": "Faraón",
@@ -34,12 +46,6 @@
     "subId": "b",
     "speaker": "Faraón",
     "confidence": 0.9
-  },
-  {
-    "verse": 2,
-    "subId": "",
-    "speaker": "Dios",
-    "confidence": 0.85
   },
   {
     "verse": 11,

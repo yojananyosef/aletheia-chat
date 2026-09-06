@@ -25,8 +25,20 @@
   },
   {
     "verse": 8,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
     "subId": "b",
     "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Dios",
     "confidence": 0.85
   },
   {
@@ -34,6 +46,18 @@
     "subId": "b",
     "speaker": "Moisés",
     "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "a",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "a",
+    "speaker": "Moisés",
+    "confidence": 0.85
   },
   {
     "verse": 13,
@@ -61,7 +85,19 @@
   },
   {
     "verse": 23,
+    "subId": "a",
+    "speaker": "Aarón",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
     "subId": "b",
+    "speaker": "Aarón",
+    "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "a",
     "speaker": "Aarón",
     "confidence": 0.9
   },
@@ -84,36 +120,6 @@
     "confidence": 0.9
   },
   {
-    "verse": 34,
-    "subId": "b",
-    "speaker": "Dios",
-    "confidence": 0.9
-  },
-  {
-    "verse": 8,
-    "subId": "a",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
-    "verse": 10,
-    "subId": "",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
-    "verse": 12,
-    "subId": "a",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 13,
-    "subId": "a",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
     "verse": 32,
     "subId": "",
     "speaker": "Moisés",
@@ -123,6 +129,18 @@
     "verse": 34,
     "subId": "a",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

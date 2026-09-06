@@ -96,6 +96,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 19,
     "subId": "b",
     "speaker": "Pueblo",
@@ -105,6 +111,12 @@
     "verse": 20,
     "subId": "b",
     "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
