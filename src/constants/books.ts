@@ -44,7 +44,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     },
 
     // --- HISTORIA ---
-    { id: 'josue', name: 'Josué', availableChapters: [], isLocked: true, category: 'Historia', description: 'La conquista de la Tierra Prometida.', participants: ['Josué'] },
+    { id: 'josue', name: 'Josué', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24], category: 'Historia', description: 'La conquista de la Tierra Prometida.', participants: ['Dios', 'Narrador', 'Josué', 'Moisés', 'Rahab', 'Espías', 'Rey de Jericó', 'Hombres', 'Príncipe', 'Oficiales', 'Acán', 'Gabaonitas', 'Israel', 'Príncipes', 'Pueblo', 'Caleb', 'Acsa', 'Eleazar', 'Hijos de José', 'Levitas', 'Finees', 'Gad y Rubén', 'Hijas de Zelofehad'] },
     { id: 'jueces', name: 'Jueces', availableChapters: [], isLocked: true, category: 'Historia', description: 'El ciclo de desobediencia y liberación de Israel.', participants: ['Gedeón', 'Sansón'] },
     { id: 'rut', name: 'Rut', availableChapters: [1, 2, 3, 4], category: 'Historia', description: 'Una historia de redención y lealtad.', participants: ['Dios', 'Narrador', 'Rut', 'Booz', 'Noemí', 'Nueras', 'Criado', 'Segadores', 'Pariente', 'Ancianos', 'Mujeres', 'Pueblo'] },
     { id: '1samuel', name: '1 Samuel', availableChapters: [], isLocked: true, category: 'Historia', description: 'El surgimiento de la monarquía en Israel.', participants: ['Samuel', 'Saúl', 'David'] },
