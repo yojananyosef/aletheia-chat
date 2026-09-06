@@ -34,5 +34,11 @@
     "subId": "b",
     "speaker": "Multitud",
     "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

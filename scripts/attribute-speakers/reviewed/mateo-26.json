@@ -148,5 +148,41 @@
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 45,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 64,
+    "subId": "c",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 66,
+    "subId": "a",
+    "speaker": "Sumo sacerdote",
+    "confidence": 0.85
   }
 ]

@@ -100,5 +100,23 @@
     "subId": "b",
     "speaker": "José",
     "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "c",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.85
   }
 ]

@@ -130,5 +130,17 @@
     "subId": "b",
     "speaker": "Ciego",
     "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Familiares",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Fariseos",
+    "confidence": 0.85
   }
 ]

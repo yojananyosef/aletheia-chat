@@ -112,5 +112,53 @@
     "subId": "",
     "speaker": "Judá",
     "confidence": 0.8
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "José",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "c",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "a",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "a",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "a",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "a",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Hermanos",
+    "confidence": 0.85
   }
 ]

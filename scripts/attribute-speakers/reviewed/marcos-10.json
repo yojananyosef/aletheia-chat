@@ -88,5 +88,23 @@
     "subId": "d",
     "speaker": "Bartimeo",
     "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

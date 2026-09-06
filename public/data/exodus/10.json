@@ -17,7 +17,7 @@
         },
         {
             "id": "e10_2",
-            "speaker": "Narrador",
+            "speaker": "Dios",
             "verse": 2,
             "text": "y para que cuentes a tus hijos y a tus nietos las cosas que yo hice en Egipto, y mis señales que hice entre ellos; y para que sepáis que yo soy Jehová."
         },
@@ -101,7 +101,7 @@
         },
         {
             "id": "e10_11",
-            "speaker": "Narrador",
+            "speaker": "Faraón",
             "verse": 11,
             "text": "No será así: id ahora vosotros los varones, y servid a Jehová: pues esto es lo que vosotros demandasteis. Y los echaron de delante de Faraón."
         },
@@ -149,7 +149,7 @@
         },
         {
             "id": "e10_17",
-            "speaker": "Narrador",
+            "speaker": "Faraón",
             "verse": 17,
             "text": "Mas ruego ahora que perdones mi pecado solamente esta vez, y que oréis a Jehová vuestro Dios que quite de mí solamente esta mortandad."
         },
@@ -221,7 +221,7 @@
         },
         {
             "id": "e10_26",
-            "speaker": "Narrador",
+            "speaker": "Moisés",
             "verse": 26,
             "text": "Nuestros ganados irán también con nosotros; no quedará ni una pezuña; porque de ellos hemos de tomar para servir a Jehová nuestro Dios; y no sabemos con qué hemos de servir a Jehová, hasta que lleguemos allá."
         },

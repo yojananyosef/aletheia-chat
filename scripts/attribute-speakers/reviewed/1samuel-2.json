@@ -70,5 +70,17 @@
     "subId": "b",
     "speaker": "Dios",
     "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Elí",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
   }
 ]

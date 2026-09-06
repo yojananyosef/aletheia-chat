@@ -22,5 +22,11 @@
     "subId": "b",
     "speaker": "Narrador",
     "confidence": 0.8
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   }
 ]

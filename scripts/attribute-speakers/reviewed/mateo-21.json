@@ -100,5 +100,47 @@
     "subId": "b",
     "speaker": "Sacerdotes",
     "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

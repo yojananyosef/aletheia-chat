@@ -88,5 +88,11 @@
     "subId": "b",
     "speaker": "Saúl",
     "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Pitonisa",
+    "confidence": 0.85
   }
 ]

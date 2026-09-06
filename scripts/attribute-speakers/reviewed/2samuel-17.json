@@ -46,5 +46,23 @@
     "subId": "b",
     "speaker": "Narrador",
     "confidence": 0.85
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Ahitofel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Husai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Ahitofel",
+    "confidence": 0.85
   }
 ]

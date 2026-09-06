@@ -70,5 +70,23 @@
     "subId": "b",
     "speaker": "Ladrones",
     "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Pilato",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "",
+    "speaker": "Ladrones",
+    "confidence": 0.85
   }
 ]

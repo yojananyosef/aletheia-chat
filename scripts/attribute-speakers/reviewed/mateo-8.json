@@ -22,5 +22,17 @@
     "subId": "b",
     "speaker": "Demonio",
     "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Centurión",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

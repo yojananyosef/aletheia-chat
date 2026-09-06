@@ -16,5 +16,17 @@
     "subId": "",
     "speaker": "Judas",
     "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

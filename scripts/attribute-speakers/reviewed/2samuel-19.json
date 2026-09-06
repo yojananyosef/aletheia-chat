@@ -136,5 +136,11 @@
     "subId": "b",
     "speaker": "Israel",
     "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Simeí",
+    "confidence": 0.85
   }
 ]

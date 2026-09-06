@@ -46,5 +46,59 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 47,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 48,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

@@ -83,7 +83,7 @@
         },
         {
             "id": "mat26_11",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 11,
             "text": "Porque a los pobres siempre los tenéis con vosotros, pero a mí no siempre me tenéis."
         },
@@ -281,7 +281,7 @@
         },
         {
             "id": "mat26_32",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 32,
             "text": "Pero después que haya resucitado, iré delante de vosotros a Galilea."
         },
@@ -413,13 +413,13 @@
         },
         {
             "id": "mat26_45b",
-            "speaker": "Discípulos",
+            "speaker": "Jesús",
             "verse": 45,
             "text": "Dormid ya, y descansad; he aquí ha llegado la hora, y el Hijo del Hombre es entregado en manos de pecadores."
         },
         {
             "id": "mat26_46",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 46,
             "text": "Levantaos, vamos; he aquí, se acerca el que me entrega."
         },
@@ -587,7 +587,7 @@
         },
         {
             "id": "mat26_64c",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 64,
             "text": "Dicho. Además os digo:"
         },
@@ -611,7 +611,7 @@
         },
         {
             "id": "mat26_66a",
-            "speaker": "Narrador",
+            "speaker": "Sumo sacerdote",
             "verse": 66,
             "text": "¿Qué os parece? Y respondiendo ellos, dijeron:"
         },

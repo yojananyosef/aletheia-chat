@@ -70,5 +70,17 @@
     "subId": "b",
     "speaker": "Pueblo",
     "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Anciano",
+    "confidence": 0.85
   }
 ]

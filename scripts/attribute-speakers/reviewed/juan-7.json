@@ -112,5 +112,59 @@
     "subId": "",
     "speaker": "Nicodemo",
     "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "a",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "a",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

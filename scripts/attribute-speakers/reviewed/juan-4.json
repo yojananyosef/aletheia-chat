@@ -106,5 +106,41 @@
     "subId": "",
     "speaker": "Samaritana",
     "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

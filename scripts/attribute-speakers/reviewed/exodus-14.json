@@ -22,5 +22,17 @@
     "subId": "b",
     "speaker": "Egipcios",
     "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "a",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   }
 ]

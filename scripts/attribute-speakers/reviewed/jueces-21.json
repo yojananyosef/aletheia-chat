@@ -54,12 +54,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 18,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
     "verse": 19,
     "subId": "b",
     "speaker": "Ancianos",
@@ -68,6 +62,30 @@
   {
     "verse": 20,
     "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "a",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
     "speaker": "Ancianos",
     "confidence": 0.85
   }

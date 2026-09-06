@@ -96,12 +96,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 36,
-    "subId": "",
-    "speaker": "Narrador",
-    "confidence": 0.85
-  },
-  {
     "verse": 37,
     "subId": "",
     "speaker": "Narrador",
@@ -109,6 +103,18 @@
   },
   {
     "verse": 20,
+    "subId": "",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
     "subId": "",
     "speaker": "David",
     "confidence": 0.85

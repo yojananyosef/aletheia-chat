@@ -268,5 +268,11 @@
     "subId": "",
     "speaker": "Abraham",
     "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "a",
+    "speaker": "Criado",
+    "confidence": 0.85
   }
 ]

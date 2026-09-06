@@ -58,5 +58,17 @@
     "subId": "b",
     "speaker": "Discípulos",
     "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

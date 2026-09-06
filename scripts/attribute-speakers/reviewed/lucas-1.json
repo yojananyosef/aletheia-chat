@@ -64,5 +64,29 @@
     "subId": "",
     "speaker": "Elisabet",
     "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Elisabet",
+    "confidence": 0.85
   }
 ]

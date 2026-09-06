@@ -34,5 +34,29 @@
     "subId": "b",
     "speaker": "Faraón",
     "confidence": 0.9
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   }
 ]

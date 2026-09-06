@@ -166,5 +166,11 @@
     "subId": "",
     "speaker": "Narrador",
     "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "a",
+    "speaker": "Jonatán",
+    "confidence": 0.85
   }
 ]

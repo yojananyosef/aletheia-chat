@@ -42,12 +42,6 @@
     "confidence": 0.8
   },
   {
-    "verse": 26,
-    "subId": "b",
-    "speaker": "Multitud",
-    "confidence": 0.85
-  },
-  {
     "verse": 32,
     "subId": "b",
     "speaker": "Jesús",
@@ -55,6 +49,42 @@
   },
   {
     "verse": 34,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85

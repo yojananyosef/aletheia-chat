@@ -52,5 +52,23 @@
     "subId": "",
     "speaker": "Hermanos",
     "confidence": 0.8
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Hamor",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Siquem",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Hamor",
+    "confidence": 0.85
   }
 ]

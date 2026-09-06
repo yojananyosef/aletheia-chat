@@ -82,5 +82,47 @@
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "c",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 63,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 69,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 64,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 37,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

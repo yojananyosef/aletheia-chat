@@ -4,5 +4,11 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

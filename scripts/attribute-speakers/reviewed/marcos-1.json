@@ -58,5 +58,11 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.85
   }
 ]

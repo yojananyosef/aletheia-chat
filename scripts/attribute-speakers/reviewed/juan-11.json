@@ -88,5 +88,17 @@
     "subId": "",
     "speaker": "Caifás",
     "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

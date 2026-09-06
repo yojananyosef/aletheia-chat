@@ -112,5 +112,11 @@
     "subId": "",
     "speaker": "Narrador",
     "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Goliat",
+    "confidence": 0.85
   }
 ]

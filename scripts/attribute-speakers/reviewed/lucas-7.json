@@ -100,5 +100,29 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   }
 ]

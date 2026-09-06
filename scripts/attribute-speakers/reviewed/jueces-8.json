@@ -88,5 +88,11 @@
     "subId": "b",
     "speaker": "Pueblo",
     "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Gedeón",
+    "confidence": 0.85
   }
 ]

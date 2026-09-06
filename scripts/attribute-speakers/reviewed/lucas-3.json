@@ -52,5 +52,11 @@
     "subId": "b",
     "speaker": "Juan el Bautista",
     "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "a",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.85
   }
 ]

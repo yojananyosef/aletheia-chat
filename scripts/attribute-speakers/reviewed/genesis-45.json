@@ -76,5 +76,23 @@
     "subId": "b",
     "speaker": "Jacob",
     "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
   }
 ]

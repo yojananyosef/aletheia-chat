@@ -166,5 +166,11 @@
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   }
 ]

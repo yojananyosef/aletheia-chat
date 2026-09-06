@@ -34,5 +34,11 @@
     "subId": "b",
     "speaker": "Faraón",
     "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "a",
+    "speaker": "Faraón",
+    "confidence": 0.85
   }
 ]

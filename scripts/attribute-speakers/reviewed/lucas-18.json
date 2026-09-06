@@ -24,12 +24,6 @@
     "confidence": 0.9
   },
   {
-    "verse": 13,
-    "subId": "b",
-    "speaker": "Publicano",
-    "confidence": 0.85
-  },
-  {
     "verse": 18,
     "subId": "b",
     "speaker": "Hombre",
@@ -91,6 +85,36 @@
   },
   {
     "verse": 7,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85

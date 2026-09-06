@@ -16,5 +16,17 @@
     "subId": "b",
     "speaker": "Eliú",
     "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "a",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "a",
+    "speaker": "Eliú",
+    "confidence": 0.85
   }
 ]

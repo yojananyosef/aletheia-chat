@@ -58,5 +58,29 @@
     "subId": "",
     "speaker": "Ángel",
     "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
   }
 ]
