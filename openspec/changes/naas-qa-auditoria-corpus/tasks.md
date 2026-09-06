@@ -47,5 +47,5 @@
       qa final rev 6655); deriva-fuente 135 aceptada y documentada (advertencia conocida).
 - [x] 5.2 `run.test.mjs` speakers 31/31 + `pnpm lint` verde + `NODE_ENV=test pnpm test` 37/37;
       commits por lote (corpus + docs openspec) siguiendo el patrón del repo.
-- [ ] 5.3 Actualizar `triage-doctrinal-pendiente.md` (change fase3) enlazando a este barrido y
-      marcando lo resuelto.
+- [x] 5.3 `triage-doctrinal-pendiente.md` (fase3) actualizado: nota RESUELTO enlazando a
+      `qa-report.md` del change `naas-qa-auditoria-corpus`.
