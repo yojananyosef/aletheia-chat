@@ -18,6 +18,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Saúl",
+    "confidence": 0.85
+  },
+  {
     "verse": 8,
     "subId": "",
     "speaker": "Saúl",

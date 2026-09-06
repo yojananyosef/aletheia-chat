@@ -1,10 +1,62 @@
 [
-  { "verse": 3, "subId": "b", "speaker": "Asuero", "confidence": 0.85 },
-  { "verse": 4, "subId": "b", "speaker": "Asuero", "confidence": 0.85 },
-  { "verse": 5, "subId": "b", "speaker": "Criado", "confidence": 0.85 },
-  { "verse": 5, "subId": "d", "speaker": "Asuero", "confidence": 0.85 },
-  { "verse": 6, "subId": "b", "speaker": "Asuero", "confidence": 0.85 },
-  { "verse": 9, "subId": "", "speaker": "Amán", "confidence": 0.85 },
-  { "verse": 10, "subId": "b", "speaker": "Asuero", "confidence": 0.85 },
-  { "verse": 13, "subId": "b", "speaker": "Zeres", "confidence": 0.85 }
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Asuero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Asuero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Asuero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Asuero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Amán",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Amán",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Asuero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Zeres",
+    "confidence": 0.85
+  }
 ]

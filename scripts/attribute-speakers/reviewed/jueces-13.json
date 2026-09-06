@@ -1,5 +1,11 @@
 [
   {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
     "verse": 6,
     "subId": "b",
     "speaker": "Esposa de Manoa",
@@ -42,15 +48,33 @@
     "confidence": 0.85
   },
   {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "b",
     "speaker": "Manoa",
     "confidence": 0.85
   },
   {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
     "verse": 17,
     "subId": "b",
     "speaker": "Manoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Ángel",
     "confidence": 0.85
   },
   {

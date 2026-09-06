@@ -286,5 +286,11 @@
     "subId": "b",
     "speaker": "Rebeca",
     "confidence": 0.9
+  },
+  {
+    "verse": 65,
+    "subId": "d",
+    "speaker": "Criado",
+    "confidence": 0.85
   }
 ]

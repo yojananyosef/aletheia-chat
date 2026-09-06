@@ -60,6 +60,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Pilato",
+    "confidence": 0.85
+  },
+  {
     "verse": 25,
     "subId": "b",
     "speaker": "Multitud",

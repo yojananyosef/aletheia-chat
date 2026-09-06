@@ -1,5 +1,17 @@
 [
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Jesús",
@@ -42,6 +54,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Ciego",
+    "confidence": 0.9
+  },
+  {
     "verse": 16,
     "subId": "d",
     "speaker": "Fariseos",
@@ -60,6 +84,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 19,
     "subId": "b",
     "speaker": "Fariseos",
@@ -70,6 +100,18 @@
     "subId": "b",
     "speaker": "Familiares",
     "confidence": 0.8
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Familiares",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 23,
@@ -108,10 +150,34 @@
     "confidence": 0.85
   },
   {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Fariseos",
+    "confidence": 0.85
+  },
+  {
     "verse": 30,
     "subId": "b",
     "speaker": "Ciego",
     "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Ciego",
+    "confidence": 0.9
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Ciego",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Ciego",
+    "confidence": 0.9
   },
   {
     "verse": 34,
@@ -132,69 +198,9 @@
     "confidence": 0.85
   },
   {
-    "verse": 21,
-    "subId": "",
-    "speaker": "Familiares",
-    "confidence": 0.85
-  },
-  {
-    "verse": 29,
-    "subId": "",
+    "verse": 40,
+    "subId": "b",
     "speaker": "Fariseos",
     "confidence": 0.85
-  },
-  {
-    "verse": 4,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.9
-  },
-  {
-    "verse": 5,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.9
-  },
-  {
-    "verse": 13,
-    "subId": "",
-    "speaker": "Narrador",
-    "confidence": 0.85
-  },
-  {
-    "verse": 15,
-    "subId": "b",
-    "speaker": "Ciego",
-    "confidence": 0.9
-  },
-  {
-    "verse": 18,
-    "subId": "",
-    "speaker": "Narrador",
-    "confidence": 0.85
-  },
-  {
-    "verse": 22,
-    "subId": "",
-    "speaker": "Narrador",
-    "confidence": 0.85
-  },
-  {
-    "verse": 31,
-    "subId": "",
-    "speaker": "Ciego",
-    "confidence": 0.9
-  },
-  {
-    "verse": 32,
-    "subId": "",
-    "speaker": "Ciego",
-    "confidence": 0.9
-  },
-  {
-    "verse": 33,
-    "subId": "",
-    "speaker": "Ciego",
-    "confidence": 0.9
   }
 ]

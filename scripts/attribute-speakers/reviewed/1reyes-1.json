@@ -67,6 +67,12 @@
   },
   {
     "verse": 25,
+    "subId": "a",
+    "speaker": "Natán",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
     "subId": "b",
     "speaker": "Natán",
     "confidence": 0.85
@@ -126,6 +132,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Benaía",
+    "confidence": 0.85
+  },
+  {
     "verse": 37,
     "subId": "",
     "speaker": "Benaía",
@@ -141,6 +153,12 @@
     "verse": 39,
     "subId": "b",
     "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Adonías",
     "confidence": 0.85
   },
   {
@@ -189,18 +207,6 @@
     "verse": 53,
     "subId": "b",
     "speaker": "Salomón",
-    "confidence": 0.85
-  },
-  {
-    "verse": 41,
-    "subId": "b",
-    "speaker": "Adonías",
-    "confidence": 0.85
-  },
-  {
-    "verse": 25,
-    "subId": "a",
-    "speaker": "Natán",
     "confidence": 0.85
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Soldados",
@@ -58,6 +64,12 @@
     "subId": "d",
     "speaker": "Pedro",
     "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
   },
   {
     "verse": 30,

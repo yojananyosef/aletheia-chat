@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 11,
     "subId": "",
     "speaker": "Narrador",

@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Tobías",
+    "confidence": 0.85
+  },
+  {
     "verse": 4,
     "subId": "",
     "speaker": "Nehemías",

@@ -1,5 +1,11 @@
 [
   {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Fariseos",
+    "confidence": 0.85
+  },
+  {
     "verse": 4,
     "subId": "b",
     "speaker": "Jesús",

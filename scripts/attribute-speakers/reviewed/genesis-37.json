@@ -78,6 +78,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Rubén",
+    "confidence": 0.85
+  },
+  {
     "verse": 27,
     "subId": "",
     "speaker": "Judá",

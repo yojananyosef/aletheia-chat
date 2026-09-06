@@ -72,6 +72,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Rubén",
+    "confidence": 0.85
+  },
+  {
     "verse": 28,
     "subId": "b",
     "speaker": "Hermanos",
@@ -112,6 +118,12 @@
     "subId": "b",
     "speaker": "Jacob",
     "confidence": 0.9
+  },
+  {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Rubén",
+    "confidence": 0.85
   },
   {
     "verse": 38,

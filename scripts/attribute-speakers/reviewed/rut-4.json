@@ -30,6 +30,18 @@
     "confidence": 0.9
   },
   {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Pariente",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Pariente",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "",
     "speaker": "Booz",

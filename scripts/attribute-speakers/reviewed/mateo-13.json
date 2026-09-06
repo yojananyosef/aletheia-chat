@@ -72,6 +72,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 37,
     "subId": "b",
     "speaker": "Jesús",
@@ -106,6 +112,12 @@
     "subId": "",
     "speaker": "Multitud",
     "confidence": 0.8
+  },
+  {
+    "verse": 57,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 58,

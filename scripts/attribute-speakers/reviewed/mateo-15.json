@@ -1,5 +1,11 @@
 [
   {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
     "verse": 3,
     "subId": "b",
     "speaker": "Jesús",
@@ -69,6 +75,12 @@
     "verse": 17,
     "subId": "",
     "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Mujer",
     "confidence": 0.85
   },
   {

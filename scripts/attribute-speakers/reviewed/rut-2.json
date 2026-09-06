@@ -1,16 +1,92 @@
 [
-  {"verse": 2, "subId": "d", "speaker": "Noemí", "confidence": 0.85},
-  {"verse": 4, "subId": "d", "speaker": "Segadores", "confidence": 0.8},
-  {"verse": 5, "subId": "b", "speaker": "Booz", "confidence": 0.9},
-  {"verse": 6, "subId": "b", "speaker": "Criado", "confidence": 0.85},
-  {"verse": 7, "subId": "b", "speaker": "Criado", "confidence": 0.8},
-  {"verse": 8, "subId": "b", "speaker": "Booz", "confidence": 0.9},
-  {"verse": 9, "subId": "", "speaker": "Booz", "confidence": 0.85},
-  {"verse": 10, "subId": "b", "speaker": "Rut", "confidence": 0.85},
-  {"verse": 11, "subId": "b", "speaker": "Booz", "confidence": 0.9},
-  {"verse": 12, "subId": "", "speaker": "Booz", "confidence": 0.85},
-  {"verse": 13, "subId": "b", "speaker": "Rut", "confidence": 0.85},
-  {"verse": 14, "subId": "b", "speaker": "Booz", "confidence": 0.9},
-  {"verse": 16, "subId": "", "speaker": "Booz", "confidence": 0.85},
-  {"verse": 19, "subId": "d", "speaker": "Rut", "confidence": 0.85}
+  {
+    "verse": 2,
+    "subId": "d",
+    "speaker": "Noemí",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "d",
+    "speaker": "Segadores",
+    "confidence": 0.8
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Booz",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.8
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Booz",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Booz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Rut",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Booz",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Booz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Rut",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Booz",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Booz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Booz",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "d",
+    "speaker": "Rut",
+    "confidence": 0.85
+  }
 ]

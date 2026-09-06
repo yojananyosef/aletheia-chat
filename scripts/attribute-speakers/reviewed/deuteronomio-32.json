@@ -30,6 +30,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "",
     "speaker": "Moisés",
@@ -114,6 +120,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 21,
     "subId": "",
     "speaker": "Moisés",
@@ -150,6 +162,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 27,
     "subId": "",
     "speaker": "Moisés",
@@ -166,6 +184,12 @@
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   },
   {
     "verse": 31,
@@ -246,28 +270,16 @@
     "confidence": 0.8
   },
   {
-    "verse": 47,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.8
-  },
-  {
-    "verse": 6,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 30,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
     "verse": 46,
     "subId": "b",
     "speaker": "Moisés",
     "confidence": 0.85
+  },
+  {
+    "verse": 47,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.8
   },
   {
     "verse": 49,

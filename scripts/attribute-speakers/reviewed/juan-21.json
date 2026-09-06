@@ -12,6 +12,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "d",
     "speaker": "Pedro",
@@ -64,6 +70,12 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Pedro",
+    "confidence": 0.85
   },
   {
     "verse": 23,

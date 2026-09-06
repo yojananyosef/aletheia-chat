@@ -24,10 +24,22 @@
     "confidence": 0.8
   },
   {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   },
   {
     "verse": 12,
@@ -48,6 +60,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "",
     "speaker": "Moisés",
@@ -58,6 +76,12 @@
     "subId": "a",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.85
   },
   {
     "verse": 17,
@@ -84,6 +108,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
     "verse": 21,
     "subId": "",
     "speaker": "Moisés",
@@ -94,6 +124,12 @@
     "subId": "a",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
   },
   {
     "verse": 23,
@@ -114,6 +150,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Espías",
+    "confidence": 0.85
+  },
+  {
     "verse": 26,
     "subId": "",
     "speaker": "Moisés",
@@ -126,16 +168,34 @@
     "confidence": 0.8
   },
   {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
     "verse": 28,
     "subId": "a",
     "speaker": "Moisés",
     "confidence": 0.8
   },
   {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
     "verse": 29,
     "subId": "a",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.85
   },
   {
     "verse": 30,
@@ -186,6 +246,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 38,
     "subId": "",
     "speaker": "Moisés",
@@ -208,6 +274,12 @@
     "subId": "a",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
   },
   {
     "verse": 42,
@@ -238,71 +310,5 @@
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.8
-  },
-  {
-    "verse": 9,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 11,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 14,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 16,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 20,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 22,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 25,
-    "subId": "b",
-    "speaker": "Espías",
-    "confidence": 0.85
-  },
-  {
-    "verse": 27,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 29,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 41,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
   }
 ]

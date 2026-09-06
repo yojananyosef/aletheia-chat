@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Judíos",
@@ -16,6 +28,12 @@
     "subId": "b",
     "speaker": "Pilato",
     "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Pilato",
+    "confidence": 0.85
   },
   {
     "verse": 14,
@@ -30,9 +48,21 @@
     "confidence": 0.9
   },
   {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
     "verse": 24,
     "subId": "b",
     "speaker": "Soldados",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Jesús",
     "confidence": 0.85
   },
   {

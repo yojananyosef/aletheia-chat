@@ -91,6 +91,12 @@
   },
   {
     "verse": 28,
+    "subId": "a",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
     "subId": "b",
     "speaker": "Dios",
     "confidence": 0.9

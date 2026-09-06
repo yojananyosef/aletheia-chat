@@ -6,6 +6,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Herodes",
+    "confidence": 0.85
+  },
+  {
     "verse": 13,
     "subId": "b",
     "speaker": "Jesús",
@@ -22,6 +28,12 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
   },
   {
     "verse": 19,
@@ -70,6 +82,12 @@
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Pedro",
+    "confidence": 0.85
   },
   {
     "verse": 36,

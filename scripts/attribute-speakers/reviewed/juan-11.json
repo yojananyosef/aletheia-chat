@@ -54,6 +54,18 @@
     "confidence": 0.9
   },
   {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "María",
+    "confidence": 0.85
+  },
+  {
     "verse": 33,
     "subId": "",
     "speaker": "Narrador",
@@ -81,6 +93,12 @@
     "verse": 37,
     "subId": "b",
     "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "d",
+    "speaker": "Marta",
     "confidence": 0.85
   },
   {

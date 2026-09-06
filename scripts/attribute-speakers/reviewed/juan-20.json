@@ -1,5 +1,11 @@
 [
   {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Pedro",
+    "confidence": 0.85
+  },
+  {
     "verse": 13,
     "subId": "b",
     "speaker": "Ángeles",
@@ -24,6 +30,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
     "verse": 22,
     "subId": "b",
     "speaker": "Jesús",
@@ -33,6 +45,12 @@
     "verse": 25,
     "subId": "d",
     "speaker": "Tomás",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Discípulos",
     "confidence": 0.85
   },
   {

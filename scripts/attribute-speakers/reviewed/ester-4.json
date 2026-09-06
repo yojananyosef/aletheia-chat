@@ -1,4 +1,26 @@
 [
-  { "verse": 11, "subId": "a", "speaker": "Ester", "confidence": 0.85 },
-  { "verse": 11, "subId": "b", "speaker": "Ester", "confidence": 0.85 }
+  {
+    "verse": 11,
+    "subId": "a",
+    "speaker": "Ester",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Ester",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Mardoqueo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Ester",
+    "confidence": 0.85
+  }
 ]

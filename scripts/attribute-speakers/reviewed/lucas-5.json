@@ -36,6 +36,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Escribas",
+    "confidence": 0.85
+  },
+  {
     "verse": 23,
     "subId": "a",
     "speaker": "Jesús",
@@ -70,6 +76,12 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Escribas",
+    "confidence": 0.85
   },
   {
     "verse": 32,

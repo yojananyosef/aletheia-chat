@@ -41,6 +41,9 @@
       salmista-Narrador salvo oráculo genuino con marco explícito (50:16→17-23, 60:6→7-8);
       documentado en qa-report.
 - [ ] 4.4 Casos nuevos que arrojen re-corridas: listar aquí con decisión tomada.
+- [x] 4.5 Deuda ambiguo-sin-revisar (414 → 0, 2026-09-06): 408 confirmaciones del estado
+      publicado (aplicado == dry, muestras verificadas) + 6 subIds fantasma documentados con el
+      verso entero; 0 conflictos. Método y detalle en qa-report.
 
 ## 5. Cierre
 - [x] 5.1 Re-corrida del barrido: **0 duros · 0 sospechosos · 24/24 libros limpios** (2026-09-06,

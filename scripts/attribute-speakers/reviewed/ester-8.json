@@ -1,7 +1,38 @@
 [
-  { "verse": 5, "subId": "b", "speaker": "Ester", "confidence": 0.85 },
-  { "verse": 6, "subId": "", "speaker": "Ester", "confidence": 0.85 },
-  { "verse": 9, "subId": "", "speaker": "Narrador", "confidence": 0.85 },
-  { "verse": 10, "subId": "", "speaker": "Narrador", "confidence": 0.85 },
-  { "verse": 11, "subId": "", "speaker": "Narrador", "confidence": 0.85 }
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Ester",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Ester",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Asuero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  }
 ]

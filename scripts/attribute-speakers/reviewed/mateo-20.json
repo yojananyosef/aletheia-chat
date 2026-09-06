@@ -90,6 +90,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Ciegos",
+    "confidence": 0.85
+  },
+  {
     "verse": 33,
     "subId": "b",
     "speaker": "Ciegos",

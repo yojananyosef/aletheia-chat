@@ -36,6 +36,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Abimelec",
+    "confidence": 0.85
+  },
+  {
     "verse": 20,
     "subId": "b",
     "speaker": "Pastores",

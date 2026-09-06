@@ -18,9 +18,21 @@
     "confidence": 0.85
   },
   {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
     "verse": 9,
     "subId": "b",
     "speaker": "Jefté",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Ancianos",
     "confidence": 0.85
   },
   {

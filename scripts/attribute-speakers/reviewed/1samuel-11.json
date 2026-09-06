@@ -12,6 +12,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Mensajero",

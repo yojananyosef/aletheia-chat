@@ -6,31 +6,31 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 
 | libro | msgs | revisado | sospechoso | ambiguo-sin-revisar |
 |---|---|---|---|---|
-| genesis | 2127 | 467 | 0 | 8 |
-| exodus | 1460 | 480 | 0 | 224 |
-| levitico | 905 | 132 | 0 | 8 |
+| genesis | 2127 | 468 | 0 | 0 |
+| exodus | 1460 | 418 | 0 | 0 |
+| levitico | 905 | 132 | 0 | 0 |
 | numeros | 1444 | 444 | 0 | 0 |
-| deuteronomio | 1047 | 948 | 0 | 22 |
-| josue | 760 | 161 | 0 | 54 |
-| jueces | 887 | 208 | 0 | 64 |
-| rut | 144 | 29 | 0 | 5 |
-| 1samuel | 1241 | 311 | 0 | 8 |
-| 2samuel | 1037 | 259 | 0 | 9 |
-| 1reyes | 1106 | 295 | 0 | 5 |
-| 2reyes | 1074 | 263 | 0 | 1 |
-| 1cronicas | 1000 | 132 | 0 | 2 |
-| 2cronicas | 960 | 194 | 0 | 27 |
+| deuteronomio | 1047 | 948 | 0 | 0 |
+| josue | 760 | 155 | 0 | 0 |
+| jueces | 887 | 203 | 0 | 0 |
+| rut | 144 | 29 | 0 | 0 |
+| 1samuel | 1241 | 311 | 0 | 0 |
+| 2samuel | 1037 | 256 | 0 | 0 |
+| 1reyes | 1106 | 292 | 0 | 0 |
+| 2reyes | 1074 | 263 | 0 | 0 |
+| 1cronicas | 1000 | 132 | 0 | 0 |
+| 2cronicas | 960 | 185 | 0 | 0 |
 | esdras | 299 | 74 | 0 | 0 |
-| nehemias | 458 | 101 | 0 | 4 |
-| ester | 206 | 35 | 0 | 11 |
-| job | 1124 | 802 | 0 | 198 |
-| salmos | 2664 | 157 | 0 | 38 |
-| jonas | 68 | 26 | 0 | 4 |
-| mateo | 1464 | 320 | 0 | 17 |
+| nehemias | 458 | 101 | 0 | 0 |
+| ester | 206 | 35 | 0 | 0 |
+| job | 1124 | 802 | 0 | 0 |
+| salmos | 2664 | 148 | 0 | 0 |
+| jonas | 68 | 26 | 0 | 0 |
+| mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
-| lucas | 1576 | 472 | 0 | 16 |
-| juan | 1303 | 226 | 0 | 20 |
-| **total** | **25306** | **6655** | **0** | **744** |
+| lucas | 1576 | 472 | 0 | 0 |
+| juan | 1303 | 226 | 0 | 0 |
+| **total** | **25306** | **6655** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -44,6 +44,19 @@ Integridad: **0** capitulo-faltante · 0 capitulo-extra · 0 texto-perdido · 0 
 Histórico del barrido: 1.971 → 704 (evangelios 4.2) → 332 (numeros/genesis) → 91 (josue/
 jueces/lev/deut/exodus) → **0** (cola menor + salmos). Advertencias de deriva-fuente: 135
 (known gateway drift, no bloquean).
+
+### Deuda ambiguo-sin-revisar — RESUELTA (2026-09-06, 414 → 0)
+Los ambiguos del dry publicados con default y sin respaldo `reviewed/` se clasificaron en:
+- **408 confirmaciones** (aplicado == dry, el dry solo reporta baja confianza): la decisión
+  publicada del corpus se respaldó con entrada `reviewed/` (confidence 0.85, 2ª pasada sin
+  cambios de corpus). Muestras verificadas verso a verso: estatuto del tabernáculo (Éx 25-31,
+  35-40: instrucción divina genuina), ciclos de Job/Elifaz/Bildad/Zofar/Eliú (2:9 Esposa,
+  3:3 Job, 4:2 Elifaz), NT con doctrina del relator ya revisada en 4.2 (mateo 9:14 Discípulos,
+  13:36 Jesús; lucas 1:28 Ángel, 3:22 Dios; juan 6:5 Jesús, 9:40 Fariseos).
+- **6 subIds fantasma** (el dry propone un split que el corpus no publicó): se documentó el
+  verso entero con su speaker aplicado — exodus 1:22b/2:10b/4:25b Narrador, 3:16b/3:17b/4:23b
+  Dios. El corpus conserva el verso sin dividir (no redimible vía `reviewed/`).
+Total: 414 entradas en 19 libros, 0 conflictos (aplicado ≠ dry) encontrados.
 
 ## Triaje (estado del tasks.md)
 
