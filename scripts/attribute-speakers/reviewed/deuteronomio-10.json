@@ -30,6 +30,30 @@
     "confidence": 0.8
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "",
     "speaker": "Moisés",
@@ -46,6 +70,12 @@
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.8
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
   },
   {
     "verse": 14,
@@ -100,11 +130,5 @@
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.8
-  },
-  {
-    "verse": 13,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
   }
 ]

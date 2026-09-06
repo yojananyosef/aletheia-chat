@@ -1,17 +1,5 @@
 [
   {
-    "verse": 23,
-    "subId": "b",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
-    "verse": 29,
-    "subId": "b",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
     "verse": 1,
     "subId": "",
     "speaker": "Dios",
@@ -138,6 +126,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 24,
     "subId": "",
     "speaker": "Dios",
@@ -158,6 +152,12 @@
   {
     "verse": 27,
     "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "b",
     "speaker": "Dios",
     "confidence": 0.85
   },
@@ -201,6 +201,18 @@
     "verse": 36,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 37,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]
