@@ -1,0 +1,169 @@
+{
+    "book": "Juan",
+    "chapter": 17,
+    "title": "Juan 17",
+    "messages": [
+        {
+            "id": "jhn17_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Estas cosas habló Jesús, y levantando los ojos al cielo, dijo:"
+        },
+        {
+            "id": "jhn17_1b",
+            "speaker": "Jesús",
+            "verse": 1,
+            "text": "Padre, la hora ha llegado; glorifica a tu Hijo, para que tu Hijo también te glorifique a ti."
+        },
+        {
+            "id": "jhn17_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Como le has dado potestad sobre toda carne, para que dé vida eterna a todos los que le diste."
+        },
+        {
+            "id": "jhn17_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y ésta es la vida eterna: Que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien tú has enviado."
+        },
+        {
+            "id": "jhn17_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Yo te he glorificado en la tierra; he acabado la obra que me diste que hiciese."
+        },
+        {
+            "id": "jhn17_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ahora, oh Padre, glorifícame tú contigo mismo, con la gloria que tuve contigo antes que el mundo fuese."
+        },
+        {
+            "id": "jhn17_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "He manifestado tu nombre a los hombres que del mundo me diste; tuyos eran, y me los diste, y han guardado tu palabra."
+        },
+        {
+            "id": "jhn17_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Ahora han conocido que todas las cosas que me has dado, son de ti;"
+        },
+        {
+            "id": "jhn17_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "porque las palabras que me diste, les he dado; y ellos las recibieron, y en verdad han conocido que salí de ti, y han creído que tú me enviaste."
+        },
+        {
+            "id": "jhn17_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Yo ruego por ellos; no ruego por el mundo, sino por los que me diste; porque tuyos son."
+        },
+        {
+            "id": "jhn17_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y todo lo mío es tuyo, y lo tuyo mío; y yo soy glorificado en ellos."
+        },
+        {
+            "id": "jhn17_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y ya no estoy en el mundo; pero éstos están en el mundo, y yo a ti vengo. Padre Santo, a los que me has dado, guárdalos en tu nombre, para que sean uno, así como nosotros."
+        },
+        {
+            "id": "jhn17_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; a los que me diste yo los guardé; y ninguno de ellos se perdió, sino el hijo de perdición; para que la Escritura se cumpliese."
+        },
+        {
+            "id": "jhn17_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y ahora vengo a ti, y hablo estas cosas en el mundo, para que tengan mi gozo cumplido en sí mismos."
+        },
+        {
+            "id": "jhn17_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Yo les he dado tu palabra; y el mundo los aborreció, porque no son del mundo, como tampoco yo soy del mundo."
+        },
+        {
+            "id": "jhn17_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "No ruego que los quites del mundo, sino que los guardes del mal."
+        },
+        {
+            "id": "jhn17_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "No son del mundo, como tampoco yo soy del mundo."
+        },
+        {
+            "id": "jhn17_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Santifícalos en tu verdad: Tu palabra es verdad."
+        },
+        {
+            "id": "jhn17_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Como tú me enviaste al mundo, así yo los he enviado al mundo."
+        },
+        {
+            "id": "jhn17_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y por ellos yo me santifico a mí mismo, para que también ellos sean santificados en la verdad."
+        },
+        {
+            "id": "jhn17_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos."
+        },
+        {
+            "id": "jhn17_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Para que todos sean uno; como tú, oh Padre, en mí, y yo en ti, que también ellos sean uno en nosotros; para que el mundo crea que tú me enviaste."
+        },
+        {
+            "id": "jhn17_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y la gloria que me diste, yo les he dado; para que sean uno, como nosotros somos uno."
+        },
+        {
+            "id": "jhn17_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Yo en ellos, y tú en mí, para que sean perfeccionados en uno; y para que el mundo conozca que tú me enviaste, y que los has amado como también a mí me has amado."
+        },
+        {
+            "id": "jhn17_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Padre, aquellos que me has dado, quiero que donde yo estoy, también ellos estén conmigo; para que vean mi gloria que me has dado; porque me has amado desde antes de la fundación del mundo."
+        },
+        {
+            "id": "jhn17_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Padre justo, el mundo no te ha conocido, pero yo te he conocido, y éstos han conocido que tú me enviaste."
+        },
+        {
+            "id": "jhn17_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y yo les he dado a conocer tu nombre, y lo daré a conocer aún; para que el amor con que me has amado, esté en ellos, y yo en ellos."
+        }
+    ]
+}

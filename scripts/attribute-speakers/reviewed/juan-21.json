@@ -1,0 +1,62 @@
+[
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "d",
+    "speaker": "Pedro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "f",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Pedro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "f",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "f",
+    "speaker": "Pedro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  }
+]

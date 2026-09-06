@@ -1,0 +1,319 @@
+{
+    "book": "Juan",
+    "chapter": 10,
+    "title": "Juan 10",
+    "messages": [
+        {
+            "id": "jhn10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "De cierto, de cierto os digo: El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, el tal es ladrón y salteador."
+        },
+        {
+            "id": "jhn10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Mas el que entra por la puerta, el pastor de las ovejas es."
+        },
+        {
+            "id": "jhn10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "A éste abre el portero, y las ovejas oyen su voz; y a sus ovejas llama por nombre, y las conduce afuera."
+        },
+        {
+            "id": "jhn10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y cuando ha sacado sus propias ovejas, va delante de ellas; y las ovejas le siguen, porque conocen su voz."
+        },
+        {
+            "id": "jhn10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas al extraño no seguirán, sino que huirán de él; porque no conocen la voz de los extraños."
+        },
+        {
+            "id": "jhn10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Esta parábola les dijo Jesús; pero ellos no entendieron qué era lo que les decía."
+        },
+        {
+            "id": "jhn10_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Volvió, pues, Jesús a decirles:"
+        },
+        {
+            "id": "jhn10_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "De cierto, de cierto os digo: Yo soy la puerta de las ovejas."
+        },
+        {
+            "id": "jhn10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Todos los que antes de mí vinieron, ladrones son y salteadores; pero no los oyeron las ovejas."
+        },
+        {
+            "id": "jhn10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Yo soy la puerta; el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos."
+        },
+        {
+            "id": "jhn10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El ladrón no viene sino para hurtar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia."
+        },
+        {
+            "id": "jhn10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Yo soy el buen pastor; el buen pastor su vida da por las ovejas."
+        },
+        {
+            "id": "jhn10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve venir al lobo y deja las ovejas y huye, y el lobo arrebata las ovejas y las dispersa."
+        },
+        {
+            "id": "jhn10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Así que el asalariado huye, porque es asalariado, y no tiene cuidado de las ovejas."
+        },
+        {
+            "id": "jhn10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Yo soy el buen pastor y conozco mis ovejas, y las mías me conocen."
+        },
+        {
+            "id": "jhn10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Como el Padre me conoce, así también yo conozco al Padre; y pongo mi vida por las ovejas."
+        },
+        {
+            "id": "jhn10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "También tengo otras ovejas que no son de este redil; aquéllas también debo traer, y oirán mi voz; y habrá un rebaño, y un pastor."
+        },
+        {
+            "id": "jhn10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Por eso me ama el Padre, porque yo pongo mi vida, para volverla a tomar."
+        },
+        {
+            "id": "jhn10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Nadie me la quita, sino que yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre."
+        },
+        {
+            "id": "jhn10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y volvió a haber disensión entre los judíos por estas palabras."
+        },
+        {
+            "id": "jhn10_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y muchos de ellos decían:"
+        },
+        {
+            "id": "jhn10_20b",
+            "speaker": "Judíos",
+            "verse": 20,
+            "text": "Demonio tiene, y está fuera de sí; ¿por qué le oís?"
+        },
+        {
+            "id": "jhn10_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Otros decían:"
+        },
+        {
+            "id": "jhn10_21b",
+            "speaker": "Judíos",
+            "verse": 21,
+            "text": "Estas palabras no son de endemoniado: ¿Puede acaso el demonio abrir los ojos de los ciegos?"
+        },
+        {
+            "id": "jhn10_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y en esos días se celebraba en Jerusalén la fiesta de la dedicación, y era invierno."
+        },
+        {
+            "id": "jhn10_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Jesús andaba en el templo por el pórtico de Salomón."
+        },
+        {
+            "id": "jhn10_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y le rodearon los judíos y le dijeron:"
+        },
+        {
+            "id": "jhn10_24b",
+            "speaker": "Judíos",
+            "verse": 24,
+            "text": "¿Hasta cuándo nos has de turbar el alma? Si tú eres el Cristo, dínoslo abiertamente."
+        },
+        {
+            "id": "jhn10_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Jesús les respondió:"
+        },
+        {
+            "id": "jhn10_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Os lo he dicho, y no creéis; las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí;"
+        },
+        {
+            "id": "jhn10_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "pero vosotros no creéis, porque no sois de mis ovejas, como os he dicho."
+        },
+        {
+            "id": "jhn10_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Mis ovejas oyen mi voz, y yo las conozco, y me siguen;"
+        },
+        {
+            "id": "jhn10_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "y yo les doy vida eterna, y no perecerán jamás, ni nadie las arrebatará de mi mano."
+        },
+        {
+            "id": "jhn10_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Mi Padre que me las dio, mayor que todos es, y nadie las puede arrebatar de la mano de mi Padre."
+        },
+        {
+            "id": "jhn10_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Yo y mi Padre uno somos."
+        },
+        {
+            "id": "jhn10_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces los judíos volvieron a tomar piedras para apedrearle."
+        },
+        {
+            "id": "jhn10_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Les respondió Jesús:"
+        },
+        {
+            "id": "jhn10_32b",
+            "speaker": "Jesús",
+            "verse": 32,
+            "text": "Muchas buenas obras os he mostrado de mi Padre, ¿por cuál de esas obras me apedreáis?"
+        },
+        {
+            "id": "jhn10_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Le respondieron los judíos, diciendo:"
+        },
+        {
+            "id": "jhn10_33b",
+            "speaker": "Judíos",
+            "verse": 33,
+            "text": "Por buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios."
+        },
+        {
+            "id": "jhn10_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Jesús les respondió:"
+        },
+        {
+            "id": "jhn10_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "¿No está escrito en vuestra ley: Yo dije, dioses sois?"
+        },
+        {
+            "id": "jhn10_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Si llamó dioses a aquellos a quienes vino la palabra de Dios (y la Escritura no puede ser quebrantada),"
+        },
+        {
+            "id": "jhn10_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "¿a quien el Padre santificó y envió al mundo, vosotros decís:"
+        },
+        {
+            "id": "jhn10_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Tú blasfemas, porque dije: Yo soy el Hijo de Dios?"
+        },
+        {
+            "id": "jhn10_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Si no hago las obras de mi Padre, no me creáis."
+        },
+        {
+            "id": "jhn10_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Pero si las hago, aunque a mí no me creáis, creed a las obras; para que conozcáis y creáis que el Padre está en mí, y yo en Él."
+        },
+        {
+            "id": "jhn10_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y otra vez procuraron prenderle; pero Él se escapó de sus manos."
+        },
+        {
+            "id": "jhn10_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y se fue otra vez al otro lado del Jordán, al lugar donde primero Juan bautizaba; y se quedó allí."
+        },
+        {
+            "id": "jhn10_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y muchos venían a Él, y decían:"
+        },
+        {
+            "id": "jhn10_41b",
+            "speaker": "Multitud",
+            "verse": 41,
+            "text": "Juan, a la verdad, ningún milagro hizo, pero todo lo que Juan dijo de Éste, era verdad."
+        },
+        {
+            "id": "jhn10_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y muchos creyeron en Él allí."
+        }
+    ]
+}

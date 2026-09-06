@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "d",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Hombre",
+    "confidence": 0.8
+  },
+  {
+    "verse": 51,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.8
+  },
+  {
+    "verse": 52,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.8
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  }
+]

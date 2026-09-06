@@ -1,0 +1,20 @@
+[
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Griegos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Judas",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,523 @@
+{
+    "book": "Juan",
+    "chapter": 4,
+    "title": "Juan 4",
+    "messages": [
+        {
+            "id": "jhn4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando el Señor entendió que los fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan"
+        },
+        {
+            "id": "jhn4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "(aunque Jesús no bautizaba, sino sus discípulos),"
+        },
+        {
+            "id": "jhn4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "dejó Judea, y se fue otra vez a Galilea."
+        },
+        {
+            "id": "jhn4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y le era necesario pasar por Samaria."
+        },
+        {
+            "id": "jhn4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Vino, pues, a una ciudad de Samaria que se llamaba Sicar, junto a la heredad que Jacob dio a su hijo José;"
+        },
+        {
+            "id": "jhn4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y estaba allí el pozo de Jacob. Entonces Jesús, cansado del camino, se sentó así junto al pozo; y era como la hora sexta."
+        },
+        {
+            "id": "jhn4_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y vino una mujer de Samaria a sacar agua; y Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Dame de beber"
+        },
+        {
+            "id": "jhn4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "(Pues los discípulos habían ido a la ciudad a comprar de comer)."
+        },
+        {
+            "id": "jhn4_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces la mujer samaritana le dijo:"
+        },
+        {
+            "id": "jhn4_9b",
+            "speaker": "Samaritana",
+            "verse": 9,
+            "text": "¿Cómo es que tú, siendo judío, me pides a mí de beber, que soy mujer samaritana? Porque los judíos no tienen tratos con los samaritanos."
+        },
+        {
+            "id": "jhn4_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Respondió Jesús y le dijo:"
+        },
+        {
+            "id": "jhn4_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Si conocieses el don de Dios, y quién es el que te dice: Dame de beber; tú le pedirías a Él, y Él te daría agua viva."
+        },
+        {
+            "id": "jhn4_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "La mujer le dijo:"
+        },
+        {
+            "id": "jhn4_11b",
+            "speaker": "Samaritana",
+            "verse": 11,
+            "text": "Señor, no tienes con qué sacarla, y el pozo es hondo. ¿De dónde, pues, tienes el agua viva?"
+        },
+        {
+            "id": "jhn4_12",
+            "speaker": "Samaritana",
+            "verse": 12,
+            "text": "¿Eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual bebieron él, sus hijos y su ganado?"
+        },
+        {
+            "id": "jhn4_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Respondió Jesús y le dijo:"
+        },
+        {
+            "id": "jhn4_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Cualquiera que bebiere de esta agua volverá a tener sed,"
+        },
+        {
+            "id": "jhn4_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "pero el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para vida eterna."
+        },
+        {
+            "id": "jhn4_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "La mujer le dijo:"
+        },
+        {
+            "id": "jhn4_15b",
+            "speaker": "Samaritana",
+            "verse": 15,
+            "text": "Señor, dame esa agua, para que yo no tenga sed, ni venga acá a sacarla."
+        },
+        {
+            "id": "jhn4_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Ve, llama a tu marido, y ven acá."
+        },
+        {
+            "id": "jhn4_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Respondió la mujer y dijo:"
+        },
+        {
+            "id": "jhn4_17b",
+            "speaker": "Samaritana",
+            "verse": 17,
+            "text": "No tengo marido."
+        },
+        {
+            "id": "jhn4_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_17d",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Bien has dicho: No tengo marido;"
+        },
+        {
+            "id": "jhn4_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "porque cinco maridos has tenido, y el que ahora tienes no es tu marido; esto has dicho con verdad."
+        },
+        {
+            "id": "jhn4_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "La mujer le dijo:"
+        },
+        {
+            "id": "jhn4_19b",
+            "speaker": "Samaritana",
+            "verse": 19,
+            "text": "Señor, me parece que tú eres profeta."
+        },
+        {
+            "id": "jhn4_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Nuestros padres adoraron en este monte, y vosotros decís que en Jerusalén es el lugar donde se debe adorar."
+        },
+        {
+            "id": "jhn4_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Mujer, créeme que la hora viene cuando ni en este monte ni en Jerusalén adoraréis al Padre."
+        },
+        {
+            "id": "jhn4_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos; porque la salvación viene de los judíos."
+        },
+        {
+            "id": "jhn4_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Pero la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; pues también el Padre tales adoradores busca que le adoren."
+        },
+        {
+            "id": "jhn4_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que le adoren."
+        },
+        {
+            "id": "jhn4_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "La mujer le dice:"
+        },
+        {
+            "id": "jhn4_25b",
+            "speaker": "Samaritana",
+            "verse": 25,
+            "text": "Sé que el Mesías ha de venir, el que es llamado, el Cristo: Cuando Él venga nos declarará todas las cosas."
+        },
+        {
+            "id": "jhn4_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_26b",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "Yo soy, el que habla contigo."
+        },
+        {
+            "id": "jhn4_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y en esto llegaron sus discípulos, y se maravillaron de que hablaba con la mujer; pero ninguno dijo:"
+        },
+        {
+            "id": "jhn4_27b",
+            "speaker": "Discípulos",
+            "verse": 27,
+            "text": "¿Qué"
+        },
+        {
+            "id": "jhn4_27c",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Preguntas? O:"
+        },
+        {
+            "id": "jhn4_27d",
+            "speaker": "Discípulos",
+            "verse": 27,
+            "text": "¿Por qué hablas con ella?"
+        },
+        {
+            "id": "jhn4_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces la mujer dejó su cántaro, y fue a la ciudad, y dijo a los hombres:"
+        },
+        {
+            "id": "jhn4_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Venid, ved a un hombre que me ha dicho todo lo que he hecho:"
+        },
+        {
+            "id": "jhn4_29b",
+            "speaker": "Samaritana",
+            "verse": 29,
+            "text": "¿No será Éste el Cristo?"
+        },
+        {
+            "id": "jhn4_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces salieron de la ciudad, y vinieron a Él."
+        },
+        {
+            "id": "jhn4_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entre tanto, los discípulos le rogaban, diciendo:"
+        },
+        {
+            "id": "jhn4_31b",
+            "speaker": "Discípulos",
+            "verse": 31,
+            "text": "Rabí, come."
+        },
+        {
+            "id": "jhn4_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Pero Él les dijo:"
+        },
+        {
+            "id": "jhn4_32b",
+            "speaker": "Jesús",
+            "verse": 32,
+            "text": "Yo tengo una comida que comer, que vosotros no sabéis."
+        },
+        {
+            "id": "jhn4_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces los discípulos se decían el uno al otro:"
+        },
+        {
+            "id": "jhn4_33b",
+            "speaker": "Discípulos",
+            "verse": 33,
+            "text": "¿Le habrá traído alguien de comer?"
+        },
+        {
+            "id": "jhn4_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Jesús les dijo:"
+        },
+        {
+            "id": "jhn4_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "Mi comida es que haga la voluntad del que me envió, y que acabe su obra."
+        },
+        {
+            "id": "jhn4_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "¿No decís vosotros:"
+        },
+        {
+            "id": "jhn4_35b",
+            "speaker": "Jesús",
+            "verse": 35,
+            "text": "Aún faltan cuatro meses para que venga la siega? He aquí os digo: Alzad vuestros ojos y mirad los campos, porque ya están blancos para la siega."
+        },
+        {
+            "id": "jhn4_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y el que siega recibe salario, y recoge fruto para vida eterna; para que el que siembra como el que siega juntos se regocijen."
+        },
+        {
+            "id": "jhn4_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Porque en esto es verdadero el dicho:"
+        },
+        {
+            "id": "jhn4_37b",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Uno es el que siembra, y otro es el que siega."
+        },
+        {
+            "id": "jhn4_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Yo os he enviado a segar lo que vosotros no labrasteis; otros labraron, y vosotros habéis entrado en sus labores."
+        },
+        {
+            "id": "jhn4_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y muchos de los samaritanos de aquella ciudad creyeron en Él por la palabra de la mujer, que testificaba diciendo:"
+        },
+        {
+            "id": "jhn4_39b",
+            "speaker": "Samaritana",
+            "verse": 39,
+            "text": "Me ha dicho todo lo que he hecho."
+        },
+        {
+            "id": "jhn4_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Entonces, cuando los samaritanos vinieron a Él, le rogaron que se quedase con ellos; y se quedó allí dos días."
+        },
+        {
+            "id": "jhn4_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y creyeron muchos más por la palabra de Él."
+        },
+        {
+            "id": "jhn4_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y decían a la mujer:"
+        },
+        {
+            "id": "jhn4_42b",
+            "speaker": "Multitud",
+            "verse": 42,
+            "text": "Ahora creemos, no sólo por tu dicho, sino porque nosotros mismos le hemos oído, y sabemos que verdaderamente Éste es el Cristo, el Salvador del mundo."
+        },
+        {
+            "id": "jhn4_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y dos días después, salió de allí y se fue a Galilea."
+        },
+        {
+            "id": "jhn4_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Porque Jesús mismo dio testimonio de que el profeta no tiene honra en su propia tierra."
+        },
+        {
+            "id": "jhn4_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y cuando vino a Galilea, los galileos le recibieron, habiendo visto todas las cosas que Él hizo en Jerusalén en el día de la fiesta; pues también ellos habían ido a la fiesta."
+        },
+        {
+            "id": "jhn4_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Vino, pues, Jesús otra vez a Caná de Galilea, donde había convertido el agua en vino. Y había en Capernaúm un oficial del rey, cuyo hijo estaba enfermo."
+        },
+        {
+            "id": "jhn4_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Éste, cuando oyó que Jesús venía de Judea a Galilea, vino a Él y le rogó que descendiese y sanase a su hijo, porque estaba a punto de morir."
+        },
+        {
+            "id": "jhn4_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Entonces Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_48b",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "Si no viereis señales y prodigios, no creeréis."
+        },
+        {
+            "id": "jhn4_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "El oficial del rey le dijo:"
+        },
+        {
+            "id": "jhn4_49b",
+            "speaker": "Hombre",
+            "verse": 49,
+            "text": "Señor, desciende antes que mi hijo muera."
+        },
+        {
+            "id": "jhn4_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_50b",
+            "speaker": "Jesús",
+            "verse": 50,
+            "text": "Ve, tu hijo vive. Y el hombre creyó la palabra que Jesús le dijo, y se fue."
+        },
+        {
+            "id": "jhn4_51a",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y cuando ya él descendía, sus siervos salieron a recibirle, y le dieron las nuevas, diciendo:"
+        },
+        {
+            "id": "jhn4_51b",
+            "speaker": "Criado",
+            "verse": 51,
+            "text": "Tu hijo vive."
+        },
+        {
+            "id": "jhn4_52a",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Entonces les preguntó a qué hora había comenzado a mejorar. Y le dijeron:"
+        },
+        {
+            "id": "jhn4_52b",
+            "speaker": "Criado",
+            "verse": 52,
+            "text": "Ayer a la hora séptima le dejó la fiebre."
+        },
+        {
+            "id": "jhn4_53a",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Entonces el padre entendió que aquella hora era cuando Jesús le dijo:"
+        },
+        {
+            "id": "jhn4_53b",
+            "speaker": "Jesús",
+            "verse": 53,
+            "text": "Tu hijo vive; y creyó él, y toda su casa."
+        },
+        {
+            "id": "jhn4_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Éste además es el segundo milagro que Jesús hizo, cuando vino de Judea a Galilea."
+        }
+    ]
+}

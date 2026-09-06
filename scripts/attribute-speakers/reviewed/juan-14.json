@@ -1,0 +1,38 @@
+[
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Tomás",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Felipe",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Judas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  }
+]

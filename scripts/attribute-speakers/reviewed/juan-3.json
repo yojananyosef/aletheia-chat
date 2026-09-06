@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Nicodemo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Nicodemo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Nicodemo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  }
+]

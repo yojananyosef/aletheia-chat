@@ -1,0 +1,283 @@
+{
+    "book": "Juan",
+    "chapter": 3,
+    "title": "Juan 3",
+    "messages": [
+        {
+            "id": "jhn3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Había un hombre de los fariseos que se llamaba Nicodemo, príncipe de los judíos."
+        },
+        {
+            "id": "jhn3_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Éste vino a Jesús de noche y le dijo:"
+        },
+        {
+            "id": "jhn3_2b",
+            "speaker": "Nicodemo",
+            "verse": 2,
+            "text": "Rabí, sabemos que has venido de Dios por maestro; pues nadie puede hacer los milagros que tú haces, si no está Dios con él."
+        },
+        {
+            "id": "jhn3_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Respondió Jesús y le dijo:"
+        },
+        {
+            "id": "jhn3_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "De cierto, de cierto te digo: El que no naciere otra vez, no puede ver el reino de Dios."
+        },
+        {
+            "id": "jhn3_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Nicodemo le dijo:"
+        },
+        {
+            "id": "jhn3_4b",
+            "speaker": "Nicodemo",
+            "verse": 4,
+            "text": "¿Cómo puede un hombre nacer siendo viejo? ¿Puede entrar por segunda vez en el vientre de su madre, y nacer?"
+        },
+        {
+            "id": "jhn3_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Respondió Jesús:"
+        },
+        {
+            "id": "jhn3_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios."
+        },
+        {
+            "id": "jhn3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Lo que es nacido de la carne, carne es, y lo que es nacido del Espíritu, espíritu es."
+        },
+        {
+            "id": "jhn3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "No te maravilles de que te dije:"
+        },
+        {
+            "id": "jhn3_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Os es necesario nacer otra vez."
+        },
+        {
+            "id": "jhn3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "El viento sopla de donde quiere, y oyes su sonido, pero no sabes de dónde viene, ni a dónde va; así es todo aquel que es nacido del Espíritu."
+        },
+        {
+            "id": "jhn3_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Respondió Nicodemo, y le dijo:"
+        },
+        {
+            "id": "jhn3_9b",
+            "speaker": "Nicodemo",
+            "verse": 9,
+            "text": "¿Cómo puede hacerse esto?"
+        },
+        {
+            "id": "jhn3_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Respondió Jesús y le dijo:"
+        },
+        {
+            "id": "jhn3_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "¿Eres tú maestro de Israel, y no sabes esto?"
+        },
+        {
+            "id": "jhn3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que hemos visto testificamos, y no recibís nuestro testimonio."
+        },
+        {
+            "id": "jhn3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Si os he dicho cosas terrenales, y no creéis, ¿cómo creeréis si os dijere las celestiales?"
+        },
+        {
+            "id": "jhn3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y nadie subió al cielo, sino el que descendió del cielo, el Hijo del Hombre que está en el cielo."
+        },
+        {
+            "id": "jhn3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado;"
+        },
+        {
+            "id": "jhn3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "para que todo aquel que en Él cree, no se pierda, mas tenga vida eterna."
+        },
+        {
+            "id": "jhn3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en Él cree, no se pierda, mas tenga vida eterna."
+        },
+        {
+            "id": "jhn3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque no envió Dios a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por Él."
+        },
+        {
+            "id": "jhn3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "El que en Él cree, no es condenado, pero el que no cree, ya es condenado, porque no ha creído en el nombre del unigénito Hijo de Dios."
+        },
+        {
+            "id": "jhn3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y ésta es la condenación; que la luz vino al mundo, y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas."
+        },
+        {
+            "id": "jhn3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque todo el que hace lo malo aborrece la luz, y no viene a la luz, para que sus obras no sean reprobadas."
+        },
+        {
+            "id": "jhn3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero el que obra verdad, viene a la luz, para que sea manifiesto que sus obras son hechas en Dios."
+        },
+        {
+            "id": "jhn3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Después de estas cosas, vino Jesús con sus discípulos a la tierra de Judea; y estuvo allí con ellos, y bautizaba."
+        },
+        {
+            "id": "jhn3_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y también Juan bautizaba en Enón, junto a Salim, porque allí había mucha agua; y venían, y eran bautizados."
+        },
+        {
+            "id": "jhn3_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque Juan no había sido aún puesto en la cárcel."
+        },
+        {
+            "id": "jhn3_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Entonces hubo una discusión entre los discípulos de Juan y los judíos acerca de la purificación."
+        },
+        {
+            "id": "jhn3_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y vinieron a Juan y le dijeron:"
+        },
+        {
+            "id": "jhn3_26b",
+            "speaker": "Discípulos",
+            "verse": 26,
+            "text": "Rabí, el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, he aquí Él bautiza, y todos vienen a Él."
+        },
+        {
+            "id": "jhn3_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Respondió Juan y dijo:"
+        },
+        {
+            "id": "jhn3_27b",
+            "speaker": "Juan el Bautista",
+            "verse": 27,
+            "text": "No puede el hombre recibir nada si no le es dado del cielo."
+        },
+        {
+            "id": "jhn3_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Vosotros mismos me sois testigos de que dije:"
+        },
+        {
+            "id": "jhn3_28b",
+            "speaker": "Juan el Bautista",
+            "verse": 28,
+            "text": "Yo no soy el Cristo, sino que soy enviado delante de Él."
+        },
+        {
+            "id": "jhn3_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "El que tiene la esposa, es el esposo, mas el amigo del esposo, que está en pie y le oye, se goza grandemente de la voz del esposo. Así pues, este mi gozo es cumplido."
+        },
+        {
+            "id": "jhn3_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Es necesario que Él crezca, y que yo mengüe."
+        },
+        {
+            "id": "jhn3_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "El que viene de arriba, sobre todos es; el que es de la tierra, es terrenal, y cosas terrenales habla; el que viene del cielo, sobre todos es."
+        },
+        {
+            "id": "jhn3_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y lo que ha visto y oído, esto testifica; y nadie recibe su testimonio."
+        },
+        {
+            "id": "jhn3_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "El que recibe su testimonio certifica que Dios es veraz."
+        },
+        {
+            "id": "jhn3_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Porque el que Dios envió habla las palabras de Dios, pues Dios no le da el Espíritu por medida."
+        },
+        {
+            "id": "jhn3_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "El Padre ama al Hijo y todas las cosas ha dado en su mano."
+        },
+        {
+            "id": "jhn3_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "El que cree en el Hijo tiene vida eterna; mas el que es incrédulo al Hijo no verá la vida, sino que la ira de Dios está sobre él."
+        }
+    ]
+}

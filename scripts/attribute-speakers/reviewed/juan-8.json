@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Escribas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Mujer",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Fariseos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "d",
+    "speaker": "Judíos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 48,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 52,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 52,
+    "subId": "d",
+    "speaker": "Judíos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 57,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 53,
+    "subId": "",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  }
+]

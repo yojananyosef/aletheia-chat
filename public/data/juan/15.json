@@ -1,0 +1,175 @@
+{
+    "book": "Juan",
+    "chapter": 15,
+    "title": "Juan 15",
+    "messages": [
+        {
+            "id": "jhn15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Yo soy la vid verdadera, y mi Padre es el labrador."
+        },
+        {
+            "id": "jhn15_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Todo pámpano que en mí no lleva fruto, lo quita; y todo aquel que lleva fruto, lo limpia, para que lleve más fruto."
+        },
+        {
+            "id": "jhn15_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Ya vosotros sois limpios por la palabra que os he hablado."
+        },
+        {
+            "id": "jhn15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no permanece en la vid, así tampoco vosotros, si no permanecéis en mí."
+        },
+        {
+            "id": "jhn15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer."
+        },
+        {
+            "id": "jhn15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Si alguno no permanece en mí, será echado fuera como pámpano, y se secará; y los recogen, y los echan en el fuego, y arden."
+        },
+        {
+            "id": "jhn15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Si permanecéis en mí, y mis palabras permanecen en vosotros, pediréis todo lo que quisiereis, y os será hecho."
+        },
+        {
+            "id": "jhn15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "En esto es glorificado mi Padre, en que llevéis mucho fruto, y seáis así mis discípulos."
+        },
+        {
+            "id": "jhn15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Como el Padre me ha amado, así también yo os he amado; permaneced en mi amor."
+        },
+        {
+            "id": "jhn15_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Si guardáis mis mandamientos, permaneceréis en mi amor; como también yo he guardado los mandamientos de mi Padre, y permanezco en su amor."
+        },
+        {
+            "id": "jhn15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Estas cosas os he hablado, para que mi gozo esté en vosotros, y vuestro gozo sea cumplido."
+        },
+        {
+            "id": "jhn15_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Éste es mi mandamiento: Que os améis unos a otros, como yo os he amado."
+        },
+        {
+            "id": "jhn15_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Nadie tiene mayor amor que éste, que uno ponga su vida por sus amigos."
+        },
+        {
+            "id": "jhn15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Vosotros sois mis amigos, si hacéis lo que yo os mando."
+        },
+        {
+            "id": "jhn15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor; mas os he llamado amigos, porque os he dado a conocer todas las cosas que he oído de mi Padre."
+        },
+        {
+            "id": "jhn15_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "No me elegisteis vosotros a mí; sino que yo os elegí a vosotros; y os he puesto para que vayáis y llevéis fruto, y vuestro fruto permanezca; para que todo lo que pidiereis al Padre en mi nombre; Él os lo dé."
+        },
+        {
+            "id": "jhn15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Esto os mando: Que os améis unos a otros."
+        },
+        {
+            "id": "jhn15_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Si el mundo os aborrece, sabed que a mí me aborreció antes que a vosotros."
+        },
+        {
+            "id": "jhn15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Si fuerais del mundo, el mundo amaría lo suyo; mas porque no sois del mundo, antes yo os elegí del mundo, por eso el mundo os aborrece."
+        },
+        {
+            "id": "jhn15_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Acordaos de la palabra que yo os dije:"
+        },
+        {
+            "id": "jhn15_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "El siervo no es más que su señor. Si a mí me han perseguido, también a vosotros perseguirán; si han guardado mi palabra, también guardarán la vuestra."
+        },
+        {
+            "id": "jhn15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero todo esto os harán por causa de mi nombre; porque no conocen al que me envió."
+        },
+        {
+            "id": "jhn15_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Si yo no hubiera venido, ni les hubiera hablado, no tendrían pecado, pero ahora no tienen excusa de su pecado."
+        },
+        {
+            "id": "jhn15_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "El que me aborrece, también a mi Padre aborrece."
+        },
+        {
+            "id": "jhn15_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Si yo no hubiese hecho entre ellos obras que ningún otro ha hecho, no tendrían pecado; pero ahora también ellos las han visto, y nos han aborrecido a mí y a mi Padre."
+        },
+        {
+            "id": "jhn15_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Pero esto es para que se cumpla la palabra que está escrita en su ley: Sin causa me aborrecieron."
+        },
+        {
+            "id": "jhn15_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Pero cuando venga el Consolador, a quien yo os enviaré del Padre, el Espíritu de verdad que procede del Padre, Él dará testimonio de mí."
+        },
+        {
+            "id": "jhn15_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y vosotros también daréis testimonio, porque habéis estado conmigo desde el principio."
+        }
+    ]
+}

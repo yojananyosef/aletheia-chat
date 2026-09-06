@@ -1,0 +1,217 @@
+{
+    "book": "Juan",
+    "chapter": 2,
+    "title": "Juan 2",
+    "messages": [
+        {
+            "id": "jhn2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y al tercer día se hicieron unas bodas en Caná de Galilea; y estaba allí la madre de Jesús."
+        },
+        {
+            "id": "jhn2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y fueron también invitados a las bodas Jesús y sus discípulos."
+        },
+        {
+            "id": "jhn2_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y faltando el vino, la madre de Jesús le dijo:"
+        },
+        {
+            "id": "jhn2_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "No tienen vino."
+        },
+        {
+            "id": "jhn2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn2_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "¿Qué tengo yo contigo, mujer? Aún no ha venido mi hora."
+        },
+        {
+            "id": "jhn2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Su madre dijo a los siervos:"
+        },
+        {
+            "id": "jhn2_5b",
+            "speaker": "María",
+            "verse": 5,
+            "text": "Haced todo lo que Él os dijere."
+        },
+        {
+            "id": "jhn2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y estaban allí seis tinajas de piedra para agua, conforme a la purificación de los judíos, y en cada una cabían dos o tres cántaros."
+        },
+        {
+            "id": "jhn2_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Jesús les dijo:"
+        },
+        {
+            "id": "jhn2_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Llenad de agua estas tinajas. Y las llenaron hasta arriba."
+        },
+        {
+            "id": "jhn2_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "jhn2_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Sacad ahora, y llevadla al maestresala. Y se la llevaron."
+        },
+        {
+            "id": "jhn2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cuando el maestresala probó el agua hecha vino, y no sabía de dónde era (mas lo sabían los siervos que habían sacado el agua), el maestresala llamó al esposo,"
+        },
+        {
+            "id": "jhn2_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "jhn2_10b",
+            "speaker": "Hombre",
+            "verse": 10,
+            "text": "Todo hombre sirve primero el buen vino, y cuando ya han bebido mucho, entonces el que es inferior, pero tú has guardado el buen vino hasta ahora."
+        },
+        {
+            "id": "jhn2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Este principio de milagros hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en Él."
+        },
+        {
+            "id": "jhn2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Después de esto descendió a Capernaúm, Él, y su madre, y sus hermanos y sus discípulos; y estuvieron allí no muchos días."
+        },
+        {
+            "id": "jhn2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y estaba cerca la pascua de los judíos, y subió Jesús a Jerusalén."
+        },
+        {
+            "id": "jhn2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y halló en el templo a los que vendían bueyes y ovejas y palomas, y a los cambistas sentados."
+        },
+        {
+            "id": "jhn2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y haciendo un azote de cuerdas, echó fuera del templo a todos, y las ovejas y los bueyes; y desparramó el dinero de los cambistas, y trastornó las mesas;"
+        },
+        {
+            "id": "jhn2_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y dijo a los que vendían palomas:"
+        },
+        {
+            "id": "jhn2_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Quitad de aquí esto, y no hagáis de la casa de mi Padre una casa de mercado."
+        },
+        {
+            "id": "jhn2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces se acordaron sus discípulos que está escrito: El celo de tu casa me consumió."
+        },
+        {
+            "id": "jhn2_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y respondieron los judíos y le dijeron:"
+        },
+        {
+            "id": "jhn2_18b",
+            "speaker": "Judíos",
+            "verse": 18,
+            "text": "¿Qué señal nos muestras, ya que haces esto?"
+        },
+        {
+            "id": "jhn2_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Respondió Jesús y les dijo:"
+        },
+        {
+            "id": "jhn2_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Destruid este templo, y en tres días lo levantaré."
+        },
+        {
+            "id": "jhn2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces dijeron los judíos:"
+        },
+        {
+            "id": "jhn2_20b",
+            "speaker": "Judíos",
+            "verse": 20,
+            "text": "En cuarenta y seis años fue edificado este templo, ¿y tú lo levantarás en tres días?"
+        },
+        {
+            "id": "jhn2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero Él hablaba del templo de su cuerpo."
+        },
+        {
+            "id": "jhn2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Por tanto, cuando resucitó de los muertos, sus discípulos se acordaron que les había dicho esto; y creyeron la Escritura y la palabra que Jesús había dicho."
+        },
+        {
+            "id": "jhn2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y estando en Jerusalén, en la pascua, en el día de la fiesta, muchos creyeron en su nombre, viendo los milagros que hacía."
+        },
+        {
+            "id": "jhn2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pero Jesús mismo no se fiaba de ellos, porque los conocía a todos."
+        },
+        {
+            "id": "jhn2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y no tenía necesidad de que alguien le diese testimonio del hombre, porque Él sabía lo que había en el hombre."
+        }
+    ]
+}

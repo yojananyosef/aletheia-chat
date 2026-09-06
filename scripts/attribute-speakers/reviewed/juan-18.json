@@ -1,0 +1,74 @@
+[
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Soldados",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "d",
+    "speaker": "Soldados",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "d",
+    "speaker": "Pedro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Alguaciles",
+    "confidence": 0.8
+  },
+  {
+    "verse": 25,
+    "subId": "d",
+    "speaker": "Pedro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "d",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "d",
+    "speaker": "Pilato",
+    "confidence": 0.9
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  }
+]

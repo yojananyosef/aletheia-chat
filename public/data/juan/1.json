@@ -1,0 +1,517 @@
+{
+    "book": "Juan",
+    "chapter": 1,
+    "title": "Juan 1",
+    "messages": [
+        {
+            "id": "jhn1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios."
+        },
+        {
+            "id": "jhn1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Éste era en el principio con Dios."
+        },
+        {
+            "id": "jhn1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Todas las cosas por Él fueron hechas, y sin Él nada de lo que ha sido hecho, fue hecho."
+        },
+        {
+            "id": "jhn1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "En Él estaba la vida, y la vida era la luz de los hombres."
+        },
+        {
+            "id": "jhn1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y la luz en las tinieblas resplandece, mas las tinieblas no la comprendieron."
+        },
+        {
+            "id": "jhn1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Hubo un hombre enviado de Dios, el cual se llamaba Juan."
+        },
+        {
+            "id": "jhn1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Éste vino por testimonio, para que diese testimonio de la Luz, para que todos creyesen por él."
+        },
+        {
+            "id": "jhn1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "No era él la Luz, sino para que diese testimonio de la Luz."
+        },
+        {
+            "id": "jhn1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Aquél era la Luz verdadera, que alumbra a todo hombre que viene a este mundo."
+        },
+        {
+            "id": "jhn1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "En el mundo estaba, y el mundo por Él fue hecho, pero el mundo no le conoció."
+        },
+        {
+            "id": "jhn1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "A lo suyo vino, y los suyos no le recibieron."
+        },
+        {
+            "id": "jhn1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios."
+        },
+        {
+            "id": "jhn1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Los cuales son engendrados, no de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de Dios."
+        },
+        {
+            "id": "jhn1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y el Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
+        },
+        {
+            "id": "jhn1_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Juan dio testimonio de Él, y clamó diciendo:"
+        },
+        {
+            "id": "jhn1_15b",
+            "speaker": "Juan el Bautista",
+            "verse": 15,
+            "text": "Éste es de quien yo decía: El que viene después de mí, es antes de mí; porque era primero que yo."
+        },
+        {
+            "id": "jhn1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y de su plenitud tomamos todos, y gracia por gracia."
+        },
+        {
+            "id": "jhn1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque la ley por Moisés fue dada, pero la gracia y la verdad vinieron por Jesucristo."
+        },
+        {
+            "id": "jhn1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, Él le ha dado a conocer."
+        },
+        {
+            "id": "jhn1_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y éste es el testimonio de Juan, cuando los judíos enviaron de Jerusalén sacerdotes y levitas, a preguntarle:"
+        },
+        {
+            "id": "jhn1_19b",
+            "speaker": "Sacerdotes",
+            "verse": 19,
+            "text": "¿Tú, quién eres?"
+        },
+        {
+            "id": "jhn1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y confesó, y no negó; sino confesó: Yo no soy el Cristo."
+        },
+        {
+            "id": "jhn1_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y le preguntaron:"
+        },
+        {
+            "id": "jhn1_21b",
+            "speaker": "Sacerdotes",
+            "verse": 21,
+            "text": "¿Qué, pues? ¿Eres tú Elías?"
+        },
+        {
+            "id": "jhn1_21c",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "jhn1_21d",
+            "speaker": "Juan el Bautista",
+            "verse": 21,
+            "text": "No soy. ¿Eres tú el Profeta?"
+        },
+        {
+            "id": "jhn1_21e",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "jhn1_21f",
+            "speaker": "Juan el Bautista",
+            "verse": 21,
+            "text": "No."
+        },
+        {
+            "id": "jhn1_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces le dijeron:"
+        },
+        {
+            "id": "jhn1_22b",
+            "speaker": "Sacerdotes",
+            "verse": 22,
+            "text": "¿Quién eres? para que demos respuesta a los que nos enviaron. ¿Qué dices de ti mismo?"
+        },
+        {
+            "id": "jhn1_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Él dijo:"
+        },
+        {
+            "id": "jhn1_23b",
+            "speaker": "Juan el Bautista",
+            "verse": 23,
+            "text": "Yo soy la voz de uno que clama en el desierto: Enderezad el camino del Señor, como dijo el profeta Isaías."
+        },
+        {
+            "id": "jhn1_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y los que habían sido enviados eran de los fariseos."
+        },
+        {
+            "id": "jhn1_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y preguntándole, le dijeron:"
+        },
+        {
+            "id": "jhn1_25b",
+            "speaker": "Sacerdotes",
+            "verse": 25,
+            "text": "¿Por qué, pues, bautizas, si tú no eres el Cristo, ni Elías, ni el Profeta?"
+        },
+        {
+            "id": "jhn1_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Juan les respondió, diciendo:"
+        },
+        {
+            "id": "jhn1_26b",
+            "speaker": "Juan el Bautista",
+            "verse": 26,
+            "text": "Yo bautizo en agua, mas en medio de vosotros está uno a quien vosotros no conocéis."
+        },
+        {
+            "id": "jhn1_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Él es el que viniendo después de mí, es antes de mí; del cual yo no soy digno de desatar la correa del calzado."
+        },
+        {
+            "id": "jhn1_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Estas cosas acontecieron en Betábara, al otro lado del Jordán, donde Juan estaba bautizando."
+        },
+        {
+            "id": "jhn1_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "El siguiente día vio Juan a Jesús que venía a él, y dijo:"
+        },
+        {
+            "id": "jhn1_29b",
+            "speaker": "Juan el Bautista",
+            "verse": 29,
+            "text": "He aquí el Cordero de Dios, que quita el pecado del mundo."
+        },
+        {
+            "id": "jhn1_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Éste es Aquél de quien yo dije:"
+        },
+        {
+            "id": "jhn1_30b",
+            "speaker": "Juan el Bautista",
+            "verse": 30,
+            "text": "Después de mí viene un varón, el cual es antes de mí; porque era primero que yo."
+        },
+        {
+            "id": "jhn1_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y yo no le conocía; mas para que fuese manifestado a Israel, por eso vine yo bautizando en agua."
+        },
+        {
+            "id": "jhn1_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y Juan dio testimonio, diciendo:"
+        },
+        {
+            "id": "jhn1_32b",
+            "speaker": "Juan el Bautista",
+            "verse": 32,
+            "text": "Vi al Espíritu descender del cielo como paloma, y permanecer sobre Él."
+        },
+        {
+            "id": "jhn1_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y yo no le conocía; pero el que me envió a bautizar en agua, Éste me dijo:"
+        },
+        {
+            "id": "jhn1_33b",
+            "speaker": "Juan el Bautista",
+            "verse": 33,
+            "text": "Sobre quien veas descender el Espíritu, y que permanece sobre Él, Éste es el que bautiza con el Espíritu Santo."
+        },
+        {
+            "id": "jhn1_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y yo le vi, y he dado testimonio de que Éste es el Hijo de Dios."
+        },
+        {
+            "id": "jhn1_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "El siguiente día otra vez estaba Juan, y dos de sus discípulos."
+        },
+        {
+            "id": "jhn1_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y mirando a Jesús que andaba por allí, dijo:"
+        },
+        {
+            "id": "jhn1_36b",
+            "speaker": "Juan el Bautista",
+            "verse": 36,
+            "text": "He aquí el Cordero de Dios."
+        },
+        {
+            "id": "jhn1_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y los dos discípulos le oyeron hablar, y siguieron a Jesús."
+        },
+        {
+            "id": "jhn1_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Entonces volviéndose Jesús, y viendo que le seguían, les dijo:"
+        },
+        {
+            "id": "jhn1_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "¿Qué buscáis?"
+        },
+        {
+            "id": "jhn1_38c",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "jhn1_38d",
+            "speaker": "Discípulos",
+            "verse": 38,
+            "text": "Rabí (que se dice, si lo interpretares; Maestro), ¿dónde moras?"
+        },
+        {
+            "id": "jhn1_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Él les dijo:"
+        },
+        {
+            "id": "jhn1_39b",
+            "speaker": "Jesús",
+            "verse": 39,
+            "text": "Venid y ved. Vinieron y vieron dónde moraba; y se quedaron con Él aquel día, porque era como la hora décima."
+        },
+        {
+            "id": "jhn1_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Andrés, hermano de Simón Pedro, era uno de los dos que habían oído a Juan, y le habían seguido."
+        },
+        {
+            "id": "jhn1_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Éste halló primero a su hermano Simón, y le dijo:"
+        },
+        {
+            "id": "jhn1_41b",
+            "speaker": "Andrés",
+            "verse": 41,
+            "text": "Hemos hallado al Mesías (que si lo interpretares es, el Cristo)."
+        },
+        {
+            "id": "jhn1_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y le trajo a Jesús. Y mirándole Jesús, dijo:"
+        },
+        {
+            "id": "jhn1_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "Tú eres Simón hijo de Jonás; tú serás llamado Cefas (que quiere decir, piedra)."
+        },
+        {
+            "id": "jhn1_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "El siguiente día quiso Jesús ir a Galilea, y halló a Felipe, y le dijo:"
+        },
+        {
+            "id": "jhn1_43b",
+            "speaker": "Jesús",
+            "verse": 43,
+            "text": "Sígueme."
+        },
+        {
+            "id": "jhn1_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y Felipe era de Betsaida, la ciudad de Andrés y de Pedro."
+        },
+        {
+            "id": "jhn1_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Felipe halló a Natanael, y le dijo:"
+        },
+        {
+            "id": "jhn1_45b",
+            "speaker": "Felipe",
+            "verse": 45,
+            "text": "Hemos hallado a Aquél de quien escribió Moisés en la ley, y los profetas: a Jesús de Nazaret, el hijo de José."
+        },
+        {
+            "id": "jhn1_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y Natanael le dijo:"
+        },
+        {
+            "id": "jhn1_46b",
+            "speaker": "Natanael",
+            "verse": 46,
+            "text": "¿De Nazaret puede salir algo bueno?"
+        },
+        {
+            "id": "jhn1_46c",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Felipe le dijo:"
+        },
+        {
+            "id": "jhn1_46d",
+            "speaker": "Felipe",
+            "verse": 46,
+            "text": "Ven y ve."
+        },
+        {
+            "id": "jhn1_47a",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Jesús viendo que Natanael venía hacia Él, dijo de él:"
+        },
+        {
+            "id": "jhn1_47b",
+            "speaker": "Jesús",
+            "verse": 47,
+            "text": "He aquí un verdadero israelita en quien no hay engaño."
+        },
+        {
+            "id": "jhn1_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Le dijo Natanael:"
+        },
+        {
+            "id": "jhn1_48b",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "¿De dónde me conoces?"
+        },
+        {
+            "id": "jhn1_48c",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Respondió Jesús y le dijo:"
+        },
+        {
+            "id": "jhn1_48d",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "Antes que Felipe te llamara, cuando estabas debajo de la higuera, te vi."
+        },
+        {
+            "id": "jhn1_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Respondió Natanael y le dijo:"
+        },
+        {
+            "id": "jhn1_49b",
+            "speaker": "Natanael",
+            "verse": 49,
+            "text": "Rabí, tú eres el Hijo de Dios: Tú eres el Rey de Israel."
+        },
+        {
+            "id": "jhn1_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Respondió Jesús y le dijo:"
+        },
+        {
+            "id": "jhn1_50b",
+            "speaker": "Jesús",
+            "verse": 50,
+            "text": "¿Porque te dije: Te vi debajo de la higuera, crees? Cosas mayores que éstas verás."
+        },
+        {
+            "id": "jhn1_51a",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "jhn1_51b",
+            "speaker": "Jesús",
+            "verse": 51,
+            "text": "De cierto, de cierto os digo: De aquí en adelante veréis el cielo abierto, y a los ángeles de Dios subiendo y descendiendo sobre el Hijo del Hombre."
+        }
+    ]
+}

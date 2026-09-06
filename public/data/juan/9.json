@@ -1,0 +1,469 @@
+{
+    "book": "Juan",
+    "chapter": 9,
+    "title": "Juan 9",
+    "messages": [
+        {
+            "id": "jhn9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y pasando Jesús, vio a un hombre ciego de nacimiento."
+        },
+        {
+            "id": "jhn9_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y sus discípulos le preguntaron, diciendo:"
+        },
+        {
+            "id": "jhn9_2b",
+            "speaker": "Discípulos",
+            "verse": 2,
+            "text": "Rabí, ¿quién pecó, éste o sus padres, para que naciese ciego?"
+        },
+        {
+            "id": "jhn9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Respondió Jesús:"
+        },
+        {
+            "id": "jhn9_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "No es que haya pecado éste, ni sus padres; sino para que las obras de Dios se manifestasen en él."
+        },
+        {
+            "id": "jhn9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Me es necesario hacer las obras del que me envió, entre tanto que el día dura; la noche viene, cuando nadie puede obrar."
+        },
+        {
+            "id": "jhn9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entre tanto que estoy en el mundo, yo soy la luz del mundo."
+        },
+        {
+            "id": "jhn9_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Habiendo dicho esto, escupió en tierra, e hizo lodo con la saliva, y untó con el lodo los ojos del ciego,"
+        },
+        {
+            "id": "jhn9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "jhn9_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Ve, lávate en el estanque de Siloé (que interpretado significa, Enviado). Fue entonces, y se lavó, y regresó viendo."
+        },
+        {
+            "id": "jhn9_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces los vecinos, y los que antes le habían visto que era ciego, decían:"
+        },
+        {
+            "id": "jhn9_8b",
+            "speaker": "Familiares",
+            "verse": 8,
+            "text": "¿No es éste el que se sentaba y mendigaba?"
+        },
+        {
+            "id": "jhn9_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Unos decían:"
+        },
+        {
+            "id": "jhn9_9b",
+            "speaker": "Multitud",
+            "verse": 9,
+            "text": "Éste es; y otros: A él se parece."
+        },
+        {
+            "id": "jhn9_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Él decía:"
+        },
+        {
+            "id": "jhn9_9d",
+            "speaker": "Ciego",
+            "verse": 9,
+            "text": "Yo soy."
+        },
+        {
+            "id": "jhn9_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y le dijeron:"
+        },
+        {
+            "id": "jhn9_10b",
+            "speaker": "Multitud",
+            "verse": 10,
+            "text": "¿Cómo fueron abiertos tus ojos?"
+        },
+        {
+            "id": "jhn9_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Respondió él y dijo:"
+        },
+        {
+            "id": "jhn9_11b",
+            "speaker": "Ciego",
+            "verse": 11,
+            "text": "El hombre que se llama Jesús hizo lodo, y me untó los ojos, y me dijo: Ve al estanque de Siloé, y lávate, y fui y me lavé, y recibí la vista."
+        },
+        {
+            "id": "jhn9_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces le dijeron:"
+        },
+        {
+            "id": "jhn9_12b",
+            "speaker": "Multitud",
+            "verse": 12,
+            "text": "¿Dónde está Él?"
+        },
+        {
+            "id": "jhn9_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Él dijo:"
+        },
+        {
+            "id": "jhn9_12d",
+            "speaker": "Ciego",
+            "verse": 12,
+            "text": "No sé."
+        },
+        {
+            "id": "jhn9_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Llevaron ante los fariseos al que había sido ciego."
+        },
+        {
+            "id": "jhn9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y era sábado cuando Jesús hizo el lodo y le abrió los ojos."
+        },
+        {
+            "id": "jhn9_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Volvieron, pues, a preguntarle también los fariseos cómo había recibido la vista. Y él les dijo:"
+        },
+        {
+            "id": "jhn9_15b",
+            "speaker": "Fariseos",
+            "verse": 15,
+            "text": "Puso lodo sobre mis ojos, y me lavé, y veo."
+        },
+        {
+            "id": "jhn9_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces unos de los fariseos decían:"
+        },
+        {
+            "id": "jhn9_16b",
+            "speaker": "Fariseos",
+            "verse": 16,
+            "text": "Este hombre no es de Dios, pues no guarda el sábado."
+        },
+        {
+            "id": "jhn9_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Otros decían:"
+        },
+        {
+            "id": "jhn9_16d",
+            "speaker": "Fariseos",
+            "verse": 16,
+            "text": "¿Cómo puede un hombre pecador hacer tales milagros? Y había disensión entre ellos."
+        },
+        {
+            "id": "jhn9_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Vuelven a decir al ciego:"
+        },
+        {
+            "id": "jhn9_17b",
+            "speaker": "Fariseos",
+            "verse": 17,
+            "text": "¿Tú, qué dices del que abrió tus ojos?"
+        },
+        {
+            "id": "jhn9_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Él dijo:"
+        },
+        {
+            "id": "jhn9_17d",
+            "speaker": "Ciego",
+            "verse": 17,
+            "text": "Que es profeta."
+        },
+        {
+            "id": "jhn9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pero los judíos no creían de que él había sido ciego, y que había recibido la vista, hasta que llamaron a los padres del que había recibido la vista,"
+        },
+        {
+            "id": "jhn9_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y les preguntaron, diciendo:"
+        },
+        {
+            "id": "jhn9_19b",
+            "speaker": "Fariseos",
+            "verse": 19,
+            "text": "¿Es éste vuestro hijo, el que vosotros decís que nació ciego? ¿Cómo, pues, ve ahora?"
+        },
+        {
+            "id": "jhn9_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Respondiendo sus padres, les dijeron:"
+        },
+        {
+            "id": "jhn9_20b",
+            "speaker": "Familiares",
+            "verse": 20,
+            "text": "Sabemos que éste es nuestro hijo, y que nació ciego;"
+        },
+        {
+            "id": "jhn9_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "pero cómo vea ahora, no lo sabemos; o quién le haya abierto los ojos, nosotros no lo sabemos; edad tiene, preguntadle a él; él hablará por sí mismo."
+        },
+        {
+            "id": "jhn9_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Esto dijeron sus padres porque tenían miedo de los judíos; porque los judíos ya habían acordado que si alguno confesase que Él era el Cristo, debía ser expulsado de la sinagoga."
+        },
+        {
+            "id": "jhn9_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Por eso dijeron sus padres:"
+        },
+        {
+            "id": "jhn9_23b",
+            "speaker": "Familiares",
+            "verse": 23,
+            "text": "Edad tiene, preguntadle a él."
+        },
+        {
+            "id": "jhn9_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron:"
+        },
+        {
+            "id": "jhn9_24b",
+            "speaker": "Fariseos",
+            "verse": 24,
+            "text": "Da gloria a Dios; nosotros sabemos que este hombre es pecador."
+        },
+        {
+            "id": "jhn9_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Mas él respondió y dijo:"
+        },
+        {
+            "id": "jhn9_25b",
+            "speaker": "Ciego",
+            "verse": 25,
+            "text": "Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo."
+        },
+        {
+            "id": "jhn9_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y le volvieron a decir:"
+        },
+        {
+            "id": "jhn9_26b",
+            "speaker": "Fariseos",
+            "verse": 26,
+            "text": "¿Qué te hizo? ¿Cómo te abrió los ojos?"
+        },
+        {
+            "id": "jhn9_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Él les respondió:"
+        },
+        {
+            "id": "jhn9_27b",
+            "speaker": "Ciego",
+            "verse": 27,
+            "text": "Ya os lo he dicho antes, y no habéis oído; ¿por qué lo queréis oír otra vez? ¿Queréis también vosotros haceros sus discípulos?"
+        },
+        {
+            "id": "jhn9_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces le injuriaron, y dijeron:"
+        },
+        {
+            "id": "jhn9_28b",
+            "speaker": "Fariseos",
+            "verse": 28,
+            "text": "Tú eres su discípulo; pero nosotros discípulos de Moisés somos."
+        },
+        {
+            "id": "jhn9_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Nosotros sabemos que Dios habló a Moisés; pero Éste, no sabemos de dónde sea."
+        },
+        {
+            "id": "jhn9_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Respondió el hombre, y les dijo:"
+        },
+        {
+            "id": "jhn9_30b",
+            "speaker": "Ciego",
+            "verse": 30,
+            "text": "Por cierto, cosa maravillosa es ésta, que vosotros no sepáis de dónde sea, y a mí me abrió los ojos."
+        },
+        {
+            "id": "jhn9_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y sabemos que Dios no oye a los pecadores; pero si alguno es temeroso de Dios y hace su voluntad, a éste oye."
+        },
+        {
+            "id": "jhn9_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Desde el principio del mundo no fue oído que alguno abriese los ojos de uno que nació ciego."
+        },
+        {
+            "id": "jhn9_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Si este hombre no fuese de Dios, nada podría hacer."
+        },
+        {
+            "id": "jhn9_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Respondieron y le dijeron:"
+        },
+        {
+            "id": "jhn9_34b",
+            "speaker": "Fariseos",
+            "verse": 34,
+            "text": "Naciste enteramente en pecado, ¿y tú nos enseñas? Y le expulsaron."
+        },
+        {
+            "id": "jhn9_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Oyó Jesús que le habían expulsado; y hallándole le dijo:"
+        },
+        {
+            "id": "jhn9_35b",
+            "speaker": "Jesús",
+            "verse": 35,
+            "text": "¿Crees tú en el Hijo de Dios?"
+        },
+        {
+            "id": "jhn9_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Respondió él y dijo:"
+        },
+        {
+            "id": "jhn9_36b",
+            "speaker": "Ciego",
+            "verse": 36,
+            "text": "¿Quién es, Señor, para que crea en Él?"
+        },
+        {
+            "id": "jhn9_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "jhn9_37b",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Le has visto, y el que habla contigo, Él es."
+        },
+        {
+            "id": "jhn9_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "jhn9_38b",
+            "speaker": "Ciego",
+            "verse": 38,
+            "text": "Creo, Señor; y le adoró."
+        },
+        {
+            "id": "jhn9_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y dijo Jesús:"
+        },
+        {
+            "id": "jhn9_39b",
+            "speaker": "Jesús",
+            "verse": 39,
+            "text": "Para juicio yo he venido a este mundo, para que los que no ven, vean; y los que ven, sean cegados."
+        },
+        {
+            "id": "jhn9_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Entonces algunos de los fariseos que estaban con Él, al oír esto, dijeron:"
+        },
+        {
+            "id": "jhn9_40b",
+            "speaker": "Fariseos",
+            "verse": 40,
+            "text": "¿Acaso nosotros también somos ciegos?"
+        },
+        {
+            "id": "jhn9_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Jesús les dijo:"
+        },
+        {
+            "id": "jhn9_41b",
+            "speaker": "Jesús",
+            "verse": 41,
+            "text": "Si fuerais ciegos, no tendríais pecado; pero ahora porque decís: Vemos; vuestro pecado permanece."
+        }
+    ]
+}

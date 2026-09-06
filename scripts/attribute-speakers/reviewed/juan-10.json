@@ -1,0 +1,38 @@
+[
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  }
+]

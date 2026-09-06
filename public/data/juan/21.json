@@ -1,0 +1,355 @@
+{
+    "book": "Juan",
+    "chapter": 21,
+    "title": "Juan 21",
+    "messages": [
+        {
+            "id": "jhn21_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de estas cosas Jesús se manifestó otra vez a sus discípulos junto al mar de Tiberias; y se manifestó de esta manera."
+        },
+        {
+            "id": "jhn21_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Estaban juntos Simón Pedro, y Tomás llamado el Dídimo, y Natanael, de Caná de Galilea, y los hijos de Zebedeo, y otros dos de sus discípulos."
+        },
+        {
+            "id": "jhn21_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Simón Pedro les dijo:"
+        },
+        {
+            "id": "jhn21_3b",
+            "speaker": "Pedro",
+            "verse": 3,
+            "text": "A pescar voy: Ellos le dijeron: Nosotros también vamos contigo. Fueron, y luego entraron en una barca; y aquella noche no pescaron nada."
+        },
+        {
+            "id": "jhn21_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y al amanecer, Jesús se puso a la ribera; mas los discípulos no sabían que era Jesús."
+        },
+        {
+            "id": "jhn21_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces Jesús les dijo:"
+        },
+        {
+            "id": "jhn21_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Hijitos, ¿tenéis algo de comer?"
+        },
+        {
+            "id": "jhn21_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Le respondieron:"
+        },
+        {
+            "id": "jhn21_5d",
+            "speaker": "Discípulos",
+            "verse": 5,
+            "text": "No."
+        },
+        {
+            "id": "jhn21_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "jhn21_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Echad la red a la derecha de la barca, y hallaréis. Entonces la echaron, y ya no la podían sacar por la multitud de peces."
+        },
+        {
+            "id": "jhn21_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces aquel discípulo, a quien Jesús amaba, dijo a Pedro:"
+        },
+        {
+            "id": "jhn21_7b",
+            "speaker": "Discípulos",
+            "verse": 7,
+            "text": "¡Es el Señor! Y cuando Simón Pedro oyó que era el Señor, se ciñó su ropa (porque estaba desnudo), y se echó al mar."
+        },
+        {
+            "id": "jhn21_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y los otros discípulos vinieron en una barca (porque no estaban lejos de tierra, sino como a doscientos codos), trayendo la red con los peces."
+        },
+        {
+            "id": "jhn21_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cuando llegaron a tierra, vieron brasas puestas, y un pez sobre ellas, y pan."
+        },
+        {
+            "id": "jhn21_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Jesús les dijo:"
+        },
+        {
+            "id": "jhn21_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Traed de los peces que pescasteis ahora."
+        },
+        {
+            "id": "jhn21_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Simón Pedro subió, y trajo la red a tierra, llena de grandes peces, ciento cincuenta y tres; y siendo tantos, la red no se rompió."
+        },
+        {
+            "id": "jhn21_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Jesús les dijo:"
+        },
+        {
+            "id": "jhn21_12b",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Venid, comed."
+        },
+        {
+            "id": "jhn21_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y ninguno de los discípulos osaba preguntarle:"
+        },
+        {
+            "id": "jhn21_12d",
+            "speaker": "Discípulos",
+            "verse": 12,
+            "text": "¿Tú, quién eres? Sabiendo que era el Señor."
+        },
+        {
+            "id": "jhn21_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces vino Jesús, y tomó el pan y les dio; y asimismo del pez."
+        },
+        {
+            "id": "jhn21_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Ésta era ya la tercera vez que Jesús se manifestaba a sus discípulos, después de haber resucitado de los muertos."
+        },
+        {
+            "id": "jhn21_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y cuando hubieron comido, Jesús dijo a Simón Pedro:"
+        },
+        {
+            "id": "jhn21_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Simón, hijo de Jonás, ¿me amas más que éstos?"
+        },
+        {
+            "id": "jhn21_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Le respondió:"
+        },
+        {
+            "id": "jhn21_15d",
+            "speaker": "Pedro",
+            "verse": 15,
+            "text": "Sí Señor, tú sabes que te amo."
+        },
+        {
+            "id": "jhn21_15e",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Él le dijo:"
+        },
+        {
+            "id": "jhn21_15f",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Apacienta mis corderos.>"
+        },
+        {
+            "id": "jhn21_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Vuelve a decirle la segunda vez:"
+        },
+        {
+            "id": "jhn21_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Simón, hijo de Jonás, ¿me amas?"
+        },
+        {
+            "id": "jhn21_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Le responde:"
+        },
+        {
+            "id": "jhn21_16d",
+            "speaker": "Pedro",
+            "verse": 16,
+            "text": "Sí, Señor; tú sabes que te amo."
+        },
+        {
+            "id": "jhn21_16e",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Él le dijo:"
+        },
+        {
+            "id": "jhn21_16f",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Apacienta mis ovejas.>"
+        },
+        {
+            "id": "jhn21_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Le dijo la tercera vez:"
+        },
+        {
+            "id": "jhn21_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Simón, hijo de Jonás, ¿me amas?"
+        },
+        {
+            "id": "jhn21_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pedro, entristecido de que le dijese la tercera vez:"
+        },
+        {
+            "id": "jhn21_17d",
+            "speaker": "Pedro",
+            "verse": 17,
+            "text": "¿Me amas?"
+        },
+        {
+            "id": "jhn21_17e",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Le dijo:"
+        },
+        {
+            "id": "jhn21_17f",
+            "speaker": "Pedro",
+            "verse": 17,
+            "text": "Señor, tú sabes todas las cosas; tú sabes que te amo."
+        },
+        {
+            "id": "jhn21_17g",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn21_17h",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Apacienta mis ovejas.>"
+        },
+        {
+            "id": "jhn21_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "De cierto, de cierto te digo: Cuando eras más joven, te ceñías e ibas a donde querías; pero cuando ya seas viejo, extenderás tus manos, y te ceñirá otro, y te llevará a donde no quieras."
+        },
+        {
+            "id": "jhn21_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Esto dijo, dando a entender con qué muerte había de glorificar a Dios. Y dicho esto, le dijo:"
+        },
+        {
+            "id": "jhn21_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Sígueme."
+        },
+        {
+            "id": "jhn21_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces Pedro, volviéndose, ve a aquel discípulo al cual Jesús amaba, que los seguía, el que también se había recostado en su pecho en la cena, y le había dicho:"
+        },
+        {
+            "id": "jhn21_20b",
+            "speaker": "Pedro",
+            "verse": 20,
+            "text": "Señor, ¿quién es el que te va a entregar?"
+        },
+        {
+            "id": "jhn21_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Cuando Pedro lo vio, dijo a Jesús:"
+        },
+        {
+            "id": "jhn21_21b",
+            "speaker": "Pedro",
+            "verse": 21,
+            "text": "Señor, ¿y éste qué?"
+        },
+        {
+            "id": "jhn21_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "jhn21_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Si quiero que él quede hasta que yo venga, ¿qué a ti? Tú sígueme."
+        },
+        {
+            "id": "jhn21_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Salió entonces este dicho entre los hermanos, que aquel discípulo no moriría. Pero Jesús no le dijo:"
+        },
+        {
+            "id": "jhn21_23b",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "No morirá."
+        },
+        {
+            "id": "jhn21_23c",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Sino: Si quiero que él quede hasta que yo venga ¿qué a ti?"
+        },
+        {
+            "id": "jhn21_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Éste es el discípulo que da testimonio de estas cosas, y escribió estas cosas; y sabemos que su testimonio es verdadero."
+        },
+        {
+            "id": "jhn21_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y hay también muchas otras cosas que Jesús hizo, las cuales si se escribiesen una por una, pienso que ni aun en el mundo cabrían los libros que se habrían de escribir. Amén."
+        }
+    ]
+}

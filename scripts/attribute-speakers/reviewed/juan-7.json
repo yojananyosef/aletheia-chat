@@ -1,0 +1,116 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "d",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 45,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.8
+  },
+  {
+    "verse": 46,
+    "subId": "b",
+    "speaker": "Alguaciles",
+    "confidence": 0.8
+  },
+  {
+    "verse": 52,
+    "subId": "b",
+    "speaker": "Fariseos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 51,
+    "subId": "",
+    "speaker": "Nicodemo",
+    "confidence": 0.85
+  }
+]

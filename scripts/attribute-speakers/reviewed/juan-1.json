@@ -1,0 +1,146 @@
+[
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "d",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "f",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.9
+  },
+  {
+    "verse": 38,
+    "subId": "d",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Andrés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 45,
+    "subId": "b",
+    "speaker": "Felipe",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "b",
+    "speaker": "Natanael",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "d",
+    "speaker": "Felipe",
+    "confidence": 0.85
+  },
+  {
+    "verse": 48,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Natanael",
+    "confidence": 0.85
+  },
+  {
+    "verse": 51,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 47,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  }
+]

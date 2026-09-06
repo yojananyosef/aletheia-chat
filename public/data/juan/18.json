@@ -1,0 +1,475 @@
+{
+    "book": "Juan",
+    "chapter": 18,
+    "title": "Juan 18",
+    "messages": [
+        {
+            "id": "jhn18_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Cuando Jesús hubo dicho estas palabras, salió con sus discípulos al otro lado del arroyo de Cedrón, donde había un huerto, en el cual Él entró, y sus discípulos."
+        },
+        {
+            "id": "jhn18_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y también Judas, el que le entregaba, conocía aquel lugar; porque Jesús muchas veces se había reunido allí con sus discípulos."
+        },
+        {
+            "id": "jhn18_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces Judas, tomando una compañía y alguaciles de los principales sacerdotes y de los fariseos, vino allí con linternas y antorchas, y con armas."
+        },
+        {
+            "id": "jhn18_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pero Jesús, sabiendo todas las cosas que habían de venir sobre Él, salió y les dijo:"
+        },
+        {
+            "id": "jhn18_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "¿A quién buscáis?"
+        },
+        {
+            "id": "jhn18_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Le respondieron:"
+        },
+        {
+            "id": "jhn18_5b",
+            "speaker": "Soldados",
+            "verse": 5,
+            "text": "A Jesús de Nazaret."
+        },
+        {
+            "id": "jhn18_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Jesús les dijo:"
+        },
+        {
+            "id": "jhn18_5d",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Yo soy. Y Judas, el que le entregaba, también estaba con ellos."
+        },
+        {
+            "id": "jhn18_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y cuando Él les dijo:"
+        },
+        {
+            "id": "jhn18_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Yo soy."
+        },
+        {
+            "id": "jhn18_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Retrocedieron y cayeron a tierra."
+        },
+        {
+            "id": "jhn18_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces les volvió a preguntar:"
+        },
+        {
+            "id": "jhn18_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "¿A quién buscáis?"
+        },
+        {
+            "id": "jhn18_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "jhn18_7d",
+            "speaker": "Soldados",
+            "verse": 7,
+            "text": "A Jesús de Nazaret."
+        },
+        {
+            "id": "jhn18_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Respondió Jesús:"
+        },
+        {
+            "id": "jhn18_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Os he dicho que yo soy; pues si me buscáis a mí, dejad ir a éstos;"
+        },
+        {
+            "id": "jhn18_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Para que se cumpliese la palabra que había dicho:"
+        },
+        {
+            "id": "jhn18_9b",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "De los que me diste, no perdí ninguno."
+        },
+        {
+            "id": "jhn18_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Simón Pedro, que tenía una espada, la sacó, e hirió a un siervo del sumo sacerdote, y le cortó la oreja derecha. Y el siervo se llamaba Malco."
+        },
+        {
+            "id": "jhn18_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces Jesús dijo a Pedro:"
+        },
+        {
+            "id": "jhn18_11b",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "Mete tu espada en la vaina; la copa que mi Padre me ha dado, ¿no la he de beber?"
+        },
+        {
+            "id": "jhn18_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces la compañía y el tribuno y alguaciles de los judíos, prendieron a Jesús, y le ataron."
+        },
+        {
+            "id": "jhn18_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "y le llevaron primero a Anás, porque era suegro de Caifás, que era el sumo sacerdote aquel año."
+        },
+        {
+            "id": "jhn18_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Caifás era el que había dado el consejo a los judíos, de que convenía que un hombre muriese por el pueblo."
+        },
+        {
+            "id": "jhn18_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Simón Pedro seguía a Jesús, y también otro discípulo; y aquel discípulo era conocido del sumo sacerdote, y entró con Jesús al patio del sumo sacerdote."
+        },
+        {
+            "id": "jhn18_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas Pedro estaba fuera, a la puerta. Entonces salió aquel discípulo que era conocido del sumo sacerdote, y habló a la criada que guardaba la puerta, y metió dentro a Pedro."
+        },
+        {
+            "id": "jhn18_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces la criada que guardaba la puerta, dijo a Pedro:"
+        },
+        {
+            "id": "jhn18_17b",
+            "speaker": "Criada",
+            "verse": 17,
+            "text": "¿No eres tú también de los discípulos de este hombre?"
+        },
+        {
+            "id": "jhn18_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Él dijo:"
+        },
+        {
+            "id": "jhn18_17d",
+            "speaker": "Pedro",
+            "verse": 17,
+            "text": "No soy."
+        },
+        {
+            "id": "jhn18_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y los siervos y los alguaciles que habían encendido unas brasas, porque hacía frío, estaban de pie y se calentaban; y Pedro también estaba con ellos de pie, calentándose."
+        },
+        {
+            "id": "jhn18_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y el sumo sacerdote preguntó a Jesús acerca de sus discípulos y de su doctrina."
+        },
+        {
+            "id": "jhn18_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Jesús le respondió:"
+        },
+        {
+            "id": "jhn18_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Yo manifiestamente he hablado al mundo; yo siempre he enseñado en la sinagoga y en el templo, donde siempre se reúnen los judíos, y nada he hablado en oculto."
+        },
+        {
+            "id": "jhn18_21",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "¿Por qué me preguntas a mí? Pregunta a los que me han oído, qué les haya yo hablado; he aquí, ellos saben lo que yo he dicho."
+        },
+        {
+            "id": "jhn18_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y cuando Él hubo dicho esto, uno de los alguaciles que estaba allí, dio una bofetada a Jesús, diciendo:"
+        },
+        {
+            "id": "jhn18_22b",
+            "speaker": "Alguaciles",
+            "verse": 22,
+            "text": "¿Así respondes al sumo sacerdote?"
+        },
+        {
+            "id": "jhn18_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Le respondió Jesús:"
+        },
+        {
+            "id": "jhn18_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Si he hablado mal, da testimonio del mal; y si bien, ¿por qué me hieres?"
+        },
+        {
+            "id": "jhn18_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Anás le envió atado a Caifás, el sumo sacerdote."
+        },
+        {
+            "id": "jhn18_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y estaba Pedro en pie, calentándose. Y le dijeron:"
+        },
+        {
+            "id": "jhn18_25b",
+            "speaker": "Pedro",
+            "verse": 25,
+            "text": "¿No eres tú también uno de sus discípulos?"
+        },
+        {
+            "id": "jhn18_25c",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Él negó, y dijo:"
+        },
+        {
+            "id": "jhn18_25d",
+            "speaker": "Pedro",
+            "verse": 25,
+            "text": "No soy."
+        },
+        {
+            "id": "jhn18_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Uno de los siervos del sumo sacerdote, pariente de aquél a quien Pedro había cortado la oreja, le dijo:"
+        },
+        {
+            "id": "jhn18_26b",
+            "speaker": "Criado",
+            "verse": 26,
+            "text": "¿No te vi yo en el huerto con Él?"
+        },
+        {
+            "id": "jhn18_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Pedro negó otra vez; y en seguida cantó el gallo."
+        },
+        {
+            "id": "jhn18_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y llevaron a Jesús de Caifás al pretorio; y era de mañana; y ellos no entraron al pretorio para no ser contaminados, y así poder comer la pascua."
+        },
+        {
+            "id": "jhn18_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Entonces Pilato salió a ellos, y dijo:"
+        },
+        {
+            "id": "jhn18_29b",
+            "speaker": "Pilato",
+            "verse": 29,
+            "text": "¿Qué acusación traéis contra este hombre?"
+        },
+        {
+            "id": "jhn18_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Respondieron y le dijeron:"
+        },
+        {
+            "id": "jhn18_30b",
+            "speaker": "Judíos",
+            "verse": 30,
+            "text": "Si Éste no fuera malhechor, no te lo habríamos entregado."
+        },
+        {
+            "id": "jhn18_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces Pilato les dijo:"
+        },
+        {
+            "id": "jhn18_31b",
+            "speaker": "Pilato",
+            "verse": 31,
+            "text": "Tomadle vosotros, y juzgadle según vuestra ley."
+        },
+        {
+            "id": "jhn18_31c",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y los judíos le dijeron:"
+        },
+        {
+            "id": "jhn18_31d",
+            "speaker": "Judíos",
+            "verse": 31,
+            "text": "A nosotros no nos es lícito dar muerte a nadie;"
+        },
+        {
+            "id": "jhn18_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "para que se cumpliese la palabra de Jesús, que había dicho, indicando de qué muerte había de morir."
+        },
+        {
+            "id": "jhn18_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces Pilato entró de nuevo al pretorio, y llamó a Jesús y le dijo:"
+        },
+        {
+            "id": "jhn18_33b",
+            "speaker": "Pilato",
+            "verse": 33,
+            "text": "¿Eres tú el Rey de los judíos?"
+        },
+        {
+            "id": "jhn18_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Jesús le respondió:"
+        },
+        {
+            "id": "jhn18_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "¿Dices tú esto de ti mismo, o te lo han dicho otros de mí?"
+        },
+        {
+            "id": "jhn18_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Pilato respondió:"
+        },
+        {
+            "id": "jhn18_35b",
+            "speaker": "Pilato",
+            "verse": 35,
+            "text": "¿Soy yo judío? Tu nación misma, y los principales sacerdotes, te han entregado a mí. ¿Qué has hecho?"
+        },
+        {
+            "id": "jhn18_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Respondió Jesús:"
+        },
+        {
+            "id": "jhn18_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Mi reino no es de este mundo; si mi reino fuera de este mundo, mis servidores pelearían para que yo no fuera entregado a los judíos; pero ahora mi reino no es de aquí."
+        },
+        {
+            "id": "jhn18_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Pilato entonces le dijo:"
+        },
+        {
+            "id": "jhn18_37b",
+            "speaker": "Pilato",
+            "verse": 37,
+            "text": "¿Acaso, eres tú rey?"
+        },
+        {
+            "id": "jhn18_37c",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Jesús respondió:"
+        },
+        {
+            "id": "jhn18_37d",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio de la verdad. Todo aquel que es de la verdad, oye mi voz."
+        },
+        {
+            "id": "jhn18_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Pilato le dijo:"
+        },
+        {
+            "id": "jhn18_38b",
+            "speaker": "Pilato",
+            "verse": 38,
+            "text": "¿Qué es la verdad?"
+        },
+        {
+            "id": "jhn18_38c",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y cuando hubo dicho esto, salió otra vez a los judíos, y les dijo:"
+        },
+        {
+            "id": "jhn18_38d",
+            "speaker": "Pilato",
+            "verse": 38,
+            "text": "Ninguna falta hallo en Él."
+        },
+        {
+            "id": "jhn18_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Pero vosotros tenéis la costumbre de que os suelte uno en la pascua: ¿Queréis, pues, que os suelte al Rey de los judíos?"
+        },
+        {
+            "id": "jhn18_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Entonces todos dieron voces otra vez, diciendo:"
+        },
+        {
+            "id": "jhn18_40b",
+            "speaker": "Multitud",
+            "verse": 40,
+            "text": "No a Éste, sino a Barrabás. Y Barrabás era ladrón."
+        }
+    ]
+}

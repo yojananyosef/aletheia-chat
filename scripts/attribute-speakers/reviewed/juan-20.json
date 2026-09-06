@@ -1,0 +1,50 @@
+[
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Ángeles",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "d",
+    "speaker": "María",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "d",
+    "speaker": "María",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "María",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "d",
+    "speaker": "Tomás",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Tomás",
+    "confidence": 0.85
+  }
+]
