@@ -26,12 +26,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | job | 1124 | 802 | 0 | 0 |
 | salmos | 2664 | 148 | 0 | 0 |
 | proverbios | 932 | 889 | 0 | 0 |
+| eclesiastes | 232 | 225 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **26238** | **7544** | **0** | **0** |
+| **total** | **26470** | **7769** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -69,6 +70,14 @@ marcos narrados (1:20-21, 8:1-3, 9:1-3, 9:13-15), marco editorial 25:1 (varones 
 el poema anónimo 31:10-31. Citas intercaladas del dry (17 splits) con doctrina del relator:
 conservan la voz del citador (1:11 Salomón citando a los pecadores). El dry puro era inútil
 aquí (915 Narrador: no hay escenas marcadas); toda la atribución es doctrinal via `reviewed/`.
+
+### Eclesiastés — integración nueva (2026-09-06)
+Libro desbloqueado (232 mensajes, 12 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Voces:
+**Predicador** = la voz primera de Kohelet (1:2-12:8, con sus marcos internos "dijo el
+Predicador"); **Narrador** = el título (1:1) y el epílogo del editor en 3ª persona (12:9-14,
+incl. el veredicto final 12:13-14). Sin oráculos divinos en el libro (Dios siempre en 3ª
+persona; los 12 "Dios" del dry eran falsos positivos de carryover). 21 splits del dry heredan
+la voz circundante.
 
 ## Triaje (estado del tasks.md)
 
