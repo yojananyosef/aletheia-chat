@@ -58,7 +58,7 @@ export type CanonicalSpeaker =
     | 'Anciano' | 'Benjamín'
     | 'Elí' | 'Ana' | 'Elcana' | 'Penina' | 'Ofni' | 'Jonatán'
     | 'Goliat' | 'Abigail' | 'Nabal' | 'Aquís' | 'Doeg' | 'Ahimelec'
-    | 'Gad' | 'Ornán' | 'Jebuseos' | 'Amasai' | 'Abner' | 'Mical' | 'Merab' | 'Agag' | 'Eliab'
+    | 'Gad' | 'Ornán' | 'Jebuseos' | 'Amasai' | 'Abías' | 'Azarías' | 'Hanani' | 'Jahaziel' | 'Eliezer' | 'Amasías' | 'Oded' | 'Necao' | 'Ciro' | 'Cantores' | 'Abner' | 'Mical' | 'Merab' | 'Agag' | 'Eliab'
     | 'Abinadab' | 'Isaí' | 'Egipcio' | 'Amalecita' | 'Escudero' | 'Pitonisa'
     | 'Esposa de Finees' | 'Adivinos' | 'Nahas' | 'Tío de Saúl' | 'Abisai'
     | 'Natán' | 'Joab' | 'Absalón' | 'Isboset' | 'Amnón' | 'Tamar'

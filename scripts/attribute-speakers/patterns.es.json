@@ -2040,6 +2040,36 @@
       "pattern": "moradores\\s+de\\s+jeb[úu]s",
       "speaker": "Jebuseos",
       "confidence": 0.85
+    },
+    {
+      "id": "sayer-abias",
+      "pattern": "(dijo|dijeron|respondi[óo]|habl[óo]|exclam[óo])\\s+ab[íi]as\\b|\\bab[íi]as\\s+(dijo|respondi[óo]|habl[óo])\\b",
+      "speaker": "Abías",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-azarias",
+      "pattern": "(dijo|dijeron|respondi[óo]|habl[óo])\\s+azar[íi]as\\b|\\bazar[íi]as\\s+(dijo|respondi[óo])\\b",
+      "speaker": "Azarías",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-hanani",
+      "pattern": "(vino|dijo)\\s+hanani\\b|\\bhanani\\s+(dijo|respondi[óo])\\b",
+      "speaker": "Hanani",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-amasias",
+      "pattern": "(dijo|respondi[óo]|habl[óo])\\s+amas[íi]as\\b|\\bamas[íi]as\\s+(dijo|respondi[óo])\\b",
+      "speaker": "Amasías",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-ciro",
+      "pattern": "as[íi]\\s+dice\\s+ciro\\b|\\bciro,\\s+rey\\s+de\\s+persia",
+      "speaker": "Ciro",
+      "confidence": 0.9
     }
   ],
   "aliases": {
