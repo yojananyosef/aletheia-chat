@@ -1,0 +1,253 @@
+{
+    "book": "2 Samuel",
+    "chapter": 11,
+    "title": "2 Samuel 11",
+    "messages": [
+        {
+            "id": "2sa11_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció a la vuelta del año, en el tiempo que salen los reyes a la batalla, que David envió a Joab, y a sus siervos con él, y a todo Israel; y destruyeron a los hijos de Amón, y pusieron sitio a Rabá. Pero David se quedó en Jerusalén."
+        },
+        {
+            "id": "2sa11_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y sucedió que levantándose David de su cama a la hora de la tarde, se paseaba por el terrado de la casa real, cuando vio desde el terrado a una mujer que se estaba lavando, la cual era muy hermosa."
+        },
+        {
+            "id": "2sa11_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y envió David a preguntar por aquella mujer, y le dijeron:"
+        },
+        {
+            "id": "2sa11_3b",
+            "speaker": "David",
+            "verse": 3,
+            "text": "Aquélla es Betsabé hija de Eliam, esposa de Urías heteo."
+        },
+        {
+            "id": "2sa11_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y envió David mensajeros, y la tomó; y así que hubo entrado a él, él se acostó con ella; pues ella estaba purificada de su inmundicia. Y ella regresó a su casa."
+        },
+        {
+            "id": "2sa11_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y concibió la mujer, y envió a hacerlo saber a David, diciendo:"
+        },
+        {
+            "id": "2sa11_5b",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Yo estoy encinta."
+        },
+        {
+            "id": "2sa11_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces David envió a decir a Joab:"
+        },
+        {
+            "id": "2sa11_6b",
+            "speaker": "David",
+            "verse": 6,
+            "text": "Envíame a Urías heteo. Y lo envió Joab a David."
+        },
+        {
+            "id": "2sa11_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando Urías vino a él, le preguntó David por la salud de Joab, y por la salud del pueblo, y asimismo de la guerra."
+        },
+        {
+            "id": "2sa11_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Después dijo David a Urías:"
+        },
+        {
+            "id": "2sa11_8b",
+            "speaker": "David",
+            "verse": 8,
+            "text": "Desciende a tu casa, y lava tus pies. Y saliendo Urías de casa del rey, vino tras de él comida real."
+        },
+        {
+            "id": "2sa11_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero Urías durmió a la puerta de la casa del rey con todos los siervos de su señor, y no descendió a su casa."
+        },
+        {
+            "id": "2sa11_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "E hicieron saber esto a David, diciendo:"
+        },
+        {
+            "id": "2sa11_10b",
+            "speaker": "David",
+            "verse": 10,
+            "text": "Urías no ha descendido a su casa."
+        },
+        {
+            "id": "2sa11_10c",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dijo David a Urías:"
+        },
+        {
+            "id": "2sa11_10d",
+            "speaker": "David",
+            "verse": 10,
+            "text": "¿No has venido de camino? ¿Por qué, pues, no descendiste a tu casa?"
+        },
+        {
+            "id": "2sa11_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Urías respondió a David:"
+        },
+        {
+            "id": "2sa11_11b",
+            "speaker": "Urías",
+            "verse": 11,
+            "text": "El arca, e Israel y Judá, están debajo de tiendas; y mi señor Joab, y los siervos de mi señor, en el campo; ¿y había yo de entrar en mi casa para comer y beber, y a dormir con mi esposa? Por vida tuya, y por vida de tu alma, que yo no haré tal cosa."
+        },
+        {
+            "id": "2sa11_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y David dijo a Urías:"
+        },
+        {
+            "id": "2sa11_12b",
+            "speaker": "David",
+            "verse": 12,
+            "text": "Quédate aquí aún hoy, y mañana te despacharé. Y se quedó Urías en Jerusalén aquel día y el siguiente."
+        },
+        {
+            "id": "2sa11_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y David lo convidó, y le hizo comer y beber delante de sí, hasta embriagarlo. Y él salió a la tarde a dormir en su cama con los siervos de su señor; mas no descendió a su casa."
+        },
+        {
+            "id": "2sa11_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Venida la mañana, escribió David a Joab una carta, la cual envió por mano de Urías."
+        },
+        {
+            "id": "2sa11_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y escribió en la carta, diciendo:"
+        },
+        {
+            "id": "2sa11_15b",
+            "speaker": "David",
+            "verse": 15,
+            "text": "Poned a Urías al frente, en lo más duro de la batalla, y retiraos de él, para que sea herido y muera."
+        },
+        {
+            "id": "2sa11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y aconteció que cuando Joab sitió la ciudad, puso a Urías en el lugar donde sabía que estaban los hombres más valientes."
+        },
+        {
+            "id": "2sa11_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y saliendo luego los de la ciudad, pelearon contra Joab, y cayeron algunos del pueblo de los siervos de David; y murió también Urías heteo."
+        },
+        {
+            "id": "2sa11_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces envió Joab, e hizo saber a David todo lo concerniente a la guerra."
+        },
+        {
+            "id": "2sa11_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y mandó al mensajero, diciendo:"
+        },
+        {
+            "id": "2sa11_19b",
+            "speaker": "David",
+            "verse": 19,
+            "text": "Cuando acabares de contar al rey todos los asuntos de la guerra,"
+        },
+        {
+            "id": "2sa11_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Si el rey comenzare a enojarse, y te dijere:"
+        },
+        {
+            "id": "2sa11_20b",
+            "speaker": "David",
+            "verse": 20,
+            "text": "¿Por qué os acercasteis tanto a la ciudad cuando peleabais? ¿No sabíais lo que suelen arrojar desde el muro?"
+        },
+        {
+            "id": "2sa11_21",
+            "speaker": "David",
+            "verse": 21,
+            "text": "¿Quién mató a Abimelec, hijo de Jerobaal? ¿No arrojó una mujer desde el muro un pedazo de una rueda de molino, y murió en Tebes? ¿Por qué os acercasteis tanto al muro? Entonces tú le dirás: También tu siervo Urías heteo ha muerto."
+        },
+        {
+            "id": "2sa11_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y fue el mensajero, y llegando, contó a David todas las cosas a que Joab le había enviado."
+        },
+        {
+            "id": "2sa11_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y el mensajero dijo a David:"
+        },
+        {
+            "id": "2sa11_23b",
+            "speaker": "Mensajero",
+            "verse": 23,
+            "text": "Ciertamente prevalecieron contra nosotros los hombres que salieron contra nosotros al campo, bien que nosotros les hicimos retroceder hasta la entrada de la puerta."
+        },
+        {
+            "id": "2sa11_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "pero los arqueros tiraron contra tus siervos desde el muro, y murieron algunos de los siervos del rey; y murió también tu siervo Urías heteo."
+        },
+        {
+            "id": "2sa11_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y David dijo al mensajero:"
+        },
+        {
+            "id": "2sa11_25b",
+            "speaker": "David",
+            "verse": 25,
+            "text": "Así dirás a Joab: No tengas pesar por esto, porque la espada consume, tanto a uno, como a otro: Refuerza tu ataque contra la ciudad, hasta que la rindas. Y tú aliéntalo."
+        },
+        {
+            "id": "2sa11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y oyendo la esposa de Urías que su marido Urías había muerto, hizo duelo por su marido."
+        },
+        {
+            "id": "2sa11_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y pasado el luto, envió David y la trajo a su casa; y ella vino a ser su esposa, y le dio a luz un hijo. Mas esto que David había hecho, fue desagradable ante los ojos de Jehová."
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "book": "2 Samuel",
+    "chapter": 2,
+    "title": "2 Samuel 2",
+    "messages": [
+        {
+            "id": "2sa2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de esto aconteció que David consultó a Jehová, diciendo:"
+        },
+        {
+            "id": "2sa2_1b",
+            "speaker": "David",
+            "verse": 1,
+            "text": "¿Subiré a alguna de las ciudades de Judá?"
+        },
+        {
+            "id": "2sa2_1c",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová le respondió:"
+        },
+        {
+            "id": "2sa2_1d",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Sube."
+        },
+        {
+            "id": "2sa2_1e",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y David volvió a decir:"
+        },
+        {
+            "id": "2sa2_1f",
+            "speaker": "David",
+            "verse": 1,
+            "text": "¿A dónde subiré?"
+        },
+        {
+            "id": "2sa2_1g",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Él le dijo:"
+        },
+        {
+            "id": "2sa2_1h",
+            "speaker": "David",
+            "verse": 1,
+            "text": "A Hebrón."
+        },
+        {
+            "id": "2sa2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y David subió allá, y con él sus dos esposas, Ahinoam jezreelita y Abigail, la esposa de Nabal el del Carmelo."
+        },
+        {
+            "id": "2sa2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y llevó también David consigo los hombres que con él habían estado, cada uno con su familia; los cuales moraron en las ciudades de Hebrón."
+        },
+        {
+            "id": "2sa2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y vinieron los varones de Judá, y ungieron allí a David por rey sobre la casa de Judá. Y dieron aviso a David, diciendo:"
+        },
+        {
+            "id": "2sa2_4b",
+            "speaker": "Judá",
+            "verse": 4,
+            "text": "Los de Jabes de Galaad son los que sepultaron a Saúl."
+        },
+        {
+            "id": "2sa2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y envió David mensajeros a los de Jabes de Galaad, diciéndoles:"
+        },
+        {
+            "id": "2sa2_5b",
+            "speaker": "David",
+            "verse": 5,
+            "text": "Benditos seáis vosotros de Jehová, que habéis hecho esta misericordia con vuestro señor Saúl en haberle dado sepultura."
+        },
+        {
+            "id": "2sa2_6",
+            "speaker": "David",
+            "verse": 6,
+            "text": "Ahora pues, Jehová haga con vosotros misericordia y verdad; y yo también os haré bien por esto que habéis hecho."
+        },
+        {
+            "id": "2sa2_7",
+            "speaker": "David",
+            "verse": 7,
+            "text": "Esfuércense, pues, ahora vuestras manos, y sed valientes; pues que muerto Saúl vuestro señor, los de la casa de Judá me han ungido por rey sobre ellos."
+        },
+        {
+            "id": "2sa2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas Abner, hijo de Ner, general del ejército de Saúl, tomó a Isboset, hijo de Saúl, y lo llevó a Mahanaim,"
+        },
+        {
+            "id": "2sa2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "y lo hizo rey sobre Galaad, y sobre Aser, y sobre Jezreel, y sobre Efraín, y sobre Benjamín, y sobre todo Israel."
+        },
+        {
+            "id": "2sa2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "De cuarenta años era Isboset, hijo de Saúl, cuando comenzó a reinar sobre Israel; y reinó dos años. Pero la casa de Judá siguió a David."
+        },
+        {
+            "id": "2sa2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y fue el número de los días que David reinó en Hebrón sobre la casa de Judá, siete años y seis meses."
+        },
+        {
+            "id": "2sa2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Abner, hijo de Ner salió de Mahanaim a Gabaón con los siervos de Isboset, hijo de Saúl."
+        },
+        {
+            "id": "2sa2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Joab, hijo de Sarvia, y los siervos de David, salieron y los encontraron junto al estanque de Gabaón: y se sentaron los unos a un lado del estanque, y los otros al otro lado del estanque."
+        },
+        {
+            "id": "2sa2_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y dijo Abner a Joab:"
+        },
+        {
+            "id": "2sa2_14b",
+            "speaker": "Abner",
+            "verse": 14,
+            "text": "Levántense ahora los jóvenes, y maniobren delante de nosotros."
+        },
+        {
+            "id": "2sa2_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Joab respondió:"
+        },
+        {
+            "id": "2sa2_14d",
+            "speaker": "Joab",
+            "verse": 14,
+            "text": "Levántense."
+        },
+        {
+            "id": "2sa2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces se levantaron, y en número de doce, pasaron de Benjamín de la parte de Isboset, hijo de Saúl; y doce de los siervos de David."
+        },
+        {
+            "id": "2sa2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y cada uno echó mano de la cabeza de su compañero, y lmetió su espada por el costado de su compañero, cayendo así a una; por lo que fue llamado aquel lugar, Helcat-asurim, el cual está en Gabaón."
+        },
+        {
+            "id": "2sa2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y hubo aquel día una batalla muy recia, y Abner y los hombres de Israel fueron vencidos por los siervos de David."
+        },
+        {
+            "id": "2sa2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y estaban allí los tres hijos de Sarvia: Joab, y Abisai y Asael. Este Asael era tan ligero de pies como una gacela del campo."
+        },
+        {
+            "id": "2sa2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Asael persiguió a Abner, yendo tras de él sin apartarse ni a derecha ni a izquierda de seguir a Abner."
+        },
+        {
+            "id": "2sa2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Abner miró atrás, y dijo:"
+        },
+        {
+            "id": "2sa2_20b",
+            "speaker": "Abner",
+            "verse": 20,
+            "text": "¿No eres tú Asael?"
+        },
+        {
+            "id": "2sa2_20c",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa2_20d",
+            "speaker": "Asael",
+            "verse": 20,
+            "text": "Sí."
+        },
+        {
+            "id": "2sa2_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Abner le dijo:"
+        },
+        {
+            "id": "2sa2_21b",
+            "speaker": "Abner",
+            "verse": 21,
+            "text": "Apártate a la derecha o a la izquierda, y agárrate alguno de los jóvenes, y toma para ti sus despojos. Pero Asael no quiso apartarse de en pos de él."
+        },
+        {
+            "id": "2sa2_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Abner volvió a decir a Asael:"
+        },
+        {
+            "id": "2sa2_22b",
+            "speaker": "Abner",
+            "verse": 22,
+            "text": "Apártate de en pos de mí, porque te heriré derribándote en tierra, y después ¿cómo levantaré mi rostro a tu hermano Joab?"
+        },
+        {
+            "id": "2sa2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y no queriendo él irse, lo hirió Abner con el regatón de la lanza por la quinta costilla, y le salió la lanza por la espalda, y cayó allí, y murió en aquel mismo sitio. Y todos los que pasaban por aquel lugar donde Asael había caído y muerto, se detenían."
+        },
+        {
+            "id": "2sa2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mas Joab y Abisai siguieron a Abner; y se puso el sol cuando llegaron al collado de Amma, que está delante de Gía, junto al camino del desierto de Gabaón."
+        },
+        {
+            "id": "2sa2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y se juntaron los hijos de Benjamín en un escuadrón con Abner, y se pararon en la cumbre del collado."
+        },
+        {
+            "id": "2sa2_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Abner dio voces a Joab, diciendo:"
+        },
+        {
+            "id": "2sa2_26b",
+            "speaker": "Abner",
+            "verse": 26,
+            "text": "¿Consumirá la espada perpetuamente? ¿No sabes tú que al final será amargura? ¿Hasta cuándo no has de decir al pueblo que se vuelvan de seguir a sus hermanos?"
+        },
+        {
+            "id": "2sa2_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Joab respondió:"
+        },
+        {
+            "id": "2sa2_27b",
+            "speaker": "Joab",
+            "verse": 27,
+            "text": "Vive Dios que si no hubieras hablado, ya desde esta mañana el pueblo hubiera dejado de seguir a sus hermanos."
+        },
+        {
+            "id": "2sa2_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces Joab tocó el cuerno, y todo el pueblo se detuvo, y no siguió más a los de Israel, ni peleó más."
+        },
+        {
+            "id": "2sa2_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Abner y sus hombres caminaron por el Arabá toda aquella noche, y pasando el Jordán cruzaron por todo Bitrón, y llegaron a Mahanaim."
+        },
+        {
+            "id": "2sa2_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Joab también volvió de seguir a Abner, y reuniendo a todo el pueblo, faltaron de los siervos de David diecinueve hombres, y Asael."
+        },
+        {
+            "id": "2sa2_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Mas los siervos de David hirieron de los de Benjamín y de los de Abner, a trescientos sesenta hombres, los cuales murieron."
+        },
+        {
+            "id": "2sa2_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Tomaron luego a Asael, y lo sepultaron en el sepulcro de su padre que estaba en Belén. Y caminaron toda aquella noche Joab y sus hombres, y les amaneció en Hebrón."
+        }
+    ]
+}

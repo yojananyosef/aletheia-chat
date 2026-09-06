@@ -1,0 +1,283 @@
+{
+    "book": "2 Samuel",
+    "chapter": 1,
+    "title": "2 Samuel 1",
+    "messages": [
+        {
+            "id": "2sa1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció después de la muerte de Saúl, que vuelto David de derrotar a los amalecitas, estuvo dos días en Siclag:"
+        },
+        {
+            "id": "2sa1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y al tercer día, aconteció que vino uno del campamento de Saúl, rotas sus vestiduras, y tierra sobre su cabeza; y llegando a David, se postró en tierra, e hizo reverencia."
+        },
+        {
+            "id": "2sa1_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y le preguntó David:"
+        },
+        {
+            "id": "2sa1_3b",
+            "speaker": "David",
+            "verse": 3,
+            "text": "¿De dónde vienes?"
+        },
+        {
+            "id": "2sa1_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa1_3d",
+            "speaker": "Amalecita",
+            "verse": 3,
+            "text": "Me he escapado del campamento de Israel."
+        },
+        {
+            "id": "2sa1_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y David le dijo:"
+        },
+        {
+            "id": "2sa1_4b",
+            "speaker": "David",
+            "verse": 4,
+            "text": "¿Qué ha acontecido? Te ruego que me lo digas."
+        },
+        {
+            "id": "2sa1_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa1_4d",
+            "speaker": "Amalecita",
+            "verse": 4,
+            "text": "El pueblo huyó de la batalla, y también muchos del pueblo cayeron y son muertos; también Saúl y Jonatán su hijo murieron."
+        },
+        {
+            "id": "2sa1_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y dijo David a aquel joven que le daba las nuevas:"
+        },
+        {
+            "id": "2sa1_5b",
+            "speaker": "David",
+            "verse": 5,
+            "text": "¿Cómo sabes que han muerto Saúl y Jonatán su hijo?"
+        },
+        {
+            "id": "2sa1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y el joven que le daba las nuevas respondió:"
+        },
+        {
+            "id": "2sa1_6b",
+            "speaker": "Amalecita",
+            "verse": 6,
+            "text": "Casualmente vine al monte de Gilboa, y hallé a Saúl que estaba recostado sobre su lanza, y venían tras él carros y gente de a caballo."
+        },
+        {
+            "id": "2sa1_7a",
+            "speaker": "Amalecita",
+            "verse": 7,
+            "text": "Y cuando él miró hacia atrás, me vio y me llamó; y yo dije:"
+        },
+        {
+            "id": "2sa1_7b",
+            "speaker": "Amalecita",
+            "verse": 7,
+            "text": "Heme aquí."
+        },
+        {
+            "id": "2sa1_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él me dijo:"
+        },
+        {
+            "id": "2sa1_8b",
+            "speaker": "Amalecita",
+            "verse": 8,
+            "text": "¿Quién eres tú?"
+        },
+        {
+            "id": "2sa1_8c",
+            "speaker": "Amalecita",
+            "verse": 8,
+            "text": "Y yo le respondí:"
+        },
+        {
+            "id": "2sa1_8d",
+            "speaker": "Amalecita",
+            "verse": 8,
+            "text": "Soy amalecita."
+        },
+        {
+            "id": "2sa1_9a",
+            "speaker": "Amalecita",
+            "verse": 9,
+            "text": "Y él me volvió a decir:"
+        },
+        {
+            "id": "2sa1_9b",
+            "speaker": "Amalecita",
+            "verse": 9,
+            "text": "Yo te ruego que te pongas sobre mí y me mates, porque se ha apoderado de mí la angustia, y mi vida aún está toda en mí."
+        },
+        {
+            "id": "2sa1_10",
+            "speaker": "Amalecita",
+            "verse": 10,
+            "text": "Yo entonces me puse sobre él, y lo maté, porque sabía que no podía vivir después de su caída; y tomé la corona que tenía en su cabeza, y el brazalete que traía en su brazo, y los he traído acá a mi señor."
+        },
+        {
+            "id": "2sa1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces David trabando de sus vestiduras, las rasgó; y lo mismo hicieron los hombres que estaban con él."
+        },
+        {
+            "id": "2sa1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y lloraron y lamentaron, y ayunaron hasta la tarde, por Saúl y por Jonatán su hijo, por el pueblo de Jehová y por la casa de Israel, porque habían caído a espada."
+        },
+        {
+            "id": "2sa1_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y David dijo a aquel joven que le había traído las nuevas:"
+        },
+        {
+            "id": "2sa1_13b",
+            "speaker": "David",
+            "verse": 13,
+            "text": "¿De dónde eres tú?"
+        },
+        {
+            "id": "2sa1_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa1_13d",
+            "speaker": "Amalecita",
+            "verse": 13,
+            "text": "Yo soy hijo de un extranjero, amalecita."
+        },
+        {
+            "id": "2sa1_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y le dijo David:"
+        },
+        {
+            "id": "2sa1_14b",
+            "speaker": "David",
+            "verse": 14,
+            "text": "¿Cómo no tuviste temor de extender tu mano para matar al ungido de Jehová?"
+        },
+        {
+            "id": "2sa1_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces llamó David a uno de los jóvenes, y le dijo:"
+        },
+        {
+            "id": "2sa1_15b",
+            "speaker": "David",
+            "verse": 15,
+            "text": "Acércate y mátalo. Y él lo hirió, y murió."
+        },
+        {
+            "id": "2sa1_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y David le dijo:"
+        },
+        {
+            "id": "2sa1_16b",
+            "speaker": "David",
+            "verse": 16,
+            "text": "Tu sangre sea sobre tu cabeza, pues que tu boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová."
+        },
+        {
+            "id": "2sa1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y endechó David a Saúl y a Jonatán su hijo con esta endecha."
+        },
+        {
+            "id": "2sa1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "(Dijo también que enseñasen a usar el arco a los hijos de Judá. He aquí que está escrito en el libro de Jaser)."
+        },
+        {
+            "id": "2sa1_19",
+            "speaker": "David",
+            "verse": 19,
+            "text": "¡Ha perecido la gloria de Israel sobre tus alturas! ¡Cómo han caído los valientes!"
+        },
+        {
+            "id": "2sa1_20",
+            "speaker": "David",
+            "verse": 20,
+            "text": "No lo anunciéis en Gat, no deis las nuevas en las plazas de Ascalón; para que no se alegren las hijas de los filisteos, para que no salten de gozo las hijas de los incircuncisos."
+        },
+        {
+            "id": "2sa1_21",
+            "speaker": "David",
+            "verse": 21,
+            "text": "Montes de Gilboa, ni rocío ni lluvia caiga sobre vosotros, ni seáis tierras de ofrendas; porque allí fue desechado el escudo de los valientes, el escudo de Saúl, como si no hubiera sido ungido con aceite."
+        },
+        {
+            "id": "2sa1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Sin la sangre de los muertos, sin la grosura de valientes, el arco de Jonatán nunca volvió atrás, ni la espada de Saúl volvió vacía."
+        },
+        {
+            "id": "2sa1_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Saúl y Jonatán, amados y queridos en su vida, en su muerte tampoco fueron separados: Más ligeros que águilas, más fuertes que leones."
+        },
+        {
+            "id": "2sa1_24",
+            "speaker": "David",
+            "verse": 24,
+            "text": "Hijas de Israel, llorad por Saúl, que os vestía de escarlata y delicadeza, que adornaba vuestras ropas con ornamentos de oro."
+        },
+        {
+            "id": "2sa1_25",
+            "speaker": "David",
+            "verse": 25,
+            "text": "¡Cómo han caído los valientes en medio de la batalla! ¡Jonatán, muerto en tus alturas!"
+        },
+        {
+            "id": "2sa1_26",
+            "speaker": "David",
+            "verse": 26,
+            "text": "Angustia tengo por ti, hermano mío Jonatán, que me fuiste muy dulce: Más maravilloso me fue tu amor, que el amor de las mujeres."
+        },
+        {
+            "id": "2sa1_27",
+            "speaker": "David",
+            "verse": 27,
+            "text": "¡Cómo han caído los valientes, y han perecido las armas de guerra!"
+        }
+    ]
+}

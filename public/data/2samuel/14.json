@@ -1,0 +1,385 @@
+{
+    "book": "2 Samuel",
+    "chapter": 14,
+    "title": "2 Samuel 14",
+    "messages": [
+        {
+            "id": "2sa14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y conociendo Joab, hijo de Sarvia, que el corazón del rey se inclinaba por Absalón,"
+        },
+        {
+            "id": "2sa14_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Envió Joab a Tecoa, y tomó de allá una mujer astuta, y le dijo:"
+        },
+        {
+            "id": "2sa14_2b",
+            "speaker": "Joab",
+            "verse": 2,
+            "text": "Yo te ruego que finjas tener duelo, y te vistas de ropas de luto, y no te unjas con óleo, antes sé como una mujer que por mucho tiempo ha estado de duelo por algún muerto;"
+        },
+        {
+            "id": "2sa14_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y entra al rey, y habla con él de esta manera. Y puso Joab las palabras en su boca."
+        },
+        {
+            "id": "2sa14_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entró, pues, aquella mujer de Tecoa al rey, y postrándose en tierra sobre su rostro hizo reverencia, y dijo:"
+        },
+        {
+            "id": "2sa14_4b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 4,
+            "text": "Oh rey, salva."
+        },
+        {
+            "id": "2sa14_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el rey dijo:"
+        },
+        {
+            "id": "2sa14_5b",
+            "speaker": "David",
+            "verse": 5,
+            "text": "¿Qué tienes?"
+        },
+        {
+            "id": "2sa14_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "2sa14_5d",
+            "speaker": "Mujer de Tecoa",
+            "verse": 5,
+            "text": "Yo a la verdad soy una mujer viuda y mi marido ha muerto."
+        },
+        {
+            "id": "2sa14_6",
+            "speaker": "Mujer de Tecoa",
+            "verse": 6,
+            "text": "Y tu sierva tenía dos hijos y los dos riñeron en el campo; y no habiendo quien los separase, hirió el uno al otro, y lo mató."
+        },
+        {
+            "id": "2sa14_7a",
+            "speaker": "Mujer de Tecoa",
+            "verse": 7,
+            "text": "Y he aquí toda la familia se ha levantado contra tu sierva, diciendo:"
+        },
+        {
+            "id": "2sa14_7b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 7,
+            "text": "Entrega al que mató a su hermano, para que le hagamos morir por la vida de su hermano a quien él mató, y quitemos también el heredero. Así apagarán el ascua que me ha quedado, no dejando a mi marido nombre ni remanente sobre la tierra."
+        },
+        {
+            "id": "2sa14_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces el rey dijo a la mujer:"
+        },
+        {
+            "id": "2sa14_8b",
+            "speaker": "David",
+            "verse": 8,
+            "text": "Vete a tu casa, y yo daré orden acerca de ti."
+        },
+        {
+            "id": "2sa14_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y la mujer de Tecoa dijo al rey:"
+        },
+        {
+            "id": "2sa14_9b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 9,
+            "text": "Rey señor mío, la maldad sea sobre mí y sobre la casa de mi padre; mas el rey y su trono sean sin culpa."
+        },
+        {
+            "id": "2sa14_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el rey dijo:"
+        },
+        {
+            "id": "2sa14_10b",
+            "speaker": "David",
+            "verse": 10,
+            "text": "Al que hablare contra ti, tráelo a mí, que no te tocará más."
+        },
+        {
+            "id": "2sa14_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Dijo ella entonces:"
+        },
+        {
+            "id": "2sa14_11b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 11,
+            "text": "Te ruego, oh rey, que te acuerdes de Jehová tu Dios, que no dejes a los cercanos de la sangre aumentar el daño con destruir a mi hijo."
+        },
+        {
+            "id": "2sa14_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa14_11d",
+            "speaker": "David",
+            "verse": 11,
+            "text": "Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra."
+        },
+        {
+            "id": "2sa14_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y la mujer dijo:"
+        },
+        {
+            "id": "2sa14_12b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 12,
+            "text": "Te ruego que hable tu sierva una palabra a mi señor el rey."
+        },
+        {
+            "id": "2sa14_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2sa14_12d",
+            "speaker": "David",
+            "verse": 12,
+            "text": "Habla."
+        },
+        {
+            "id": "2sa14_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces la mujer dijo:"
+        },
+        {
+            "id": "2sa14_13b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 13,
+            "text": "¿Por qué, pues, has pensado tú cosa semejante contra el pueblo de Dios? porque al hablar el rey esta palabra se hace culpable él mismo, ya que el rey no hace volver a su fugitivo."
+        },
+        {
+            "id": "2sa14_14",
+            "speaker": "Mujer de Tecoa",
+            "verse": 14,
+            "text": "Porque de cierto morimos, y somos como aguas derramadas en la tierra, que no pueden volver a recogerse; y Dios no hace acepción de personas, sino que provee los medios para que su desterrado no quede alejado de Él."
+        },
+        {
+            "id": "2sa14_15a",
+            "speaker": "Mujer de Tecoa",
+            "verse": 15,
+            "text": "Y el que yo haya venido ahora para decir esto al rey mi señor, se debe a que el pueblo me atemorizó. Mas tu sierva dijo:"
+        },
+        {
+            "id": "2sa14_15b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 15,
+            "text": "Hablaré ahora al rey; quizá él hará lo que su sierva diga."
+        },
+        {
+            "id": "2sa14_16",
+            "speaker": "Mujer de Tecoa",
+            "verse": 16,
+            "text": "Pues el rey oirá, para librar a su sierva de la mano del hombre que me quiere destruir a mí, y a mi hijo juntamente, de la heredad de Dios."
+        },
+        {
+            "id": "2sa14_17a",
+            "speaker": "Mujer de Tecoa",
+            "verse": 17,
+            "text": "Tu sierva, pues, dice:"
+        },
+        {
+            "id": "2sa14_17b",
+            "speaker": "Mujer de Tecoa",
+            "verse": 17,
+            "text": "Que la palabra de mi señor el rey sea para consuelo; pues que mi señor el rey es como un ángel de Dios para escuchar lo bueno y lo malo. Así Jehová tu Dios sea contigo."
+        },
+        {
+            "id": "2sa14_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces él respondió, y dijo a la mujer:"
+        },
+        {
+            "id": "2sa14_18b",
+            "speaker": "David",
+            "verse": 18,
+            "text": "Yo te ruego que no me encubras nada de lo que yo te preguntare."
+        },
+        {
+            "id": "2sa14_18c",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y la mujer dijo:"
+        },
+        {
+            "id": "2sa14_18d",
+            "speaker": "Mujer de Tecoa",
+            "verse": 18,
+            "text": "Hable mi señor el rey."
+        },
+        {
+            "id": "2sa14_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y el rey dijo:"
+        },
+        {
+            "id": "2sa14_19b",
+            "speaker": "David",
+            "verse": 19,
+            "text": "¿No está contigo la mano de Joab en todas estas cosas?"
+        },
+        {
+            "id": "2sa14_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y la mujer respondió y dijo:"
+        },
+        {
+            "id": "2sa14_19d",
+            "speaker": "Mujer de Tecoa",
+            "verse": 19,
+            "text": "Vive tu alma, rey señor mío, que no hay que apartarse a derecha ni a izquierda de todo lo que mi señor el rey ha hablado; porque tu siervo Joab, él me mandó, y él puso en boca de tu sierva todas estas palabras."
+        },
+        {
+            "id": "2sa14_20",
+            "speaker": "Mujer de Tecoa",
+            "verse": 20,
+            "text": "Para mudar el aspecto de las cosas, Joab tu siervo ha hecho esto; mas mi señor es sabio, conforme a la sabiduría de un ángel de Dios, para conocer todo lo que hay en la tierra."
+        },
+        {
+            "id": "2sa14_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces el rey dijo a Joab:"
+        },
+        {
+            "id": "2sa14_21b",
+            "speaker": "David",
+            "verse": 21,
+            "text": "He aquí yo hago esto: ve, y haz volver al joven Absalón."
+        },
+        {
+            "id": "2sa14_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Joab se postró en tierra sobre su rostro, e hizo reverencia, y después que bendijo al rey, dijo:"
+        },
+        {
+            "id": "2sa14_22b",
+            "speaker": "Joab",
+            "verse": 22,
+            "text": "Hoy ha entendido tu siervo que he hallado gracia en tus ojos, rey señor mío; pues que ha hecho el rey lo que su siervo ha dicho."
+        },
+        {
+            "id": "2sa14_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Se levantó luego Joab, y fue a Gesur, y volvió a Absalón a Jerusalén."
+        },
+        {
+            "id": "2sa14_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mas el rey dijo:"
+        },
+        {
+            "id": "2sa14_24b",
+            "speaker": "David",
+            "verse": 24,
+            "text": "Váyase a su casa, y no vea mi rostro. Y se volvió Absalón a su casa, y no vio el rostro del rey."
+        },
+        {
+            "id": "2sa14_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y no había en todo Israel ninguno tan alabado por su hermosura como Absalón; desde la planta de su pie hasta la coronilla no había en él defecto."
+        },
+        {
+            "id": "2sa14_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y cuando se cortaba el cabello (lo cual hacía al fin de cada año, pues le causaba molestia, y por eso se lo cortaba), pesaba el cabello de su cabeza doscientos siclos de peso real."
+        },
+        {
+            "id": "2sa14_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y le nacieron a Absalón tres hijos, y una hija que se llamó Tamar. Ella era una mujer de hermoso semblante."
+        },
+        {
+            "id": "2sa14_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y estuvo Absalón por espacio de dos años en Jerusalén, y no vio la cara del rey."
+        },
+        {
+            "id": "2sa14_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y mandó Absalón por Joab, para enviarlo al rey; mas no quiso venir a él; y envió aun por segunda vez, y no quiso venir."
+        },
+        {
+            "id": "2sa14_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces dijo a sus siervos:"
+        },
+        {
+            "id": "2sa14_30b",
+            "speaker": "Absalón",
+            "verse": 30,
+            "text": "Mirad, el campo de Joab está junto al mío, y tiene allí cebada; id, y prendedle fuego; y los siervos de Absalón prendieron fuego al campo."
+        },
+        {
+            "id": "2sa14_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Se levantó por tanto Joab, y vino a casa de Absalón, y le dijo:"
+        },
+        {
+            "id": "2sa14_31b",
+            "speaker": "Joab",
+            "verse": 31,
+            "text": "¿Por qué han prendido fuego tus siervos a mi campo?"
+        },
+        {
+            "id": "2sa14_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y Absalón respondió a Joab:"
+        },
+        {
+            "id": "2sa14_32b",
+            "speaker": "Absalón",
+            "verse": 32,
+            "text": "He aquí, yo he enviado por ti, diciendo que vinieses acá, a fin de enviarte yo al rey a que le dijeses: ¿Para qué vine de Gesur? Mejor me fuera estar aún allá. Vea yo ahora el rostro del rey; y si hay en mí pecado, máteme."
+        },
+        {
+            "id": "2sa14_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Vino, pues, Joab al rey, y se lo hizo saber. Entonces llamó a Absalón, el cual vino al rey, e inclinó su rostro a tierra delante del rey; y el rey besó a Absalón."
+        }
+    ]
+}

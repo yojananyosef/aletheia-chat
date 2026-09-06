@@ -1,0 +1,187 @@
+{
+    "book": "2 Samuel",
+    "chapter": 9,
+    "title": "2 Samuel 9",
+    "messages": [
+        {
+            "id": "2sa9_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y dijo David:"
+        },
+        {
+            "id": "2sa9_1b",
+            "speaker": "David",
+            "verse": 1,
+            "text": "¿Ha quedado alguno de la casa de Saúl, a quien yo haga misericordia por amor a Jonatán?"
+        },
+        {
+            "id": "2sa9_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y había un siervo de la casa de Saúl, que se llamaba Siba. Y cuando le llamaron para que viniese a David, el rey le dijo:"
+        },
+        {
+            "id": "2sa9_2b",
+            "speaker": "Siba",
+            "verse": 2,
+            "text": "¿Eres tú Siba?"
+        },
+        {
+            "id": "2sa9_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa9_2d",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Tu siervo."
+        },
+        {
+            "id": "2sa9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y el rey dijo:"
+        },
+        {
+            "id": "2sa9_3b",
+            "speaker": "David",
+            "verse": 3,
+            "text": "¿No ha quedado nadie de la casa de Saúl, a quien haga yo misericordia de Dios?"
+        },
+        {
+            "id": "2sa9_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Siba respondió al rey:"
+        },
+        {
+            "id": "2sa9_3d",
+            "speaker": "Siba",
+            "verse": 3,
+            "text": "Aún ha quedado un hijo de Jonatán, lisiado de los pies."
+        },
+        {
+            "id": "2sa9_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces el rey le dijo:"
+        },
+        {
+            "id": "2sa9_4b",
+            "speaker": "David",
+            "verse": 4,
+            "text": "¿Y ése dónde está?"
+        },
+        {
+            "id": "2sa9_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Siba respondió al rey:"
+        },
+        {
+            "id": "2sa9_4d",
+            "speaker": "Siba",
+            "verse": 4,
+            "text": "He aquí, está en casa de Maquir, hijo de Amiel, en Lodebar."
+        },
+        {
+            "id": "2sa9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y envió el rey David, y lo tomó de casa de Maquir, hijo de Amiel, de Lodebar."
+        },
+        {
+            "id": "2sa9_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Mefiboset, hijo de Jonatán, hijo de Saúl, vino a David, y se postró sobre su rostro e hizo reverencia. Y dijo David:"
+        },
+        {
+            "id": "2sa9_6b",
+            "speaker": "David",
+            "verse": 6,
+            "text": "Mefiboset."
+        },
+        {
+            "id": "2sa9_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2sa9_6d",
+            "speaker": "Mefiboset",
+            "verse": 6,
+            "text": "He aquí tu siervo."
+        },
+        {
+            "id": "2sa9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y le dijo David:"
+        },
+        {
+            "id": "2sa9_7b",
+            "speaker": "David",
+            "verse": 7,
+            "text": "No tengas temor, porque yo a la verdad haré contigo misericordia por amor a Jonatán, tu padre, y te devolveré todas las tierras de Saúl tu padre; y tú comerás pan a mi mesa, siempre."
+        },
+        {
+            "id": "2sa9_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él inclinándose, dijo:"
+        },
+        {
+            "id": "2sa9_8b",
+            "speaker": "Mefiboset",
+            "verse": 8,
+            "text": "¿Quién es tu siervo, para que mires a un perro muerto como yo?"
+        },
+        {
+            "id": "2sa9_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces el rey llamó a Siba, siervo de Saúl, y le dijo:"
+        },
+        {
+            "id": "2sa9_9b",
+            "speaker": "David",
+            "verse": 9,
+            "text": "Todo lo que fue de Saúl y de toda su casa, yo lo he dado al hijo de tu señor."
+        },
+        {
+            "id": "2sa9_10",
+            "speaker": "David",
+            "verse": 10,
+            "text": "Tú, pues, le labrarás las tierras, tú con tus hijos y tus siervos, y tú almacenarás los frutos, para que el hijo de tu señor tenga pan para comer, y Mefiboset el hijo de tu señor comerá siempre pan a mi mesa. Y Siba tenía quince hijos y veinte siervos."
+        },
+        {
+            "id": "2sa9_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y respondió Siba al rey:"
+        },
+        {
+            "id": "2sa9_11b",
+            "speaker": "Siba",
+            "verse": 11,
+            "text": "Conforme a todo lo que ha mandado mi señor el rey a su siervo, así lo hará tu siervo. Mefiboset, dijo el rey, comerá a mi mesa, como uno de los hijos del rey."
+        },
+        {
+            "id": "2sa9_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y tenía Mefiboset un hijo pequeño, que se llamaba Micaías. Y toda la familia de la casa de Siba eran siervos de Mefiboset."
+        },
+        {
+            "id": "2sa9_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y moraba Mefiboset en Jerusalén, porque comía siempre a la mesa del rey; y era cojo de ambos pies."
+        }
+    ]
+}

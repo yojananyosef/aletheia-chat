@@ -1,0 +1,259 @@
+{
+    "book": "2 Samuel",
+    "chapter": 16,
+    "title": "2 Samuel 16",
+    "messages": [
+        {
+            "id": "2sa16_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando David pasó un poco más allá de la cumbre del monte, he aquí Siba, el criado de Mefiboset, que salía a recibirle con un par de asnos enalbardados, y sobre ellos doscientos panes, y cien racimos de pasas, y cien panes de higos secos y un odre de vino."
+        },
+        {
+            "id": "2sa16_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo el rey a Siba:"
+        },
+        {
+            "id": "2sa16_2b",
+            "speaker": "Siba",
+            "verse": 2,
+            "text": "¿Qué es esto?"
+        },
+        {
+            "id": "2sa16_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Siba respondió:"
+        },
+        {
+            "id": "2sa16_2d",
+            "speaker": "Siba",
+            "verse": 2,
+            "text": "Los asnos son para que monte la familia del rey; los panes y las pasas para que coman los criados; y el vino para que beban los que se cansen en el desierto."
+        },
+        {
+            "id": "2sa16_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo el rey:"
+        },
+        {
+            "id": "2sa16_3b",
+            "speaker": "Siba",
+            "verse": 3,
+            "text": "¿Dónde está el hijo de tu señor?"
+        },
+        {
+            "id": "2sa16_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Siba respondió al rey:"
+        },
+        {
+            "id": "2sa16_3d",
+            "speaker": "Siba",
+            "verse": 3,
+            "text": "He aquí él se ha quedado en Jerusalén, porque ha dicho: Hoy me devolverá la casa de Israel el reino de mi padre."
+        },
+        {
+            "id": "2sa16_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces el rey dijo a Siba:"
+        },
+        {
+            "id": "2sa16_4b",
+            "speaker": "Siba",
+            "verse": 4,
+            "text": "He aquí, sea tuyo todo lo que tiene Mefiboset."
+        },
+        {
+            "id": "2sa16_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Siba inclinándose, respondió:"
+        },
+        {
+            "id": "2sa16_4d",
+            "speaker": "Siba",
+            "verse": 4,
+            "text": "Rey señor mío, halle yo gracia delante de ti."
+        },
+        {
+            "id": "2sa16_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y vino el rey David hasta Bahurim; y he aquí salía uno de la familia de la casa de Saúl, el cual se llamaba Simeí, hijo de Gera; y salía maldiciendo,"
+        },
+        {
+            "id": "2sa16_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y arrojando piedras contra David, y contra todos los siervos del rey David; y todo el pueblo, y todos los hombres valientes estaban a su derecha y a su izquierda."
+        },
+        {
+            "id": "2sa16_7",
+            "speaker": "Simeí",
+            "verse": 7,
+            "text": "Y decía Simeí, maldiciéndole: ¡Fuera, fuera, varón sanguinario, hombre de Belial!"
+        },
+        {
+            "id": "2sa16_8",
+            "speaker": "Simeí",
+            "verse": 8,
+            "text": "Jehová te ha dado el pago de toda la sangre de la casa de Saúl, en lugar del cual tú has reinado; pero Jehová ha entregado el reino en mano de tu hijo Absalón; y he aquí, has sido tomado en tu maldad, porque eres hombre sanguinario."
+        },
+        {
+            "id": "2sa16_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces Abisai, hijo de Sarvia, dijo al rey:"
+        },
+        {
+            "id": "2sa16_9b",
+            "speaker": "Abisai",
+            "verse": 9,
+            "text": "¿Por qué maldice este perro muerto a mi señor el rey? Yo te ruego que me dejes pasar, y le quitaré la cabeza."
+        },
+        {
+            "id": "2sa16_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el rey respondió:"
+        },
+        {
+            "id": "2sa16_10b",
+            "speaker": "David",
+            "verse": 10,
+            "text": "¿Qué tengo yo con vosotros, hijos de Sarvia?"
+        },
+        {
+            "id": "2sa16_10c",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Si él así maldice, es porque Jehová le ha dicho que maldiga a David; ¿quién, pues, le dirá:"
+        },
+        {
+            "id": "2sa16_10d",
+            "speaker": "David",
+            "verse": 10,
+            "text": "Por qué lo haces así?"
+        },
+        {
+            "id": "2sa16_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y dijo David a Abisai y a todos sus siervos:"
+        },
+        {
+            "id": "2sa16_11b",
+            "speaker": "David",
+            "verse": 11,
+            "text": "He aquí, mi hijo que ha salido de mis entrañas, acecha a mi vida: ¿cuánto más ahora un hijo de Benjamín? Dejadle que maldiga, que Jehová se lo ha dicho."
+        },
+        {
+            "id": "2sa16_12",
+            "speaker": "David",
+            "verse": 12,
+            "text": "Quizá mirará Jehová a mi aflicción, y me dará Jehová bien por sus maldiciones de hoy."
+        },
+        {
+            "id": "2sa16_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y como David y los suyos iban por el camino, Simeí iba por el lado del monte delante de él, andando y maldiciendo, y arrojando piedras delante de él, y esparciendo polvo."
+        },
+        {
+            "id": "2sa16_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y el rey y todo el pueblo que con él estaba, llegaron fatigados, y descansaron allí."
+        },
+        {
+            "id": "2sa16_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Absalón y todo el pueblo, los varones de Israel, entraron en Jerusalén, y con él Ahitofel."
+        },
+        {
+            "id": "2sa16_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y sucedió que cuando Husai arquita, amigo de David, llegó a donde estaba Absalón, Husai dijo a Absalón:"
+        },
+        {
+            "id": "2sa16_16b",
+            "speaker": "Husai",
+            "verse": 16,
+            "text": "Viva el rey, viva el rey."
+        },
+        {
+            "id": "2sa16_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Absalón dijo a Husai:"
+        },
+        {
+            "id": "2sa16_17b",
+            "speaker": "Absalón",
+            "verse": 17,
+            "text": "¿Éste es tu agradecimiento para con tu amigo? ¿Por qué no fuiste con tu amigo?"
+        },
+        {
+            "id": "2sa16_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Husai respondió a Absalón:"
+        },
+        {
+            "id": "2sa16_18b",
+            "speaker": "Husai",
+            "verse": 18,
+            "text": "No; antes al que eligiere Jehová y este pueblo y todos los varones de Israel, de aquél seré yo, y con aquél quedaré."
+        },
+        {
+            "id": "2sa16_19",
+            "speaker": "Husai",
+            "verse": 19,
+            "text": "¿Y a quién había yo de servir? ¿No es a su hijo? Como he servido delante de tu padre, así seré delante de ti."
+        },
+        {
+            "id": "2sa16_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces dijo Absalón a Ahitofel:"
+        },
+        {
+            "id": "2sa16_20b",
+            "speaker": "Absalón",
+            "verse": 20,
+            "text": "Consultad qué debemos hacer."
+        },
+        {
+            "id": "2sa16_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Ahitofel dijo a Absalón:"
+        },
+        {
+            "id": "2sa16_21b",
+            "speaker": "Ahitofel",
+            "verse": 21,
+            "text": "Entra a las concubinas de tu padre, que él dejó para guardar la casa; y todo el pueblo de Israel oirá que te has hecho aborrecible a tu padre, y así se esforzarán las manos de todos los que están contigo."
+        },
+        {
+            "id": "2sa16_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces pusieron una tienda a Absalón sobre el terrado, y entró Absalón a las concubinas de su padre, en ojos de todo Israel."
+        },
+        {
+            "id": "2sa16_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y el consejo que daba Ahitofel en aquellos días, era como si consultaran la palabra de Dios. Tal era el consejo de Ahitofel, tanto con David como con Absalón."
+        }
+    ]
+}

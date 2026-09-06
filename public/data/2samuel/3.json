@@ -1,0 +1,349 @@
+{
+    "book": "2 Samuel",
+    "chapter": 3,
+    "title": "2 Samuel 3",
+    "messages": [
+        {
+            "id": "2sa3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y hubo larga guerra entre la casa de Saúl y la casa de David; pero David se iba fortaleciendo, y la casa de Saúl se iba debilitando."
+        },
+        {
+            "id": "2sa3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y nacieron hijos a David en Hebrón; su primogénito fue Amnón, de Ahinoam jezreelita;"
+        },
+        {
+            "id": "2sa3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Su segundo Quileab, de Abigail la esposa de Nabal, el carmelita; el tercero, Absalón, hijo de Maaca, hija de Talmai, rey de Gesur:"
+        },
+        {
+            "id": "2sa3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "El cuarto, Adonías, hijo de Haguit; el quinto, Sefatías hijo de Abital;"
+        },
+        {
+            "id": "2sa3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "el sexto, Itream, de Egla esposa de David. Éstos nacieron a David en Hebrón."
+        },
+        {
+            "id": "2sa3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y como había guerra entre la casa de Saúl y la casa de David, aconteció que Abner se esforzaba por la casa de Saúl."
+        },
+        {
+            "id": "2sa3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y había tenido Saúl una concubina que se llamaba Rispa, hija de Aja. Y dijo Isboset a Abner:"
+        },
+        {
+            "id": "2sa3_7b",
+            "speaker": "Isboset",
+            "verse": 7,
+            "text": "¿Por qué has entrado a la concubina de mi padre?"
+        },
+        {
+            "id": "2sa3_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y se enojó Abner en gran manera por las palabras de Isboset, y dijo:"
+        },
+        {
+            "id": "2sa3_8b",
+            "speaker": "Abner",
+            "verse": 8,
+            "text": "¿Soy yo cabeza de perro (que respecto a Judá he hecho hoy misericordia a la casa de Saúl tu padre, a sus hermanos, y a sus amigos, y no te he entregado en las manos de David), para que tú hoy me hagas cargo de pecado acerca de esta mujer?"
+        },
+        {
+            "id": "2sa3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Así haga Dios a Abner y aun le añada, si como ha jurado Jehová a David no hiciere yo así con él,"
+        },
+        {
+            "id": "2sa3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "trasladando el reino de la casa de Saúl, y confirmando el trono de David sobre Israel y sobre Judá, desde Dan hasta Beerseba."
+        },
+        {
+            "id": "2sa3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él no pudo responder palabra a Abner, porque le temía."
+        },
+        {
+            "id": "2sa3_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y envió Abner mensajeros a David de su parte, diciendo:"
+        },
+        {
+            "id": "2sa3_12b",
+            "speaker": "Abner",
+            "verse": 12,
+            "text": "¿De quién es la tierra?"
+        },
+        {
+            "id": "2sa3_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y que le dijesen:"
+        },
+        {
+            "id": "2sa3_12d",
+            "speaker": "Abner",
+            "verse": 12,
+            "text": "Haz alianza conmigo, y he aquí que mi mano será contigo para volver a ti a todo Israel."
+        },
+        {
+            "id": "2sa3_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y David dijo:"
+        },
+        {
+            "id": "2sa3_13b",
+            "speaker": "David",
+            "verse": 13,
+            "text": "Bien; yo haré alianza contigo; pero una cosa requiero de ti, y es: Que no mirarás mi rostro, a menos que primero traigas a Mical, la hija de Saúl, cuando vinieres a verme."
+        },
+        {
+            "id": "2sa3_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y David envió mensajeros a Isboset, hijo de Saúl, diciendo:"
+        },
+        {
+            "id": "2sa3_14b",
+            "speaker": "David",
+            "verse": 14,
+            "text": "Restitúyeme a mi esposa Mical, la cual yo desposé conmigo por cien prepucios de filisteos."
+        },
+        {
+            "id": "2sa3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces Isboset envió, y la quitó a su marido Paltiel, hijo de Lais."
+        },
+        {
+            "id": "2sa3_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y su marido fue con ella, siguiéndola y llorando tras ella hasta Bahurim. Y le dijo Abner:"
+        },
+        {
+            "id": "2sa3_16b",
+            "speaker": "Abner",
+            "verse": 16,
+            "text": "Anda, vuélvete. Entonces él se volvió."
+        },
+        {
+            "id": "2sa3_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y habló Abner con los ancianos de Israel, diciendo:"
+        },
+        {
+            "id": "2sa3_17b",
+            "speaker": "Abner",
+            "verse": 17,
+            "text": "Hace tiempo procurabais que David fuese rey sobre vosotros."
+        },
+        {
+            "id": "2sa3_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Ahora, pues, hacedlo; porque Jehová ha hablado a David, diciendo:"
+        },
+        {
+            "id": "2sa3_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Por la mano de mi siervo David libraré a mi pueblo Israel de mano de los filisteos, y de mano de todos sus enemigos."
+        },
+        {
+            "id": "2sa3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y habló también Abner a los de Benjamín; y fue también Abner a Hebrón a decir a David todo lo que parecía bien a los de Israel y a toda la casa de Benjamín."
+        },
+        {
+            "id": "2sa3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Vino pues Abner a David en Hebrón, y con él veinte hombres; y David hizo banquete a Abner y a los que con él habían venido."
+        },
+        {
+            "id": "2sa3_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y dijo Abner a David:"
+        },
+        {
+            "id": "2sa3_21b",
+            "speaker": "Abner",
+            "verse": 21,
+            "text": "Yo me levantaré e iré, y juntaré a mi señor el rey a todo Israel, para que hagan alianza contigo, y tú reines como deseas. David despidió luego a Abner, y él se fue en paz."
+        },
+        {
+            "id": "2sa3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y he aquí los siervos de David y Joab, que venían de perseguir a un ejército, y traían consigo gran botín. Pero Abner no estaba con David en Hebrón, pues éste lo había despedido, y él se había ido en paz."
+        },
+        {
+            "id": "2sa3_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y luego que llegó Joab y todo el ejército que con él estaba, fue dado aviso a Joab, diciendo:"
+        },
+        {
+            "id": "2sa3_23b",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Abner, hijo de Ner, ha venido al rey, y él le ha despedido, y se fue en paz."
+        },
+        {
+            "id": "2sa3_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Joab vino al rey, y le dijo:"
+        },
+        {
+            "id": "2sa3_24b",
+            "speaker": "Joab",
+            "verse": 24,
+            "text": "¿Qué has hecho? He aquí Abner vino a ti; ¿por qué, pues, tú lo despediste, y él ya se ha ido?"
+        },
+        {
+            "id": "2sa3_25",
+            "speaker": "Joab",
+            "verse": 25,
+            "text": "Tú conoces a Abner, hijo de Ner, que vino para engañarte, y para saber tu salida y tu entrada, y para saber todo lo que tú haces."
+        },
+        {
+            "id": "2sa3_26",
+            "speaker": "Joab",
+            "verse": 26,
+            "text": "Y saliendo Joab de delante de David, envió mensajeros tras Abner, los cuales le volvieron desde el pozo de Sira, sin que David lo supiera."
+        },
+        {
+            "id": "2sa3_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y cuando Abner volvió a Hebrón, Joab lo apartó al medio de la puerta, hablando con él apaciblemente, y allí le hirió por la quinta costilla, a causa de la muerte de Asael su hermano, y murió."
+        },
+        {
+            "id": "2sa3_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Cuando David supo después esto, dijo:"
+        },
+        {
+            "id": "2sa3_28b",
+            "speaker": "David",
+            "verse": 28,
+            "text": "Inocente soy yo y mi reino, delante de Jehová, para siempre, de la sangre de Abner, hijo de Ner."
+        },
+        {
+            "id": "2sa3_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Caiga sobre la cabeza de Joab, y sobre toda la casa de su padre; que nunca falte de la casa de Joab quien padezca flujo, ni leproso, ni quien ande con báculo, ni quien muera a espada, ni quien tenga falta de pan."
+        },
+        {
+            "id": "2sa3_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Joab, pues, y Abisai su hermano mataron a Abner, porque él había dado muerte a Asael, hermano de ellos, en la batalla de Gabaón."
+        },
+        {
+            "id": "2sa3_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces dijo David a Joab, y a todo el pueblo que con él estaba:"
+        },
+        {
+            "id": "2sa3_31b",
+            "speaker": "David",
+            "verse": 31,
+            "text": "Rasgad vuestras vestiduras, y ceñíos de cilicio, y haced duelo delante de Abner. Y el rey iba detrás del féretro."
+        },
+        {
+            "id": "2sa3_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y sepultaron a Abner en Hebrón; y alzando el rey su voz, lloró junto al sepulcro de Abner; y lloró también todo el pueblo."
+        },
+        {
+            "id": "2sa3_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y endechando el rey al mismo Abner, decía:"
+        },
+        {
+            "id": "2sa3_33b",
+            "speaker": "David",
+            "verse": 33,
+            "text": "¿Había de morir Abner como muere un villano?"
+        },
+        {
+            "id": "2sa3_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Tus manos no estaban atadas, ni tus pies ligados con grillos: Caíste como los que caen delante de malos hombres, así caíste. Y todo el pueblo volvió a llorar sobre él."
+        },
+        {
+            "id": "2sa3_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y como todo el pueblo viniese a dar de comer pan a David siendo aún de día, David juró, diciendo:"
+        },
+        {
+            "id": "2sa3_35b",
+            "speaker": "David",
+            "verse": 35,
+            "text": "Así me haga Dios y así me añada, si antes que se ponga el sol gustare yo pan, u otra cualquier cosa."
+        },
+        {
+            "id": "2sa3_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y todo el pueblo supo esto, y le agradó; porque todo lo que el rey hacía parecía bien a todo el pueblo."
+        },
+        {
+            "id": "2sa3_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y todo el pueblo y todo Israel entendió aquel día, que no provenía del rey el matar a Abner, hijo de Ner."
+        },
+        {
+            "id": "2sa3_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y el rey dijo a sus siervos:"
+        },
+        {
+            "id": "2sa3_38b",
+            "speaker": "David",
+            "verse": 38,
+            "text": "¿No sabéis que un príncipe y grande ha caído hoy en Israel?"
+        },
+        {
+            "id": "2sa3_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y yo soy débil hoy, aunque ungido rey; y estos hombres, los hijos de Sarvia, son muy duros para mí; Jehová dé el pago al que mal hace, conforme a su maldad."
+        }
+    ]
+}

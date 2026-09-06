@@ -1,0 +1,170 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Joab",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "a",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "d",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "d",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "a",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "a",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "d",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "d",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Mujer de Tecoa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Absalón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Joab",
+    "confidence": 0.85
+  }
+]
