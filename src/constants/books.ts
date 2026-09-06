@@ -102,7 +102,12 @@ export const BIBLE_BOOKS: BookInfo[] = [
         category: 'Evangelios', description: 'El Salvador de toda la humanidad.',
         participants: ['Dios', 'Narrador', 'Jesús', 'Juan el Bautista', 'Juan', 'Herodes', 'Pilato', 'Pedro', 'Discípulos', 'Fariseos', 'Escribas', 'Saduceos', 'Sacerdotes', 'Multitud', 'María', 'Elisabet', 'Zacarías', 'Simeón', 'Pastores', 'Ángel', 'Ángeles', 'Mujer', 'Mujeres', 'Hombre', 'Padre', 'Familiares', 'Demonio', 'Leproso', 'Leprosos', 'Ciego', 'Publicanos', 'Publicano', 'Doctor', 'Marta', 'Zaqueo', 'Ladrones', 'Cleofas', 'Judas', 'Centurión', 'Soldados', 'Criada', 'Mensajero', 'Ancianos', 'Joven']
     },
-    { id: 'juan', name: 'Juan', availableChapters: [], isLocked: true, category: 'Evangelios', description: 'El Hijo de Dios entre nosotros.', participants: ['Jesús', 'Juan'] },
+    {
+        id: 'juan', name: 'Juan',
+        availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+        category: 'Evangelios', description: 'El Hijo de Dios entre nosotros.',
+        participants: ['Dios', 'Narrador', 'Jesús', 'Juan el Bautista', 'Juan', 'Nicodemo', 'Samaritana', 'Pedro', 'Andrés', 'Felipe', 'Natanael', 'Tomás', 'Judas', 'Marta', 'María', 'Hombre', 'Mujer', 'Familiares', 'Ciego', 'Hermanos', 'Fariseos', 'Escribas', 'Saduceos', 'Sacerdotes', 'Caifás', 'Judíos', 'Multitud', 'Griegos', 'Pilato', 'Soldados', 'Alguaciles', 'Criado', 'Criada', 'Discípulos', 'Ángeles', 'Joven']
+    },
 
     // --- HISTORIA NT ---
     { id: 'hechos', name: 'Hechos', availableChapters: [], isLocked: true, category: 'Historia', description: 'El nacimiento y expansión de la iglesia.', participants: ['Pedro', 'Pablo', 'Espíritu Santo'] },
