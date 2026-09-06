@@ -84,34 +84,10 @@
     "confidence": 0.75
   },
   {
-    "verse": 35,
-    "subId": "b",
-    "speaker": "Raquel",
-    "confidence": 0.9
-  },
-  {
-    "verse": 49,
-    "subId": "b",
-    "speaker": "Labán",
-    "confidence": 0.9
-  },
-  {
-    "verse": 50,
+    "verse": 25,
     "subId": "",
-    "speaker": "Labán",
-    "confidence": 0.8
-  },
-  {
-    "verse": 52,
-    "subId": "",
-    "speaker": "Labán",
-    "confidence": 0.8
-  },
-  {
-    "verse": 53,
-    "subId": "",
-    "speaker": "Labán",
-    "confidence": 0.8
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 27,
@@ -132,10 +108,22 @@
     "confidence": 0.85
   },
   {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.9
+  },
+  {
     "verse": 32,
     "subId": "",
     "speaker": "Jacob",
     "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Raquel",
+    "confidence": 0.9
   },
   {
     "verse": 37,
@@ -178,5 +166,35 @@
     "subId": "",
     "speaker": "Labán",
     "confidence": 0.85
+  },
+  {
+    "verse": 47,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.9
+  },
+  {
+    "verse": 50,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
+  },
+  {
+    "verse": 52,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
+  },
+  {
+    "verse": 53,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
   }
 ]

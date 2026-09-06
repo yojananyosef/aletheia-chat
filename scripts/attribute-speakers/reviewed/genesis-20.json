@@ -12,10 +12,28 @@
     "confidence": 0.9
   },
   {
+    "verse": 5,
+    "subId": "a",
+    "speaker": "Abimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Abimelec",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "",
     "speaker": "Dios",
     "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 12,
@@ -30,21 +48,15 @@
     "confidence": 0.9
   },
   {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 16,
     "subId": "b",
     "speaker": "Abimelec",
     "confidence": 0.9
-  },
-  {
-    "verse": 5,
-    "subId": "a",
-    "speaker": "Abimelec",
-    "confidence": 0.85
-  },
-  {
-    "verse": 5,
-    "subId": "b",
-    "speaker": "Abimelec",
-    "confidence": 0.85
   }
 ]

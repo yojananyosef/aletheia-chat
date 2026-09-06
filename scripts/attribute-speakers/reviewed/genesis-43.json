@@ -6,6 +6,18 @@
     "confidence": 0.9
   },
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "a",
+    "speaker": "Judá",
+    "confidence": 0.9
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Judá",
@@ -25,6 +37,12 @@
   },
   {
     "verse": 7,
+    "subId": "c",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
     "subId": "d",
     "speaker": "Hermanos",
     "confidence": 0.8
@@ -34,6 +52,12 @@
     "subId": "b",
     "speaker": "Judá",
     "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.85
   },
   {
     "verse": 11,
@@ -58,6 +82,12 @@
     "subId": "",
     "speaker": "Jacob",
     "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.9
   },
   {
     "verse": 20,
@@ -100,23 +130,5 @@
     "subId": "b",
     "speaker": "José",
     "confidence": 0.9
-  },
-  {
-    "verse": 4,
-    "subId": "",
-    "speaker": "Judá",
-    "confidence": 0.85
-  },
-  {
-    "verse": 7,
-    "subId": "c",
-    "speaker": "Hermanos",
-    "confidence": 0.85
-  },
-  {
-    "verse": 9,
-    "subId": "",
-    "speaker": "Judá",
-    "confidence": 0.85
   }
 ]

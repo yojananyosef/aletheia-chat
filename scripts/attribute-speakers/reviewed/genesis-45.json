@@ -1,5 +1,11 @@
 [
   {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 4,
     "subId": "d",
     "speaker": "José",
@@ -60,24 +66,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 24,
-    "subId": "b",
-    "speaker": "José",
-    "confidence": 0.9
-  },
-  {
-    "verse": 26,
-    "subId": "b",
-    "speaker": "Hermanos",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "b",
-    "speaker": "Jacob",
-    "confidence": 0.9
-  },
-  {
     "verse": 18,
     "subId": "",
     "speaker": "Faraón",
@@ -94,5 +82,23 @@
     "subId": "",
     "speaker": "Faraón",
     "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
   }
 ]

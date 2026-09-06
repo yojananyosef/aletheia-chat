@@ -12,6 +12,36 @@
     "confidence": 0.9
   },
   {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
     "verse": 13,
     "subId": "b",
     "speaker": "Rebeca",
@@ -114,6 +144,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
     "verse": 43,
     "subId": "",
     "speaker": "Rebeca",
@@ -130,11 +166,5 @@
     "subId": "",
     "speaker": "Rebeca",
     "confidence": 0.85
-  },
-  {
-    "verse": 42,
-    "subId": "b",
-    "speaker": "Rebeca",
-    "confidence": 0.9
   }
 ]

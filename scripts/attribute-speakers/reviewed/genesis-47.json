@@ -36,6 +36,12 @@
     "confidence": 0.8
   },
   {
+    "verse": 24,
+    "subId": "",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
     "verse": 25,
     "subId": "b",
     "speaker": "Pueblo",

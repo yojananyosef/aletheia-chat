@@ -1,8 +1,44 @@
 [
   {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "a",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -145,6 +181,12 @@
   },
   {
     "verse": 43,
+    "subId": "a",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
     "subId": "b",
     "speaker": "Criado",
     "confidence": 0.9
@@ -244,35 +286,5 @@
     "subId": "b",
     "speaker": "Rebeca",
     "confidence": 0.9
-  },
-  {
-    "verse": 3,
-    "subId": "",
-    "speaker": "Abraham",
-    "confidence": 0.85
-  },
-  {
-    "verse": 4,
-    "subId": "",
-    "speaker": "Abraham",
-    "confidence": 0.85
-  },
-  {
-    "verse": 7,
-    "subId": "a",
-    "speaker": "Abraham",
-    "confidence": 0.85
-  },
-  {
-    "verse": 8,
-    "subId": "",
-    "speaker": "Abraham",
-    "confidence": 0.85
-  },
-  {
-    "verse": 43,
-    "subId": "a",
-    "speaker": "Criado",
-    "confidence": 0.85
   }
 ]

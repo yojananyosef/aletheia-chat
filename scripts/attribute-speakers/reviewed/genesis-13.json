@@ -1,5 +1,11 @@
 [
   {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
     "verse": 14,
     "subId": "b",
     "speaker": "Dios",
@@ -24,9 +30,9 @@
     "confidence": 0.9
   },
   {
-    "verse": 9,
+    "verse": 18,
     "subId": "",
-    "speaker": "Abraham",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

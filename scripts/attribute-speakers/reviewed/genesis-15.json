@@ -18,6 +18,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Dios",
@@ -44,6 +50,24 @@
   {
     "verse": 18,
     "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
     "speaker": "Dios",
     "confidence": 0.9
   }

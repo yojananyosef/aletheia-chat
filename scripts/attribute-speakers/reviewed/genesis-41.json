@@ -36,15 +36,21 @@
     "confidence": 0.85
   },
   {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
     "verse": 55,
     "subId": "b",
     "speaker": "Faraón",
     "confidence": 0.9
   },
   {
-    "verse": 40,
+    "verse": 56,
     "subId": "",
-    "speaker": "Faraón",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

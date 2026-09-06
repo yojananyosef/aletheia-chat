@@ -6,10 +6,10 @@
     "confidence": 0.9
   },
   {
-    "verse": 17,
-    "subId": "b",
-    "speaker": "Parteras",
-    "confidence": 0.9
+    "verse": 3,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
   },
   {
     "verse": 12,
@@ -18,9 +18,27 @@
     "confidence": 0.85
   },
   {
-    "verse": 3,
+    "verse": 13,
     "subId": "",
-    "speaker": "Jacob",
+    "speaker": "Narrador",
     "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Parteras",
+    "confidence": 0.9
   }
 ]

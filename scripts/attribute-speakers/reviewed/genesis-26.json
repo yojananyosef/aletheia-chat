@@ -18,9 +18,21 @@
     "confidence": 0.9
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -28,6 +40,12 @@
     "subId": "b",
     "speaker": "Pastores",
     "confidence": 0.8
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Pastores",
+    "confidence": 0.85
   },
   {
     "verse": 22,
@@ -48,15 +66,15 @@
     "confidence": 0.85
   },
   {
-    "verse": 32,
-    "subId": "b",
-    "speaker": "Criado",
+    "verse": 30,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
-    "verse": 20,
+    "verse": 32,
     "subId": "b",
-    "speaker": "Pastores",
+    "speaker": "Criado",
     "confidence": 0.85
   }
 ]

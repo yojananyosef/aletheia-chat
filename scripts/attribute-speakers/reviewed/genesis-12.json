@@ -12,6 +12,24 @@
     "confidence": 0.9
   },
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 11,
     "subId": "b",
     "speaker": "Abraham",
@@ -31,14 +49,14 @@
   },
   {
     "verse": 19,
-    "subId": "b",
-    "speaker": "Faraón",
-    "confidence": 0.9
-  },
-  {
-    "verse": 19,
     "subId": "a",
     "speaker": "Faraón",
     "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Faraón",
+    "confidence": 0.9
   }
 ]

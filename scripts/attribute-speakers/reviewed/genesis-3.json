@@ -12,6 +12,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Serpiente",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "b",
     "speaker": "Adán",
@@ -22,6 +28,12 @@
     "subId": "d",
     "speaker": "Mujer",
     "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
   },
   {
     "verse": 16,
@@ -36,18 +48,6 @@
     "confidence": 0.9
   },
   {
-    "verse": 5,
-    "subId": "",
-    "speaker": "Serpiente",
-    "confidence": 0.85
-  },
-  {
-    "verse": 15,
-    "subId": "",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
     "verse": 18,
     "subId": "",
     "speaker": "Dios",
@@ -57,6 +57,24 @@
     "verse": 19,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]
