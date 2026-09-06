@@ -12,10 +12,40 @@
     "confidence": 0.9
   },
   {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Juan el Bautista",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 24,
@@ -58,11 +88,5 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
-  },
-  {
-    "verse": 8,
-    "subId": "",
-    "speaker": "Juan el Bautista",
-    "confidence": 0.85
   }
 ]

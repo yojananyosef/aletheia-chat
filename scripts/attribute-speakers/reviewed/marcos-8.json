@@ -37,9 +37,21 @@
   },
   {
     "verse": 19,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
     "subId": "b",
     "speaker": "Discípulos",
     "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.9
   },
   {
     "verse": 20,
@@ -92,6 +104,18 @@
   {
     "verse": 34,
     "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "",
     "speaker": "Jesús",
     "confidence": 0.9
   },

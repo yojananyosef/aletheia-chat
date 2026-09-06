@@ -65,13 +65,13 @@
         },
         {
             "id": "mrk14_8",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 8,
             "text": "Ésta ha hecho lo que podía; y se ha anticipado a ungir mi cuerpo para la sepultura."
         },
         {
             "id": "mrk14_9",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 9,
             "text": "De cierto os digo: Dondequiera que se predique este evangelio, en todo el mundo, lo que ella ha hecho, también será contado para memoria de ella."
         },
@@ -113,7 +113,7 @@
         },
         {
             "id": "mrk14_14a",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 14,
             "text": "Y donde él entrare, decid al señor de la casa:"
         },
@@ -635,7 +635,7 @@
         },
         {
             "id": "mrk14_71",
-            "speaker": "Narrador",
+            "speaker": "Pedro",
             "verse": 71,
             "text": "Entonces él comenzó a maldecir y a jurar: No conozco a este hombre de quien habláis."
         },
@@ -647,7 +647,7 @@
         },
         {
             "id": "mrk14_72b",
-            "speaker": "Jesús",
+            "speaker": "Narrador",
             "verse": 72,
             "text": "Antes que el gallo cante dos veces, me negarás tres veces."
         },

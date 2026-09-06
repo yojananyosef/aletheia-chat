@@ -12,10 +12,40 @@
     "confidence": 0.8
   },
   {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 14,
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 19,
@@ -42,39 +72,21 @@
     "confidence": 0.9
   },
   {
-    "verse": 44,
-    "subId": "b",
-    "speaker": "Judas",
+    "verse": 25,
+    "subId": "",
+    "speaker": "Jesús",
     "confidence": 0.85
   },
   {
-    "verse": 45,
-    "subId": "b",
-    "speaker": "Judas",
+    "verse": 28,
+    "subId": "",
+    "speaker": "Jesús",
     "confidence": 0.85
   },
   {
-    "verse": 58,
-    "subId": "b",
-    "speaker": "Testigos",
-    "confidence": 0.9
-  },
-  {
-    "verse": 67,
-    "subId": "b",
-    "speaker": "Criada",
-    "confidence": 0.85
-  },
-  {
-    "verse": 68,
+    "verse": 31,
     "subId": "b",
     "speaker": "Pedro",
-    "confidence": 0.9
-  },
-  {
-    "verse": 70,
-    "subId": "b",
-    "speaker": "Multitud",
     "confidence": 0.85
   },
   {
@@ -108,33 +120,21 @@
     "confidence": 0.9
   },
   {
-    "verse": 7,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 15,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 25,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
     "verse": 42,
     "subId": "",
     "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "b",
+    "speaker": "Judas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 45,
+    "subId": "b",
+    "speaker": "Judas",
     "confidence": 0.85
   },
   {
@@ -144,9 +144,51 @@
     "confidence": 0.85
   },
   {
+    "verse": 58,
+    "subId": "b",
+    "speaker": "Testigos",
+    "confidence": 0.9
+  },
+  {
     "verse": 64,
     "subId": "",
     "speaker": "Sumo sacerdote",
+    "confidence": 0.85
+  },
+  {
+    "verse": 65,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 67,
+    "subId": "b",
+    "speaker": "Criada",
+    "confidence": 0.85
+  },
+  {
+    "verse": 68,
+    "subId": "b",
+    "speaker": "Pedro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 70,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 71,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 72,
+    "subId": "b",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

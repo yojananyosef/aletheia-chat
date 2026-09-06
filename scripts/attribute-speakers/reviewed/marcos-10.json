@@ -18,15 +18,33 @@
     "confidence": 0.9
   },
   {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 17,
     "subId": "b",
     "speaker": "Hombre",
     "confidence": 0.85
   },
   {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 20,
     "subId": "b",
     "speaker": "Hombre",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -66,6 +84,30 @@
     "confidence": 0.85
   },
   {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 45,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 47,
     "subId": "b",
     "speaker": "Bartimeo",
@@ -88,23 +130,5 @@
     "subId": "d",
     "speaker": "Bartimeo",
     "confidence": 0.9
-  },
-  {
-    "verse": 15,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 43,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 44,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
   }
 ]

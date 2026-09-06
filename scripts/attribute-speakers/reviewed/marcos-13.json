@@ -6,8 +6,38 @@
     "confidence": 0.9
   },
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 6,
     "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
     "speaker": "Jesús",
     "confidence": 0.9
   },
@@ -22,11 +52,5 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
-  },
-  {
-    "verse": 7,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
   }
 ]
