@@ -1,0 +1,661 @@
+{
+    "book": "Marcos",
+    "chapter": 14,
+    "title": "Marcos 14",
+    "messages": [
+        {
+            "id": "mrk14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y dos días después era la fiesta de la pascua, y de los panes sin levadura; y los príncipes de los sacerdotes y los escribas buscaban cómo prenderle por engaño y matarle."
+        },
+        {
+            "id": "mrk14_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y decían:"
+        },
+        {
+            "id": "mrk14_2b",
+            "speaker": "Sacerdotes",
+            "verse": 2,
+            "text": "No en el día de la fiesta, para que no se haga alboroto del pueblo."
+        },
+        {
+            "id": "mrk14_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y estando Él en Betania, en casa de Simón el leproso, y sentado Él a la mesa, vino una mujer trayendo un frasco de alabastro de ungüento de nardo puro, de mucho precio, y quebrando el frasco de alabastro, se lo derramó sobre su cabeza."
+        },
+        {
+            "id": "mrk14_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y hubo algunos que se indignaron dentro de sí, y dijeron:"
+        },
+        {
+            "id": "mrk14_4b",
+            "speaker": "Discípulos",
+            "verse": 4,
+            "text": "¿Por qué se ha hecho este desperdicio de ungüento?"
+        },
+        {
+            "id": "mrk14_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque podía esto haberse vendido por más de trescientos denarios, y haberse dado a los pobres. Y murmuraban contra ella."
+        },
+        {
+            "id": "mrk14_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero Jesús dijo:"
+        },
+        {
+            "id": "mrk14_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Dejadla, ¿por qué la molestáis? Buena obra me ha hecho."
+        },
+        {
+            "id": "mrk14_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pues siempre tenéis a los pobres con vosotros, y cuando quisiereis, les podéis hacer bien; pero a mí no siempre me tenéis."
+        },
+        {
+            "id": "mrk14_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Ésta ha hecho lo que podía; y se ha anticipado a ungir mi cuerpo para la sepultura."
+        },
+        {
+            "id": "mrk14_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "De cierto os digo: Dondequiera que se predique este evangelio, en todo el mundo, lo que ella ha hecho, también será contado para memoria de ella."
+        },
+        {
+            "id": "mrk14_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Judas Iscariote, uno de los doce, fue a los príncipes de los sacerdotes para entregárselo."
+        },
+        {
+            "id": "mrk14_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y ellos, al oírlo, se regocijaron, y prometieron darle dinero. Y buscaba cómo poder entregarle."
+        },
+        {
+            "id": "mrk14_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y el primer día de los panes sin levadura, cuando sacrificaban la pascua, sus discípulos le dijeron:"
+        },
+        {
+            "id": "mrk14_12b",
+            "speaker": "Discípulos",
+            "verse": 12,
+            "text": "¿Dónde quieres que vayamos y preparemos para que comas la pascua?"
+        },
+        {
+            "id": "mrk14_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y envió dos de sus discípulos, y les dijo:"
+        },
+        {
+            "id": "mrk14_13b",
+            "speaker": "Discípulos",
+            "verse": 13,
+            "text": "Id a la ciudad, y os encontrará un hombre que lleva un cántaro de agua; seguidle,"
+        },
+        {
+            "id": "mrk14_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y donde él entrare, decid al señor de la casa:"
+        },
+        {
+            "id": "mrk14_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "El Maestro dice: ¿Dónde está el aposento donde he de comer la pascua con mis discípulos?"
+        },
+        {
+            "id": "mrk14_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él os mostrará un aposento alto ya dispuesto; preparad para nosotros allí."
+        },
+        {
+            "id": "mrk14_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y fueron sus discípulos y entraron en la ciudad, y hallaron como Él les había dicho, y prepararon la pascua."
+        },
+        {
+            "id": "mrk14_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y cuando llegó la noche, vino Él con los doce."
+        },
+        {
+            "id": "mrk14_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y sentándose ellos a la mesa, mientras comían, Jesús dijo:"
+        },
+        {
+            "id": "mrk14_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "De cierto os digo: Uno de vosotros, que come conmigo, me va a entregar."
+        },
+        {
+            "id": "mrk14_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces ellos comenzaron a entristecerse, y a decirle uno tras otro:"
+        },
+        {
+            "id": "mrk14_19b",
+            "speaker": "Discípulos",
+            "verse": 19,
+            "text": "¿Seré yo? Y el otro: ¿Seré yo?"
+        },
+        {
+            "id": "mrk14_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y respondiendo Él, les dijo:"
+        },
+        {
+            "id": "mrk14_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Es uno de los doce, que moja conmigo en el plato."
+        },
+        {
+            "id": "mrk14_21",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "A la verdad el Hijo del Hombre va, según está escrito de Él; mas ¡ay de aquel hombre por quien el Hijo del Hombre es entregado! Bueno le fuera a tal hombre nunca haber nacido."
+        },
+        {
+            "id": "mrk14_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y comiendo ellos, Jesús tomó pan y bendijo, y lo partió y les dio, diciendo:"
+        },
+        {
+            "id": "mrk14_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Tomad, comed; esto es mi cuerpo."
+        },
+        {
+            "id": "mrk14_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y tomando la copa, habiendo dado gracias, les dio; y bebieron de ella todos."
+        },
+        {
+            "id": "mrk14_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mrk14_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Esto es mi sangre del nuevo testamento, que por muchos es derramada."
+        },
+        {
+            "id": "mrk14_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "De cierto os digo, que no beberé más del fruto de la vid, hasta aquel día, cuando lo beberé nuevo en el reino de Dios."
+        },
+        {
+            "id": "mrk14_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y habiendo cantado un himno, salieron al monte de los Olivos."
+        },
+        {
+            "id": "mrk14_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Entonces Jesús les dijo:"
+        },
+        {
+            "id": "mrk14_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "Todos seréis escandalizados de mí esta noche; porque escrito está: Heriré al pastor, y serán dispersadas las ovejas."
+        },
+        {
+            "id": "mrk14_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Pero después que haya resucitado, iré delante de vosotros a Galilea."
+        },
+        {
+            "id": "mrk14_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Entonces Pedro le dijo:"
+        },
+        {
+            "id": "mrk14_29b",
+            "speaker": "Pedro",
+            "verse": 29,
+            "text": "Aunque todos sean escandalizados, mas yo no."
+        },
+        {
+            "id": "mrk14_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "mrk14_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "De cierto te digo que tú, hoy, en esta noche, antes de que el gallo haya cantado dos veces, me negarás tres veces."
+        },
+        {
+            "id": "mrk14_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Mas él con más vehemencia decía:"
+        },
+        {
+            "id": "mrk14_31b",
+            "speaker": "Pedro",
+            "verse": 31,
+            "text": "Si me fuere necesario morir contigo, no te negaré."
+        },
+        {
+            "id": "mrk14_31c",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "También todos decían lo mismo."
+        },
+        {
+            "id": "mrk14_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y vinieron al lugar que se llama Getsemaní; y dijo a sus discípulos:"
+        },
+        {
+            "id": "mrk14_32b",
+            "speaker": "Jesús",
+            "verse": 32,
+            "text": "Sentaos aquí, entre tanto que yo oro."
+        },
+        {
+            "id": "mrk14_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y tomó consigo a Pedro, a Jacobo y a Juan, y comenzó a entristecerse y a angustiarse en gran manera."
+        },
+        {
+            "id": "mrk14_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mrk14_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "Mi alma está muy triste, hasta la muerte; quedaos aquí y velad."
+        },
+        {
+            "id": "mrk14_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y yéndose un poco adelante, se postró en tierra, y oró que si fuese posible, pasase de Él aquella hora."
+        },
+        {
+            "id": "mrk14_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "mrk14_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Abba, Padre, todas las cosas te son posibles; aparta de mí esta copa; pero no sea mi voluntad, sino la tuya."
+        },
+        {
+            "id": "mrk14_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y vino y los halló durmiendo; y dijo a Pedro:"
+        },
+        {
+            "id": "mrk14_37b",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Simón, ¿duermes? ¿No has podido velar una hora?"
+        },
+        {
+            "id": "mrk14_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil."
+        },
+        {
+            "id": "mrk14_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y otra vez fue y oró, diciendo las mismas palabras."
+        },
+        {
+            "id": "mrk14_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y al volver, otra vez los halló durmiendo, porque los ojos de ellos estaban cargados de sueño, y no sabían qué responderle."
+        },
+        {
+            "id": "mrk14_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y vino la tercera vez, y les dijo:"
+        },
+        {
+            "id": "mrk14_41b",
+            "speaker": "Jesús",
+            "verse": 41,
+            "text": "Dormid ya y descansad; basta, la hora ha venido; he aquí, el Hijo del Hombre es entregado en manos de los pecadores."
+        },
+        {
+            "id": "mrk14_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Levantaos, vamos; he aquí, se acerca el que me entrega."
+        },
+        {
+            "id": "mrk14_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y en ese momento, mientras Él aún hablaba, vino Judas, que era uno de los doce, y con él una gran multitud con espadas y palos, de parte de los príncipes de los sacerdotes y de los escribas y de los ancianos."
+        },
+        {
+            "id": "mrk14_44a",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y el que le entregaba les había dado señal, diciendo:"
+        },
+        {
+            "id": "mrk14_44b",
+            "speaker": "Judas",
+            "verse": 44,
+            "text": "Al que yo besare, ése es, prendedle, y llevadle con seguridad."
+        },
+        {
+            "id": "mrk14_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y cuando vino, enseguida se acercó a Él, y le dijo:"
+        },
+        {
+            "id": "mrk14_45b",
+            "speaker": "Judas",
+            "verse": 45,
+            "text": "Maestro, Maestro. Y le besó."
+        },
+        {
+            "id": "mrk14_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Entonces ellos le echaron mano, y le prendieron."
+        },
+        {
+            "id": "mrk14_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y uno de los que estaban allí, sacó una espada, he hirió a un siervo del sumo sacerdote, y le cortó la oreja."
+        },
+        {
+            "id": "mrk14_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "mrk14_48b",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "¿Como contra un ladrón habéis venido con espadas y palos para prenderme?"
+        },
+        {
+            "id": "mrk14_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Cada día estaba con vosotros enseñando en el templo, y no me prendisteis; pero es así, para que se cumplan las Escrituras."
+        },
+        {
+            "id": "mrk14_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Entonces todos dejándole, huyeron."
+        },
+        {
+            "id": "mrk14_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y cierto joven le seguía, cubierta su desnudez con una sábana; y los jóvenes le prendieron."
+        },
+        {
+            "id": "mrk14_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Mas él, dejando la sábana, huyó de ellos desnudo."
+        },
+        {
+            "id": "mrk14_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y trajeron a Jesús ante el sumo sacerdote; y estaban reunidos con él todos los príncipes de los sacerdotes y los ancianos y los escribas."
+        },
+        {
+            "id": "mrk14_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y Pedro le siguió de lejos hasta adentro del patio del sumo sacerdote; y estaba sentado con los siervos, calentándose al fuego."
+        },
+        {
+            "id": "mrk14_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y los príncipes de los sacerdotes y todo el concilio buscaban testimonio contra Jesús, para entregarle a muerte, mas no lo hallaban."
+        },
+        {
+            "id": "mrk14_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Porque muchos decían falso testimonio contra Él; pero sus testimonios no concordaban."
+        },
+        {
+            "id": "mrk14_57a",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Entonces levantándose unos, dieron falso testimonio contra Él, diciendo:"
+        },
+        {
+            "id": "mrk14_58a",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Nosotros le oímos decir:"
+        },
+        {
+            "id": "mrk14_58b",
+            "speaker": "Testigos",
+            "verse": 58,
+            "text": "Yo derribaré este templo que es hecho a mano, y en tres días edificaré otro hecho sin mano."
+        },
+        {
+            "id": "mrk14_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Pero ni aun así concordaba el testimonio de ellos."
+        },
+        {
+            "id": "mrk14_60a",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Entonces el sumo sacerdote, levantándose en medio, preguntó a Jesús, diciendo:"
+        },
+        {
+            "id": "mrk14_60b",
+            "speaker": "Sumo sacerdote",
+            "verse": 60,
+            "text": "¿No respondes nada? ¿Qué testifican éstos contra ti?"
+        },
+        {
+            "id": "mrk14_61a",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Mas Él callaba, y nada respondía. El sumo sacerdote le volvió a preguntar, y le dijo:"
+        },
+        {
+            "id": "mrk14_61b",
+            "speaker": "Sumo sacerdote",
+            "verse": 61,
+            "text": "¿Eres tú el Cristo, el Hijo del Bendito?"
+        },
+        {
+            "id": "mrk14_62a",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "mrk14_62b",
+            "speaker": "Jesús",
+            "verse": 62,
+            "text": "Yo soy; y veréis al Hijo del Hombre sentado a la diestra del poder, y viniendo en las nubes del cielo."
+        },
+        {
+            "id": "mrk14_63a",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Entonces el sumo sacerdote rasgando su vestidura, dijo:"
+        },
+        {
+            "id": "mrk14_63b",
+            "speaker": "Sumo sacerdote",
+            "verse": 63,
+            "text": "¿Qué más necesidad tenemos de testigos?"
+        },
+        {
+            "id": "mrk14_64",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Habéis oído la blasfemia; ¿qué os parece? Y todos le condenaron a ser culpable de muerte."
+        },
+        {
+            "id": "mrk14_65a",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Y algunos comenzaron a escupirle, y a cubrir su rostro, y a abofetearle, diciéndole:"
+        },
+        {
+            "id": "mrk14_65b",
+            "speaker": "Sacerdotes",
+            "verse": 65,
+            "text": "Profetiza."
+        },
+        {
+            "id": "mrk14_65c",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Y los siervos le herían a bofetadas."
+        },
+        {
+            "id": "mrk14_66",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "Y estando Pedro abajo en el patio, vino una de las criadas del sumo sacerdote;"
+        },
+        {
+            "id": "mrk14_67a",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Y cuando vio a Pedro que se calentaba, mirándole, dijo:"
+        },
+        {
+            "id": "mrk14_67b",
+            "speaker": "Criada",
+            "verse": 67,
+            "text": "Y tú también estabas con Jesús el Nazareno."
+        },
+        {
+            "id": "mrk14_68a",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "Pero él lo negó, diciendo:"
+        },
+        {
+            "id": "mrk14_68b",
+            "speaker": "Pedro",
+            "verse": 68,
+            "text": "No le conozco, ni entiendo lo que dices. Y salió al portal; y cantó el gallo."
+        },
+        {
+            "id": "mrk14_69a",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "Y la criada, viéndole otra vez, comenzó a decir a los que estaban allí:"
+        },
+        {
+            "id": "mrk14_69b",
+            "speaker": "Criada",
+            "verse": 69,
+            "text": "Éste es de ellos."
+        },
+        {
+            "id": "mrk14_70a",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "Y él lo negó otra vez. Y poco después, los que estaban allí, dijeron otra vez a Pedro:"
+        },
+        {
+            "id": "mrk14_70b",
+            "speaker": "Multitud",
+            "verse": 70,
+            "text": "Verdaderamente tú eres de ellos, porque eres galileo, y tu hablar es semejante."
+        },
+        {
+            "id": "mrk14_71",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "Entonces él comenzó a maldecir y a jurar: No conozco a este hombre de quien habláis."
+        },
+        {
+            "id": "mrk14_72a",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "Y el gallo cantó la segunda vez. Entonces Pedro se acordó de las palabras que Jesús le había dicho:"
+        },
+        {
+            "id": "mrk14_72b",
+            "speaker": "Jesús",
+            "verse": 72,
+            "text": "Antes que el gallo cante dos veces, me negarás tres veces."
+        },
+        {
+            "id": "mrk14_72c",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "Y pensando en esto, lloraba."
+        }
+    ]
+}

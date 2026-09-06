@@ -1,0 +1,391 @@
+{
+    "book": "Marcos",
+    "chapter": 12,
+    "title": "Marcos 12",
+    "messages": [
+        {
+            "id": "mrk12_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y comenzó a hablarles por parábolas:"
+        },
+        {
+            "id": "mrk12_1b",
+            "speaker": "Jesús",
+            "verse": 1,
+            "text": "Un hombre plantó una viña, y la cercó con vallado, y cavó un lagar, y edificó una torre, y la arrendó a labradores, y partió lejos."
+        },
+        {
+            "id": "mrk12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y al tiempo envió un siervo a los labradores, para que recibiese de los labradores del fruto de su viña."
+        },
+        {
+            "id": "mrk12_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mas ellos tomándole, le hirieron, y le enviaron vacío."
+        },
+        {
+            "id": "mrk12_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y volvió a enviarles otro siervo, mas ellos apedreándole, le hirieron en la cabeza, y le enviaron afrentado."
+        },
+        {
+            "id": "mrk12_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y volvió a enviar a otro, y a éste mataron; y a otros muchos, hiriendo a unos y matando a otros."
+        },
+        {
+            "id": "mrk12_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por último, teniendo aún un hijo, su amado, lo envió también a ellos, diciendo:"
+        },
+        {
+            "id": "mrk12_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Tendrán respeto a mi hijo."
+        },
+        {
+            "id": "mrk12_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero aquellos labradores dijeron entre sí:"
+        },
+        {
+            "id": "mrk12_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Éste es el heredero, venid, matémosle, y la heredad será nuestra."
+        },
+        {
+            "id": "mrk12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y prendiéndole, le mataron, y le echaron fuera de la viña."
+        },
+        {
+            "id": "mrk12_9",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "¿Qué, pues, hará el señor de la viña? Vendrá y destruirá a estos labradores, y dará su viña a otros."
+        },
+        {
+            "id": "mrk12_10",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "¿Ni aun esta Escritura habéis leído: La piedra que desecharon los edificadores, ha venida a ser cabeza del ángulo:"
+        },
+        {
+            "id": "mrk12_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "El Señor ha hecho esto, y es cosa maravillosa en nuestros ojos?"
+        },
+        {
+            "id": "mrk12_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y procuraban prenderle, porque sabían que decía contra ellos aquella parábola; pero temían al pueblo, y dejándole se fueron."
+        },
+        {
+            "id": "mrk12_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y enviaron a Él algunos de los fariseos y de los herodianos, para que le prendiesen en alguna palabra."
+        },
+        {
+            "id": "mrk12_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y viniendo ellos, le dijeron:"
+        },
+        {
+            "id": "mrk12_14b",
+            "speaker": "Fariseos",
+            "verse": 14,
+            "text": "Maestro, sabemos que eres veraz, y que no te cuidas de nadie; porque no miras la apariencia de los hombres, sino que enseñas el camino de Dios en verdad: ¿Es lícito dar tributo a César, o no? ¿Daremos, o no daremos?"
+        },
+        {
+            "id": "mrk12_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pero Él, conociendo la hipocresía de ellos, les dijo:"
+        },
+        {
+            "id": "mrk12_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "¿Por qué me tentáis? Traedme una moneda para que la vea."
+        },
+        {
+            "id": "mrk12_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y ellos se la trajeron. Y les dijo:"
+        },
+        {
+            "id": "mrk12_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "¿De quién es esta imagen e inscripción?"
+        },
+        {
+            "id": "mrk12_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "mrk12_16d",
+            "speaker": "Fariseos",
+            "verse": 16,
+            "text": "De César."
+        },
+        {
+            "id": "mrk12_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "mrk12_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Dad a César lo que es de César, y a Dios lo que es de Dios. Y se maravillaron de Él."
+        },
+        {
+            "id": "mrk12_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces vinieron a Él los saduceos, que dicen que no hay resurrección, y le preguntaron, diciendo:"
+        },
+        {
+            "id": "mrk12_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Maestro, Moisés nos escribió, que si el hermano de alguno muere, y deja esposa y no deja hijos, que su hermano tome su esposa, y levante descendencia a su hermano."
+        },
+        {
+            "id": "mrk12_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Hubo siete hermanos; y el primero tomó esposa; y murió sin dejar descendencia."
+        },
+        {
+            "id": "mrk12_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y la tomó el segundo, y murió, y tampoco él dejó descendencia; y el tercero, de la misma manera."
+        },
+        {
+            "id": "mrk12_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y la tomaron los siete, y no dejaron descendencia; a la postre murió también la mujer."
+        },
+        {
+            "id": "mrk12_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "En la resurrección, pues, cuando resuciten, ¿de cuál de ellos será esposa? Porque los siete la tuvieron por esposa."
+        },
+        {
+            "id": "mrk12_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "mrk12_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "¿No erráis por esto, porque no conocéis las Escrituras, ni el poder de Dios?"
+        },
+        {
+            "id": "mrk12_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Porque cuando resuciten de entre los muertos, no se casarán, ni se darán en casamiento, mas serán como los ángeles que están en el cielo."
+        },
+        {
+            "id": "mrk12_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y de que los muertos hayan de resucitar, ¿no habéis leído en el libro de Moisés, cómo le habló Dios en la zarza, diciendo:"
+        },
+        {
+            "id": "mrk12_26b",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "Yo soy el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob?"
+        },
+        {
+            "id": "mrk12_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Él no es Dios de muertos, sino Dios de vivos; así que vosotros mucho erráis."
+        },
+        {
+            "id": "mrk12_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y uno de los escribas que los había oído disputar, y sabía que les había respondido bien, vino y le preguntó:"
+        },
+        {
+            "id": "mrk12_28b",
+            "speaker": "Escribas",
+            "verse": 28,
+            "text": "¿Cuál es el primer mandamiento de todos?"
+        },
+        {
+            "id": "mrk12_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Jesús le respondió:"
+        },
+        {
+            "id": "mrk12_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "El primer mandamiento de todos es: Oye, oh Israel, el Señor nuestro Dios, el Señor uno es."
+        },
+        {
+            "id": "mrk12_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente, y con todas tus fuerzas. Éste es el principal mandamiento."
+        },
+        {
+            "id": "mrk12_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y el segundo es semejante a éste: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos."
+        },
+        {
+            "id": "mrk12_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Entonces el escriba le dijo:"
+        },
+        {
+            "id": "mrk12_32b",
+            "speaker": "Escribas",
+            "verse": 32,
+            "text": "Bien, Maestro, verdad has dicho, porque hay un Dios, y no hay otro fuera de Él."
+        },
+        {
+            "id": "mrk12_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y el amarle con todo el corazón, y con todo el entendimiento, y con toda el alma, y con todas las fuerzas, y amar al prójimo como a sí mismo, es más que todos los holocaustos y sacrificios."
+        },
+        {
+            "id": "mrk12_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y viendo Jesús que él había respondido sabiamente, le dijo:"
+        },
+        {
+            "id": "mrk12_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "No estás lejos del reino de Dios."
+        },
+        {
+            "id": "mrk12_34c",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y ya ninguno osaba preguntarle."
+        },
+        {
+            "id": "mrk12_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y enseñando en el templo, respondió Jesús y dijo:"
+        },
+        {
+            "id": "mrk12_35b",
+            "speaker": "Jesús",
+            "verse": 35,
+            "text": "¿Cómo dicen los escribas que el Cristo es hijo de David?"
+        },
+        {
+            "id": "mrk12_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Porque el mismo David dijo por el Espíritu Santo:"
+        },
+        {
+            "id": "mrk12_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Dijo el Señor a mi Señor: Siéntate a mi diestra, hasta que ponga tus enemigos por estrado de tus pies."
+        },
+        {
+            "id": "mrk12_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y si David mismo le llama Señor; ¿cómo, pues, es su hijo? Y el pueblo común le oía de buena gana."
+        },
+        {
+            "id": "mrk12_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y les decía en su doctrina:"
+        },
+        {
+            "id": "mrk12_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "Guardaos de los escribas, que gustan de andar con vestiduras largas, y aman las salutaciones en las plazas,"
+        },
+        {
+            "id": "mrk12_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "y las primeras sillas en las sinagogas, y los primeros asientos en las cenas;"
+        },
+        {
+            "id": "mrk12_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "que devoran las casas de las viudas, y por pretexto hacen largas oraciones. Éstos recibirán mayor condenación."
+        },
+        {
+            "id": "mrk12_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y estando Jesús sentado delante del arca de la ofrenda, miraba cómo el pueblo echaba dinero en el arca: y muchos ricos echaban mucho."
+        },
+        {
+            "id": "mrk12_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y vino una viuda pobre, y echó dos blancas, que es un cuadrante."
+        },
+        {
+            "id": "mrk12_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Entonces llamando a sus discípulos, les dijo:"
+        },
+        {
+            "id": "mrk12_43b",
+            "speaker": "Jesús",
+            "verse": 43,
+            "text": "De cierto os digo que esta viuda pobre echó más que todos los que han echado en el arca;"
+        },
+        {
+            "id": "mrk12_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "porque todos han echado de lo que les sobra; mas ésta, de su pobreza echó todo lo que tenía, todo su sustento."
+        }
+    ]
+}

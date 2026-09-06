@@ -1,0 +1,259 @@
+{
+    "book": "Marcos",
+    "chapter": 13,
+    "title": "Marcos 13",
+    "messages": [
+        {
+            "id": "mrk13_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y saliendo Él del templo, le dijo uno de sus discípulos:"
+        },
+        {
+            "id": "mrk13_1b",
+            "speaker": "Discípulos",
+            "verse": 1,
+            "text": "Maestro, mira qué piedras, y qué edificios."
+        },
+        {
+            "id": "mrk13_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Jesús, respondiendo, le dijo:"
+        },
+        {
+            "id": "mrk13_2b",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "¿Ves estos grandes edificios? No quedará piedra sobre piedra que no sea derribada."
+        },
+        {
+            "id": "mrk13_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y sentándose en el monte de los Olivos, frente al templo, Pedro, Jacobo, Juan y Andrés le preguntaron aparte:"
+        },
+        {
+            "id": "mrk13_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Dinos, ¿cuándo serán estas cosas? ¿Y qué señal habrá cuando todas estas cosas hayan de cumplirse?"
+        },
+        {
+            "id": "mrk13_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Jesús, respondiéndoles, comenzó a decir:"
+        },
+        {
+            "id": "mrk13_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Mirad que nadie os engañe;"
+        },
+        {
+            "id": "mrk13_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque vendrán muchos en mi nombre, diciendo:"
+        },
+        {
+            "id": "mrk13_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Yo soy el Cristo; y a muchos engañarán."
+        },
+        {
+            "id": "mrk13_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando oyereis de guerras y de rumores de guerras, no os turbéis; porque es necesario que así acontezca; pero aún no es el fin."
+        },
+        {
+            "id": "mrk13_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Porque se levantará nación contra nación, y reino contra reino; y habrá terremotos en diversos lugares, y habrá hambres y alborotos; principios de dolores son estos."
+        },
+        {
+            "id": "mrk13_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero mirad por vosotros mismos; porque os entregarán a los concilios, y en las sinagogas seréis azotados; y delante de gobernadores y de reyes y seréis llevados por causa de mí, para testimonio contra ellos."
+        },
+        {
+            "id": "mrk13_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y es necesario que el evangelio sea predicado antes a todas las naciones."
+        },
+        {
+            "id": "mrk13_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando os llevaren y entregaren, no os preocupéis por lo que habéis de decir, ni lo premeditéis; sino lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el Espíritu Santo."
+        },
+        {
+            "id": "mrk13_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y el hermano entregará a muerte al hermano, y el padre al hijo; y se levantarán los hijos contra los padres, y los harán morir."
+        },
+        {
+            "id": "mrk13_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y seréis aborrecidos de todos por causa de mi nombre; mas el que perseverare hasta el fin, éste será salvo."
+        },
+        {
+            "id": "mrk13_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas cuando viereis la abominación desoladora, de que habló el profeta Daniel, que estará donde no debe estar (el que lee, entienda), entonces los que estén en Judea, huyan a los montes;"
+        },
+        {
+            "id": "mrk13_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "y el que esté sobre el terrado, no descienda a la casa, ni entre para tomar algo de su casa;"
+        },
+        {
+            "id": "mrk13_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y el que estuviere en el campo, no vuelva atrás para tomar su capa."
+        },
+        {
+            "id": "mrk13_17",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Mas ¡ay de las que estén encinta, y de las que amamanten en aquellos días!"
+        },
+        {
+            "id": "mrk13_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Orad, pues, que vuestra huida no acontezca en invierno."
+        },
+        {
+            "id": "mrk13_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque aquellos días serán de tribulación cual nunca ha habido desde el principio de la creación que Dios creó, hasta este tiempo, ni habrá."
+        },
+        {
+            "id": "mrk13_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y si el Señor no hubiese acortado aquellos días, ninguna carne sería salva; mas por causa de los elegidos que Él escogió, acortó aquellos días."
+        },
+        {
+            "id": "mrk13_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y entonces si alguno os dijere:"
+        },
+        {
+            "id": "mrk13_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Mirad, aquí está el Cristo, no le creáis; o: Mirad, allí está, no le creáis."
+        },
+        {
+            "id": "mrk13_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Porque se levantarán falsos Cristos y falsos profetas, y mostrarán señales y prodigios, para engañar, si fuese posible, aun a los escogidos."
+        },
+        {
+            "id": "mrk13_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Mas vosotros mirad, he aquí, os lo he dicho todo antes."
+        },
+        {
+            "id": "mrk13_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pero en aquellos días, después de aquella tribulación, el sol se oscurecerá, y la luna no dará su resplandor;"
+        },
+        {
+            "id": "mrk13_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "y las estrellas caerán del cielo, y las potencias que están en los cielos serán conmovidas."
+        },
+        {
+            "id": "mrk13_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y entonces verán al Hijo del Hombre, viniendo en las nubes con gran poder y gloria."
+        },
+        {
+            "id": "mrk13_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y entonces enviará sus ángeles, y reunirá a sus escogidos de los cuatro vientos, desde el extremo de la tierra hasta el extremo del cielo."
+        },
+        {
+            "id": "mrk13_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "De la higuera aprended la parábola: Cuando ya su rama enternece, y brotan las hojas, sabéis que el verano está cerca:"
+        },
+        {
+            "id": "mrk13_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Así también vosotros, cuando veáis que suceden estas cosas, sabed que está cerca, a las puertas."
+        },
+        {
+            "id": "mrk13_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "De cierto os digo que no pasará esta generación, hasta que todo esto acontezca."
+        },
+        {
+            "id": "mrk13_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "El cielo y la tierra pasarán, mas mis palabras no pasarán."
+        },
+        {
+            "id": "mrk13_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Pero de aquel día y de la hora nadie sabe, ni aun los ángeles que están en el cielo, ni el Hijo, sino el Padre."
+        },
+        {
+            "id": "mrk13_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Mirad, velad y orad, porque no sabéis cuándo es el tiempo."
+        },
+        {
+            "id": "mrk13_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Porque el Hijo del Hombre es como el hombre que partió lejos, el cual dejó su casa, y dio autoridad a sus siervos, y a cada uno su obra, y al portero mandó que velase."
+        },
+        {
+            "id": "mrk13_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Velad, pues, porque no sabéis cuándo el señor de la casa ha de venir; si a la tarde, o a la media noche, o al canto del gallo, o al amanecer;"
+        },
+        {
+            "id": "mrk13_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "no sea que viniendo de repente, os halle durmiendo."
+        },
+        {
+            "id": "mrk13_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y lo que a vosotros digo, a todos lo digo: Velad."
+        }
+    ]
+}

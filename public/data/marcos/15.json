@@ -1,0 +1,403 @@
+{
+    "book": "Marcos",
+    "chapter": 15,
+    "title": "Marcos 15",
+    "messages": [
+        {
+            "id": "mrk15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y luego por la mañana, tomando consejo los príncipes de los sacerdotes con los ancianos y con los escribas y con todo el concilio, llevaron a Jesús atado, y le entregaron a Pilato."
+        },
+        {
+            "id": "mrk15_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Pilato le preguntó:"
+        },
+        {
+            "id": "mrk15_2b",
+            "speaker": "Pilato",
+            "verse": 2,
+            "text": "¿Eres tú el Rey de los judíos?"
+        },
+        {
+            "id": "mrk15_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y respondiendo Él, le dijo:"
+        },
+        {
+            "id": "mrk15_2d",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "Tú lo dices."
+        },
+        {
+            "id": "mrk15_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y los príncipes de los sacerdotes le acusaban mucho, mas Él no respondía nada."
+        },
+        {
+            "id": "mrk15_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Pilato le preguntó otra vez, diciendo:"
+        },
+        {
+            "id": "mrk15_4b",
+            "speaker": "Pilato",
+            "verse": 4,
+            "text": "¿No respondes nada? Mira cuántas cosas testifican contra ti."
+        },
+        {
+            "id": "mrk15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pero Jesús ni aun con eso respondió nada; de modo que Pilato se maravillaba."
+        },
+        {
+            "id": "mrk15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Ahora bien, en el día de la fiesta les soltaba un preso, cualquiera que pidiesen."
+        },
+        {
+            "id": "mrk15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y había uno que se llamaba Barrabás, preso con sus compañeros de motín, que habían cometido homicidio en una insurrección."
+        },
+        {
+            "id": "mrk15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y la multitud, gritando, comenzó a pedir que hiciera como siempre les había hecho."
+        },
+        {
+            "id": "mrk15_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Pilato les respondió, diciendo:"
+        },
+        {
+            "id": "mrk15_9b",
+            "speaker": "Pilato",
+            "verse": 9,
+            "text": "¿Queréis que os suelte al Rey de los judíos?"
+        },
+        {
+            "id": "mrk15_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque él sabía que los príncipes de los sacerdotes por envidia le habían entregado."
+        },
+        {
+            "id": "mrk15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas los príncipes de los sacerdotes incitaron a la multitud, para que les soltase más bien a Barrabás."
+        },
+        {
+            "id": "mrk15_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y respondiendo Pilato, les dijo otra vez:"
+        },
+        {
+            "id": "mrk15_12b",
+            "speaker": "Pilato",
+            "verse": 12,
+            "text": "¿Qué, pues, queréis que haga del que llamáis Rey de los judíos?"
+        },
+        {
+            "id": "mrk15_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y ellos volvieron a gritar:"
+        },
+        {
+            "id": "mrk15_13b",
+            "speaker": "Multitud",
+            "verse": 13,
+            "text": "¡Crucifícale!"
+        },
+        {
+            "id": "mrk15_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Pilato les dijo:"
+        },
+        {
+            "id": "mrk15_14b",
+            "speaker": "Pilato",
+            "verse": 14,
+            "text": "¿Pues qué mal ha hecho?"
+        },
+        {
+            "id": "mrk15_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pero ellos gritaban aun más:"
+        },
+        {
+            "id": "mrk15_14d",
+            "speaker": "Multitud",
+            "verse": 14,
+            "text": "¡Crucifícale!"
+        },
+        {
+            "id": "mrk15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Pilato queriendo agradar al pueblo, les soltó a Barrabás, y entregó a Jesús, después de azotarle, para que fuese crucificado."
+        },
+        {
+            "id": "mrk15_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces los soldados le llevaron dentro de la sala que es llamada Pretorio; y convocaron a toda la cohorte."
+        },
+        {
+            "id": "mrk15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y le vistieron de púrpura; y tejiendo una corona de espinas, la pusieron sobre su cabeza."
+        },
+        {
+            "id": "mrk15_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y comenzaron a saludarle:"
+        },
+        {
+            "id": "mrk15_18b",
+            "speaker": "Soldados",
+            "verse": 18,
+            "text": "¡Salve, Rey de los judíos!"
+        },
+        {
+            "id": "mrk15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y le herían en la cabeza con una caña, y escupían en Él, y arrodillándose le adoraban."
+        },
+        {
+            "id": "mrk15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y cuando le hubieron escarnecido, le desnudaron la púrpura, y le pusieron sus propias vestiduras, y le sacaron para crucificarle."
+        },
+        {
+            "id": "mrk15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y obligaron a uno que pasaba, Simón cireneo, padre de Alejandro y de Rufo, que venía del campo, para que le llevase su cruz."
+        },
+        {
+            "id": "mrk15_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y le llevaron al lugar llamado Gólgota, que interpretado es:"
+        },
+        {
+            "id": "mrk15_22b",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "El lugar de la Calavera."
+        },
+        {
+            "id": "mrk15_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y le dieron a beber vino mezclado con mirra; mas Él no lo tomó."
+        },
+        {
+            "id": "mrk15_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y cuando le hubieron crucificado, repartieron sus vestiduras echando suertes sobre ellas, para ver qué llevaría cada uno."
+        },
+        {
+            "id": "mrk15_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y era la hora tercera cuando le crucificaron."
+        },
+        {
+            "id": "mrk15_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y el título escrito de su causa era: EL REY DE LOS JUDÍOS."
+        },
+        {
+            "id": "mrk15_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y crucificaron con Él a dos ladrones, uno a su derecha, y otro a su izquierda."
+        },
+        {
+            "id": "mrk15_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y se cumplió la Escritura que dice:"
+        },
+        {
+            "id": "mrk15_28b",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y con los transgresores fue contado."
+        },
+        {
+            "id": "mrk15_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y los que pasaban le injuriaban, meneando sus cabezas y diciendo:"
+        },
+        {
+            "id": "mrk15_29b",
+            "speaker": "Multitud",
+            "verse": 29,
+            "text": "¡Ah! Tú que derribas el templo de Dios y en tres días lo reedificas,"
+        },
+        {
+            "id": "mrk15_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "sálvate a ti mismo, y desciende de la cruz."
+        },
+        {
+            "id": "mrk15_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "De esta manera también los príncipes de los sacerdotes escarneciendo, decían unos a otros, con los escribas:"
+        },
+        {
+            "id": "mrk15_31b",
+            "speaker": "Sacerdotes",
+            "verse": 31,
+            "text": "A otros salvó, a sí mismo no se puede salvar."
+        },
+        {
+            "id": "mrk15_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "El Cristo, el Rey de Israel, descienda ahora de la cruz, para que veamos y creamos. También los que estaban crucificados con Él le injuriaban."
+        },
+        {
+            "id": "mrk15_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y cuando vino la hora sexta, hubo tinieblas sobre toda la tierra hasta la hora novena."
+        },
+        {
+            "id": "mrk15_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y a la hora novena Jesús clamó a gran voz, diciendo:"
+        },
+        {
+            "id": "mrk15_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "Eloi, Eloi, ¿lama sabactani? Que interpretado, es: Dios mío, Dios mío, ¿por qué me has desamparado?"
+        },
+        {
+            "id": "mrk15_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y oyéndole unos de los que estaban allí, dijeron:"
+        },
+        {
+            "id": "mrk15_35b",
+            "speaker": "Multitud",
+            "verse": 35,
+            "text": "He aquí, llama a Elías."
+        },
+        {
+            "id": "mrk15_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y corrió uno, y empapando una esponja en vinagre, y poniéndola en una caña, le dio a beber, diciendo:"
+        },
+        {
+            "id": "mrk15_36b",
+            "speaker": "Multitud",
+            "verse": 36,
+            "text": "Dejad, veamos si viene Elías a bajarle."
+        },
+        {
+            "id": "mrk15_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Mas Jesús, clamando a gran voz, entregó el espíritu."
+        },
+        {
+            "id": "mrk15_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Entonces el velo del templo se rasgó en dos, de arriba abajo."
+        },
+        {
+            "id": "mrk15_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y cuando el centurión que estaba delante de Él, vio que así clamando entregó el espíritu, dijo:"
+        },
+        {
+            "id": "mrk15_39b",
+            "speaker": "Centurión",
+            "verse": 39,
+            "text": "Verdaderamente este hombre era el Hijo de Dios."
+        },
+        {
+            "id": "mrk15_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y estaban también algunas mujeres mirando de lejos, entre las cuales estaba María Magdalena, y María la madre de Jacobo el menor y de José, y Salomé;"
+        },
+        {
+            "id": "mrk15_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "las cuales, cuando estuvo en Galilea, le habían seguido, y le servían; y muchas otras que habían subido con Él a Jerusalén."
+        },
+        {
+            "id": "mrk15_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y cuando ya atardecía, porque era la preparación, esto es, la víspera del sábado,"
+        },
+        {
+            "id": "mrk15_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "José de Arimatea, consejero honorable, que también esperaba el reino de Dios, vino, y entró osadamente a Pilato, y pidió el cuerpo de Jesús."
+        },
+        {
+            "id": "mrk15_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y Pilato se maravilló de que ya hubiese muerto; y llamando al centurión, le preguntó si ya había muerto."
+        },
+        {
+            "id": "mrk15_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y enterado del centurión, dio el cuerpo a José,"
+        },
+        {
+            "id": "mrk15_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "el cual compró una sábana, y bajándole, le envolvió en la sábana, y le puso en un sepulcro que estaba cavado en una roca, y rodó una piedra a la puerta del sepulcro."
+        },
+        {
+            "id": "mrk15_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y María Magdalena, y María la madre de José, miraban dónde era puesto."
+        }
+    ]
+}

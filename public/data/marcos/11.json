@@ -1,0 +1,307 @@
+{
+    "book": "Marcos",
+    "chapter": 11,
+    "title": "Marcos 11",
+    "messages": [
+        {
+            "id": "mrk11_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando llegaron cerca de Jerusalén a Betfagé y a Betania, al monte de los Olivos, Él envió a dos de sus discípulos,"
+        },
+        {
+            "id": "mrk11_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mrk11_2b",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "Id a la aldea que está enfrente de vosotros, y luego que entréis en ella, hallaréis un pollino atado, sobre el cual ningún hombre se ha sentado; desatadlo y traedlo."
+        },
+        {
+            "id": "mrk11_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y si alguien os dijere:"
+        },
+        {
+            "id": "mrk11_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "¿Por qué hacéis eso? decid que el Señor lo necesita, y que enseguida lo devolverá."
+        },
+        {
+            "id": "mrk11_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y fueron, y hallaron el pollino atado afuera a la puerta, donde se unían dos caminos, y le desataron."
+        },
+        {
+            "id": "mrk11_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y unos de los que estaban allí les dijeron:"
+        },
+        {
+            "id": "mrk11_5b",
+            "speaker": "Multitud",
+            "verse": 5,
+            "text": "¿Qué hacéis desatando el pollino?"
+        },
+        {
+            "id": "mrk11_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Ellos entonces les dijeron como Jesús había mandado; y los dejaron."
+        },
+        {
+            "id": "mrk11_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y trajeron el pollino a Jesús, y echaron sobre él sus mantos, y se sentó sobre él."
+        },
+        {
+            "id": "mrk11_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y muchos tendían sus mantos sobre el camino, y otros cortaban ramas de los árboles, y las tendían en el camino."
+        },
+        {
+            "id": "mrk11_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los que iban delante y los que seguían detrás, aclamaban, diciendo:"
+        },
+        {
+            "id": "mrk11_9b",
+            "speaker": "Multitud",
+            "verse": 9,
+            "text": "¡Hosanna! ¡Bendito el que viene en el nombre del Señor!"
+        },
+        {
+            "id": "mrk11_10",
+            "speaker": "Multitud",
+            "verse": 10,
+            "text": "¡Bendito el reino de nuestro padre David, que viene en el nombre del Señor! ¡Hosanna en las alturas!"
+        },
+        {
+            "id": "mrk11_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y entró Jesús en Jerusalén, y en el templo; y habiendo mirado alrededor todas las cosas, y como ya anochecía, se fue a Betania con los doce."
+        },
+        {
+            "id": "mrk11_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y al día siguiente, cuando salieron de Betania, tuvo hambre."
+        },
+        {
+            "id": "mrk11_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y viendo de lejos una higuera que tenía hojas, vino a ver si quizá hallaría en ella algo; y cuando vino a ella, nada halló sino hojas, porque no era tiempo de higos."
+        },
+        {
+            "id": "mrk11_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Jesús respondiendo, dijo a la higuera:"
+        },
+        {
+            "id": "mrk11_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Nunca más coma nadie fruto de ti, por siempre."
+        },
+        {
+            "id": "mrk11_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y sus discípulos lo oyeron."
+        },
+        {
+            "id": "mrk11_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y vinieron a Jerusalén; y entrando Jesús en el templo, comenzó a echar fuera a los que vendían y compraban en el templo; y trastornó las mesas de los cambistas, y las sillas de los que vendían palomas;"
+        },
+        {
+            "id": "mrk11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "y no consentía que nadie atravesase el templo llevando vaso alguno."
+        },
+        {
+            "id": "mrk11_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y les enseñaba, diciendo:"
+        },
+        {
+            "id": "mrk11_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "¿No está escrito: Mi casa, casa de oración será llamada por todas las naciones? Pero vosotros la habéis hecho cueva de ladrones."
+        },
+        {
+            "id": "mrk11_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y lo oyeron los escribas y los príncipes de los sacerdotes, y buscaban cómo le matarían; porque le tenían miedo, por cuanto todo el pueblo estaba maravillado de su doctrina."
+        },
+        {
+            "id": "mrk11_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y al llegar la noche, Él salió de la ciudad."
+        },
+        {
+            "id": "mrk11_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y en la mañana, pasando por allí, vieron que la higuera se había secado desde las raíces."
+        },
+        {
+            "id": "mrk11_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Pedro, acordándose, le dijo:"
+        },
+        {
+            "id": "mrk11_21b",
+            "speaker": "Pedro",
+            "verse": 21,
+            "text": "Maestro, he aquí la higuera que maldijiste se ha secado."
+        },
+        {
+            "id": "mrk11_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y respondiendo Jesús les dijo:"
+        },
+        {
+            "id": "mrk11_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Tened fe en Dios."
+        },
+        {
+            "id": "mrk11_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Porque de cierto os digo que cualquiera que dijere a este monte:"
+        },
+        {
+            "id": "mrk11_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Quítate y échate en el mar, y no dudare en su corazón, mas creyere que será hecho lo que dice, lo que dijere le será hecho."
+        },
+        {
+            "id": "mrk11_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Por tanto os digo que todo lo que pidiereis orando, creed que lo recibiréis, y os vendrá."
+        },
+        {
+            "id": "mrk11_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y cuando estuviereis orando, perdonad, si tuviereis algo contra alguno, para que también vuestro Padre que está en el cielo os perdone a vosotros vuestras ofensas."
+        },
+        {
+            "id": "mrk11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Porque si vosotros no perdonáis, tampoco vuestro Padre que está en el cielo os perdonará vuestras ofensas."
+        },
+        {
+            "id": "mrk11_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y vinieron de nuevo a Jerusalén; y andando Él por el templo, vienen a Él los príncipes de los sacerdotes y los escribas, y los ancianos,"
+        },
+        {
+            "id": "mrk11_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y le dijeron:"
+        },
+        {
+            "id": "mrk11_28b",
+            "speaker": "Sacerdotes",
+            "verse": 28,
+            "text": "¿Con qué autoridad haces estas cosas? ¿Y quién te dio la autoridad para hacer estas cosas?"
+        },
+        {
+            "id": "mrk11_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Jesús, respondiendo, les dijo:"
+        },
+        {
+            "id": "mrk11_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "Yo también os haré una pregunta; y respondedme, y os diré con qué autoridad hago estas cosas:"
+        },
+        {
+            "id": "mrk11_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "El bautismo de Juan, ¿era del cielo, o de los hombres? Respondedme."
+        },
+        {
+            "id": "mrk11_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y ellos discutían entre sí, diciendo:"
+        },
+        {
+            "id": "mrk11_31b",
+            "speaker": "Sacerdotes",
+            "verse": 31,
+            "text": "Si dijéremos: Del cielo, dirá: ¿Por qué, pues, no le creísteis?"
+        },
+        {
+            "id": "mrk11_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y si dijéremos:"
+        },
+        {
+            "id": "mrk11_32b",
+            "speaker": "Sacerdotes",
+            "verse": 32,
+            "text": "De los hombres, tememos al pueblo; porque todos tenían a Juan como un verdadero profeta."
+        },
+        {
+            "id": "mrk11_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y ellos, respondiendo, dijeron a Jesús:"
+        },
+        {
+            "id": "mrk11_33b",
+            "speaker": "Sacerdotes",
+            "verse": 33,
+            "text": "No sabemos."
+        },
+        {
+            "id": "mrk11_33c",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "mrk11_33d",
+            "speaker": "Jesús",
+            "verse": 33,
+            "text": "Tampoco yo os diré con qué autoridad hago estas cosas."
+        }
+    ]
+}

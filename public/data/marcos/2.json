@@ -1,0 +1,247 @@
+{
+    "book": "Marcos",
+    "chapter": 2,
+    "title": "Marcos 2",
+    "messages": [
+        {
+            "id": "mrk2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y después de algunos días entró otra vez en Capernaúm, y se oyó que estaba en casa."
+        },
+        {
+            "id": "mrk2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "E inmediatamente se juntaron muchos, tanto que ya no había lugar, ni aun a la puerta; y les predicaba la palabra."
+        },
+        {
+            "id": "mrk2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces vinieron a Él unos trayendo a un paralítico, que era cargado por cuatro."
+        },
+        {
+            "id": "mrk2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y no pudiendo llegar a Él por causa del gentío, descubrieron el techo de donde estaba, y haciendo una abertura, bajaron el lecho en que yacía el paralítico."
+        },
+        {
+            "id": "mrk2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y al ver Jesús la fe de ellos, dijo al paralítico:"
+        },
+        {
+            "id": "mrk2_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Hijo, tus pecados te son perdonados."
+        },
+        {
+            "id": "mrk2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y estaban sentados allí unos de los escribas, los cuales pensaban en sus corazones:"
+        },
+        {
+            "id": "mrk2_7",
+            "speaker": "Escribas",
+            "verse": 7,
+            "text": "¿Por qué habla Éste así? Blasfemias dice. ¿Quién puede perdonar pecados, sino sólo Dios?"
+        },
+        {
+            "id": "mrk2_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y al instante Jesús, conociendo en su espíritu que pensaban de esta manera dentro de sí mismos, les dijo:"
+        },
+        {
+            "id": "mrk2_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "¿Por qué pensáis estas cosas en vuestros corazones?"
+        },
+        {
+            "id": "mrk2_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "¿Qué es más fácil, decir al paralítico:"
+        },
+        {
+            "id": "mrk2_9b",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "Tus pecados te son perdonados, o decirle: Levántate, toma tu lecho y anda?"
+        },
+        {
+            "id": "mrk2_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra de perdonar pecados (dijo al paralítico):"
+        },
+        {
+            "id": "mrk2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "A ti te digo: Levántate, toma tu lecho y vete a tu casa."
+        },
+        {
+            "id": "mrk2_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y al instante él se levantó, y tomando su lecho, salió delante de todos; de manera que todos estaban asombrados, y glorificaban a Dios, diciendo:"
+        },
+        {
+            "id": "mrk2_12b",
+            "speaker": "Multitud",
+            "verse": 12,
+            "text": "¡Nunca tal hemos visto!"
+        },
+        {
+            "id": "mrk2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y volvió a irse al mar; y toda la multitud venía a Él, y les enseñaba."
+        },
+        {
+            "id": "mrk2_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y pasando, vio a Leví hijo de Alfeo, sentado al banco de los tributos públicos, y le dijo:"
+        },
+        {
+            "id": "mrk2_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Sígueme. Y levantándose, le siguió."
+        },
+        {
+            "id": "mrk2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y aconteció que estando Jesús a la mesa en su casa, muchos publicanos y pecadores estaban también a la mesa con Jesús y sus discípulos; porque eran muchos, y le seguían."
+        },
+        {
+            "id": "mrk2_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y los escribas y los fariseos, viéndole comer con los publicanos y los pecadores, dijeron a sus discípulos:"
+        },
+        {
+            "id": "mrk2_16b",
+            "speaker": "Escribas",
+            "verse": 16,
+            "text": "¿Qué es esto, que Él come y bebe con publicanos y pecadores?"
+        },
+        {
+            "id": "mrk2_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y oyéndolo Jesús, les dijo:"
+        },
+        {
+            "id": "mrk2_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Los sanos no tienen necesidad de médico, sino los enfermos: No he venido a llamar a justos, sino a pecadores al arrepentimiento."
+        },
+        {
+            "id": "mrk2_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y los discípulos de Juan y los de los fariseos ayunaban; y vinieron, y le dijeron:"
+        },
+        {
+            "id": "mrk2_18b",
+            "speaker": "Fariseos",
+            "verse": 18,
+            "text": "¿Por qué los discípulos de Juan, y los de los fariseos ayunan, y tus discípulos no ayunan?"
+        },
+        {
+            "id": "mrk2_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Jesús les dijo:"
+        },
+        {
+            "id": "mrk2_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "¿Pueden ayunar los que están de bodas, mientras el esposo está con ellos? Entre tanto que tienen consigo al esposo, no pueden ayunar."
+        },
+        {
+            "id": "mrk2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Pero vendrán días cuando el esposo les será quitado, y entonces en aquellos días ayunarán."
+        },
+        {
+            "id": "mrk2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Nadie cose remiendo de paño nuevo en vestido viejo, de otra manera el remiendo nuevo tira de lo viejo, y se hace peor la rotura."
+        },
+        {
+            "id": "mrk2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y nadie echa vino nuevo en odres viejos; de otra manera el vino nuevo rompe los odres, y se derrama el vino, y los odres se pierden; mas el vino nuevo en odres nuevos se ha de echar."
+        },
+        {
+            "id": "mrk2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y aconteció que pasando Él por los sembrados en sábado, sus discípulos, andando, comenzaron a arrancar espigas."
+        },
+        {
+            "id": "mrk2_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces los fariseos le dijeron:"
+        },
+        {
+            "id": "mrk2_24b",
+            "speaker": "Fariseos",
+            "verse": 24,
+            "text": "Mira, ¿por qué hacen en sábado lo que no es lícito?"
+        },
+        {
+            "id": "mrk2_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mrk2_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "¿No habéis leído qué hizo David cuando tuvo necesidad y sintió hambre, él y los que con él estaban;"
+        },
+        {
+            "id": "mrk2_26",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "cómo entró en la casa de Dios, en los días de Abiatar el sumo sacerdote, y comió los panes de la proposición, de los cuales no es lícito comer sino a los sacerdotes, y dio aun a los que con él estaban?"
+        },
+        {
+            "id": "mrk2_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "También les dijo:"
+        },
+        {
+            "id": "mrk2_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "El sábado fue hecho por causa del hombre, y no el hombre por causa del sábado."
+        },
+        {
+            "id": "mrk2_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Así que el Hijo del Hombre es Señor aun del sábado."
+        }
+    ]
+}

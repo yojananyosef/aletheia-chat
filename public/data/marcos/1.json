@@ -1,0 +1,355 @@
+{
+    "book": "Marcos",
+    "chapter": 1,
+    "title": "Marcos 1",
+    "messages": [
+        {
+            "id": "mrk1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Principio del evangelio de Jesucristo, el Hijo de Dios."
+        },
+        {
+            "id": "mrk1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Como está escrito en los profetas: He aquí yo envío mi mensajero delante de tu faz, El cual preparará tu camino delante de ti."
+        },
+        {
+            "id": "mrk1_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Voz del que clama en el desierto:"
+        },
+        {
+            "id": "mrk1_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Preparad el camino del Señor: Enderezad sus sendas."
+        },
+        {
+            "id": "mrk1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Bautizaba Juan en el desierto, y predicaba el bautismo de arrepentimiento para remisión de pecados."
+        },
+        {
+            "id": "mrk1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y salía a él toda la provincia de Judea, y los de Jerusalén, y eran todos bautizados por él en el río Jordán, confesando sus pecados."
+        },
+        {
+            "id": "mrk1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Juan estaba vestido de pelo de camello, y portaba un cinto de cuero alrededor de sus lomos; y comía langostas y miel silvestre."
+        },
+        {
+            "id": "mrk1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y predicaba, diciendo:"
+        },
+        {
+            "id": "mrk1_7b",
+            "speaker": "Juan el Bautista",
+            "verse": 7,
+            "text": "Viene tras mí uno que es más poderoso que yo, a quien no soy digno de desatar encorvado la correa de su calzado."
+        },
+        {
+            "id": "mrk1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Yo a la verdad os he bautizado en agua; pero Él os bautizará con el Espíritu Santo."
+        },
+        {
+            "id": "mrk1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y aconteció en aquellos días, que Jesús vino de Nazaret de Galilea, y fue bautizado por Juan en el Jordán."
+        },
+        {
+            "id": "mrk1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y luego, subiendo del agua, vio abrirse los cielos, y al Espíritu como paloma que descendía sobre Él."
+        },
+        {
+            "id": "mrk1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y vino una voz del cielo que decía:"
+        },
+        {
+            "id": "mrk1_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Tú eres mi Hijo amado, en ti tengo contentamiento."
+        },
+        {
+            "id": "mrk1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y enseguida el Espíritu le impulsó al desierto."
+        },
+        {
+            "id": "mrk1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y estuvo allí en el desierto cuarenta días, siendo tentado por Satanás; y estaba con las fieras; y los ángeles le servían."
+        },
+        {
+            "id": "mrk1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas después que Juan fue encarcelado, Jesús vino a Galilea predicando el evangelio del reino de Dios,"
+        },
+        {
+            "id": "mrk1_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "mrk1_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "El tiempo se ha cumplido, y el reino de Dios se ha acercado: Arrepentíos, y creed el evangelio."
+        },
+        {
+            "id": "mrk1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y caminando junto al mar de Galilea, vio a Simón y a Andrés su hermano, que echaban la red en el mar, porque eran pescadores."
+        },
+        {
+            "id": "mrk1_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Jesús les dijo:"
+        },
+        {
+            "id": "mrk1_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Venid en pos de mí, y haré que seáis pescadores de hombres."
+        },
+        {
+            "id": "mrk1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y dejando al instante sus redes, le siguieron."
+        },
+        {
+            "id": "mrk1_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y pasando de allí un poco más adelante, vio a Jacobo, hijo de Zebedeo, y a Juan su hermano, que estaban también en la barca remendando sus redes."
+        },
+        {
+            "id": "mrk1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y al instante los llamó; y dejando a su padre Zebedeo en la barca con los jornaleros, fueron en pos de Él."
+        },
+        {
+            "id": "mrk1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y entraron en Capernaúm; y luego en el día sábado, entrando en la sinagoga, enseñaba."
+        },
+        {
+            "id": "mrk1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y se admiraban de su doctrina; porque les enseñaba como quien tiene autoridad, y no como los escribas."
+        },
+        {
+            "id": "mrk1_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y había en la sinagoga de ellos un hombre con un espíritu inmundo, el cual dio voces,"
+        },
+        {
+            "id": "mrk1_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mrk1_24b",
+            "speaker": "Demonio",
+            "verse": 24,
+            "text": "¡Déjanos! ¿Qué tenemos que ver contigo, Jesús nazareno? ¿Has venido para destruirnos? Sé quién eres, el Santo de Dios."
+        },
+        {
+            "id": "mrk1_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Jesús le reprendió, diciendo:"
+        },
+        {
+            "id": "mrk1_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "¡Enmudece, y sal de él!"
+        },
+        {
+            "id": "mrk1_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y el espíritu inmundo, sacudiéndole con violencia, y clamando a gran voz, salió de él."
+        },
+        {
+            "id": "mrk1_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y todos estaban maravillados, de tal manera que se preguntaban entre sí, diciendo:"
+        },
+        {
+            "id": "mrk1_27b",
+            "speaker": "Multitud",
+            "verse": 27,
+            "text": "¿Qué es esto? ¿Qué nueva doctrina es ésta, que con autoridad manda aun a los espíritus inmundos, y le obedecen?"
+        },
+        {
+            "id": "mrk1_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y pronto corrió su fama por toda la región alrededor de Galilea."
+        },
+        {
+            "id": "mrk1_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y en seguida, saliendo de la sinagoga, vinieron a casa de Simón y Andrés, con Jacobo y Juan."
+        },
+        {
+            "id": "mrk1_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y la suegra de Simón estaba acostada con fiebre, y le dijeron luego de ella."
+        },
+        {
+            "id": "mrk1_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces vino Él, y tomándola de la mano la levantó; y al instante le dejó la fiebre, y ella les servía."
+        },
+        {
+            "id": "mrk1_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y a la caída la tarde, cuando el sol se puso, le trajeron a todos los enfermos, y a los endemoniados;"
+        },
+        {
+            "id": "mrk1_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "y toda la ciudad se agolpó a la puerta."
+        },
+        {
+            "id": "mrk1_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y sanó a muchos que estaban enfermos de diversas enfermedades, y echó fuera muchos demonios; y no dejaba hablar a los demonios, porque le conocían."
+        },
+        {
+            "id": "mrk1_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y levantándose muy de mañana, mucho antes del amanecer, salió y se fue a un lugar desierto, y allí oraba."
+        },
+        {
+            "id": "mrk1_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y Simón y los que estaban con él salieron a buscarle;"
+        },
+        {
+            "id": "mrk1_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y hallándole, le dijeron:"
+        },
+        {
+            "id": "mrk1_37b",
+            "speaker": "Discípulos",
+            "verse": 37,
+            "text": "Todos te buscan."
+        },
+        {
+            "id": "mrk1_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mrk1_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "Vamos a las ciudades vecinas, para que predique también allí, porque para esto he venido."
+        },
+        {
+            "id": "mrk1_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y predicaba en las sinagogas de ellos por toda Galilea, y echaba fuera los demonios."
+        },
+        {
+            "id": "mrk1_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y vino a Él un leproso, rogándole; y arrodillándose ante Él, le dijo:"
+        },
+        {
+            "id": "mrk1_40b",
+            "speaker": "Leproso",
+            "verse": 40,
+            "text": "Si quieres, puedes limpiarme."
+        },
+        {
+            "id": "mrk1_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y Jesús, teniendo compasión de él, extendió su mano y le tocó, y le dijo:"
+        },
+        {
+            "id": "mrk1_41b",
+            "speaker": "Jesús",
+            "verse": 41,
+            "text": "Quiero, sé limpio."
+        },
+        {
+            "id": "mrk1_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y así que hubo Él hablado, al instante la lepra se fue de aquél, y quedó limpio."
+        },
+        {
+            "id": "mrk1_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Entonces le apercibió rigurosamente, despidiéndole luego,"
+        },
+        {
+            "id": "mrk1_44a",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "mrk1_44b",
+            "speaker": "Jesús",
+            "verse": 44,
+            "text": "Mira, no digas a nadie nada, sino ve, muéstrate al sacerdote, y ofrece por tu limpieza lo que Moisés mandó, para testimonio a ellos."
+        },
+        {
+            "id": "mrk1_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Pero él, en cuanto salió, comenzó a publicarlo mucho, y a divulgar el hecho, de manera que Jesús ya no podía entrar abiertamente a la ciudad, sino que se estaba fuera en los lugares desiertos; y venían a Él de todas partes."
+        }
+    ]
+}

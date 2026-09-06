@@ -1,0 +1,481 @@
+{
+    "book": "Marcos",
+    "chapter": 6,
+    "title": "Marcos 6",
+    "messages": [
+        {
+            "id": "mrk6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y salió Él de allí y vino a su tierra, y le siguieron sus discípulos."
+        },
+        {
+            "id": "mrk6_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y llegado el sábado, comenzó a enseñar en la sinagoga; y muchos, oyéndole, estaban atónitos, diciendo:"
+        },
+        {
+            "id": "mrk6_2b",
+            "speaker": "Multitud",
+            "verse": 2,
+            "text": "¿De dónde tiene Éste estas cosas? ¿Y qué sabiduría es ésta que le es dada, que tales maravillas son hechas por sus manos?"
+        },
+        {
+            "id": "mrk6_3",
+            "speaker": "Multitud",
+            "verse": 3,
+            "text": "¿No es Éste el carpintero, el hijo de María, hermano de Jacobo, y de José, y de Judas y de Simón? ¿No están también aquí con nosotros sus hermanas? Y se escandalizaban de Él."
+        },
+        {
+            "id": "mrk6_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas Jesús les dijo:"
+        },
+        {
+            "id": "mrk6_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "No hay profeta sin honra sino en su tierra, y entre sus parientes, y en su casa."
+        },
+        {
+            "id": "mrk6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y no pudo hacer allí una gran obra, salvo que sanó a unos pocos enfermos, poniendo sus manos sobre ellos."
+        },
+        {
+            "id": "mrk6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y estaba maravillado de la incredulidad de ellos. Y recorría las aldeas de alrededor, enseñando."
+        },
+        {
+            "id": "mrk6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y llamó a los doce, y comenzó a enviarlos de dos en dos; y les dio potestad sobre los espíritus inmundos."
+        },
+        {
+            "id": "mrk6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y les mandó que no llevasen nada para el camino, sino solamente bordón; ni alforja, ni pan, ni dinero en la bolsa;"
+        },
+        {
+            "id": "mrk6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Sino que calzasen sandalias, y no vistiesen dos túnicas."
+        },
+        {
+            "id": "mrk6_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mrk6_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Dondequiera que entréis en una casa, posad en ella hasta que salgáis de allí."
+        },
+        {
+            "id": "mrk6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y todos aquellos que no os recibieren ni os oyeren, saliendo de allí, sacudid el polvo de debajo de vuestros pies para testimonio contra ellos. De cierto os digo que en el día del juicio, será más tolerable el castigo para Sodoma y Gomorra, que para aquella ciudad."
+        },
+        {
+            "id": "mrk6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y saliendo, predicaban que los hombres se arrepintiesen."
+        },
+        {
+            "id": "mrk6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y echaban fuera muchos demonios, y ungían con aceite a muchos enfermos, y los sanaban."
+        },
+        {
+            "id": "mrk6_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y oyó el rey Herodes la fama de Jesús, porque su nombre se había hecho notorio, y dijo:"
+        },
+        {
+            "id": "mrk6_14b",
+            "speaker": "Herodes",
+            "verse": 14,
+            "text": "Juan el Bautista ha resucitado de los muertos, y por eso milagros obran en él."
+        },
+        {
+            "id": "mrk6_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Otros decían:"
+        },
+        {
+            "id": "mrk6_15b",
+            "speaker": "Multitud",
+            "verse": 15,
+            "text": "Es Elías."
+        },
+        {
+            "id": "mrk6_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y otros decían:"
+        },
+        {
+            "id": "mrk6_15d",
+            "speaker": "Multitud",
+            "verse": 15,
+            "text": "Es un profeta, o alguno de los profetas."
+        },
+        {
+            "id": "mrk6_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas oyéndolo Herodes, dijo:"
+        },
+        {
+            "id": "mrk6_16b",
+            "speaker": "Herodes",
+            "verse": 16,
+            "text": "Es Juan, al que yo decapité, él ha resucitado de los muertos."
+        },
+        {
+            "id": "mrk6_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque Herodes mismo había enviado y prendido a Juan, y le había atado en la cárcel a causa de Herodías, esposa de Felipe su hermano; pues se había casado con ella."
+        },
+        {
+            "id": "mrk6_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque Juan decía a Herodes:"
+        },
+        {
+            "id": "mrk6_18b",
+            "speaker": "Juan el Bautista",
+            "verse": 18,
+            "text": "No te es lícito tener la esposa de tu hermano."
+        },
+        {
+            "id": "mrk6_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Herodías le aborrecía, y deseaba matarle, pero no podía;"
+        },
+        {
+            "id": "mrk6_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "porque Herodes temía a Juan, sabiendo que era varón justo y santo, y le guardaba; y cuando le oía, él hacía muchas cosas, y le oía de buena gana."
+        },
+        {
+            "id": "mrk6_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero viniendo un día oportuno, en que Herodes, en su cumpleaños, hizo una cena a sus príncipes y tribunos y a los principales de Galilea;"
+        },
+        {
+            "id": "mrk6_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entrando la hija de Herodías, danzó, y agradó a Herodes y a los que estaban con él a la mesa; y el rey dijo a la damisela:"
+        },
+        {
+            "id": "mrk6_22b",
+            "speaker": "Herodes",
+            "verse": 22,
+            "text": "Pídeme lo que quieras, y yo te lo daré."
+        },
+        {
+            "id": "mrk6_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y le juró: Todo lo que me pidieres te daré, hasta la mitad de mi reino."
+        },
+        {
+            "id": "mrk6_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y saliendo ella, dijo a su madre:"
+        },
+        {
+            "id": "mrk6_24b",
+            "speaker": "Hija de Herodías",
+            "verse": 24,
+            "text": "¿Qué pediré?"
+        },
+        {
+            "id": "mrk6_24c",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y ella dijo:"
+        },
+        {
+            "id": "mrk6_24d",
+            "speaker": "Herodías",
+            "verse": 24,
+            "text": "La cabeza de Juan el Bautista."
+        },
+        {
+            "id": "mrk6_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Entonces ella entró apresuradamente ante el rey, y pidió, diciendo:"
+        },
+        {
+            "id": "mrk6_25b",
+            "speaker": "Hija de Herodías",
+            "verse": 25,
+            "text": "Quiero que ahora mismo me des en un plato la cabeza de Juan el Bautista."
+        },
+        {
+            "id": "mrk6_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y el rey se entristeció mucho, mas por causa del juramento y de los que estaban con él a la mesa, no quiso desecharla."
+        },
+        {
+            "id": "mrk6_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y en seguida el rey envió a un verdugo, y mandó que fuese traída su cabeza; y el verdugo fue y le decapitó en la cárcel,"
+        },
+        {
+            "id": "mrk6_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "y trajo su cabeza en un plato, y la dio a la damisela, y la damisela la dio a su madre."
+        },
+        {
+            "id": "mrk6_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y cuando oyeron esto sus discípulos, vinieron y tomaron el cuerpo y lo pusieron en un sepulcro."
+        },
+        {
+            "id": "mrk6_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces los apóstoles se reunieron con Jesús, y le contaron todo lo que habían hecho, y lo que habían enseñado."
+        },
+        {
+            "id": "mrk6_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mrk6_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Venid vosotros aparte a un lugar desierto y descansad un poco. Porque eran muchos los que iban y venían, y ni aun tenían tiempo para comer."
+        },
+        {
+            "id": "mrk6_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y se fueron en la barca a un lugar desierto, a solas."
+        },
+        {
+            "id": "mrk6_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Pero la gente les vio partir, y muchos le reconocieron, y corrieron allá a pie de todas las ciudades, y llegaron antes que ellos, y se juntaron a Él."
+        },
+        {
+            "id": "mrk6_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y saliendo Jesús, vio una gran multitud, y tuvo compasión de ellos porque eran como ovejas que no tenían pastor, y comenzó a enseñarles muchas cosas."
+        },
+        {
+            "id": "mrk6_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y cuando el día era ya muy avanzado, sus discípulos se acercaron a Él y le dijeron:"
+        },
+        {
+            "id": "mrk6_35b",
+            "speaker": "Discípulos",
+            "verse": 35,
+            "text": "El lugar es desierto, y la hora ya muy avanzada."
+        },
+        {
+            "id": "mrk6_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Despídelos para que vayan a los cortijos y aldeas de alrededor, y compren pan para sí; porque no tienen qué comer."
+        },
+        {
+            "id": "mrk6_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Respondiendo Él, les dijo:"
+        },
+        {
+            "id": "mrk6_37b",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Dadles vosotros de comer."
+        },
+        {
+            "id": "mrk6_37c",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "mrk6_37d",
+            "speaker": "Discípulos",
+            "verse": 37,
+            "text": "¿Que vayamos y compremos pan por doscientos denarios, y les demos de comer?"
+        },
+        {
+            "id": "mrk6_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Él les dijo:"
+        },
+        {
+            "id": "mrk6_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "¿Cuántos panes tenéis? Id y vedlo."
+        },
+        {
+            "id": "mrk6_38c",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y enterándose, dijeron:"
+        },
+        {
+            "id": "mrk6_38d",
+            "speaker": "Discípulos",
+            "verse": 38,
+            "text": "Cinco, y dos peces."
+        },
+        {
+            "id": "mrk6_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y les mandó que hiciesen recostar a todos por grupos sobre la hierba verde."
+        },
+        {
+            "id": "mrk6_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y se sentaron por grupos, de cien en cien, y de cincuenta en cincuenta."
+        },
+        {
+            "id": "mrk6_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Entonces tomó los cinco panes y los dos peces, y alzando los ojos al cielo, bendijo y partió los panes, y dio a sus discípulos para que los pusiesen delante de ellos; y repartió los dos peces entre todos."
+        },
+        {
+            "id": "mrk6_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y todos comieron y se saciaron."
+        },
+        {
+            "id": "mrk6_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y recogieron de los pedazos doce canastos llenos, y de los peces."
+        },
+        {
+            "id": "mrk6_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y los que comieron de los panes eran como cinco mil hombres."
+        },
+        {
+            "id": "mrk6_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y en seguida hizo a sus discípulos entrar en la barca e ir delante de Él al otro lado, a Betsaida, entre tanto que Él despedía a la multitud."
+        },
+        {
+            "id": "mrk6_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y habiéndoles despedido se fue al monte a orar."
+        },
+        {
+            "id": "mrk6_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y al anochecer, la barca estaba en medio del mar, y Él solo en tierra."
+        },
+        {
+            "id": "mrk6_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y al ver que se fatigaban remando, porque el viento les era contrario, como a la cuarta vigilia de la noche vino a ellos andando sobre el mar, y quería pasarlos de largo."
+        },
+        {
+            "id": "mrk6_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y viéndole ellos andar sobre el mar, pensaron que era un fantasma, y dieron voces;"
+        },
+        {
+            "id": "mrk6_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Porque todos le veían, y se turbaron. Pero en seguida habló con ellos y les dijo:"
+        },
+        {
+            "id": "mrk6_50b",
+            "speaker": "Jesús",
+            "verse": 50,
+            "text": "Tened buen ánimo, yo soy, no temáis."
+        },
+        {
+            "id": "mrk6_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y subió a ellos en la barca, y cesó el viento, y ellos estaban asombrados sobremanera, y se maravillaban."
+        },
+        {
+            "id": "mrk6_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Porque aún no habían entendido el milagro de los panes, por cuanto estaban endurecidos sus corazones."
+        },
+        {
+            "id": "mrk6_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y habiendo pasado al otro lado, vinieron a tierra de Genezaret, y tomaron puerto."
+        },
+        {
+            "id": "mrk6_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y saliendo ellos de la barca, enseguida le reconocieron;"
+        },
+        {
+            "id": "mrk6_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "y corriendo a través de toda la región de alrededor, comenzaron a traer en lechos a los que estaban enfermos, a donde oían que estaba."
+        },
+        {
+            "id": "mrk6_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Y dondequiera que entraba, en aldeas, ciudades o campos, ponían en las calles a los que estaban enfermos, y le rogaban que les dejase tocar tan siquiera el borde de su manto; y todos los que le tocaban quedaban sanos."
+        }
+    ]
+}

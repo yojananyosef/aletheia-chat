@@ -1,0 +1,511 @@
+{
+    "book": "Marcos",
+    "chapter": 10,
+    "title": "Marcos 10",
+    "messages": [
+        {
+            "id": "mrk10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y levantándose de allí, vino a las costas de Judea al otro lado del Jordán. Y volvió el pueblo a juntarse a Él, y otra vez les enseñaba como solía."
+        },
+        {
+            "id": "mrk10_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y viniendo los fariseos, para tentarle, le preguntaron:"
+        },
+        {
+            "id": "mrk10_2b",
+            "speaker": "Fariseos",
+            "verse": 2,
+            "text": "¿Es lícito al marido divorciarse de su esposa?"
+        },
+        {
+            "id": "mrk10_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Él respondiendo, les dijo:"
+        },
+        {
+            "id": "mrk10_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "¿Qué os mandó Moisés?"
+        },
+        {
+            "id": "mrk10_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "mrk10_4b",
+            "speaker": "Fariseos",
+            "verse": 4,
+            "text": "Moisés permitió escribir carta de divorcio y repudiarla."
+        },
+        {
+            "id": "mrk10_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Jesús respondiendo, les dijo:"
+        },
+        {
+            "id": "mrk10_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Por la dureza de vuestro corazón os escribió este mandamiento,"
+        },
+        {
+            "id": "mrk10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "pero al principio de la creación, varón y hembra los hizo Dios."
+        },
+        {
+            "id": "mrk10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por esto dejará el hombre a su padre y a su madre, y se unirá a su esposa;"
+        },
+        {
+            "id": "mrk10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "y los dos serán una sola carne; así que no son ya más dos, sino una carne."
+        },
+        {
+            "id": "mrk10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por tanto, lo que Dios unió, no lo separe el hombre."
+        },
+        {
+            "id": "mrk10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y en casa sus discípulos volvieron a preguntarle de lo mismo."
+        },
+        {
+            "id": "mrk10_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mrk10_11b",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "Cualquiera que se divorcia de su esposa y se casa con otra, comete adulterio contra ella;"
+        },
+        {
+            "id": "mrk10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "y si la mujer se divorcia de su marido y se casa con otro, comete adulterio."
+        },
+        {
+            "id": "mrk10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y le presentaban niños para que los tocase; y los discípulos reprendían a los que los presentaban."
+        },
+        {
+            "id": "mrk10_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y viéndolo Jesús, se indignó, y les dijo:"
+        },
+        {
+            "id": "mrk10_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Dejad los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de Dios."
+        },
+        {
+            "id": "mrk10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "De cierto os digo que el que no recibiere el reino de Dios como un niño, no entrará en él."
+        },
+        {
+            "id": "mrk10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y tomándolos en sus brazos, poniendo sus manos sobre ellos, los bendecía."
+        },
+        {
+            "id": "mrk10_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y saliendo Él para continuar su camino, vino uno corriendo, y arrodillándose delante de Él, le preguntó:"
+        },
+        {
+            "id": "mrk10_17b",
+            "speaker": "Hombre",
+            "verse": 17,
+            "text": "Maestro bueno, ¿qué haré para heredar la vida eterna?"
+        },
+        {
+            "id": "mrk10_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "mrk10_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "¿Por qué me llamas bueno? Ninguno hay bueno, sino sólo uno, Dios."
+        },
+        {
+            "id": "mrk10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Los mandamientos sabes: No adulteres: No mates: No hurtes: No des falso testimonio: No defraudes: Honra a tu padre y a tu madre."
+        },
+        {
+            "id": "mrk10_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y él respondiendo, le dijo:"
+        },
+        {
+            "id": "mrk10_20b",
+            "speaker": "Hombre",
+            "verse": 20,
+            "text": "Maestro, todo esto he guardado desde mi juventud."
+        },
+        {
+            "id": "mrk10_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Jesús, mirándole, le amó, y le dijo:"
+        },
+        {
+            "id": "mrk10_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Una cosa te falta: Ve, vende todo lo que tienes y da a los pobres; y tendrás tesoro en el cielo; y ven, toma tu cruz, y sígueme."
+        },
+        {
+            "id": "mrk10_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero él, afligido por estas palabras, se fue triste, porque tenía muchas posesiones."
+        },
+        {
+            "id": "mrk10_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces Jesús, mirando alrededor, dijo a sus discípulos:"
+        },
+        {
+            "id": "mrk10_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "¡Cuán difícilmente entrarán en el reino de Dios los que tienen riquezas!"
+        },
+        {
+            "id": "mrk10_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y los discípulos se asombraron de sus palabras. Pero Jesús, respondiendo otra vez, les dijo:"
+        },
+        {
+            "id": "mrk10_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Hijos, ¡cuán difícil les es entrar en el reino de Dios, a los que confían en las riquezas!"
+        },
+        {
+            "id": "mrk10_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Más fácil es pasar un camello por el ojo de una aguja, que entrar un rico en el reino de Dios."
+        },
+        {
+            "id": "mrk10_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y ellos se asombraban aun más, diciendo entre sí:"
+        },
+        {
+            "id": "mrk10_26b",
+            "speaker": "Discípulos",
+            "verse": 26,
+            "text": "¿Quién, entonces, podrá ser salvo?"
+        },
+        {
+            "id": "mrk10_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y mirándolos Jesús, dijo:"
+        },
+        {
+            "id": "mrk10_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "Con los hombres es imposible; pero con Dios, no; porque con Dios todas las cosas son posibles."
+        },
+        {
+            "id": "mrk10_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces Pedro comenzó a decirle:"
+        },
+        {
+            "id": "mrk10_28b",
+            "speaker": "Pedro",
+            "verse": 28,
+            "text": "He aquí, nosotros lo hemos dejado todo, y te hemos seguido."
+        },
+        {
+            "id": "mrk10_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y respondiendo Jesús, dijo:"
+        },
+        {
+            "id": "mrk10_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "De cierto os digo, que ninguno hay que haya dejado casa, o hermanos, o hermanas, o padre, o madre, o esposa, o hijos, o tierras, por causa de mí y del evangelio,"
+        },
+        {
+            "id": "mrk10_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "que no haya de recibir cien tantos ahora en este tiempo; casas, hermanos, hermanas, madres, hijos, y tierras, con persecuciones; y en el mundo venidero, vida eterna."
+        },
+        {
+            "id": "mrk10_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Pero muchos primeros serán postreros, y postreros, primeros."
+        },
+        {
+            "id": "mrk10_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "E iban por el camino subiendo a Jerusalén, y Jesús iba delante de ellos; y estaban asombrados, y le seguían con miedo. Entonces volviendo a tomar a los doce aparte, les comenzó a decir las cosas que le habían de acontecer:"
+        },
+        {
+            "id": "mrk10_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "He aquí subimos a Jerusalén, y el Hijo del Hombre será entregado a los príncipes de los sacerdotes y a los escribas, y le condenarán a muerte, y le entregarán a los gentiles;"
+        },
+        {
+            "id": "mrk10_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "y le escarnecerán, y le azotarán, y escupirán en Él, y le matarán; mas al tercer día resucitará."
+        },
+        {
+            "id": "mrk10_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Entonces Jacobo y Juan, hijos de Zebedeo, vinieron a Él, diciendo:"
+        },
+        {
+            "id": "mrk10_35b",
+            "speaker": "Jacobo y Juan",
+            "verse": 35,
+            "text": "Maestro, querríamos que nos hagas lo que pidiéremos."
+        },
+        {
+            "id": "mrk10_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mrk10_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "¿Qué queréis que os haga?"
+        },
+        {
+            "id": "mrk10_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "mrk10_37b",
+            "speaker": "Jacobo y Juan",
+            "verse": 37,
+            "text": "Concédenos que en tu gloria nos sentemos el uno a tu derecha, y el otro a tu izquierda."
+        },
+        {
+            "id": "mrk10_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Pero Jesús les dijo:"
+        },
+        {
+            "id": "mrk10_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "No sabéis lo que pedís. ¿Podéis beber la copa que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado?"
+        },
+        {
+            "id": "mrk10_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "mrk10_39b",
+            "speaker": "Jacobo y Juan",
+            "verse": 39,
+            "text": "Podemos."
+        },
+        {
+            "id": "mrk10_39c",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y Jesús les dijo:"
+        },
+        {
+            "id": "mrk10_39d",
+            "speaker": "Jesús",
+            "verse": 39,
+            "text": "A la verdad, beberéis de la copa de que yo bebo, y con el bautismo con que yo soy bautizado, seréis bautizados;"
+        },
+        {
+            "id": "mrk10_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "pero el sentarse a mi derecha o a mi izquierda, no es mío darlo, sino que será dado a aquellos para quienes está preparado."
+        },
+        {
+            "id": "mrk10_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y cuando lo oyeron los diez, comenzaron a indignarse contra Jacobo y contra Juan."
+        },
+        {
+            "id": "mrk10_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Pero Jesús, llamándolos, les dijo:"
+        },
+        {
+            "id": "mrk10_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "Sabéis que los que parecen ser príncipes de los gentiles, se enseñorean sobre ellos; y los que entre ellos son grandes, tienen potestad sobre ellos."
+        },
+        {
+            "id": "mrk10_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Pero no será así entre vosotros; antes el que quisiere ser grande entre vosotros, será vuestro servidor;"
+        },
+        {
+            "id": "mrk10_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "y el que de vosotros quisiere ser el primero, será siervo de todos."
+        },
+        {
+            "id": "mrk10_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Porque el Hijo del Hombre no vino para ser servido, sino para servir, y dar su vida en rescate por muchos."
+        },
+        {
+            "id": "mrk10_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Entonces vinieron a Jericó; y saliendo Él de Jericó, con sus discípulos y una gran multitud, Bartimeo el ciego, hijo de Timeo, estaba sentado junto al camino mendigando."
+        },
+        {
+            "id": "mrk10_47a",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y cuando oyó que era Jesús el Nazareno, comenzó a dar voces, diciendo:"
+        },
+        {
+            "id": "mrk10_47b",
+            "speaker": "Bartimeo",
+            "verse": 47,
+            "text": "¡Jesús, Hijo de David, ten misericordia de mí!"
+        },
+        {
+            "id": "mrk10_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y muchos le reprendían para que callara; pero él, mucho más gritaba:"
+        },
+        {
+            "id": "mrk10_48b",
+            "speaker": "Bartimeo",
+            "verse": 48,
+            "text": "¡Hijo de David, ten misericordia de mí!"
+        },
+        {
+            "id": "mrk10_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Entonces Jesús, deteniéndose, mandó llamarle; y llamaron al ciego, diciéndole:"
+        },
+        {
+            "id": "mrk10_49b",
+            "speaker": "Multitud",
+            "verse": 49,
+            "text": "Ten confianza; levántate, te llama."
+        },
+        {
+            "id": "mrk10_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Él entonces, arrojando su capa, se levantó y vino a Jesús."
+        },
+        {
+            "id": "mrk10_51a",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y respondiendo Jesús, le dijo:"
+        },
+        {
+            "id": "mrk10_51b",
+            "speaker": "Jesús",
+            "verse": 51,
+            "text": "¿Qué quieres que te haga?"
+        },
+        {
+            "id": "mrk10_51c",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y el ciego le dijo:"
+        },
+        {
+            "id": "mrk10_51d",
+            "speaker": "Bartimeo",
+            "verse": 51,
+            "text": "Señor, que reciba la vista."
+        },
+        {
+            "id": "mrk10_52a",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "mrk10_52b",
+            "speaker": "Jesús",
+            "verse": 52,
+            "text": "Vete, tu fe te ha salvado."
+        },
+        {
+            "id": "mrk10_52c",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y al instante recibió su vista, y seguía a Jesús en el camino."
+        }
+    ]
+}
