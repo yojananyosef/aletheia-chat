@@ -1,0 +1,169 @@
+{
+    "book": "Ester",
+    "chapter": 6,
+    "title": "Ester 6",
+    "messages": [
+        {
+            "id": "est6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Aquella noche se le fue el sueño al rey, y dijo que le trajesen el libro de las memorias y las crónicas; y las leyeron delante del rey."
+        },
+        {
+            "id": "est6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y se halló escrito que Mardoqueo había denunciado el complot de Bigtán y Teres, dos eunucos del rey, de la guardia de la puerta, que habían procurado poner mano en el rey Asuero."
+        },
+        {
+            "id": "est6_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo el rey:"
+        },
+        {
+            "id": "est6_3b",
+            "speaker": "Asuero",
+            "verse": 3,
+            "text": "¿Qué honra o qué distinción se hizo a Mardoqueo por esto?"
+        },
+        {
+            "id": "est6_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y los siervos que ministraban al rey, respondieron:"
+        },
+        {
+            "id": "est6_3d",
+            "speaker": "Criado",
+            "verse": 3,
+            "text": "Nada se ha hecho por él."
+        },
+        {
+            "id": "est6_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces dijo el rey:"
+        },
+        {
+            "id": "est6_4b",
+            "speaker": "Asuero",
+            "verse": 4,
+            "text": "¿Quién está en el patio? Y Amán había venido al patio de afuera de la casa del rey, para decir al rey que hiciese colgar a Mardoqueo en la horca que él le tenía preparada."
+        },
+        {
+            "id": "est6_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los servidores del rey le respondieron:"
+        },
+        {
+            "id": "est6_5b",
+            "speaker": "Criado",
+            "verse": 5,
+            "text": "He aquí Amán está en el patio."
+        },
+        {
+            "id": "est6_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el rey dijo:"
+        },
+        {
+            "id": "est6_5d",
+            "speaker": "Asuero",
+            "verse": 5,
+            "text": "Que entre."
+        },
+        {
+            "id": "est6_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entró, pues, Amán, y el rey le dijo:"
+        },
+        {
+            "id": "est6_6b",
+            "speaker": "Asuero",
+            "verse": 6,
+            "text": "¿Qué se hará al hombre cuya honra desea el rey?"
+        },
+        {
+            "id": "est6_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y dijo Amán en su corazón:"
+        },
+        {
+            "id": "est6_6d",
+            "speaker": "Amán",
+            "verse": 6,
+            "text": "¿A quién deseará el rey hacer honra más que a mí?"
+        },
+        {
+            "id": "est6_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y respondió Amán al rey:"
+        },
+        {
+            "id": "est6_7b",
+            "speaker": "Amán",
+            "verse": 7,
+            "text": "Para el varón cuya honra desea el rey,"
+        },
+        {
+            "id": "est6_8",
+            "speaker": "Amán",
+            "verse": 8,
+            "text": "traigan la vestidura real de que el rey se viste, y el caballo en que el rey cabalga, y la corona real que está puesta sobre su cabeza;"
+        },
+        {
+            "id": "est6_9",
+            "speaker": "Amán",
+            "verse": 9,
+            "text": "y den la vestidura y el caballo en mano de alguno de los príncipes más nobles del rey, y vistan a aquel varón cuya honra desea el rey, y llévenlo en el caballo por la plaza de la ciudad, y pregonen delante de él: Así se hará al varón cuya honra desea el rey."
+        },
+        {
+            "id": "est6_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces el rey dijo a Amán:"
+        },
+        {
+            "id": "est6_10b",
+            "speaker": "Asuero",
+            "verse": 10,
+            "text": "Date prisa, toma la vestidura y el caballo, como tú has dicho, y hazlo así con el judío Mardoqueo, que se sienta a la puerta del rey; no omitas nada de todo lo que has dicho."
+        },
+        {
+            "id": "est6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Amán tomó la vestidura y el caballo, y vistió a Mardoqueo, y lo llevó a caballo por la plaza de la ciudad, e hizo pregonar delante de él: Así se hará al varón cuya honra desea el rey."
+        },
+        {
+            "id": "est6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Después de esto Mardoqueo se volvió a la puerta del rey, y Amán se fue corriendo a su casa, apesadumbrado y cubierta su cabeza."
+        },
+        {
+            "id": "est6_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Contó luego Amán a Zeres su esposa, y a todos sus amigos, todo lo que le había acontecido; y le dijeron sus sabios, y Zeres su esposa:"
+        },
+        {
+            "id": "est6_13b",
+            "speaker": "Zeres",
+            "verse": 13,
+            "text": "Si Mardoqueo, delante de quien has comenzado a caer, es de la simiente de los judíos, no lo vencerás; antes caerás por cierto delante de él."
+        },
+        {
+            "id": "est6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Aún estaban ellos hablando con él, cuando los eunucos del rey llegaron apresurados, para hacer venir a Amán al banquete que Esther había preparado."
+        }
+    ]
+}

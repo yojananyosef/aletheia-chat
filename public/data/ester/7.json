@@ -1,0 +1,115 @@
+{
+    "book": "Ester",
+    "chapter": 7,
+    "title": "Ester 7",
+    "messages": [
+        {
+            "id": "est7_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Vino, pues, el rey con Amán al banquete con la reina Esther."
+        },
+        {
+            "id": "est7_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y también el segundo día dijo el rey a Esther en el convite del vino:"
+        },
+        {
+            "id": "est7_2b",
+            "speaker": "Asuero",
+            "verse": 2,
+            "text": "¿Cuál es tu petición, reina Esther, y se te concederá? ¿Cuál es tu demanda? Aunque sea la mitad del reino, y te será hecho."
+        },
+        {
+            "id": "est7_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces la reina Esther respondió y dijo:"
+        },
+        {
+            "id": "est7_3b",
+            "speaker": "Ester",
+            "verse": 3,
+            "text": "Oh rey, si he hallado gracia en tus ojos, y si le place al rey, me sea dada mi vida por mi petición, y mi pueblo por mi demanda."
+        },
+        {
+            "id": "est7_4",
+            "speaker": "Ester",
+            "verse": 4,
+            "text": "Porque vendidos estamos yo y mi pueblo para ser destruidos, para ser muertos y exterminados. Y si para ser siervos y siervas fuéramos vendidos, yo callaría, aunque el enemigo no compensaría el daño del rey."
+        },
+        {
+            "id": "est7_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y respondió el rey Asuero, y dijo a la reina Esther:"
+        },
+        {
+            "id": "est7_5b",
+            "speaker": "Asuero",
+            "verse": 5,
+            "text": "¿Quién es, y dónde está, aquél que ha concebido en su corazón hacer tal cosa?"
+        },
+        {
+            "id": "est7_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Esther dijo:"
+        },
+        {
+            "id": "est7_6b",
+            "speaker": "Ester",
+            "verse": 6,
+            "text": "El enemigo y adversario es este malvado Amán. Entonces se turbó Amán delante del rey y de la reina."
+        },
+        {
+            "id": "est7_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y se levantó el rey del banquete del vino, y enfurecido se fue al huerto del palacio; y se quedó Amán para rogar a la reina Esther por su vida; porque vio que estaba resuelto para él el mal de parte del rey."
+        },
+        {
+            "id": "est7_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Volvió después el rey del huerto del palacio al aposento del banquete del vino, y Amán había caído sobre el lecho en que estaba Esther. Entonces dijo el rey:"
+        },
+        {
+            "id": "est7_8b",
+            "speaker": "Asuero",
+            "verse": 8,
+            "text": "¿Querrá también forzar a la reina estando yo en casa? Y al salir esta palabra de la boca del rey, cubrieron el rostro a Amán."
+        },
+        {
+            "id": "est7_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Harbona, uno de los eunucos de delante del rey:"
+        },
+        {
+            "id": "est7_9b",
+            "speaker": "Harbona",
+            "verse": 9,
+            "text": "He aquí también la horca de cincuenta codos de altura que hizo Amán para Mardoqueo, el cual había hablado bien por el rey, está en casa de Amán."
+        },
+        {
+            "id": "est7_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces el rey dijo:"
+        },
+        {
+            "id": "est7_9d",
+            "speaker": "Asuero",
+            "verse": 9,
+            "text": "Colgadlo en ella."
+        },
+        {
+            "id": "est7_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Así colgaron a Amán en la horca que él había preparado para Mardoqueo; y se apaciguó la ira del rey."
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "book": "Ester",
+    "chapter": 4,
+    "title": "Ester 4",
+    "messages": [
+        {
+            "id": "est4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Luego que supo Mardoqueo todo lo que se había hecho, rasgó sus vestiduras, y se vistió de cilicio y de ceniza, y se fue por medio de la ciudad clamando con grande y amargo clamor."
+        },
+        {
+            "id": "est4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y vino hasta delante de la puerta del rey; porque no era lícito pasar adentro de la puerta del rey vestido de cilicio."
+        },
+        {
+            "id": "est4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y en cada provincia y lugar donde el mandamiento del rey y su decreto llegaba, tenían los judíos gran duelo, y ayuno, y lloro, y lamentación; cilicio y ceniza era la cama de muchos."
+        },
+        {
+            "id": "est4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y vinieron las doncellas de Esther y sus eunucos y se lo dijeron; y la reina tuvo gran dolor, y envió vestiduras para hacer vestir a Mardoqueo, y hacerle quitar el cilicio de sobre él; mas él no las recibió."
+        },
+        {
+            "id": "est4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces Esther llamó a Atac, uno de los eunucos del rey, a quien él había asignado para atenderla, y lo mandó a Mardoqueo, para saber qué era aquello y por qué."
+        },
+        {
+            "id": "est4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Salió, pues, Atac a Mardoqueo, a la plaza de la ciudad que estaba delante de la puerta del rey."
+        },
+        {
+            "id": "est4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Mardoqueo le declaró todo lo que le había acontecido, y de la suma de la plata que Amán había prometido que pagaría a los tesoros del rey por la destrucción de los judíos."
+        },
+        {
+            "id": "est4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "También le dio la copia de la escritura del decreto que había sido dado en Susán para que fuesen destruidos, a fin de que la mostrara a Esther y se lo declarase, y le encargara que fuese al rey a suplicarle, y a pedir delante de él por su pueblo."
+        },
+        {
+            "id": "est4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vino Atac, y contó a Esther las palabras de Mardoqueo."
+        },
+        {
+            "id": "est4_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Esther habló a Atac, y le mandó decir a Mardoqueo:"
+        },
+        {
+            "id": "est4_11a",
+            "speaker": "Ester",
+            "verse": 11,
+            "text": "Todos los siervos del rey, y el pueblo de las provincias del rey saben, que cualquier hombre o mujer que entra al rey al patio de adentro sin ser llamado, hay una sola ley para él:"
+        },
+        {
+            "id": "est4_11b",
+            "speaker": "Ester",
+            "verse": 11,
+            "text": "Debe morir; salvo aquel a quien el rey extendiere el cetro de oro, el cual vivirá; y yo no he sido llamada para entrar al rey estos treinta días."
+        },
+        {
+            "id": "est4_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijeron a Mardoqueo las palabras de Esther."
+        },
+        {
+            "id": "est4_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces dijo Mardoqueo que respondiesen a Esther:"
+        },
+        {
+            "id": "est4_13b",
+            "speaker": "Mardoqueo",
+            "verse": 13,
+            "text": "No pienses en tu alma, que escaparás en la casa del rey más que todos los judíos."
+        },
+        {
+            "id": "est4_14",
+            "speaker": "Mardoqueo",
+            "verse": 14,
+            "text": "Porque si callas absolutamente en este tiempo, respiro y liberación se levantará para los judíos de otro lugar; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si has llegado al reino, para un tiempo como éste?"
+        },
+        {
+            "id": "est4_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Esther dijo que respondiesen a Mardoqueo:"
+        },
+        {
+            "id": "est4_16",
+            "speaker": "Ester",
+            "verse": 16,
+            "text": "Ve y reune a todos los judíos que se hallan en Susán, y ayunad por mí, y no comáis ni bebáis en tres días, noche y día; yo también con mis doncellas ayunaré igualmente, y así entraré al rey, aunque no sea conforme a la ley; y si perezco, que perezca."
+        },
+        {
+            "id": "est4_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces se fue Mardoqueo, e hizo conforme a todo lo que le mandó Esther."
+        }
+    ]
+}
