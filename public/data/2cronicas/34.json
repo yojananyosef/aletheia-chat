@@ -1,0 +1,241 @@
+{
+    "book": "2 Crónicas",
+    "chapter": 34,
+    "title": "2 Crónicas 34",
+    "messages": [
+        {
+            "id": "2ch34_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Ocho años tenía Josías cuando comenzó a reinar, y treinta y un años reinó en Jerusalén."
+        },
+        {
+            "id": "2ch34_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Éste hizo lo recto ante los ojos de Jehová, y anduvo en los caminos de David su padre, sin apartarse ni a la derecha ni a la izquierda."
+        },
+        {
+            "id": "2ch34_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "A los ocho años de su reinado, siendo aún muchacho, comenzó a buscar al Dios de David su padre; y a los doce años comenzó a limpiar a Judá y a Jerusalén de los lugares altos, de las imágenes de Asera, de las esculturas y de las imágenes de fundición."
+        },
+        {
+            "id": "2ch34_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y derribaron delante de él los altares de los Baales, e hizo pedazos las imágenes del sol, que estaban puestas encima; despedazó también las imágenes de Asera, y las esculturas y estatuas de fundición, y las desmenuzó, y esparció el polvo sobre los sepulcros de los que las habían sacrificado."
+        },
+        {
+            "id": "2ch34_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Quemó además los huesos de los sacerdotes sobre sus altares, y limpió a Judá y a Jerusalén."
+        },
+        {
+            "id": "2ch34_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Lo mismo hizo en las ciudades de Manasés, Efraín y Simeón, hasta en Neftalí, con sus lugares asolados alrededor."
+        },
+        {
+            "id": "2ch34_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando hubo derribado los altares y las imágenes de Asera, y quebrado y desmenuzado las esculturas, y destruido todos los ídolos por toda la tierra de Israel, se volvió a Jerusalén."
+        },
+        {
+            "id": "2ch34_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "A los dieciocho años de su reinado, después de haber limpiado la tierra, y la casa, envió a Safán, hijo de Azalías, y a Maasías gobernador de la ciudad, y a Joah, hijo de Joacaz, el cronista, para que reparasen la casa de Jehová su Dios."
+        },
+        {
+            "id": "2ch34_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Los cuales vinieron a Hilcías, el sumo sacerdote, y entregaron el dinero que había sido traído a la casa de Jehová, que los levitas que guardaban la puerta habían recogido de mano de Manasés y de Efraín y de todo el remanente de Israel, y de todo Judá y Benjamín, y volvieron a Jerusalén."
+        },
+        {
+            "id": "2ch34_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y lo entregaron en mano de los que hacían la obra, que eran mayordomos en la casa de Jehová; los cuales lo daban a los que hacían la obra y trabajaban en la casa de Jehová, para reparar y restaurar el templo."
+        },
+        {
+            "id": "2ch34_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Daban asimismo a los carpinteros y albañiles para que comprasen piedra de cantería, y madera para las uniones, y para la entabladura de las casas, las cuales habían destruido los reyes de Judá."
+        },
+        {
+            "id": "2ch34_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y estos hombres procedían con fidelidad en la obra; y eran sus mayordomos Jahat y Abdías, levitas de los hijos de Merari; y Zacarías y Mesulam de los hijos de Coat, para que activasen la obra; y de los levitas, todos los entendidos en instrumentos de música."
+        },
+        {
+            "id": "2ch34_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "También velaban sobre los cargadores y eran mayordomos de los que se ocupaban en cualquier clase de obra; y de los levitas había escribas, oficiales y porteros."
+        },
+        {
+            "id": "2ch34_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y al sacar el dinero que había sido traido a la casa de Jehová, Hilcías el sacerdote halló el libro de la ley de Jehová dada por medio de Moisés."
+        },
+        {
+            "id": "2ch34_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y dando cuenta Hilcías, dijo a Safán el escriba:"
+        },
+        {
+            "id": "2ch34_15b",
+            "speaker": "Hilcías",
+            "verse": 15,
+            "text": "Yo he hallado el libro de la ley en la casa de Jehová. Y dio Hilcías el libro a Safán."
+        },
+        {
+            "id": "2ch34_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Safán lo llevó al rey, y le contó el asunto, diciendo:"
+        },
+        {
+            "id": "2ch34_16b",
+            "speaker": "Safán",
+            "verse": 16,
+            "text": "Tus siervos han cumplido todo lo que les fue dado a cargo."
+        },
+        {
+            "id": "2ch34_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Han reunido el dinero que se halló en la casa de Jehová, y lo han entregado en mano de los supervisores, y en mano de los que hacen la obra."
+        },
+        {
+            "id": "2ch34_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Además de esto, declaró el escriba Safán al rey, diciendo:"
+        },
+        {
+            "id": "2ch34_18b",
+            "speaker": "Safán",
+            "verse": 18,
+            "text": "El sacerdote Hilcías me dio un libro. Y leyó Safán en él delante del rey."
+        },
+        {
+            "id": "2ch34_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y luego que el rey oyó las palabras de la ley, rasgó sus vestiduras;"
+        },
+        {
+            "id": "2ch34_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y mandó a Hilcías y a Ahicam, hijo de Safán, y a Abdón, hijo de Micaía, y a Safán el escriba, y a Asaías, siervo del rey, diciendo:"
+        },
+        {
+            "id": "2ch34_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Andad, y consultad a Jehová por mí, y por el remanente de Israel y de Judá, acerca de las palabras del libro que se ha hallado; porque grande es el furor de Jehová que ha caído sobre nosotros, por cuanto nuestros padres no guardaron la palabra de Jehová, para hacer conforme a todo lo que está escrito en este libro."
+        },
+        {
+            "id": "2ch34_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces Hilcías y los del rey fueron a la profetisa Hulda, esposa de Salum, hijo de Ticva, hijo de Hasra, guarda de las vestimentas, la cual moraba en Jerusalén en la casa de la doctrina, y hablaron con ella acerca de estas palabras."
+        },
+        {
+            "id": "2ch34_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "2ch34_23b",
+            "speaker": "Hulda",
+            "verse": 23,
+            "text": "Jehová, el Dios de Israel, dice así: Decid al varón que os ha enviado a mí:"
+        },
+        {
+            "id": "2ch34_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "2ch34_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "He aquí yo traigo mal sobre este lugar, y sobre sus moradores, y todas las maldiciones que están escritas en el libro que leyeron delante del rey de Judá:"
+        },
+        {
+            "id": "2ch34_25",
+            "speaker": "Hulda",
+            "verse": 25,
+            "text": "Por cuanto me han dejado, y han quemado incienso a dioses ajenos, provocándome a ira con todas las obras de sus manos; por tanto mi furor se derramará sobre este lugar, y no se apagará."
+        },
+        {
+            "id": "2ch34_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mas al rey de Judá, que os ha enviado a consultar a Jehová, así le diréis: Jehová, el Dios de Israel, dice así:"
+        },
+        {
+            "id": "2ch34_26b",
+            "speaker": "Hulda",
+            "verse": 26,
+            "text": "Por cuanto oíste las palabras del libro,"
+        },
+        {
+            "id": "2ch34_27",
+            "speaker": "Hulda",
+            "verse": 27,
+            "text": "y tu corazón se enterneció, y te humillaste delante de Dios al oír sus palabras sobre este lugar, y sobre sus moradores, y te humillaste delante de mí, y rasgaste tus vestiduras, y lloraste en mi presencia, yo también te he oído, dice Jehová."
+        },
+        {
+            "id": "2ch34_28",
+            "speaker": "Hulda",
+            "verse": 28,
+            "text": "He aquí que yo te recogeré con tus padres, y serás recogido en tus sepulcros en paz, y tus ojos no verán todo el mal que yo traigo sobre este lugar, y sobre sus moradores. Y ellos refirieron al rey la respuesta."
+        },
+        {
+            "id": "2ch34_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Entonces el rey envió y reunió a todos los ancianos de Judá y de Jerusalén."
+        },
+        {
+            "id": "2ch34_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y subió el rey a la casa de Jehová, y con él todos los varones de Judá, y los moradores de Jerusalén, y los sacerdotes, y los levitas, y todo el pueblo desde el mayor hasta el más pequeño; y leyó a oídos de ellos todas las palabras del libro del pacto que había sido hallado en la casa de Jehová."
+        },
+        {
+            "id": "2ch34_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y estando el rey en pie en su sitio, hizo pacto delante de Jehová, de caminar en pos de Jehová y de guardar sus mandamientos, sus testimonios y sus estatutos, con todo su corazón y con toda su alma, poniendo por obra las palabras del pacto que estaban escritas en aquel libro."
+        },
+        {
+            "id": "2ch34_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "E hizo que se obligaran a ello todos los que estaban en Jerusalén y en Benjamín; y los moradores de Jerusalén hicieron conforme al pacto de Dios, del Dios de sus padres."
+        },
+        {
+            "id": "2ch34_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y quitó Josías todas las abominaciones de todas las tierras de los hijos de Israel, e hizo a todos los que se hallaban en Israel que sirviesen a Jehová su Dios. No se apartaron de en pos de Jehová, el Dios de sus padres, todo el tiempo que él vivió."
+        }
+    ]
+}

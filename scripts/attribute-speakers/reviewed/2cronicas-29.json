@@ -1,0 +1,26 @@
+[
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Ezequías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Ezequías",
+    "confidence": 0.85
+  }
+]

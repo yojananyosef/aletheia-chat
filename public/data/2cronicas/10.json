@@ -1,0 +1,169 @@
+{
+    "book": "2 Crónicas",
+    "chapter": 10,
+    "title": "2 Crónicas 10",
+    "messages": [
+        {
+            "id": "2ch10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Roboam fue a Siquem porque en Siquem se había reunido todo Israel para hacerlo rey."
+        },
+        {
+            "id": "2ch10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y como lo oyó Jeroboam, hijo de Nabat, el cual estaba en Egipto, donde había huido a causa del rey Salomón, volvió de Egipto."
+        },
+        {
+            "id": "2ch10_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y enviaron y le llamaron. Vino, pues, Jeroboam, y todo Israel, y hablaron a Roboam, diciendo:"
+        },
+        {
+            "id": "2ch10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Tu padre agravó nuestro yugo; ahora pues, alivia tú algo de la dura servidumbre, y del grave yugo que tu padre puso sobre nosotros, y te serviremos."
+        },
+        {
+            "id": "2ch10_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "2ch10_5b",
+            "speaker": "Roboam",
+            "verse": 5,
+            "text": "Volved a mí de aquí a tres días. Y el pueblo se fue."
+        },
+        {
+            "id": "2ch10_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces el rey Roboam tomó consejo con los viejos, que habían estado delante de Salomón su padre cuando vivía, y les dijo:"
+        },
+        {
+            "id": "2ch10_6b",
+            "speaker": "Roboam",
+            "verse": 6,
+            "text": "¿Cómo aconsejáis vosotros que responda a este pueblo?"
+        },
+        {
+            "id": "2ch10_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y ellos le hablaron, diciendo:"
+        },
+        {
+            "id": "2ch10_7b",
+            "speaker": "Ancianos",
+            "verse": 7,
+            "text": "Si te condujeres humanamente con este pueblo, y los agradares, y les hablares buenas palabras, ellos te servirán perpetuamente."
+        },
+        {
+            "id": "2ch10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas él dejó el consejo que le dieron los viejos, y tomó consejo con los jóvenes que se habían criado con él, y que estaban a su servicio;"
+        },
+        {
+            "id": "2ch10_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "2ch10_9b",
+            "speaker": "Roboam",
+            "verse": 9,
+            "text": "¿Qué aconsejáis vosotros que respondamos a este pueblo, que me ha hablado, diciendo: Alivia algo del yugo que tu padre puso sobre nosotros?"
+        },
+        {
+            "id": "2ch10_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces los jóvenes que se habían criado con él, le hablaron, diciendo:"
+        },
+        {
+            "id": "2ch10_10b",
+            "speaker": "Jóvenes",
+            "verse": 10,
+            "text": "Así dirás al pueblo que te ha hablado diciendo: Tu padre agravó nuestro yugo, mas tú aligéralo. Así les dirás: Mi dedo meñique es más grueso que los lomos de mi padre."
+        },
+        {
+            "id": "2ch10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así que, mi padre os cargó de grave yugo, y yo añadiré a vuestro yugo; mi padre os castigó con azotes, pero yo os castigaré con escorpiones."
+        },
+        {
+            "id": "2ch10_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Vino, pues, Jeroboam con todo el pueblo a Roboam al tercer día; según el rey les había mandado diciendo:"
+        },
+        {
+            "id": "2ch10_12b",
+            "speaker": "Jeroboam",
+            "verse": 12,
+            "text": "Volved a mí de aquí a tres días."
+        },
+        {
+            "id": "2ch10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y les respondió el rey ásperamente; pues dejó el rey Roboam el consejo de los viejos,"
+        },
+        {
+            "id": "2ch10_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y les habló conforme al consejo de los jóvenes, diciendo:"
+        },
+        {
+            "id": "2ch10_14b",
+            "speaker": "Roboam",
+            "verse": 14,
+            "text": "Mi padre agravó vuestro yugo, y yo añadiré a vuestro yugo: mi padre os castigó con azotes, y yo os castigaré con escorpiones."
+        },
+        {
+            "id": "2ch10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y no escuchó el rey al pueblo; porque la causa era de Dios, para cumplir Jehová su palabra que había hablado, por Ahías silonita, a Jeroboam hijo de Nabat."
+        },
+        {
+            "id": "2ch10_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y viendo todo Israel que el rey no les había oído, respondió el pueblo al rey, diciendo:"
+        },
+        {
+            "id": "2ch10_16b",
+            "speaker": "Pueblo",
+            "verse": 16,
+            "text": "¿Qué parte tenemos nosotros con David? No tenemos herencia en el hijo de Isaí. ¡Israel, cada uno a sus tiendas! ¡David, mira ahora por tu casa! Así se fue todo Israel a sus tiendas."
+        },
+        {
+            "id": "2ch10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas reinó Roboam sobre los hijos de Israel que habitaban en las ciudades de Judá."
+        },
+        {
+            "id": "2ch10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Envió luego el rey Roboam a Adoram, que tenía cargo de los tributos; pero le apedrearon los hijos de Israel, y murió. Entonces el rey Roboam se apresuró para subir a un carro y huir a Jerusalén."
+        },
+        {
+            "id": "2ch10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Así se apartó Israel de la casa de David hasta hoy."
+        }
+    ]
+}

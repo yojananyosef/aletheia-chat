@@ -1,0 +1,127 @@
+{
+    "book": "2 Crónicas",
+    "chapter": 1,
+    "title": "2 Crónicas 1",
+    "messages": [
+        {
+            "id": "2ch1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Salomón, hijo de David, fue afirmado en su reino; y Jehová su Dios fue con él, y le engrandeció sobremanera."
+        },
+        {
+            "id": "2ch1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y llamó Salomón a todo Israel, a los jefes de millares y de centenas, a los jueces y a todos los príncipes de todo Israel, cabezas de familias."
+        },
+        {
+            "id": "2ch1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y fue Salomón, y toda la congregación con él, al lugar alto que había en Gabaón; porque allí estaba el tabernáculo de la congregación de Dios, que Moisés, siervo de Jehová, había hecho en el desierto."
+        },
+        {
+            "id": "2ch1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas David había traído el arca de Dios de Quiriat-jearim al lugar que él le había preparado; porque él le había levantado una tienda en Jerusalén."
+        },
+        {
+            "id": "2ch1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Asimismo el altar de bronce que había hecho Bezaleel, hijo de Uri, hijo de Hur, estaba allí delante del tabernáculo de Jehová, al cual fue a consultar Salomón con aquella congregación."
+        },
+        {
+            "id": "2ch1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Subió, pues, Salomón allá delante de Jehová, al altar de bronce que estaba en el tabernáculo de la congregación, y ofreció sobre él mil holocaustos."
+        },
+        {
+            "id": "2ch1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y aquella noche apareció Dios a Salomón, y le dijo:"
+        },
+        {
+            "id": "2ch1_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Pide lo que quieras que yo te dé."
+        },
+        {
+            "id": "2ch1_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Salomón dijo a Dios:"
+        },
+        {
+            "id": "2ch1_8b",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "Tú has hecho con David mi padre grande misericordia, y a mí me has puesto por rey en su lugar."
+        },
+        {
+            "id": "2ch1_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Confírmese pues, ahora, oh Jehová Dios, tu palabra dada a David mi padre; porque tú me has puesto por rey sobre un pueblo tan numeroso como el polvo de la tierra."
+        },
+        {
+            "id": "2ch1_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "Dame ahora sabiduría y entendimiento, para salir y entrar delante de este pueblo: porque ¿quién podrá juzgar a este tu pueblo que es tan grande?"
+        },
+        {
+            "id": "2ch1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y dijo Dios a Salomón:"
+        },
+        {
+            "id": "2ch1_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Por cuanto esto fue en tu corazón, que no pediste riquezas, ni posesiones, ni gloria, ni la vida de tus enemigos, ni pediste larga vida, sino que has pedido para ti sabiduría y entendimiento para gobernar a mi pueblo, sobre el cual te he puesto por rey,"
+        },
+        {
+            "id": "2ch1_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "sabiduría y entendimiento te son dados; y también te daré riquezas, posesiones y gloria, cual nunca hubo en los reyes que han sido antes de ti, ni después de ti habrá."
+        },
+        {
+            "id": "2ch1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y volvió Salomón a Jerusalén del lugar alto que estaba en Gabaón, de delante del tabernáculo de la congregación; y reinó sobre Israel."
+        },
+        {
+            "id": "2ch1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y reunió Salomón carros y gente de a caballo; y tenía mil cuatrocientos carros, y doce mil jinetes, los cuales puso en las ciudades de los carros, y con el rey en Jerusalén."
+        },
+        {
+            "id": "2ch1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y el rey acumuló plata y oro en Jerusalén como piedras, y cedro en abundancia como los sicómoros que hay en los valles."
+        },
+        {
+            "id": "2ch1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Salomón tenía caballos y lienzos finos traídos de Egipto; pues los mercaderes del rey adquirían los lienzos finos por precio."
+        },
+        {
+            "id": "2ch1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y subían, y compraban en Egipto, un carro por seiscientas piezas de plata, y un caballo por ciento cincuenta; y así se compraban por medio de ellos para todos los reyes de los heteos, y para los reyes de Siria."
+        }
+    ]
+}
