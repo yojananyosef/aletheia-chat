@@ -6,12 +6,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 13,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
     "verse": 16,
     "subId": "b",
     "speaker": "Gad y Rubén",
@@ -68,6 +62,18 @@
   {
     "verse": 11,
     "subId": "a",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "a",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
     "speaker": "Josué",
     "confidence": 0.85
   }
