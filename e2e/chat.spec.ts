@@ -63,6 +63,10 @@ test.describe('Chat', () => {
         // con follow-mode el scroll suave compite con el doble-tap si el auto-avance sigue activo.
         await expect(page.getByRole('button', { name: /enviar mensaje de dios/i })).toBeVisible({ timeout: 30_000 });
 
+        // Subir al versículo (follow-mode deja el viewport abajo) y dejar
+        // que el scroll suave termine antes del doble-tap.
+        await bubble.scrollIntoViewIfNeeded();
+        await page.waitForTimeout(1000);
         await bubble.dblclick();
         await expect(page.locator('[class*="bg-red-500"]')).toBeVisible();
 

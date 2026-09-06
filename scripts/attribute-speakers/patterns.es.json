@@ -186,6 +186,20 @@
       "confidence": 0.85
     },
     {
+      "id": "cunada-deu",
+      "pattern": "su cuñad[ao][^.]{0,120}(diciendo|dir[áa]|hablar[áa])|(descalzar[áa]|quitar[áa] el zapato|escupir[áa])[^.]{0,80}(diciendo|dir[áa])",
+      "flags": "i",
+      "speaker": "Cuñada",
+      "confidence": 0.9
+    },
+    {
+      "id": "oficiales-deu",
+      "pattern": "\\boficiales\\b[^.]*hablar[áa]n",
+      "flags": "i",
+      "speaker": "Oficiales",
+      "confidence": 0.9
+    },
+    {
       "id": "ancianos",
       "pattern": "\\b(ancianos?)\\b",
       "flags": "i",
@@ -563,6 +577,14 @@
       "speaker": "Espías",
       "confidence": 0.8
     },
+    {
+      "id": "cunado-deu",
+      "pattern": "levantare[^.]*dijere|se levantare, y dijere",
+      "flags": "i",
+      "speaker": "Cuñado",
+      "confidence": 0.85
+    },
+
     {
       "id": "datan-abiram",
       "pattern": "\\b(dat[áa]n|abiram)\\b",

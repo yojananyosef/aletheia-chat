@@ -36,7 +36,7 @@ export type CanonicalSpeaker =
     | 'Balaam' | 'Balac' | 'Coré' | 'Caleb' | 'Hobab' | 'Edom' | 'Eleazar'
     | 'Asna' | 'Mensajeros' | 'Espías' | 'Datán y Abiram' | 'Israel'
     | 'Gad y Rubén' | 'Galaaditas' | 'Capitanes' | 'Hijas de Zelofehad'
-    | 'Príncipes' | 'Hombres';
+    | 'Príncipes' | 'Hombres' | 'Cuñado' | 'Cuñada' | 'Oficiales';
 
 export type Speaker = CanonicalSpeaker | (string & {});
 

@@ -162,6 +162,14 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(n22.messages, 37, 'b'), 'Balac');
   });
 
+  it('DEU voces: Cuñado 25:8, Cuñada 25:9, Oficiales 20:5', () => {
+    const d25 = run('deuteronomio', 'DEU', 25);
+    assert.equal(speakerOf(d25.messages, 8, 'b'), 'Cuñado');
+    assert.equal(speakerOf(d25.messages, 9, 'b'), 'Cuñada');
+    const d20 = run('deuteronomio', 'DEU', 20);
+    assert.equal(speakerOf(d20.messages, 5, 'b'), 'Oficiales');
+  });
+
   it('MAT voces: Pedro 16:16 y 26:33', () => {
     const m16 = run('mateo', 'MAT', 16);
     assert.equal(speakerOf(m16.messages, 16, 'b'), 'Pedro');
