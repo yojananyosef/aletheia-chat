@@ -131,6 +131,19 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(m15.messages, 2, 'b'), 'Pilato');
   });
 
+  it('LUK voces: Zacarías 1:18, Simeón 2:34, Doctor 10:25, Zaqueo 19:8, Ladrones 23:39', () => {
+    const l1 = run('lucas', 'LUK', 1);
+    assert.equal(speakerOf(l1.messages, 18, 'b'), 'Zacarías');
+    const l2 = run('lucas', 'LUK', 2);
+    assert.equal(speakerOf(l2.messages, 34, 'b'), 'Simeón');
+    const l10 = run('lucas', 'LUK', 10);
+    assert.equal(speakerOf(l10.messages, 25, 'b'), 'Doctor');
+    const l19 = run('lucas', 'LUK', 19);
+    assert.equal(speakerOf(l19.messages, 8, 'b'), 'Zaqueo');
+    const l23 = run('lucas', 'LUK', 23);
+    assert.equal(speakerOf(l23.messages, 39, 'b'), 'Ladrones');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));

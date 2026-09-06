@@ -166,7 +166,7 @@
     },
     {
       "id": "segadores",
-      "pattern": "\\b(segadores?)\\b",
+      "pattern": "\\b(segador(es)?)\\b",
       "flags": "i",
       "speaker": "Segadores",
       "confidence": 0.8
@@ -460,7 +460,7 @@
     },
     {
       "id": "pastores",
-      "pattern": "\\b(pastores?)\\b",
+      "pattern": "\\b(pastor(es)?)\\b",
       "flags": "i",
       "speaker": "Pastores",
       "confidence": 0.8
@@ -565,7 +565,7 @@
     },
     {
       "id": "escribas",
-      "pattern": "\\b(escribas?|doctores de la ley)\\b",
+      "pattern": "\\bescribas?\\b",
       "flags": "i",
       "speaker": "Escribas",
       "confidence": 0.9
@@ -653,6 +653,90 @@
       "flags": "i",
       "speaker": "Dios",
       "confidence": 0.9
+    },
+    {
+      "id": "zacarias",
+      "pattern": "\\bzacar[íi]as\\b",
+      "flags": "i",
+      "speaker": "Zacarías",
+      "confidence": 0.9
+    },
+    {
+      "id": "elisabet",
+      "pattern": "\\belisabet\\b",
+      "flags": "i",
+      "speaker": "Elisabet",
+      "confidence": 0.9
+    },
+    {
+      "id": "simeon",
+      "pattern": "\\bsime[óo]n\\b",
+      "flags": "i",
+      "speaker": "Simeón",
+      "confidence": 0.9
+    },
+    {
+      "id": "marta",
+      "pattern": "\\bmarta\\b",
+      "flags": "i",
+      "speaker": "Marta",
+      "confidence": 0.9
+    },
+    {
+      "id": "zaqueo",
+      "pattern": "\\bzaqueo\\b",
+      "flags": "i",
+      "speaker": "Zaqueo",
+      "confidence": 0.9
+    },
+    {
+      "id": "ladrones",
+      "pattern": "\\b(malhechor(es)?|ladr[óo]n(es)?)\\b",
+      "flags": "i",
+      "speaker": "Ladrones",
+      "confidence": 0.9
+    },
+    {
+      "id": "cleofas",
+      "pattern": "\\bcleofas\\b",
+      "flags": "i",
+      "speaker": "Cleofas",
+      "confidence": 0.9
+    },
+    {
+      "id": "publicanos",
+      "pattern": "\\bpublicanos?\\b",
+      "flags": "i",
+      "speaker": "Publicanos",
+      "confidence": 0.85
+    },
+    {
+      "id": "publicano",
+      "pattern": "\\b(publicano|alcabalero)\\b",
+      "flags": "i",
+      "speaker": "Publicano",
+      "confidence": 0.85
+    },
+    {
+      "id": "doctor",
+      "pattern": "\\b(doctor(es)?( de la ley)?|int[ée]rprete de la ley)\\b",
+      "flags": "i",
+      "speaker": "Doctor",
+      "confidence": 0.85
+    },
+    {
+      "id": "leprosos",
+      "pattern": "\\bleprosos\\b",
+      "flags": "i",
+      "speaker": "Leprosos",
+      "confidence": 0.85
+    },
+    {
+      "id": "familiares",
+      "pattern": "\\b(parientes?|familiares|vecinos?)\\b",
+      "flags": "i",
+      "speaker": "Familiares",
+      "confidence": 0.8
     }
   ],
   "aliases": {
