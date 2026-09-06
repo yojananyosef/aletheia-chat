@@ -76,5 +76,17 @@
     "subId": "b",
     "speaker": "Josué",
     "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
   }
 ]

@@ -58,5 +58,29 @@
     "subId": "",
     "speaker": "Gabaonitas",
     "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Gabaonitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Príncipes",
+    "confidence": 0.85
   }
 ]

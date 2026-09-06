@@ -24,24 +24,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 24,
-    "subId": "b",
-    "speaker": "Finees",
-    "confidence": 0.85
-  },
-  {
-    "verse": 26,
-    "subId": "b",
-    "speaker": "Finees",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "b",
-    "speaker": "Finees",
-    "confidence": 0.85
-  },
-  {
     "verse": 31,
     "subId": "b",
     "speaker": "Finees",
@@ -69,6 +51,72 @@
     "verse": 19,
     "subId": "",
     "speaker": "Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Gad y Rubén",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Gad y Rubén",
     "confidence": 0.85
   }
 ]
