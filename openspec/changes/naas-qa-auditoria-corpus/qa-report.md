@@ -27,12 +27,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | salmos | 2664 | 148 | 0 | 0 |
 | proverbios | 932 | 889 | 0 | 0 |
 | eclesiastes | 232 | 225 | 0 | 0 |
+| cantares | 121 | 116 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **26470** | **7769** | **0** | **0** |
+| **total** | **26591** | **7885** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -78,6 +79,15 @@ Predicador"); **Narrador** = el título (1:1) y el epílogo del editor en 3ª pe
 incl. el veredicto final 12:13-14). Sin oráculos divinos en el libro (Dios siempre en 3ª
 persona; los 12 "Dios" del dry eran falsos positivos de carryover). 21 splits del dry heredan
 la voz circundante.
+
+### Cantares — integración nueva (2026-09-06)
+Libro desbloqueado (121 mensajes, 8 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Diálogo
+dramático: **Amada** y **Amado** (las dos voces principales), **Hijas de Jerusalén** = el coro
+(1:8, 3:6, 3:11, 5:9, 6:1, 6:13), **Hermanos** = los hermanos de la amada (8:8-9), **Narrador**
+= título (1:1) y la litera de Salomón (3:7-10). Citas dramatizadas: discurso del Amado 2:10b-15
+y su llamada 5:2b (con los marcos 2:10a/5:2a en la Amada). Cruxes documentadas: 7:9 "mi amado"
+→ Amada (la voz femenina del texto publicado, sin split posible); 8:5 pregunta del coro +
+respuesta de la Amada → Amada.
 
 ## Triaje (estado del tasks.md)
 
