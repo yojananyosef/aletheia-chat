@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Sacerdotes",
@@ -50,6 +56,12 @@
   {
     "verse": 21,
     "subId": "b",
+    "speaker": "Fariseos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 22,
+    "subId": "",
     "speaker": "Fariseos",
     "confidence": 0.8
   },
@@ -100,11 +112,5 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.85
-  },
-  {
-    "verse": 22,
-    "subId": "",
-    "speaker": "Fariseos",
-    "confidence": 0.8
   }
 ]

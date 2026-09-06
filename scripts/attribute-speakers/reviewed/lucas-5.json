@@ -37,7 +37,19 @@
   },
   {
     "verse": 23,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
     "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "a",
     "speaker": "Jesús",
     "confidence": 0.9
   },
@@ -60,6 +72,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 33,
     "subId": "b",
     "speaker": "Fariseos",
@@ -80,18 +98,6 @@
   {
     "verse": 39,
     "subId": "b",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 23,
-    "subId": "a",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 32,
-    "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85
   }

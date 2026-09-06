@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "b",
     "speaker": "Pastores",
@@ -15,6 +27,12 @@
     "verse": 35,
     "subId": "",
     "speaker": "Simeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -28,17 +46,5 @@
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
-  },
-  {
-    "verse": 11,
-    "subId": "",
-    "speaker": "Ángel",
-    "confidence": 0.85
-  },
-  {
-    "verse": 12,
-    "subId": "",
-    "speaker": "Ángel",
-    "confidence": 0.85
   }
 ]

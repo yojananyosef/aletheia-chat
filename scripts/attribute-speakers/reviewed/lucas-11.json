@@ -6,6 +6,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 5,
     "subId": "b",
     "speaker": "Jesús",
@@ -14,6 +20,42 @@
   {
     "verse": 7,
     "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85
   },
@@ -42,6 +84,12 @@
     "confidence": 0.9
   },
   {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 43,
     "subId": "",
     "speaker": "Jesús",
@@ -66,49 +114,7 @@
     "confidence": 0.9
   },
   {
-    "verse": 52,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.9
-  },
-  {
-    "verse": 49,
-    "subId": "b",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 11,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 12,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 42,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
     "verse": 47,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 8,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 13,
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85
@@ -120,15 +126,39 @@
     "confidence": 0.85
   },
   {
-    "verse": 9,
-    "subId": "",
+    "verse": 49,
+    "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.85
   },
   {
-    "verse": 10,
+    "verse": 50,
     "subId": "",
     "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 51,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 52,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 53,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 54,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

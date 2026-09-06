@@ -12,16 +12,40 @@
     "confidence": 0.9
   },
   {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
     "verse": 30,
     "subId": "b",
     "speaker": "Ángel",
     "confidence": 0.85
   },
   {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
     "verse": 34,
     "subId": "b",
     "speaker": "María",
     "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
   },
   {
     "verse": 38,
@@ -36,8 +60,38 @@
     "confidence": 0.9
   },
   {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Elisabet",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Elisabet",
+    "confidence": 0.85
+  },
+  {
     "verse": 46,
     "subId": "b",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 47,
+    "subId": "",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 48,
+    "subId": "",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "",
     "speaker": "María",
     "confidence": 0.9
   },
@@ -54,39 +108,21 @@
     "confidence": 0.8
   },
   {
+    "verse": 63,
+    "subId": "b",
+    "speaker": "Zacarías",
+    "confidence": 0.85
+  },
+  {
     "verse": 66,
     "subId": "b",
     "speaker": "Multitud",
     "confidence": 0.85
   },
   {
-    "verse": 43,
+    "verse": 69,
     "subId": "",
-    "speaker": "Elisabet",
-    "confidence": 0.85
-  },
-  {
-    "verse": 20,
-    "subId": "",
-    "speaker": "Ángel",
-    "confidence": 0.85
-  },
-  {
-    "verse": 31,
-    "subId": "",
-    "speaker": "Ángel",
-    "confidence": 0.85
-  },
-  {
-    "verse": 36,
-    "subId": "",
-    "speaker": "Ángel",
-    "confidence": 0.85
-  },
-  {
-    "verse": 44,
-    "subId": "",
-    "speaker": "Elisabet",
-    "confidence": 0.85
+    "speaker": "Zacarías",
+    "confidence": 0.9
   }
 ]
