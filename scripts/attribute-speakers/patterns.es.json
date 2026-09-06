@@ -807,6 +807,34 @@
       "flags": "i",
       "speaker": "Griegos",
       "confidence": 0.85
+    },
+    {
+      "id": "magos",
+      "pattern": "\\bmagos?\\b",
+      "flags": "i",
+      "speaker": "Magos",
+      "confidence": 0.9
+    },
+    {
+      "id": "esposa-pilato",
+      "pattern": "\\besposa\\b",
+      "flags": "i",
+      "speaker": "Esposa de Pilato",
+      "confidence": 0.85
+    },
+    {
+      "id": "ninos",
+      "pattern": "\\bni[ñn]os?\\b",
+      "flags": "i",
+      "speaker": "Niños",
+      "confidence": 0.85
+    },
+    {
+      "id": "ciegos",
+      "pattern": "\\bciegos\\b",
+      "flags": "i",
+      "speaker": "Ciegos",
+      "confidence": 0.85
     }
   ],
   "aliases": {
