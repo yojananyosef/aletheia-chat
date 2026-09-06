@@ -1,0 +1,271 @@
+{
+    "book": "1 Samuel",
+    "chapter": 9,
+    "title": "1 Samuel 9",
+    "messages": [
+        {
+            "id": "1sa9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y había un varón de Benjamín, hombre valeroso, el cual se llamaba Cis, hijo de Abiel, hijo de Seor, hijo de Becora, hijo de Afia, hijo de un hombre de Benjamín."
+        },
+        {
+            "id": "1sa9_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y tenía él un hijo que se llamaba Saúl, joven y hermoso, que entre los hijos de Israel no había otro más hermoso que él; de hombros arriba sobrepasaba a cualquiera del pueblo."
+        },
+        {
+            "id": "1sa9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y se habían perdido las asnas de Cis, padre de Saúl; por lo que dijo Cis a Saúl su hijo:"
+        },
+        {
+            "id": "1sa9_3b",
+            "speaker": "Saúl",
+            "verse": 3,
+            "text": "Toma ahora contigo alguno de los criados, y levántate, y ve a buscar las asnas."
+        },
+        {
+            "id": "1sa9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y él pasó al monte de Efraín, y de allí a la tierra de Salisa, y no las hallaron. Pasaron luego por la tierra de Saalim, y tampoco. Después pasaron por la tierra de Benjamín, y no las encontraron."
+        },
+        {
+            "id": "1sa9_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando vinieron a la tierra de Zuf, Saúl dijo a su criado que tenía consigo:"
+        },
+        {
+            "id": "1sa9_5b",
+            "speaker": "Saúl",
+            "verse": 5,
+            "text": "Ven, volvámonos; porque quizá mi padre, dejado el cuidado de las asnas, estará preocupado por nosotros."
+        },
+        {
+            "id": "1sa9_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él le respondió:"
+        },
+        {
+            "id": "1sa9_6b",
+            "speaker": "Criado",
+            "verse": 6,
+            "text": "He aquí ahora hay en esta ciudad un hombre de Dios, que es varón insigne; todo lo que él dice, sucede sin falta. Vamos, pues, allá; quizá nos enseñará nuestro camino por donde hayamos de ir."
+        },
+        {
+            "id": "1sa9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Saúl respondió a su criado:"
+        },
+        {
+            "id": "1sa9_7b",
+            "speaker": "Saúl",
+            "verse": 7,
+            "text": "Vamos ahora: ¿mas qué llevaremos al varón? Porque el pan de nuestras alforjas se ha acabado, y no tenemos qué ofrecerle al varón de Dios: ¿Qué tenemos?"
+        },
+        {
+            "id": "1sa9_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces el criado volvió a responder a Saúl, diciendo:"
+        },
+        {
+            "id": "1sa9_8b",
+            "speaker": "Criado",
+            "verse": 8,
+            "text": "He aquí se halla en mi mano la cuarta parte de un siclo de plata; esto daré al varón de Dios, para que nos declare nuestro camino."
+        },
+        {
+            "id": "1sa9_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "(Antiguamente en Israel cualquiera que iba a consultar a Dios, decía así:"
+        },
+        {
+            "id": "1sa9_9b",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Venid y vamos hasta el vidente; porque el que hoy se llama profeta, antiguamente era llamado vidente)."
+        },
+        {
+            "id": "1sa9_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Dijo entonces Saúl a su criado:"
+        },
+        {
+            "id": "1sa9_10b",
+            "speaker": "Saúl",
+            "verse": 10,
+            "text": "Bien dices; anda, vamos. Y fueron a la ciudad donde estaba el varón de Dios."
+        },
+        {
+            "id": "1sa9_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando subían por la cuesta de la ciudad, hallaron unas doncellas que salían por agua, a las cuales dijeron:"
+        },
+        {
+            "id": "1sa9_11b",
+            "speaker": "Saúl",
+            "verse": 11,
+            "text": "¿Está en este lugar el vidente?"
+        },
+        {
+            "id": "1sa9_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y ellas respondiéndoles, dijeron:"
+        },
+        {
+            "id": "1sa9_12b",
+            "speaker": "Mujeres",
+            "verse": 12,
+            "text": "Sí; helo aquí delante de ti; date prisa, porque hoy ha venido a la ciudad en atención a que el pueblo tiene hoy sacrificio en el lugar alto."
+        },
+        {
+            "id": "1sa9_13",
+            "speaker": "Mujeres",
+            "verse": 13,
+            "text": "Y cuando entrareis en la ciudad, le encontraréis luego, antes que suba al lugar alto a comer; pues el pueblo no comerá hasta que él haya venido, porque él es quien bendice el sacrificio; y después comerán los convidados. Subid, pues, ahora, porque ahora le hallaréis."
+        },
+        {
+            "id": "1sa9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Ellos entonces subieron a la ciudad; y cuando en medio de la ciudad estuvieron, he aquí Samuel que delante de ellos salía para subir al lugar alto."
+        },
+        {
+            "id": "1sa9_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y un día antes que Saúl viniese, Jehová había revelado al oído de Samuel, diciendo:"
+        },
+        {
+            "id": "1sa9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mañana a esta misma hora yo enviaré a ti un varón de la tierra de Benjamín, al cual ungirás por príncipe sobre mi pueblo Israel, y salvará a mi pueblo de mano de los filisteos; pues yo he mirado a mi pueblo, porque su clamor ha llegado hasta mí."
+        },
+        {
+            "id": "1sa9_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y luego que Samuel vio a Saúl, Jehová le dijo:"
+        },
+        {
+            "id": "1sa9_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "He aquí éste es el varón del cual te hablé; éste señoreará a mi pueblo."
+        },
+        {
+            "id": "1sa9_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y llegando Saúl a Samuel en medio de la puerta, le dijo:"
+        },
+        {
+            "id": "1sa9_18b",
+            "speaker": "Saúl",
+            "verse": 18,
+            "text": "Te ruego que me enseñes dónde está la casa del vidente."
+        },
+        {
+            "id": "1sa9_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Samuel respondió a Saúl, y dijo:"
+        },
+        {
+            "id": "1sa9_19b",
+            "speaker": "Samuel",
+            "verse": 19,
+            "text": "Yo soy el vidente; sube delante de mí al lugar alto, y comed hoy conmigo, y por la mañana te despacharé, y te descubriré todo lo que está en tu corazón."
+        },
+        {
+            "id": "1sa9_20",
+            "speaker": "Samuel",
+            "verse": 20,
+            "text": "Y de las asnas que se te perdieron hoy hace tres días, pierde cuidado de ellas, porque se han hallado. Mas ¿para quién es todo el deseo de Israel, sino para ti y para toda la casa de tu padre?"
+        },
+        {
+            "id": "1sa9_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Saúl respondió y dijo:"
+        },
+        {
+            "id": "1sa9_21b",
+            "speaker": "Saúl",
+            "verse": 21,
+            "text": "¿No soy yo hijo de Benjamín, de la más pequeña de las tribus de Israel? Y mi familia ¿no es la más pequeña de todas las familias de la tribu de Benjamín? ¿Por qué, pues, me hablas de esta manera?"
+        },
+        {
+            "id": "1sa9_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y trabando Samuel de Saúl y de su criado, los metió en la sala, y les dio lugar a la cabecera de los convidados, que eran como unos treinta hombres."
+        },
+        {
+            "id": "1sa9_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dijo Samuel al cocinero:"
+        },
+        {
+            "id": "1sa9_23b",
+            "speaker": "Samuel",
+            "verse": 23,
+            "text": "Trae acá la porción que te di, la cual te dije que guardases aparte."
+        },
+        {
+            "id": "1sa9_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces alzó el cocinero una espaldilla, con lo que estaba sobre ella, y la puso delante de Saúl. Y Samuel dijo:"
+        },
+        {
+            "id": "1sa9_24b",
+            "speaker": "Samuel",
+            "verse": 24,
+            "text": "He aquí lo que estaba reservado; ponlo delante de ti, y come; porque para esta ocasión se guardó para ti, cuando dije: Yo he convidado al pueblo. Y Saúl comió aquel día con Samuel."
+        },
+        {
+            "id": "1sa9_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y cuando hubieron descendido del lugar alto a la ciudad, Samuel habló con Saúl en el terrado."
+        },
+        {
+            "id": "1sa9_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y al siguiente día madrugaron; y sucedió que al despuntar el alba, Samuel llamó a Saúl, que estaba en el terrado; y dijo:"
+        },
+        {
+            "id": "1sa9_26b",
+            "speaker": "Samuel",
+            "verse": 26,
+            "text": "Levántate, para que te despida. Se levantó luego Saúl, y salieron ambos, él y Samuel."
+        },
+        {
+            "id": "1sa9_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y descendiendo ellos al límite de la ciudad, dijo Samuel a Saúl:"
+        },
+        {
+            "id": "1sa9_27b",
+            "speaker": "Samuel",
+            "verse": 27,
+            "text": "Di al criado que vaya delante (y se adelantó el criado), mas espera tú un poco para que te declare la palabra de Dios."
+        }
+    ]
+}

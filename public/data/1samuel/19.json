@@ -1,0 +1,229 @@
+{
+    "book": "1 Samuel",
+    "chapter": 19,
+    "title": "1 Samuel 19",
+    "messages": [
+        {
+            "id": "1sa19_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Saúl habló a Jonatán su hijo, y a todos sus criados, para que matasen a David."
+        },
+        {
+            "id": "1sa19_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Pero Jonatán, hijo de Saúl, amaba a David en gran manera. Y Jonatán dio aviso a David, diciendo:"
+        },
+        {
+            "id": "1sa19_2b",
+            "speaker": "Jonatán",
+            "verse": 2,
+            "text": "Saúl mi padre procura matarte; por tanto, mira ahora por ti hasta la mañana, y quédate en un lugar secreto, y escóndete."
+        },
+        {
+            "id": "1sa19_3",
+            "speaker": "Jonatán",
+            "verse": 3,
+            "text": "Y yo saldré y estaré junto a mi padre en el campo donde estés; y hablaré de ti a mi padre, y lo que yo vea, te lo haré saber."
+        },
+        {
+            "id": "1sa19_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Jonatán habló bien de David a Saúl su padre, y le dijo:"
+        },
+        {
+            "id": "1sa19_4b",
+            "speaker": "Jonatán",
+            "verse": 4,
+            "text": "No peque el rey contra su siervo David, pues que ninguna cosa ha cometido contra ti; antes sus obras te han sido muy buenas;"
+        },
+        {
+            "id": "1sa19_5",
+            "speaker": "Jonatán",
+            "verse": 5,
+            "text": "porque él puso su vida en su mano, y mató al filisteo, y Jehová hizo una gran salvación a todo Israel. Tú lo viste, y te alegraste: ¿por qué, pues, pecarás contra sangre inocente, matando a David sin causa?"
+        },
+        {
+            "id": "1sa19_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y oyendo Saúl la voz de Jonatán, juró: Vive Jehová, que no morirá."
+        },
+        {
+            "id": "1sa19_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Llamando entonces Jonatán a David, Jonatán le declaró todas estas palabras; y Jonatán trajo a David ante Saúl, y estuvo delante de él como antes."
+        },
+        {
+            "id": "1sa19_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y volvió a haber guerra; y salió David y peleó contra los filisteos, y los hirió con grande estrago, y huyeron delante de él."
+        },
+        {
+            "id": "1sa19_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y el espíritu malo de parte de Jehová vino sobre Saúl; y estando sentado en su casa tenía una lanza en la mano, mientras David tocaba con su mano."
+        },
+        {
+            "id": "1sa19_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Saúl procuró enclavar a David con la lanza a la pared; mas él se apartó de delante de Saúl, el cual hirió con la lanza en la pared; y David huyó, y se escapó aquella noche."
+        },
+        {
+            "id": "1sa19_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Saúl envió luego mensajeros a casa de David para que lo guardasen, y lo matasen a la mañana. Mas Mical su esposa lo descubrió a David, diciendo:"
+        },
+        {
+            "id": "1sa19_11b",
+            "speaker": "Mical",
+            "verse": 11,
+            "text": "Si no salvas tu vida esta noche, mañana serás muerto."
+        },
+        {
+            "id": "1sa19_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y descolgó Mical a David por una ventana; y él se fue y huyó, y se escapó."
+        },
+        {
+            "id": "1sa19_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Tomó luego Mical una estatua, y la puso sobre la cama, y le acomodó por cabecera una almohada de pelo de cabra, y la cubrió con ropa."
+        },
+        {
+            "id": "1sa19_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y cuando Saúl envió mensajeros que tomasen a David, ella respondió:"
+        },
+        {
+            "id": "1sa19_14b",
+            "speaker": "Mical",
+            "verse": 14,
+            "text": "Está enfermo."
+        },
+        {
+            "id": "1sa19_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Volvió Saúl a enviar mensajeros para que viesen a David, diciendo:"
+        },
+        {
+            "id": "1sa19_15b",
+            "speaker": "Saúl",
+            "verse": 15,
+            "text": "Traédmelo en la cama para que lo mate."
+        },
+        {
+            "id": "1sa19_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y cuando los mensajeros entraron, he aquí la estatua estaba en la cama, con la almohada de pelo de cabra por cabecera."
+        },
+        {
+            "id": "1sa19_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces Saúl dijo a Mical:"
+        },
+        {
+            "id": "1sa19_17b",
+            "speaker": "Saúl",
+            "verse": 17,
+            "text": "¿Por qué me has así engañado, y has dejado escapar a mi enemigo?"
+        },
+        {
+            "id": "1sa19_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Mical respondió a Saúl:"
+        },
+        {
+            "id": "1sa19_17d",
+            "speaker": "Mical",
+            "verse": 17,
+            "text": "Porque él me dijo: Déjame ir; si no, yo te mataré."
+        },
+        {
+            "id": "1sa19_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Huyó, pues, David, y se escapó, y vino a Samuel en Ramá, y le dijo todo lo que Saúl había hecho con él. Y se fueron él y Samuel, y moraron en Naiot."
+        },
+        {
+            "id": "1sa19_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y fue dado aviso a Saúl, diciendo:"
+        },
+        {
+            "id": "1sa19_19b",
+            "speaker": "Mensajero",
+            "verse": 19,
+            "text": "He aquí que David está en Naiot en Ramá."
+        },
+        {
+            "id": "1sa19_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y envió Saúl mensajeros que trajesen a David, los cuales vieron una compañía de profetas que profetizaban, y a Samuel que estaba allí y los presidía. Y vino el Espíritu de Dios sobre los mensajeros de Saúl, y ellos también profetizaron."
+        },
+        {
+            "id": "1sa19_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y cuando fue dicho a Saúl, él envió otros mensajeros, los cuales también profetizaron. Y Saúl volvió a enviar mensajeros por tercera vez, y ellos también profetizaron."
+        },
+        {
+            "id": "1sa19_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces él mismo vino a Ramá; y llegando al pozo grande que está en Soco, preguntó diciendo:"
+        },
+        {
+            "id": "1sa19_22b",
+            "speaker": "Saúl",
+            "verse": 22,
+            "text": "¿Dónde están Samuel y David?"
+        },
+        {
+            "id": "1sa19_22c",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y uno respondió:"
+        },
+        {
+            "id": "1sa19_22d",
+            "speaker": "Hombres",
+            "verse": 22,
+            "text": "He aquí están en Naiot en Ramá."
+        },
+        {
+            "id": "1sa19_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y fue allá a Naiot en Ramá; y también vino sobre él el Espíritu de Dios, e iba profetizando, hasta que llegó a Naiot en Ramá."
+        },
+        {
+            "id": "1sa19_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y él también se despojó de sus vestiduras, y profetizó igualmente delante de Samuel, y se acostó desnudo todo aquel día y toda aquella noche. De aquí se dijo:"
+        },
+        {
+            "id": "1sa19_24b",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "¿También Saúl entre los profetas?"
+        }
+    ]
+}

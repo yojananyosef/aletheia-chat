@@ -1,0 +1,313 @@
+{
+    "book": "1 Samuel",
+    "chapter": 28,
+    "title": "1 Samuel 28",
+    "messages": [
+        {
+            "id": "1sa28_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que en aquellos días los filisteos reunieron sus tropas para pelear contra Israel. Y dijo Aquís a David:"
+        },
+        {
+            "id": "1sa28_1b",
+            "speaker": "Aquís",
+            "verse": 1,
+            "text": "Sabe de cierto que has de salir conmigo a campaña, tú y tus hombres."
+        },
+        {
+            "id": "1sa28_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y David respondió a Aquís:"
+        },
+        {
+            "id": "1sa28_2b",
+            "speaker": "David",
+            "verse": 2,
+            "text": "Ciertamente tú sabrás lo que tu siervo puede hacer."
+        },
+        {
+            "id": "1sa28_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Aquís dijo a David:"
+        },
+        {
+            "id": "1sa28_2d",
+            "speaker": "Aquís",
+            "verse": 2,
+            "text": "Por tanto te haré guarda de mi cabeza para siempre."
+        },
+        {
+            "id": "1sa28_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Ya Samuel había muerto, y todo Israel lo había lamentado, y le habían sepultado en Ramá, en su ciudad. Y Saúl había echado de la tierra los encantadores y adivinos."
+        },
+        {
+            "id": "1sa28_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y los filisteos se juntaron, y vinieron y acamparon en Sunem; y Saúl juntó a todo Israel, y acamparon en Gilboa."
+        },
+        {
+            "id": "1sa28_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando Saúl vio el campamento de los filisteos, temió, y se turbó su corazón en gran manera."
+        },
+        {
+            "id": "1sa28_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y consultó Saúl a Jehová; pero Jehová no le respondió, ni por sueños, ni por Urim, ni por profetas."
+        },
+        {
+            "id": "1sa28_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Saúl dijo a sus criados:"
+        },
+        {
+            "id": "1sa28_7b",
+            "speaker": "Saúl",
+            "verse": 7,
+            "text": "Buscadme una mujer pitonisa, para que yo vaya a ella, y por medio de ella pregunte."
+        },
+        {
+            "id": "1sa28_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y sus criados le respondieron:"
+        },
+        {
+            "id": "1sa28_7d",
+            "speaker": "Criado",
+            "verse": 7,
+            "text": "He aquí hay una mujer en Endor que tiene espíritu de pitonisa."
+        },
+        {
+            "id": "1sa28_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Saúl se disfrazó poniéndose otra ropa, y se fue con dos hombres, y vinieron de noche a aquella mujer; y él dijo:"
+        },
+        {
+            "id": "1sa28_8b",
+            "speaker": "Saúl",
+            "verse": 8,
+            "text": "Yo te ruego que me adivines por el espíritu de pitón, y me hagas subir a quien yo te dijere."
+        },
+        {
+            "id": "1sa28_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y la mujer le dijo:"
+        },
+        {
+            "id": "1sa28_9b",
+            "speaker": "Pitonisa",
+            "verse": 9,
+            "text": "He aquí tú sabes lo que Saúl ha hecho, cómo ha quitado de la tierra a los que tienen espíritu de pitonisa y a los adivinos: ¿Por qué, pues, pones tropiezo a mi vida, para hacerme morir?"
+        },
+        {
+            "id": "1sa28_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Saúl le juró por Jehová, diciendo:"
+        },
+        {
+            "id": "1sa28_10b",
+            "speaker": "Saúl",
+            "verse": 10,
+            "text": "Vive Jehová, que ningún mal te vendrá por esto."
+        },
+        {
+            "id": "1sa28_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "La mujer entonces dijo:"
+        },
+        {
+            "id": "1sa28_11b",
+            "speaker": "Pitonisa",
+            "verse": 11,
+            "text": "¿A quién te haré venir?"
+        },
+        {
+            "id": "1sa28_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1sa28_11d",
+            "speaker": "Saúl",
+            "verse": 11,
+            "text": "Hazme venir a Samuel."
+        },
+        {
+            "id": "1sa28_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y viendo la mujer a Samuel, clamó en alta voz, y habló aquella mujer a Saúl, diciendo:"
+        },
+        {
+            "id": "1sa28_12b",
+            "speaker": "Pitonisa",
+            "verse": 12,
+            "text": "¿Por qué me has engañado? pues tú eres Saúl."
+        },
+        {
+            "id": "1sa28_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y el rey le dijo:"
+        },
+        {
+            "id": "1sa28_13b",
+            "speaker": "Saúl",
+            "verse": 13,
+            "text": "No temas: ¿Qué has visto?"
+        },
+        {
+            "id": "1sa28_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y la mujer respondió a Saúl:"
+        },
+        {
+            "id": "1sa28_13d",
+            "speaker": "Pitonisa",
+            "verse": 13,
+            "text": "He visto dioses que suben de la tierra."
+        },
+        {
+            "id": "1sa28_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "1sa28_14b",
+            "speaker": "Saúl",
+            "verse": 14,
+            "text": "¿Cuál es su forma?"
+        },
+        {
+            "id": "1sa28_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "1sa28_14d",
+            "speaker": "Pitonisa",
+            "verse": 14,
+            "text": "Un hombre anciano viene, cubierto de un manto. Saúl entonces entendió que era Samuel, y humillando el rostro a tierra, hizo gran reverencia."
+        },
+        {
+            "id": "1sa28_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Samuel dijo a Saúl:"
+        },
+        {
+            "id": "1sa28_15b",
+            "speaker": "Samuel",
+            "verse": 15,
+            "text": "¿Por qué me has inquietado haciéndome venir?"
+        },
+        {
+            "id": "1sa28_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Saúl respondió:"
+        },
+        {
+            "id": "1sa28_15d",
+            "speaker": "Saúl",
+            "verse": 15,
+            "text": "Estoy muy congojado; pues los filisteos pelean contra mí, y Dios se ha apartado de mí, y no me responde más, ni por mano de profetas, ni por sueños: por esto te he llamado, para que me declares qué tengo que hacer."
+        },
+        {
+            "id": "1sa28_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces Samuel dijo:"
+        },
+        {
+            "id": "1sa28_16b",
+            "speaker": "Samuel",
+            "verse": 16,
+            "text": "¿Y para qué me preguntas a mí, habiéndose apartado de ti Jehová, y es tu enemigo?"
+        },
+        {
+            "id": "1sa28_17",
+            "speaker": "Samuel",
+            "verse": 17,
+            "text": "Jehová, pues, ha hecho como habló por medio de mí; pues Jehová ha cortado el reino de tu mano, y lo ha dado a tu compañero David."
+        },
+        {
+            "id": "1sa28_18",
+            "speaker": "Samuel",
+            "verse": 18,
+            "text": "Como tú no obedeciste a la voz de Jehová, ni cumpliste el furor de su ira sobre Amalec, por eso Jehová te ha hecho esto hoy."
+        },
+        {
+            "id": "1sa28_19",
+            "speaker": "Samuel",
+            "verse": 19,
+            "text": "Y Jehová entregará a Israel también contigo en manos de los filisteos; y mañana estaréis conmigo, tú y tus hijos; y aun el campamento de Israel entregará Jehová en manos de los filisteos."
+        },
+        {
+            "id": "1sa28_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "En aquel punto cayó Saúl en tierra cuan grande era, y tuvo gran temor por las palabras de Samuel; y estaba sin fuerzas, porque en todo aquel día y aquella noche no había comido pan."
+        },
+        {
+            "id": "1sa28_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces la mujer vino a Saúl, y viéndole en grande manera turbado, le dijo:"
+        },
+        {
+            "id": "1sa28_21b",
+            "speaker": "Pitonisa",
+            "verse": 21,
+            "text": "He aquí que tu sierva ha obedecido a tu voz, y he puesto mi vida en mi mano, y he oído las palabras que tú me has dicho."
+        },
+        {
+            "id": "1sa28_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Te ruego, pues, que tú también oigas la voz de tu sierva. Pondré yo delante de ti un bocado de pan para que comas, y cobres fuerzas, y sigas tu camino."
+        },
+        {
+            "id": "1sa28_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y él lo rehusó, diciendo:"
+        },
+        {
+            "id": "1sa28_23b",
+            "speaker": "Saúl",
+            "verse": 23,
+            "text": "No comeré. Mas sus criados juntamente con la mujer le constriñeron, y él los obedeció. Se levantó, pues, del suelo, y se sentó sobre una cama."
+        },
+        {
+            "id": "1sa28_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y aquella mujer tenía en su casa un ternero grueso, el cual mató luego; y tomó harina y la amasó, y coció de ella panes sin levadura."
+        },
+        {
+            "id": "1sa28_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y lo trajo delante de Saúl y de sus criados; y luego que hubieron comido, se levantaron, y partieron aquella noche."
+        }
+    ]
+}

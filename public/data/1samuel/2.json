@@ -1,0 +1,271 @@
+{
+    "book": "1 Samuel",
+    "chapter": 2,
+    "title": "1 Samuel 2",
+    "messages": [
+        {
+            "id": "1sa2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Ana oró y dijo:"
+        },
+        {
+            "id": "1sa2_1b",
+            "speaker": "Ana",
+            "verse": 1,
+            "text": "Mi corazón se regocija en Jehová, mi cuerno es ensalzado en Jehová; mi boca se ensanchó sobre mis enemigos, por cuanto me alegré en tu salvación."
+        },
+        {
+            "id": "1sa2_2",
+            "speaker": "Ana",
+            "verse": 2,
+            "text": "No hay santo como Jehová: Porque no hay ninguno fuera de ti; y no hay Roca como el Dios nuestro."
+        },
+        {
+            "id": "1sa2_3",
+            "speaker": "Ana",
+            "verse": 3,
+            "text": "No multipliquéis palabras de grandeza y altanerías; cesen las palabras arrogantes de vuestra boca; porque el Dios de todo saber es Jehová, y a Él toca el pesar las acciones."
+        },
+        {
+            "id": "1sa2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Los arcos de los fuertes fueron quebrados, y los débiles se ciñeron de fortaleza."
+        },
+        {
+            "id": "1sa2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Los saciados se alquilaron por pan; y los hambrientos dejaron de estarlo; aun la estéril dio a luz a siete, y la que tenía muchos hijos languidece."
+        },
+        {
+            "id": "1sa2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Jehová mata, y Él da vida: Él hace descender al sepulcro, y hace subir."
+        },
+        {
+            "id": "1sa2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Jehová empobrece, y Él enriquece: Abate, y enaltece."
+        },
+        {
+            "id": "1sa2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Él levanta del polvo al pobre, y del muladar exalta al menesteroso, para hacerle sentar con príncipes, y hacerle heredar un trono de honor. Porque de Jehová son las columnas de la tierra, y Él asentó sobre ellas el mundo."
+        },
+        {
+            "id": "1sa2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Él guarda los pies de sus santos, mas los impíos perecen en tinieblas; porque nadie prevalecerá por su propia fuerza."
+        },
+        {
+            "id": "1sa2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Delante de Jehová serán quebrantados sus adversarios, desde el cielo tronará sobre ellos: Jehová juzgará los términos de la tierra, dará fortaleza a su Rey, y exaltará el cuerno de su Mesías."
+        },
+        {
+            "id": "1sa2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Elcana se volvió a su casa en Ramá; y el niño ministraba a Jehová delante del sacerdote Elí."
+        },
+        {
+            "id": "1sa2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas los hijos de Elí eran hijos de Belial, y no conocían a Jehová."
+        },
+        {
+            "id": "1sa2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y la costumbre de los sacerdotes con el pueblo era que, cuando alguno ofrecía sacrificio, mientras era cocida la carne, venía el criado del sacerdote trayendo en su mano un garfio de tres ganchos;"
+        },
+        {
+            "id": "1sa2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y lo metía en el perol, o en la olla, o en el caldero, o en el pote; y todo lo que sacaba el garfio, el sacerdote lo tomaba para sí. De esta manera hacían a todo israelita que venía a Silo."
+        },
+        {
+            "id": "1sa2_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Asimismo, antes de quemar la grosura, venía el criado del sacerdote, y decía al que sacrificaba:"
+        },
+        {
+            "id": "1sa2_15b",
+            "speaker": "Criado",
+            "verse": 15,
+            "text": "Da carne que ase para el sacerdote; porque no tomará de ti carne cocida, sino cruda."
+        },
+        {
+            "id": "1sa2_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y si le respondía el varón:"
+        },
+        {
+            "id": "1sa2_16b",
+            "speaker": "Criado",
+            "verse": 16,
+            "text": "Quemen la grosura primero, y después toma tanto como quieras; él respondía: No, sino dámela ahora mismo; de otra manera yo la tomaré por la fuerza."
+        },
+        {
+            "id": "1sa2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Era, pues, muy grande delante de Jehová el pecado de los jóvenes; porque los hombres menospreciaban las ofrendas de Jehová."
+        },
+        {
+            "id": "1sa2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y el joven Samuel ministraba delante de Jehová, vestido de un efod de lino."
+        },
+        {
+            "id": "1sa2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y le hacía su madre una túnica pequeña, y se la traía cada año, cuando subía con su marido a ofrecer el sacrificio acostumbrado."
+        },
+        {
+            "id": "1sa2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Elí bendijo a Elcana y a su esposa, diciendo:"
+        },
+        {
+            "id": "1sa2_20b",
+            "speaker": "Elí",
+            "verse": 20,
+            "text": "Jehová te dé simiente de esta mujer en lugar de este préstamo que es hecho a Jehová. Y se volvieron a su casa."
+        },
+        {
+            "id": "1sa2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y visitó Jehová a Ana, y concibió, y dio a luz tres hijos, y dos hijas. Y el joven Samuel crecía delante de Jehová."
+        },
+        {
+            "id": "1sa2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Elí era muy viejo, y oía todo lo que sus hijos hacían a todo Israel, y cómo dormían con las mujeres que velaban a la puerta del tabernáculo de la congregación."
+        },
+        {
+            "id": "1sa2_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "1sa2_23b",
+            "speaker": "Elí",
+            "verse": 23,
+            "text": "¿Por qué hacéis cosas semejantes? Porque yo oigo de todo este pueblo vuestro mal proceder."
+        },
+        {
+            "id": "1sa2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "No, hijos míos; porque no es buena fama la que yo oigo; pues hacéis pecar al pueblo de Jehová."
+        },
+        {
+            "id": "1sa2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Si un hombre pecare contra otro, el Juez lo juzgará; pero si alguno pecare contra Jehová, ¿quién intercederá por él? Pero ellos no oyeron la voz de su padre, porque Jehová había resuelto quitarles la vida."
+        },
+        {
+            "id": "1sa2_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y el joven Samuel crecía, y tenía gracia delante de Dios y de los hombres."
+        },
+        {
+            "id": "1sa2_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y vino un varón de Dios a Elí, y le dijo:"
+        },
+        {
+            "id": "1sa2_27b",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Así dice Jehová: ¿No me manifesté yo claramente a la casa de tu padre, cuando estaban en Egipto en casa de Faraón?"
+        },
+        {
+            "id": "1sa2_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Y yo le escogí por mi sacerdote entre todas las tribus de Israel, para que ofreciese sobre mi altar, y quemase incienso, y trajese efod delante de mí; y di a la casa de tu padre todas las ofrendas de los hijos de Israel."
+        },
+        {
+            "id": "1sa2_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "¿Por qué habéis hollado mis sacrificios y mis presentes, que yo mandé ofrecer en mi tabernáculo; y has honrado a tus hijos más que a mí, engordándoos de lo mejor de todas las ofrendas de mi pueblo Israel?"
+        },
+        {
+            "id": "1sa2_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Por tanto, Jehová el Dios de Israel dice:"
+        },
+        {
+            "id": "1sa2_30b",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Yo había dicho que tu casa y la casa de tu padre andarían delante de mí perpetuamente; mas ahora dice Jehová: Nunca yo tal haga, porque yo honraré a los que me honran, y los que me desprecian serán tenidos en poco."
+        },
+        {
+            "id": "1sa2_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "He aquí vienen días, en que cortaré tu brazo, y el brazo de la casa de tu padre, que no haya viejo en tu casa."
+        },
+        {
+            "id": "1sa2_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "Y verás a un enemigo en mi habitación, en todas las riquezas que Dios dará a Israel; y nunca habrá anciano en tu casa."
+        },
+        {
+            "id": "1sa2_33",
+            "speaker": "Dios",
+            "verse": 33,
+            "text": "Y el varón de los tuyos que yo no corte de mi altar, será para consumir tus ojos y llenar tu alma de dolor; y toda la cría de tu casa morirá en la edad viril."
+        },
+        {
+            "id": "1sa2_34",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "Y te será por señal esto que acontecerá a tus dos hijos, Ofni y Finees; ambos morirán en un día."
+        },
+        {
+            "id": "1sa2_35",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "Y yo me suscitaré un sacerdote fiel, que haga conforme a mi corazón y a mi alma; y yo le edificaré casa firme, y andará delante de mi ungido todo los días."
+        },
+        {
+            "id": "1sa2_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y será que el que hubiere quedado en tu casa, vendrá a postrarse ante él por una moneda de plata y un bocado de pan, diciéndole:"
+        },
+        {
+            "id": "1sa2_36b",
+            "speaker": "Dios",
+            "verse": 36,
+            "text": "Te ruego que me pongas en algún ministerio, para que coma un bocado de pan."
+        }
+    ]
+}

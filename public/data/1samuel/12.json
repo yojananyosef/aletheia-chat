@@ -1,0 +1,217 @@
+{
+    "book": "1 Samuel",
+    "chapter": 12,
+    "title": "1 Samuel 12",
+    "messages": [
+        {
+            "id": "1sa12_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y dijo Samuel a todo Israel:"
+        },
+        {
+            "id": "1sa12_1b",
+            "speaker": "Samuel",
+            "verse": 1,
+            "text": "He aquí, yo he oído vuestra voz en todas las cosas que me habéis dicho, y os he puesto rey."
+        },
+        {
+            "id": "1sa12_2",
+            "speaker": "Samuel",
+            "verse": 2,
+            "text": "Ahora, pues, he aquí vuestro rey va delante de vosotros. Yo soy ya viejo y cano; pero mis hijos están con vosotros, y yo he andado delante de vosotros desde mi juventud hasta este día."
+        },
+        {
+            "id": "1sa12_3",
+            "speaker": "Samuel",
+            "verse": 3,
+            "text": "Aquí estoy; atestiguad contra mí delante de Jehová y delante de su ungido, si he tomado el buey de alguno, o si he tomado el asno de alguno, o si he calumniado a alguien, o si he agraviado a alguno, o si de alguien he tomado cohecho por el cual haya cerrado mis ojos: y yo os restituiré."
+        },
+        {
+            "id": "1sa12_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces dijeron:"
+        },
+        {
+            "id": "1sa12_4b",
+            "speaker": "Pueblo",
+            "verse": 4,
+            "text": "Nunca nos has calumniado, ni agraviado, ni has tomado algo de mano de ningún hombre."
+        },
+        {
+            "id": "1sa12_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "1sa12_5b",
+            "speaker": "Samuel",
+            "verse": 5,
+            "text": "Jehová es testigo contra vosotros, y su ungido también es testigo en este día, que no habéis hallado en mi mano cosa ninguna."
+        },
+        {
+            "id": "1sa12_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "1sa12_5d",
+            "speaker": "Pueblo",
+            "verse": 5,
+            "text": "Él es testigo."
+        },
+        {
+            "id": "1sa12_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Samuel dijo al pueblo:"
+        },
+        {
+            "id": "1sa12_6b",
+            "speaker": "Samuel",
+            "verse": 6,
+            "text": "Jehová es quien favoreció a Moisés y a Aarón, y sacó a vuestros padres de la tierra de Egipto."
+        },
+        {
+            "id": "1sa12_7",
+            "speaker": "Samuel",
+            "verse": 7,
+            "text": "Ahora, pues, aguardad, y yo disputaré con vosotros delante de Jehová de todos los hechos de justicia que Jehová ha hecho con vosotros y con vuestros padres."
+        },
+        {
+            "id": "1sa12_8",
+            "speaker": "Samuel",
+            "verse": 8,
+            "text": "Después que Jacob hubo entrado en Egipto y vuestros padres clamaron a Jehová, Jehová envió a Moisés y a Aarón, los cuales sacaron a vuestros padres de Egipto, y los hicieron habitar en este lugar."
+        },
+        {
+            "id": "1sa12_9",
+            "speaker": "Samuel",
+            "verse": 9,
+            "text": "Y cuando se olvidaron de Jehová su Dios, Él los vendió en la mano de Sísara capitán del ejército de Hazor, y en la mano de los filisteos, y en la mano del rey de Moab, los cuales les hicieron guerra."
+        },
+        {
+            "id": "1sa12_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y ellos clamaron a Jehová, y dijeron:"
+        },
+        {
+            "id": "1sa12_10b",
+            "speaker": "Pueblo",
+            "verse": 10,
+            "text": "Pecamos, porque hemos dejado a Jehová, y hemos servido a los Baales y a Astarot; líbranos, pues, ahora de mano de nuestros enemigos, y te serviremos."
+        },
+        {
+            "id": "1sa12_11",
+            "speaker": "Samuel",
+            "verse": 11,
+            "text": "Entonces Jehová envió a Jerobaal, y a Bedán, y a Jefté, y a Samuel, y os libró de mano de vuestros enemigos alrededor, y habitasteis seguros."
+        },
+        {
+            "id": "1sa12_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y habiendo visto que Nahas, rey de los hijos de Amón, venía contra vosotros, me dijisteis:"
+        },
+        {
+            "id": "1sa12_12b",
+            "speaker": "Samuel",
+            "verse": 12,
+            "text": "No, sino que un rey reinará sobre nosotros; siendo vuestro rey Jehová vuestro Dios."
+        },
+        {
+            "id": "1sa12_13",
+            "speaker": "Samuel",
+            "verse": 13,
+            "text": "Ahora, pues, he aquí el rey que habéis elegido, el cual pedisteis; ya veis que Jehová ha puesto un rey sobre vosotros."
+        },
+        {
+            "id": "1sa12_14",
+            "speaker": "Samuel",
+            "verse": 14,
+            "text": "Si temiereis a Jehová y le sirviereis, y oyereis su voz, y no fuereis rebeldes a la palabra de Jehová, así vosotros como el rey que reina sobre vosotros, andaréis en pos de Jehová vuestro Dios."
+        },
+        {
+            "id": "1sa12_15",
+            "speaker": "Samuel",
+            "verse": 15,
+            "text": "Mas si no oyereis la voz de Jehová, y si fuereis rebeldes a las palabras de Jehová, la mano de Jehová será contra vosotros como fue contra vuestros padres."
+        },
+        {
+            "id": "1sa12_16",
+            "speaker": "Samuel",
+            "verse": 16,
+            "text": "Esperad aún ahora, y mirad esta gran cosa que Jehová hará delante de vuestros ojos."
+        },
+        {
+            "id": "1sa12_17",
+            "speaker": "Samuel",
+            "verse": 17,
+            "text": "¿No es ahora la siega del trigo? Yo clamaré a Jehová, y Él dará truenos y aguas; para que conozcáis y veáis que es grande vuestra maldad que habéis hecho ante los ojos de Jehová, pidiendo para vosotros rey."
+        },
+        {
+            "id": "1sa12_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Samuel clamó a Jehová; y Jehová dio truenos y aguas en aquel día; y todo el pueblo temió en gran manera a Jehová y a Samuel."
+        },
+        {
+            "id": "1sa12_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces dijo todo el pueblo a Samuel:"
+        },
+        {
+            "id": "1sa12_19b",
+            "speaker": "Pueblo",
+            "verse": 19,
+            "text": "Ruega por tus siervos a Jehová tu Dios, que no muramos: porque a todos nuestros pecados hemos añadido este mal de pedir rey para nosotros."
+        },
+        {
+            "id": "1sa12_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Samuel respondió al pueblo:"
+        },
+        {
+            "id": "1sa12_20b",
+            "speaker": "Samuel",
+            "verse": 20,
+            "text": "No temáis; vosotros habéis cometido todo este mal; mas con todo eso no os apartéis de en pos de Jehová, sino servid a Jehová con todo vuestro corazón:"
+        },
+        {
+            "id": "1sa12_21",
+            "speaker": "Samuel",
+            "verse": 21,
+            "text": "No os apartéis en pos de las vanidades, que no aprovechan ni libran, porque son vanidades."
+        },
+        {
+            "id": "1sa12_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pues Jehová no desamparará a su pueblo, por su grande nombre; porque Jehová ha querido haceros pueblo suyo."
+        },
+        {
+            "id": "1sa12_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Así que, lejos sea de mí que peque yo contra Jehová cesando de orar por vosotros; antes yo os enseñaré en el camino bueno y recto."
+        },
+        {
+            "id": "1sa12_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Solamente temed a Jehová, y servidle en verdad con todo vuestro corazón, pues considerad cuán grandes cosas ha hecho por vosotros."
+        },
+        {
+            "id": "1sa12_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Mas si perseverareis en hacer mal, vosotros y vuestro rey pereceréis."
+        }
+    ]
+}

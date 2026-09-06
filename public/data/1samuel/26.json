@@ -1,0 +1,271 @@
+{
+    "book": "1 Samuel",
+    "chapter": 26,
+    "title": "1 Samuel 26",
+    "messages": [
+        {
+            "id": "1sa26_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vinieron los zifeos a Saúl en Gabaa, diciendo:"
+        },
+        {
+            "id": "1sa26_1b",
+            "speaker": "Hombres",
+            "verse": 1,
+            "text": "¿No está David escondido en el collado de Haquila, que está frente a Jesimón?"
+        },
+        {
+            "id": "1sa26_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Saúl entonces se levantó, y descendió al desierto de Zif, llevando consigo tres mil hombres escogidos de Israel, para buscar a David en el desierto de Zif."
+        },
+        {
+            "id": "1sa26_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y acampó Saúl en el collado de Haquila, que está delante del desierto junto al camino. Y estaba David en el desierto, y entendió que Saúl le seguía en el desierto."
+        },
+        {
+            "id": "1sa26_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "David por tanto envió espías, y entendió por cierto que Saúl había venido."
+        },
+        {
+            "id": "1sa26_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y se levantó David, y vino al sitio donde Saúl había acampado; y miró David el lugar donde dormía Saúl, y Abner, hijo de Ner, general de su ejército. Y estaba Saúl durmiendo en la trinchera, y el pueblo estaba acampado en derredor de él."
+        },
+        {
+            "id": "1sa26_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces habló David, y requirió a Ahimelec heteo, y a Abisai, hijo de Sarvia, hermano de Joab, diciendo:"
+        },
+        {
+            "id": "1sa26_6b",
+            "speaker": "David",
+            "verse": 6,
+            "text": "¿Quién descenderá conmigo a Saúl al campamento?"
+        },
+        {
+            "id": "1sa26_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y dijo Abisai:"
+        },
+        {
+            "id": "1sa26_6d",
+            "speaker": "David",
+            "verse": 6,
+            "text": "Yo descenderé contigo."
+        },
+        {
+            "id": "1sa26_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "David, pues, y Abisai vinieron de noche al pueblo; y he aquí Saúl que estaba tendido durmiendo en la trinchera, y su lanza clavada en tierra a su cabecera; y Abner y el pueblo estaban tendidos alrededor de él."
+        },
+        {
+            "id": "1sa26_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces dijo Abisai a David:"
+        },
+        {
+            "id": "1sa26_8b",
+            "speaker": "Abisai",
+            "verse": 8,
+            "text": "Hoy ha entregado Dios a tu enemigo en tu mano; ahora pues, déjame que lo hiera con la lanza, cosiéndole en la tierra de un golpe, y no segundaré."
+        },
+        {
+            "id": "1sa26_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y David respondió a Abisai:"
+        },
+        {
+            "id": "1sa26_9b",
+            "speaker": "David",
+            "verse": 9,
+            "text": "No le mates; porque ¿quién extenderá su mano contra el ungido de Jehová, y será inocente?"
+        },
+        {
+            "id": "1sa26_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Dijo además David:"
+        },
+        {
+            "id": "1sa26_10b",
+            "speaker": "David",
+            "verse": 10,
+            "text": "Vive Jehová, que si Jehová no lo hiriere, o que su día llegue para que muera, o que descendiendo en batalla perezca,"
+        },
+        {
+            "id": "1sa26_11",
+            "speaker": "David",
+            "verse": 11,
+            "text": "guárdeme Jehová de extender mi mano contra el ungido de Jehová. Pero toma ahora la lanza que está a su cabecera, y la botija del agua, y vámonos."
+        },
+        {
+            "id": "1sa26_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Se llevó, pues, David la lanza y la botija de agua de la cabecera de Saúl, y se fueron; y no hubo nadie que viese, ni entendiese, ni velase, pues todos dormían; porque un profundo sueño enviado de Jehová había caído sobre ellos."
+        },
+        {
+            "id": "1sa26_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces David pasó al otro lado, y se puso en la cumbre del monte, a lo lejos, habiendo gran distancia entre ellos;"
+        },
+        {
+            "id": "1sa26_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y dio voces David al pueblo, y a Abner, hijo de Ner, diciendo:"
+        },
+        {
+            "id": "1sa26_14b",
+            "speaker": "David",
+            "verse": 14,
+            "text": "¿No respondes, Abner?"
+        },
+        {
+            "id": "1sa26_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Abner respondió y dijo:"
+        },
+        {
+            "id": "1sa26_14d",
+            "speaker": "Abner",
+            "verse": 14,
+            "text": "¿Quién eres tú que gritas al rey?"
+        },
+        {
+            "id": "1sa26_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y dijo David a Abner:"
+        },
+        {
+            "id": "1sa26_15b",
+            "speaker": "David",
+            "verse": 15,
+            "text": "¿No eres tú un hombre valiente? ¿Y quién hay como tú en Israel? ¿Por qué, pues, no has guardado al rey tu señor? Porque uno del pueblo ha entrado a matar a tu señor el rey."
+        },
+        {
+            "id": "1sa26_16",
+            "speaker": "David",
+            "verse": 16,
+            "text": "Esto que has hecho no está bien. Vive Jehová, que sois dignos de muerte, que no habéis guardado a vuestro señor, al ungido de Jehová. Mira ahora dónde está la lanza del rey, y la botija del agua que estaba a su cabecera."
+        },
+        {
+            "id": "1sa26_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y conociendo Saúl la voz de David, dijo:"
+        },
+        {
+            "id": "1sa26_17b",
+            "speaker": "Saúl",
+            "verse": 17,
+            "text": "¿No es ésta tu voz, hijo mío David?"
+        },
+        {
+            "id": "1sa26_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y David respondió:"
+        },
+        {
+            "id": "1sa26_17d",
+            "speaker": "David",
+            "verse": 17,
+            "text": "Mi voz es, rey señor mío."
+        },
+        {
+            "id": "1sa26_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "1sa26_18b",
+            "speaker": "David",
+            "verse": 18,
+            "text": "¿Por qué persigue así mi señor a su siervo? ¿Qué he hecho? ¿Qué mal hay en mi mano?"
+        },
+        {
+            "id": "1sa26_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Ruego, pues, que el rey mi señor oiga ahora las palabras de su siervo. Si Jehová te incita contra mí, acepte Él una ofrenda; mas si fueren hijos de hombres, malditos sean ellos en presencia de Jehová, que me han echado hoy para que no tenga parte en la heredad de Jehová, diciendo:"
+        },
+        {
+            "id": "1sa26_19b",
+            "speaker": "David",
+            "verse": 19,
+            "text": "Ve, sirve a dioses ajenos."
+        },
+        {
+            "id": "1sa26_20",
+            "speaker": "David",
+            "verse": 20,
+            "text": "No caiga, pues, ahora mi sangre en tierra delante de Jehová, porque ha salido el rey de Israel a buscar una pulga, así como quien persigue una perdiz por los montes."
+        },
+        {
+            "id": "1sa26_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces dijo Saúl:"
+        },
+        {
+            "id": "1sa26_21b",
+            "speaker": "Saúl",
+            "verse": 21,
+            "text": "He pecado: vuélvete, hijo mío David, que ningún mal te haré más, pues que mi vida ha sido estimada hoy en tus ojos. He aquí, yo he hecho neciamente, y he errado en gran manera."
+        },
+        {
+            "id": "1sa26_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y David respondió, y dijo:"
+        },
+        {
+            "id": "1sa26_22b",
+            "speaker": "David",
+            "verse": 22,
+            "text": "He aquí la lanza del rey; pase acá uno de los criados, y tómela."
+        },
+        {
+            "id": "1sa26_23",
+            "speaker": "David",
+            "verse": 23,
+            "text": "Y Jehová pague a cada uno su justicia y su lealtad; pues Jehová te había entregado hoy en mi mano, mas yo no quise extender mi mano sobre el ungido de Jehová."
+        },
+        {
+            "id": "1sa26_24",
+            "speaker": "David",
+            "verse": 24,
+            "text": "Y he aquí, como tu vida ha sido estimada hoy en mis ojos, así sea mi vida estimada en los ojos de Jehová, y me libre de toda aflicción."
+        },
+        {
+            "id": "1sa26_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Saúl dijo a David:"
+        },
+        {
+            "id": "1sa26_25b",
+            "speaker": "Saúl",
+            "verse": 25,
+            "text": "Bendito eres tú, hijo mío David; sin duda ejecutarás tú grandes empresas, y prevalecerás. Entonces David se fue su camino, y Saúl se volvió a su lugar."
+        }
+    ]
+}

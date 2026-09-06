@@ -1,0 +1,62 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "d",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Mensajero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Elí",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Mujeres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Esposa de Finees",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Esposa de Finees",
+    "confidence": 0.85
+  }
+]

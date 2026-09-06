@@ -1,0 +1,349 @@
+{
+    "book": "1 Samuel",
+    "chapter": 15,
+    "title": "1 Samuel 15",
+    "messages": [
+        {
+            "id": "1sa15_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Samuel dijo a Saúl:"
+        },
+        {
+            "id": "1sa15_1b",
+            "speaker": "Samuel",
+            "verse": 1,
+            "text": "Jehová me envió a que te ungiese por rey sobre su pueblo Israel; oye, pues, la voz de las palabras de Jehová."
+        },
+        {
+            "id": "1sa15_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "1sa15_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Me acuerdo de lo que hizo Amalec a Israel; que se le opuso en el camino, cuando subía de Egipto."
+        },
+        {
+            "id": "1sa15_3",
+            "speaker": "Samuel",
+            "verse": 3,
+            "text": "Ve, pues, y hiere a Amalec, y destruiréis en él todo lo que tuviere: y no te apiades de él; mata hombres y mujeres, niños, y aun los de pecho, bueyes y ovejas, camellos y asnos."
+        },
+        {
+            "id": "1sa15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Saúl convocó al pueblo, y los reconoció en Telaim, doscientos mil de a pie, y diez mil hombres de Judá."
+        },
+        {
+            "id": "1sa15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y viniendo Saúl a la ciudad de Amalec, puso emboscada en el valle."
+        },
+        {
+            "id": "1sa15_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y dijo Saúl al cineo:"
+        },
+        {
+            "id": "1sa15_6b",
+            "speaker": "Saúl",
+            "verse": 6,
+            "text": "Idos, apartaos, y salid de entre los de Amalec, para que no te destruya juntamente con él: pues que tú hiciste misericordia con todos los hijos de Israel, cuando subían de Egipto. Y se apartaron, pues, los cineos de entre los amalecitas."
+        },
+        {
+            "id": "1sa15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Saúl hirió a Amalec, desde Havila hasta llegar a Shur, que está a la frontera de Egipto."
+        },
+        {
+            "id": "1sa15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y tomó vivo a Agag, rey de Amalec, mas a todo el pueblo mató a filo de espada."
+        },
+        {
+            "id": "1sa15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Saúl y el pueblo perdonaron a Agag, y a lo mejor de las ovejas, y al ganado mayor, a los gruesos y a los carneros, y a todo lo bueno, y no lo quisieron destruir; pero todo lo que era vil y flaco destruyeron."
+        },
+        {
+            "id": "1sa15_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y vino palabra de Jehová a Samuel, diciendo:"
+        },
+        {
+            "id": "1sa15_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Me pesa el haber puesto por rey a Saúl, porque se ha vuelto de en pos de mí, y no ha cumplido mis palabras. Y se apesadumbró Samuel, y clamó a Jehová toda aquella noche."
+        },
+        {
+            "id": "1sa15_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Madrugó luego Samuel para ir a encontrar a Saúl por la mañana; y fue dado aviso a Samuel, diciendo:"
+        },
+        {
+            "id": "1sa15_12b",
+            "speaker": "Samuel",
+            "verse": 12,
+            "text": "Saúl ha venido al Carmelo, y he aquí se ha levantado un monumento, y dando la vuelta, pasó y descendió a Gilgal."
+        },
+        {
+            "id": "1sa15_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Vino, pues, Samuel a Saúl, y Saúl le dijo:"
+        },
+        {
+            "id": "1sa15_13b",
+            "speaker": "Saúl",
+            "verse": 13,
+            "text": "Bendito seas tú de Jehová; yo he cumplido la palabra de Jehová."
+        },
+        {
+            "id": "1sa15_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Samuel entonces dijo:"
+        },
+        {
+            "id": "1sa15_14b",
+            "speaker": "Samuel",
+            "verse": 14,
+            "text": "¿Pues qué balido de ganados y bramido de bueyes es éste que yo oigo con mis oídos?"
+        },
+        {
+            "id": "1sa15_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Saúl respondió:"
+        },
+        {
+            "id": "1sa15_15b",
+            "speaker": "Saúl",
+            "verse": 15,
+            "text": "De Amalec los han traído; porque el pueblo perdonó a lo mejor de las ovejas y de las vacas, para sacrificarlas a Jehová tu Dios; pero lo demás lo destruimos."
+        },
+        {
+            "id": "1sa15_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces dijo Samuel a Saúl:"
+        },
+        {
+            "id": "1sa15_16b",
+            "speaker": "Samuel",
+            "verse": 16,
+            "text": "Déjame declararte lo que Jehová me ha dicho esta noche."
+        },
+        {
+            "id": "1sa15_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y él le respondió:"
+        },
+        {
+            "id": "1sa15_16d",
+            "speaker": "Samuel",
+            "verse": 16,
+            "text": "Di."
+        },
+        {
+            "id": "1sa15_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y dijo Samuel:"
+        },
+        {
+            "id": "1sa15_17b",
+            "speaker": "Samuel",
+            "verse": 17,
+            "text": "Cuando eras pequeño a tus propios ojos ¿no fuiste hecho cabeza de las tribus de Israel y Jehová te ungió por rey sobre Israel?"
+        },
+        {
+            "id": "1sa15_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Jehová te envió en una jornada, y dijo:"
+        },
+        {
+            "id": "1sa15_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Ve, y destruye los pecadores de Amalec, y hazles guerra hasta que los acabes."
+        },
+        {
+            "id": "1sa15_19",
+            "speaker": "Samuel",
+            "verse": 19,
+            "text": "¿Por qué, pues, no has obedecido la voz de Jehová, sino que vuelto al despojo, has hecho lo malo ante los ojos de Jehová?"
+        },
+        {
+            "id": "1sa15_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Saúl respondió a Samuel:"
+        },
+        {
+            "id": "1sa15_20b",
+            "speaker": "Saúl",
+            "verse": 20,
+            "text": "Antes bien he obedecido la voz de Jehová, y fui a la jornada que Jehová me envió, y he traído a Agag rey de Amalec, y he destruido a los amalecitas;"
+        },
+        {
+            "id": "1sa15_21",
+            "speaker": "Saúl",
+            "verse": 21,
+            "text": "pero el pueblo tomó del despojo ovejas y vacas, las primicias del anatema, para sacrificarlas a Jehová tu Dios en Gilgal."
+        },
+        {
+            "id": "1sa15_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Samuel dijo:"
+        },
+        {
+            "id": "1sa15_22b",
+            "speaker": "Samuel",
+            "verse": 22,
+            "text": "¿Tiene Jehová tanto contentamiento con los holocaustos y víctimas, como en obedecer a las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios; y el prestar atención, que la grosura de los carneros."
+        },
+        {
+            "id": "1sa15_23",
+            "speaker": "Samuel",
+            "verse": 23,
+            "text": "Porque la rebeldía es como el pecado de adivinación, y como iniquidad e idolatría la obstinación. Por cuanto tú desechaste la palabra de Jehová, Él también te ha desechado para que no seas rey."
+        },
+        {
+            "id": "1sa15_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Saúl dijo a Samuel:"
+        },
+        {
+            "id": "1sa15_24b",
+            "speaker": "Saúl",
+            "verse": 24,
+            "text": "Yo he pecado; porque he quebrantado el mandamiento de Jehová y tus palabras, porque temí al pueblo y consentí a la voz de ellos."
+        },
+        {
+            "id": "1sa15_25",
+            "speaker": "Saúl",
+            "verse": 25,
+            "text": "Te ruego, pues, ahora, perdona mi pecado, y vuelve conmigo para que adore a Jehová."
+        },
+        {
+            "id": "1sa15_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Samuel respondió a Saúl:"
+        },
+        {
+            "id": "1sa15_26b",
+            "speaker": "Samuel",
+            "verse": 26,
+            "text": "No volveré contigo; porque desechaste la palabra de Jehová, y Jehová te ha desechado para que no seas rey sobre Israel."
+        },
+        {
+            "id": "1sa15_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y volviéndose Samuel para irse, él asió el borde de su manto, y éste se rasgó."
+        },
+        {
+            "id": "1sa15_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces Samuel le dijo:"
+        },
+        {
+            "id": "1sa15_28b",
+            "speaker": "Samuel",
+            "verse": 28,
+            "text": "Jehová ha rasgado hoy de ti el reino de Israel, y lo ha dado a un prójimo tuyo que es mejor que tú."
+        },
+        {
+            "id": "1sa15_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y también el Poderoso de Israel no mentirá, ni se arrepentirá, porque Él no es hombre para que se arrepienta."
+        },
+        {
+            "id": "1sa15_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1sa15_30b",
+            "speaker": "Saúl",
+            "verse": 30,
+            "text": "Yo he pecado; mas te ruego que me honres delante de los ancianos de mi pueblo, y delante de Israel, y que vuelvas conmigo para que adore a Jehová tu Dios."
+        },
+        {
+            "id": "1sa15_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y volvió Samuel tras Saúl, y adoró Saúl a Jehová."
+        },
+        {
+            "id": "1sa15_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Después dijo Samuel:"
+        },
+        {
+            "id": "1sa15_32b",
+            "speaker": "Samuel",
+            "verse": 32,
+            "text": "Traedme a Agag rey de Amalec. Y Agag vino a él delicadamente."
+        },
+        {
+            "id": "1sa15_32c",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y dijo Agag:"
+        },
+        {
+            "id": "1sa15_32d",
+            "speaker": "Agag",
+            "verse": 32,
+            "text": "Ciertamente se pasó la amargura de la muerte."
+        },
+        {
+            "id": "1sa15_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y Samuel dijo:"
+        },
+        {
+            "id": "1sa15_33b",
+            "speaker": "Samuel",
+            "verse": 33,
+            "text": "Como tu espada dejó las mujeres sin hijos, así tu madre será sin hijo entre las mujeres. Entonces Samuel cortó en pedazos a Agag delante de Jehová en Gilgal."
+        },
+        {
+            "id": "1sa15_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Se fue luego Samuel a Ramá, y Saúl subió a su casa en Gabaa de Saúl."
+        },
+        {
+            "id": "1sa15_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y nunca después vio Samuel a Saúl, hasta el día de su muerte; sin embargo Samuel lloraba por Saúl. Y Jehová se arrepintió de haber puesto a Saúl por rey sobre Israel."
+        }
+    ]
+}

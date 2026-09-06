@@ -1,0 +1,223 @@
+{
+    "book": "1 Samuel",
+    "chapter": 22,
+    "title": "1 Samuel 22",
+    "messages": [
+        {
+            "id": "1sa22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y yéndose David de allí, se escapó a la cueva de Adulam. Y cuando sus hermanos y toda la casa de su padre lo oyeron, vinieron allí a él."
+        },
+        {
+            "id": "1sa22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y se juntaron con él todos los afligidos, y todo el que estaba endeudado, y todos los que se hallaban en amargura de espíritu, y fue hecho capitán de ellos. Y tuvo consigo como cuatrocientos hombres."
+        },
+        {
+            "id": "1sa22_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y se fue David de allí a Mizpa de Moab, y dijo al rey de Moab:"
+        },
+        {
+            "id": "1sa22_3b",
+            "speaker": "David",
+            "verse": 3,
+            "text": "Yo te ruego que mi padre y mi madre estén con vosotros, hasta que sepa lo que Dios hará de mí."
+        },
+        {
+            "id": "1sa22_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Los trajo, pues, a la presencia del rey de Moab, y habitaron con él todo el tiempo que David estuvo en la fortaleza."
+        },
+        {
+            "id": "1sa22_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el profeta Gad dijo a David:"
+        },
+        {
+            "id": "1sa22_5b",
+            "speaker": "Gad",
+            "verse": 5,
+            "text": "No te quedes en la fortaleza, vete, y entra en tierra de Judá. Y David se fue, y vino al bosque de Haret."
+        },
+        {
+            "id": "1sa22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y oyó Saúl que David había sido descubierto, y los que estaban con él. Y Saúl estaba en Gabaa debajo de un árbol en Ramá, y tenía su lanza en su mano, y todos sus criados estaban en derredor de él."
+        },
+        {
+            "id": "1sa22_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo Saúl a sus criados que estaban en derredor de él:"
+        },
+        {
+            "id": "1sa22_7b",
+            "speaker": "Saúl",
+            "verse": 7,
+            "text": "Oíd ahora, hijos de Benjamín: ¿Os dará también a todos vosotros el hijo de Isaí tierras y viñas, y os hará a todos tribunos y centuriones;"
+        },
+        {
+            "id": "1sa22_8",
+            "speaker": "Saúl",
+            "verse": 8,
+            "text": "Para que todos vosotros hayáis conspirado contra mí, y no hay quien me descubra al oído como mi hijo ha hecho alianza con el hijo de Isaí, ni alguno de vosotros que se duela de mí, y me descubra como mi hijo ha levantado a mi siervo contra mí, para que me aceche, según hace hoy día?"
+        },
+        {
+            "id": "1sa22_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces Doeg idumeo, que era superior entre los siervos de Saúl, respondió y dijo:"
+        },
+        {
+            "id": "1sa22_9b",
+            "speaker": "Doeg",
+            "verse": 9,
+            "text": "Yo vi al hijo de Isaí que vino a Nob, a Ahimelec, hijo de Ahitob;"
+        },
+        {
+            "id": "1sa22_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "el cual consultó por él a Jehová, y le dio provisión, y también le dio la espada de Goliat el filisteo."
+        },
+        {
+            "id": "1sa22_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y el rey envió por el sacerdote Ahimelec, hijo de Ahitob, y por toda la casa de su padre, los sacerdotes que estaban en Nob; y todos vinieron al rey."
+        },
+        {
+            "id": "1sa22_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Saúl le dijo:"
+        },
+        {
+            "id": "1sa22_12b",
+            "speaker": "Saúl",
+            "verse": 12,
+            "text": "Oye ahora, hijo de Ahitob."
+        },
+        {
+            "id": "1sa22_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1sa22_12d",
+            "speaker": "Saúl",
+            "verse": 12,
+            "text": "Heme aquí, señor mío."
+        },
+        {
+            "id": "1sa22_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y le dijo Saúl:"
+        },
+        {
+            "id": "1sa22_13b",
+            "speaker": "Saúl",
+            "verse": 13,
+            "text": "¿Por qué habéis conspirado contra mí, tú y el hijo de Isaí, cuando tú le diste pan y espada, y consultaste por él a Dios, para que se levantase contra mí y me acechase, como lo hace hoy día?"
+        },
+        {
+            "id": "1sa22_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Ahimelec respondió al rey, y dijo:"
+        },
+        {
+            "id": "1sa22_14b",
+            "speaker": "Ahimelec",
+            "verse": 14,
+            "text": "¿Y quién entre todos tus siervos es tan fiel como David, yerno además del rey, y que va por mandato tuyo, y es ilustre en tu casa?"
+        },
+        {
+            "id": "1sa22_15",
+            "speaker": "Ahimelec",
+            "verse": 15,
+            "text": "¿He comenzado yo desde hoy a consultar por él a Dios? Lejos sea de mí; no impute el rey cosa alguna a su siervo, ni a toda la casa de mi padre; porque tu siervo ninguna cosa sabe de este asunto, grande ni chica."
+        },
+        {
+            "id": "1sa22_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y el rey dijo:"
+        },
+        {
+            "id": "1sa22_16b",
+            "speaker": "Saúl",
+            "verse": 16,
+            "text": "Sin duda morirás, Ahimelec, tú y toda la casa de tu padre."
+        },
+        {
+            "id": "1sa22_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces dijo el rey a la gente de su guardia que estaba alrededor de él:"
+        },
+        {
+            "id": "1sa22_17b",
+            "speaker": "Saúl",
+            "verse": 17,
+            "text": "Cercad y matad a los sacerdotes de Jehová; porque también la mano de ellos es con David, pues sabiendo ellos que huía, no me lo descubrieron. Mas los siervos del rey no quisieron extender sus manos para matar a los sacerdotes de Jehová."
+        },
+        {
+            "id": "1sa22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces dijo el rey a Doeg:"
+        },
+        {
+            "id": "1sa22_18b",
+            "speaker": "Saúl",
+            "verse": 18,
+            "text": "Vuelve tú, y arremete contra los sacerdotes. Y volviéndose Doeg idumeo, arremetió contra los sacerdotes, y mató en aquel día ochenta y cinco varones que vestían efod de lino."
+        },
+        {
+            "id": "1sa22_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y a Nob, ciudad de los sacerdotes, hirió a filo de espada: así a hombres como a mujeres, niños y a niños de pecho, bueyes, asnos y ovejas, a todos los hirió a filo de espada."
+        },
+        {
+            "id": "1sa22_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas uno de los hijos de Ahimelec hijo de Ahitob, que se llamaba Abiatar, escapó, y huyó tras David."
+        },
+        {
+            "id": "1sa22_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Abiatar notificó a David como Saúl había dado muerte a los sacerdotes de Jehová."
+        },
+        {
+            "id": "1sa22_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y dijo David a Abiatar:"
+        },
+        {
+            "id": "1sa22_22b",
+            "speaker": "David",
+            "verse": 22,
+            "text": "Yo sabía que estando allí aquel día Doeg el idumeo de seguro se lo haría saber a Saúl. Yo he ocasionado la muerte de todas las personas de la casa de tu padre."
+        },
+        {
+            "id": "1sa22_23",
+            "speaker": "David",
+            "verse": 23,
+            "text": "Quédate conmigo, no temas: quien buscare mi vida, buscará también la tuya; pues conmigo estarás seguro."
+        }
+    ]
+}

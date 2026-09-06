@@ -1,0 +1,68 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Ahimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "David",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "a",
+    "speaker": "Ahimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Ahimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Ahimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "c",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "d",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Aquís",
+    "confidence": 0.85
+  }
+]

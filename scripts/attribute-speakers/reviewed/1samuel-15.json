@@ -1,0 +1,68 @@
+[
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Samuel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Saúl",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Samuel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Samuel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Saúl",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Samuel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Saúl",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Saúl",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,241 @@
+{
+    "book": "1 Samuel",
+    "chapter": 3,
+    "title": "1 Samuel 3",
+    "messages": [
+        {
+            "id": "1sa3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y el joven Samuel ministraba a Jehová delante de Elí; y la palabra de Jehová era preciada en aquellos días; pues no había visión manifiesta."
+        },
+        {
+            "id": "1sa3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y aconteció un día, que estando Elí acostado en su aposento, cuando sus ojos comenzaban a oscurecerse, y no podía ver,"
+        },
+        {
+            "id": "1sa3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Samuel estaba durmiendo en el templo de Jehová, donde el arca de Dios estaba; y antes que la lámpara de Dios fuese apagada,"
+        },
+        {
+            "id": "1sa3_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Jehová llamó a Samuel; y él respondió:"
+        },
+        {
+            "id": "1sa3_4b",
+            "speaker": "Samuel",
+            "verse": 4,
+            "text": "Heme aquí."
+        },
+        {
+            "id": "1sa3_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y corriendo luego a Elí, dijo:"
+        },
+        {
+            "id": "1sa3_5b",
+            "speaker": "Samuel",
+            "verse": 5,
+            "text": "Heme aquí; ¿para qué me llamaste?"
+        },
+        {
+            "id": "1sa3_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Elí le dijo:"
+        },
+        {
+            "id": "1sa3_5d",
+            "speaker": "Elí",
+            "verse": 5,
+            "text": "Yo no he llamado; vuelve y acuéstate. Y él se volvió, y se acostó."
+        },
+        {
+            "id": "1sa3_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Jehová volvió a llamar otra vez a Samuel. Y levantándose Samuel vino a Elí, y dijo:"
+        },
+        {
+            "id": "1sa3_6b",
+            "speaker": "Samuel",
+            "verse": 6,
+            "text": "Heme aquí; ¿para qué me has llamado?"
+        },
+        {
+            "id": "1sa3_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1sa3_6d",
+            "speaker": "Samuel",
+            "verse": 6,
+            "text": "Hijo mío, yo no he llamado; vuelve, y acuéstate."
+        },
+        {
+            "id": "1sa3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Samuel no había conocido aún a Jehová, ni la palabra de Jehová le había sido revelada."
+        },
+        {
+            "id": "1sa3_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Jehová, pues, llamó la tercera vez a Samuel. Y él levantándose vino a Elí, y dijo:"
+        },
+        {
+            "id": "1sa3_8b",
+            "speaker": "Samuel",
+            "verse": 8,
+            "text": "Heme aquí; ¿para qué me has llamado? Entonces entendió Elí que Jehová llamaba al joven."
+        },
+        {
+            "id": "1sa3_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Elí a Samuel:"
+        },
+        {
+            "id": "1sa3_9b",
+            "speaker": "Elí",
+            "verse": 9,
+            "text": "Ve y acuéstate: y si Él te llama, dirás: Habla, Jehová, que tu siervo oye. Así se fue Samuel y se acostó en su lugar."
+        },
+        {
+            "id": "1sa3_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y vino Jehová, y se paró, y llamó como las otras veces:"
+        },
+        {
+            "id": "1sa3_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¡Samuel, Samuel!"
+        },
+        {
+            "id": "1sa3_10c",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Samuel dijo:"
+        },
+        {
+            "id": "1sa3_10d",
+            "speaker": "Samuel",
+            "verse": 10,
+            "text": "Habla, que tu siervo oye."
+        },
+        {
+            "id": "1sa3_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Jehová dijo a Samuel:"
+        },
+        {
+            "id": "1sa3_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "He aquí haré yo una cosa en Israel, que a quien la oyere, le retiñirán ambos oídos."
+        },
+        {
+            "id": "1sa3_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Aquel día yo cumpliré contra Elí, todas las cosas que he dicho sobre su casa. Cuando comience, también terminaré."
+        },
+        {
+            "id": "1sa3_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y le mostraré que yo juzgaré su casa para siempre, por la iniquidad que él sabe; porque sus hijos se han envilecido, y él no los ha estorbado."
+        },
+        {
+            "id": "1sa3_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Por tanto yo he jurado a la casa de Elí, que la iniquidad de la casa de Elí no será expiada jamás, ni con sacrificios ni con ofrendas."
+        },
+        {
+            "id": "1sa3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Samuel estuvo acostado hasta la mañana, y abrió las puertas de la casa de Jehová. Y Samuel temía descubrir la visión a Elí."
+        },
+        {
+            "id": "1sa3_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Llamando, pues, Elí a Samuel, le dijo:"
+        },
+        {
+            "id": "1sa3_16b",
+            "speaker": "Elí",
+            "verse": 16,
+            "text": "Hijo mío, Samuel."
+        },
+        {
+            "id": "1sa3_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1sa3_16d",
+            "speaker": "Elí",
+            "verse": 16,
+            "text": "Heme aquí."
+        },
+        {
+            "id": "1sa3_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "1sa3_17b",
+            "speaker": "Elí",
+            "verse": 17,
+            "text": "¿Qué es la palabra que te habló Jehová? Te ruego que no me la encubras; así te haga Dios y aun te añada, si me encubrieres palabra de todo lo que habló contigo."
+        },
+        {
+            "id": "1sa3_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Samuel se lo manifestó todo, sin encubrirle nada. Entonces él dijo:"
+        },
+        {
+            "id": "1sa3_18b",
+            "speaker": "Elí",
+            "verse": 18,
+            "text": "Jehová es; haga lo que bien le pareciere."
+        },
+        {
+            "id": "1sa3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Samuel creció, y Jehová fue con él, y no dejó caer a tierra ninguna de sus palabras."
+        },
+        {
+            "id": "1sa3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y conoció todo Israel desde Dan hasta Beerseba, que Samuel era fiel profeta de Jehová."
+        },
+        {
+            "id": "1sa3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Jehová volvió a aparecer en Silo; porque Jehová se manifestó a Samuel en Silo por palabra de Jehová."
+        }
+    ]
+}

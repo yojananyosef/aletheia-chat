@@ -1,0 +1,277 @@
+{
+    "book": "1 Samuel",
+    "chapter": 30,
+    "title": "1 Samuel 30",
+    "messages": [
+        {
+            "id": "1sa30_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando David y sus hombres vinieron a Siclag el tercer día, los de Amalec habían invadido el sur, y a Siclag, y habían asolado a Siclag y la habían puesto a fuego."
+        },
+        {
+            "id": "1sa30_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y se habían llevado cautivas a las mujeres que estaban en ella. Pero no mataron a nadie, ni pequeño ni grande, sino se los habían llevado, y siguieron su camino."
+        },
+        {
+            "id": "1sa30_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Vino, pues, David con sus hombres a la ciudad, y he aquí que estaba quemada a fuego, y sus esposas y sus hijos e hijas habían sido llevados cautivos."
+        },
+        {
+            "id": "1sa30_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces David y la gente que con él estaba alzaron su voz y lloraron, hasta que les faltaron las fuerzas para llorar."
+        },
+        {
+            "id": "1sa30_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Las dos esposas de David, Ahinoam jezreelita y Abigail la que fue esposa de Nabal del Carmelo, también eran cautivas."
+        },
+        {
+            "id": "1sa30_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y David fue muy angustiado, porque el pueblo hablaba de apedrearlo; porque todo el pueblo estaba con ánimo amargo, cada uno por sus hijos y por sus hijas. Pero David se fortaleció en Jehová su Dios."
+        },
+        {
+            "id": "1sa30_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo David al sacerdote Abiatar, hijo de Ahimelec:"
+        },
+        {
+            "id": "1sa30_7b",
+            "speaker": "David",
+            "verse": 7,
+            "text": "Yo te ruego que me acerques el efod. Y Abiatar acercó el efod a David."
+        },
+        {
+            "id": "1sa30_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y David consultó a Jehová, diciendo:"
+        },
+        {
+            "id": "1sa30_8b",
+            "speaker": "David",
+            "verse": 8,
+            "text": "¿Seguiré esta tropa? ¿La podré alcanzar?"
+        },
+        {
+            "id": "1sa30_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Él le dijo:"
+        },
+        {
+            "id": "1sa30_8d",
+            "speaker": "David",
+            "verse": 8,
+            "text": "Síguela que de cierto la alcanzarás, y sin duda recobrarás todo."
+        },
+        {
+            "id": "1sa30_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Partió, pues, David, él y los seiscientos hombres que con él estaban, y vinieron hasta el torrente de Besor, donde se quedaron algunos."
+        },
+        {
+            "id": "1sa30_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y David siguió el alcance con cuatrocientos hombres; porque se quedaron atrás doscientos, que cansados no pudieron pasar el torrente de Besor."
+        },
+        {
+            "id": "1sa30_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y hallaron en el campo a un hombre egipcio, el cual trajeron a David, y le dieron pan, y comió, y le dieron a beber agua;"
+        },
+        {
+            "id": "1sa30_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Le dieron también un pedazo de masa de higos secos, y dos tortas de pasas. Y luego que comió, volvió en él su espíritu; porque no había comido pan ni bebido agua en tres días y tres noches."
+        },
+        {
+            "id": "1sa30_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y le dijo David:"
+        },
+        {
+            "id": "1sa30_13b",
+            "speaker": "David",
+            "verse": 13,
+            "text": "¿De quién eres tú? ¿Y de dónde eres?"
+        },
+        {
+            "id": "1sa30_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y respondió el joven egipcio:"
+        },
+        {
+            "id": "1sa30_13d",
+            "speaker": "Egipcio",
+            "verse": 13,
+            "text": "Yo soy siervo de un amalecita, y me abandonó mi amo porque caí enfermo hace tres días;"
+        },
+        {
+            "id": "1sa30_14",
+            "speaker": "Egipcio",
+            "verse": 14,
+            "text": "Hicimos una incursión en la parte del sur de los cereteos, y en Judá, y en el sur de Caleb; y pusimos fuego a Siclag."
+        },
+        {
+            "id": "1sa30_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y David le dijo:"
+        },
+        {
+            "id": "1sa30_15b",
+            "speaker": "David",
+            "verse": 15,
+            "text": "¿Me llevarás tú a esa tropa?"
+        },
+        {
+            "id": "1sa30_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1sa30_15d",
+            "speaker": "David",
+            "verse": 15,
+            "text": "Júrame por Dios que no me matarás, ni me entregarás en las manos de mi amo, y yo te llevaré a esa gente."
+        },
+        {
+            "id": "1sa30_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Lo llevó, pues, y he aquí que estaban desparramados sobre la faz de toda aquella tierra, comiendo y bebiendo y danzando, por todo aquel gran botín que habían tomado de la tierra de los filisteos y de la tierra de Judá."
+        },
+        {
+            "id": "1sa30_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los hirió David desde aquella mañana hasta la tarde del día siguiente; y ninguno de ellos escapó, sino cuatrocientos jóvenes que montaron en camellos y huyeron."
+        },
+        {
+            "id": "1sa30_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y David recobró todo lo que los amalecitas habían tomado, y también rescató David a sus dos esposas."
+        },
+        {
+            "id": "1sa30_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y no les faltó cosa chica ni grande, así de hijos como de hijas, del robo, y de todas las cosas que les habían tomado. Todo lo recobró David."
+        },
+        {
+            "id": "1sa30_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Tomó también David todas las ovejas y ganados mayores; y trayéndolo todo delante, decían:"
+        },
+        {
+            "id": "1sa30_20b",
+            "speaker": "David",
+            "verse": 20,
+            "text": "Éste es el botín de David."
+        },
+        {
+            "id": "1sa30_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y vino David a los doscientos hombres que habían quedado cansados y no habían podido seguir a David, a los cuales habían hecho quedar en el torrente de Besor; y ellos salieron a recibir a David y al pueblo que con él estaba. Y cuando David llegó a la gente, les saludó con paz."
+        },
+        {
+            "id": "1sa30_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces todos los hombres perversos, de Belial, de entre los que habían ido con David, respondieron y dijeron:"
+        },
+        {
+            "id": "1sa30_22b",
+            "speaker": "Hombres",
+            "verse": 22,
+            "text": "Porque no fueron con nosotros, no les daremos del despojo que hemos quitado, sino a cada uno su esposa y sus hijos; para que se los lleven y se vayan."
+        },
+        {
+            "id": "1sa30_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y David dijo:"
+        },
+        {
+            "id": "1sa30_23b",
+            "speaker": "David",
+            "verse": 23,
+            "text": "No hagáis eso, hermanos míos, de lo que nos ha dado Jehová; el cual nos ha guardado, y ha entregado en nuestras manos la caterva que vino sobre nosotros."
+        },
+        {
+            "id": "1sa30_24",
+            "speaker": "David",
+            "verse": 24,
+            "text": "¿Y quién os escuchará en este caso? porque igual parte ha de ser la del que desciende a la batalla, y la del que queda con el bagaje; que repartan por igual."
+        },
+        {
+            "id": "1sa30_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y desde aquel día en adelante fue esto puesto por ley y ordenanza en Israel, hasta hoy."
+        },
+        {
+            "id": "1sa30_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y cuando David llegó a Siclag, envió el despojo a los ancianos de Judá, sus amigos, diciendo:"
+        },
+        {
+            "id": "1sa30_26b",
+            "speaker": "David",
+            "verse": 26,
+            "text": "He aquí un presente para vosotros, del despojo de los enemigos de Jehová."
+        },
+        {
+            "id": "1sa30_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "También envió a los que estaban en Betel, y en Ramot al sur, y a los que estaban en Jatir;"
+        },
+        {
+            "id": "1sa30_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "y a los que estaban en Aroer, y en Sifmot, y a los que estaban en Estemoa;"
+        },
+        {
+            "id": "1sa30_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "y a los que estaban en Racal, y a los que estaban en las ciudades de los jerameelitas, y a los que estaban en las ciudades del cineo;"
+        },
+        {
+            "id": "1sa30_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "y a los que estaban en Horma, y a los que estaban en Corasán, y a los que estaban en Atac;"
+        },
+        {
+            "id": "1sa30_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "y a los que estaban en Hebrón, y en todos los lugares donde David había estado con los suyos."
+        }
+    ]
+}

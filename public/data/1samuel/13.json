@@ -1,0 +1,199 @@
+{
+    "book": "1 Samuel",
+    "chapter": 13,
+    "title": "1 Samuel 13",
+    "messages": [
+        {
+            "id": "1sa13_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Saúl reinó un año; y cuando hubo reinado dos años sobre Israel,"
+        },
+        {
+            "id": "1sa13_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Saúl escogió para sí tres mil hombres de Israel; dos mil estuvieron con Saúl en Micmas y en el monte de Betel, y mil estuvieron con Jonatán en Gabaa de Benjamín; y envió al resto del pueblo, cada uno a sus tiendas."
+        },
+        {
+            "id": "1sa13_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Jonatán hirió la guarnición de los filisteos que había en Geba, y lo oyeron los filisteos. Entonces Saúl hizo tocar trompeta por toda la tierra, diciendo:"
+        },
+        {
+            "id": "1sa13_3b",
+            "speaker": "Saúl",
+            "verse": 3,
+            "text": "Que oigan los hebreos."
+        },
+        {
+            "id": "1sa13_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y todo Israel oyó lo que se decía:"
+        },
+        {
+            "id": "1sa13_4b",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Saúl ha herido la guarnición de los filisteos; y también que Israel se había hecho odioso a los filisteos. Y se juntó el pueblo en pos de Saúl en Gilgal."
+        },
+        {
+            "id": "1sa13_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces los filisteos se juntaron para pelear con Israel; treinta mil carros, seis mil hombres de a caballo, y pueblo tan numeroso como la arena que está a la orilla del mar; y subieron y acamparon en Micmas, al oriente de Betaven."
+        },
+        {
+            "id": "1sa13_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Cuando los hombres de Israel vieron que estaban en estrecho (porque el pueblo estaba en aprieto), el pueblo se escondió en cuevas, en fosos, en peñascos, en rocas y en cisternas."
+        },
+        {
+            "id": "1sa13_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y algunos de los hebreos pasaron el Jordán a la tierra de Gad y de Galaad; pero Saúl estaba aún en Gilgal, y todo el pueblo iba tras él temblando."
+        },
+        {
+            "id": "1sa13_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él esperó siete días, conforme al plazo que Samuel había señalado; pero Samuel no venía a Gilgal, y el pueblo se le desertaba."
+        },
+        {
+            "id": "1sa13_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces dijo Saúl:"
+        },
+        {
+            "id": "1sa13_9b",
+            "speaker": "Saúl",
+            "verse": 9,
+            "text": "Traedme holocausto y ofrendas de paz. Y ofreció el holocausto."
+        },
+        {
+            "id": "1sa13_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y aconteció que tan pronto como acabó de hacer el holocausto, he aquí Samuel que venía; y Saúl salió a su encuentro, para saludarle."
+        },
+        {
+            "id": "1sa13_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces Samuel dijo:"
+        },
+        {
+            "id": "1sa13_11b",
+            "speaker": "Samuel",
+            "verse": 11,
+            "text": "¿Qué has hecho?"
+        },
+        {
+            "id": "1sa13_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Saúl respondió:"
+        },
+        {
+            "id": "1sa13_11d",
+            "speaker": "Saúl",
+            "verse": 11,
+            "text": "Porque vi que el pueblo se me iba, y que tú no venías al plazo de los días, y que los filisteos estaban juntos en Micmas,"
+        },
+        {
+            "id": "1sa13_12a",
+            "speaker": "Saúl",
+            "verse": 12,
+            "text": "Me dije:"
+        },
+        {
+            "id": "1sa13_12b",
+            "speaker": "Saúl",
+            "verse": 12,
+            "text": "Los filisteos descenderán ahora contra mí a Gilgal, y yo no he implorado el favor de Jehová. Por tanto me vi forzado, y ofrecí holocausto."
+        },
+        {
+            "id": "1sa13_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Samuel dijo a Saúl:"
+        },
+        {
+            "id": "1sa13_13b",
+            "speaker": "Samuel",
+            "verse": 13,
+            "text": "Locamente has hecho; no guardaste el mandamiento de Jehová tu Dios, que Él te había ordenado; pues ahora Jehová hubiera confirmado tu reino sobre Israel para siempre."
+        },
+        {
+            "id": "1sa13_14",
+            "speaker": "Samuel",
+            "verse": 14,
+            "text": "Mas ahora tu reino no será duradero: Jehová se ha buscado un varón según su corazón, al cual Jehová ha mandado que sea príncipe sobre su pueblo, por cuanto tú no has guardado lo que Jehová te mandó."
+        },
+        {
+            "id": "1sa13_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y levantándose Samuel, subió de Gilgal a Gabaa de Benjamín. Y Saúl contó la gente que se hallaba con él, como seiscientos hombres."
+        },
+        {
+            "id": "1sa13_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Saúl, su hijo Jonatán y el pueblo que con ellos se hallaba, se quedaron en Gabaa de Benjamín; mas los filisteos habían acampado en Micmas."
+        },
+        {
+            "id": "1sa13_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y salieron destructores del campamento de los filisteos en tres escuadrones. Un escuadrón marchó por el camino de Ofra hacia la tierra de Sual,"
+        },
+        {
+            "id": "1sa13_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "otro escuadrón marchó hacia Bet-horón, y el tercer escuadrón marchó hacia la región que mira al valle de Zeboim hacia el desierto."
+        },
+        {
+            "id": "1sa13_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y en toda la tierra de Israel no se hallaba herrero; porque los filisteos habían dicho:"
+        },
+        {
+            "id": "1sa13_19b",
+            "speaker": "Filisteos",
+            "verse": 19,
+            "text": "Para que los hebreos no hagan espada o lanza."
+        },
+        {
+            "id": "1sa13_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y todos los de Israel descendían a los filisteos cada cual a afilar su reja de arado, su azadón, su hacha o su hoz;"
+        },
+        {
+            "id": "1sa13_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "y tenían un afilador para las rejas de arado y para los azadones, y para los tridentes y para las hachas, y para componer las aguijadas."
+        },
+        {
+            "id": "1sa13_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y aconteció que en el día de la batalla no se halló espada ni lanza en mano de ninguna de la gente que estaba con Saúl y Jonatán, excepto en Saúl y Jonatán su hijo, que las tenían."
+        },
+        {
+            "id": "1sa13_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y la guarnición de los filisteos salió al paso de Micmas."
+        }
+    ]
+}

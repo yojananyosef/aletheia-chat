@@ -1,0 +1,121 @@
+{
+    "book": "1 Samuel",
+    "chapter": 29,
+    "title": "1 Samuel 29",
+    "messages": [
+        {
+            "id": "1sa29_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y los filisteos reunieron todas sus tropas en Afec; e Israel acampó junto a la fuente que está en Jezreel."
+        },
+        {
+            "id": "1sa29_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y cuando los príncipes de los filisteos pasaban revista a sus compañías de a ciento y de a mil hombres, David y sus hombres iban en la retaguardia con Aquís."
+        },
+        {
+            "id": "1sa29_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijeron los príncipes de los filisteos:"
+        },
+        {
+            "id": "1sa29_3b",
+            "speaker": "Príncipes",
+            "verse": 3,
+            "text": "¿Qué hacen aquí estos hebreos?"
+        },
+        {
+            "id": "1sa29_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Aquís respondió a los príncipes de los filisteos:"
+        },
+        {
+            "id": "1sa29_3d",
+            "speaker": "Aquís",
+            "verse": 3,
+            "text": "¿No es éste David, el siervo de Saúl, rey de Israel, que ha estado conmigo algunos días o algunos años y no he hallado falta en él desde el día que se pasó a mí hasta hoy?"
+        },
+        {
+            "id": "1sa29_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces los príncipes de los filisteos se enojaron contra él, y le dijeron:"
+        },
+        {
+            "id": "1sa29_4b",
+            "speaker": "Príncipes",
+            "verse": 4,
+            "text": "Envía a este hombre, que se vuelva al lugar que le señalaste, y no venga con nosotros a la batalla, no sea que en la batalla se nos vuelva enemigo; porque ¿con qué cosa volvería mejor a la gracia de su señor que con las cabezas de estos hombres?"
+        },
+        {
+            "id": "1sa29_5a",
+            "speaker": "Príncipes",
+            "verse": 5,
+            "text": "¿No es éste David de quien cantaban con danzas, diciendo:"
+        },
+        {
+            "id": "1sa29_5b",
+            "speaker": "Príncipes",
+            "verse": 5,
+            "text": "Saúl mató a sus miles, y David a sus diez miles?"
+        },
+        {
+            "id": "1sa29_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Aquís llamó a David, y le dijo:"
+        },
+        {
+            "id": "1sa29_6b",
+            "speaker": "Aquís",
+            "verse": 6,
+            "text": "Vive Jehová, que tú has sido recto, y que me ha parecido bien tu salida y entrada en el campamento conmigo, y que ninguna cosa mala he hallado en ti desde el día que viniste a mí hasta hoy; pero en los ojos de los príncipes no agradas."
+        },
+        {
+            "id": "1sa29_7",
+            "speaker": "Aquís",
+            "verse": 7,
+            "text": "Vuélvete, pues, y vete en paz; y no hagas lo malo en los ojos de los príncipes de los filisteos."
+        },
+        {
+            "id": "1sa29_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y David respondió a Aquís:"
+        },
+        {
+            "id": "1sa29_8b",
+            "speaker": "David",
+            "verse": 8,
+            "text": "¿Qué he hecho? ¿Qué has hallado en tu siervo desde el día que estoy contigo hasta hoy, para que yo no vaya y pelee contra los enemigos de mi señor el rey?"
+        },
+        {
+            "id": "1sa29_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Aquís respondió a David, y dijo:"
+        },
+        {
+            "id": "1sa29_9b",
+            "speaker": "Aquís",
+            "verse": 9,
+            "text": "Yo sé que tú eres bueno ante mis ojos, como un ángel de Dios; mas los príncipes de los filisteos han dicho: No venga con nosotros a la batalla."
+        },
+        {
+            "id": "1sa29_10",
+            "speaker": "Aquís",
+            "verse": 10,
+            "text": "Levántate, pues, muy de mañana, tú y los siervos de tu señor que han venido contigo; y temprano en la mañana, cuando os levantéis, al amanecer, partid."
+        },
+        {
+            "id": "1sa29_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y David se levantó muy de mañana, él y los suyos, para irse y regresar a la tierra de los filisteos; y los filisteos subieron a Jezreel."
+        }
+    ]
+}

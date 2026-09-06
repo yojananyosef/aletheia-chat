@@ -1,0 +1,91 @@
+{
+    "book": "1 Samuel",
+    "chapter": 31,
+    "title": "1 Samuel 31",
+    "messages": [
+        {
+            "id": "1sa31_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Los filisteos, pues, pelearon contra Israel, y los de Israel huyeron delante de los filisteos, y cayeron muertos en el monte de Gilboa."
+        },
+        {
+            "id": "1sa31_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y siguiendo los filisteos a Saúl y a sus hijos, mataron a Jonatán, y a Abinadab, y a Malquisúa, hijos de Saúl."
+        },
+        {
+            "id": "1sa31_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y se agravó la batalla sobre Saúl, y lo alcanzaron los arqueros; y tuvo gran temor de los arqueros."
+        },
+        {
+            "id": "1sa31_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces dijo Saúl a su escudero:"
+        },
+        {
+            "id": "1sa31_4b",
+            "speaker": "Saúl",
+            "verse": 4,
+            "text": "Saca tu espada, y traspásame con ella, no sea que vengan estos incircuncisos y me traspasen, y me escarnezcan. Mas su escudero no quería, porque tenía gran temor. Entonces Saúl tomó la espada, y se echó sobre ella."
+        },
+        {
+            "id": "1sa31_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y viendo su escudero que Saúl estaba muerto, él también se echó sobre su espada, y murió con él."
+        },
+        {
+            "id": "1sa31_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Así murió Saúl en aquel día, juntamente con sus tres hijos, y su escudero, y todos sus varones."
+        },
+        {
+            "id": "1sa31_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y los de Israel que estaban al otro lado del valle, y al otro lado del Jordán, viendo que Israel había huido, y que Saúl y sus hijos habían muerto, dejaron las ciudades y huyeron; y los filisteos vinieron y habitaron en ellas."
+        },
+        {
+            "id": "1sa31_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y aconteció el siguiente día, que viniendo los filisteos a despojar a los muertos, hallaron a Saúl y a sus tres hijos tendidos en el monte de Gilboa;"
+        },
+        {
+            "id": "1sa31_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y le cortaron la cabeza, y le despojaron de sus armas; y enviaron mensajeros por toda la tierra de los filisteos, para que lo publicaran en el templo de sus ídolos, y en el pueblo."
+        },
+        {
+            "id": "1sa31_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y pusieron sus armas en el templo de Astarot, y colgaron su cuerpo en el muro de Bet-seán."
+        },
+        {
+            "id": "1sa31_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas oyendo los de Jabes de Galaad esto que los filisteos hicieron a Saúl,"
+        },
+        {
+            "id": "1sa31_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "todos los hombres valientes se levantaron, y anduvieron toda aquella noche, y quitaron el cuerpo de Saúl y los cuerpos de sus hijos del muro de Bet-seán; y viniendo a Jabes, los quemaron allí."
+        },
+        {
+            "id": "1sa31_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y tomando sus huesos, los sepultaron debajo de un árbol en Jabes, y ayunaron siete días."
+        }
+    ]
+}
