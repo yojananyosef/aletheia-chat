@@ -1,0 +1,86 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Israel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Edom",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  }
+]

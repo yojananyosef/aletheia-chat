@@ -1,0 +1,235 @@
+{
+    "book": "Números",
+    "chapter": 13,
+    "title": "Números 13",
+    "messages": [
+        {
+            "id": "num13_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num13_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Envía tú hombres que reconozcan la tierra de Canaán, la cual yo doy a los hijos de Israel: de cada tribu de sus padres enviaréis un varón, cada uno príncipe entre ellos."
+        },
+        {
+            "id": "num13_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Moisés los envió desde el desierto de Parán, conforme a la palabra de Jehová; y todos aquellos varones eran príncipes de los hijos de Israel."
+        },
+        {
+            "id": "num13_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Los nombres de los cuales son éstos: De la tribu de Rubén, Samúa, hijo de Zacur."
+        },
+        {
+            "id": "num13_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "De la tribu de Simeón, Safat, hijo de Hori."
+        },
+        {
+            "id": "num13_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "De la tribu de Judá, Caleb, hijo de Jefone."
+        },
+        {
+            "id": "num13_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "De la tribu de Isacar, Igal, hijo de José."
+        },
+        {
+            "id": "num13_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "De la tribu de Efraín, Oseas, hijo de Nun."
+        },
+        {
+            "id": "num13_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "De la tribu de Benjamín, Palti, hijo de Rafu."
+        },
+        {
+            "id": "num13_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "De la tribu de Zabulón, Gadiel, hijo de Sodi."
+        },
+        {
+            "id": "num13_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "De la tribu de José, de la tribu de Manasés, Gadi, hijo de Susi."
+        },
+        {
+            "id": "num13_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "De la tribu de Dan, Amiel, hijo de Gemali."
+        },
+        {
+            "id": "num13_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "De la tribu de Aser, Setur, hijo de Micael."
+        },
+        {
+            "id": "num13_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "De la tribu de Neftalí, Nahbí, hijo de Vapsi."
+        },
+        {
+            "id": "num13_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "De la tribu de Gad, Gehuel, hijo de Maqui."
+        },
+        {
+            "id": "num13_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Éstos son los nombres de los varones que Moisés envió a reconocer la tierra. Y a Oseas, hijo de Nun, Moisés le puso el nombre de Josué."
+        },
+        {
+            "id": "num13_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Los envió, pues, Moisés a reconocer la tierra de Canaán, diciéndoles:"
+        },
+        {
+            "id": "num13_17b",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Subid de aquí hacia el sur, y subid al monte,"
+        },
+        {
+            "id": "num13_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "y observad la tierra qué tal es; y el pueblo que la habita, si es fuerte o débil, si poco o numeroso;"
+        },
+        {
+            "id": "num13_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "y cómo es la tierra habitada, si es buena o mala; y cómo son las ciudades habitadas, si son de tiendas o de fortalezas;"
+        },
+        {
+            "id": "num13_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "y cómo es el terreno, si es fértil o árido, si en él hay o no árboles: y esforzaos, y tomad del fruto del país. Y el tiempo era el tiempo de las primeras uvas."
+        },
+        {
+            "id": "num13_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y ellos subieron, y reconocieron la tierra desde el desierto de Zin hasta Rehob, entrando en Hamat."
+        },
+        {
+            "id": "num13_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y subieron por el sur, y vinieron hasta Hebrón; y allí estaban Ahimán, y Sesai, y Talmai, hijos de Anac. Hebrón fue edificada siete años antes de Zoán, la de Egipto."
+        },
+        {
+            "id": "num13_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y llegaron hasta el valle de Escol, y de allí cortaron un sarmiento con un racimo de uvas, el cual trajeron dos en un palo, y de las granadas y de los higos."
+        },
+        {
+            "id": "num13_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y se llamó aquel lugar el valle de Escol por el racimo que cortaron de allí los hijos de Israel."
+        },
+        {
+            "id": "num13_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y volvieron de reconocer la tierra al cabo de cuarenta días."
+        },
+        {
+            "id": "num13_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y anduvieron y vinieron a Moisés y a Aarón, y a toda la congregación de los hijos de Israel, en el desierto de Parán, en Cades, y les dieron la respuesta, y a toda la congregación, y les mostraron el fruto de la tierra."
+        },
+        {
+            "id": "num13_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y le contaron, y dijeron:"
+        },
+        {
+            "id": "num13_27b",
+            "speaker": "Espías",
+            "verse": 27,
+            "text": "Nosotros llegamos a la tierra a la cual nos enviaste, la que ciertamente fluye leche y miel; y éste es el fruto de ella."
+        },
+        {
+            "id": "num13_28",
+            "speaker": "Espías",
+            "verse": 28,
+            "text": "Pero el pueblo que habita en aquella tierra es fuerte, y las ciudades, fortificadas y muy grandes; y también vimos allí a los hijos de Anac."
+        },
+        {
+            "id": "num13_29",
+            "speaker": "Espías",
+            "verse": 29,
+            "text": "Amalec habita en la tierra del sur; y el heteo, y el jebuseo, y el amorreo, habitan en las montañas; y el cananeo habita junto al mar, y a la ribera del Jordán."
+        },
+        {
+            "id": "num13_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo:"
+        },
+        {
+            "id": "num13_30b",
+            "speaker": "Caleb",
+            "verse": 30,
+            "text": "Subamos luego, y poseámosla; que más podremos que ella."
+        },
+        {
+            "id": "num13_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Mas los varones que subieron con él, dijeron:"
+        },
+        {
+            "id": "num13_31b",
+            "speaker": "Espías",
+            "verse": 31,
+            "text": "No podremos subir contra aquel pueblo; porque es más fuerte que nosotros."
+        },
+        {
+            "id": "num13_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y vituperaron entre los hijos de Israel la tierra que habían reconocido, diciendo:"
+        },
+        {
+            "id": "num13_32b",
+            "speaker": "Espías",
+            "verse": 32,
+            "text": "La tierra por donde pasamos para reconocerla, es tierra que traga a sus moradores; y todo el pueblo que vimos en medio de ella, son hombres de gran estatura."
+        },
+        {
+            "id": "num13_33",
+            "speaker": "Espías",
+            "verse": 33,
+            "text": "También vimos allí gigantes, hijos de Anac, raza de los gigantes: y éramos nosotros, a nuestro parecer, como langostas; y así les parecíamos a ellos."
+        }
+    ]
+}

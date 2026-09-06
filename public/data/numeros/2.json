@@ -1,0 +1,211 @@
+{
+    "book": "Números",
+    "chapter": 2,
+    "title": "Números 2",
+    "messages": [
+        {
+            "id": "num2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés y a Aarón, diciendo:"
+        },
+        {
+            "id": "num2_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Los hijos de Israel acamparán cada uno junto a su bandera, con la enseña de la casa de sus padres; alrededor del tabernáculo de la congregación acamparán."
+        },
+        {
+            "id": "num2_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y al lado oriente, hacia donde sale el sol; acamparán los de la bandera del ejército de Judá, por sus escuadrones; y el jefe de los hijos de Judá, Naasón, hijo de Aminadab:"
+        },
+        {
+            "id": "num2_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Su ejército, con los contados de ellos, setenta y cuatro mil seiscientos."
+        },
+        {
+            "id": "num2_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Junto a él acamparán los de la tribu de Isacar; y el jefe de los hijos de Isacar, Natanael, hijo de Zuar;"
+        },
+        {
+            "id": "num2_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "y su ejército, con sus contados, cincuenta y cuatro mil cuatrocientos."
+        },
+        {
+            "id": "num2_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y la tribu de Zabulón; y el jefe de los hijos de Zabulón, Eliab, hijo de Helón;"
+        },
+        {
+            "id": "num2_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "y su ejército, con sus contados, cincuenta y siete mil cuatrocientos."
+        },
+        {
+            "id": "num2_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Todos los contados en el ejército de Judá, ciento ochenta y seis mil cuatrocientos, por sus escuadrones, irán delante."
+        },
+        {
+            "id": "num2_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "La bandera del ejército de Rubén al sur, por sus escuadrones; y el jefe de los hijos de Rubén, Elisur, hijo de Sedeur;"
+        },
+        {
+            "id": "num2_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "y su ejército, sus contados, cuarenta y seis mil quinientos."
+        },
+        {
+            "id": "num2_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y acamparán junto a él los de la tribu de Simeón; y el jefe de los hijos de Simeón, Selumiel, hijo de Zurisadai."
+        },
+        {
+            "id": "num2_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y su ejército, con los contados de ellos, cincuenta y nueve mil trescientos."
+        },
+        {
+            "id": "num2_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y la tribu de Gad; y el jefe de los hijos de Gad, Eliasaf, hijo de Reuel;"
+        },
+        {
+            "id": "num2_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "y su ejército, con los contados de ellos, cuarenta y cinco mil seiscientos cincuenta."
+        },
+        {
+            "id": "num2_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Todos los contados en el ejército de Rubén, ciento cincuenta y un mil cuatrocientos cincuenta, por sus escuadrones, irán los segundos."
+        },
+        {
+            "id": "num2_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Luego irá el tabernáculo de la congregación con el campamento de los levitas, en medio del campamento; de la manera que acampan, así caminarán, cada uno en su lugar, junto a sus banderas."
+        },
+        {
+            "id": "num2_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "La bandera del ejército de Efraín por sus escuadrones, al occidente; y el jefe de los hijos de Efraín, Elisama, hijo de Amiud;"
+        },
+        {
+            "id": "num2_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "y su ejército, con los contados de ellos, cuarenta mil quinientos."
+        },
+        {
+            "id": "num2_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Junto a él estará la tribu de Manasés; y el jefe de los hijos de Manasés, Gamaliel, hijo de Pedasur;"
+        },
+        {
+            "id": "num2_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Y su ejército, con los contados de ellos, treinta y dos mil doscientos."
+        },
+        {
+            "id": "num2_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y la tribu de Benjamín; y el jefe de los hijos de Benjamín, Abidán, hijo de Gedeón;"
+        },
+        {
+            "id": "num2_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "y su ejército, con los contados de ellos, treinta y cinco mil cuatrocientos."
+        },
+        {
+            "id": "num2_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Todos los contados en el ejército de Efraín, ciento ocho mil cien, por sus escuadrones, irán los terceros."
+        },
+        {
+            "id": "num2_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "La bandera del ejército de Dan estará al norte, por sus escuadrones; y el jefe de los hijos de Dan, Ahiezer, hijo de Amisadai;"
+        },
+        {
+            "id": "num2_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "y su ejército, con los contados de ellos, sesenta y dos mil setecientos."
+        },
+        {
+            "id": "num2_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Junto a él acamparán los de la tribu de Aser: y el jefe de los hijos de Aser, Pagiel, hijo de Ocrán;"
+        },
+        {
+            "id": "num2_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "y su ejército, con los contados de ellos, cuarenta y un mil quinientos."
+        },
+        {
+            "id": "num2_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Y la tribu de Neftalí; y el jefe de los hijos de Neftalí, Ahira, hijo de Enán;"
+        },
+        {
+            "id": "num2_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "y su ejército, con los contados de ellos, cincuenta y tres mil cuatrocientos."
+        },
+        {
+            "id": "num2_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Todos los contados en el ejército de Dan, ciento cincuenta y siete mil seiscientos; irán los postreros tras sus banderas."
+        },
+        {
+            "id": "num2_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Éstos son los contados de los hijos de Israel, por las casas de sus padres: todos los contados por ejércitos, por sus escuadrones, seiscientos tres mil quinientos cincuenta."
+        },
+        {
+            "id": "num2_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Mas los levitas no fueron contados entre los hijos de Israel; como Jehová lo mandó a Moisés."
+        },
+        {
+            "id": "num2_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y los hijos de Israel hicieron conforme a todas las cosas que Jehová mandó a Moisés; así acamparon por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres."
+        }
+    ]
+}

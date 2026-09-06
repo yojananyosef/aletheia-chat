@@ -1,0 +1,355 @@
+{
+    "book": "Números",
+    "chapter": 31,
+    "title": "Números 31",
+    "messages": [
+        {
+            "id": "num31_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num31_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Haz la venganza de los hijos de Israel contra los madianitas; después serás recogido a tu pueblo."
+        },
+        {
+            "id": "num31_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces Moisés habló al pueblo, diciendo:"
+        },
+        {
+            "id": "num31_3b",
+            "speaker": "Moisés",
+            "verse": 3,
+            "text": "Armaos algunos de vosotros para la guerra, y vayan contra Madián y hagan la venganza de Jehová en Madián."
+        },
+        {
+            "id": "num31_4",
+            "speaker": "Moisés",
+            "verse": 4,
+            "text": "Mil de cada tribu de todas las tribus de los hijos de Israel, enviaréis a la guerra."
+        },
+        {
+            "id": "num31_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así fueron dados de los millares de Israel, mil de cada tribu, doce mil armados para la guerra."
+        },
+        {
+            "id": "num31_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Moisés los envió a la guerra: mil por cada tribu envió: y Finees, hijo de Eleazar sacerdote, fue a la guerra con los santos instrumentos, con las trompetas en su mano para tocar."
+        },
+        {
+            "id": "num31_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y pelearon contra Madián, como Jehová lo mandó a Moisés, y mataron a todo varón."
+        },
+        {
+            "id": "num31_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mataron también, entre los muertos de ellos, a los reyes de Madián: Evi, y Requem, y Zur, y Hur, y Reba, cinco reyes de Madián; a Balaam también, hijo de Beor, mataron a espada."
+        },
+        {
+            "id": "num31_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y llevaron cautivas los hijos de Israel las mujeres de los madianitas, y sus chiquitos y todas sus bestias, y todos sus ganados; y arrebataron toda su hacienda."
+        },
+        {
+            "id": "num31_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y abrasaron con fuego todas sus ciudades, aldeas y castillos."
+        },
+        {
+            "id": "num31_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y tomaron todo el despojo, y toda la presa, así de hombres como de bestias."
+        },
+        {
+            "id": "num31_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y trajeron a Moisés, y a Eleazar el sacerdote, y a la congregación de los hijos de Israel, los cautivos y la presa y los despojos, al campamento en los llanos de Moab, que están junto al Jordán, frente a Jericó."
+        },
+        {
+            "id": "num31_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y salieron Moisés y Eleazar el sacerdote, y todos los príncipes de la congregación, a recibirlos fuera del campamento."
+        },
+        {
+            "id": "num31_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y se enojó Moisés contra los capitanes del ejército, contra los tribunos y centuriones que volvían de la guerra,"
+        },
+        {
+            "id": "num31_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y les dijo Moisés:"
+        },
+        {
+            "id": "num31_15b",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "¿Todas las mujeres habéis reservado?"
+        },
+        {
+            "id": "num31_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "He aquí ellas fueron a los hijos de Israel, por consejo de Balaam, para causar prevaricación contra Jehová en el asunto de Peor; por lo que hubo mortandad en la congregación de Jehová."
+        },
+        {
+            "id": "num31_17",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Matad pues ahora todos los varones entre los niños: matad también toda mujer que haya conocido varón carnalmente."
+        },
+        {
+            "id": "num31_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Y todas las niñas entre las mujeres, que no hayan conocido ayuntamiento de varón, os reservaréis vivas."
+        },
+        {
+            "id": "num31_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Y vosotros quedaos fuera del campamento siete días: y todos los que hubieren matado persona, y cualquiera que hubiere tocado muerto, os purificaréis al tercero y al séptimo día, vosotros y vuestros cautivos."
+        },
+        {
+            "id": "num31_20",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "Asimismo purificaréis todo vestido, y toda prenda de pieles, y toda obra de pelo de cabra, y todo vaso de madera."
+        },
+        {
+            "id": "num31_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Eleazar el sacerdote dijo a los hombres de guerra que venían de la batalla:"
+        },
+        {
+            "id": "num31_21b",
+            "speaker": "Eleazar",
+            "verse": 21,
+            "text": "Ésta es la ordenanza de la ley que Jehová ha mandado a Moisés:"
+        },
+        {
+            "id": "num31_22",
+            "speaker": "Eleazar",
+            "verse": 22,
+            "text": "Ciertamente el oro y la plata, el bronce, el hierro, el estaño y el plomo,"
+        },
+        {
+            "id": "num31_23",
+            "speaker": "Eleazar",
+            "verse": 23,
+            "text": "todo lo que resiste el fuego, por fuego lo haréis pasar, y será limpio, bien que en las aguas de purificación habrá de purificarse: mas haréis pasar por agua todo lo que no aguanta el fuego."
+        },
+        {
+            "id": "num31_24",
+            "speaker": "Eleazar",
+            "verse": 24,
+            "text": "Además lavaréis vuestras vestiduras el séptimo día, y así seréis limpios; y después entraréis en el campamento."
+        },
+        {
+            "id": "num31_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num31_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Toma la cuenta de la presa que se ha hecho, así de las personas como de las bestias, tú y el sacerdote Eleazar, y las cabezas de los padres de la congregación:"
+        },
+        {
+            "id": "num31_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Y partirás por mitad la presa entre los que pelearon, los que salieron a la guerra, y toda la congregación."
+        },
+        {
+            "id": "num31_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Y apartarás para Jehová el tributo de los hombres de guerra, que salieron a la batalla; uno de cada quinientos, así de las personas como de los bueyes, de los asnos, y de las ovejas:"
+        },
+        {
+            "id": "num31_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "De la mitad de ellos lo tomarás; y darás a Eleazar el sacerdote la ofrenda de Jehová."
+        },
+        {
+            "id": "num31_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Y de la mitad perteneciente a los hijos de Israel tomarás uno de cincuenta, de las personas, de los bueyes, de los asnos, y de las ovejas, de todo animal; y los darás a los levitas, que tienen la guarda del tabernáculo de Jehová."
+        },
+        {
+            "id": "num31_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y Moisés y el sacerdote Eleazar hicieron como Jehová mandó a Moisés."
+        },
+        {
+            "id": "num31_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y fue la presa, el resto de la presa que tomaron los hombres de guerra, seiscientas y setenta y cinco mil ovejas,"
+        },
+        {
+            "id": "num31_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "y setenta y dos mil bueyes,"
+        },
+        {
+            "id": "num31_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "y sesenta y un mil asnos."
+        },
+        {
+            "id": "num31_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y en cuanto a personas, de mujeres que no habían conocido ayuntamiento de varón, en todas treinta y dos mil."
+        },
+        {
+            "id": "num31_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y la mitad, la parte de los que habían salido a la guerra, fue el número de trescientas treinta y siete mil quinientas ovejas."
+        },
+        {
+            "id": "num31_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y el tributo para Jehová de las ovejas, fue seiscientas setenta y cinco."
+        },
+        {
+            "id": "num31_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y de los bueyes, treinta y seis mil: y de ellos el tributo para Jehová, setenta y dos."
+        },
+        {
+            "id": "num31_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y de los asnos, treinta mil quinientos; y de ellos el tributo para Jehová, sesenta y uno."
+        },
+        {
+            "id": "num31_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y de las personas, dieciséis mil: y de ellas el tributo para Jehová, treinta y dos personas."
+        },
+        {
+            "id": "num31_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y dio Moisés el tributo, por elevada ofrenda a Jehová, a Eleazar el sacerdote, como Jehová lo mandó a Moisés."
+        },
+        {
+            "id": "num31_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y de la mitad para los hijos de Israel, que apartó Moisés de los hombres que habían ido a la guerra"
+        },
+        {
+            "id": "num31_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "(La mitad para la congregación fue: de las ovejas, trescientas treinta y siete mil quinientas;"
+        },
+        {
+            "id": "num31_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "y de los bueyes, treinta y seis mil;"
+        },
+        {
+            "id": "num31_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "y de los asnos, treinta mil quinientos;"
+        },
+        {
+            "id": "num31_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "y de las personas, dieciséis mil);"
+        },
+        {
+            "id": "num31_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "de la mitad, pues, para los hijos de Israel tomó Moisés uno de cada cincuenta, así de las personas como de los animales, y los dio a los levitas, que tenían la guarda del tabernáculo de Jehová; como Jehová lo había mandado a Moisés."
+        },
+        {
+            "id": "num31_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y llegaron a Moisés los jefes de los millares de aquel ejército, los tribunos y centuriones;"
+        },
+        {
+            "id": "num31_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y dijeron a Moisés:"
+        },
+        {
+            "id": "num31_49b",
+            "speaker": "Capitanes",
+            "verse": 49,
+            "text": "Tus siervos han tomado razón de los hombres de guerra que están en nuestro poder, y ninguno ha faltado de nosotros."
+        },
+        {
+            "id": "num31_50",
+            "speaker": "Capitanes",
+            "verse": 50,
+            "text": "Por lo cual hemos ofrecido a Jehová ofrenda, cada uno de lo que ha hallado, vasos de oro, brazaletes, manillas, anillos, zarcillos, y cadenas, para hacer expiación por nuestras almas delante de Jehová."
+        },
+        {
+            "id": "num31_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y Moisés y el sacerdote Eleazar recibieron el oro de ellos, alhajas, todas elaboradas."
+        },
+        {
+            "id": "num31_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y todo el oro de la ofrenda que ofrecieron a Jehová de los tribunos y centuriones, fue dieciséis mil setecientos cincuenta siclos."
+        },
+        {
+            "id": "num31_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Los hombres del ejército habían tomado despojo, cada uno para sí."
+        },
+        {
+            "id": "num31_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Recibieron, pues, Moisés y el sacerdote Eleazar, el oro de los tribunos y centuriones, y lo trajeron al tabernáculo de la congregación, por memoria de los hijos de Israel delante de Jehová."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "book": "Números",
+    "chapter": 17,
+    "title": "Números 17",
+    "messages": [
+        {
+            "id": "num17_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num17_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Habla a los hijos de Israel, y toma de ellos una vara por cada casa de los padres, de todos los príncipes de ellos, doce varas conforme a las casas de sus padres; y escribirás el nombre de cada uno sobre su vara."
+        },
+        {
+            "id": "num17_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y escribirás el nombre de Aarón sobre la vara de Leví; porque cada cabeza de familia de sus padres tendrá una vara."
+        },
+        {
+            "id": "num17_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y las pondrás en el tabernáculo de la congregación delante del testimonio, donde yo me encontraré con vosotros."
+        },
+        {
+            "id": "num17_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y será, que el varón que yo escogiere, su vara florecerá: y haré cesar de sobre mí las quejas de los hijos de Israel, con que murmuran contra vosotros."
+        },
+        {
+            "id": "num17_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Moisés habló a los hijos de Israel, y todos los príncipes de ellos le dieron varas; cada príncipe por las casas de sus padres una vara, en todas doce varas; y la vara de Aarón estaba entre las varas de ellos."
+        },
+        {
+            "id": "num17_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Moisés puso las varas delante de Jehová en el tabernáculo de la congregación."
+        },
+        {
+            "id": "num17_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y aconteció que el día siguiente vino Moisés al tabernáculo de la congregación; y he aquí que la vara de Aarón de la casa de Leví había reverdecido, y echado flores, y arrojado renuevos, y producido almendras."
+        },
+        {
+            "id": "num17_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces sacó Moisés todas las varas de delante de Jehová a todos los hijos de Israel; y ellos lo vieron, y tomaron cada uno su vara."
+        },
+        {
+            "id": "num17_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "num17_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Vuelve la vara de Aarón delante del testimonio, para que se guarde por señal a los hijos rebeldes; y harás cesar sus quejas de sobre mí, para que no mueran."
+        },
+        {
+            "id": "num17_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y lo hizo Moisés; como le mandó Jehová, así hizo."
+        },
+        {
+            "id": "num17_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces los hijos de Israel hablaron a Moisés, diciendo:"
+        },
+        {
+            "id": "num17_12b",
+            "speaker": "Pueblo",
+            "verse": 12,
+            "text": "He aquí nosotros somos muertos, perdidos somos, todos nosotros somos perdidos."
+        },
+        {
+            "id": "num17_13",
+            "speaker": "Pueblo",
+            "verse": 13,
+            "text": "Cualquiera que se llegare, el que se acercare al tabernáculo de Jehová morirá; ¿Acabaremos por perecer todos?"
+        }
+    ]
+}

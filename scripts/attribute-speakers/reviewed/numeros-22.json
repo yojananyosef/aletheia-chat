@@ -1,0 +1,62 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Balac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Príncipes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 30,
+    "subId": "d",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Asna",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  }
+]

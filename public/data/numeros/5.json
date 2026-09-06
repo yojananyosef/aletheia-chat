@@ -1,0 +1,205 @@
+{
+    "book": "Números",
+    "chapter": 5,
+    "title": "Números 5",
+    "messages": [
+        {
+            "id": "num5_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num5_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Manda a los hijos de Israel que echen del campamento a todo leproso, y a todos los que padecen flujo de semen, y a todo contaminado sobre muerto:"
+        },
+        {
+            "id": "num5_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Así hombres como mujeres echaréis, fuera del campamento los echaréis; para que no contaminen el campamento de aquellos entre los cuales yo habito."
+        },
+        {
+            "id": "num5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y los hijos de Israel lo hicieron así, y los echaron fuera del campamento; como Jehová dijo a Moisés, así lo hicieron los hijos de Israel."
+        },
+        {
+            "id": "num5_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Además habló Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "num5_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Habla a los hijos de Israel:"
+        },
+        {
+            "id": "num5_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "El hombre o la mujer que cometiere alguno de todos los pecados de los hombres, haciendo prevaricación contra Jehová, y delinquiere aquella persona;"
+        },
+        {
+            "id": "num5_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Confesarán su pecado que cometieron, y compensarán su ofensa enteramente, y añadirán una quinta parte sobre ello, y lo darán a aquel contra quien pecaron."
+        },
+        {
+            "id": "num5_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y si aquel hombre no tuviere pariente al cual sea resarcida la ofensa, se dará la indemnización del agravio a Jehová, al sacerdote, a más del carnero de las expiaciones, con el cual hará expiación por él."
+        },
+        {
+            "id": "num5_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y toda ofrenda de todas las cosas santas que los hijos de Israel presentaren al sacerdote, suya será."
+        },
+        {
+            "id": "num5_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y lo santificado de cualquiera será suyo; asimismo lo que cualquiera diere al sacerdote, suyo será."
+        },
+        {
+            "id": "num5_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num5_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "num5_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Si la esposa de alguno se descarriare e hiciere traición contra él,"
+        },
+        {
+            "id": "num5_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "y alguno hubiere tenido relación carnal con ella, y su marido no lo hubiese visto por haberse ella amancillado ocultamente, y no hubiere testigo contra ella, ni ella hubiere sido tomada en el acto;"
+        },
+        {
+            "id": "num5_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "si el espíritu de celos viniere sobre él, y tuviere celos de su esposa, habiéndose ella amancillado; o si el espíritu de celo viniere sobre él, y tuviere celos de su esposa, no habiéndose ella amancillado;"
+        },
+        {
+            "id": "num5_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "entonces el marido traerá su esposa al sacerdote, y traerá su ofrenda con ella, la décima de un efa de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso; porque es presente de celos, presente de recordación, que trae a la memoria el pecado."
+        },
+        {
+            "id": "num5_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y el sacerdote la hará acercar, y la hará poner delante de Jehová."
+        },
+        {
+            "id": "num5_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Luego el sacerdote tomará del agua santa en un vaso de barro; tomará también el sacerdote del polvo que hubiere en el suelo del tabernáculo, y lo echará en el agua."
+        },
+        {
+            "id": "num5_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y hará el sacerdote estar en pie a la mujer delante de Jehová, y descubrirá la cabeza de la mujer, y pondrá sobre sus manos el presente de la recordación, que es el presente de celos; y el sacerdote tendrá en la mano las aguas amargas que acarrean maldición."
+        },
+        {
+            "id": "num5_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y el sacerdote la conjurará, y le dirá: Si ningún hombre se ha acostado contigo, y si no te has apartado de tu marido a inmundicia, libre seas de estas aguas amargas que traen maldición;"
+        },
+        {
+            "id": "num5_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "mas si te has descarriado de tu marido, y te has amancillado, y algún hombre se ha acostado contigo, fuera de tu marido"
+        },
+        {
+            "id": "num5_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "(El sacerdote conjurará a la mujer con juramento de maldición, y dirá a la mujer): Jehová te haga maldición y conjura en medio de tu pueblo, haciendo Jehová que tu muslo caiga, y que tu vientre se hinche;"
+        },
+        {
+            "id": "num5_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "y estas aguas que dan maldición entren en tus entrañas, y hagan hinchar tu vientre y caer tu muslo. Y la mujer dirá: Amén, amén."
+        },
+        {
+            "id": "num5_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y el sacerdote escribirá estas maldiciones en un libro, y las borrará con las aguas amargas;"
+        },
+        {
+            "id": "num5_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "y dará a beber a la mujer las aguas amargas que traen maldición; y las aguas que obran maldición entrarán en ella por amargas."
+        },
+        {
+            "id": "num5_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Después tomará el sacerdote de la mano de la mujer el presente de los celos, y lo mecerá delante de Jehová, y lo ofrecerá delante del altar."
+        },
+        {
+            "id": "num5_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Y tomará el sacerdote un puñado del presente, en memoria de ella, y lo quemará sobre el altar, y después dará a beber las aguas a la mujer."
+        },
+        {
+            "id": "num5_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Le dará, pues, a beber las aguas; y será, que si fuere inmunda y hubiere hecho traición contra su marido, las aguas que obran maldición entrarán en ella en amargura, y su vientre se hinchará, y caerá su muslo; y la mujer será maldición en medio de su pueblo."
+        },
+        {
+            "id": "num5_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Mas si la mujer no fuere inmunda, sino que estuviere limpia, ella será libre, y será fecunda."
+        },
+        {
+            "id": "num5_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Ésta es la ley de los celos, cuando la esposa hiciere traición a su marido, y se amancillare;"
+        },
+        {
+            "id": "num5_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "o del marido, sobre el cual pasare espíritu de celos, y tuviere celos de su esposa; la presentará entonces delante de Jehová, y el sacerdote ejecutará en ella toda esta ley."
+        },
+        {
+            "id": "num5_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Y aquel varón será libre de iniquidad, y la mujer llevará su pecado."
+        }
+    ]
+}

@@ -1,0 +1,547 @@
+{
+    "book": "Números",
+    "chapter": 7,
+    "title": "Números 7",
+    "messages": [
+        {
+            "id": "num7_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció, que cuando Moisés hubo acabado de levantar el tabernáculo, y de ungirlo y santificarlo, con todos sus vasos; y asimismo ungido y santificado el altar, con todos sus vasos;"
+        },
+        {
+            "id": "num7_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces los príncipes de Israel, las cabezas de las casas de sus padres, los cuales eran los príncipes de las tribus, que estaban sobre los contados, ofrecieron;"
+        },
+        {
+            "id": "num7_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y trajeron sus ofrendas delante de Jehová, seis carros cubiertos, y doce bueyes; por cada dos príncipes un carro, y cada uno un buey; lo cual ofrecieron delante del tabernáculo."
+        },
+        {
+            "id": "num7_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num7_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Tómalo de ellos, y será para el servicio del tabernáculo de la congregación: y lo darás a los levitas, a cada uno conforme a su ministerio."
+        },
+        {
+            "id": "num7_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Moisés recibió los carros y los bueyes, y los dio a los levitas."
+        },
+        {
+            "id": "num7_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Dos carros y cuatro bueyes, dio a los hijos de Gersón, conforme a su ministerio;"
+        },
+        {
+            "id": "num7_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y a los hijos de Merari dio los cuatro carros y ocho bueyes, conforme a su ministerio, bajo la mano de Itamar, hijo de Aarón el sacerdote."
+        },
+        {
+            "id": "num7_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y a los hijos de Coat no dio; porque llevaban sobre sí en los hombros el servicio del santuario."
+        },
+        {
+            "id": "num7_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y los príncipes ofrendaron para la dedicación del altar el día que fue ungido, aun los príncipes ofrecieron su ofrenda delante del altar."
+        },
+        {
+            "id": "num7_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "num7_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Ofrecerán su ofrenda, un príncipe un día, y otro príncipe otro día, para la dedicación del altar."
+        },
+        {
+            "id": "num7_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y el que ofreció su ofrenda el primer día fue Naasón, hijo de Aminadab, de la tribu de Judá."
+        },
+        {
+            "id": "num7_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y su ofrenda fue un plato de plata de peso de ciento treinta siclos, y un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos, cinco corderos de un año. Ésta fue la ofrenda de Naasón, hijo de Aminadab."
+        },
+        {
+            "id": "num7_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "El segundo día ofreció Natanael, hijo de Zuar, príncipe de Isacar."
+        },
+        {
+            "id": "num7_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Ofreció por su ofrenda un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Natanael, hijo de Zuar."
+        },
+        {
+            "id": "num7_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "El tercer día, Eliab, hijo de Helón, príncipe de los hijos de Zabulón."
+        },
+        {
+            "id": "num7_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Eliab, hijo de Helón."
+        },
+        {
+            "id": "num7_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "El cuarto día, Elisur, hijo de Sedeur, príncipe de los hijos de Rubén."
+        },
+        {
+            "id": "num7_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario, ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Elisur, hijo de Sedeur."
+        },
+        {
+            "id": "num7_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "El quinto día, Selumiel, hijo de Zurisadai, príncipe de los hijos de Simeón."
+        },
+        {
+            "id": "num7_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "una cuchara de oro de diez siclos llena de incienso;"
+        },
+        {
+            "id": "num7_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Selumiel, hijo de Zurisadai."
+        },
+        {
+            "id": "num7_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "El sexto día, Eliasaf, hijo de Dehuel, príncipe de los hijos de Gad."
+        },
+        {
+            "id": "num7_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Eliasaf, hijo de Dehuel."
+        },
+        {
+            "id": "num7_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "El séptimo día, el príncipe de los hijos de Efraín, Elisama, hijo de Amiud."
+        },
+        {
+            "id": "num7_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Elisama, hijo de Amiud."
+        },
+        {
+            "id": "num7_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "El octavo día, el príncipe de los hijos de Manasés, Gamaliel hijo de Pedasur."
+        },
+        {
+            "id": "num7_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Gamaliel, hijo de Pedasur."
+        },
+        {
+            "id": "num7_60",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "El noveno día, el príncipe de los hijos de Benjamín, Abidán, hijo de Gedeón."
+        },
+        {
+            "id": "num7_61",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_62",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_63",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_64",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_65",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Abidán, hijo de Gedeón."
+        },
+        {
+            "id": "num7_66",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "El décimo día, el príncipe de los hijos de Dan, Ahiezer, hijo de Amisadai."
+        },
+        {
+            "id": "num7_67",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_68",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_69",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_70",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_71",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Ahiezer, hijo de Amisadai."
+        },
+        {
+            "id": "num7_72",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "El undécimo día, el príncipe de los hijos de Aser, Pagiel, hijo de Ocrán."
+        },
+        {
+            "id": "num7_73",
+            "speaker": "Narrador",
+            "verse": 73,
+            "text": "Y su ofrenda fue un plato de plata de ciento y treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_74",
+            "speaker": "Narrador",
+            "verse": 74,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_75",
+            "speaker": "Narrador",
+            "verse": 75,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_76",
+            "speaker": "Narrador",
+            "verse": 76,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_77",
+            "speaker": "Narrador",
+            "verse": 77,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Pagiel, hijo de Ocrán."
+        },
+        {
+            "id": "num7_78",
+            "speaker": "Narrador",
+            "verse": 78,
+            "text": "El duodécimo día, el príncipe de los hijos de Neftalí, Ahira, hijo de Enán."
+        },
+        {
+            "id": "num7_79",
+            "speaker": "Narrador",
+            "verse": 79,
+            "text": "Y su ofrenda fue un plato de plata de ciento treinta siclos de peso, un jarro de plata de setenta siclos, al siclo del santuario; ambos llenos de flor de harina amasada con aceite para presente;"
+        },
+        {
+            "id": "num7_80",
+            "speaker": "Narrador",
+            "verse": 80,
+            "text": "una cuchara de oro de diez siclos, llena de incienso;"
+        },
+        {
+            "id": "num7_81",
+            "speaker": "Narrador",
+            "verse": 81,
+            "text": "un becerro, un carnero, un cordero de un año para holocausto;"
+        },
+        {
+            "id": "num7_82",
+            "speaker": "Narrador",
+            "verse": 82,
+            "text": "un macho cabrío para expiación;"
+        },
+        {
+            "id": "num7_83",
+            "speaker": "Narrador",
+            "verse": 83,
+            "text": "y para sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Ahira, hijo de Enán."
+        },
+        {
+            "id": "num7_84",
+            "speaker": "Narrador",
+            "verse": 84,
+            "text": "Ésta fue la dedicación del altar, el día que fue ungido, por los príncipes de Israel; doce platos de plata, doce jarros de plata, doce cucharas de oro."
+        },
+        {
+            "id": "num7_85",
+            "speaker": "Narrador",
+            "verse": 85,
+            "text": "Cada plato de ciento treinta siclos, cada jarro de setenta: toda la plata de los vasos, dos mil cuatrocientos siclos, al siclo del santuario."
+        },
+        {
+            "id": "num7_86",
+            "speaker": "Narrador",
+            "verse": 86,
+            "text": "Las doce cucharas de oro llenas de incienso, de diez siclos cada cuchara, al siclo del santuario: todo el oro de las cucharas, ciento veinte siclos."
+        },
+        {
+            "id": "num7_87",
+            "speaker": "Narrador",
+            "verse": 87,
+            "text": "Todos los bueyes para holocausto, doce becerros; doce los carneros, doce los corderos de un año, con su presente: y doce los machos cabríos, para expiación."
+        },
+        {
+            "id": "num7_88",
+            "speaker": "Narrador",
+            "verse": 88,
+            "text": "Y todos los bueyes del sacrificio de paz fueron veinticuatro novillos, sesenta los carneros, sesenta los machos cabríos y sesenta los corderos de un año. Ésta fue la dedicación del altar, después que fue ungido."
+        },
+        {
+            "id": "num7_89",
+            "speaker": "Narrador",
+            "verse": 89,
+            "text": "Y cuando entraba Moisés en el tabernáculo de la congregación, para hablar con Él, oía la voz que le hablaba de encima del propiciatorio que estaba sobre el arca del testimonio, de entre los dos querubines; y hablaba con Él."
+        }
+    ]
+}

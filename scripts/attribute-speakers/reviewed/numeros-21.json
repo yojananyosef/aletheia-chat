@@ -1,0 +1,74 @@
+[
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.8
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Israel",
+    "confidence": 0.8
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Israel",
+    "confidence": 0.8
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.8
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  }
+]

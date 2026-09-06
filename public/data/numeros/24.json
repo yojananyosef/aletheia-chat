@@ -1,0 +1,199 @@
+{
+    "book": "Números",
+    "chapter": 24,
+    "title": "Números 24",
+    "messages": [
+        {
+            "id": "num24_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando vio Balaam que agradó a Jehová el bendecir a Israel, no fue, como otras veces, la primera y segunda vez, en busca de agüeros, sino que puso su rostro hacia el desierto;"
+        },
+        {
+            "id": "num24_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y alzando Balaam sus ojos vio a Israel acampado por sus tribus; y el Espíritu de Dios vino sobre él."
+        },
+        {
+            "id": "num24_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces tomó su parábola, y dijo:"
+        },
+        {
+            "id": "num24_3b",
+            "speaker": "Balaam",
+            "verse": 3,
+            "text": "Dijo Balaam, hijo de Beor, y dijo el varón de ojos abiertos;"
+        },
+        {
+            "id": "num24_4a",
+            "speaker": "Balaam",
+            "verse": 4,
+            "text": "Dijo el que oyó las palabras de Dios, el que vio la visión del Omnipotente, cayendo en éxtasis, pero con sus ojos abiertos:"
+        },
+        {
+            "id": "num24_5",
+            "speaker": "Balaam",
+            "verse": 5,
+            "text": "¡Cuán hermosas son tus tiendas, oh Jacob, tus habitaciones, oh Israel!"
+        },
+        {
+            "id": "num24_6",
+            "speaker": "Balaam",
+            "verse": 6,
+            "text": "Como arroyos están extendidas, como huertos junto al río, como áloes plantados por Jehová, como cedros junto a las aguas."
+        },
+        {
+            "id": "num24_7",
+            "speaker": "Balaam",
+            "verse": 7,
+            "text": "De sus manos destilarán aguas, y su simiente será en muchas aguas; y se enaltecerá su rey más que Agag, y su reino será engrandecido."
+        },
+        {
+            "id": "num24_8",
+            "speaker": "Balaam",
+            "verse": 8,
+            "text": "Dios lo sacó de Egipto; tiene fuerzas como de unicornio; comerá a las naciones sus enemigas, y desmenuzará sus huesos, y asaeteará con sus saetas."
+        },
+        {
+            "id": "num24_9",
+            "speaker": "Balaam",
+            "verse": 9,
+            "text": "Se encorvará para echarse como león, y como leona; ¿quién lo despertará? Benditos los que te bendijeren, y malditos los que te maldijeren."
+        },
+        {
+            "id": "num24_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces se encendió la ira de Balac contra Balaam, y batiendo sus palmas le dijo:"
+        },
+        {
+            "id": "num24_10b",
+            "speaker": "Balac",
+            "verse": 10,
+            "text": "Para maldecir a mis enemigos te he llamado, y he aquí los has resueltamente bendecido ya tres veces."
+        },
+        {
+            "id": "num24_11",
+            "speaker": "Balac",
+            "verse": 11,
+            "text": "Por tanto huye ahora a tu lugar; yo dije que te honraría, mas he aquí que Jehová te ha privado de honra."
+        },
+        {
+            "id": "num24_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Balaam le respondió:"
+        },
+        {
+            "id": "num24_12b",
+            "speaker": "Balaam",
+            "verse": 12,
+            "text": "¿No lo declaré yo también a tus mensajeros que me enviaste, diciendo:"
+        },
+        {
+            "id": "num24_13",
+            "speaker": "Balaam",
+            "verse": 13,
+            "text": "Si Balac me diese su casa llena de plata y oro, yo no podré traspasar el mandamiento de Jehová para hacer cosa buena ni mala de mi arbitrio; mas lo que Jehová hablare, eso diré yo?"
+        },
+        {
+            "id": "num24_14",
+            "speaker": "Balaam",
+            "verse": 14,
+            "text": "He aquí yo me voy ahora a mi pueblo; por tanto, ven, te indicaré lo que este pueblo ha de hacer a tu pueblo en los postreros días."
+        },
+        {
+            "id": "num24_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y tomó su parábola, y dijo:"
+        },
+        {
+            "id": "num24_15b",
+            "speaker": "Balaam",
+            "verse": 15,
+            "text": "Dijo Balaam, hijo de Beor, dijo el varón de ojos abiertos;"
+        },
+        {
+            "id": "num24_16a",
+            "speaker": "Balaam",
+            "verse": 16,
+            "text": "Dijo el que oyó las palabras de Dios y entendió el conocimiento del Altísimo; el que vio la visión del Omnipotente, cayendo en éxtasis, pero con sus ojos abiertos:"
+        },
+        {
+            "id": "num24_17",
+            "speaker": "Balaam",
+            "verse": 17,
+            "text": "Lo veré, mas no ahora; lo miraré, mas no de cerca: Saldrá Estrella de Jacob, y se levantará Cetro de Israel, y herirá los cantones de Moab, y destruirá a todos los hijos de Set."
+        },
+        {
+            "id": "num24_18",
+            "speaker": "Balaam",
+            "verse": 18,
+            "text": "Y será tomada Edom, también Seir será tomada por sus enemigos, e Israel se portará varonilmente."
+        },
+        {
+            "id": "num24_19",
+            "speaker": "Balaam",
+            "verse": 19,
+            "text": "Y de Jacob vendrá el que dominará, y destruirá de la ciudad al que quedare."
+        },
+        {
+            "id": "num24_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y viendo a Amalec, tomó su parábola, y dijo:"
+        },
+        {
+            "id": "num24_20b",
+            "speaker": "Balaam",
+            "verse": 20,
+            "text": "Amalec, cabeza de naciones; mas su postrimería perecerá para siempre."
+        },
+        {
+            "id": "num24_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y viendo al cineo, tomó su parábola, y dijo:"
+        },
+        {
+            "id": "num24_21b",
+            "speaker": "Balaam",
+            "verse": 21,
+            "text": "Fuerte es tu habitación, pon en la roca tu nido:"
+        },
+        {
+            "id": "num24_22",
+            "speaker": "Balaam",
+            "verse": 22,
+            "text": "Que el cineo será echado, cuando Asiria te llevará cautivo."
+        },
+        {
+            "id": "num24_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Todavía tomó su parábola, y dijo:"
+        },
+        {
+            "id": "num24_23b",
+            "speaker": "Balaam",
+            "verse": 23,
+            "text": "¡Ay! ¿Quién vivirá cuando hiciere Dios estas cosas?"
+        },
+        {
+            "id": "num24_24",
+            "speaker": "Balaam",
+            "verse": 24,
+            "text": "Y vendrán navíos de la costa de Quitim, y afligirán a Asiria, afligirán también a Heber; mas él también perecerá para siempre."
+        },
+        {
+            "id": "num24_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Entonces se levantó Balaam, y se fue, y se volvió a su lugar: y también Balac se fue por su camino."
+        }
+    ]
+}

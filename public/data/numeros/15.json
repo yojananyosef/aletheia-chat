@@ -1,0 +1,271 @@
+{
+    "book": "Números",
+    "chapter": 15,
+    "title": "Números 15",
+    "messages": [
+        {
+            "id": "num15_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num15_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "num15_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Cuando hubiereis entrado en la tierra de vuestras habitaciones, que yo os doy,"
+        },
+        {
+            "id": "num15_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "e hiciereis ofrenda encendida a Jehová, holocausto, o sacrificio, por especial voto, o de vuestra voluntad, o para hacer en vuestras solemnidades olor grato a Jehová, de vacas o de ovejas;"
+        },
+        {
+            "id": "num15_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "entonces el que ofreciere su ofrenda a Jehová, traerá por presente una décima de un efa de flor de harina, amasada con la cuarta parte de un hin de aceite;"
+        },
+        {
+            "id": "num15_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y de vino para la libación ofrecerás la cuarta parte de un hin, además del holocausto o del sacrificio, por cada cordero."
+        },
+        {
+            "id": "num15_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y por cada carnero harás presente de dos décimas de flor de harina, amasada con la tercera parte de un hin de aceite;"
+        },
+        {
+            "id": "num15_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "y de vino para la libación ofrecerás la tercera parte de un hin, en olor grato a Jehová."
+        },
+        {
+            "id": "num15_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y cuando preparéis novillo para holocausto o sacrificio, por especial voto, o sacrificio de paz a Jehová,"
+        },
+        {
+            "id": "num15_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "ofrecerás con el novillo un presente de tres décimas de flor de harina, amasada con la mitad de un hin de aceite;"
+        },
+        {
+            "id": "num15_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "y de vino para la libación ofrecerás la mitad de un hin, en ofrenda encendida de olor grato a Jehová."
+        },
+        {
+            "id": "num15_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Así se hará con cada un buey, o carnero, o cordero, lo mismo de ovejas que de cabras."
+        },
+        {
+            "id": "num15_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Conforme al número así haréis con cada uno según el número de ellos."
+        },
+        {
+            "id": "num15_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Todo natural hará estas cosas así, para ofrecer ofrenda encendida de olor suave a Jehová."
+        },
+        {
+            "id": "num15_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y cuando habitare con vosotros extranjero, o cualquiera que estuviere entre vosotros por vuestras edades, si hiciere ofrenda encendida de olor grato a Jehová, como vosotros hiciereis, así hará él."
+        },
+        {
+            "id": "num15_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Un mismo estatuto tendréis, para vosotros de la congregación y para el extranjero que mora con vosotros; estatuto que será perpetuo por vuestras generaciones; como vosotros, así será el extranjero delante de Jehová."
+        },
+        {
+            "id": "num15_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Una misma ley y un mismo derecho tendréis, vosotros y el extranjero que mora con vosotros."
+        },
+        {
+            "id": "num15_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y habló Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "num15_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Habla a los hijos de Israel, y diles:"
+        },
+        {
+            "id": "num15_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Cuando hubiereis entrado en la tierra a la cual yo os llevo,"
+        },
+        {
+            "id": "num15_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "será que cuando comenzareis a comer el pan de la tierra, ofreceréis ofrenda a Jehová."
+        },
+        {
+            "id": "num15_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "De lo primero que amasareis, ofreceréis una torta en ofrenda; como la ofrenda de la era, así la ofreceréis."
+        },
+        {
+            "id": "num15_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "De las primicias de vuestras masas daréis a Jehová ofrenda por vuestras generaciones."
+        },
+        {
+            "id": "num15_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y cuando errareis, y no hiciereis todos estos mandamientos que Jehová ha dicho a Moisés,"
+        },
+        {
+            "id": "num15_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "todas las cosas que Jehová os ha mandado por la mano de Moisés, desde el día que Jehová lo mandó, y en adelante por vuestras edades,"
+        },
+        {
+            "id": "num15_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "será que, si el pecado fue hecho por yerro con ignorancia de la congregación, toda la congregación ofrecerá un novillo por holocausto, en olor grato a Jehová, con su presente y su libación, conforme a la ley; y un macho cabrío en expiación."
+        },
+        {
+            "id": "num15_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y el sacerdote hará expiación por toda la congregación de los hijos de Israel; y les será perdonado, porque yerro es: y ellos traerán sus ofrendas, ofrenda encendida a Jehová, y sus expiaciones delante de Jehová, por sus yerros:"
+        },
+        {
+            "id": "num15_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Y será perdonado a toda la congregación de los hijos de Israel, y al extranjero que peregrina entre ellos, por cuanto es yerro de todo el pueblo."
+        },
+        {
+            "id": "num15_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Y si una persona pecare por yerro, ofrecerá una cabra de un año por expiación."
+        },
+        {
+            "id": "num15_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Y el sacerdote hará expiación por la persona que habrá pecado por yerro, cuando pecare por yerro delante de Jehová, la reconciliará, y le será perdonado."
+        },
+        {
+            "id": "num15_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "El natural entre los hijos de Israel, y el extranjero que habitare entre ellos, una misma ley tendréis para el que hiciere algo por yerro."
+        },
+        {
+            "id": "num15_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Mas la persona que hiciere algo con altivez, así el natural como el extranjero, a Jehová injurió; y tal persona será cortada de en medio de su pueblo."
+        },
+        {
+            "id": "num15_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Por cuanto tuvo en poco la palabra de Jehová, y quebrantó su mandamiento, enteramente será cortada tal persona; su iniquidad será sobre ella."
+        },
+        {
+            "id": "num15_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y estando los hijos de Israel en el desierto, hallaron un hombre que recogía leña en día de sábado."
+        },
+        {
+            "id": "num15_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y los que le hallaron recogiendo leña le trajeron a Moisés y a Aarón, y a toda la congregación:"
+        },
+        {
+            "id": "num15_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y lo pusieron en la cárcel, porque no estaba declarado qué le habían de hacer."
+        },
+        {
+            "id": "num15_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "num15_35b",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "Irremisiblemente muera aquel hombre; apedréelo con piedras toda la congregación fuera del campamento."
+        },
+        {
+            "id": "num15_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces lo sacó la congregación fuera del campamento, y lo apedrearon con piedras, y murió; como Jehová había mandado a Moisés."
+        },
+        {
+            "id": "num15_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "num15_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Habla a los hijos de Israel, y diles que se hagan franjas en los bordes de sus vestiduras, por sus generaciones; y pongan en cada franja de los bordes un cordón de azul:"
+        },
+        {
+            "id": "num15_39",
+            "speaker": "Dios",
+            "verse": 39,
+            "text": "Y os servirá de franja, para que cuando lo viereis, os acordéis de todos los mandamientos de Jehová, para ponerlos por obra; y no miréis en pos de vuestro corazón y de vuestros ojos, en pos de los cuales fornicáis."
+        },
+        {
+            "id": "num15_40",
+            "speaker": "Dios",
+            "verse": 40,
+            "text": "Para que os acordéis, y hagáis todos mis mandamientos, y seáis santos a vuestro Dios."
+        },
+        {
+            "id": "num15_41",
+            "speaker": "Dios",
+            "verse": 41,
+            "text": "Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para ser vuestro Dios: Yo Jehová vuestro Dios."
+        }
+    ]
+}

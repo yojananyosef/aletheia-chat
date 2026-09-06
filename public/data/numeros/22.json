@@ -1,0 +1,379 @@
+{
+    "book": "Números",
+    "chapter": 22,
+    "title": "Números 22",
+    "messages": [
+        {
+            "id": "num22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y partieron los hijos de Israel, y acamparon en la llanura de Moab, de este lado del Jordán, frente a Jericó."
+        },
+        {
+            "id": "num22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y vio Balac, hijo de Zipor, todo lo que Israel había hecho al amorreo."
+        },
+        {
+            "id": "num22_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Moab temió mucho a causa del pueblo que era mucho; y se angustió Moab a causa de los hijos de Israel."
+        },
+        {
+            "id": "num22_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y dijo Moab a los ancianos de Madián:"
+        },
+        {
+            "id": "num22_4b",
+            "speaker": "Balac",
+            "verse": 4,
+            "text": "Ahora lamerá esta gente todos nuestros contornos, como lame el buey la grama del campo. Y Balac, hijo de Zipor, era entonces rey de Moab."
+        },
+        {
+            "id": "num22_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por tanto envió mensajeros a Balaam, hijo de Beor, a Petor, que está junto al río en la tierra de los hijos de su pueblo, para que lo llamasen, diciendo:"
+        },
+        {
+            "id": "num22_5b",
+            "speaker": "Mensajeros",
+            "verse": 5,
+            "text": "Un pueblo ha salido de Egipto, y he aquí cubre la faz de la tierra, y habita delante de mí:"
+        },
+        {
+            "id": "num22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Ven pues ahora, te ruego, maldíceme este pueblo, porque es más fuerte que yo: quizá podré yo herirlo, y echarlo de la tierra. Porque yo sé que el que tú bendijeres, será bendito, y el que tú maldijeres, será maldito."
+        },
+        {
+            "id": "num22_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y fueron los ancianos de Moab, y los ancianos de Madián, con las dádivas de adivinación en su mano, y llegaron a Balaam, y le dijeron las palabras de Balac."
+        },
+        {
+            "id": "num22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "num22_8b",
+            "speaker": "Balaam",
+            "verse": 8,
+            "text": "Reposad aquí esta noche, y yo os traeré palabra, según Jehová me hablare. Así los príncipes de Moab se quedaron con Balaam."
+        },
+        {
+            "id": "num22_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vino Dios a Balaam, y le dijo:"
+        },
+        {
+            "id": "num22_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Qué varones son estos que están contigo?"
+        },
+        {
+            "id": "num22_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Balaam respondió a Dios:"
+        },
+        {
+            "id": "num22_10b",
+            "speaker": "Balaam",
+            "verse": 10,
+            "text": "Balac, hijo de Zipor, rey de Moab, ha enviado a mí diciendo:"
+        },
+        {
+            "id": "num22_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "He aquí este pueblo que ha salido de Egipto, cubre la faz de la tierra: ven pues ahora, y maldícemelo; quizá podré pelear con él, y echarlo."
+        },
+        {
+            "id": "num22_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces dijo Dios a Balaam:"
+        },
+        {
+            "id": "num22_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "No vayas con ellos, ni maldigas al pueblo; porque es bendito."
+        },
+        {
+            "id": "num22_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Así Balaam se levantó por la mañana, y dijo a los príncipes de Balac:"
+        },
+        {
+            "id": "num22_13b",
+            "speaker": "Balaam",
+            "verse": 13,
+            "text": "Volveos a vuestra tierra, porque Jehová no me quiere dejar ir con vosotros."
+        },
+        {
+            "id": "num22_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y los príncipes de Moab se levantaron, y vinieron a Balac, y dijeron:"
+        },
+        {
+            "id": "num22_14b",
+            "speaker": "Príncipes",
+            "verse": 14,
+            "text": "Balaam no quiso venir con nosotros."
+        },
+        {
+            "id": "num22_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Balac envió aun otra vez más príncipes, y más honorables que los otros."
+        },
+        {
+            "id": "num22_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Los cuales vinieron a Balaam, y le dijeron:"
+        },
+        {
+            "id": "num22_16b",
+            "speaker": "Mensajeros",
+            "verse": 16,
+            "text": "Así dice Balac, hijo de Zipor: Te ruego que no dejes de venir a mí;"
+        },
+        {
+            "id": "num22_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque sin duda te honraré mucho, y haré todo lo que me digas; ven, pues, te ruego, maldíceme a este pueblo."
+        },
+        {
+            "id": "num22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Balaam respondió, y dijo a los siervos de Balac:"
+        },
+        {
+            "id": "num22_18b",
+            "speaker": "Balaam",
+            "verse": 18,
+            "text": "Aunque Balac me diese su casa llena de plata y de oro, no puedo traspasar la palabra de Jehová mi Dios, para hacer cosa chica ni grande."
+        },
+        {
+            "id": "num22_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Os ruego por tanto ahora, que reposéis aquí esta noche, para que yo sepa qué me vuelve a decir Jehová."
+        },
+        {
+            "id": "num22_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y vino Dios a Balaam de noche, y le dijo:"
+        },
+        {
+            "id": "num22_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Si vinieren a llamarte hombres, levántate y ve con ellos; pero harás lo que yo te dijere."
+        },
+        {
+            "id": "num22_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Así Balaam se levantó por la mañana, y cinchó su asna, y fue con los príncipes de Moab."
+        },
+        {
+            "id": "num22_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y el furor de Dios se encendió porque él iba; y el Ángel de Jehová se puso en el camino por adversario suyo. Iba, pues, él montado sobre su asna, y con él dos mozos suyos."
+        },
+        {
+            "id": "num22_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y el asna vio al Ángel de Jehová, que estaba en el camino con su espada desnuda en su mano; y se apartó el asna del camino, e iba por el campo. Y Balaam azotó al asna para hacerla volver al camino."
+        },
+        {
+            "id": "num22_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mas el Ángel de Jehová se puso en una senda de viñas que tenía pared de un lado y pared del otro."
+        },
+        {
+            "id": "num22_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y viendo el asna al Ángel de Jehová, se pegó a la pared, y apretó contra la pared el pie de Balaam: y él volvió a azotarla."
+        },
+        {
+            "id": "num22_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y el Ángel de Jehová pasó más allá, y se puso en una angostura, donde no había camino para apartarse ni a derecha ni a izquierda."
+        },
+        {
+            "id": "num22_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y viendo el asna al Ángel de Jehová, se echó debajo de Balaam; y se enojó Balaam, y golpeó al asna con un palo."
+        },
+        {
+            "id": "num22_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces Jehová abrió la boca al asna, la cual dijo a Balaam:"
+        },
+        {
+            "id": "num22_28b",
+            "speaker": "Asna",
+            "verse": 28,
+            "text": "¿Qué te he hecho, que me has herido estas tres veces?"
+        },
+        {
+            "id": "num22_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Balaam respondió al asna:"
+        },
+        {
+            "id": "num22_29b",
+            "speaker": "Balaam",
+            "verse": 29,
+            "text": "Porque te has burlado de mí: ¡Bueno fuera que tuviera espada en mi mano, ahora mismo te mataría!"
+        },
+        {
+            "id": "num22_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y el asna dijo a Balaam:"
+        },
+        {
+            "id": "num22_30b",
+            "speaker": "Asna",
+            "verse": 30,
+            "text": "¿No soy yo tu asna? sobre mí has cabalgado desde que tú me tienes hasta este día; ¿he acostumbrado a hacerlo así contigo?"
+        },
+        {
+            "id": "num22_30c",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "num22_30d",
+            "speaker": "Balaam",
+            "verse": 30,
+            "text": "No."
+        },
+        {
+            "id": "num22_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces Jehová abrió los ojos a Balaam, y vio al Ángel de Jehová que estaba en el camino, y tenía su espada desnuda en su mano. Y Balaam hizo reverencia, y se inclinó sobre su rostro."
+        },
+        {
+            "id": "num22_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y el Ángel de Jehová le dijo:"
+        },
+        {
+            "id": "num22_32b",
+            "speaker": "Ángel",
+            "verse": 32,
+            "text": "¿Por qué has herido tu asna estas tres veces? he aquí yo he salido para contrarrestarte, porque tu camino es perverso delante de mí:"
+        },
+        {
+            "id": "num22_33",
+            "speaker": "Ángel",
+            "verse": 33,
+            "text": "El asna me ha visto, y se ha apartado luego de delante de mí estas tres veces; y si de mí no se hubiera apartado, yo también ahora te mataría a ti, y a ella dejaría viva."
+        },
+        {
+            "id": "num22_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces Balaam dijo al Ángel de Jehová:"
+        },
+        {
+            "id": "num22_34b",
+            "speaker": "Balaam",
+            "verse": 34,
+            "text": "He pecado, pues no sabía que tú te ponías delante de mí en el camino; mas ahora, si te parece mal, yo me volveré."
+        },
+        {
+            "id": "num22_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y el Ángel de Jehová dijo a Balaam:"
+        },
+        {
+            "id": "num22_35b",
+            "speaker": "Ángel",
+            "verse": 35,
+            "text": "Ve con esos hombres; pero la palabra que yo te dijere, esa hablarás. Así Balaam fue con los príncipes de Balac."
+        },
+        {
+            "id": "num22_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y oyendo Balac que Balaam venía, salió a recibirlo a la ciudad de Moab, que está junto a la frontera de Arnón, que es el límite de su territorio."
+        },
+        {
+            "id": "num22_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y Balac dijo a Balaam:"
+        },
+        {
+            "id": "num22_37b",
+            "speaker": "Balac",
+            "verse": 37,
+            "text": "¿No envié yo a ti a llamarte? ¿Por qué no has venido a mí? ¿No puedo yo honrarte?"
+        },
+        {
+            "id": "num22_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y Balaam respondió a Balac:"
+        },
+        {
+            "id": "num22_38b",
+            "speaker": "Balaam",
+            "verse": 38,
+            "text": "He aquí yo he venido a ti: mas ¿podré ahora hablar alguna cosa? La palabra que Dios pusiere en mi boca, esa hablaré."
+        },
+        {
+            "id": "num22_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y fue Balaam con Balac, y vinieron a la ciudad de Husot."
+        },
+        {
+            "id": "num22_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y Balac hizo matar bueyes y ovejas, y envió a Balaam, y a los príncipes que estaban con él."
+        },
+        {
+            "id": "num22_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y el día siguiente Balac tomó a Balaam, y lo hizo subir a los lugares altos de Baal, y desde allí vio un extremo del pueblo."
+        }
+    ]
+}

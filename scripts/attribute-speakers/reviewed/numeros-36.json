@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Galaaditas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Galaaditas",
+    "confidence": 0.8
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Galaaditas",
+    "confidence": 0.8
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  }
+]

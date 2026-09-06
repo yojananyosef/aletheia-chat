@@ -1,0 +1,325 @@
+{
+    "book": "Números",
+    "chapter": 14,
+    "title": "Números 14",
+    "messages": [
+        {
+            "id": "num14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces toda la congregación gritó y dio voces; y el pueblo lloró aquella noche."
+        },
+        {
+            "id": "num14_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y se quejaron contra Moisés y contra Aarón todos los hijos de Israel; y toda la congregación les dijo:"
+        },
+        {
+            "id": "num14_2b",
+            "speaker": "Pueblo",
+            "verse": 2,
+            "text": "¡Mejor hubiésemos muerto en la tierra de Egipto; mejor hubiésemos muerto en este desierto!"
+        },
+        {
+            "id": "num14_3",
+            "speaker": "Pueblo",
+            "verse": 3,
+            "text": "¿Y por qué nos trae Jehová a esta tierra para caer a espada y que nuestras esposas y nuestros chiquitos sean por presa? ¿No nos sería mejor volvernos a Egipto?"
+        },
+        {
+            "id": "num14_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y decían el uno al otro:"
+        },
+        {
+            "id": "num14_4b",
+            "speaker": "Pueblo",
+            "verse": 4,
+            "text": "Hagamos un capitán, y volvámonos a Egipto."
+        },
+        {
+            "id": "num14_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces Moisés y Aarón cayeron sobre sus rostros delante de toda la multitud de la congregación de los hijos de Israel."
+        },
+        {
+            "id": "num14_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Josué, hijo de Nun, y Caleb, hijo de Jefone, que eran de los que habían reconocido la tierra, rompieron sus vestiduras;"
+        },
+        {
+            "id": "num14_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y hablaron a toda la congregación de los hijos de Israel, diciendo:"
+        },
+        {
+            "id": "num14_7b",
+            "speaker": "Josué",
+            "verse": 7,
+            "text": "La tierra por donde pasamos para reconocerla, es tierra en gran manera buena."
+        },
+        {
+            "id": "num14_8",
+            "speaker": "Josué",
+            "verse": 8,
+            "text": "Si Jehová se agradare de nosotros, Él nos meterá en esta tierra, y nos la entregará; tierra que fluye leche y miel."
+        },
+        {
+            "id": "num14_9",
+            "speaker": "Josué",
+            "verse": 9,
+            "text": "Por tanto, no seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra, porque nuestro pan son: su amparo se ha apartado de ellos, y con nosotros está Jehová: no los temáis."
+        },
+        {
+            "id": "num14_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces toda la multitud habló de apedrearlos con piedras. Mas la gloria de Jehová se mostró en el tabernáculo de la congregación a todos los hijos de Israel."
+        },
+        {
+            "id": "num14_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "num14_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "¿Hasta cuándo me ha de irritar este pueblo? ¿Hasta cuándo no me ha de creer con todas las señales que he hecho en medio de ellos?"
+        },
+        {
+            "id": "num14_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Yo le heriré de mortandad, y lo destruiré, y a ti te pondré sobre una nación más grande y más fuerte que ellos."
+        },
+        {
+            "id": "num14_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Moisés respondió a Jehová:"
+        },
+        {
+            "id": "num14_13b",
+            "speaker": "Moisés",
+            "verse": 13,
+            "text": "Lo oirán luego los egipcios, porque de en medio de ellos sacaste a este pueblo con tu fortaleza:"
+        },
+        {
+            "id": "num14_14",
+            "speaker": "Moisés",
+            "verse": 14,
+            "text": "Y lo dirán a los moradores de esta tierra; los cuales han oído que tú, oh Jehová, estabas en medio de este pueblo, que ojo a ojo aparecías tú, oh Jehová, y que tu nube estaba sobre ellos, y que de día ibas delante de ellos en columna de nube, y de noche en columna de fuego;"
+        },
+        {
+            "id": "num14_15a",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Y que has hecho morir a este pueblo como a un hombre; y las naciones que hubieren oído tu fama hablarán, diciendo:"
+        },
+        {
+            "id": "num14_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "Porque no pudo Jehová meter este pueblo en la tierra de la cual les había jurado, los mató en el desierto."
+        },
+        {
+            "id": "num14_17a",
+            "speaker": "Moisés",
+            "verse": 17,
+            "text": "Ahora, pues, yo te ruego que sea magnificada la fortaleza del Señor, como lo hablaste, diciendo:"
+        },
+        {
+            "id": "num14_18",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Jehová, lento para la ira y grande en misericordia, que perdona la iniquidad y la rebelión, y en ninguna manera tendrá por inocente al culpable; que visita la maldad de los padres sobre los hijos hasta la tercera y cuarta generación."
+        },
+        {
+            "id": "num14_19",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Perdona ahora la iniquidad de este pueblo según la grandeza de tu misericordia, y como has perdonado a este pueblo desde Egipto hasta aquí."
+        },
+        {
+            "id": "num14_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces Jehová dijo:"
+        },
+        {
+            "id": "num14_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Yo lo he perdonado conforme a tu palabra."
+        },
+        {
+            "id": "num14_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Mas tan cierto como vivo yo, que toda la tierra será llena de la gloria de Jehová,"
+        },
+        {
+            "id": "num14_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "porque todos los que vieron mi gloria y mis señales que he hecho en Egipto y en el desierto, y me han tentado ya diez veces, y no han oído mi voz,"
+        },
+        {
+            "id": "num14_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "no verán la tierra de la cual juré a sus padres: no, ninguno de los que me han irritado la verá."
+        },
+        {
+            "id": "num14_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Salvo mi siervo Caleb, por cuanto hubo en él otro espíritu, y cumplió de ir en pos de mí, yo le meteré en la tierra donde entró y su simiente la recibirá en heredad."
+        },
+        {
+            "id": "num14_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Ahora bien, el amalecita y el cananeo habitan en el valle; volveos mañana, y salid al desierto, camino del Mar Rojo."
+        },
+        {
+            "id": "num14_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Jehová habló a Moisés y a Aarón, diciendo:"
+        },
+        {
+            "id": "num14_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "¿Hasta cuándo oiré esta depravada multitud que murmura contra mí, las querellas de los hijos de Israel, que de mí se quejan?"
+        },
+        {
+            "id": "num14_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Diles: Vivo yo, dice Jehová, que según habéis hablado a mis oídos, así haré yo con vosotros:"
+        },
+        {
+            "id": "num14_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "En este desierto caerán vuestros cuerpos; todos vuestros contados según toda vuestra cuenta, de veinte años para arriba, los cuales habéis murmurado contra mí;"
+        },
+        {
+            "id": "num14_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "vosotros a la verdad no entraréis en la tierra, por la cual juré que os haría habitar en ella; excepto Caleb, hijo de Jefone, y Josué, hijo de Nun."
+        },
+        {
+            "id": "num14_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Pero a vuestros chiquitos, de los cuales dijisteis que serían por presa, yo los introduciré, y ellos conocerán la tierra que vosotros despreciasteis."
+        },
+        {
+            "id": "num14_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "Y en cuanto a vosotros, vuestros cuerpos caerán en este desierto."
+        },
+        {
+            "id": "num14_33",
+            "speaker": "Dios",
+            "verse": 33,
+            "text": "Y vuestros hijos andarán pastoreando en el desierto cuarenta años, y ellos llevarán vuestras fornicaciones, hasta que vuestros cuerpos sean consumidos en el desierto."
+        },
+        {
+            "id": "num14_34",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "Conforme al número de los días, de los cuarenta días en que reconocisteis la tierra, llevaréis vuestras iniquidades cuarenta años, un año por cada día; y conoceréis mi castigo."
+        },
+        {
+            "id": "num14_35",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "Yo Jehová he hablado; así haré a toda esta multitud perversa que se ha juntado contra mí; en este desierto serán consumidos, y ahí morirán."
+        },
+        {
+            "id": "num14_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y los varones que Moisés envió a reconocer la tierra, que volvieron e hicieron murmurar contra él a toda la congregación, desacreditando aquel país,"
+        },
+        {
+            "id": "num14_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "aquellos varones que habían hablado mal de la tierra, murieron de plaga delante de Jehová."
+        },
+        {
+            "id": "num14_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Mas Josué, hijo de Nun, y Caleb, hijo de Jefone, quedaron con vida de entre aquellos hombres que habían ido a reconocer la tierra."
+        },
+        {
+            "id": "num14_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y Moisés dijo estas cosas a todos los hijos de Israel, y el pueblo se enlutó mucho."
+        },
+        {
+            "id": "num14_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y se levantaron por la mañana, y subieron a la cumbre del monte, diciendo:"
+        },
+        {
+            "id": "num14_40b",
+            "speaker": "Pueblo",
+            "verse": 40,
+            "text": "Henos aquí para subir al lugar del cual ha hablado Jehová; porque hemos pecado."
+        },
+        {
+            "id": "num14_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y dijo Moisés:"
+        },
+        {
+            "id": "num14_41b",
+            "speaker": "Moisés",
+            "verse": 41,
+            "text": "¿Por qué quebrantáis el mandamiento de Jehová? Esto tampoco os sucederá bien."
+        },
+        {
+            "id": "num14_42",
+            "speaker": "Moisés",
+            "verse": 42,
+            "text": "No subáis, porque Jehová no está en medio de vosotros, no seáis heridos delante de vuestros enemigos."
+        },
+        {
+            "id": "num14_43",
+            "speaker": "Moisés",
+            "verse": 43,
+            "text": "Porque el amalecita y el cananeo están allí delante de vosotros, y caeréis a espada; porque habéis dejado de seguir a Jehová, por eso Jehová no será con vosotros."
+        },
+        {
+            "id": "num14_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Sin embargo, se obstinaron en subir a la cima del monte: mas el arca del pacto de Jehová, y Moisés, no se apartaron de en medio del campamento."
+        },
+        {
+            "id": "num14_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y descendieron el amalecita y el cananeo, que habitaban en aquel monte, y los hirieron y los derrotaron, persiguiéndolos hasta Horma."
+        }
+    ]
+}
