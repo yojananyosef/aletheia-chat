@@ -154,6 +154,14 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(j18.messages, 26, 'b'), 'Criado');
   });
 
+  it('NUM voces: Josué 11:28, Asna 22:30, Balac 22:37', () => {
+    const n11 = run('numeros', 'NUM', 11);
+    assert.equal(speakerOf(n11.messages, 28, 'b'), 'Josué');
+    const n22 = run('numeros', 'NUM', 22);
+    assert.equal(speakerOf(n22.messages, 30, 'b'), 'Asna');
+    assert.equal(speakerOf(n22.messages, 37, 'b'), 'Balac');
+  });
+
   it('MAT voces: Pedro 16:16 y 26:33', () => {
     const m16 = run('mateo', 'MAT', 16);
     assert.equal(speakerOf(m16.messages, 16, 'b'), 'Pedro');

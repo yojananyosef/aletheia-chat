@@ -494,6 +494,139 @@
       "confidence": 0.9
     },
     {
+      "id": "balaam",
+      "pattern": "\\bbalaam\\b",
+      "flags": "i",
+      "speaker": "Balaam",
+      "confidence": 0.9
+    },
+    {
+      "id": "balac",
+      "pattern": "\\bbalac\\b",
+      "flags": "i",
+      "speaker": "Balac",
+      "confidence": 0.9
+    },
+    {
+      "id": "core",
+      "pattern": "\\bcor[ée]\\b",
+      "flags": "i",
+      "speaker": "Coré",
+      "confidence": 0.9
+    },
+    {
+      "id": "caleb",
+      "pattern": "\\bcaleb\\b",
+      "flags": "i",
+      "speaker": "Caleb",
+      "confidence": 0.9
+    },
+    {
+      "id": "hobab",
+      "pattern": "\\bhobab\\b",
+      "flags": "i",
+      "speaker": "Hobab",
+      "confidence": 0.9
+    },
+    {
+      "id": "edom",
+      "pattern": "\\bedom\\b",
+      "flags": "i",
+      "speaker": "Edom",
+      "confidence": 0.85
+    },
+    {
+      "id": "eleazar",
+      "pattern": "\\beleazar\\b",
+      "flags": "i",
+      "speaker": "Eleazar",
+      "confidence": 0.9
+    },
+    {
+      "id": "asna",
+      "pattern": "\\basna\\b",
+      "flags": "i",
+      "speaker": "Asna",
+      "confidence": 0.9
+    },
+    {
+      "id": "mensajeros-num",
+      "pattern": "\\bmensajeros\\b",
+      "flags": "i",
+      "speaker": "Mensajeros",
+      "confidence": 0.8
+    },
+    {
+      "id": "espias",
+      "pattern": "\\besp[íi]as?\\b",
+      "flags": "i",
+      "speaker": "Espías",
+      "confidence": 0.8
+    },
+    {
+      "id": "datan-abiram",
+      "pattern": "\\b(dat[áa]n|abiram)\\b",
+      "flags": "i",
+      "speaker": "Datán y Abiram",
+      "confidence": 0.85
+    },
+    {
+      "id": "israel-voz",
+      "pattern": "\\b(cant[óo]\\s+israel|israel\\s+hizo\\s+voto)\\b",
+      "flags": "i",
+      "speaker": "Israel",
+      "confidence": 0.85
+    },
+    {
+      "id": "gad-ruben",
+      "pattern": "\\b(gad|rub[ée]n)\\b",
+      "flags": "i",
+      "speaker": "Gad y Rubén",
+      "confidence": 0.85
+    },
+    {
+      "id": "galaaditas",
+      "pattern": "\\bgalaad\\b",
+      "flags": "i",
+      "speaker": "Galaaditas",
+      "confidence": 0.85
+    },
+    {
+      "id": "capitanes",
+      "pattern": "\\bcapitanes\\b",
+      "flags": "i",
+      "speaker": "Capitanes",
+      "confidence": 0.8
+    },
+    {
+      "id": "hijas-zelofehad",
+      "pattern": "\\bzelofehad\\b",
+      "flags": "i",
+      "speaker": "Hijas de Zelofehad",
+      "confidence": 0.85
+    },
+    {
+      "id": "joven-num",
+      "pattern": "\\b(joven|mozo)\\b",
+      "flags": "i",
+      "speaker": "Joven",
+      "confidence": 0.8
+    },
+    {
+      "id": "principes-moab",
+      "pattern": "\\bpr[íi]ncipes\\s+de\\s+moab\\b",
+      "flags": "i",
+      "speaker": "Príncipes",
+      "confidence": 0.8
+    },
+    {
+      "id": "hombres-num",
+      "pattern": "\\baquellos\\s+hombres\\b",
+      "flags": "i",
+      "speaker": "Hombres",
+      "confidence": 0.85
+    },
+    {
       "id": "pueblo-ex",
       "pattern": "\\b(pueblo|israelitas?)\\b",
       "flags": "i",

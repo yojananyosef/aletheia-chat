@@ -32,7 +32,11 @@ export type CanonicalSpeaker =
     | 'Samaritana' | 'Judíos' | 'Natanael' | 'Felipe' | 'Andrés' | 'Tomás'
     | 'Nicodemo' | 'Caifás' | 'Alguaciles' | 'Griegos'
     | 'Magos' | 'Esposa de Pilato' | 'Niños' | 'Ciegos'
-    | 'Santiago' | 'Juan' | 'Judas' | 'Ángeles';
+    | 'Santiago' | 'Juan' | 'Judas' | 'Ángeles'
+    | 'Balaam' | 'Balac' | 'Coré' | 'Caleb' | 'Hobab' | 'Edom' | 'Eleazar'
+    | 'Asna' | 'Mensajeros' | 'Espías' | 'Datán y Abiram' | 'Israel'
+    | 'Gad y Rubén' | 'Galaaditas' | 'Capitanes' | 'Hijas de Zelofehad'
+    | 'Príncipes' | 'Hombres';
 
 export type Speaker = CanonicalSpeaker | (string & {});
 

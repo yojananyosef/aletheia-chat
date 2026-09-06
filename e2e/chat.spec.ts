@@ -59,6 +59,10 @@ test.describe('Chat', () => {
         const bubble = page.getByText('En el principio creó Dios el cielo y la tierra.');
         await expect(bubble).toBeVisible({ timeout: 20_000 });
 
+        // Esperar a que la narración se pause en el mensaje de Dios:
+        // con follow-mode el scroll suave compite con el doble-tap si el auto-avance sigue activo.
+        await expect(page.getByRole('button', { name: /enviar mensaje de dios/i })).toBeVisible({ timeout: 30_000 });
+
         await bubble.dblclick();
         await expect(page.locator('[class*="bg-red-500"]')).toBeVisible();
 
