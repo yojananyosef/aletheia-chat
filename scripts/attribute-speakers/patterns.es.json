@@ -2004,6 +2004,42 @@
       "flags": "i",
       "speaker": "Niño",
       "confidence": 0.8
+    },
+    {
+      "id": "sayer-saul",
+      "pattern": "(dijo|dijeron|respondi[óo]|habl[óo]|clam[óo])\\s+(sa[úu]l)\\b",
+      "speaker": "Saúl",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-vso-saul",
+      "pattern": "\\b(dijo|respondi[óo])\\s+sa[úu]l\\s+a\\b",
+      "speaker": "Saúl",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-natan",
+      "pattern": "(dijo|dijeron|respondi[óo]|habl[óo]|replic[óo]|exclam[óo])\\s+(el\\s+profeta\\s+)?nat[áa]n\\b",
+      "speaker": "Natán",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-vso-natan",
+      "pattern": "\\bnat[áa]n\\s+(dijo|respondi[óo]|habl[óo])\\b",
+      "speaker": "Natán",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-ornan",
+      "pattern": "(respondi[óo]|dijo)\\s+orn[áa]n\\b|\\born[áa]n\\s+respondi[óo]\\b",
+      "speaker": "Ornán",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-jebus",
+      "pattern": "moradores\\s+de\\s+jeb[úu]s",
+      "speaker": "Jebuseos",
+      "confidence": 0.85
     }
   ],
   "aliases": {
