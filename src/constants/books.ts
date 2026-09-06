@@ -5,10 +5,10 @@ export const BIBLE_BOOKS: BookInfo[] = [
     {
         id: 'genesis',
         name: 'Génesis',
-        availableChapters: [1, 2, 3],
+        availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50],
         category: 'Pentateuco',
         description: 'La creación, la caída y la promesa divina a los patriarcas.',
-        participants: ['Dios', 'Narrador', 'Adán', 'Eva', 'Serpiente']
+        participants: ['Dios', 'Narrador', 'Adán', 'Eva', 'Serpiente', 'Caín', 'Noé', 'Abraham', 'Sara', 'Isaac', 'Jacob', 'José', 'Lot', 'Agar', 'Rebeca', 'Esaú', 'Labán', 'Lea', 'Raquel', 'Judá', 'Ángel', 'Faraón', 'Melquisedec', 'Abimelec', 'Efrón', 'Hamor', 'Siquem', 'Rubén', 'Copero', 'Panadero', 'Criado', 'Mensajero', 'Pastores', 'Hermanos', 'Hijas', 'Parteras', 'Pueblo', 'Tamar', 'Hombre', 'Amigo', 'Esposa', 'Lamec', 'Hijos de Labán', 'Rey de Sodoma']
     },
     {
         id: 'exodus',

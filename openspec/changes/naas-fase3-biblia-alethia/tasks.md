@@ -9,6 +9,8 @@
 - [x] 1b.2 Test canon: JOB 1:7 Satán + JON 1:6 Marineros (`node --test` 5/5).
 - [x] 1b.3 Ingeridos `rut` 1-4 (143 msgs), `jonas` 1-4 (68 msgs), `salmos` 1-150 (2664 msgs): `--dry-run` → `reviewed/` (8+80 ficheros) → `--apply --write` → `availableChapters` activos en `books.ts` (Rut/Jonás/Salmos desbloqueados).
 - [x] 1b.4 Fixes de precisión descubiertos en la revisión: gap templado en `findCuts` (corte en dicendi más cercano al `:`), VSO-primero con destinatario `a/al`, exclusión pre-verbal `a|oh|en|contra|nombre de`, degradado pronominal (ella/él/yo/tú/ti/mí...), mención-sin-corte siempre a revisión, tallos `dic|dec|replic`, extracción de encabezado `«...»` a título Sistema, aviso de continuación extendido. Voces nuevas: Noemí, Nueras, Criado, Segadores, Pariente, Ancianos, Mujeres, Pueblo, Rey de Nínive, Impíos, Pueblos.
+- [x] 1b.5 Génesis 4-50 (1453 versos, 2003 msgs): 27 reglas patriarcales + `llamó su nombre X` nunca hablante (VSO excluye `nombre`) + objeto `a` con artículo/posesivo + mensajeros plural. 293 ambiguos + silenciosos resueltos en `reviewed/genesis-*.json`; reporter conserva voz; teofanía = Dios. Génesis 1-50 desbloqueado (2126 msgs).
+- [x] 1b.6 Deploy Vercel: `output: VERCEL ? undefined : standalone` (`next.config.js`) — Next 16.3 + standalone + adapter = ENOENT `next-server.js.nft.json` en onBuildComplete (upstream #96646). Verificado ambas rutas en limpio.
 
 ## 2. Heurística
 - [x] 2.1 `run.mjs --book genesis --chapter 3 --source SpaRVG` parte discurso y asigna speaker; `--dry-run` imprime tabla verso→speaker→rule→confidence (GEN1 0 sayer-ambiguos, GEN3 4 ambiguos con defaults correctos).
