@@ -223,6 +223,15 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(s10.messages, 2, 'b'), 'Secanías');
   });
 
+  it('EST voces: Amán 3:8, Mardoqueo 4:13-14 (carryover), Ester 4:16', () => {
+    const s3 = run('ester', 'EST', 3);
+    assert.equal(speakerOf(s3.messages, 8, 'b'), 'Amán');
+    const s4 = run('ester', 'EST', 4);
+    assert.equal(speakerOf(s4.messages, 13, 'b'), 'Mardoqueo');
+    assert.equal(speakerOf(s4.messages, 14, ''), 'Mardoqueo');
+    assert.equal(speakerOf(s4.messages, 16, ''), 'Ester');
+  });
+
   it('2CR voces: Salomón carta 2:4, Micaías 18:13', () => {
     const s2 = run('2cronicas', '2CH', 2);
     assert.equal(speakerOf(s2.messages, 4, ''), 'Salomón');

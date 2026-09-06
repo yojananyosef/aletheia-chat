@@ -2106,6 +2106,54 @@
       "pattern": "sema[íi]as[^.]{0,60}me\\s+dijo\\b|(dijo|habl[óo])\\s+sema[íi]as\\b",
       "speaker": "Semaías",
       "confidence": 0.85
+    },
+    {
+      "id": "sayer-asuero",
+      "pattern": "(rey\\s+asuero|asuero)[^.]{0,40}(dijo|respondi[óo]|habl[óo]|pregunt[óo])\\b|(dijo|respondi[óo]|pregunt[óo]|habl[óo])\\s+el\\s+rey\\s+asuero\\b",
+      "speaker": "Asuero",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-aman",
+      "pattern": "(dijo|respondi[óo]|habl[óo])\\s+am[áa]n\\b|\\bam[áa]n\\s+(dijo|respondi[óo]|habl[óo])\\b",
+      "speaker": "Amán",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-ester",
+      "pattern": "(dijo|respondi[óo]|habl[óo])\\s+(ester|esther)\\b|(ester|esther)\\s+(dijo|respondi[óo]|habl[óo])\\b",
+      "speaker": "Ester",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-mardoqueo",
+      "pattern": "(dijo|respondi[óo]|habl[óo])\\s+mardoqueo\\b|mardoqueo\\s+(dijo|respondi[óo]|habl[óo])\\b",
+      "speaker": "Mardoqueo",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-memucan",
+      "pattern": "(dijo|habl[óo])\\s+memuc[áa]n\\b",
+      "speaker": "Memucán",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-zeres",
+      "pattern": "(dijo|habl[óo])\\s+zeres\\b|zeres[^.]{0,40}(dijo|habl[óo])\\b",
+      "speaker": "Zeres",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-harbona",
+      "pattern": "(dijo|habl[óo])\\s+harbona\\b",
+      "speaker": "Harbona",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-sabios",
+      "pattern": "(dijeron|dijo)\\s+sus\\s+sabios\\b|sus\\s+sabios[^.]{0,30}(dijeron|dijo)\\b",
+      "speaker": "Sabios",
+      "confidence": 0.8
     }
   ],
   "aliases": {
