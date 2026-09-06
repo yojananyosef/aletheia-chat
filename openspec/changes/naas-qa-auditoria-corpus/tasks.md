@@ -32,17 +32,20 @@
       evangelios con 0 sospechosos: juan 98→0 (81 fixes), mateo 51→0 (39), lucas 84→0 (57),
       marcos 39→0 (25: discursos 7/8/10/12/13/14, 13:4 Discípulos, 14:71 Pedro, 14:72b cita
       narrada→Narrador, 14:65b "Profetiza"=Sacerdotes; 14 documentaciones).
-- [ ] 4.3 AT carryover divino posterior a la integración: **COMPLETADO EN LOS 7 LIBROS
-      MAYORES** — numeros (248→0, 100% Narrador: carryover sobre-fija), genesis (118→0, 36
-      fixes), josue (48→0, 12 fixes), jueces (50→0, 11 fixes), deuteronomio (15→0), levitico
-      (8→0), exodus (120→0, 62 fixes: Pascua, Faraón, oráculos). Restan solo clusters menores:
-      salmos (25+12), rut, samuel, reyes, crónicas, nehemias, jonas.
+- [x] 4.3 AT carryover divino posterior a la integración: **COMPLETADO (0 sospechosos en los
+      24 libros)** — numeros (248→0), genesis (118→0, 36 fixes), josue (48→0, 12), jueces
+      (50→0, 11), deuteronomio (15→0), levitico (8→0), exodus (120→0, 62 fixes: Pascua,
+      Faraón, oráculos), salmos (38→0, oráculos 50/60/82; salmista-Narrador), 2cronicas
+      (26→0, 19 fixes), samuel/reyes/rut/jonas/nehemias (27→0).
+- [x] 4.1 doctrina de Salmos (encabezados y doctrina propia): **RESUELTA junto a 4.3** —
+      salmista-Narrador salvo oráculo genuino con marco explícito (50:16→17-23, 60:6→7-8);
+      documentado en qa-report.
 - [ ] 4.4 Casos nuevos que arrojen re-corridas: listar aquí con decisión tomada.
 
 ## 5. Cierre
-- [ ] 5.1 Re-corrida del barrido: 0 duros (mantener), sospechosos y deuda medidos y cada cluster
-      aceptado (documentado aquí) o corregido.
-- [ ] 5.2 `node --test scripts/attribute-speakers/run.test.mjs` + `pnpm lint` +
-      `NODE_ENV=test pnpm test` verde; commits por lote según el patrón del repo.
+- [x] 5.1 Re-corrida del barrido: **0 duros · 0 sospechosos · 24/24 libros limpios** (2026-09-06,
+      qa final rev 6655); deriva-fuente 135 aceptada y documentada (advertencia conocida).
+- [x] 5.2 `run.test.mjs` speakers 31/31 + `pnpm lint` verde + `NODE_ENV=test pnpm test` 37/37;
+      commits por lote (corpus + docs openspec) siguiendo el patrón del repo.
 - [ ] 5.3 Actualizar `triage-doctrinal-pendiente.md` (change fase3) enlazando a este barrido y
       marcando lo resuelto.

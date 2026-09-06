@@ -13,24 +13,24 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | deuteronomio | 1047 | 948 | 0 | 22 |
 | josue | 760 | 161 | 0 | 54 |
 | jueces | 887 | 208 | 0 | 64 |
-| rut | 144 | 27 | 2 | 5 |
-| 1samuel | 1241 | 306 | 5 | 8 |
-| 2samuel | 1037 | 253 | 6 | 9 |
-| 1reyes | 1106 | 291 | 4 | 5 |
-| 2reyes | 1074 | 262 | 1 | 1 |
-| 1cronicas | 1000 | 130 | 2 | 2 |
-| 2cronicas | 960 | 168 | 26 | 27 |
+| rut | 144 | 29 | 0 | 5 |
+| 1samuel | 1241 | 311 | 0 | 8 |
+| 2samuel | 1037 | 259 | 0 | 9 |
+| 1reyes | 1106 | 295 | 0 | 5 |
+| 2reyes | 1074 | 263 | 0 | 1 |
+| 1cronicas | 1000 | 132 | 0 | 2 |
+| 2cronicas | 960 | 194 | 0 | 27 |
 | esdras | 299 | 74 | 0 | 0 |
-| nehemias | 458 | 98 | 3 | 4 |
+| nehemias | 458 | 101 | 0 | 4 |
 | ester | 206 | 35 | 0 | 11 |
 | job | 1124 | 802 | 0 | 198 |
-| salmos | 2664 | 119 | 38 | 38 |
-| jonas | 68 | 22 | 4 | 4 |
+| salmos | 2664 | 157 | 0 | 38 |
+| jonas | 68 | 26 | 0 | 4 |
 | mateo | 1464 | 320 | 0 | 17 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 16 |
 | juan | 1303 | 226 | 0 | 20 |
-| **total** | **25306** | **6588** | **91** | **744** |
+| **total** | **25306** | **6655** | **0** | **744** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -39,20 +39,11 @@ Integridad: **0** capitulo-faltante · 0 capitulo-extra · 0 texto-perdido · 0 
 
 ## Sospechosos por cluster (aplicado ← dry, sin respaldo reviewed/)
 
-- 248 · numeros | Narrador ← Dios
-- 89 · exodus | Narrador ← Dios
-- 78 · genesis | Narrador ← Dios
-- 35 · josue | Narrador ← Dios
-- 35 · lucas | Narrador ← Dios
-- 29 · mateo | Narrador ← Jesús
-- 25 · salmos | Narrador ← Dios
-- 23 · exodus | Narrador ← Moisés
-- 18 · jueces | Narrador ← Dios
-- 17 · marcos | Narrador ← Jesús
-- 16 · lucas | Narrador ← Jesús
-- 15 · deuteronomio | Narrador ← Dios
-- 15 · lucas | Narrador ← Discípulos
-- 12 · salmos | Narrador ← Impíos
+**NINGUNO — barrido limpio (2026-09-06): 0 sospechosos en los 24 libros.**
+
+Histórico del barrido: 1.971 → 704 (evangelios 4.2) → 332 (numeros/genesis) → 91 (josue/
+jueces/lev/deut/exodus) → **0** (cola menor + salmos). Advertencias de deriva-fuente: 135
+(known gateway drift, no bloquean).
 
 ## Triaje (estado del tasks.md)
 
@@ -68,7 +59,7 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   torbellino (Dios en 39/41). Sospechosos 734 → 0.
 - `exodus` (256 entradas, 9 caps): instrucciones divinas (Éx 3, 21-23, 26-30). Sospechosos 376 → 120.
 
-### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 91)
+### Cubeta b — adjudicación doctrinal verso a verso (COMPLETADA, 0)
 - **Evangelios (4.2) COMPLETADOS (2026-09-06): 0 sospechosos en los 4** — juan (202 fixes:
   9 piloto + 81 resto), mateo (39), lucas (57), marcos (25). Total: 323 fixes + ~70
   documentaciones de narraciones legítimas y voces confirmadas.
@@ -111,8 +102,19 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   5:23/16:16/16:26/18:16/35:3, oráculos 11:2/14:2-4/14:16-18/16:5/19:11/19:22, Aarón 32:23-24;
   narraciones (plagas, Mar Rojo, mana, Sinaí, becerro). Nota: serie reviewed unificada
   `exodus-*.json` (slug del sweep).
-- **Salmos doctrina (4.1):** salmista-Narrador vs oráculo genuino (salmos 18/50/60/99/110 del
-  triage fase3).
+- **Salmos COMPLETADO** (2026-09-06: 38→0, 9 fixes + 29 docs — cierra 4.1): oráculos genuinos a
+  **Dios** (50:17-23 con marco 50:16 dividido; 60:7-8 con marco 60:6 dividido); el salmista-
+  Narrador documentado en 18:46-50, 36:2-12, 60:9-12, 82:2, 89:49, 94:8, 99:9 y 110:2-7 (110:1
+  y 60:6 SÍ están divididos marco+oráculo; 110:4 "Juró Jehová" queda Narrador por no poder
+  redividir). Doctrina 4.1 resuelta: salmista habla salvo oráculo con marco explícito.
+- **2 Crónicas COMPLETADO** (2026-09-06: 26→0, 19 fixes + 7 docs): carta de Hiram 2:13-16,
+  Pueblo 10:4, Roboam 10:11, Asa 16:3, Micaías 18:26a, Jehú 19:3, carta de Elías 21:13-15
+  (consistente con 21:12b Elías), Joás 25:19a, Sacerdotes 29:19, Ezequías 30:8-9/32:7-8,
+  caso inverso 20:31 (aplicado Dios → Narrador, resumen regnal).
+- **Samuel/Reyes y resto COMPLETADO** (2026-09-06: 27→0): 2samuel (Abner 3:9-10, Mensajero
+  11:24), 1reyes (David 2:2-3, Mensajero 20:3), 2reyes (Eliseo 4:26a), rut (Noemí 1:12b,
+  Ancianos 4:11b), 1samuel (2:27b oráculo del varón de Dios = Dios aplicado, Filisteos 5:8b/
+  5:11b, Saúl 17:37b), jonas/nehemias/1cronicas documentaciones de narración.
 
 ### Deriva-fuente (advertencia, no bug)
 - salmos 124: headings «…» extraídos a títulos Sistema (transformación conocida) + puntuación.

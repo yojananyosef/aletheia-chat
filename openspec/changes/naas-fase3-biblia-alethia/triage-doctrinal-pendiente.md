@@ -1,5 +1,14 @@
 # Triage doctrinal pendiente (post-carryover)
 
+> **RESUELTO 2026-09-06 (2ª actualización)**: el barrido del change `naas-qa-auditoria-corpus`
+> terminó **0 sospechosos en los 24 libros** (0 duros, rev 6655). Todos los clusters de este
+> documento fueron adjudicados verso a verso y están documentados en
+> `openspec/changes/naas-qa-auditoria-corpus/qa-report.md` (cubetas a/a2/b). Doctrinas
+> consolidadas: salmista-Narrador salvo oráculo con marco explícito (Salmos 50/60/82/110);
+> el relator conserva la voz en citas narradas (mateo 26:75b, marcos 14:72b); el dry actual
+> sobre-fija el carryover divino sobre narraciones de ejecución (numeros/levitico/deuteronomio).
+> Este archivo queda como histórico de la fase3.
+
 > **ACTUALIZACIÓN 2026-09-06**: el barrido reproducible vive ahora en el change
 > `naas-qa-auditoria-corpus` (`qa-sweep.mjs` + `qa-report.md`), que clasifica cada divergencia
 > dry↔aplicado en revisada (respaldada por `reviewed/`) o sospechosa. El backfill doctrinal de
