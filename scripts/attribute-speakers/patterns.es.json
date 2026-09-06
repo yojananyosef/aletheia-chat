@@ -2088,6 +2088,24 @@
       "pattern": "respondi[óo]\\s+secan[íi]as\\b|secan[íi]as[^.]{0,40}(dijo|habl[óo])\\b",
       "speaker": "Secanías",
       "confidence": 0.85
+    },
+    {
+      "id": "sayer-sanbalat",
+      "pattern": "(dijo|dijeron|habl[óo])\\s+sanbalat\\b|sanbalat[^.]{0,60}(dijo|dijeron|enviaron?\\s+a\\s+decir)\\b",
+      "speaker": "Sanbalat",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-tobias",
+      "pattern": "tob[íi]as[^.]{0,40}(dijo|dijeron)\\b|(dijo|dijeron)\\s+tob[íi]as\\b",
+      "speaker": "Tobías",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-semaias",
+      "pattern": "sema[íi]as[^.]{0,60}me\\s+dijo\\b|(dijo|habl[óo])\\s+sema[íi]as\\b",
+      "speaker": "Semaías",
+      "confidence": 0.85
     }
   ],
   "aliases": {
