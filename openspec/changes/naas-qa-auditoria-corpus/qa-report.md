@@ -6,7 +6,7 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 
 | libro | msgs | revisado | sospechoso | ambiguo-sin-revisar |
 |---|---|---|---|---|
-| genesis | 2127 | 380 | 119 | 126 |
+| genesis | 2127 | 467 | 0 | 8 |
 | exodus | 1460 | 360 | 120 | 224 |
 | levitico | 905 | 124 | 8 | 8 |
 | numeros | 1444 | 444 | 0 | 0 |
@@ -30,7 +30,7 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 16 |
 | juan | 1303 | 226 | 0 | 20 |
-| **total** | **25306** | **6332** | **451** | **863** |
+| **total** | **25306** | **6420** | **332** | **744** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -68,7 +68,7 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   torbellino (Dios en 39/41). Sospechosos 734 → 0.
 - `exodus` (256 entradas, 9 caps): instrucciones divinas (Éx 3, 21-23, 26-30). Sospechosos 376 → 120.
 
-### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 451)
+### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 332)
 - **Evangelios (4.2) COMPLETADOS (2026-09-06): 0 sospechosos en los 4** — juan (202 fixes:
   9 piloto + 81 resto), mateo (39), lucas (57), marcos (25). Total: 323 fixes + ~70
   documentaciones de narraciones legítimas y voces confirmadas.
@@ -91,8 +91,12 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   ejecución/censos/ofrendas ("Tomó, pues, Moisés...", "los contados de ellos..."); el aplicado
   Narrador era correcto en el 100% de los casos. Mejora heurística opcional: ampliar NARRSTART_RE
   con arranques narrativos ("Y Moisés", "Entonces Jehová descendió", "Y partieron", "Y los hijos
-  de..."). Restante: exodus (89+23), genesis (78+9+7), josue (35), jueces (18), deuteronomio (15),
-  salmos (25+12), levitico (8).
+  de...").
+- **Génesis COMPLETADO** (2026-09-06: 118→0, 36 fixes + 83 documentaciones): 1:15 y 15:19-21 habla
+  divina (creación, concesión de la tierra), 18:24-25 intercesión de Abraham, 27:7-10 Rebeca,
+  28:2-4 Isaac, 29:27/31:30 Labán, 32:10-12 oración de Jacob, 40:13-19/43:5a/44:2-31/47:24/48:4/
+  48:8/50:5 José y Judá, 43:18b Hermanos; narraciones documentadas (genealogía 11:8-31, diluvio,
+  circuncisión 17:24-27).
 - **Salmos doctrina (4.1):** salmista-Narrador vs oráculo genuino (salmos 18/50/60/99/110 del
   triage fase3).
 

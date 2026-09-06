@@ -35,8 +35,10 @@
 - [ ] 4.3 AT carryover divino posterior a la integración: **numeros COMPLETADO** (248→0, 253
       documentaciones: el aplicado Narrador era correcto en el 100% — el carryover actual
       sobre-fija sobre narraciones de ejecución; mejora heurística opcional en qa-report).
-      Restante: genesis (78+9+7), josue (35), jueces (18), deuteronomio (15), levitico (8),
-      exodus (89+23), salmos (25+12).
+      **genesis COMPLETADO** (118→0, 36 fixes: 1:15/15:19-21 habla divina, 18:24-25 Abraham,
+      27:7-10 Rebeca, 28:2-4 Isaac, 32:10-12 Jacob, 40/43/44/47/48/50 José y Judá; 83 narraciones
+      documentadas). Restante: josue (35), jueces (18), deuteronomio (15), levitico (8),
+      exodus (89+23), salmos (25+12) + clusters menores en otros libros.
 - [ ] 4.4 Casos nuevos que arrojen re-corridas: listar aquí con decisión tomada.
 
 ## 5. Cierre
