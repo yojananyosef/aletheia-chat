@@ -26,11 +26,11 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | job | 1124 | 802 | 0 | 198 |
 | salmos | 2664 | 119 | 38 | 38 |
 | jonas | 68 | 22 | 4 | 4 |
-| mateo | 1464 | 299 | 51 | 68 |
+| mateo | 1464 | 320 | 0 | 17 |
 | marcos | 952 | 191 | 39 | 39 |
 | lucas | 1576 | 402 | 84 | 100 |
 | juan | 1303 | 226 | 0 | 20 |
-| **total** | **25306** | **5964** | **878** | **1290** |
+| **total** | **25306** | **5985** | **827** | **1239** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -68,15 +68,19 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   torbellino (Dios en 39/41). Sospechosos 734 → 0.
 - `exodus` (256 entradas, 9 caps): instrucciones divinas (Éx 3, 21-23, 26-30). Sospechosos 376 → 120.
 
-### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 878)
+### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 827)
 - **Evangelios (4.2): Juan COMPLETO** (2026-09-06: 98→0 sospechosos, 81 fixes en 17 caps + piloto
   9 previo). Ciclos corregidos: pan de vida (6:38-58), Buen Pastor (10:8-38), Cenáculo (14),
   oración sacerdotal (17:2-14), discursos del templo (7-8, 12); voces puntuales: 6:9 Andrés,
   6:14b Multitud (`Hombres` no está en el vocabulario juan), 5:7 Hombre, 11:22 Marta,
   11:48 Sacerdotes, 16:30 Discípulos, 1:20/1:27 Juan el Bautista; caso inverso documentado
   (18:6b "Yo soy" = Jesús, el dry decía Dios). 17 narraciones legítimas documentadas.
-  Restante: mateo (51), lucas (84), marcos (39). Método: volcado aplicado vs dry por capítulo,
-  adjudicar con la doctrina del relator, `reviewed/` + `--apply --write`, 2ª pasada.
+- **Mateo COMPLETO** (2026-09-06: 51→0 sospechosos, 39 fixes en 17 caps): nacimiento (1:21/1:23a
+  Ángel), discursos 12/15/16/19/20/24/26 (15:7-9 es Jesús citando a Isaías, NO Dios — doctrina del
+  relator del triage), 17:15 Hombre (padre del lunático), 22:17 Discípulos, 22:36 Doctor (voz
+  añadida a books.ts mateo), 26:75b Narrador (cita narrada: el relator conserva la voz, el aplicado
+  Jesús era incorrecto), 28:6-7 Ángel; 12 narraciones/afirmaciones documentadas (8:26b, 8:32b,
+  14:29b, 21:15b Niños, 21:19b...). Restante: lucas (84), marcos (39).
 - **AT carryover divino (4.3):** numeros (253), genesis (119), josue (48), jueces (50),
   exodus Narrador←Dios (89) y Narrador←Moisés (23), salmos (38), deuteronomio (15).
 - **Salmos doctrina (4.1):** salmista-Narrador vs oráculo genuino (salmos 18/50/60/99/110 del

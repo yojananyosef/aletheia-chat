@@ -32,7 +32,11 @@
       **Juan completo** (2026-09-06): juan 98→0 sospechosos, 81 fixes en 17 caps (discurso del pan
       de vida 6:38-58, Buen Pastor 10, Cenáculo 14, oración sacerdotal 17; 6:9 Andrés; 6:14b
       Multitud; 11:22 Marta; 11:48 Sacerdotes; 16:30 Discípulos; 5:7 Hombre) + 17 narraciones
-      legítimas documentadas. Pilot Juan 9 previo. Restante: mateo (51), lucas (84), marcos (39).
+      legítimas documentadas. Pilot Juan 9 previo.
+      **Mateo completo** (51→0 sospechosos, 39 fixes en 17 caps): 1:21/1:23a Ángel, 15:7-9 Jesús
+      citando a Isaías (no Dios, doctrina del relator del triage), 17:15 Hombre, 22:17 Discípulos,
+      22:36 Doctor (voz añadida a books.ts), 26:75b Narrador (cita narrada, aplicado Jesús era
+      incorrecto), 28:6-7 Ángel + 12 documentaciones. Restante: lucas (84), marcos (39).
 - [ ] 4.3 AT carryover divino posterior a la integración: numeros (248), genesis (78), josue (35),
       jueces (18), deuteronomio (15), salmos (25): volcado aplicado vs dry por capítulo,
       adjudicar, `reviewed/` + `--apply --write`.
