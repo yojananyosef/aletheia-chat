@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 11,
     "subId": "b",
     "speaker": "Judíos",
@@ -18,9 +30,27 @@
     "confidence": 0.85
   },
   {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "b",
     "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Jesús",
     "confidence": 0.85
   },
   {
@@ -30,10 +60,34 @@
     "confidence": 0.85
   },
   {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 25,
     "subId": "b",
     "speaker": "Multitud",
     "confidence": 0.8
+  },
+  {
+    "verse": 26,
+    "subId": "a",
+    "speaker": "Multitud",
+    "confidence": 0.85
   },
   {
     "verse": 26,
@@ -42,9 +96,27 @@
     "confidence": 0.8
   },
   {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 31,
     "subId": "b",
     "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Jesús",
     "confidence": 0.85
   },
   {
@@ -55,9 +127,21 @@
   },
   {
     "verse": 36,
+    "subId": "a",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
     "subId": "b",
     "speaker": "Judíos",
     "confidence": 0.8
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 40,
@@ -78,6 +162,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
     "verse": 45,
     "subId": "b",
     "speaker": "Sacerdotes",
@@ -90,81 +180,15 @@
     "confidence": 0.8
   },
   {
-    "verse": 52,
-    "subId": "b",
-    "speaker": "Fariseos",
-    "confidence": 0.85
-  },
-  {
-    "verse": 19,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 42,
-    "subId": "",
-    "speaker": "Multitud",
-    "confidence": 0.8
-  },
-  {
     "verse": 51,
     "subId": "",
     "speaker": "Nicodemo",
     "confidence": 0.85
   },
   {
-    "verse": 7,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 22,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 26,
-    "subId": "a",
-    "speaker": "Multitud",
-    "confidence": 0.85
-  },
-  {
-    "verse": 27,
-    "subId": "",
-    "speaker": "Multitud",
-    "confidence": 0.85
-  },
-  {
-    "verse": 34,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 36,
-    "subId": "a",
-    "speaker": "Judíos",
-    "confidence": 0.85
-  },
-  {
-    "verse": 8,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 23,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 38,
-    "subId": "",
-    "speaker": "Jesús",
+    "verse": 52,
+    "subId": "b",
+    "speaker": "Fariseos",
     "confidence": 0.85
   }
 ]

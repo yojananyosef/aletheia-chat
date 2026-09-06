@@ -18,6 +18,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 15,
     "subId": "b",
     "speaker": "Samaritana",
@@ -30,9 +42,27 @@
     "confidence": 0.85
   },
   {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 19,
     "subId": "b",
     "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Samaritana",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jesús",
     "confidence": 0.85
   },
   {
@@ -43,9 +73,21 @@
   },
   {
     "verse": 27,
+    "subId": "c",
+    "speaker": "Discípulos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
     "subId": "d",
     "speaker": "Discípulos",
     "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "a",
+    "speaker": "Samaritana",
+    "confidence": 0.9
   },
   {
     "verse": 29,
@@ -61,15 +103,33 @@
   },
   {
     "verse": 35,
+    "subId": "a",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 37,
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 39,
@@ -100,47 +160,5 @@
     "subId": "b",
     "speaker": "Criado",
     "confidence": 0.8
-  },
-  {
-    "verse": 12,
-    "subId": "",
-    "speaker": "Samaritana",
-    "confidence": 0.85
-  },
-  {
-    "verse": 14,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 20,
-    "subId": "",
-    "speaker": "Samaritana",
-    "confidence": 0.85
-  },
-  {
-    "verse": 22,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 35,
-    "subId": "a",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 38,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 36,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
   }
 ]

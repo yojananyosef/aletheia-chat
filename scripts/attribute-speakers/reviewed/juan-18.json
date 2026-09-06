@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Jesús",
@@ -24,10 +30,22 @@
     "confidence": 0.85
   },
   {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 17,
     "subId": "d",
     "speaker": "Pedro",
     "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 22,
@@ -55,26 +73,26 @@
   },
   {
     "verse": 38,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
     "subId": "d",
     "speaker": "Pilato",
     "confidence": 0.9
-  },
-  {
-    "verse": 40,
-    "subId": "b",
-    "speaker": "Multitud",
-    "confidence": 0.9
-  },
-  {
-    "verse": 21,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
   },
   {
     "verse": 39,
     "subId": "",
     "speaker": "Pilato",
     "confidence": 0.85
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Hombre",
+    "confidence": 0.9
+  },
+  {
     "verse": 10,
     "subId": "b",
     "speaker": "Judíos",
@@ -18,13 +24,31 @@
     "confidence": 0.85
   },
   {
-    "verse": 44,
+    "verse": 15,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85
   },
   {
-    "verse": 20,
+    "verse": 44,
     "subId": "",
     "speaker": "Jesús",
     "confidence": 0.85

@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 8,
     "subId": "b",
     "speaker": "Jesús",

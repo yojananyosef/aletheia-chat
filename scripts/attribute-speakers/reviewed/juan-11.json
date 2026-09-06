@@ -18,10 +18,28 @@
     "confidence": 0.9
   },
   {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 16,
     "subId": "b",
     "speaker": "Tomás",
     "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Marta",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 27,
@@ -34,6 +52,12 @@
     "subId": "b",
     "speaker": "Marta",
     "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 34,
@@ -60,10 +84,28 @@
     "confidence": 0.85
   },
   {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
     "verse": 43,
     "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.9
+  },
+  {
+    "verse": 45,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   },
   {
     "verse": 47,
@@ -72,16 +114,16 @@
     "confidence": 0.85
   },
   {
+    "verse": 48,
+    "subId": "",
+    "speaker": "Sacerdotes",
+    "confidence": 0.9
+  },
+  {
     "verse": 49,
     "subId": "b",
     "speaker": "Caifás",
     "confidence": 0.85
-  },
-  {
-    "verse": 56,
-    "subId": "b",
-    "speaker": "Multitud",
-    "confidence": 0.8
   },
   {
     "verse": 50,
@@ -90,15 +132,9 @@
     "confidence": 0.85
   },
   {
-    "verse": 15,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 26,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
+    "verse": 56,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
   }
 ]
