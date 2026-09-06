@@ -2070,6 +2070,24 @@
       "pattern": "as[íi]\\s+dice\\s+ciro\\b|\\bciro,\\s+rey\\s+de\\s+persia",
       "speaker": "Ciro",
       "confidence": 0.9
+    },
+    {
+      "id": "sayer-dario",
+      "pattern": "yo\\s+dar[íi]o\\b|(dijo|habl[óo])\\s+dar[íi]o\\b",
+      "speaker": "Darío",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-zorobabel",
+      "pattern": "zorobabel[^.]{0,40}(dijeron|dijo|habl[óo])\\b",
+      "speaker": "Zorobabel",
+      "confidence": 0.85
+    },
+    {
+      "id": "sayer-secanias",
+      "pattern": "respondi[óo]\\s+secan[íi]as\\b|secan[íi]as[^.]{0,40}(dijo|habl[óo])\\b",
+      "speaker": "Secanías",
+      "confidence": 0.85
     }
   ],
   "aliases": {

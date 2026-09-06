@@ -213,6 +213,11 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(s24.messages, 16, 'b'), 'David');
   });
 
+  it('ESD voces: Secanías 10:2', () => {
+    const s10 = run('esdras', 'EZR', 10);
+    assert.equal(speakerOf(s10.messages, 2, 'b'), 'Secanías');
+  });
+
   it('2CR voces: Salomón carta 2:4, Micaías 18:13', () => {
     const s2 = run('2cronicas', '2CH', 2);
     assert.equal(speakerOf(s2.messages, 4, ''), 'Salomón');
