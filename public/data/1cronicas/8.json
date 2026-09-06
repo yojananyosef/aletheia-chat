@@ -1,0 +1,247 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 8,
+    "title": "1 Crónicas 8",
+    "messages": [
+        {
+            "id": "1ch8_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Benjamín engendró a Bela su primogénito, Asbel el segundo, Ara el tercero,"
+        },
+        {
+            "id": "1ch8_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Noha el cuarto, y Rafa el quinto."
+        },
+        {
+            "id": "1ch8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y los hijos de Bela fueron Adar, Gera, Abiud,"
+        },
+        {
+            "id": "1ch8_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Abisúa, Naamán, Ahoa,"
+        },
+        {
+            "id": "1ch8_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Gera, Sefufán e Hiram."
+        },
+        {
+            "id": "1ch8_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y éstos son los hijos de Aod, estos son las cabezas paternas que habitaron en Geba, y fueron trasportados a Manahat:"
+        },
+        {
+            "id": "1ch8_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Naamán, Ahías y Gera: éste los trasportó, y engendró a Uza y a Ahihud."
+        },
+        {
+            "id": "1ch8_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Saharaim engendró hijos en la provincia de Moab, después que dejó a Husim y a Baara que eran sus esposas."
+        },
+        {
+            "id": "1ch8_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Engendró, pues, de Hodes su esposa, a Jobab, Sibias, Mesa, Malcam,"
+        },
+        {
+            "id": "1ch8_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Jeúz, Soquías y Mirma. Éstos son sus hijos, cabezas de familias."
+        },
+        {
+            "id": "1ch8_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas de Husim engendró a Abitob y a Elpaal."
+        },
+        {
+            "id": "1ch8_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y los hijos de Elpaal: Heber, Misam y Semed (el cual edificó a Ono, y a Lod con sus aldeas),"
+        },
+        {
+            "id": "1ch8_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Bería también, y Sema, que fueron las cabezas de las familias de los moradores de Ajalón, los cuales echaron a los moradores de Gat;"
+        },
+        {
+            "id": "1ch8_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y Ahío, Sasac, Jeremot;"
+        },
+        {
+            "id": "1ch8_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Zebadías, Arad, Ader;"
+        },
+        {
+            "id": "1ch8_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Micael, Ispa y Joha, hijos de Bería;"
+        },
+        {
+            "id": "1ch8_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Zebadías, Mesulam, Hizqui, Heber;"
+        },
+        {
+            "id": "1ch8_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Ismari, Izlia, y Jobab, hijos de Elpaal."
+        },
+        {
+            "id": "1ch8_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Jacim, Zicri, Zabdi;"
+        },
+        {
+            "id": "1ch8_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Elioenai, Ziletai, Eliel;"
+        },
+        {
+            "id": "1ch8_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Adaías, Baraías, y Simrat, hijos de Simeí;"
+        },
+        {
+            "id": "1ch8_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "E Ispán, Heber, Eliel;"
+        },
+        {
+            "id": "1ch8_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Abdón, Zicri, Hanán;"
+        },
+        {
+            "id": "1ch8_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Hananías, Elam, Anatotías;"
+        },
+        {
+            "id": "1ch8_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Ifdaías, y Peniel, hijos de Sasac;"
+        },
+        {
+            "id": "1ch8_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Samserai, Seharías, Atalía;"
+        },
+        {
+            "id": "1ch8_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Jaarsías, Elías, Zicri, hijos de Jeroham."
+        },
+        {
+            "id": "1ch8_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Éstos fueron jefes principales de familias por sus linajes, y habitaron en Jerusalén."
+        },
+        {
+            "id": "1ch8_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y en Gabaón habitaron el padre de Gabaón, la esposa del cual se llamó Maaca,"
+        },
+        {
+            "id": "1ch8_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "y su hijo primogénito, Abdón, luego Zur, Cis, Baal, Nadab,"
+        },
+        {
+            "id": "1ch8_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Gedor, Ahío y Zequer."
+        },
+        {
+            "id": "1ch8_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y Miclot engendró a Simea. Éstos también habitaron con sus hermanos en Jerusalén, enfrente de ellos."
+        },
+        {
+            "id": "1ch8_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y Ner engendró a Cis, y Cis engendró a Saúl, y Saúl engendró a Jonatán, Malquisúa, Abinadab y Esbaal."
+        },
+        {
+            "id": "1ch8_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Hijo de Jonatán fue Merib-baal, y Merib-baal engendró a Micaía."
+        },
+        {
+            "id": "1ch8_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Los hijos de Micaía: Pitón, Melec, Taarea y Acaz."
+        },
+        {
+            "id": "1ch8_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y Acaz engendró a Joada; y Joada engendró a Alemet, y a Azmavet y a Zimri; y Zimri engendró a Mosa;"
+        },
+        {
+            "id": "1ch8_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "y Mosa engendró a Bina, hijo del cual fue Rafa, hijo del cual fue Elasa, cuyo hijo fue Azel."
+        },
+        {
+            "id": "1ch8_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y los hijos de Azel fueron seis, cuyos nombres son Azricam, Bocru, Ismael, Searías, Abdías y Hanán; todos éstos fueron hijos de Azel."
+        },
+        {
+            "id": "1ch8_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y los hijos de Esec su hermano: Ulam su primogénito, Jeús el segundo, Elifelet el tercero."
+        },
+        {
+            "id": "1ch8_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y fueron los hijos de Ulam hombres valientes y vigorosos, arqueros diestros, los cuales tuvieron muchos hijos y nietos, ciento cincuenta. Todos éstos fueron de los hijos de Benjamín."
+        }
+    ]
+}

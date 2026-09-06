@@ -1,0 +1,262 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 21,
+    "title": "1 Crónicas 21",
+    "messages": [
+        {
+            "id": "1ch21_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pero Satanás se levantó contra Israel, e incitó a David a que contase a Israel."
+        },
+        {
+            "id": "1ch21_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo David a Joab y a los príncipes del pueblo:"
+        },
+        {
+            "id": "1ch21_2b",
+            "speaker": "David",
+            "verse": 2,
+            "text": "Id, contad a Israel desde Beerseba hasta Dan, y traedme el número de ellos para que yo lo sepa."
+        },
+        {
+            "id": "1ch21_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo Joab:"
+        },
+        {
+            "id": "1ch21_3b",
+            "speaker": "Joab",
+            "verse": 3,
+            "text": "Añada Jehová a su pueblo cien veces más. Rey señor mío, ¿no son todos éstos siervos de mi señor? ¿Para qué procura mi señor esto, que será pernicioso a Israel?"
+        },
+        {
+            "id": "1ch21_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas el mandamiento del rey pudo más que Joab. Salió, por tanto, Joab y recorrió todo Israel, y volvió a Jerusalén."
+        },
+        {
+            "id": "1ch21_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Joab dio la cuenta del número del pueblo a David. Y había en todo Israel un millón cien mil que sacaban espada, y de Judá cuatrocientos setenta mil hombres que sacaban espada."
+        },
+        {
+            "id": "1ch21_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entre éstos no fueron contados los levitas, ni los hijos de Benjamín, porque Joab abominaba el mandamiento del rey."
+        },
+        {
+            "id": "1ch21_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y esto desagradó a Dios, e hirió a Israel."
+        },
+        {
+            "id": "1ch21_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y dijo David a Dios:"
+        },
+        {
+            "id": "1ch21_8b",
+            "speaker": "David",
+            "verse": 8,
+            "text": "He pecado gravemente en hacer esto; te ruego que hagas pasar la iniquidad de tu siervo, porque yo he hecho muy locamente."
+        },
+        {
+            "id": "1ch21_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y habló Jehová a Gad, vidente de David, diciendo:"
+        },
+        {
+            "id": "1ch21_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Ve, y habla a David, y dile:"
+        },
+        {
+            "id": "1ch21_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Así dice Jehová: Tres cosas te propongo; escoge de ellas una que yo haga contigo."
+        },
+        {
+            "id": "1ch21_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y viniendo Gad a David, le dijo:"
+        },
+        {
+            "id": "1ch21_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "1ch21_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Escoge para ti, o tres años de hambre; o por tres meses ser derrotado delante de tus enemigos, y que la espada de tus adversarios te alcance; o por tres días la espada de Jehová y pestilencia en la tierra, y que el ángel de Jehová destruya en todo el término de Israel. Mira, pues, qué he de responder al que me ha enviado."
+        },
+        {
+            "id": "1ch21_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces David dijo a Gad:"
+        },
+        {
+            "id": "1ch21_13b",
+            "speaker": "David",
+            "verse": 13,
+            "text": "Estoy en grande angustia: ruego que yo caiga en la mano de Jehová; porque sus misericordias son muchas en extremo. Y que no caiga yo en manos de hombres."
+        },
+        {
+            "id": "1ch21_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así Jehová envió pestilencia en Israel, y cayeron de Israel setenta mil hombres."
+        },
+        {
+            "id": "1ch21_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y envió Jehová el ángel a Jerusalén para destruirla; pero cuando él estaba destruyendo, miró Jehová, y se arrepintió de aquel mal, y dijo al ángel que destruía:"
+        },
+        {
+            "id": "1ch21_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "¡Basta ya! Detén tu mano."
+        },
+        {
+            "id": "1ch21_15c",
+            "book": "1cronicas",
+            "chapter": 21,
+            "verse": 15,
+            "subId": "c",
+            "speaker": "Narrador",
+            "text": "Y el ángel de Jehová estaba junto a la era de Ornán el jebuseo."
+        },
+        {
+            "id": "1ch21_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y alzando David sus ojos, vio al ángel de Jehová, que estaba entre el cielo y la tierra, teniendo una espada desenvainada en su mano, extendida sobre Jerusalén. Entonces David y los ancianos se postraron sobre sus rostros, cubiertos de cilicio."
+        },
+        {
+            "id": "1ch21_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y dijo David a Dios:"
+        },
+        {
+            "id": "1ch21_17b",
+            "speaker": "David",
+            "verse": 17,
+            "text": "¿No soy yo el que hizo contar el pueblo? Yo mismo soy el que pequé, y ciertamente he hecho mal; mas estas ovejas, ¿qué han hecho? Jehová Dios mío, sea ahora tu mano contra mí, y contra la casa de mi padre, y no haya plaga en tu pueblo."
+        },
+        {
+            "id": "1ch21_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y el ángel de Jehová ordenó a Gad que dijese a David, que subiese y construyese un altar a Jehová en la era de Ornán jebuseo."
+        },
+        {
+            "id": "1ch21_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces David subió, conforme a la palabra de Gad que le había dicho en nombre de Jehová."
+        },
+        {
+            "id": "1ch21_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y volviéndose Ornán vio al ángel; por lo que se escondieron cuatro hijos suyos que con él estaban. Y Ornán trillaba el trigo."
+        },
+        {
+            "id": "1ch21_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y viniendo David a Ornán, miró Ornán, y vio a David; y saliendo de la era, se postró en tierra ante David."
+        },
+        {
+            "id": "1ch21_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces dijo David a Ornán:"
+        },
+        {
+            "id": "1ch21_22b",
+            "speaker": "David",
+            "verse": 22,
+            "text": "Dame este lugar de la era, para que edifique un altar a Jehová, y dámelo por su cabal precio, para que cese la plaga del pueblo."
+        },
+        {
+            "id": "1ch21_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Ornán respondió a David:"
+        },
+        {
+            "id": "1ch21_23b",
+            "speaker": "Ornán",
+            "verse": 23,
+            "text": "Tómalo para ti, y haga mi señor el rey lo que bien le pareciere: y aun los bueyes daré para el holocausto, y los trillos para leña, y trigo para la ofrenda; yo lo doy todo."
+        },
+        {
+            "id": "1ch21_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces el rey David dijo a Ornán:"
+        },
+        {
+            "id": "1ch21_24b",
+            "speaker": "David",
+            "verse": 24,
+            "text": "No, sino que efectivamente la compraré por su justo precio: porque no tomaré para Jehová lo que es tuyo, ni sacrificaré holocausto que nada me cueste."
+        },
+        {
+            "id": "1ch21_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y dio David a Ornán por aquel lugar seiscientos siclos de oro por peso."
+        },
+        {
+            "id": "1ch21_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y edificó allí David un altar a Jehová, en el que ofreció holocaustos y ofrendas de paz, e invocó a Jehová, el cual le respondió por fuego desde los cielos en el altar del holocausto."
+        },
+        {
+            "id": "1ch21_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Jehová habló al ángel, y éste volvió su espada a la vaina."
+        },
+        {
+            "id": "1ch21_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "En aquel tiempo cuando David vio que Jehová le había respondido en la era de Ornán jebuseo, sacrificó allí."
+        },
+        {
+            "id": "1ch21_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y el tabernáculo de Jehová que Moisés había hecho en el desierto, y el altar del holocausto, estaban entonces en el alto de Gabaón:"
+        },
+        {
+            "id": "1ch21_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Pero David no pudo ir allá a consultar a Dios, porque estaba espantado a causa de la espada del ángel de Jehová."
+        }
+    ]
+}

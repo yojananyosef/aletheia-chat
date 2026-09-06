@@ -1,0 +1,493 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 6,
+    "title": "1 Crónicas 6",
+    "messages": [
+        {
+            "id": "1ch6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Los hijos de Leví: Gersón, Coat y Merari."
+        },
+        {
+            "id": "1ch6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Los hijos de Coat: Amram, Izhar, Hebrón y Uziel."
+        },
+        {
+            "id": "1ch6_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Los hijos de Amram: Aarón, Moisés y Miriam. Los hijos de Aarón: Nadab, Abiú, Eleazar e Itamar."
+        },
+        {
+            "id": "1ch6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Eleazar engendró a Finees, y Finees engendró a Abisúa:"
+        },
+        {
+            "id": "1ch6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "y Abisúa engendró a Buqui, y Buqui engendró a Uzi;"
+        },
+        {
+            "id": "1ch6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y Uzi engendró a Zeraías, y Zeraías engendró a Meraiot;"
+        },
+        {
+            "id": "1ch6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "y Meraiot engendró a Amarías, y Amarías engendró a Ahitob;"
+        },
+        {
+            "id": "1ch6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "y Ahitob engendró a Sadoc, y Sadoc engendró a Ahimaas;"
+        },
+        {
+            "id": "1ch6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "y Ahimaas engendró a Azarías, y Azarías engendró a Johanán;"
+        },
+        {
+            "id": "1ch6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y Johanán engendró a Azarías, el que tuvo el sacerdocio en la casa que Salomón edificó en Jerusalén;"
+        },
+        {
+            "id": "1ch6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y Azarías engendró a Amarías, y Amarías engendró a Ahitob;"
+        },
+        {
+            "id": "1ch6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "y Ahitob engendró a Sadoc, y Sadoc engendró a Salum;"
+        },
+        {
+            "id": "1ch6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "y Salum engendró a Hilcías, e Hilcías engendró a Azarías;"
+        },
+        {
+            "id": "1ch6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y Azarías engendró a Seraías, y Seraías, engendró a Josadac."
+        },
+        {
+            "id": "1ch6_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Josadac fue cautivo cuando Jehová trasportó a Judá y a Jerusalén, por mano de Nabucodonosor."
+        },
+        {
+            "id": "1ch6_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Los hijos de Leví: Gersón, Coat y Merari."
+        },
+        {
+            "id": "1ch6_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y éstos son los nombres de los hijos de Gersón: Libni y Simeí."
+        },
+        {
+            "id": "1ch6_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Los hijos de Coat: Amram, Izhar, Hebrón y Uziel."
+        },
+        {
+            "id": "1ch6_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Los hijos de Merari: Mahali, y Musi. Éstas son las familias de Leví, según sus descendencias."
+        },
+        {
+            "id": "1ch6_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Gersón: Libni su hijo, Jahat su hijo, Zima su hijo."
+        },
+        {
+            "id": "1ch6_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Joah su hijo, Iddo su hijo, Zera su hijo, Jeatrai su hijo."
+        },
+        {
+            "id": "1ch6_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Los hijos de Coat: Aminadab su hijo, Coré su hijo, Asir su hijo,"
+        },
+        {
+            "id": "1ch6_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Elcana su hijo, Ebiasaf su hijo, Asir su hijo,"
+        },
+        {
+            "id": "1ch6_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Tahat su hijo, Uriel su hijo, Uzías su hijo, y Saúl su hijo."
+        },
+        {
+            "id": "1ch6_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Los hijos de Elcana: Amasai, Ahimot y Elcana."
+        },
+        {
+            "id": "1ch6_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "En cuanto a Elcana; los hijos de Elcana: Zuf su hijo, Nahat su hijo,"
+        },
+        {
+            "id": "1ch6_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Eliab su hijo, Jeroham su hijo, Elcana su hijo."
+        },
+        {
+            "id": "1ch6_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Los hijos de Samuel: el primogénito Vasni y Abías."
+        },
+        {
+            "id": "1ch6_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Los hijos de Merari: Mahali, Libni su hijo, Simeí su hijo, Uza su hijo,"
+        },
+        {
+            "id": "1ch6_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Sima su hijo, Haguía su hijo, Asaías su hijo."
+        },
+        {
+            "id": "1ch6_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Éstos son a los que David puso sobre el servicio del canto en la casa de Jehová, después que el arca tuvo reposo:"
+        },
+        {
+            "id": "1ch6_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Los cuales servían delante de la tienda del tabernáculo de la congregación en el canto, hasta que Salomón edificó la casa de Jehová en Jerusalén; después estuvieron en su ministerio según su costumbre."
+        },
+        {
+            "id": "1ch6_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Éstos, pues, servían, con sus hijos. De los hijos de Coat, Hemán cantor, hijo de Joel, hijo de Samuel;"
+        },
+        {
+            "id": "1ch6_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "hijo de Elcana, hijo de Jeroham, hijo de Eliel, hijo de Toa;"
+        },
+        {
+            "id": "1ch6_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "hijo de Zuf, hijo de Elcana, hijo Mahat, hijo de Amasai;"
+        },
+        {
+            "id": "1ch6_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "hijo de Elcana, hijo de Joel, hijo de Azarías, hijo de Sofonías;"
+        },
+        {
+            "id": "1ch6_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "hijo de Tahat, hijo de Asir, hijo de Ebiasaf, hijo de Coré;"
+        },
+        {
+            "id": "1ch6_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "hijo de Izhar, hijo de Coat, hijo de Leví, hijo de Israel."
+        },
+        {
+            "id": "1ch6_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y su hermano Asaf, el cual estaba a su mano derecha: Asaf, hijo de Berequías, hijo de Sima;"
+        },
+        {
+            "id": "1ch6_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "hijo de Micael, hijo de Baasías, hijo de Malquías;"
+        },
+        {
+            "id": "1ch6_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "hijo de Etni, hijo de Zera, hijo de Adaías;"
+        },
+        {
+            "id": "1ch6_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "hijo de Etán, hijo de Zima, hijo de Simeí;"
+        },
+        {
+            "id": "1ch6_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "hijo de Jahat, hijo de Gersón, hijo de Leví."
+        },
+        {
+            "id": "1ch6_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y sus hermanos, los hijos de Merari, estaban a la mano izquierda, esto es, Etán, hijo de Quisi, hijo de Abdi, hijo de Maluc;"
+        },
+        {
+            "id": "1ch6_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "hijo de Hasabías, hijo de Amasías, hijo de Hilcías;"
+        },
+        {
+            "id": "1ch6_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "hijo de Amasai, hijo de Bani, hijo de Semer;"
+        },
+        {
+            "id": "1ch6_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "hijo de Mahali, hijo de Musi, hijo de Merari, hijo de Leví."
+        },
+        {
+            "id": "1ch6_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y sus hermanos los levitas fueron puestos sobre todo el ministerio del tabernáculo de la casa de Dios."
+        },
+        {
+            "id": "1ch6_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Mas Aarón y sus hijos quemaban ofrendas sobre el altar del holocausto, y sobre el altar del incienso, en toda la obra del lugar santísimo, y para hacer las expiaciones sobre Israel, conforme a todo lo que Moisés siervo de Dios había mandado."
+        },
+        {
+            "id": "1ch6_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y los hijos de Aarón son éstos: Eleazar su hijo, Finees su hijo, Abisúa su hijo;"
+        },
+        {
+            "id": "1ch6_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Buqui su hijo, Uzi su hijo, Zeraías su hijo;"
+        },
+        {
+            "id": "1ch6_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Meraiot su hijo, Amarías su hijo, Ahitob su hijo;"
+        },
+        {
+            "id": "1ch6_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Sadoc su hijo, Ahimaas su hijo."
+        },
+        {
+            "id": "1ch6_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y éstas son sus habitaciones, conforme a sus domicilios y sus términos, las de los hijos de Aarón por las familias de los coatitas, porque de ellos les tocó en suerte."
+        },
+        {
+            "id": "1ch6_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Les dieron, pues, a Hebrón en tierra de Judá, y sus ejidos alrededor de ella."
+        },
+        {
+            "id": "1ch6_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Mas el territorio de la ciudad y sus aldeas se dieron a Caleb, hijo de Jefone."
+        },
+        {
+            "id": "1ch6_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Y a los hijos de Aarón dieron las ciudades de Judá, esto es, a Hebrón, la ciudad de refugio, además a Libna con sus ejidos, a Jatir y Estemoa con sus ejidos,"
+        },
+        {
+            "id": "1ch6_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "a Hilem con sus ejidos, y a Debir con sus ejidos;"
+        },
+        {
+            "id": "1ch6_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "a Asán con sus ejidos, y a Bet-semes con sus ejidos."
+        },
+        {
+            "id": "1ch6_60",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Y de la tribu de Benjamín, a Geba, con sus ejidos, y a Alemet con sus ejidos, y a Anatot con sus ejidos. Todas sus ciudades fueron trece ciudades, repartidas por sus linajes."
+        },
+        {
+            "id": "1ch6_61",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "A los hijos de Coat, que quedaron de su parentela, dieron por suerte diez ciudades de la media tribu de Manasés."
+        },
+        {
+            "id": "1ch6_62",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Y a los hijos de Gersón, por sus linajes, dieron de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí y de la tribu de Manasés en Basán, trece ciudades."
+        },
+        {
+            "id": "1ch6_63",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Y a los hijos de Merari, por sus linajes, de la tribu de Rubén, y de la tribu de Gad, y de la tribu de Zabulón, se dieron por suerte doce ciudades."
+        },
+        {
+            "id": "1ch6_64",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Y dieron los hijos de Israel a los levitas ciudades con sus ejidos."
+        },
+        {
+            "id": "1ch6_65",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Y dieron por suerte de la tribu de los hijos de Judá, y de la tribu de los hijos de Simeón, y de la tribu de los hijos de Benjamín, las ciudades que nombraron por sus nombres."
+        },
+        {
+            "id": "1ch6_66",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "Y a los linajes de los hijos de Coat dieron ciudades con sus términos de la tribu de Efraín."
+        },
+        {
+            "id": "1ch6_67",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Y les dieron las ciudades de refugio, Siquem con sus ejidos en el monte de Efraín, y a Gezer con sus ejidos,"
+        },
+        {
+            "id": "1ch6_68",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "y a Jocmeam con sus ejidos, y a Bet-horón con sus ejidos,"
+        },
+        {
+            "id": "1ch6_69",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "a Ajalón con sus ejidos, y a Gat-rimón con sus ejidos."
+        },
+        {
+            "id": "1ch6_70",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "De la media tribu de Manasés, a Aner con sus ejidos, y a Bilam con sus ejidos, para los del linaje de los hijos de Coat que habían quedado."
+        },
+        {
+            "id": "1ch6_71",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "Y a los hijos de Gersón dieron de la familia de la media tribu de Manasés, a Golán en Basán con sus ejidos y a Astarot con sus ejidos;"
+        },
+        {
+            "id": "1ch6_72",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "y de la tribu de Isacar, a Cedes con sus ejidos, a Daberat con sus ejidos,"
+        },
+        {
+            "id": "1ch6_73",
+            "speaker": "Narrador",
+            "verse": 73,
+            "text": "y a Ramot con sus ejidos, y a Anem con sus ejidos;"
+        },
+        {
+            "id": "1ch6_74",
+            "speaker": "Narrador",
+            "verse": 74,
+            "text": "y de la tribu de Aser a Masal con sus ejidos, y a Abdón con sus ejidos,"
+        },
+        {
+            "id": "1ch6_75",
+            "speaker": "Narrador",
+            "verse": 75,
+            "text": "y a Hucoc con sus ejidos, y a Rehob con sus ejidos."
+        },
+        {
+            "id": "1ch6_76",
+            "speaker": "Narrador",
+            "verse": 76,
+            "text": "Y de la tribu de Neftalí, a Cedes en Galilea con sus ejidos, y a Hamón con sus ejidos, a Quiriataim con sus ejidos."
+        },
+        {
+            "id": "1ch6_77",
+            "speaker": "Narrador",
+            "verse": 77,
+            "text": "Y a los hijos de Merari que habían quedado, dieron de la tribu de Zabulón a Rimón con sus ejidos, y a Tabor con sus ejidos."
+        },
+        {
+            "id": "1ch6_78",
+            "speaker": "Narrador",
+            "verse": 78,
+            "text": "Y del otro lado del Jordán, frente a Jericó, al oriente del Jordán, dieron de la tribu de Rubén, a Beser en el desierto con sus ejidos; y a Jahaza con sus ejidos."
+        },
+        {
+            "id": "1ch6_79",
+            "speaker": "Narrador",
+            "verse": 79,
+            "text": "Y a Cademot con sus ejidos, y a Mefaat con sus ejidos."
+        },
+        {
+            "id": "1ch6_80",
+            "speaker": "Narrador",
+            "verse": 80,
+            "text": "Y de la tribu de Gad, a Ramot en Galaad con sus ejidos, y a Mahanaim con sus ejidos,"
+        },
+        {
+            "id": "1ch6_81",
+            "speaker": "Narrador",
+            "verse": 81,
+            "text": "y a Hesbón con sus ejidos, y a Jazer con sus ejidos."
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 3,
+    "title": "1 Crónicas 3",
+    "messages": [
+        {
+            "id": "1ch3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Éstos fueron los hijos de David, que le nacieron en Hebrón: Amnón el primogénito, de Ahinoam jezreelita; el segundo Daniel, de Abigail la carmelita;"
+        },
+        {
+            "id": "1ch3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "el tercero, Absalón, hijo de Maaca, hija de Talmai, rey de Gesur; el cuarto, Adonías, hijo de Haguit;"
+        },
+        {
+            "id": "1ch3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "el quinto, Sefatías, de Abital; el sexto, Itream, de Egla su esposa."
+        },
+        {
+            "id": "1ch3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Estos seis le nacieron en Hebrón, donde reinó siete años y seis meses; y en Jerusalén reinó treinta y tres años."
+        },
+        {
+            "id": "1ch3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Estos cuatro le nacieron en Jerusalén: Sima, Sobab, Natán y Salomón, de Bet-súa hija de Amiel."
+        },
+        {
+            "id": "1ch3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y otros nueve: Ibhar, Elisama, Elifelet,"
+        },
+        {
+            "id": "1ch3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Noga, Nefeg, Jafía,"
+        },
+        {
+            "id": "1ch3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Elisama, Eliada y Elifelet."
+        },
+        {
+            "id": "1ch3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Todos éstos fueron los hijos de David, sin los hijos de las concubinas. Y Tamar fue hermana de ellos."
+        },
+        {
+            "id": "1ch3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Hijo de Salomón fue Roboam, cuyo hijo fue Abías, del cual fue hijo Asa, cuyo hijo fue Josafat;"
+        },
+        {
+            "id": "1ch3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "de quien fue hijo Joram, cuyo hijo fue Ocozías, hijo del cual fue Joás;"
+        },
+        {
+            "id": "1ch3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "del cual fue hijo Amasías, cuyo hijo fue Azarías, e hijo de éste, Jotam;"
+        },
+        {
+            "id": "1ch3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "e hijo del cual fue Acaz, del que fue hijo Ezequías, cuyo hijo fue Manasés;"
+        },
+        {
+            "id": "1ch3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "del cual fue hijo Amón, cuyo hijo fue Josías."
+        },
+        {
+            "id": "1ch3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y los hijos de Josías: Johanán su primogénito, el segundo Joacim, el tercero Sedequías, el cuarto Salum."
+        },
+        {
+            "id": "1ch3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Los hijos de Joacim: Jeconías su hijo, hijo del cual fue Sedequías."
+        },
+        {
+            "id": "1ch3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los hijos de Jeconías: Asir, Salatiel su hijo,"
+        },
+        {
+            "id": "1ch3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Malquiram, Pedaías, Seneaser, y Jecamía, Hosama y Nedabía."
+        },
+        {
+            "id": "1ch3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y los hijos de Pedaías: Zorobabel y Simeí. Y los hijos de Zorobabel: Mesulam, Hananías, y Selomit su hermana;"
+        },
+        {
+            "id": "1ch3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "y Hasuba, Ohel, y Berequías, Hasadía y Jusabhesed; cinco."
+        },
+        {
+            "id": "1ch3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Los hijos de Hananías: Pelatías, y Jesahías, hijo de Refaías, hijo de Arnán, hijo de Abdías, hijo de Secanías."
+        },
+        {
+            "id": "1ch3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Hijos de Secanías fueron Semaías y los hijos de Semaías: Hatús, Igal, Barias, Nearías y Safat; seis."
+        },
+        {
+            "id": "1ch3_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Los hijos de Nearías fueron estos tres: Elioenai, Ezequías, y Azricam."
+        },
+        {
+            "id": "1ch3_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Los hijos de Elioenai fueron estos siete: Odavias, Eliasib, Pelaías, Acub, Johanán, Delaías y Anani."
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 15,
+    "title": "1 Crónicas 15",
+    "messages": [
+        {
+            "id": "1ch15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Hizo también casas para sí en la ciudad de David, y labró un lugar para el arca de Dios, y le levantó una tienda."
+        },
+        {
+            "id": "1ch15_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces dijo David:"
+        },
+        {
+            "id": "1ch15_2b",
+            "speaker": "David",
+            "verse": 2,
+            "text": "El arca de Dios no debe ser llevada sino por los levitas; porque a ellos ha escogido Jehová para que lleven el arca de Dios y le sirvan perpetuamente."
+        },
+        {
+            "id": "1ch15_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y congregó David a todo Israel en Jerusalén, para que pasasen el arca de Jehová a su lugar, el cual le había él preparado."
+        },
+        {
+            "id": "1ch15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Reunió también David a los hijos de Aarón y a los levitas:"
+        },
+        {
+            "id": "1ch15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "De los hijos de Coat, Uriel el principal, y sus hermanos, ciento veinte."
+        },
+        {
+            "id": "1ch15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "De los hijos de Merari, Asaías el principal, y sus hermanos, doscientos veinte;"
+        },
+        {
+            "id": "1ch15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "De los hijos de Gersón, Joel el principal, y sus hermanos, ciento treinta;"
+        },
+        {
+            "id": "1ch15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "de los hijos de Elizafán, Semaías el principal, y sus hermanos, doscientos;"
+        },
+        {
+            "id": "1ch15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "de los hijos de Hebrón, Eliel el principal, y sus hermanos, ochenta;"
+        },
+        {
+            "id": "1ch15_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "de los hijos de Uziel, Aminadab el principal, y sus hermanos, ciento doce."
+        },
+        {
+            "id": "1ch15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y llamó David a los sacerdotes Sadoc y a Abiatar, y a los levitas, Uriel, Asaías, Joel, Semaías, Eliel, y Aminadab;"
+        },
+        {
+            "id": "1ch15_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "1ch15_12b",
+            "speaker": "David",
+            "verse": 12,
+            "text": "Vosotros que sois los principales padres de los levitas, santificaos, vosotros y vuestros hermanos, y pasad el arca de Jehová, el Dios de Israel al lugar que le he preparado;"
+        },
+        {
+            "id": "1ch15_13",
+            "speaker": "David",
+            "verse": 13,
+            "text": "pues por no haberlo hecho así vosotros la primera vez, Jehová nuestro Dios nos quebrantó, por cuanto no le buscamos según la ordenanza."
+        },
+        {
+            "id": "1ch15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así los sacerdotes y los levitas se santificaron para traer el arca de Jehová, el Dios de Israel."
+        },
+        {
+            "id": "1ch15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y los hijos de los levitas trajeron el arca de Dios puesta sobre sus hombros en las barras, como lo había mandado Moisés conforme a la palabra de Jehová."
+        },
+        {
+            "id": "1ch15_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Asimismo dijo David a los principales de los levitas, que constituyesen de sus hermanos a cantores, con instrumentos de música, con salterios y arpas y címbalos, que resonasen y alzasen la voz con alegría."
+        },
+        {
+            "id": "1ch15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los levitas constituyeron a Hemán, hijo de Joel; y de sus hermanos, a Asaf, hijo de Berequías; y de los hijos de Merari y de sus hermanos, a Etán, hijo de Cusaías."
+        },
+        {
+            "id": "1ch15_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y con ellos a sus hermanos del segundo orden, a Zacarías, Ben, Jaaziel, Semiramot, Jehiel, Uni, Eliab, Benaía, Maasías, Matatías, Elifelehu, Micnías, Obed-edom y Jeiel, los porteros."
+        },
+        {
+            "id": "1ch15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Así Hemán, Asaf, y Etán, que eran cantores, sonaban címbalos de bronce."
+        },
+        {
+            "id": "1ch15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Zacarías, Jaaziel, Semiramot, Jehiel, Uni, Eliab, Maasías, y Benaía, con salterios sobre Alamot."
+        },
+        {
+            "id": "1ch15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Matatías, Elifelehu, Micnías, Obed-edom, Jeiel, y Azazías, cantaban con arpas en la octava sobresaliendo."
+        },
+        {
+            "id": "1ch15_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Quenanías, principal de los levitas, estaba para la entonación; pues él presidía en el canto, porque era entendido."
+        },
+        {
+            "id": "1ch15_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Berequías y Elcana eran porteros del arca."
+        },
+        {
+            "id": "1ch15_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y Sebanías, Josafat, Natanael, Amasai, Zacarías, Benaía, y Eliezer, sacerdotes, tocaban las trompetas delante del arca de Dios: Obed-edom y Jehías eran también porteros del arca."
+        },
+        {
+            "id": "1ch15_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "David, pues, y los ancianos de Israel, y los capitanes de millares, fueron a traer el arca del pacto de Jehová, de casa de Obed-edom, con alegría."
+        },
+        {
+            "id": "1ch15_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y sucedió que cuando Dios ayudó a los levitas que llevaban el arca del pacto de Jehová, ellos sacrificaron siete novillos y siete carneros."
+        },
+        {
+            "id": "1ch15_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y David iba vestido de lino fino y también todos los levitas que llevaban el arca, y asimismo los cantores; y Quenanías era maestro de canto entre los cantores. Llevaba también David sobre sí un efod de lino."
+        },
+        {
+            "id": "1ch15_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "De esta manera llevaba todo Israel el arca del pacto de Jehová, con júbilo y sonido de bocinas, y trompetas, y címbalos, y al son de salterios y arpas."
+        },
+        {
+            "id": "1ch15_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y aconteció que cuando el arca del pacto de Jehová llegó a la ciudad de David, Mical, hija de Saúl, mirando por una ventana, vio al rey David que saltaba y danzaba; y lo menospreció en su corazón."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 19,
+    "title": "1 Crónicas 19",
+    "messages": [
+        {
+            "id": "1ch19_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de estas cosas aconteció que murió Nahas, rey de los hijos de Amón, y su hijo reinó en su lugar."
+        },
+        {
+            "id": "1ch19_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo David:"
+        },
+        {
+            "id": "1ch19_2b",
+            "speaker": "David",
+            "verse": 2,
+            "text": "Haré misericordia con Hanún, hijo de Nahas, porque también su padre hizo conmigo misericordia. Así David envió embajadores para que lo consolasen por la muerte de su padre. Y los siervos de David vinieron a la tierra de los hijos de Amón a Hanún, para consolarlo."
+        },
+        {
+            "id": "1ch19_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero los príncipes de los hijos de Amón dijeron a Hanún:"
+        },
+        {
+            "id": "1ch19_3b",
+            "speaker": "Príncipes",
+            "verse": 3,
+            "text": "¿Piensas tú que David honra a tu padre porque te ha enviado consoladores? ¿No vienen más bien sus siervos a ti para reconocer, para espiar y para destruir la tierra?"
+        },
+        {
+            "id": "1ch19_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces Hanún tomó a los siervos de David y los rapó, y les cortó las vestiduras por la mitad, hasta las nalgas, y los despidió."
+        },
+        {
+            "id": "1ch19_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y fueron unos y dijeron a David de cómo aquellos varones habían sido tratados; y él envió a recibirlos, porque estaban muy avergonzados. Y el rey les dijo:"
+        },
+        {
+            "id": "1ch19_5b",
+            "speaker": "David",
+            "verse": 5,
+            "text": "Quedaos en Jericó hasta que os crezca la barba, y entonces volveréis."
+        },
+        {
+            "id": "1ch19_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y viendo los hijos de Amón que se habían hecho odiosos a David, Hanún y los hijos de Amón enviaron mil talentos de plata, para tomar a sueldo carros y gente de a caballo de Mesopotamia, de Siria, de Maaca y de Soba."
+        },
+        {
+            "id": "1ch19_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y tomaron a sueldo treinta y dos mil carros, y al rey de Maaca y a su pueblo, los cuales vinieron y acamparon delante de Medeba. Y se juntaron también los hijos de Amón de sus ciudades, y vinieron a la guerra."
+        },
+        {
+            "id": "1ch19_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Oyéndolo David, envió a Joab con todo el ejército de los hombres valientes."
+        },
+        {
+            "id": "1ch19_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los hijos de Amón salieron, y ordenaron su tropa a la entrada de la ciudad; y los reyes que habían venido, estaban aparte en el campo."
+        },
+        {
+            "id": "1ch19_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y viendo Joab que la batalla estaba contra él por el frente y por la retaguardia, escogió de los más aventajados que había en Israel, y ordenó su escuadrón contra los sirios."
+        },
+        {
+            "id": "1ch19_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Puso luego el resto de la gente en mano de Abisai su hermano, y los ordenó en batalla contra los amonitas."
+        },
+        {
+            "id": "1ch19_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "1ch19_12b",
+            "speaker": "Joab",
+            "verse": 12,
+            "text": "Si los sirios fueren más fuertes que yo, tú me ayudarás; y si los amonitas fueren más fuertes que tú, yo te ayudaré."
+        },
+        {
+            "id": "1ch19_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Esfuérzate y mostremos hombría, por nuestro pueblo y por las ciudades de nuestro Dios; y que haga Jehová lo que bien le pareciere."
+        },
+        {
+            "id": "1ch19_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Se acercó luego Joab y el pueblo que tenía consigo, para pelear contra los sirios; mas ellos huyeron delante de él."
+        },
+        {
+            "id": "1ch19_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y los hijos de Amón, viendo que los sirios habían huido, huyeron también ellos delante de Abisai su hermano, y entraron en la ciudad. Entonces Joab se volvió a Jerusalén."
+        },
+        {
+            "id": "1ch19_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y viendo los sirios que habían caído delante de Israel, enviaron embajadores, y trajeron a los sirios que estaban al otro lado del río, cuyo capitán era Sofac, general del ejército de Hadad-ezer."
+        },
+        {
+            "id": "1ch19_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Luego que fue dado aviso a David, reunió a todo Israel, y pasando el Jordán vino a ellos, y ordenó contra ellos su ejército. Y cuando David hubo ordenado su tropa contra ellos, pelearon contra él los sirios."
+        },
+        {
+            "id": "1ch19_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pero los sirios huyeron delante de Israel; y David mató de los sirios a siete mil hombres de los carros, y a cuarenta mil hombres de a pie; y también mató a Sofac, general del ejército."
+        },
+        {
+            "id": "1ch19_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y viendo los sirios de Hadad-ezer que habían caído delante de Israel, concertaron paz con David, y fueron sus siervos; y nunca más quiso el sirio ayudar a los hijos de Amón."
+        }
+    ]
+}

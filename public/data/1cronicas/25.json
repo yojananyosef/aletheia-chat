@@ -1,0 +1,193 @@
+{
+    "book": "1 Crónicas",
+    "chapter": 25,
+    "title": "1 Crónicas 25",
+    "messages": [
+        {
+            "id": "1ch25_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Asimismo David y los príncipes del ejército apartaron para el ministerio a los hijos de Asaf, y de Hemán y de Jedutún, para que profetizasen con arpas, salterios y címbalos; y el número de ellos, hombres idóneos para la obra de su ministerio respectivo fue:"
+        },
+        {
+            "id": "1ch25_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "De los hijos de Asaf: Zacur, José, Netanías y Asareela, hijos de Asaf, bajo la dirección de Asaf, el cual profetizaba a la orden del rey."
+        },
+        {
+            "id": "1ch25_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "De Jedutún: los hijos de Jedutún, Gedalías, Zeri, Jesahías, Hasabías y Matatías; seis, bajo la mano de su padre Jedutún, el cual profetizaba con arpa, para dar gracias y alabar a Jehová."
+        },
+        {
+            "id": "1ch25_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "De Hemán: los hijos de Hemán, Buquía, Matanías, Uziel, Sebuel, Jerimot, Hananías, Hanani, Eliata, Gidalti, Romamti-ezer, Josbecasa, Maloti, Otir y Mahaziot."
+        },
+        {
+            "id": "1ch25_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Todos éstos fueron hijos de Hemán, vidente del rey en palabras de Dios, para exaltar su poder; y dio Dios a Hemán catorce hijos y tres hijas."
+        },
+        {
+            "id": "1ch25_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y todos éstos estaban bajo la dirección de su padre en la música, en la casa de Jehová, con címbalos, salterios y arpas, para el ministerio del templo de Dios, por disposición del rey acerca de Asaf, de Jedutún y de Hemán."
+        },
+        {
+            "id": "1ch25_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y el número de ellos con sus hermanos instruidos en música de Jehová, todos los aptos, fue doscientos ochenta y ocho."
+        },
+        {
+            "id": "1ch25_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y echaron suertes para los turnos del servicio, entrando el pequeño con el grande, lo mismo el maestro que el discípulo."
+        },
+        {
+            "id": "1ch25_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y la primera suerte tocó por Asaf, a José: la segunda a Gedalías, quien con sus hermanos e hijos fueron doce;"
+        },
+        {
+            "id": "1ch25_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "la tercera a Zacur, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "la cuarta a Isri, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "la quinta a Netanías, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "la sexta a Buquía, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "la séptima a Jesarela, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "la octava a Jesahías, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "la novena a Matanías, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "la décima a Simeí, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "la undécima a Azareel, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "la duodécima a Hasabías, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "la decimotercera a Subael, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "la decimocuarta a Matatías, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "la decimoquinta a Jerimot, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "la decimosexta a Hananías, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "la decimoséptima a Josbecasa, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "la decimoctava a Hanani, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "la decimonovena a Maloti, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "la vigésima a Eliata, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "la vigesimoprimera a Otir, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "la vigesimosegunda a Gidalti, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "la vigesimotercera a Mahaziot, con sus hijos y sus hermanos, doce;"
+        },
+        {
+            "id": "1ch25_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "la vigesimocuarta a Romamti-ezer, con sus hijos y sus hermanos, doce."
+        }
+    ]
+}
