@@ -1,0 +1,68 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Faraón",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Capataces",
+    "confidence": 0.85
+  }
+]

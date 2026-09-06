@@ -1,0 +1,313 @@
+{
+    "book": "Éxodo",
+    "chapter": 16,
+    "title": "Éxodo 16",
+    "messages": [
+        {
+            "id": "e16_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y partiendo de Elim toda la congregación de los hijos de Israel, vino al desierto de Sin, que está entre Elim y Sinaí, a los quince días del mes segundo después que salieron de la tierra de Egipto."
+        },
+        {
+            "id": "e16_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y toda la congregación de los hijos de Israel murmuró contra Moisés y Aarón en el desierto."
+        },
+        {
+            "id": "e16_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y les decían los hijos de Israel:"
+        },
+        {
+            "id": "e16_3b",
+            "speaker": "Pueblo",
+            "verse": 3,
+            "text": "Mejor hubiéramos muerto por mano de Jehová en la tierra de Egipto, cuando nos sentábamos a las ollas de las carnes, cuando comíamos pan hasta saciarnos; pues nos habéis sacado a este desierto, para matar de hambre a toda esta multitud."
+        },
+        {
+            "id": "e16_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e16_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "He aquí yo os haré llover pan del cielo; y el pueblo saldrá, y recogerá una porción para cada día, para que yo lo pruebe si anda en mi ley, o no."
+        },
+        {
+            "id": "e16_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y sucederá que en el sexto día prepararán lo que han de recoger, que será el doble de lo que solían recoger cada día."
+        },
+        {
+            "id": "e16_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces dijo Moisés y Aarón a todos los hijos de Israel:"
+        },
+        {
+            "id": "e16_6b",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "A la tarde sabréis que Jehová os ha sacado de la tierra de Egipto:"
+        },
+        {
+            "id": "e16_7",
+            "speaker": "Moisés",
+            "verse": 7,
+            "text": "Y a la mañana veréis la gloria de Jehová; porque Él ha oído vuestras murmuraciones contra Jehová; porque nosotros, ¿qué somos, para que vosotros murmuréis contra nosotros?"
+        },
+        {
+            "id": "e16_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y dijo Moisés:"
+        },
+        {
+            "id": "e16_8b",
+            "speaker": "Moisés",
+            "verse": 8,
+            "text": "Jehová os dará a la tarde carne para comer, y a la mañana pan en abundancia; por cuanto Jehová ha oído vuestras murmuraciones con que habéis murmurado contra Él: y, ¿qué somos nosotros? Vuestras murmuraciones no son contra nosotros, sino contra Jehová."
+        },
+        {
+            "id": "e16_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Moisés a Aarón:"
+        },
+        {
+            "id": "e16_9b",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Di a toda la congregación de los hijos de Israel: Acercaos a la presencia de Jehová; que Él ha oído vuestras murmuraciones."
+        },
+        {
+            "id": "e16_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y hablando Aarón a toda la congregación de los hijos de Israel, miraron hacia el desierto, y he aquí la gloria de Jehová, que apareció en la nube."
+        },
+        {
+            "id": "e16_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "e16_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Yo he oído las murmuraciones de los hijos de Israel; háblales, diciendo:"
+        },
+        {
+            "id": "e16_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Entre las dos tardes comeréis carne, y por la mañana os saciaréis de pan, y sabréis que yo soy Jehová vuestro Dios."
+        },
+        {
+            "id": "e16_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y venida la tarde subieron codornices que cubrieron el campamento; y a la mañana descendió rocío en derredor del campamento."
+        },
+        {
+            "id": "e16_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y cuando el rocío cesó de descender, he aquí había sobre la faz del desierto una cosa menuda, redonda, menuda como una escarcha sobre la tierra."
+        },
+        {
+            "id": "e16_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y viéndolo los hijos de Israel, se dijeron unos a otros:"
+        },
+        {
+            "id": "e16_15b",
+            "speaker": "Pueblo",
+            "verse": 15,
+            "text": "¿Qué es esto? porque no sabían qué era."
+        },
+        {
+            "id": "e16_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces Moisés les dijo:"
+        },
+        {
+            "id": "e16_15d",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Es el pan que Jehová os da para comer."
+        },
+        {
+            "id": "e16_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Esto es lo que Jehová ha mandado: Recogeréis de él cada uno según pudiere comer; un gomer por cabeza, conforme al número de vuestras personas, tomaréis cada uno para los que están en su tienda."
+        },
+        {
+            "id": "e16_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los hijos de Israel lo hicieron así; y recogieron unos más, otros menos:"
+        },
+        {
+            "id": "e16_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y lo medían por gomer, y no sobraba al que había recogido mucho, ni faltaba al que había recogido poco: cada uno recogió conforme a lo que había de comer."
+        },
+        {
+            "id": "e16_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y les dijo Moisés:"
+        },
+        {
+            "id": "e16_19b",
+            "speaker": "Moisés",
+            "verse": 19,
+            "text": "Ninguno deje nada de ello para mañana."
+        },
+        {
+            "id": "e16_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas ellos no obedecieron a Moisés, sino que algunos dejaron de ello para otro día, y crió gusanos, y se pudrió; y se enojó contra ellos Moisés."
+        },
+        {
+            "id": "e16_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y lo recogían cada mañana, cada uno según lo que había de comer: y luego que el sol calentaba, se derretía."
+        },
+        {
+            "id": "e16_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "En el sexto día recogieron doble porción de comida, dos gomeres para cada uno; y todos los príncipes de la congregación vinieron a Moisés, y se lo hicieron saber."
+        },
+        {
+            "id": "e16_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "e16_23b",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Esto es lo que ha dicho Jehová: Mañana es el santo sábado, el reposo de Jehová: lo que hubiereis de cocer, cocedlo hoy, y lo que hubiereis de cocinar, cocinadlo; y todo lo que os sobrare, guardadlo para mañana."
+        },
+        {
+            "id": "e16_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y ellos lo guardaron hasta la mañana, según Moisés había mandado, y no se pudrió, ni hubo en él gusano."
+        },
+        {
+            "id": "e16_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y dijo Moisés:"
+        },
+        {
+            "id": "e16_25b",
+            "speaker": "Moisés",
+            "verse": 25,
+            "text": "Comedlo hoy, porque hoy es sábado de Jehová: hoy no hallaréis en el campo."
+        },
+        {
+            "id": "e16_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "En los seis días lo recogeréis; mas el séptimo día es sábado, en el cual no se hallará."
+        },
+        {
+            "id": "e16_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y aconteció que algunos del pueblo salieron en el séptimo día a recoger, y no hallaron."
+        },
+        {
+            "id": "e16_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e16_28b",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "¿Hasta cuándo no querréis guardar mis mandamientos y mis leyes?"
+        },
+        {
+            "id": "e16_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Mirad que Jehová os dio el sábado, y por eso os da en el sexto día pan para dos días. Quédese cada uno en su lugar; y que nadie salga de su lugar en el séptimo día."
+        },
+        {
+            "id": "e16_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Así el pueblo reposó el séptimo día."
+        },
+        {
+            "id": "e16_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y la casa de Israel lo llamó Maná; y era como semilla de cilantro, blanco, y su sabor como de hojuelas con miel."
+        },
+        {
+            "id": "e16_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y dijo Moisés:"
+        },
+        {
+            "id": "e16_32b",
+            "speaker": "Moisés",
+            "verse": 32,
+            "text": "Esto es lo que Jehová ha mandado: Llenarás un gomer de él para que se guarde para vuestros descendientes, a fin de que vean el pan que yo os di a comer en el desierto, cuando yo os saqué de la tierra de Egipto."
+        },
+        {
+            "id": "e16_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y dijo Moisés a Aarón:"
+        },
+        {
+            "id": "e16_33b",
+            "speaker": "Moisés",
+            "verse": 33,
+            "text": "Toma un vaso y pon en él un gomer lleno de maná, y ponlo delante de Jehová, para que sea guardado para vuestros descendientes."
+        },
+        {
+            "id": "e16_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y Aarón lo puso delante del Testimonio para guardarlo, como Jehová lo mandó a Moisés."
+        },
+        {
+            "id": "e16_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Así comieron los hijos de Israel maná cuarenta años, hasta que entraron en la tierra habitada; maná comieron hasta que llegaron al término de la tierra de Canaán."
+        },
+        {
+            "id": "e16_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y un gomer es la décima parte del efa."
+        }
+    ]
+}

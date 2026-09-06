@@ -1,0 +1,229 @@
+{
+    "book": "Éxodo",
+    "chapter": 6,
+    "title": "Éxodo 6",
+    "messages": [
+        {
+            "id": "e6_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces Jehová respondió a Moisés:"
+        },
+        {
+            "id": "e6_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Ahora verás lo que yo haré a Faraón; porque con mano fuerte los ha de dejar ir; y con mano fuerte los ha de echar de su tierra."
+        },
+        {
+            "id": "e6_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Habló todavía Dios a Moisés, y le dijo:"
+        },
+        {
+            "id": "e6_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Yo soy JEHOVÁ;"
+        },
+        {
+            "id": "e6_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "y aparecí a Abraham, a Isaac y a Jacob por el nombre de Dios Omnipotente, pues por mi nombre JEHOVÁ yo no era conocido de ellos."
+        },
+        {
+            "id": "e6_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y también establecí mi pacto con ellos, de darles la tierra de Canaán, la tierra en que fueron extranjeros, y en la cual peregrinaron."
+        },
+        {
+            "id": "e6_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y asimismo yo he oído el gemido de los hijos de Israel, a quienes hacen servir los egipcios, y me he acordado de mi pacto."
+        },
+        {
+            "id": "e6_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Por tanto dirás a los hijos de Israel: YO JEHOVÁ; y yo os sacaré de debajo de las cargas de Egipto, y os libraré de su servidumbre, y os redimiré con brazo extendido, y con juicios grandes:"
+        },
+        {
+            "id": "e6_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y os tomaré por mi pueblo y seré vuestro Dios: y vosotros sabréis que yo soy Jehová vuestro Dios, que os saco de debajo de las cargas de Egipto:"
+        },
+        {
+            "id": "e6_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y os meteré en la tierra, por la cual alcé mi mano que la daría a Abraham, a Isaac y a Jacob: y yo os la daré por heredad. YO JEHOVÁ."
+        },
+        {
+            "id": "e6_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "De esta manera habló Moisés a los hijos de Israel:"
+        },
+        {
+            "id": "e6_9b",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "mas ellos no escuchaban a Moisés a causa de la congoja de espíritu, y de la dura servidumbre."
+        },
+        {
+            "id": "e6_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y habló Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "e6_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Entra, y habla a Faraón, rey de Egipto, que deje ir de su tierra a los hijos de Israel."
+        },
+        {
+            "id": "e6_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y respondió Moisés delante de Jehová, diciendo:"
+        },
+        {
+            "id": "e6_12b",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "He aquí, los hijos de Israel no me escuchan: ¿cómo, pues, me escuchará Faraón, siendo yo de labios incircuncisos?"
+        },
+        {
+            "id": "e6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Jehová habló a Moisés y a Aarón, y les dio mandamiento para los hijos de Israel, y para Faraón, rey de Egipto, para que sacasen a los hijos de Israel de la tierra de Egipto."
+        },
+        {
+            "id": "e6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Éstas son las cabezas de las familias de sus padres. Los hijos de Rubén, el primogénito de Israel: Enoc y Falú, Hezrón y Carmi; éstas son las familias de Rubén."
+        },
+        {
+            "id": "e6_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Los hijos de Simeón: Jemuel, y Jamín, y Ohad, y Jaquín, y Zoar, y Saúl, hijo de una cananea; éstas son las familias de Simeón."
+        },
+        {
+            "id": "e6_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y éstos son los nombres de los hijos de Leví por sus linajes: Gersón, y Coat, y Merari: Y los años de la vida de Leví fueron ciento treinta y siete años."
+        },
+        {
+            "id": "e6_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los hijos de Gersón: Libni, y Simeí, por sus familias."
+        },
+        {
+            "id": "e6_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y los hijos de Coat: Amram, e Izhar, y Hebrón, y Uziel. Y los años de la vida de Coat fueron ciento treinta y tres años."
+        },
+        {
+            "id": "e6_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y los hijos de Merari: Mahali y Musi: éstas son las familias de Leví por sus linajes."
+        },
+        {
+            "id": "e6_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Amram tomó por esposa a Jocabed su tía, la cual le dio a luz a Aarón y a Moisés. Y los años de la vida de Amram fueron ciento treinta y siete años."
+        },
+        {
+            "id": "e6_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y los hijos de Izhar: Coré, y Nefeg y Zicri."
+        },
+        {
+            "id": "e6_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y los hijos de Uziel: Misael, Elizafán y Zitri."
+        },
+        {
+            "id": "e6_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y tomó Aarón por esposa a Elisabet, hija de Aminadab, hermana de Naasón; la cual le dio a luz a Nadab, y a Abiú, y a Eleazar, y a Itamar."
+        },
+        {
+            "id": "e6_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y los hijos de Coré: Asir, y Elcana y Abiasaf; éstas son las familias de los coreítas."
+        },
+        {
+            "id": "e6_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Eleazar, hijo de Aarón, tomó para sí esposa de las hijas de Futiel, la cual le dio a luz a Finees: Y éstas son las cabezas de los padres de los levitas por sus familias."
+        },
+        {
+            "id": "e6_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Éste es aquel Aarón y aquel Moisés, a los cuales Jehová dijo:"
+        },
+        {
+            "id": "e6_26b",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Sacad a los hijos de Israel de la tierra de Egipto por sus escuadrones."
+        },
+        {
+            "id": "e6_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Éstos son los que hablaron a Faraón, rey de Egipto, para sacar de Egipto a los hijos de Israel. Moisés y Aarón fueron éstos."
+        },
+        {
+            "id": "e6_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y sucedió en el día cuando Jehová habló a Moisés en la tierra de Egipto,"
+        },
+        {
+            "id": "e6_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Que Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "e6_29b",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Yo soy JEHOVÁ; di a Faraón, rey de Egipto todas las cosas que yo te digo a ti."
+        },
+        {
+            "id": "e6_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y Moisés respondió delante de Jehová:"
+        },
+        {
+            "id": "e6_30b",
+            "speaker": "Moisés",
+            "verse": 30,
+            "text": "He aquí, yo soy de labios incircuncisos, ¿cómo, pues, me ha de oír Faraón?"
+        }
+    ]
+}

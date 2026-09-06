@@ -291,7 +291,13 @@
             "id": "e4_27b",
             "speaker": "Dios",
             "verse": 27,
-            "text": "Ve a recibir a Moisés al desierto. Y él fue, y lo encontró en el monte de Dios, y le besó."
+            "text": "Ve a recibir a Moisés al desierto."
+        },
+        {
+            "id": "e4_27c",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y él fue, y lo encontró en el monte de Dios, y le besó."
         },
         {
             "id": "e4_28",

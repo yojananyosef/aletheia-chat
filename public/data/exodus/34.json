@@ -1,0 +1,241 @@
+{
+    "book": "Éxodo",
+    "chapter": 34,
+    "title": "Éxodo 34",
+    "messages": [
+        {
+            "id": "e34_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e34_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Alísate dos tablas de piedra como las primeras, y escribiré sobre esas tablas las palabras que estaban en las tablas primeras que quebraste."
+        },
+        {
+            "id": "e34_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Apercíbete, pues, para mañana, y sube por la mañana al monte de Sinaí, y preséntate allí ante mí, sobre la cumbre del monte."
+        },
+        {
+            "id": "e34_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y no suba hombre contigo, ni parezca alguno en todo el monte; ni ovejas ni bueyes pazcan delante del monte."
+        },
+        {
+            "id": "e34_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y Moisés alisó dos tablas de piedra como las primeras; y se levantó por la mañana, y subió al monte de Sinaí, como le mandó Jehová, y llevó en su mano las dos tablas de piedra."
+        },
+        {
+            "id": "e34_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y Jehová descendió en la nube, y estuvo allí con él, proclamando el nombre de Jehová."
+        },
+        {
+            "id": "e34_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y pasando Jehová por delante de él, proclamó: Jehová, Jehová, Dios misericordioso y piadoso; lento para la ira y grande en benignidad y verdad;"
+        },
+        {
+            "id": "e34_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo dará por inocente al culpable; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, hasta la tercera, y cuarta generación."
+        },
+        {
+            "id": "e34_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Entonces Moisés, apresurándose, bajó la cabeza hacia el suelo y adoró;"
+        },
+        {
+            "id": "e34_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "e34_9b",
+            "speaker": "Moisés",
+            "verse": 9,
+            "text": "Si ahora, Señor, he hallado gracia en tus ojos, vaya ahora el Señor en medio de nosotros; porque éste es pueblo de dura cerviz; y perdona nuestra iniquidad y nuestro pecado, y tómanos por tu heredad."
+        },
+        {
+            "id": "e34_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "e34_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "He aquí, yo hago pacto delante de todo tu pueblo: haré maravillas que no han sido hechas en toda la tierra, ni en nación alguna; y verá todo el pueblo en medio del cual estás tú, la obra de Jehová; porque será cosa terrible la que yo haré contigo."
+        },
+        {
+            "id": "e34_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Guarda lo que yo te mando hoy; he aquí que yo echo de delante de tu presencia al amorreo, y al cananeo, y al heteo, y al ferezeo, y al heveo, y al jebuseo."
+        },
+        {
+            "id": "e34_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Guárdate que no hagas alianza con los moradores de la tierra donde has de entrar, para que no sean tropezadero en medio de ti:"
+        },
+        {
+            "id": "e34_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Mas derribaréis sus altares, y quebraréis sus estatuas, y talaréis sus imágenes de Asera."
+        },
+        {
+            "id": "e34_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Porque no adorarás a dios ajeno; pues Jehová, cuyo nombre es Celoso, Dios celoso es."
+        },
+        {
+            "id": "e34_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Por tanto no harás alianza con los moradores de aquella tierra; porque fornicarán en pos de sus dioses, y sacrificarán a sus dioses, y te llamarán, y comerás de sus sacrificios;"
+        },
+        {
+            "id": "e34_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "o tomando de sus hijas para tus hijos, y fornicando sus hijas en pos de sus dioses, harán también fornicar a tus hijos en pos de los dioses de ellas."
+        },
+        {
+            "id": "e34_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "No te harás dioses de fundición."
+        },
+        {
+            "id": "e34_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "La fiesta de los panes sin levadura guardarás: siete días comerás pan sin levadura, según te he mandado, en el tiempo del mes de Abib; porque en el mes de Abib saliste de Egipto."
+        },
+        {
+            "id": "e34_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Todo lo que abre la matriz, mío es; y de tu ganado todo primogénito de vaca o de oveja que fuere macho."
+        },
+        {
+            "id": "e34_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Pero redimirás con cordero el primogénito del asno; y si no lo redimieres, entonces le quebrarás la cerviz. Redimirás todo primogénito de tus hijos, y ninguno se presentará delante de mí con las manos vacías."
+        },
+        {
+            "id": "e34_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Seis días trabajarás, mas en el séptimo día descansarás: Descansarás aun en la arada y en la siega."
+        },
+        {
+            "id": "e34_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y te harás la fiesta de las semanas a los principios de la siega del trigo: y la fiesta de la cosecha a la vuelta del año."
+        },
+        {
+            "id": "e34_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Tres veces en el año se presentarán todos tus varones delante de Jehová el Señor, Dios de Israel."
+        },
+        {
+            "id": "e34_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Porque yo arrojaré las naciones de tu presencia, y ensancharé tu término: y ninguno codiciará tu tierra, cuando tú subieres para presentarte delante de Jehová tu Dios tres veces en el año."
+        },
+        {
+            "id": "e34_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "No ofrecerás con leudo la sangre de mi sacrificio; ni quedará de la noche para la mañana el sacrificio de la fiesta de la pascua."
+        },
+        {
+            "id": "e34_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "La primicia de los primeros frutos de tu tierra meterás en la casa de Jehová tu Dios. No cocerás el cabrito en la leche de su madre."
+        },
+        {
+            "id": "e34_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e34_27b",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Escribe tú estas palabras; porque conforme a estas palabras he hecho pacto contigo y con Israel."
+        },
+        {
+            "id": "e34_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Y él estuvo allí con Jehová cuarenta días y cuarenta noches: no comió pan, ni bebió agua; y escribió en tablas las palabras del pacto, los diez mandamientos."
+        },
+        {
+            "id": "e34_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y aconteció, que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía del monte, no sabía él que la tez de su rostro resplandecía, después que hubo con Él hablado."
+        },
+        {
+            "id": "e34_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y miró Aarón y todos los hijos de Israel a Moisés, y he aquí la tez de su rostro era resplandeciente; y tuvieron miedo de acercarse a él."
+        },
+        {
+            "id": "e34_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y los llamó Moisés; y Aarón y todos los príncipes de la congregación volvieron a él, y Moisés les habló."
+        },
+        {
+            "id": "e34_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y después se acercaron todos los hijos de Israel, a los cuales mandó todas las cosas que Jehová le había dicho en el monte de Sinaí."
+        },
+        {
+            "id": "e34_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y cuando hubo acabado Moisés de hablar con ellos, puso un velo sobre su rostro."
+        },
+        {
+            "id": "e34_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y cuando venía Moisés delante de Jehová para hablar con Él, se quitaba el velo hasta que salía; y saliendo, hablaba con los hijos de Israel lo que le era mandado;"
+        },
+        {
+            "id": "e34_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "y veían los hijos de Israel el rostro de Moisés, que la tez de su rostro era resplandeciente; y volvía Moisés a poner el velo sobre su rostro, hasta que entraba a hablar con Él."
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "book": "Éxodo",
+    "chapter": 22,
+    "title": "Éxodo 22",
+    "messages": [
+        {
+            "id": "e22_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Cuando alguno hurtare buey u oveja, y le degollare o vendiere, por aquel buey pagará cinco bueyes, y por aquella oveja, cuatro ovejas."
+        },
+        {
+            "id": "e22_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que le hirió no será culpado de su muerte."
+        },
+        {
+            "id": "e22_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y si el sol ya había salido sobre él; el matador será reo de homicidio. El ladrón hará completa restitución; si no tuviere con qué, será vendido por su hurto."
+        },
+        {
+            "id": "e22_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Si fuere hallado con el hurto en la mano, sea buey o asno u oveja vivos, pagará el doble."
+        },
+        {
+            "id": "e22_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Si alguno hiciere pacer campo o viña, y metiere su bestia, y comiere la tierra de otro, de lo mejor de su tierra y de lo mejor de su viña, pagará restitución."
+        },
+        {
+            "id": "e22_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Cuando un fuego se extendiere y tomare espinas, y quemare gavillas amontonadas, o en pie, o campo, el que encendió el fuego pagará lo quemado."
+        },
+        {
+            "id": "e22_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Cuando alguno diere a su prójimo plata o alhajas a guardar, y fuere hurtado de la casa de aquel hombre, si el ladrón se hallare, pagará el doble."
+        },
+        {
+            "id": "e22_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Si el ladrón no se hallare, entonces el dueño de la casa será presentado a los jueces, para ver si ha metido su mano en la hacienda de su prójimo."
+        },
+        {
+            "id": "e22_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Sobre todo asunto de fraude, sobre buey, sobre asno, sobre oveja, sobre vestido o sobre cualquier cosa perdida, cuando uno dijere:"
+        },
+        {
+            "id": "e22_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Esto es mío, la causa de ambos será traída ante los jueces; y aquel a quien los jueces condenaren, pagará el doble a su prójimo."
+        },
+        {
+            "id": "e22_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Si alguno hubiere dado a su prójimo asno, o buey, u oveja, o cualquier otro animal a guardar, y se muriere o se perniquebrare, o fuere llevado sin verlo nadie;"
+        },
+        {
+            "id": "e22_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Juramento de Jehová tendrá lugar entre ambos de que no echó su mano a los bienes de su prójimo: y su dueño lo aceptará, y el otro no pagará."
+        },
+        {
+            "id": "e22_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Mas si le hubiere sido hurtado, resarcirá a su dueño."
+        },
+        {
+            "id": "e22_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y si le hubiere sido arrebatado por fiera, le traerá testimonio, y no pagará lo arrebatado."
+        },
+        {
+            "id": "e22_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Pero si alguno hubiere tomado prestada bestia de su prójimo, y fuere estropeada o muerta, ausente su dueño, deberá pagarla."
+        },
+        {
+            "id": "e22_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Si el dueño estaba presente, no la pagará. Si era alquilada, él vendrá por su alquiler."
+        },
+        {
+            "id": "e22_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y si alguno engañare a alguna doncella que no fuere desposada, y se acostare con ella, deberá dotarla y tomarla por esposa."
+        },
+        {
+            "id": "e22_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Si su padre no quisiere dársela, él le pesará plata conforme a la dote de las vírgenes."
+        },
+        {
+            "id": "e22_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "No dejarás que viva la hechicera."
+        },
+        {
+            "id": "e22_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Cualquiera que tuviere ayuntamiento con bestia, morirá."
+        },
+        {
+            "id": "e22_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "El que sacrificare a dioses, excepto a sólo Jehová, será muerto."
+        },
+        {
+            "id": "e22_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Y al extranjero no engañarás, ni angustiarás, porque extranjeros fuisteis vosotros en la tierra de Egipto."
+        },
+        {
+            "id": "e22_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "A ninguna viuda ni huérfano afligiréis."
+        },
+        {
+            "id": "e22_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Que si tú llegas a afligirles, y ellos clamaren a mí, ciertamente oiré yo su clamor;"
+        },
+        {
+            "id": "e22_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "y mi furor se encenderá y os mataré a espada, y vuestras esposas quedarán viudas y huérfanos vuestros hijos."
+        },
+        {
+            "id": "e22_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Si prestares dinero a algún pobre de los de mi pueblo que está contigo, no serás usurero para con él; no le impondrás usura."
+        },
+        {
+            "id": "e22_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Si tomares en prenda la vestidura de tu prójimo, a la puesta del sol se lo volverás:"
+        },
+        {
+            "id": "e22_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Porque sólo aquella es su cubierta, es la vestidura para cubrir su piel. ¿En qué dormirá? Y será que cuando él a mí clamare, yo entonces le oiré, porque soy misericordioso."
+        },
+        {
+            "id": "e22_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "A los jueces no injuriarás, ni maldecirás al príncipe de tu pueblo."
+        },
+        {
+            "id": "e22_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "No demorarás en dar la primicia de tu cosecha, ni de tu lagar. Me darás el primogénito de tus hijos."
+        },
+        {
+            "id": "e22_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Así harás con el de tu buey y de tu oveja; siete días estará con su madre, y al octavo día me lo darás."
+        },
+        {
+            "id": "e22_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Y habéis de serme varones santos: y no comeréis carne arrebatada de las fieras en el campo; a los perros la echaréis."
+        }
+    ]
+}

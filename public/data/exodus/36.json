@@ -1,0 +1,247 @@
+{
+    "book": "Éxodo",
+    "chapter": 36,
+    "title": "Éxodo 36",
+    "messages": [
+        {
+            "id": "e36_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Bezaleel, Aholiab y todo hombre sabio de corazón a quien Jehová dio sabiduría e inteligencia para saber hacer toda la obra del servicio del santuario, harán todas las cosas que ha mandado Jehová."
+        },
+        {
+            "id": "e36_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Moisés llamó a Bezaleel y a Aholiab, y a todo varón sabio de corazón, en cuyo corazón había dado Jehová sabiduría, y a todo hombre a quien su corazón le movió a venir a la obra para trabajar en ella."
+        },
+        {
+            "id": "e36_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y recibieron de Moisés toda la ofrenda que los hijos de Israel habían traído para la obra del servicio del santuario, a fin de hacerla. Y ellos seguían trayendo ofrendas voluntarias cada mañana."
+        },
+        {
+            "id": "e36_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Vinieron, por tanto, todos los maestros que hacían toda la obra del santuario, cada uno de la obra que hacía."
+        },
+        {
+            "id": "e36_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y hablaron a Moisés, diciendo:"
+        },
+        {
+            "id": "e36_5b",
+            "speaker": "Artífices",
+            "verse": 5,
+            "text": "El pueblo trae mucho más de lo que se necesita para la obra del servicio que Jehová ha mandado que se haga."
+        },
+        {
+            "id": "e36_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Moisés mandó pregonar por el campamento, diciendo:"
+        },
+        {
+            "id": "e36_6b",
+            "speaker": "Moisés",
+            "verse": 6,
+            "text": "Ningún hombre ni mujer haga más obra para ofrecer para el santuario. Y así el pueblo fue impedido de ofrendar más;"
+        },
+        {
+            "id": "e36_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "pues tenían material abundante para hacer toda la obra, y sobraba."
+        },
+        {
+            "id": "e36_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y todos los sabios de corazón entre los que hacían la obra, hicieron el tabernáculo de diez cortinas, de lino torcido, y de azul, y de púrpura y carmesí; las cuales hicieron de obra de arte, con querubines."
+        },
+        {
+            "id": "e36_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "La longitud de una cortina era de veintiocho codos, y la anchura de cuatro codos: todas las cortinas tenían una misma medida."
+        },
+        {
+            "id": "e36_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y juntó las cinco cortinas la una con la otra: asimismo unió las otras cinco cortinas la una con la otra."
+        },
+        {
+            "id": "e36_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "E hizo las lazadas de azul en la orilla de una cortina, en el borde, a la juntura; y así hizo en la orilla al borde de la segunda cortina, en la juntura."
+        },
+        {
+            "id": "e36_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Cincuenta lazadas hizo en una cortina, y otras cincuenta en la segunda cortina, en el borde, en la juntura; las lazadas sostenían a una cortina con la otra."
+        },
+        {
+            "id": "e36_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Hizo también cincuenta corchetes de oro, con los cuales juntó las cortinas, la una con la otra; y se hizo un tabernáculo."
+        },
+        {
+            "id": "e36_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Hizo asimismo cortinas de pelo de cabras para la tienda sobre el tabernáculo, y las hizo en número de once."
+        },
+        {
+            "id": "e36_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "La longitud de una cortina era de treinta codos, y la anchura de cuatro codos; las once cortinas tenían una misma medida."
+        },
+        {
+            "id": "e36_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y juntó las cinco cortinas de por sí, y las seis cortinas aparte."
+        },
+        {
+            "id": "e36_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Hizo además cincuenta lazadas en la orilla de la postrera cortina en la juntura, y otras cincuenta lazadas en la orilla de la otra cortina en la juntura."
+        },
+        {
+            "id": "e36_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Hizo también cincuenta corchetes de bronce para juntar la tienda, de modo que fuese una."
+        },
+        {
+            "id": "e36_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "E hizo una cubierta para la tienda de pieles de carneros teñidas de rojo, y encima una cubierta de pieles de tejones."
+        },
+        {
+            "id": "e36_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Además hizo las tablas para el tabernáculo de madera de acacia, para estar derechas."
+        },
+        {
+            "id": "e36_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "La longitud de cada tabla era de diez codos, y de un codo y medio la anchura de cada tabla."
+        },
+        {
+            "id": "e36_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Cada tabla tenía dos espigas para unirlas una con otra; así hizo todas las tablas del tabernáculo."
+        },
+        {
+            "id": "e36_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Hizo, pues, las tablas para el tabernáculo; veinte tablas al lado del mediodía, al sur."
+        },
+        {
+            "id": "e36_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Hizo también las cuarenta bases de plata debajo de las veinte tablas; dos bases debajo de una tabla para sus dos espigas, y dos bases debajo de la otra tabla para sus dos espigas."
+        },
+        {
+            "id": "e36_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y para el otro lado del tabernáculo, al lado norte, hizo veinte tablas,"
+        },
+        {
+            "id": "e36_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "con sus cuarenta bases de plata: dos bases debajo de la una tabla, y dos bases debajo de la otra tabla."
+        },
+        {
+            "id": "e36_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y para el lado occidental del tabernáculo hizo seis tablas."
+        },
+        {
+            "id": "e36_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Para las esquinas del tabernáculo en los dos lados hizo dos tablas,"
+        },
+        {
+            "id": "e36_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "las cuales se juntaban por abajo, y asimismo por arriba a un gozne; y así hizo a la una y a la otra en las dos esquinas."
+        },
+        {
+            "id": "e36_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Eran, pues, ocho tablas, y sus bases de plata dieciséis; dos bases debajo de cada tabla."
+        },
+        {
+            "id": "e36_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Hizo también las vigas de madera de acacia; cinco para las tablas de un lado del tabernáculo,"
+        },
+        {
+            "id": "e36_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y cinco vigas para las tablas del otro lado del tabernáculo, y cinco vigas para las tablas del lado del tabernáculo a la parte occidental."
+        },
+        {
+            "id": "e36_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "E hizo que la viga del medio pasase por medio de las tablas de un extremo al otro."
+        },
+        {
+            "id": "e36_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y cubrió las tablas de oro, e hizo de oro los anillos de ellas por donde pasasen las vigas: cubrió también de oro las vigas."
+        },
+        {
+            "id": "e36_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Hizo asimismo el velo de azul, y púrpura, y carmesí, y lino torcido, el cual hizo con querubines de obra de arte."
+        },
+        {
+            "id": "e36_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y para él hizo cuatro columnas de madera de acacia; y las cubrió de oro, los capiteles de las cuales eran de oro; e hizo para ellas cuatro bases de plata de fundición."
+        },
+        {
+            "id": "e36_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Hizo también el velo para la puerta del tabernáculo, de azul, y púrpura, y carmesí, y lino torcido, obra de recamador;"
+        },
+        {
+            "id": "e36_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y sus cinco columnas con sus capiteles: y cubrió las cabezas de ellas y sus molduras de oro: pero sus cinco bases las hizo de bronce."
+        }
+    ]
+}

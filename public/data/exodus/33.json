@@ -1,0 +1,205 @@
+{
+    "book": "Éxodo",
+    "chapter": 33,
+    "title": "Éxodo 33",
+    "messages": [
+        {
+            "id": "e33_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e33_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Ve, sube de aquí, tú y el pueblo que sacaste de la tierra de Egipto, a la tierra de la cual juré a Abraham, Isaac, y Jacob, diciendo: A tu simiente la daré:"
+        },
+        {
+            "id": "e33_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y yo enviaré delante de ti el Ángel, y echaré fuera al cananeo y al amorreo, y al heteo, y al ferezeo, y al heveo y al jebuseo:"
+        },
+        {
+            "id": "e33_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "(A la tierra que fluye leche y miel); porque yo no subiré en medio de ti, porque eres pueblo de dura cerviz, no sea que te consuma en el camino."
+        },
+        {
+            "id": "e33_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y oyendo el pueblo esta mala noticia, vistieron luto, y ninguno se puso sus atavíos:"
+        },
+        {
+            "id": "e33_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pues Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e33_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Di a los hijos de Israel: Vosotros sois pueblo de dura cerviz: en un momento subiré en medio de ti, y te consumiré; quítate, pues, ahora tus atavíos, para que yo sepa lo que te he de hacer."
+        },
+        {
+            "id": "e33_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces los hijos de Israel se despojaron de sus atavíos desde el monte Horeb."
+        },
+        {
+            "id": "e33_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Moisés tomó el tabernáculo, y lo levantó fuera del campamento, lejos del campamento, y lo llamó el Tabernáculo de la congregación. Y fue, que cualquiera que buscaba a Jehová, salía al tabernáculo de la congregación, que estaba fuera del campamento."
+        },
+        {
+            "id": "e33_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y sucedía que, cuando salía Moisés al tabernáculo, todo el pueblo se levantaba, y estaba cada cual en pie a la puerta de su tienda, y miraban en pos de Moisés, hasta que él entraba en el tabernáculo."
+        },
+        {
+            "id": "e33_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cuando Moisés entraba en el tabernáculo, la columna de nube descendía, y se ponía a la puerta del tabernáculo, y Jehová hablaba con Moisés."
+        },
+        {
+            "id": "e33_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y todo el pueblo miraba la columna de nube, que estaba a la puerta del tabernáculo, y todo el pueblo se levantaba, cada uno a la puerta de su tienda, y adoraba."
+        },
+        {
+            "id": "e33_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y hablaba Jehová a Moisés cara a cara, como habla cualquiera a su compañero. Y él volvía al campamento; mas el joven Josué, su criado, hijo de Nun, no se apartaba de en medio del tabernáculo."
+        },
+        {
+            "id": "e33_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo Moisés a Jehová:"
+        },
+        {
+            "id": "e33_12b",
+            "speaker": "Moisés",
+            "verse": 12,
+            "text": "Mira, tú me dices a mí: Saca este pueblo: y tú no me has declarado a quién has de enviar conmigo: sin embargo, tú dices: Yo te he conocido por tu nombre, y has hallado también gracia en mis ojos."
+        },
+        {
+            "id": "e33_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Ahora, pues, si he hallado gracia en tus ojos, te ruego que me muestres ahora tu camino, para que te conozca, y que halle gracia en tus ojos; y considera que este pueblo es tu gente."
+        },
+        {
+            "id": "e33_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "e33_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Mi presencia irá contigo, y te daré descanso."
+        },
+        {
+            "id": "e33_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "e33_15b",
+            "speaker": "Moisés",
+            "verse": 15,
+            "text": "Si tu presencia no ha de ir conmigo, no nos saques de aquí."
+        },
+        {
+            "id": "e33_16",
+            "speaker": "Moisés",
+            "verse": 16,
+            "text": "¿Y en qué se conocerá aquí que he hallado gracia en tus ojos, yo y tu pueblo, sino en andar tú con nosotros, y que yo y tu pueblo seamos apartados de todos los pueblos que están sobre la faz de la tierra?"
+        },
+        {
+            "id": "e33_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e33_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "También haré esto que has dicho, por cuanto has hallado gracia en mis ojos, y te he conocido por tu nombre."
+        },
+        {
+            "id": "e33_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Él entonces dijo:"
+        },
+        {
+            "id": "e33_18b",
+            "speaker": "Moisés",
+            "verse": 18,
+            "text": "Te ruego: Muéstrame tu gloria."
+        },
+        {
+            "id": "e33_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y le respondió:"
+        },
+        {
+            "id": "e33_19b",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Yo haré pasar todo mi bien delante de tu rostro, y proclamaré el nombre de Jehová delante de ti; y tendré misericordia del que tendré misericordia, y seré clemente para con el que seré clemente."
+        },
+        {
+            "id": "e33_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Dijo más:"
+        },
+        {
+            "id": "e33_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "No podrás ver mi rostro: porque no me verá hombre, y vivirá."
+        },
+        {
+            "id": "e33_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y dijo aún Jehová:"
+        },
+        {
+            "id": "e33_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "He aquí lugar junto a mí, y tú estarás sobre la peña:"
+        },
+        {
+            "id": "e33_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y será que, cuando pasare mi gloria, yo te pondré en una hendidura de la peña, y te cubriré con mi mano hasta que haya pasado:"
+        },
+        {
+            "id": "e33_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Después apartaré mi mano, y verás mis espaldas; mas no se verá mi rostro."
+        }
+    ]
+}

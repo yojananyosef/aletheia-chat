@@ -1,0 +1,247 @@
+{
+    "book": "Éxodo",
+    "chapter": 30,
+    "title": "Éxodo 30",
+    "messages": [
+        {
+            "id": "e30_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Harás asimismo un altar para quemar el incienso; de madera de acacia lo harás."
+        },
+        {
+            "id": "e30_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Su longitud será de un codo, y su anchura de un codo: será cuadrado: y su altura de dos codos: y sus cuernos serán de lo mismo."
+        },
+        {
+            "id": "e30_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y lo cubrirás de oro puro, su techado, y sus paredes en derredor, y sus cuernos; y le harás en derredor una cornisa de oro."
+        },
+        {
+            "id": "e30_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Le harás también dos anillos de oro debajo de su cornisa, a sus dos esquinas en ambos lados suyos, para meter las varas con que será llevado."
+        },
+        {
+            "id": "e30_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y harás las varas de madera de acacia, y las cubrirás de oro."
+        },
+        {
+            "id": "e30_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y lo pondrás delante del velo que está junto al arca del testimonio, delante del propiciatorio que está sobre el testimonio, donde yo me encontraré contigo."
+        },
+        {
+            "id": "e30_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y Aarón quemará incienso aromático sobre él; cada mañana cuando aderezare las lámparas lo quemará."
+        },
+        {
+            "id": "e30_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y cuando Aarón encienda las lámparas al anochecer, quemará el incienso sobre él; incienso perpetuo delante de Jehová por vuestras generaciones."
+        },
+        {
+            "id": "e30_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "No ofreceréis sobre él incienso extraño, ni holocausto, ni presente; ni tampoco derramaréis sobre él libación."
+        },
+        {
+            "id": "e30_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y sobre sus cuernos hará Aarón expiación una vez en el año con la sangre de la ofrenda por el pecado para expiación: una vez en el año hará expiación sobre él por vuestras generaciones; será muy santo a Jehová."
+        },
+        {
+            "id": "e30_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Jehová habló a Moisés, diciendo:"
+        },
+        {
+            "id": "e30_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Cuando tomares el número de los hijos de Israel conforme a la cuenta de ellos, cada uno dará a Jehová el rescate de su persona, cuando los contares, para que no haya en ellos mortandad cuando los hayas contado."
+        },
+        {
+            "id": "e30_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Esto dará todo el que pasare entre los que serán contados, medio siclo conforme al siclo del santuario. El siclo es de veinte geras; la mitad de un siclo será la ofrenda a Jehová."
+        },
+        {
+            "id": "e30_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Cualquiera que pasare entre los que serán contados, de veinte años arriba, dará la ofrenda a Jehová."
+        },
+        {
+            "id": "e30_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Ni el rico aumentará, ni el pobre disminuirá de medio siclo, cuando dieren la ofrenda a Jehová para hacer expiación por vuestras almas."
+        },
+        {
+            "id": "e30_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y tomarás de los hijos de Israel el dinero de las expiaciones, y lo darás para la obra del tabernáculo de la congregación: y será por memoria a los hijos de Israel delante de Jehová, para expiar vuestras personas."
+        },
+        {
+            "id": "e30_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Habló más Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "e30_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Harás también una fuente de bronce, con su base de bronce, para lavar; y la has de poner entre el tabernáculo de la congregación y el altar; y pondrás en ella agua."
+        },
+        {
+            "id": "e30_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y de ella se lavarán Aarón y sus hijos sus manos y sus pies:"
+        },
+        {
+            "id": "e30_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Cuando entraren en el tabernáculo de la congregación, se han de lavar con agua, para que no mueran: y cuando se acerquen al altar para ministrar, para quemar la ofrenda encendida para Jehová,"
+        },
+        {
+            "id": "e30_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "se lavarán las manos y los pies, para que no mueran. Y lo tendrán por estatuto perpetuo él y su simiente por sus generaciones."
+        },
+        {
+            "id": "e30_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Habló más Jehová a Moisés, diciendo:"
+        },
+        {
+            "id": "e30_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y tú has de tomar de las principales especias; de mirra excelente quinientos siclos, y de canela aromática la mitad, esto es, doscientos cincuenta, y de cálamo aromático doscientos cincuenta,"
+        },
+        {
+            "id": "e30_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "y de casia quinientos, al peso del santuario, y de aceite de olivas un hin:"
+        },
+        {
+            "id": "e30_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y harás de ello el aceite de la santa unción, superior ungüento, según el arte del perfumista, el cual será el aceite de la unción santa."
+        },
+        {
+            "id": "e30_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Con él ungirás el tabernáculo de la congregación, y el arca del testimonio,"
+        },
+        {
+            "id": "e30_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "y la mesa, y todos sus vasos, y el candelero, y todos sus vasos, y el altar del incienso,"
+        },
+        {
+            "id": "e30_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Y el altar del holocausto, todos sus vasos, y la fuente y su base."
+        },
+        {
+            "id": "e30_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Así los consagrarás, y serán cosas santísimas: todo lo que tocare en ellos, será santificado."
+        },
+        {
+            "id": "e30_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Ungirás también a Aarón y a sus hijos, y los consagrarás para que sean mis sacerdotes."
+        },
+        {
+            "id": "e30_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y hablarás a los hijos de Israel, diciendo:"
+        },
+        {
+            "id": "e30_31b",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Éste será mi aceite de la santa unción por vuestras generaciones."
+        },
+        {
+            "id": "e30_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "Sobre carne de hombre no será untado, ni haréis otro semejante, conforme a su composición: santo es; por santo habéis de tenerlo vosotros."
+        },
+        {
+            "id": "e30_33",
+            "speaker": "Dios",
+            "verse": 33,
+            "text": "Cualquiera que preparare ungüento semejante, y que pusiere de él sobre un extraño, será cortado de su pueblo."
+        },
+        {
+            "id": "e30_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Dijo además Jehová a Moisés:"
+        },
+        {
+            "id": "e30_34b",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "Tómate especias aromáticas, estacte y uña aromática y gálbano aromático e incienso puro; de todo en igual peso."
+        },
+        {
+            "id": "e30_35",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "Y harás de ello un perfume de confección según el arte del perfumador, bien mezclado, puro y santo."
+        },
+        {
+            "id": "e30_36",
+            "speaker": "Dios",
+            "verse": 36,
+            "text": "Y molerás parte de él muy fino, y lo pondrás delante del testimonio en el tabernáculo de la congregación, donde yo me encontraré contigo. Os será cosa santísima."
+        },
+        {
+            "id": "e30_37",
+            "speaker": "Dios",
+            "verse": 37,
+            "text": "Como el perfume que harás, no os haréis otro según su composición; te será cosa santa para Jehová."
+        },
+        {
+            "id": "e30_38",
+            "speaker": "Dios",
+            "verse": 38,
+            "text": "Cualquiera que hiciere otro como él para olerlo, será cortado de entre su pueblo."
+        }
+    ]
+}

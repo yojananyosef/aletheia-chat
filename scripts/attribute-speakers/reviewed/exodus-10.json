@@ -1,0 +1,38 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Faraón",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Faraón",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.8
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Jetro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Jetro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Jetro",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Jetro",
+    "confidence": 0.85
+  }
+]

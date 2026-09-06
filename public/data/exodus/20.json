@@ -1,0 +1,181 @@
+{
+    "book": "Éxodo",
+    "chapter": 20,
+    "title": "Éxodo 20",
+    "messages": [
+        {
+            "id": "e20_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y habló Dios todas estas palabras, diciendo:"
+        },
+        {
+            "id": "e20_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de siervos."
+        },
+        {
+            "id": "e20_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "No tendrás dioses ajenos delante de mí."
+        },
+        {
+            "id": "e20_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "No te harás imagen, ni ninguna semejanza de cosa que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra."
+        },
+        {
+            "id": "e20_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "No te inclinarás a ellas, ni las honrarás; porque yo, Jehová tu Dios, soy Dios celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen,"
+        },
+        {
+            "id": "e20_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y que hago misericordia a millares de los que me aman y guardan mis mandamientos."
+        },
+        {
+            "id": "e20_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano."
+        },
+        {
+            "id": "e20_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Te acordarás del día sábado para santificarlo."
+        },
+        {
+            "id": "e20_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Seis días trabajarás, y harás toda tu obra;"
+        },
+        {
+            "id": "e20_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "pero el séptimo día es el sábado de Jehová tu Dios: no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu ganado, ni tu extranjero que está dentro de tus puertas."
+        },
+        {
+            "id": "e20_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Porque en seis días hizo Jehová el cielo y la tierra, y el mar y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día sábado y lo santificó."
+        },
+        {
+            "id": "e20_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da."
+        },
+        {
+            "id": "e20_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "No matarás."
+        },
+        {
+            "id": "e20_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "No cometerás adulterio."
+        },
+        {
+            "id": "e20_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "No hurtarás."
+        },
+        {
+            "id": "e20_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "No hablarás falso testimonio contra tu prójimo."
+        },
+        {
+            "id": "e20_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "No codiciarás la casa de tu prójimo, no codiciarás la esposa de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
+        },
+        {
+            "id": "e20_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Todo el pueblo percibía los truenos y los relámpagos, y el sonido de la trompeta, y el monte que humeaba. Y viéndolo el pueblo, temblaron, y se pusieron de lejos."
+        },
+        {
+            "id": "e20_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y dijeron a Moisés:"
+        },
+        {
+            "id": "e20_19b",
+            "speaker": "Pueblo",
+            "verse": 19,
+            "text": "Habla tú con nosotros, que nosotros oiremos; mas no hable Dios con nosotros, para que no muramos."
+        },
+        {
+            "id": "e20_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Moisés respondió al pueblo:"
+        },
+        {
+            "id": "e20_20b",
+            "speaker": "Moisés",
+            "verse": 20,
+            "text": "No temáis; que para probaros vino Dios, y para que su temor esté en vuestra presencia y no pequéis."
+        },
+        {
+            "id": "e20_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces el pueblo se puso de lejos, y Moisés se acercó a la oscuridad en la cual estaba Dios."
+        },
+        {
+            "id": "e20_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Jehová dijo a Moisés:"
+        },
+        {
+            "id": "e20_22b",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Así dirás a los hijos de Israel: Vosotros habéis visto que he hablado desde el cielo con vosotros."
+        },
+        {
+            "id": "e20_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "No hagáis conmigo dioses de plata, ni dioses de oro os haréis."
+        },
+        {
+            "id": "e20_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Altar de tierra harás para mí, y sacrificarás sobre él tus holocaustos y tus ofrendas de paz, tus ovejas y tus vacas: en cualquier lugar donde yo hiciere que esté la memoria de mi nombre, vendré a ti, y te bendeciré."
+        },
+        {
+            "id": "e20_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y si me haces un altar de piedras, no las labres de cantería; porque si alzas tu herramienta sobre él, lo profanarás."
+        },
+        {
+            "id": "e20_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Y no subirás por gradas a mi altar, para que tu desnudez no sea descubierta sobre él."
+        }
+    ]
+}
