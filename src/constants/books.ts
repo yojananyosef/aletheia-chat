@@ -29,11 +29,10 @@ export const BIBLE_BOOKS: BookInfo[] = [
     {
         id: 'numeros',
         name: 'Números',
-        availableChapters: [],
-        isLocked: true,
+        availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
         category: 'Pentateuco',
         description: 'El censo y el vagabundeo de Israel por el desierto.',
-        participants: ['Moisés']
+        participants: ['Dios', 'Narrador', 'Moisés', 'Aarón', 'Josué', 'María', 'Pueblo', 'Multitud', 'Balaam', 'Balac', 'Coré', 'Caleb', 'Hobab', 'Edom', 'Eleazar', 'Asna', 'Mensajeros', 'Espías', 'Datán y Abiram', 'Israel', 'Gad y Rubén', 'Galaaditas', 'Capitanes', 'Hijas de Zelofehad', 'Joven', 'Príncipes', 'Hombres', 'Ángel']
     },
     {
         id: 'deuteronomio',
