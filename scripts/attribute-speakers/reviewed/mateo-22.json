@@ -1,5 +1,17 @@
 [
   {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.8
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 8,
     "subId": "b",
     "speaker": "Jesús",
@@ -15,6 +27,12 @@
     "verse": 13,
     "subId": "b",
     "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Discípulos",
     "confidence": 0.9
   },
   {
@@ -42,6 +60,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Saduceos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Doctor",
+    "confidence": 0.9
+  },
+  {
     "verse": 42,
     "subId": "b",
     "speaker": "Jesús",
@@ -63,18 +93,6 @@
     "verse": 44,
     "subId": "b",
     "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
-    "verse": 4,
-    "subId": "b",
-    "speaker": "Jesús",
-    "confidence": 0.8
-  },
-  {
-    "verse": 25,
-    "subId": "",
-    "speaker": "Saduceos",
     "confidence": 0.85
   }
 ]

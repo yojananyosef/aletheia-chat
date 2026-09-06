@@ -89,13 +89,13 @@
         },
         {
             "id": "mat26_12",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 12,
             "text": "Porque derramando este ungüento sobre mi cuerpo, para mi sepultura lo ha hecho."
         },
         {
             "id": "mat26_13",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 13,
             "text": "De cierto os digo: Dondequiera que se predique este evangelio, en todo el mundo, también lo que ésta ha hecho, será dicho para memoria de ella."
         },
@@ -251,13 +251,13 @@
         },
         {
             "id": "mat26_28",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 28,
             "text": "porque esto es mi sangre del nuevo testamento, la cual es derramada por muchos para remisión de pecados."
         },
         {
             "id": "mat26_29",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 29,
             "text": "Y os digo, que desde ahora no beberé más de este fruto de la vid, hasta aquel día cuando lo beba nuevo con vosotros en el reino de mi Padre."
         },
@@ -377,7 +377,7 @@
         },
         {
             "id": "mat26_41",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 41,
             "text": "Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil."
         },
@@ -485,7 +485,7 @@
         },
         {
             "id": "mat26_53",
-            "speaker": "Narrador",
+            "speaker": "Jesús",
             "verse": 53,
             "text": "O ¿piensas que no puedo ahora orar a mi Padre, y Él me daría más de doce legiones de ángeles?"
         },
@@ -713,7 +713,7 @@
         },
         {
             "id": "mat26_75b",
-            "speaker": "Jesús",
+            "speaker": "Narrador",
             "verse": 75,
             "text": "Antes que el gallo cante, me negarás tres veces."
         },

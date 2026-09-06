@@ -42,6 +42,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 21,
     "subId": "b",
     "speaker": "Jesús",
@@ -66,18 +72,6 @@
     "confidence": 0.9
   },
   {
-    "verse": 33,
-    "subId": "b",
-    "speaker": "Ciegos",
-    "confidence": 0.85
-  },
-  {
-    "verse": 15,
-    "subId": "",
-    "speaker": "Jesús",
-    "confidence": 0.85
-  },
-  {
     "verse": 26,
     "subId": "",
     "speaker": "Jesús",
@@ -87,6 +81,18 @@
     "verse": 27,
     "subId": "",
     "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Ciegos",
     "confidence": 0.85
   }
 ]

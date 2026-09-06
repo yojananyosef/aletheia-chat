@@ -90,7 +90,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
         id: 'mateo', name: 'Mateo',
         availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28],
         category: 'Evangelios', description: 'El evangelio del Rey de los judíos.',
-        participants: ['Dios', 'Narrador', 'Jesús', 'Mateo', 'Juan el Bautista', 'Ángel', 'Magos', 'Herodes', 'Hija de Herodías', 'Ancianos', 'Pedro', 'Andrés', 'Jacobo y Juan', 'Discípulos', 'Fariseos', 'Escribas', 'Saduceos', 'Sacerdotes', 'Sumo sacerdote', 'Caifás', 'Multitud', 'Judíos', 'Niños', 'Mujer', 'Hombre', 'Jairo', 'Leproso', 'Ciego', 'Ciegos', 'Centurión', 'Publicanos', 'Demonio', 'Judas', 'Testigos', 'Pilato', 'Esposa de Pilato', 'Soldados', 'Criada', 'Mensajero']
+        participants: ['Dios', 'Narrador', 'Jesús', 'Mateo', 'Juan el Bautista', 'Ángel', 'Magos', 'Herodes', 'Hija de Herodías', 'Ancianos', 'Pedro', 'Andrés', 'Jacobo y Juan', 'Discípulos', 'Fariseos', 'Escribas', 'Saduceos', 'Sacerdotes', 'Sumo sacerdote', 'Caifás', 'Multitud', 'Judíos', 'Niños', 'Mujer', 'Hombre', 'Doctor', 'Jairo', 'Leproso', 'Ciego', 'Ciegos', 'Centurión', 'Publicanos', 'Demonio', 'Judas', 'Testigos', 'Pilato', 'Esposa de Pilato', 'Soldados', 'Criada', 'Mensajero']
     },
     {
         id: 'marcos', name: 'Marcos',

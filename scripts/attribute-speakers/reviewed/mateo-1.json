@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "a",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
     "verse": 23,
     "subId": "b",
     "speaker": "Narrador",

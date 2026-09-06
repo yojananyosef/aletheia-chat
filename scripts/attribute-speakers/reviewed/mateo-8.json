@@ -6,10 +6,28 @@
     "confidence": 0.85
   },
   {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Centurión",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
     "verse": 17,
     "subId": "b",
     "speaker": "Narrador",
     "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
   },
   {
     "verse": 27,
@@ -24,14 +42,8 @@
     "confidence": 0.9
   },
   {
-    "verse": 9,
-    "subId": "",
-    "speaker": "Centurión",
-    "confidence": 0.85
-  },
-  {
-    "verse": 11,
-    "subId": "",
+    "verse": 32,
+    "subId": "b",
     "speaker": "Jesús",
     "confidence": 0.85
   }
