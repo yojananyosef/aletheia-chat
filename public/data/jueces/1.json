@@ -1,0 +1,271 @@
+{
+    "book": "Jueces",
+    "chapter": 1,
+    "title": "Jueces 1",
+    "messages": [
+        {
+            "id": "jdg1_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció después de la muerte de Josué, que los hijos de Israel consultaron a Jehová, diciendo:"
+        },
+        {
+            "id": "jdg1_1b",
+            "speaker": "Israel",
+            "verse": 1,
+            "text": "¿Quién será el primero en subir por nosotros a pelear contra los cananeos?"
+        },
+        {
+            "id": "jdg1_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Jehová respondió:"
+        },
+        {
+            "id": "jdg1_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Judá subirá; he aquí que yo he entregado la tierra en sus manos."
+        },
+        {
+            "id": "jdg1_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Judá dijo a Simeón su hermano:"
+        },
+        {
+            "id": "jdg1_3b",
+            "speaker": "Judá",
+            "verse": 3,
+            "text": "Sube conmigo a mi suerte, y peleemos contra el cananeo, y yo también iré contigo a tu suerte. Y Simeón fue con él."
+        },
+        {
+            "id": "jdg1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y subió Judá, y Jehová entregó en sus manos al cananeo y al ferezeo; y de ellos hirieron en Bezec diez mil hombres."
+        },
+        {
+            "id": "jdg1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y hallaron a Adoni-bezec en Bezec, y pelearon contra él; e hirieron al cananeo y al ferezeo."
+        },
+        {
+            "id": "jdg1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas Adoni-bezec huyó; y le siguieron, y le prendieron, y le cortaron los pulgares de las manos y de los pies."
+        },
+        {
+            "id": "jdg1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces dijo Adoni-bezec:"
+        },
+        {
+            "id": "jdg1_7b",
+            "speaker": "Adonibezec",
+            "verse": 7,
+            "text": "Setenta reyes, cortados los pulgares de sus manos y de sus pies, recogían las migajas debajo de mi mesa; como yo hice, así me ha pagado Dios. Y le metieron en Jerusalén, donde murió."
+        },
+        {
+            "id": "jdg1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y habían combatido los hijos de Judá a Jerusalén, y la habían tomado, y herido a filo de espada, y puesto a fuego la ciudad."
+        },
+        {
+            "id": "jdg1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Después los hijos de Judá descendieron para pelear contra el cananeo que habitaba en las montañas, y en el sur, y en el valle."
+        },
+        {
+            "id": "jdg1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y partió Judá contra el cananeo que habitaba en Hebrón, la cual se llamaba antes Quiriat-arba; e hirieron a Sesai, y a Ahimán, y a Talmai."
+        },
+        {
+            "id": "jdg1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y de allí fue a los que habitaban en Debir, que antes se llamaba Quiriat-sefer."
+        },
+        {
+            "id": "jdg1_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo Caleb:"
+        },
+        {
+            "id": "jdg1_12b",
+            "speaker": "Caleb",
+            "verse": 12,
+            "text": "El que hiriere a Quiriat-sefer, y la tomare, yo le daré a Acsa mi hija por esposa."
+        },
+        {
+            "id": "jdg1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y la tomó Otoniel hijo de Cenaz, hermano menor de Caleb; y él le dio a Acsa su hija por esposa."
+        },
+        {
+            "id": "jdg1_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y sucedió que cuando ella vino a él, ella le persuadió para pedir a su padre un campo. Ella entonces se bajó del asno, y Caleb le dijo:"
+        },
+        {
+            "id": "jdg1_14b",
+            "speaker": "Caleb",
+            "verse": 14,
+            "text": "¿Qué quieres?"
+        },
+        {
+            "id": "jdg1_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Ella entonces le respondió:"
+        },
+        {
+            "id": "jdg1_15b",
+            "speaker": "Acsa",
+            "verse": 15,
+            "text": "Dame una bendición, puesto que me has dado tierra de sequedal; dame también fuentes de aguas. Entonces Caleb le dio las fuentes de arriba, y las fuentes de abajo."
+        },
+        {
+            "id": "jdg1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y los hijos del cineo, suegro de Moisés, subieron de la ciudad de las palmeras con los hijos de Judá, al desierto de Judá que está al sur de Arad; y fueron y habitaron con el pueblo."
+        },
+        {
+            "id": "jdg1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y fue Judá a su hermano Simeón, e hirieron al cananeo que habitaba en Sefat, y la asolaron; y pusieron por nombre a la ciudad, Horma."
+        },
+        {
+            "id": "jdg1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Tomó también Judá a Gaza con su término, y a Ascalón con su término, y a Ecrón con su término."
+        },
+        {
+            "id": "jdg1_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Jehová estaba con Judá, y echó a los de las montañas; mas no pudo echar a los que habitaban en los llanos, porque ellos tenían carros herrados."
+        },
+        {
+            "id": "jdg1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y dieron Hebrón a Caleb, como Moisés había dicho; y él echó de allí a los tres hijos de Anac."
+        },
+        {
+            "id": "jdg1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Mas los hijos de Benjamín no echaron al jebuseo que habitaba en Jerusalén, y así el jebuseo habitó con los hijos de Benjamín en Jerusalén hasta hoy."
+        },
+        {
+            "id": "jdg1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "También los de la casa de José subieron a Betel; y Jehová fue con ellos."
+        },
+        {
+            "id": "jdg1_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y los de la casa de José pusieron espías en Betel, la cual ciudad antes se llamaba Luz."
+        },
+        {
+            "id": "jdg1_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y los que espiaban vieron un hombre que salía de la ciudad, y le dijeron:"
+        },
+        {
+            "id": "jdg1_24b",
+            "speaker": "Espías",
+            "verse": 24,
+            "text": "Muéstranos ahora la entrada de la ciudad, y haremos contigo misericordia."
+        },
+        {
+            "id": "jdg1_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y él les mostró la entrada a la ciudad, y la hirieron a filo de espada; mas dejaron a aquel hombre con toda su familia."
+        },
+        {
+            "id": "jdg1_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y se fue el hombre a la tierra de los heteos, y edificó una ciudad, a la cual llamó Luz; y éste es su nombre hasta hoy."
+        },
+        {
+            "id": "jdg1_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Tampoco Manasés echó a los de Bet-seán, ni a los de sus aldeas, ni a los de Taanac y sus aldeas, ni a los de Dor y sus aldeas, ni a los habitantes de Ibleam y sus aldeas, ni a los que habitaban en Meguido y en sus aldeas; mas los cananeos quisieron habitar en esta tierra."
+        },
+        {
+            "id": "jdg1_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y sucedió que cuando Israel se hizo fuerte hizo al cananeo tributario, mas no lo echó del todo."
+        },
+        {
+            "id": "jdg1_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Tampoco Efraín echó al cananeo que habitaba en Gezer; antes habitó el cananeo en medio de ellos en Gezer."
+        },
+        {
+            "id": "jdg1_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Tampoco Zabulón echó a los que habitaban en Quitrón ni a los que habitaban en Naalal; mas el cananeo habitó en medio de él, y le fueron tributarios."
+        },
+        {
+            "id": "jdg1_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Tampoco Aser echó a los que habitaban en Aco, ni a los que habitaban en Sidón, ni en Ahlab, ni en Aczib, ni en Helba, ni en Afec, ni en Rehob."
+        },
+        {
+            "id": "jdg1_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Antes moró Aser entre los cananeos que habitaban en la tierra; pues no los echó."
+        },
+        {
+            "id": "jdg1_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Tampoco Neftalí echó a los que habitaban en Bet-semes, ni a los que habitaban en Bet-anat, sino que moró entre los cananeos que habitaban en la tierra; sin embargo los moradores de Bet-semes y los moradores de Bet-anat les fueron tributarios."
+        },
+        {
+            "id": "jdg1_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y los amorreos presionaron a los hijos de Dan hasta la montaña; y no los dejaron descender a la llanura."
+        },
+        {
+            "id": "jdg1_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y quiso el amorreo habitar en la montaña de Heres, en Ajalón y en Saalbim; sin embargo la mano de la casa de José prevaleció, y los hicieron tributarios."
+        },
+        {
+            "id": "jdg1_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y el término del amorreo fue desde la subida de Acrabim, desde la piedra, y arriba."
+        }
+    ]
+}

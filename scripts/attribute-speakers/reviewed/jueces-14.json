@@ -1,0 +1,68 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Padres de Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Esposa de Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Sansón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Filisteos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "d",
+    "speaker": "Sansón",
+    "confidence": 0.85
+  }
+]

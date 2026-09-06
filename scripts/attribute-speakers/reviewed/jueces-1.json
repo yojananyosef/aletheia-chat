@@ -1,0 +1,26 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Israel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Adonibezec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Acsa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Espías",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Débora",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Débora",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Madre de Sísara",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Débora",
+    "confidence": 0.8
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Débora",
+    "confidence": 0.8
+  }
+]

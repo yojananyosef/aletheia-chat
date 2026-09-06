@@ -1,0 +1,397 @@
+{
+    "book": "Jueces",
+    "chapter": 20,
+    "title": "Jueces 20",
+    "messages": [
+        {
+            "id": "jdg20_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces salieron todos los hijos de Israel, y se reunió la congregación como un solo hombre, desde Dan hasta Beerseba y la tierra de Galaad, a Jehová en Mizpa."
+        },
+        {
+            "id": "jdg20_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y los principales de todo el pueblo, de todas las tribus de Israel, se hallaron presentes en la reunión del pueblo de Dios, cuatrocientos mil hombres de a pie que sacaban espada."
+        },
+        {
+            "id": "jdg20_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y los hijos de Benjamín oyeron que los hijos de Israel habían subido a Mizpa. Y dijeron los hijos de Israel:"
+        },
+        {
+            "id": "jdg20_3b",
+            "speaker": "Pueblo",
+            "verse": 3,
+            "text": "Decid cómo fue esta maldad."
+        },
+        {
+            "id": "jdg20_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces el varón levita, marido de la mujer muerta, respondió y dijo:"
+        },
+        {
+            "id": "jdg20_4b",
+            "speaker": "Levita",
+            "verse": 4,
+            "text": "Yo llegué a Gabaa de Benjamín con mi concubina, para pasar allí la noche."
+        },
+        {
+            "id": "jdg20_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y levantándose contra mí los de Gabaa, rodearon sobre mí la casa por la noche, con idea de matarme, y amancillaron a mi concubina tanto que ella murió."
+        },
+        {
+            "id": "jdg20_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces tomando yo mi concubina, la corté en pedazos, y los envié por todo el término de la posesión de Israel: por cuanto han hecho maldad y crimen en Israel."
+        },
+        {
+            "id": "jdg20_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "He aquí todos vosotros sois hijos de Israel; dad aquí vuestro parecer y consejo."
+        },
+        {
+            "id": "jdg20_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces todo el pueblo, como un solo hombre, se levantó, y dijeron:"
+        },
+        {
+            "id": "jdg20_8b",
+            "speaker": "Pueblo",
+            "verse": 8,
+            "text": "Ninguno de nosotros irá a su tienda, ni ninguno de nosotros volverá a su casa."
+        },
+        {
+            "id": "jdg20_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Esto es lo que haremos ahora a Gabaa; contra ella subiremos por sorteo."
+        },
+        {
+            "id": "jdg20_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Tomaremos diez hombres de cada cien por todas las tribus de Israel, y cien de cada mil, y mil de cada diez mil, que lleven provisiones para el pueblo, para que yendo contra Gabaa de Benjamín, le hagan conforme a toda la abominación que ha cometido en Israel."
+        },
+        {
+            "id": "jdg20_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y se juntaron todos los hombres de Israel contra la ciudad, ligados como un solo hombre."
+        },
+        {
+            "id": "jdg20_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y las tribus de Israel enviaron varones por toda la tribu de Benjamín, diciendo:"
+        },
+        {
+            "id": "jdg20_12b",
+            "speaker": "Pueblo",
+            "verse": 12,
+            "text": "¿Qué maldad es ésta que ha sido hecha entre vosotros?"
+        },
+        {
+            "id": "jdg20_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entregad, pues, ahora aquellos hombres, hijos de Belial, que están en Gabaa, para que los matemos, y barramos el mal de Israel. Mas los de Benjamín no quisieron oír la voz de sus hermanos los hijos de Israel."
+        },
+        {
+            "id": "jdg20_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Antes los de Benjamín se juntaron de las ciudades de Gabaa, para salir a pelear contra los hijos de Israel."
+        },
+        {
+            "id": "jdg20_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y fueron contados en aquel tiempo los hijos de Benjamín de las ciudades, veintiséis mil hombres que sacaban espada, sin los que moraban en Gabaa, que fueron por cuenta setecientos hombres escogidos."
+        },
+        {
+            "id": "jdg20_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "De toda aquella gente había setecientos hombres escogidos, que eran zurdos, todos los cuales tiraban una piedra con la honda a un cabello, y no erraban."
+        },
+        {
+            "id": "jdg20_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y fueron contados los varones de Israel, fuera de Benjamín, cuatrocientos mil hombres que sacaban espada, todos estos eran hombres de guerra."
+        },
+        {
+            "id": "jdg20_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Se levantaron luego los hijos de Israel, y subieron a la casa de Dios, y consultaron a Dios, diciendo:"
+        },
+        {
+            "id": "jdg20_18b",
+            "speaker": "Israel",
+            "verse": 18,
+            "text": "¿Quién de nosotros subirá primero a la guerra contra los hijos de Benjamín?"
+        },
+        {
+            "id": "jdg20_18c",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Jehová respondió:"
+        },
+        {
+            "id": "jdg20_18d",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Judá subirá primero."
+        },
+        {
+            "id": "jdg20_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Levantándose, pues, de mañana los hijos de Israel, acamparon contra Gabaa."
+        },
+        {
+            "id": "jdg20_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y salieron los hijos de Israel a combatir contra Benjamín; y los varones de Israel ordenaron la batalla contra ellos junto a Gabaa."
+        },
+        {
+            "id": "jdg20_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Saliendo entonces de Gabaa los hijos de Benjamín, derribaron en tierra aquel día veintidós mil hombres de los hijos de Israel."
+        },
+        {
+            "id": "jdg20_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas reanimándose el pueblo, los varones de Israel volvieron a ordenar la batalla en el mismo lugar donde la habían ordenado el primer día."
+        },
+        {
+            "id": "jdg20_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Porque los hijos de Israel subieron, y lloraron delante de Jehová hasta la tarde, y consultaron a Jehová, diciendo:"
+        },
+        {
+            "id": "jdg20_23b",
+            "speaker": "Israel",
+            "verse": 23,
+            "text": "¿Subiremos otra vez a pelear con los hijos de Benjamín mi hermano?"
+        },
+        {
+            "id": "jdg20_23c",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Jehová les respondió:"
+        },
+        {
+            "id": "jdg20_23d",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Subid contra él."
+        },
+        {
+            "id": "jdg20_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces los hijos de Israel se acercaron contra los hijos de Benjamín el segundo día."
+        },
+        {
+            "id": "jdg20_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y aquel segundo día, saliendo Benjamín de Gabaa contra ellos, derribaron por tierra otros dieciocho mil hombres de los hijos de Israel, todos los cuales sacaban espada."
+        },
+        {
+            "id": "jdg20_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces subieron todos los hijos de Israel, y todo el pueblo, y vinieron a la casa de Dios; y lloraron, y se sentaron allí delante de Jehová, y ayunaron aquel día hasta la tarde; y sacrificaron holocaustos y ofrendas de paz delante de Jehová."
+        },
+        {
+            "id": "jdg20_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y los hijos de Israel preguntaron a Jehová (porque el arca del pacto de Dios estaba allí en aquellos días,"
+        },
+        {
+            "id": "jdg20_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Finees, hijo de Eleazar, hijo de Aarón, ministraba delante de ella en aquellos días), y dijeron:"
+        },
+        {
+            "id": "jdg20_28b",
+            "speaker": "Pueblo",
+            "verse": 28,
+            "text": "¿Volveré aún a salir en batalla contra los hijos de Benjamín mi hermano, o me quedaré quieto?"
+        },
+        {
+            "id": "jdg20_28c",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Jehová dijo:"
+        },
+        {
+            "id": "jdg20_28d",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Subid, que mañana yo lo entregaré en tu mano."
+        },
+        {
+            "id": "jdg20_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y puso Israel emboscadas alrededor de Gabaa."
+        },
+        {
+            "id": "jdg20_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Subiendo entonces los hijos de Israel contra los hijos de Benjamín el tercer día, ordenaron la batalla delante de Gabaa, como las otras veces."
+        },
+        {
+            "id": "jdg20_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y saliendo los hijos de Benjamín contra el pueblo, alejados que fueron de la ciudad, comenzaron a herir a algunos del pueblo, matándolos como las otras veces por los caminos, uno de los cuales sube a Betel, y el otro a Gabaa en el campo; y mataron unos treinta hombres de Israel."
+        },
+        {
+            "id": "jdg20_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y los hijos de Benjamín decían:"
+        },
+        {
+            "id": "jdg20_32b",
+            "speaker": "Benjamín",
+            "verse": 32,
+            "text": "Vencidos son delante de nosotros, como antes."
+        },
+        {
+            "id": "jdg20_32c",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Mas los hijos de Israel decían:"
+        },
+        {
+            "id": "jdg20_32d",
+            "speaker": "Pueblo",
+            "verse": 32,
+            "text": "Huiremos, y los alejaremos de la ciudad hasta los caminos."
+        },
+        {
+            "id": "jdg20_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces, levantándose todos los de Israel de su lugar, se pusieron en orden en Baal-tamar: y también las emboscadas de Israel salieron de su lugar, del prado de Gabaa."
+        },
+        {
+            "id": "jdg20_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y vinieron contra Gabaa diez mil hombres escogidos de todo Israel, y la batalla comenzó a agravarse; mas ellos no sabían que el mal se acercaba sobre ellos."
+        },
+        {
+            "id": "jdg20_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "E hirió Jehová a Benjamín delante de Israel; y mataron los hijos de Israel aquel día veinticinco mil cien hombres de Benjamín, todos los cuales sacaban espada."
+        },
+        {
+            "id": "jdg20_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y vieron los hijos de Benjamín que eran derrotados; pues los hijos de Israel habían cedido terreno a Benjamín, porque estaban confiados en las emboscadas que habían puesto detrás de Gabaa."
+        },
+        {
+            "id": "jdg20_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Entonces los hombres de las emboscadas acometieron prontamente a Gabaa, y se extendieron, e hirieron a filo de espada a toda la ciudad."
+        },
+        {
+            "id": "jdg20_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Ya los israelitas habían concertado con las emboscadas, que éstas hiciesen mucho fuego, para que subiese gran humo de la ciudad."
+        },
+        {
+            "id": "jdg20_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y cuando los de Israel retrocedieron en la batalla, los de Benjamín comenzaron a derribar heridos de Israel unos treinta hombres, y ya decían:"
+        },
+        {
+            "id": "jdg20_39b",
+            "speaker": "Benjamín",
+            "verse": 39,
+            "text": "Ciertamente ellos han caído delante de nosotros, como en la primera batalla."
+        },
+        {
+            "id": "jdg20_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Mas cuando la llama comenzó a subir de la ciudad, una columna de humo, los benjamitas miraron hacia atrás; y he aquí que el fuego de la ciudad subía al cielo."
+        },
+        {
+            "id": "jdg20_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Entonces se volvieron los hombres de Israel, y los de Benjamín se llenaron de temor; porque vieron que el mal había venido sobre ellos."
+        },
+        {
+            "id": "jdg20_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Volvieron, por tanto, la espalda delante de Israel hacia el camino del desierto; mas el escuadrón los alcanzó, y los que salían de las ciudades los destruían en medio de ellos."
+        },
+        {
+            "id": "jdg20_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Así cercaron a los de Benjamín, y los persiguieron y fácilmente los aplastaron frente a Gabaa, hacia donde nace el sol."
+        },
+        {
+            "id": "jdg20_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y cayeron de Benjamín dieciocho mil hombres, todos ellos hombres de guerra."
+        },
+        {
+            "id": "jdg20_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Volviéndose luego, huyeron hacia el desierto, a la peña de Rimón, y de ellos recogieron cinco mil hombres en los caminos; y fueron persiguiéndolos aun hasta Gidom, y mataron de ellos dos mil hombres."
+        },
+        {
+            "id": "jdg20_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Así todos los que de Benjamín murieron aquel día, fueron veinticinco mil hombres que sacaban espada, todos ellos hombres de guerra."
+        },
+        {
+            "id": "jdg20_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Pero se volvieron y huyeron al desierto a la peña de Rimón seiscientos hombres, los cuales estuvieron en la peña de Rimón cuatro meses:"
+        },
+        {
+            "id": "jdg20_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y los hombres de Israel tornaron a los hijos de Benjamín, y los hirieron a filo de espada, así a los hombres de cada ciudad como a las bestias y todo lo que encontraron; también pusieron fuego a todas las ciudades que hallaron."
+        }
+    ]
+}

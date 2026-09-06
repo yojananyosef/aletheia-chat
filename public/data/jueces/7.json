@@ -1,0 +1,229 @@
+{
+    "book": "Jueces",
+    "chapter": 7,
+    "title": "Jueces 7",
+    "messages": [
+        {
+            "id": "jdg7_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Levantándose, pues, de mañana Jerobaal, el cual es Gedeón, y todo el pueblo que estaba con él, acamparon junto a la fuente de Harod; y tenía el campamento de los madianitas al norte, más allá del collado de Moreh, en el valle."
+        },
+        {
+            "id": "jdg7_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Jehová dijo a Gedeón:"
+        },
+        {
+            "id": "jdg7_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "El pueblo que está contigo es mucho para que yo dé a los madianitas en su mano; no sea que se alabe Israel contra mí, diciendo: Mi mano me ha salvado."
+        },
+        {
+            "id": "jdg7_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Ahora, pues, haz pregonar, que lo oiga el pueblo, diciendo:"
+        },
+        {
+            "id": "jdg7_3b",
+            "speaker": "Gedeón",
+            "verse": 3,
+            "text": "El que teme y se estremece, madrugue y vuélvase desde el monte de Galaad. Y se volvieron de los del pueblo veintidós mil; y quedaron diez mil."
+        },
+        {
+            "id": "jdg7_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Jehová dijo a Gedeón:"
+        },
+        {
+            "id": "jdg7_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Aún es mucho el pueblo; llévalos a las aguas, y allí yo te los probaré; y será que del que yo te dijere: Vaya éste contigo, irá contigo; mas de cualquiera que yo te dijere: Éste no vaya contigo, el tal no irá."
+        },
+        {
+            "id": "jdg7_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces llevó el pueblo a las aguas: y Jehová dijo a Gedeón:"
+        },
+        {
+            "id": "jdg7_5b",
+            "speaker": "Gedeón",
+            "verse": 5,
+            "text": "Cualquiera que lamiere las aguas con su lengua como lame el perro, aquél pondrás aparte; asimismo cualquiera que se doblare sobre sus rodillas para beber."
+        },
+        {
+            "id": "jdg7_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y fue el número de los que lamieron las aguas, llevándola con la mano a la boca, trescientos hombres; y todo el resto del pueblo se dobló sobre sus rodillas para beber las aguas."
+        },
+        {
+            "id": "jdg7_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Jehová dijo a Gedeón:"
+        },
+        {
+            "id": "jdg7_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Con estos trescientos hombres que lamieron el agua os salvaré, y entregaré a los madianitas en tus manos; y que se vaya toda la demás gente, cada uno a su lugar."
+        },
+        {
+            "id": "jdg7_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y tomada provisión para el pueblo en sus manos, y sus trompetas, envió a todos los demás israelitas cada uno a su tienda, y retuvo a aquellos trescientos hombres; y tenía el campamento de Madián abajo en el valle."
+        },
+        {
+            "id": "jdg7_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y aconteció que aquella noche Jehová le dijo:"
+        },
+        {
+            "id": "jdg7_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Levántate, y desciende al campamento; porque yo lo he entregado en tus manos."
+        },
+        {
+            "id": "jdg7_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y si tienes temor de descender, baja tú al campamento con Fura tu criado,"
+        },
+        {
+            "id": "jdg7_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y oirás lo que hablan; y entonces tus manos se esforzarán, y descenderás contra el campamento. Y él descendió con Fura su criado a los puestos avanzados de los hombres armados que estaban en el campamento."
+        },
+        {
+            "id": "jdg7_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Madián, y Amalec, y todos los orientales, estaban tendidos en el valle como langostas en muchedumbre, y sus camellos eran innumerables, como la arena que está a la ribera del mar en multitud."
+        },
+        {
+            "id": "jdg7_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y luego que llegó Gedeón, he aquí que un hombre estaba contando un sueño a su compañero, diciendo:"
+        },
+        {
+            "id": "jdg7_13b",
+            "speaker": "Madianita",
+            "verse": 13,
+            "text": "He aquí yo soñé un sueño; y he aquí que vi un pan de cebada que rodó hasta el campamento de Madián, y llegó hasta la tienda y la golpeó de manera que cayó, y la trastornó de arriba abajo, y la tienda quedó tendida."
+        },
+        {
+            "id": "jdg7_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y su compañero respondió, y dijo:"
+        },
+        {
+            "id": "jdg7_14b",
+            "speaker": "Madianita",
+            "verse": 14,
+            "text": "Esto no es otra cosa sino la espada de Gedeón hijo de Joás, varón de Israel: Dios ha entregado en sus manos a los madianitas con todo el campamento."
+        },
+        {
+            "id": "jdg7_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y cuando Gedeón oyó el relato del sueño y su interpretación, adoró; y vuelto al campamento de Israel, dijo:"
+        },
+        {
+            "id": "jdg7_15b",
+            "speaker": "Gedeón",
+            "verse": 15,
+            "text": "Levantaos, que Jehová ha entregado el campamento de Madián en vuestras manos."
+        },
+        {
+            "id": "jdg7_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y repartiendo los trescientos hombres en tres escuadrones, puso trompetas en las manos de todos ellos, y cántaros vacíos con teas ardiendo dentro de los cántaros."
+        },
+        {
+            "id": "jdg7_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "jdg7_17b",
+            "speaker": "Gedeón",
+            "verse": 17,
+            "text": "Miradme a mí, y haced como yo hiciere; he aquí que cuando yo llegare a las afueras del campamento, como yo hiciere, así haréis vosotros."
+        },
+        {
+            "id": "jdg7_18",
+            "speaker": "Gedeón",
+            "verse": 18,
+            "text": "Y cuando yo tocare la trompeta y todos los que estarán conmigo; entonces vosotros tocaréis las trompetas alrededor de todo el campamento, y diréis: ¡La espada de Jehová, y de Gedeón!"
+        },
+        {
+            "id": "jdg7_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Llegó pues, Gedeón, y los cien hombres que llevaba consigo, a las afueras del campamento, al comienzo de la vigilia de la media noche, cuando acababan de renovar las centinelas; y tocaron las trompetas, y quebraron los cántaros que llevaban en sus manos."
+        },
+        {
+            "id": "jdg7_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y los tres escuadrones tocaron las trompetas, y quebrando los cántaros tomaron en la mano izquierda las teas, y en la mano derecha las trompetas con que tocaban, y gritaron:"
+        },
+        {
+            "id": "jdg7_20b",
+            "speaker": "Pueblo",
+            "verse": 20,
+            "text": "¡La espada de Jehová y de Gedeón!"
+        },
+        {
+            "id": "jdg7_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y cada uno permaneció en su lugar en derredor del campamento; y todo el ejército madianita echó a correr, y huyeron gritando."
+        },
+        {
+            "id": "jdg7_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas los trescientos tocaban las trompetas; y Jehová puso la espada de cada uno contra su compañero en todo el campamento. Y el ejército huyó hasta Bet-sita, hacia Zerera, y hasta el término de Abel-mehola en Tabat."
+        },
+        {
+            "id": "jdg7_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y juntándose los de Israel, de Neftalí, y de Aser, y de todo Manasés, siguieron a los madianitas."
+        },
+        {
+            "id": "jdg7_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Gedeón también envió mensajeros a todo el monte de Efraín, diciendo:"
+        },
+        {
+            "id": "jdg7_24b",
+            "speaker": "Gedeón",
+            "verse": 24,
+            "text": "Descended al encuentro de los madianitas, y tomadles las aguas hasta Bet-bara y el Jordán. Y juntos todos los hombres de Efraín, tomaron las aguas de Bet-bara y el Jordán."
+        },
+        {
+            "id": "jdg7_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y tomaron dos príncipes de los madianitas, Oreb y Zeeb: y mataron a Oreb en la peña de Oreb, y a Zeeb lo mataron en el lagar de Zeeb: y después que siguieron a los madianitas, trajeron las cabezas de Oreb y de Zeeb a Gedeón al otro lado del Jordán."
+        }
+    ]
+}

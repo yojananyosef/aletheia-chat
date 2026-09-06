@@ -1,0 +1,98 @@
+[
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "d",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "a",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Hombres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "d",
+    "speaker": "Hombres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Hombres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Joás",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Joás",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "c",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Israel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Israel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Benjamín",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "d",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Benjamín",
+    "confidence": 0.85
+  }
+]

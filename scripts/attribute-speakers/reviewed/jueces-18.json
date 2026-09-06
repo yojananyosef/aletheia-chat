@@ -1,0 +1,86 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "d",
+    "speaker": "Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Danitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "c",
+    "speaker": "Micaía",
+    "confidence": 0.8
+  }
+]

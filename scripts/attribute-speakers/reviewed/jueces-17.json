@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 2,
+    "subId": "d",
+    "speaker": "Madre de Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Madre de Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "d",
+    "speaker": "Levita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Micaía",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Micaía",
+    "confidence": 0.85
+  }
+]

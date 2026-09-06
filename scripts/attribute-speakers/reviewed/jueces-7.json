@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Madianita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Madianita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Gedeón",
+    "confidence": 0.85
+  }
+]

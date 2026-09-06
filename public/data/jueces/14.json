@@ -1,0 +1,211 @@
+{
+    "book": "Jueces",
+    "chapter": 14,
+    "title": "Jueces 14",
+    "messages": [
+        {
+            "id": "jdg14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y descendiendo Sansón a Timnat, vio en Timnat a una mujer de las hijas de los filisteos."
+        },
+        {
+            "id": "jdg14_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y subió, y lo declaró a su padre y a su madre, diciendo:"
+        },
+        {
+            "id": "jdg14_2b",
+            "speaker": "Sansón",
+            "verse": 2,
+            "text": "Yo he visto en Timnat a una mujer de las hijas de los filisteos; os ruego que me la toméis por esposa."
+        },
+        {
+            "id": "jdg14_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y su padre y su madre le dijeron:"
+        },
+        {
+            "id": "jdg14_3b",
+            "speaker": "Padres de Sansón",
+            "verse": 3,
+            "text": "¿No hay mujer entre las hijas de tus hermanos, ni en todo mi pueblo, para que vayas tú a tomar esposa de los filisteos incircuncisos?"
+        },
+        {
+            "id": "jdg14_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Sansón respondió a su padre:"
+        },
+        {
+            "id": "jdg14_3d",
+            "speaker": "Sansón",
+            "verse": 3,
+            "text": "Tómala para mí, porque ésta agradó a mis ojos."
+        },
+        {
+            "id": "jdg14_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas su padre y su madre no sabían que esto venía de Jehová, y que él buscaba ocasión contra los filisteos; porque en aquel tiempo los filisteos dominaban sobre Israel."
+        },
+        {
+            "id": "jdg14_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Sansón descendió con su padre y con su madre a Timnat; y cuando llegaron a las viñas de Timnat, he aquí un cachorro de león que venía rugiendo hacia él."
+        },
+        {
+            "id": "jdg14_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y el Espíritu de Jehová cayó sobre él, y lo despedazó como quien despedaza un cabrito, sin tener nada en su mano; pero no contó ni a su padre ni a su madre lo que había hecho."
+        },
+        {
+            "id": "jdg14_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Vino pues, y habló a la mujer que había agradado a Sansón."
+        },
+        {
+            "id": "jdg14_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y volviendo después de algunos días para tomarla, se apartó del camino para ver el cuerpo muerto del león, y he aquí que en el cuerpo del león había un enjambre de abejas, y un panal de miel."
+        },
+        {
+            "id": "jdg14_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y tomándolo en sus manos, se fue comiéndolo por el camino; y cuando llegó adonde estaban su padre y su madre, les dio también a ellos que comiesen; pero no les contó que había tomado aquella miel del cuerpo del león."
+        },
+        {
+            "id": "jdg14_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Vino, pues, su padre a la mujer, y Sansón hizo allí banquete; porque así solían hacer los jóvenes."
+        },
+        {
+            "id": "jdg14_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y aconteció que cuando ellos le vieron, tomaron treinta compañeros que estuviesen con él;"
+        },
+        {
+            "id": "jdg14_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "A los cuales Sansón dijo:"
+        },
+        {
+            "id": "jdg14_12b",
+            "speaker": "Sansón",
+            "verse": 12,
+            "text": "Yo os propondré ahora un enigma, el cual si en los siete días del banquete vosotros me declarareis y descubriereis, yo os daré treinta sábanas y treinta mudas de ropa."
+        },
+        {
+            "id": "jdg14_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas si no me lo supiereis declarar, vosotros me daréis las treinta sábanas y las treinta mudas de ropa. Y ellos respondieron:"
+        },
+        {
+            "id": "jdg14_13b",
+            "speaker": "Filisteos",
+            "verse": 13,
+            "text": "Exponnos tu enigma, y la oiremos."
+        },
+        {
+            "id": "jdg14_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces les dijo:"
+        },
+        {
+            "id": "jdg14_14b",
+            "speaker": "Sansón",
+            "verse": 14,
+            "text": "Del comedor salió comida, y del fuerte salió dulzura. Y ellos no pudieron declararle el enigma en tres días."
+        },
+        {
+            "id": "jdg14_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y aconteció que en el séptimo día, dijeron a la esposa de Sansón:"
+        },
+        {
+            "id": "jdg14_15b",
+            "speaker": "Filisteos",
+            "verse": 15,
+            "text": "Induce a tu marido a que nos declare este enigma, para que no te quememos a ti y a la casa de tu padre. ¿Nos habéis llamado aquí para despojarnos? ¿No es así?"
+        },
+        {
+            "id": "jdg14_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y la esposa de Sansón lloró delante de él, y dijo:"
+        },
+        {
+            "id": "jdg14_16b",
+            "speaker": "Esposa de Sansón",
+            "verse": 16,
+            "text": "Solamente me aborreces y no me amas, pues que no me declaras el enigma que propusiste a los hijos de mi pueblo."
+        },
+        {
+            "id": "jdg14_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "jdg14_16d",
+            "speaker": "Sansón",
+            "verse": 16,
+            "text": "He aquí que ni a mi padre ni a mi madre lo he declarado; y ¿lo había de declarar a ti?"
+        },
+        {
+            "id": "jdg14_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y ella lloró delante de él los siete días que ellos tuvieron banquete; y sucedió que el séptimo día él se lo declaró, porque ella lo presionaba; y ella declaró el enigma a los hijos de su pueblo."
+        },
+        {
+            "id": "jdg14_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y al séptimo día, antes que el sol se pusiese, los de la ciudad le dijeron:"
+        },
+        {
+            "id": "jdg14_18b",
+            "speaker": "Filisteos",
+            "verse": 18,
+            "text": "¿Qué cosa más dulce que la miel? ¿Y qué cosa más fuerte que el león?"
+        },
+        {
+            "id": "jdg14_18c",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y él les respondió:"
+        },
+        {
+            "id": "jdg14_18d",
+            "speaker": "Sansón",
+            "verse": 18,
+            "text": "Si no araseis con mi novilla, nunca hubierais descubierto mi enigma."
+        },
+        {
+            "id": "jdg14_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y el Espíritu de Jehová cayó sobre él, y descendió a Ascalón, e hirió treinta hombres de ellos; y tomando el despojo, dio las mudas de ropa a los que habían explicado el enigma; y encendido en enojo se fue a casa de su padre."
+        },
+        {
+            "id": "jdg14_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y la esposa de Sansón fue dada a su compañero, con el cual él antes se acompañaba."
+        }
+    ]
+}

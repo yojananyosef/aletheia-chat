@@ -1,0 +1,475 @@
+{
+    "book": "Jueces",
+    "chapter": 9,
+    "title": "Jueces 9",
+    "messages": [
+        {
+            "id": "jdg9_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y se fue Abimelec hijo de Jerobaal a Siquem, a los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de su madre, diciendo:"
+        },
+        {
+            "id": "jdg9_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Yo os ruego que habléis a oídos de todos los de Siquem:"
+        },
+        {
+            "id": "jdg9_2b",
+            "speaker": "Abimelec",
+            "verse": 2,
+            "text": "¿Qué os parece mejor, que todos los hijos de Jerobaal, setenta hombres, reinen sobre vosotros, o que reine sobre vosotros un solo hombre? Acordaos que yo soy hueso vuestro, y carne vuestra."
+        },
+        {
+            "id": "jdg9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y hablaron por él los hermanos de su madre a oídos de todos los de Siquem todas estas palabras; y el corazón de ellos se inclinó en favor de Abimelec, porque decían:"
+        },
+        {
+            "id": "jdg9_3b",
+            "speaker": "Hombres",
+            "verse": 3,
+            "text": "Nuestro hermano es."
+        },
+        {
+            "id": "jdg9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y le dieron setenta piezas de plata del templo de Baal-berit, con los cuales Abimelec alquiló hombres ociosos y vagabundos, que le siguieron."
+        },
+        {
+            "id": "jdg9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y viniendo a la casa de su padre en Ofra, mató a sus hermanos los hijos de Jerobaal, setenta varones, sobre una piedra; mas quedó Jotam, el hijo menor de Jerobaal, que se escondió."
+        },
+        {
+            "id": "jdg9_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y reunidos todos los de Siquem con toda la casa de Milo, fueron y eligieron a Abimelec por rey, cerca de la llanura del pilar que estaba en Siquem."
+        },
+        {
+            "id": "jdg9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando se lo dijeron a Jotam, fue y se puso en la cumbre del monte de Gerizim, y alzando su voz clamó, y les dijo:"
+        },
+        {
+            "id": "jdg9_7b",
+            "speaker": "Jotam",
+            "verse": 7,
+            "text": "Oídme, varones de Siquem; que Dios os oiga."
+        },
+        {
+            "id": "jdg9_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Fueron los árboles a elegir rey sobre sí, y dijeron al olivo:"
+        },
+        {
+            "id": "jdg9_8b",
+            "speaker": "Jotam",
+            "verse": 8,
+            "text": "Reina sobre nosotros."
+        },
+        {
+            "id": "jdg9_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mas el olivo respondió:"
+        },
+        {
+            "id": "jdg9_9b",
+            "speaker": "Jotam",
+            "verse": 9,
+            "text": "¿He de dejar mi aceite, con el cual por mí honran a Dios y a los hombres, para ir a ser grande sobre los árboles?"
+        },
+        {
+            "id": "jdg9_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dijeron los árboles a la higuera:"
+        },
+        {
+            "id": "jdg9_10b",
+            "speaker": "Jotam",
+            "verse": 10,
+            "text": "Anda tú, reina sobre nosotros."
+        },
+        {
+            "id": "jdg9_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y respondió la higuera:"
+        },
+        {
+            "id": "jdg9_11b",
+            "speaker": "Jotam",
+            "verse": 11,
+            "text": "¿He de dejar mi dulzura y mi buen fruto, para ir a ser grande sobre los árboles?"
+        },
+        {
+            "id": "jdg9_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Dijeron luego los árboles a la vid:"
+        },
+        {
+            "id": "jdg9_12b",
+            "speaker": "Jotam",
+            "verse": 12,
+            "text": "Pues ven tú, reina sobre nosotros."
+        },
+        {
+            "id": "jdg9_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y la vid les respondió:"
+        },
+        {
+            "id": "jdg9_13b",
+            "speaker": "Jotam",
+            "verse": 13,
+            "text": "¿He de dejar mi mosto, que alegra a Dios y a los hombres, por ir a ser grande sobre los árboles?"
+        },
+        {
+            "id": "jdg9_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Dijeron entonces todos los árboles al escaramujo:"
+        },
+        {
+            "id": "jdg9_14b",
+            "speaker": "Jotam",
+            "verse": 14,
+            "text": "Anda tú, reina sobre nosotros."
+        },
+        {
+            "id": "jdg9_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y el escaramujo respondió a los árboles:"
+        },
+        {
+            "id": "jdg9_15b",
+            "speaker": "Jotam",
+            "verse": 15,
+            "text": "Si en verdad me elegís por rey sobre vosotros, venid, y aseguraos debajo de mi sombra; y si no, fuego salga del escaramujo que devore los cedros del Líbano."
+        },
+        {
+            "id": "jdg9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Ahora pues, si con verdad y con integridad habéis procedido en hacer rey a Abimelec, y si lo habéis hecho bien con Jerobaal y con su casa, y si le habéis pagado conforme a la obra de sus manos"
+        },
+        {
+            "id": "jdg9_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "(Pues que mi padre peleó por vosotros, y expuso su vida por libraros de mano de Madián;"
+        },
+        {
+            "id": "jdg9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "y vosotros os levantasteis hoy contra la casa de mi padre, y matasteis sus hijos, setenta varones, sobre una piedra; y habéis puesto por rey sobre los de Siquem a Abimelec, hijo de su criada, por cuanto es vuestro hermano);"
+        },
+        {
+            "id": "jdg9_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "si con verdad y con integridad habéis obrado hoy con Jerobaal y con su casa, entonces gozad de Abimelec, y que él goce de vosotros."
+        },
+        {
+            "id": "jdg9_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y si no, fuego salga de Abimelec, que consuma a los de Siquem y a la casa de Milo; y fuego salga de los de Siquem y de la casa de Milo, que consuma a Abimelec."
+        },
+        {
+            "id": "jdg9_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y huyó Jotam, y se fugó, y se fue a Beer, y allí se estuvo por causa de Abimelec su hermano."
+        },
+        {
+            "id": "jdg9_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y después que Abimelec hubo reinado sobre Israel tres años,"
+        },
+        {
+            "id": "jdg9_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "envió Dios un espíritu malo entre Abimelec y los hombres de Siquem. Y los de Siquem se levantaron contra Abimelec,"
+        },
+        {
+            "id": "jdg9_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "para que la crueldad hecha a los setenta hijos de Jerobaal, y la sangre de ellos, viniera a ponerse sobre Abimelec su hermano que los mató, y sobre los hombres de Siquem que lo ayudaron a matar a sus hermanos."
+        },
+        {
+            "id": "jdg9_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y los de Siquem le pusieron acechadores en las cumbres de los montes, los cuales asaltaban a todos los que pasaban junto a ellos por el camino; de lo que fue dado aviso a Abimelec."
+        },
+        {
+            "id": "jdg9_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Gaal hijo de Ebed vino con sus hermanos, y se pasaron a Siquem; y los de Siquem pusieron su confianza en él."
+        },
+        {
+            "id": "jdg9_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y saliendo al campo, vendimiaron sus viñas y pisaron la uva, e hicieron fiesta; y entrando en el templo de sus dioses, comieron y bebieron, y maldijeron a Abimelec."
+        },
+        {
+            "id": "jdg9_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Gaal hijo de Ebed dijo:"
+        },
+        {
+            "id": "jdg9_28b",
+            "speaker": "Gaal",
+            "verse": 28,
+            "text": "¿Quién es Abimelec y qué es Siquem, para que nosotros le sirvamos? ¿No es hijo de Jerobaal? ¿Y no es Zebul su asistente? Servid a los varones de Hamor padre de Siquem; mas ¿por qué habíamos de servirle a él?"
+        },
+        {
+            "id": "jdg9_29a",
+            "speaker": "Gaal",
+            "verse": 29,
+            "text": "¡Quisiera Dios que este pueblo estuviera bajo mi mano! Yo echaría luego a Abimelec. Y decía a Abimelec:"
+        },
+        {
+            "id": "jdg9_29b",
+            "speaker": "Gaal",
+            "verse": 29,
+            "text": "Aumenta tus escuadrones, y sal."
+        },
+        {
+            "id": "jdg9_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y Zebul alcalde de la ciudad, oyendo las palabras de Gaal hijo de Ebed, se encendió en ira;"
+        },
+        {
+            "id": "jdg9_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y envió mensajeros secretamente a Abimelec, diciendo:"
+        },
+        {
+            "id": "jdg9_31b",
+            "speaker": "Zebul",
+            "verse": 31,
+            "text": "He aquí que Gaal hijo de Ebed y sus hermanos han venido a Siquem, y he aquí, que están sublevando la ciudad contra ti."
+        },
+        {
+            "id": "jdg9_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Levántate pues, ahora de noche, tú y el pueblo que está contigo, y pon emboscadas en el campo."
+        },
+        {
+            "id": "jdg9_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y será que por la mañana, al salir el sol, te levantarás y acometerás contra la ciudad; y he aquí que cuando él y el pueblo que está con él salgan contra ti, tú harás con él según se te presente la ocasión."
+        },
+        {
+            "id": "jdg9_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Levantándose pues, de noche Abimelec y todo el pueblo que con él estaba, pusieron emboscada contra Siquem con cuatro compañías."
+        },
+        {
+            "id": "jdg9_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y Gaal hijo de Ebed salió, y se puso a la entrada de la puerta de la ciudad: y Abimelec y todo el pueblo que con él estaba, se levantaron de la emboscada."
+        },
+        {
+            "id": "jdg9_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y cuando Gaal vio al pueblo, dijo a Zebul:"
+        },
+        {
+            "id": "jdg9_36b",
+            "speaker": "Gaal",
+            "verse": 36,
+            "text": "He allí pueblo que desciende de las cumbres de las montañas."
+        },
+        {
+            "id": "jdg9_36c",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y Zebul le respondió:"
+        },
+        {
+            "id": "jdg9_36d",
+            "speaker": "Zebul",
+            "verse": 36,
+            "text": "Tú ves la sombra de las montañas como si fueran hombres."
+        },
+        {
+            "id": "jdg9_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Mas Gaal volvió a hablar, y dijo:"
+        },
+        {
+            "id": "jdg9_37b",
+            "speaker": "Gaal",
+            "verse": 37,
+            "text": "He allí pueblo que desciende por medio de la tierra, y un escuadrón que viene camino del valle de Meonenim."
+        },
+        {
+            "id": "jdg9_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y Zebul le respondió:"
+        },
+        {
+            "id": "jdg9_38b",
+            "speaker": "Zebul",
+            "verse": 38,
+            "text": "¿Dónde está ahora aquel tu hablar, diciendo: Quién es Abimelec para que le sirvamos? ¿No es éste el pueblo que tenías en poco? Sal pues, ahora, y pelea contra él."
+        },
+        {
+            "id": "jdg9_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y Gaal salió delante de los de Siquem, y peleó contra Abimelec."
+        },
+        {
+            "id": "jdg9_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Mas lo persiguió Abimelec, delante del cual él huyó; y cayeron heridos muchos hasta la entrada de la puerta."
+        },
+        {
+            "id": "jdg9_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y Abimelec se quedó en Aruma; y Zebul echó fuera a Gaal y a sus hermanos, para que no morasen en Siquem."
+        },
+        {
+            "id": "jdg9_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y aconteció al siguiente día, que el pueblo salió al campo: y fue dado aviso a Abimelec."
+        },
+        {
+            "id": "jdg9_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "El cual, tomando gente, la repartió en tres escuadrones, y puso emboscadas en el campo; y cuando miró, he aquí el pueblo que salía de la ciudad; y se levantó contra ellos y los mató."
+        },
+        {
+            "id": "jdg9_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y Abimelec y el escuadrón que estaba con él, acometieron con ímpetu, y pararon a la entrada de la puerta de la ciudad; y los otros dos escuadrones acometieron contra todos los que estaban en el campo y los mataron."
+        },
+        {
+            "id": "jdg9_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y Abimelec combatió contra aquella ciudad todo aquel día; y tomó la ciudad, y mató al pueblo que estaba en ella, y asoló la ciudad y la sembró de sal."
+        },
+        {
+            "id": "jdg9_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y cuando oyeron esto todos los que estaban en la torre de Siquem, entraron en la fortaleza del templo del dios Berit."
+        },
+        {
+            "id": "jdg9_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y fue dicho a Abimelec que todos los hombres de la torre de Siquem estaban reunidos."
+        },
+        {
+            "id": "jdg9_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Entonces subió Abimelec al monte de Salmón, él y toda la gente que con él estaba; y tomó Abimelec un hacha en su mano, y cortó una rama de los árboles, y levantándola se la puso sobre sus hombros, diciendo al pueblo que estaba con él:"
+        },
+        {
+            "id": "jdg9_48b",
+            "speaker": "Abimelec",
+            "verse": 48,
+            "text": "Lo que me habéis visto hacer, apresuraos y haced lo mismo."
+        },
+        {
+            "id": "jdg9_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y así todo el pueblo cortó también cada uno su rama, y siguieron a Abimelec, y las pusieron junto a la fortaleza, y prendieron fuego con ellas a la fortaleza de modo que todos los de la torre de Siquem murieron, como unos mil hombres y mujeres."
+        },
+        {
+            "id": "jdg9_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Después Abimelec se fue a Tebes; y acampó contra Tebes, y la tomó."
+        },
+        {
+            "id": "jdg9_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "En medio de aquella ciudad había una torre fuerte, a la cual se retiraron todos los hombres y mujeres, y todos los señores de la ciudad; y cerrando tras sí las puertas, se subieron al piso alto de la torre."
+        },
+        {
+            "id": "jdg9_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y vino Abimelec a la torre, y combatiéndola, se acercó a la puerta de la torre para prenderle fuego."
+        },
+        {
+            "id": "jdg9_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Pero una mujer dejó caer un pedazo de una rueda de molino sobre la cabeza de Abimelec y le quebró el cráneo."
+        },
+        {
+            "id": "jdg9_54a",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y luego llamó él a su escudero, y le dijo:"
+        },
+        {
+            "id": "jdg9_54b",
+            "speaker": "Abimelec",
+            "verse": 54,
+            "text": "Saca tu espada y mátame, para que no se diga de mí: Una mujer lo mató. Y su escudero le atravesó, y murió."
+        },
+        {
+            "id": "jdg9_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y cuando los hombres de Israel vieron muerto a Abimelec, se fueron cada uno a su casa."
+        },
+        {
+            "id": "jdg9_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Así pagó Dios a Abimelec el mal que hizo contra su padre matando a sus setenta hermanos."
+        },
+        {
+            "id": "jdg9_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Y toda la maldad de los hombres de Siquem la hizo Dios volver sobre sus cabezas: y la maldición de Jotam, hijo de Jerobaal, vino sobre ellos."
+        }
+    ]
+}

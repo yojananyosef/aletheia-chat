@@ -1,0 +1,229 @@
+{
+    "book": "Jueces",
+    "chapter": 3,
+    "title": "Jueces 3",
+    "messages": [
+        {
+            "id": "jdg3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Éstas, pues, son las naciones que dejó Jehová para probar con ellas a Israel, a todos aquellos que no habían conocido todas las guerras de Canaán;"
+        },
+        {
+            "id": "jdg3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "para que al menos el linaje de los hijos de Israel conociese, para enseñarlos en la guerra, al menos a los que antes no la habían conocido."
+        },
+        {
+            "id": "jdg3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Cinco príncipes de los filisteos, y todos los cananeos, y los sidonios, y los heveos que habitaban en el monte Líbano; desde el monte de Baal-hermón hasta llegar a Hamat."
+        },
+        {
+            "id": "jdg3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Éstos, pues, fueron para probar por ellos a Israel, para saber si obedecerían a los mandamientos de Jehová, que Él había prescrito a sus padres por mano de Moisés."
+        },
+        {
+            "id": "jdg3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así los hijos de Israel habitaban entre los cananeos, heteos, amorreos, ferezeos, heveos, y jebuseos."
+        },
+        {
+            "id": "jdg3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y tomaron de sus hijas por esposas, y dieron sus hijas a los hijos de ellos, y sirvieron a sus dioses."
+        },
+        {
+            "id": "jdg3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Hicieron, pues, los hijos de Israel lo malo ante los ojos de Jehová; y olvidaron a Jehová su Dios, y sirvieron a los Baales, y a las imágenes de Asera."
+        },
+        {
+            "id": "jdg3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y la ira de Jehová se encendió contra Israel, y los vendió en manos de Cusan-risataim rey de Mesopotamia; y sirvieron los hijos de Israel a Cusan-risataim ocho años."
+        },
+        {
+            "id": "jdg3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cuando los hijos de Israel clamaron a Jehová; Jehová levantó un libertador a los hijos de Israel y los libró; esto es, a Otoniel hijo de Cenaz, hermano menor de Caleb."
+        },
+        {
+            "id": "jdg3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el Espíritu de Jehová fue sobre él, y juzgó a Israel, y salió a batalla, y Jehová entregó en su mano a Cusan-risataim, rey de Mesopotamia, y prevaleció su mano contra Cusan-risataim."
+        },
+        {
+            "id": "jdg3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y reposó la tierra cuarenta años; y murió Otoniel, hijo de Cenaz."
+        },
+        {
+            "id": "jdg3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y los hijos de Israel volvieron a hacer lo malo ante los ojos de Jehová; y Jehová esforzó a Eglón rey de Moab contra Israel, por cuanto habían hecho lo malo ante los ojos de Jehová."
+        },
+        {
+            "id": "jdg3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y juntó consigo a los hijos de Amón y de Amalec, y fue, e hirió a Israel, y tomó la ciudad de las palmas."
+        },
+        {
+            "id": "jdg3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y los hijos de Israel sirvieron a Eglón rey de los moabitas dieciocho años."
+        },
+        {
+            "id": "jdg3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y los hijos de Israel clamaron a Jehová; y Jehová les levantó un libertador, a Aod, hijo de Gera, benjamita, el cual era zurdo. Y los hijos de Israel enviaron con él un presente a Eglón rey de Moab."
+        },
+        {
+            "id": "jdg3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Aod se había hecho un puñal de dos filos, de un codo de largo; y se lo ciñó debajo de sus ropas sobre su muslo derecho."
+        },
+        {
+            "id": "jdg3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y trajo el presente a Eglón rey de Moab; y Eglón era un hombre muy obeso."
+        },
+        {
+            "id": "jdg3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y luego que hubo entregado el presente, despidió a la gente que lo había traído."
+        },
+        {
+            "id": "jdg3_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas él se volvió desde los ídolos que estaban en Gilgal, y dijo:"
+        },
+        {
+            "id": "jdg3_19b",
+            "speaker": "Aod",
+            "verse": 19,
+            "text": "Rey, una palabra secreta tengo que decirte."
+        },
+        {
+            "id": "jdg3_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Él entonces dijo:"
+        },
+        {
+            "id": "jdg3_19d",
+            "speaker": "Eglón",
+            "verse": 19,
+            "text": "Calla. Y salieron de delante de él todos los que con él estaban."
+        },
+        {
+            "id": "jdg3_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y se acercó Aod a él, el cual estaba sentado solo en una sala de verano. Y Aod dijo:"
+        },
+        {
+            "id": "jdg3_20b",
+            "speaker": "Aod",
+            "verse": 20,
+            "text": "Tengo palabra de Dios para ti. Él entonces se levantó de su silla."
+        },
+        {
+            "id": "jdg3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Mas Aod metió su mano izquierda, y tomó el puñal de su lado derecho, y se lo metió por el vientre;"
+        },
+        {
+            "id": "jdg3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "y la empuñadura también entró tras la hoja, y la grosura encerró la hoja, pues él no sacó el puñal de su vientre; y salió el estiércol."
+        },
+        {
+            "id": "jdg3_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y saliendo Aod al patio, cerró tras sí las puertas de la sala y les puso el cerrojo."
+        },
+        {
+            "id": "jdg3_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y salido él, vinieron sus siervos, los cuales viendo las puertas de la sala cerradas, dijeron:"
+        },
+        {
+            "id": "jdg3_24b",
+            "speaker": "Criado",
+            "verse": 24,
+            "text": "Sin duda él cubre sus pies en la sala de verano."
+        },
+        {
+            "id": "jdg3_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y habiendo esperado hasta estar confusos, pues que él no abría las puertas de la sala, tomaron la llave y abrieron; y he aquí su señor caído en tierra, muerto."
+        },
+        {
+            "id": "jdg3_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mas entre tanto que ellos se detuvieron, Aod se escapó, y pasando los ídolos, escapó a Seirat."
+        },
+        {
+            "id": "jdg3_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y aconteció que cuando hubo entrado, tocó la trompeta en el monte de Efraín, y los hijos de Israel descendieron con él del monte, y él iba delante de ellos."
+        },
+        {
+            "id": "jdg3_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces él les dijo:"
+        },
+        {
+            "id": "jdg3_28b",
+            "speaker": "Aod",
+            "verse": 28,
+            "text": "Seguidme, porque Jehová ha entregado vuestros enemigos los moabitas en vuestras manos. Y descendieron en pos de él, y tomaron los vados del Jordán a Moab, y no dejaron pasar a ninguno."
+        },
+        {
+            "id": "jdg3_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y en aquel tiempo hirieron de los moabitas como a diez mil hombres, todos valientes y todos hombres de guerra; no escapó hombre."
+        },
+        {
+            "id": "jdg3_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Así quedó Moab sojuzgado aquel día bajo la mano de Israel; y reposó la tierra ochenta años."
+        },
+        {
+            "id": "jdg3_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Después de éste fue Samgar hijo de Anat, el cual hirió seiscientos hombres de los filisteos con una aguijada de bueyes; y él también libró a Israel."
+        }
+    ]
+}

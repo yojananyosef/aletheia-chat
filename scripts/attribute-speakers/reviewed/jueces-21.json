@@ -1,0 +1,74 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  }
+]

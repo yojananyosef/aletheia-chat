@@ -1,0 +1,241 @@
+{
+    "book": "Jueces",
+    "chapter": 15,
+    "title": "Jueces 15",
+    "messages": [
+        {
+            "id": "jdg15_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció después de días, que en el tiempo de la siega del trigo, Sansón visitó a su esposa con un cabrito, diciendo:"
+        },
+        {
+            "id": "jdg15_1b",
+            "speaker": "Sansón",
+            "verse": 1,
+            "text": "Entraré a mi esposa a la cámara. Mas el padre de ella no lo dejó entrar."
+        },
+        {
+            "id": "jdg15_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo el padre de ella:"
+        },
+        {
+            "id": "jdg15_2b",
+            "speaker": "Suegro",
+            "verse": 2,
+            "text": "Pensé que la aborrecías del todo, y la di a tu compañero. Mas su hermana menor, ¿no es más hermosa que ella? Tómala, pues, en su lugar."
+        },
+        {
+            "id": "jdg15_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Sansón les respondió:"
+        },
+        {
+            "id": "jdg15_3b",
+            "speaker": "Sansón",
+            "verse": 3,
+            "text": "Yo seré sin culpa esta vez para con los filisteos, si mal les hiciere."
+        },
+        {
+            "id": "jdg15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y fue Sansón y atrapó trescientas zorras, y tomando teas, y trabando aquéllas por las colas, puso entre cada dos colas una tea."
+        },
+        {
+            "id": "jdg15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Después, encendiendo las teas, echó las zorras en los sembrados de los filisteos, y quemó las gavillas amontonadas y en pie, viñas y olivares."
+        },
+        {
+            "id": "jdg15_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y dijeron los filisteos:"
+        },
+        {
+            "id": "jdg15_6b",
+            "speaker": "Filisteos",
+            "verse": 6,
+            "text": "¿Quién hizo esto?"
+        },
+        {
+            "id": "jdg15_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y les fue dicho:"
+        },
+        {
+            "id": "jdg15_6d",
+            "speaker": "Filisteos",
+            "verse": 6,
+            "text": "Sansón, el yerno del timnateo, porque le quitó a su esposa y la dio a su compañero. Y vinieron los filisteos, y quemaron a fuego a ella y a su padre."
+        },
+        {
+            "id": "jdg15_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Sansón les dijo:"
+        },
+        {
+            "id": "jdg15_7b",
+            "speaker": "Sansón",
+            "verse": 7,
+            "text": "¿Así lo habíais de hacer? mas yo me vengaré de vosotros, y después cesaré."
+        },
+        {
+            "id": "jdg15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y los hirió pierna y muslo con gran mortandad; y descendió y habitó en la cueva de la peña de Etam."
+        },
+        {
+            "id": "jdg15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los filisteos subieron y acamparon en Judá, y se tendieron por Lehi."
+        },
+        {
+            "id": "jdg15_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y los varones de Judá les dijeron:"
+        },
+        {
+            "id": "jdg15_10b",
+            "speaker": "Judá",
+            "verse": 10,
+            "text": "¿Por qué habéis subido contra nosotros?"
+        },
+        {
+            "id": "jdg15_10c",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "jdg15_10d",
+            "speaker": "Filisteos",
+            "verse": 10,
+            "text": "A prender a Sansón hemos subido, para hacerle como él nos ha hecho."
+        },
+        {
+            "id": "jdg15_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y vinieron tres mil hombres de Judá a la cueva de la peña de Etam, y dijeron a Sansón:"
+        },
+        {
+            "id": "jdg15_11b",
+            "speaker": "Judá",
+            "verse": 11,
+            "text": "¿No sabes tú que los filisteos dominan sobre nosotros? ¿Por qué nos has hecho esto?"
+        },
+        {
+            "id": "jdg15_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él les respondió:"
+        },
+        {
+            "id": "jdg15_11d",
+            "speaker": "Sansón",
+            "verse": 11,
+            "text": "Yo les he hecho como ellos me hicieron."
+        },
+        {
+            "id": "jdg15_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Ellos entonces le dijeron:"
+        },
+        {
+            "id": "jdg15_12b",
+            "speaker": "Judá",
+            "verse": 12,
+            "text": "Nosotros hemos venido para prenderte, y entregarte en mano de los filisteos."
+        },
+        {
+            "id": "jdg15_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Sansón les respondió:"
+        },
+        {
+            "id": "jdg15_12d",
+            "speaker": "Sansón",
+            "verse": 12,
+            "text": "Juradme que vosotros no me mataréis."
+        },
+        {
+            "id": "jdg15_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y ellos le respondieron, diciendo:"
+        },
+        {
+            "id": "jdg15_13b",
+            "speaker": "Judá",
+            "verse": 13,
+            "text": "No, solamente te prenderemos, y te entregaremos en sus manos; mas no te mataremos. Entonces le ataron con dos cuerdas nuevas, y le hicieron venir de la peña."
+        },
+        {
+            "id": "jdg15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y así que vino hasta Lehi, los filisteos salieron gritando a su encuentro, y el Espíritu de Jehová descendió con poder sobre él, y las cuerdas que estaban en sus brazos se volvieron como lino quemado con fuego, y las ataduras se cayeron de sus manos."
+        },
+        {
+            "id": "jdg15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y hallando una quijada de asno fresca, extendió la mano y la tomó, e hirió con ella a mil hombres."
+        },
+        {
+            "id": "jdg15_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces Sansón dijo:"
+        },
+        {
+            "id": "jdg15_16b",
+            "speaker": "Sansón",
+            "verse": 16,
+            "text": "Con la quijada de un asno, un montón, dos montones; Con la quijada de un asno herí mil hombres."
+        },
+        {
+            "id": "jdg15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y sucedió que cuando acabó de hablar, arrojó de su mano la quijada, y llamó a aquel lugar Ramat-lehi."
+        },
+        {
+            "id": "jdg15_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y teniendo gran sed, clamó luego a Jehová, y dijo:"
+        },
+        {
+            "id": "jdg15_18b",
+            "speaker": "Sansón",
+            "verse": 18,
+            "text": "Tú has dado esta gran salvación por mano de tu siervo: ¿y moriré yo ahora de sed, y caeré en mano de los incircuncisos?"
+        },
+        {
+            "id": "jdg15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces quebró Dios una muela que estaba en la quijada, y salieron de allí aguas, y bebió, y recobró su espíritu, y se reanimó. Por eso llamó el nombre de aquel lugar, En-hacore, el cual está en Lehi, hasta hoy."
+        },
+        {
+            "id": "jdg15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y juzgó a Israel en días de los filisteos veinte años."
+        }
+    ]
+}

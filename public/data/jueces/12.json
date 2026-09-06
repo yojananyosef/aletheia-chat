@@ -1,0 +1,139 @@
+{
+    "book": "Jueces",
+    "chapter": 12,
+    "title": "Jueces 12",
+    "messages": [
+        {
+            "id": "jdg12_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y reuniéndose los varones de Efraín, pasaron hacia el norte, y dijeron a Jefté:"
+        },
+        {
+            "id": "jdg12_1b",
+            "speaker": "Efraín",
+            "verse": 1,
+            "text": "¿Por qué fuiste a hacer guerra contra los hijos de Amón, y no nos llamaste para que fuéramos contigo? Nosotros quemaremos a fuego tu casa contigo."
+        },
+        {
+            "id": "jdg12_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Jefté les respondió:"
+        },
+        {
+            "id": "jdg12_2b",
+            "speaker": "Jefté",
+            "verse": 2,
+            "text": "Yo tuve, y mi pueblo, una gran contienda con los hijos de Amón, y os llamé, y no me defendisteis de sus manos."
+        },
+        {
+            "id": "jdg12_3",
+            "speaker": "Jefté",
+            "verse": 3,
+            "text": "Viendo, pues, que no me defendíais, puse mi vida en la palma de mi mano, y pasé contra los hijos de Amón, y Jehová los entregó en mi mano. ¿Por qué, pues, habéis subido hoy contra mí para pelear conmigo?"
+        },
+        {
+            "id": "jdg12_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y juntando Jefté a todos los varones de Galaad, peleó contra Efraín; y los de Galaad hirieron a Efraín, porque habían dicho:"
+        },
+        {
+            "id": "jdg12_4b",
+            "speaker": "Efraín",
+            "verse": 4,
+            "text": "Vosotros sois fugitivos de Efraín, vosotros sois galaaditas en medio de Efraín y en medio de Manasés."
+        },
+        {
+            "id": "jdg12_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los galaaditas tomaron los vados del Jordán a Efraín; y era que, cuando alguno de los de Efraín que había huido, decía, ¿pasaré? Los de Galaad le preguntaban:"
+        },
+        {
+            "id": "jdg12_5b",
+            "speaker": "Galaaditas",
+            "verse": 5,
+            "text": "¿Eres tú efrateo?"
+        },
+        {
+            "id": "jdg12_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Si él respondía:"
+        },
+        {
+            "id": "jdg12_5d",
+            "speaker": "Galaaditas",
+            "verse": 5,
+            "text": "No;"
+        },
+        {
+            "id": "jdg12_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces le decían:"
+        },
+        {
+            "id": "jdg12_6b",
+            "speaker": "Galaaditas",
+            "verse": 6,
+            "text": "Ahora, pues, di Shibolet. Y él decía Sibolet; porque no podía pronunciarlo correctamente. Entonces le echaban mano, y le degollaban junto a los vados del Jordán. Y murieron entonces de los de Efraín cuarenta y dos mil."
+        },
+        {
+            "id": "jdg12_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Jefté juzgó a Israel seis años: luego murió Jefté galaadita, y fue sepultado en una de las ciudades de Galaad."
+        },
+        {
+            "id": "jdg12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Después de él juzgó a Israel Ibzan de Belén;"
+        },
+        {
+            "id": "jdg12_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El cual tuvo treinta hijos y treinta hijas, las cuales casó fuera, y tomó de fuera treinta hijas para sus hijos; y juzgó a Israel siete años."
+        },
+        {
+            "id": "jdg12_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y murió Ibzan, y fue sepultado en Belén."
+        },
+        {
+            "id": "jdg12_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Después de él juzgó a Israel Elón, zabulonita, el cual juzgó a Israel diez años."
+        },
+        {
+            "id": "jdg12_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y murió Elón, zabulonita, y fue sepultado en Ajalón en la tierra de Zabulón."
+        },
+        {
+            "id": "jdg12_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Después de él juzgó a Israel Abdón, hijo de Hilel, piratonita."
+        },
+        {
+            "id": "jdg12_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Éste tuvo cuarenta hijos y treinta nietos que cabalgaban sobre setenta asnos; y juzgó a Israel ocho años."
+        },
+        {
+            "id": "jdg12_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y murió Abdón, hijo de Hilel, piratonita, y fue sepultado en Piratón, en la tierra de Efraín, en el monte de Amalec."
+        }
+    ]
+}

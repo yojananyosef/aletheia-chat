@@ -1,0 +1,319 @@
+{
+    "book": "Jueces",
+    "chapter": 8,
+    "title": "Jueces 8",
+    "messages": [
+        {
+            "id": "jdg8_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y los de Efraín le dijeron:"
+        },
+        {
+            "id": "jdg8_1b",
+            "speaker": "Efraín",
+            "verse": 1,
+            "text": "¿Qué es esto que has hecho con nosotros, no llamándonos cuando ibas a la guerra contra Madián? Y lo regañaron fuertemente."
+        },
+        {
+            "id": "jdg8_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y él les respondió:"
+        },
+        {
+            "id": "jdg8_2b",
+            "speaker": "Gedeón",
+            "verse": 2,
+            "text": "¿Qué he hecho yo ahora en comparación con vosotros? ¿No es el rebusco de Efraín mejor que la vendimia de Abiezer?"
+        },
+        {
+            "id": "jdg8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Dios ha entregado en vuestras manos a Oreb y a Zeeb, príncipes de Madián: ¿y qué pude hacer yo en comparación con vosotros? Entonces el enojo de ellos contra él se aplacó, luego que él habló esta palabra."
+        },
+        {
+            "id": "jdg8_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y vino Gedeón al Jordán para pasar, él y los trescientos hombres que traía consigo, cansados, pero todavía persiguiendo."
+        },
+        {
+            "id": "jdg8_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y dijo a los de Sucot:"
+        },
+        {
+            "id": "jdg8_5b",
+            "speaker": "Gedeón",
+            "verse": 5,
+            "text": "Yo os ruego que deis a la gente que me sigue algunos bocados de pan; porque están cansados, y yo persigo a Zeba y a Zalmuna, reyes de Madián."
+        },
+        {
+            "id": "jdg8_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y los principales de Sucot respondieron:"
+        },
+        {
+            "id": "jdg8_6b",
+            "speaker": "Hombres",
+            "verse": 6,
+            "text": "¿Está ya la mano de Zeba y Zalmuna en tu mano, para que tengamos que dar pan a tu ejército?"
+        },
+        {
+            "id": "jdg8_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Gedeón dijo:"
+        },
+        {
+            "id": "jdg8_7b",
+            "speaker": "Gedeón",
+            "verse": 7,
+            "text": "Pues cuando Jehová hubiere entregado en mi mano a Zeba y a Zalmuna, yo trillaré vuestra carne con espinas y abrojos del desierto."
+        },
+        {
+            "id": "jdg8_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y de allí subió a Peniel, y les habló las mismas palabras. Y los de Peniel le respondieron como habían respondido los de Sucot."
+        },
+        {
+            "id": "jdg8_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y él habló también a los de Peniel, diciendo:"
+        },
+        {
+            "id": "jdg8_9b",
+            "speaker": "Gedeón",
+            "verse": 9,
+            "text": "Cuando yo tornare en paz, derribaré esta torre."
+        },
+        {
+            "id": "jdg8_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Zeba y Zalmuna estaban en Carcor, y con ellos su ejército de como quince mil hombres, todos los que habían quedado de todo el campamento de los orientales; y los muertos habían sido ciento veinte mil hombres que sacaban espada."
+        },
+        {
+            "id": "jdg8_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y subiendo Gedeón hacia los que habitaban en tiendas, a la parte oriental de Noba y de Jogbeha, hirió el campamento, porque el ejército estaba seguro."
+        },
+        {
+            "id": "jdg8_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y huyendo Zeba y Zalmuna, él los siguió; y capturó a los dos reyes de Madián, Zeba y Zalmuna, y atemorizó a todo el ejército."
+        },
+        {
+            "id": "jdg8_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Gedeón hijo de Joás volvió de la batalla antes que el sol subiera;"
+        },
+        {
+            "id": "jdg8_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y tomó un joven de los de Sucot, y preguntándole, él le dio por escrito los principales de Sucot y sus ancianos, setenta y siete varones."
+        },
+        {
+            "id": "jdg8_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y entrando a los de Sucot, dijo:"
+        },
+        {
+            "id": "jdg8_15b",
+            "speaker": "Gedeón",
+            "verse": 15,
+            "text": "He aquí a Zeba y a Zalmuna, sobre los cuales me injuriasteis, diciendo: ¿Está ya la mano de Zeba y de Zalmuna en tu mano, para que demos nosotros pan a tus hombres cansados?"
+        },
+        {
+            "id": "jdg8_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y tomó a los ancianos de la ciudad, y espinas y abrojos del desierto, y castigó con ellos a los de Sucot."
+        },
+        {
+            "id": "jdg8_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Asimismo derribó la torre de Peniel, y mató a los de la ciudad."
+        },
+        {
+            "id": "jdg8_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Luego dijo a Zeba y a Zalmuna:"
+        },
+        {
+            "id": "jdg8_18b",
+            "speaker": "Gedeón",
+            "verse": 18,
+            "text": "¿Qué aspecto tenían aquellos hombres que matasteis en Tabor?"
+        },
+        {
+            "id": "jdg8_18c",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "jdg8_18d",
+            "speaker": "Madianita",
+            "verse": 18,
+            "text": "Como tú, así eran ellos ni más ni menos, cada uno parecía hijo de rey."
+        },
+        {
+            "id": "jdg8_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "jdg8_19b",
+            "speaker": "Gedeón",
+            "verse": 19,
+            "text": "Mis hermanos eran, hijos de mi madre: ¡Vive Jehová, que si les hubierais guardado la vida, yo no os mataría!"
+        },
+        {
+            "id": "jdg8_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y dijo a Jeter su primogénito:"
+        },
+        {
+            "id": "jdg8_20b",
+            "speaker": "Gedeón",
+            "verse": 20,
+            "text": "Levántate, y mátalos. Mas el joven no desenvainó su espada, porque tenía temor; pues aún era muchacho."
+        },
+        {
+            "id": "jdg8_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces dijo Zeba y Zalmuna:"
+        },
+        {
+            "id": "jdg8_21b",
+            "speaker": "Madianita",
+            "verse": 21,
+            "text": "Levántate tú, y mátanos; porque como es el varón, tal es su valentía. Y Gedeón se levantó, y mató a Zeba y a Zalmuna; y tomó los adornos de lunetas que sus camellos traían al cuello."
+        },
+        {
+            "id": "jdg8_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y los israelitas dijeron a Gedeón:"
+        },
+        {
+            "id": "jdg8_22b",
+            "speaker": "Pueblo",
+            "verse": 22,
+            "text": "Sé nuestro señor, tú, y tu hijo, y tu nieto; pues que nos has librado de mano de Madián."
+        },
+        {
+            "id": "jdg8_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Mas Gedeón respondió:"
+        },
+        {
+            "id": "jdg8_23b",
+            "speaker": "Gedeón",
+            "verse": 23,
+            "text": "No seré señor sobre vosotros, ni mi hijo os señoreará: Jehová será vuestro Señor."
+        },
+        {
+            "id": "jdg8_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y les dijo Gedeón:"
+        },
+        {
+            "id": "jdg8_24b",
+            "speaker": "Gedeón",
+            "verse": 24,
+            "text": "Deseo haceros una petición, que cada uno me dé los zarcillos de su despojo. (Porque traían zarcillos de oro, porque eran ismaelitas.)"
+        },
+        {
+            "id": "jdg8_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "jdg8_25b",
+            "speaker": "Pueblo",
+            "verse": 25,
+            "text": "De buena gana los daremos. Y tendiendo una ropa de vestir, echó allí cada uno los zarcillos de su despojo."
+        },
+        {
+            "id": "jdg8_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y fue el peso de los zarcillos de oro que él pidió, mil setecientos siclos de oro; sin las planchas, y joyeles, y vestiduras de púrpura que portaban los reyes de Madián, y sin los collares que traían sus camellos al cuello."
+        },
+        {
+            "id": "jdg8_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Gedeón hizo de ellos un efod, el cual hizo guardar en su ciudad de Ofra; y todo Israel fornicó tras de ese efod en aquel lugar; y fue por tropiezo a Gedeón y a su casa."
+        },
+        {
+            "id": "jdg8_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Así fue humillado Madián delante de los hijos de Israel, y nunca más levantaron su cabeza. Y reposó la tierra cuarenta años en los días de Gedeón."
+        },
+        {
+            "id": "jdg8_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Jerobaal hijo de Joás fue, y habitó en su casa."
+        },
+        {
+            "id": "jdg8_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y tuvo Gedeón setenta hijos que salieron de su muslo, porque tuvo muchas esposas."
+        },
+        {
+            "id": "jdg8_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y su concubina que estaba en Siquem, también le dio a luz un hijo; y le puso por nombre Abimelec."
+        },
+        {
+            "id": "jdg8_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y murió Gedeón hijo de Joás en buena vejez, y fue sepultado en el sepulcro de su padre Joás, en Ofra de los abiezeritas."
+        },
+        {
+            "id": "jdg8_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y aconteció que cuando murió Gedeón, los hijos de Israel volvieron a prostituirse en pos de los Baales, e hicieron de Baal-berit su dios."
+        },
+        {
+            "id": "jdg8_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y no se acordaron los hijos de Israel de Jehová su Dios, que los había librado de todos sus enemigos alrededor;"
+        },
+        {
+            "id": "jdg8_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "ni correspondieron con bondad a la casa de Jerobaal, el cual es Gedeón conforme a todo el bien que él había hecho a Israel."
+        }
+    ]
+}
