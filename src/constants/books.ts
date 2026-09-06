@@ -96,7 +96,12 @@ export const BIBLE_BOOKS: BookInfo[] = [
         category: 'Evangelios', description: 'El Siervo sufriente.',
         participants: ['Dios', 'Narrador', 'Jesús', 'Juan el Bautista', 'Juan', 'Herodes', 'Herodías', 'Hija de Herodías', 'Pilato', 'Pedro', 'Jacobo y Juan', 'Discípulos', 'Fariseos', 'Escribas', 'Saduceos', 'Sacerdotes', 'Sumo sacerdote', 'Multitud', 'Mujer', 'Mujeres', 'Hombre', 'Padre', 'Familiares', 'Demonio', 'Leproso', 'Ciego', 'Bartimeo', 'Jairo', 'Judas', 'Centurión', 'Testigos', 'Soldados', 'Criada', 'Mensajero', 'Joven']
     },
-    { id: 'lucas', name: 'Lucas', availableChapters: [], isLocked: true, category: 'Evangelios', description: 'El Salvador de toda la humanidad.', participants: ['Jesús'] },
+    {
+        id: 'lucas', name: 'Lucas',
+        availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+        category: 'Evangelios', description: 'El Salvador de toda la humanidad.',
+        participants: ['Dios', 'Narrador', 'Jesús', 'Juan el Bautista', 'Juan', 'Herodes', 'Pilato', 'Pedro', 'Discípulos', 'Fariseos', 'Escribas', 'Saduceos', 'Sacerdotes', 'Multitud', 'María', 'Elisabet', 'Zacarías', 'Simeón', 'Pastores', 'Ángel', 'Ángeles', 'Mujer', 'Mujeres', 'Hombre', 'Padre', 'Familiares', 'Demonio', 'Leproso', 'Leprosos', 'Ciego', 'Publicanos', 'Publicano', 'Doctor', 'Marta', 'Zaqueo', 'Ladrones', 'Cleofas', 'Judas', 'Centurión', 'Soldados', 'Criada', 'Mensajero', 'Ancianos', 'Joven']
+    },
     { id: 'juan', name: 'Juan', availableChapters: [], isLocked: true, category: 'Evangelios', description: 'El Hijo de Dios entre nosotros.', participants: ['Jesús', 'Juan'] },
 
     // --- HISTORIA NT ---

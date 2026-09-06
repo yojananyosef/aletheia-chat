@@ -27,6 +27,8 @@ export type CanonicalSpeaker =
     | 'Jairo' | 'Centurión' | 'Sumo sacerdote' | 'Sacerdotes' | 'Testigos'
     | 'Bartimeo' | 'Criada' | 'Joven' | 'Familiares' | 'Padre' | 'Soldados'
     | 'Ciego' | 'Jacobo y Juan' | 'Hija de Herodías'
+    | 'Elisabet' | 'Simeón' | 'Marta' | 'Zaqueo' | 'Ladrones' | 'Cleofas'
+    | 'Publicanos' | 'Publicano' | 'Doctor' | 'Leprosos' | 'Pastores'
     | 'Santiago' | 'Juan' | 'Judas' | 'Ángeles';
 
 export type Speaker = CanonicalSpeaker | (string & {});
