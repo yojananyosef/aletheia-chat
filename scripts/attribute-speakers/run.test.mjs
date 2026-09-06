@@ -195,6 +195,14 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(j6.messages, 13, 'b'), 'Gedeón');
   });
 
+  it('JOS carryover: marco "...diciendo:" abre discurso (1:1 -> 1:2-9 Dios)', () => {
+    const j1 = run('josue', 'JOS', 1);
+    assert.equal(speakerOf(j1.messages, 1, 'a'), 'Narrador');
+    for (const v of [2, 3, 4, 5, 6, 7, 8, 9]) assert.equal(speakerOf(j1.messages, v, ''), 'Dios');
+    assert.equal(speakerOf(j1.messages, 10, 'a'), 'Narrador');
+    assert.equal(speakerOf(j1.messages, 11, 'a'), 'Josué');
+  });
+
   it('JDG voces: Jefté 11:7, Sansón 14:12, Dalila 16:6', () => {
     const j11 = run('jueces', 'JDG', 11);
     assert.equal(speakerOf(j11.messages, 7, 'b'), 'Jefté');

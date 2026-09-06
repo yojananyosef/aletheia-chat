@@ -220,6 +220,39 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
     messages.push({ id: `${abbr}${chapter}_${verse}${subId}`, speaker, verse, text, ...extra });
   };
 
+  // Voz activa heredable: un verso-marco que termina en "...diciendo:" abre un
+  // discurso cuya voz continúa en los versos siguientes sin marco (Jos 1:1 ->
+  // 1:2-9: "Jehová habló a Josué... diciendo:" + discurso divino puro). Se
+  // actualiza con cada marco/discurso identificado y la rompe la narración pura.
+  let carried = null;
+  // Marcas de discurso directo en 1ª/2ª persona (el relato en 3ª persona casi
+  // nunca las usa): distinguen continuación de discurso de interludio narrativo.
+  // OJO: \b en JS es ASCII aunque haya flag 'u' — para palabras con tilde
+  // hay que usar lookarounds unicode (igual que rx()).
+  const WB_L = '(?<![\\p{L}\\p{N}_])';
+  const WB_R = '(?![\\p{L}\\p{N}_])';
+  const SPEECHMARK_RE = new RegExp(`[?¡¿!]|(${WB_L}(yo|mi|me|mí|conmigo|tú|tu|te|ti|contigo|os|vosotros|vosotras|vuestro|vuestra|vuestros|vuestras|nuestro|nuestra|mío|mía|míos|mías)${WB_R})`, 'iu');
+  // Imperativo 2ª persona ("Pasad", "Acordaos", "Levántate"): distingue una
+  // orden transmitida (Jos 1:11a = Josué) de un marco narrativo puro
+  // ("Y dijo al pueblo:" = Narrador). Denylist de sustantivos -ad/-ed.
+  const IMPERATIVE_RE = new RegExp(`${WB_L}(?!verdad|bondad|maldad|ciudad|trinidad|mitad|voluntad|hermandad|amistad|merced|pared|edad|enfermedad)(\\w{3,}(?:ad|ed|id|aos|eos|[íi]os|ate|ete))${WB_R}`, 'iu');
+  const looksSpeech = (t) => SPEECHMARK_RE.test(t) || IMPERATIVE_RE.test(t);
+  // Hablante que introduce un verso-marco "...diciendo:". Orden:
+  // 1) sujeto inicial explícito ("Y Josué mandó... diciendo:" -> Josué);
+  // 2) Jehová como emisor ("Jehová habló a Josué... diciendo:" -> Dios,
+  //    pero "clamó/oró a Jehová:" es oración humana, no voz divina);
+  // 3) detectSayer como fallback.
+  const resolveIntro = (frameText) => {
+    const subjM = frameText.trim().match(/^(?:y|entonces|mas|pero|también|he aquí que)\s+([\p{Lu}][\p{L}]+)/iu);
+    if (subjM && valid.has(subjM[1])) return subjM[1];
+    if (/jehov[áa]/iu.test(frameText)
+      && new RegExp(`${WB_L}(habl|dijo|dij|respond|llam)[\\p{L}]*`, 'i').test(frameText)
+      && !/(clam|or[oó]|rog|suplic|bendij)[\p{L}]*\s+a\s+jehov[áa]/iu.test(frameText)) return 'Dios';
+    const s = detectSayer(frameText, patterns);
+    if (s && valid.has(s.speaker) && !s.multi) return s.speaker;
+    return null;
+  };
+
   for (const v of verses) {
     const verseNum = v.number;
     const headings = [...(v.headings ?? []), ...(headingsByVerse[String(verseNum)] ?? [])].filter(Boolean);
@@ -258,8 +291,13 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         const sub = nextSub();
         pushMsg(verseNum, sub, 'Narrador', p);
         diagnosis.push({ verse: verseNum, subId: sub, speaker: 'Narrador', confidence: 0.9, rule: 'split-dijo', ambiguous: false });
+        lastNarr = { sub, text: p };
         return p;
       };
+      let lastSpeech = null;
+      let lastSpeechDefault = false;
+      let lastNarr = null;
+      const carriedBefore = carried;
       const emitSpeech = (part, narrCtx) => {
         const p = part.trim();
         if (!p || p.length < minSpeechLen) return;
@@ -273,6 +311,10 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         const sub = nextSub();
         pushMsg(verseNum, sub, speaker, p);
         diagnosis.push({ verse: verseNum, subId: sub, speaker, confidence, rule, ambiguous });
+        if (valid.has(speaker) && speaker !== 'Narrador' && speaker !== 'Sistema') {
+          lastSpeech = speaker;
+          lastSpeechDefault = !sayer;
+        }
       };
       const verseStart = messages.length;
       // Capitaliza narradores que empiezan a mitad de frase ("dijo la mujer:" -> "Dijo la mujer:").
@@ -298,6 +340,58 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
           prevNarr = emitNarr(capNarr(carry + text.slice(cuts[k + 1].start, cuts[k + 1].end)));
         }
       }
+      // La voz del último discurso identificado queda activa para los versos
+      // siguientes sin marco. Un default-Dios no pisa una voz humana activa
+      // (el review decide el discurso; la voz sigue).
+      if (lastSpeech && !lastSpeechDefault) carried = lastSpeech;
+      else if (lastSpeechDefault && carriedBefore && carriedBefore !== 'Dios' && valid.has(carriedBefore)
+        && lastNarr && /:\s*$/.test(lastNarr.text) && !resolveIntro(lastNarr.text) && looksSpeech(lastNarr.text)) {
+        // Marco con discurso propio + discurso sin hablante en contexto de voz
+        // humana activa: el marco es discurso transmitido de esa voz
+        // (Jos 1:11a = orden de Josué; "Y dijo al pueblo:" sigue Narrador;
+        // el 11b queda a revisión como hasta ahora).
+        const di = diagnosis.findLastIndex(d => d.verse === verseNum && d.subId === lastNarr.sub);
+        const entry = { verse: verseNum, subId: lastNarr.sub, speaker: carriedBefore, confidence: 0.6, rule: 'frame-carryover', ambiguous: true };
+        if (di >= 0) diagnosis[di] = entry;
+        else diagnosis.push(entry);
+        const msg = messages.find(m => m.id === `${abbr}${chapter}_${verseNum}${lastNarr.sub}`);
+        if (msg) msg.speaker = carriedBefore;
+        carried = carriedBefore;
+      } else if (/:\s*$/.test(text) && DICENDI_RE.test(text)) {
+        // Marco puro al final del verso ("...diciendo:" sin discurso propio):
+        // fija la voz activa (Jos 1:1 -> Dios, Jos 1:10 -> Josué). Si el marco
+        // no resuelve hablante pero hay voz activa, el marco mismo es discurso
+        // transmitido (Jos 1:11a = orden de Josué a los oficiales).
+        const introSpk = resolveIntro(prevNarr);
+        if (introSpk) carried = introSpk;
+        const useSpk = introSpk ?? carried;
+        // Solo si el marco mismo trae discurso (imperativo/marcas); un marco
+        // narrativo puro ("Y ellos respondieron:") sigue siendo Narrador.
+        if (useSpk && valid.has(useSpk) && looksSpeech(text)) {
+          const lastMsg = messages[messages.length - 1];
+          const sub = (lastMsg.id.match(/_(\d+)([a-z0-9]*)$/) ?? [])[2] ?? '';
+          lastMsg.speaker = useSpk;
+          // Re-etiqueta la entrada split-dijo original en vez de duplicarla.
+          const entry = { verse: verseNum, subId: sub, speaker: useSpk, confidence: 0.6, rule: introSpk ? 'speech-intro' : 'frame-carryover', ambiguous: true };
+          const di = diagnosis.findLastIndex(d => d.verse === verseNum && d.subId === sub);
+          if (di >= 0) diagnosis[di] = entry;
+          else diagnosis.push(entry);
+        }
+      }
+    } else if (/:\s*$/.test(text) && DICENDI_RE.test(text)) {
+      // Verso-marco puro ("...diciendo:"): fija la voz activa (ver resolveIntro).
+      const introSpk = resolveIntro(text);
+      if (introSpk) carried = introSpk;
+      const useSpk = introSpk ?? carried;
+      if (looksSpeech(text) && useSpk && valid.has(useSpk)) {
+        // El marco mismo es discurso citado (orden transmitida: Jos 1:11a =
+        // orden de Josué a los oficiales vía "Josué mandó... diciendo:").
+        pushMsg(verseNum, '', useSpk, text);
+        diagnosis.push({ verse: verseNum, subId: '', speaker: useSpk, confidence: 0.6, rule: introSpk ? 'speech-intro' : 'frame-carryover', ambiguous: true });
+      } else {
+        pushMsg(verseNum, '', 'Narrador', text);
+        diagnosis.push({ verse: verseNum, subId: '', speaker: 'Narrador', confidence: 0.55, rule: 'fallback-narrator', ambiguous: false });
+      }
     } else {
       const hit = detectSpeechSpeaker(text, patterns);
       if (hit && valid.has(hit.speaker)) {
@@ -313,11 +407,21 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
           const ambiguous = true;
           pushMsg(verseNum, '', hit.speaker, text);
           diagnosis.push({ verse: verseNum, subId: '', speaker: hit.speaker, confidence, rule: hit.rule, ambiguous });
+        } else if (carried && valid.has(carried) && looksSpeech(text)) {
+          // Continuación del discurso abierto por el marco previo (Jos 1:2-9).
+          // Sin marcas de discurso se asume interludio narrativo (rompe la voz).
+          pushMsg(verseNum, '', carried, text);
+          diagnosis.push({ verse: verseNum, subId: '', speaker: carried, confidence: 0.6, rule: 'speech-carryover', ambiguous: true });
         } else {
+          if (!DICENDI_RE.test(text)) carried = null;
           pushMsg(verseNum, '', 'Narrador', text);
           diagnosis.push({ verse: verseNum, subId: '', speaker: 'Narrador', confidence: 0.55, rule: 'fallback-narrator', ambiguous: false });
         }
+      } else if (carried && valid.has(carried) && looksSpeech(text)) {
+        pushMsg(verseNum, '', carried, text);
+        diagnosis.push({ verse: verseNum, subId: '', speaker: carried, confidence: 0.6, rule: 'speech-carryover', ambiguous: true });
       } else {
+        if (!DICENDI_RE.test(text)) carried = null;
         pushMsg(verseNum, '', 'Narrador', text);
         diagnosis.push({ verse: verseNum, subId: '', speaker: 'Narrador', confidence: 0.55, rule: 'fallback-narrator', ambiguous: false });
       }
