@@ -829,7 +829,6 @@
       "speaker": "Cuñado",
       "confidence": 0.85
     },
-
     {
       "id": "datan-abiram",
       "pattern": "\\b(dat[áa]n|abiram)\\b",
@@ -1234,6 +1233,244 @@
       "pattern": "\\bciegos\\b",
       "flags": "i",
       "speaker": "Ciegos",
+      "confidence": 0.85
+    },
+    {
+      "id": "samuel",
+      "pattern": "\\b(samu[ée]l)\\b",
+      "flags": "i",
+      "speaker": "Samuel",
+      "confidence": 0.9
+    },
+    {
+      "id": "eli",
+      "pattern": "\\b(el[íi])\\b",
+      "flags": "i",
+      "speaker": "Elí",
+      "confidence": 0.9
+    },
+    {
+      "id": "ana",
+      "pattern": "\\b(ana)\\b",
+      "flags": "i",
+      "speaker": "Ana",
+      "confidence": 0.9
+    },
+    {
+      "id": "elcana",
+      "pattern": "\\b(elcana)\\b",
+      "flags": "i",
+      "speaker": "Elcana",
+      "confidence": 0.9
+    },
+    {
+      "id": "penina",
+      "pattern": "\\b(penina)\\b",
+      "flags": "i",
+      "speaker": "Penina",
+      "confidence": 0.9
+    },
+    {
+      "id": "ofni",
+      "pattern": "\\b(ofni)\\b",
+      "flags": "i",
+      "speaker": "Ofni",
+      "confidence": 0.85
+    },
+    {
+      "id": "finees-eli",
+      "pattern": "\\b(finees)\\b",
+      "flags": "i",
+      "speaker": "Finees",
+      "confidence": 0.85
+    },
+    {
+      "id": "saul",
+      "pattern": "\\b(sa[úu]l)\\b",
+      "flags": "i",
+      "speaker": "Saúl",
+      "confidence": 0.9
+    },
+    {
+      "id": "jonatan",
+      "pattern": "\\b(jonat[áa]n)\\b",
+      "flags": "i",
+      "speaker": "Jonatán",
+      "confidence": 0.9
+    },
+    {
+      "id": "david",
+      "pattern": "\\b(david)\\b",
+      "flags": "i",
+      "speaker": "David",
+      "confidence": 0.9
+    },
+    {
+      "id": "mical",
+      "pattern": "\\b(mical)\\b",
+      "flags": "i",
+      "speaker": "Mical",
+      "confidence": 0.85
+    },
+    {
+      "id": "merab",
+      "pattern": "\\b(merab)\\b",
+      "flags": "i",
+      "speaker": "Merab",
+      "confidence": 0.85
+    },
+    {
+      "id": "abner",
+      "pattern": "\\b(abner)\\b",
+      "flags": "i",
+      "speaker": "Abner",
+      "confidence": 0.9
+    },
+    {
+      "id": "isai",
+      "pattern": "\\b(is[áa][íi])\\b",
+      "flags": "i",
+      "speaker": "Isaí",
+      "confidence": 0.85
+    },
+    {
+      "id": "eliab",
+      "pattern": "\\b(eliab)\\b",
+      "flags": "i",
+      "speaker": "Eliab",
+      "confidence": 0.85
+    },
+    {
+      "id": "abinadab",
+      "pattern": "\\b(abinadab)\\b",
+      "flags": "i",
+      "speaker": "Abinadab",
+      "confidence": 0.85
+    },
+    {
+      "id": "goliat",
+      "pattern": "\\b(goliat)\\b",
+      "flags": "i",
+      "speaker": "Goliat",
+      "confidence": 0.9
+    },
+    {
+      "id": "aquis",
+      "pattern": "\\b(aqu[íi]s)\\b",
+      "flags": "i",
+      "speaker": "Aquís",
+      "confidence": 0.85
+    },
+    {
+      "id": "abigail",
+      "pattern": "\\b(abigail)\\b",
+      "flags": "i",
+      "speaker": "Abigail",
+      "confidence": 0.9
+    },
+    {
+      "id": "nabal",
+      "pattern": "\\b(nabal)\\b",
+      "flags": "i",
+      "speaker": "Nabal",
+      "confidence": 0.9
+    },
+    {
+      "id": "doeg",
+      "pattern": "\\b(doeg)\\b",
+      "flags": "i",
+      "speaker": "Doeg",
+      "confidence": 0.85
+    },
+    {
+      "id": "ahimelec",
+      "pattern": "\\b(ahimelec)\\b",
+      "flags": "i",
+      "speaker": "Ahimelec",
+      "confidence": 0.85
+    },
+    {
+      "id": "gad",
+      "pattern": "\\b(gad)\\b",
+      "flags": "i",
+      "speaker": "Gad",
+      "confidence": 0.8
+    },
+    {
+      "id": "agag",
+      "pattern": "\\b(agag)\\b",
+      "flags": "i",
+      "speaker": "Agag",
+      "confidence": 0.85
+    },
+    {
+      "id": "egipcio",
+      "pattern": "\\b(egipcio)\\b",
+      "flags": "i",
+      "speaker": "Egipcio",
+      "confidence": 0.8
+    },
+    {
+      "id": "amalecita",
+      "pattern": "\\b(amalecita)\\b",
+      "flags": "i",
+      "speaker": "Amalecita",
+      "confidence": 0.8
+    },
+    {
+      "id": "escudero",
+      "pattern": "\\b(escudero)\\b",
+      "flags": "i",
+      "speaker": "Escudero",
+      "confidence": 0.8
+    },
+    {
+      "id": "pitonisa",
+      "pattern": "\\b(pitonisa)\\b",
+      "flags": "i",
+      "speaker": "Pitonisa",
+      "confidence": 0.8
+    },
+    {
+      "id": "hombres",
+      "pattern": "\\b(hombres)\\b",
+      "flags": "i",
+      "speaker": "Hombres",
+      "confidence": 0.85
+    },
+    {
+      "id": "principes",
+      "pattern": "\\b(pr[íi]ncipes)\\b",
+      "flags": "i",
+      "speaker": "Príncipes",
+      "confidence": 0.85
+    },
+    {
+      "id": "nahas",
+      "pattern": "\\b(nahas)\\b",
+      "flags": "i",
+      "speaker": "Nahas",
+      "confidence": 0.85
+    },
+    {
+      "id": "tio-saul",
+      "pattern": "\\b(t[íi]o de sa[úu]l)\\b",
+      "flags": "i",
+      "speaker": "Tío de Saúl",
+      "confidence": 0.85
+    },
+    {
+      "id": "abisai",
+      "pattern": "\\b(abisai)\\b",
+      "flags": "i",
+      "speaker": "Abisai",
+      "confidence": 0.85
+    },
+    {
+      "id": "adivinos",
+      "pattern": "\\b(adivinos?)\\b",
+      "flags": "i",
+      "speaker": "Adivinos",
       "confidence": 0.85
     }
   ],

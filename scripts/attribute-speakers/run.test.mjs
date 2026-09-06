@@ -203,6 +203,16 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(j1.messages, 11, 'a'), 'Josué');
   });
 
+  it('1SA voces: Ana 2:1, David 17:45-46 (carryover), David 24:16', () => {
+    const s2 = run('1samuel', '1SA', 2);
+    assert.equal(speakerOf(s2.messages, 1, 'b'), 'Ana');
+    const s17 = run('1samuel', '1SA', 17);
+    assert.equal(speakerOf(s17.messages, 45, 'b'), 'David');
+    assert.equal(speakerOf(s17.messages, 46, ''), 'David');
+    const s24 = run('1samuel', '1SA', 24);
+    assert.equal(speakerOf(s24.messages, 16, 'b'), 'David');
+  });
+
   it('JDG voces: Jefté 11:7, Sansón 14:12, Dalila 16:6', () => {
     const j11 = run('jueces', 'JDG', 11);
     assert.equal(speakerOf(j11.messages, 7, 'b'), 'Jefté');
