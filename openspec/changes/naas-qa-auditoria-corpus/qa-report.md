@@ -25,12 +25,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | ester | 206 | 35 | 0 | 0 |
 | job | 1124 | 802 | 0 | 0 |
 | salmos | 2664 | 148 | 0 | 0 |
+| proverbios | 932 | 889 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **25306** | **6655** | **0** | **0** |
+| **total** | **26238** | **7544** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -57,6 +58,17 @@ Los ambiguos del dry publicados con default y sin respaldo `reviewed/` se clasif
   verso entero con su speaker aplicado — exodus 1:22b/2:10b/4:25b Narrador, 3:16b/3:17b/4:23b
   Dios. El corpus conserva el verso sin dividir (no redimible vía `reviewed/`).
 Total: 414 entradas en 19 libros, 0 conflictos (aplicado ≠ dry) encontrados.
+
+### Proverbios — integración nueva (2026-09-06)
+Libro desbloqueado con mapa de voz doctrinal (932 mensajes, 31 caps; barrido 0 sospechosos/
+0 ambiguos/0 duros). Voces: **Salomón** = el maestro-padre ("Hijo mío...") y recitador de las
+colecciones 10-29; **Sabiduría** = discursos personificados (1:22-33, 8:4-36, 9:4-12); **Mujer
+insensata** = su invitación (9:16-18); **Agur** = 30:2-33; **Madre de Lemuel** = la lección
+materna (31:2-9, la boca en escena es la madre: "oh Lemuel"); **Narrador** = prólogo 1:1-7,
+marcos narrados (1:20-21, 8:1-3, 9:1-3, 9:13-15), marco editorial 25:1 (varones de Ezequías) y
+el poema anónimo 31:10-31. Citas intercaladas del dry (17 splits) con doctrina del relator:
+conservan la voz del citador (1:11 Salomón citando a los pecadores). El dry puro era inútil
+aquí (915 Narrador: no hay escenas marcadas); toda la atribución es doctrinal via `reviewed/`.
 
 ## Triaje (estado del tasks.md)
 
