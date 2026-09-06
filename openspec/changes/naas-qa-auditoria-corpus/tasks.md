@@ -32,13 +32,11 @@
       evangelios con 0 sospechosos: juan 98→0 (81 fixes), mateo 51→0 (39), lucas 84→0 (57),
       marcos 39→0 (25: discursos 7/8/10/12/13/14, 13:4 Discípulos, 14:71 Pedro, 14:72b cita
       narrada→Narrador, 14:65b "Profetiza"=Sacerdotes; 14 documentaciones).
-- [ ] 4.3 AT carryover divino posterior a la integración: **numeros COMPLETADO** (248→0, 253
-      documentaciones: el aplicado Narrador era correcto en el 100% — el carryover actual
-      sobre-fija sobre narraciones de ejecución; mejora heurística opcional en qa-report).
-      **genesis COMPLETADO** (118→0, 36 fixes: 1:15/15:19-21 habla divina, 18:24-25 Abraham,
-      27:7-10 Rebeca, 28:2-4 Isaac, 32:10-12 Jacob, 40/43/44/47/48/50 José y Judá; 83 narraciones
-      documentadas). Restante: josue (35), jueces (18), deuteronomio (15), levitico (8),
-      exodus (89+23), salmos (25+12) + clusters menores en otros libros.
+- [ ] 4.3 AT carryover divino posterior a la integración: **COMPLETADO EN LOS 7 LIBROS
+      MAYORES** — numeros (248→0, 100% Narrador: carryover sobre-fija), genesis (118→0, 36
+      fixes), josue (48→0, 12 fixes), jueces (50→0, 11 fixes), deuteronomio (15→0), levitico
+      (8→0), exodus (120→0, 62 fixes: Pascua, Faraón, oráculos). Restan solo clusters menores:
+      salmos (25+12), rut, samuel, reyes, crónicas, nehemias, jonas.
 - [ ] 4.4 Casos nuevos que arrojen re-corridas: listar aquí con decisión tomada.
 
 ## 5. Cierre
