@@ -471,6 +471,48 @@
       "flags": "i",
       "speaker": "Tamar",
       "confidence": 0.85
+    },
+    {
+      "id": "aaron",
+      "pattern": "\\b(aar[óo]n)\\b",
+      "flags": "i",
+      "speaker": "Aarón",
+      "confidence": 0.9
+    },
+    {
+      "id": "maria",
+      "pattern": "\\b(miriam|mar[íi]a)\\b",
+      "flags": "i",
+      "speaker": "María",
+      "confidence": 0.9
+    },
+    {
+      "id": "josue",
+      "pattern": "\\bjosu[ée]\\b",
+      "flags": "i",
+      "speaker": "Josué",
+      "confidence": 0.9
+    },
+    {
+      "id": "pueblo-ex",
+      "pattern": "\\b(pueblo|israelitas?)\\b",
+      "flags": "i",
+      "speaker": "Pueblo",
+      "confidence": 0.8
+    },
+    {
+      "id": "egipcios",
+      "pattern": "\\b(egipcios?|enemigos?)\\b",
+      "flags": "i",
+      "speaker": "Egipcios",
+      "confidence": 0.8
+    },
+    {
+      "id": "capataces",
+      "pattern": "\\b(capataces|cuadrilleros?)\\b",
+      "flags": "i",
+      "speaker": "Capataces",
+      "confidence": 0.8
     }
   ],
   "aliases": {

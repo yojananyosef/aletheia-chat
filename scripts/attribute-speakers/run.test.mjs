@@ -106,6 +106,17 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(lamec.speaker, 'Lamec');
   });
 
+  it('EXO voces: Josué 32:17 y María 15:21', () => {
+    const e32 = run('exodus', 'EXO', 32);
+    const josue = e32.messages.find(m => m.verse === 17 && /alarido/i.test(m.text));
+    assert.ok(josue, 'burbuja de Josué EXO 32:17 existe');
+    assert.equal(josue.speaker, 'Josué');
+    const e15 = run('exodus', 'EXO', 15);
+    const maria = e15.messages.find(m => m.verse === 21 && /cantad/i.test(m.text));
+    assert.ok(maria, 'burbuja de María EXO 15:21 existe');
+    assert.equal(maria.speaker, 'María');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));
