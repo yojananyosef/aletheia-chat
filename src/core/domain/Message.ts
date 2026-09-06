@@ -50,7 +50,12 @@ export type CanonicalSpeaker =
     | 'Goliat' | 'Abigail' | 'Nabal' | 'Aquís' | 'Doeg' | 'Ahimelec'
     | 'Gad' | 'Abner' | 'Mical' | 'Merab' | 'Agag' | 'Eliab'
     | 'Abinadab' | 'Isaí' | 'Egipcio' | 'Amalecita' | 'Escudero' | 'Pitonisa'
-    | 'Esposa de Finees' | 'Adivinos' | 'Nahas' | 'Tío de Saúl' | 'Abisai';
+    | 'Esposa de Finees' | 'Adivinos' | 'Nahas' | 'Tío de Saúl' | 'Abisai'
+    | 'Natán' | 'Joab' | 'Absalón' | 'Isboset' | 'Amnón' | 'Tamar'
+    | 'Jonadab' | 'Husai' | 'Ahitofel' | 'Betsabé' | 'Urías' | 'Mefiboset'
+    | 'Siba' | 'Simeí' | 'Barzilai' | 'Ahimaas' | 'Arauna' | 'Sadoc'
+    | 'Abiatar' | 'Itai' | 'Amasa' | 'Seba' | 'Mujer de Tecoa' | 'Mujer sabia'
+    | 'Etíope' | 'Recab' | 'Baana' | 'Rizpa' | 'Jabes' | 'Siervos' | 'Jóvenes';
 
 export type Speaker = CanonicalSpeaker | (string & {});
 

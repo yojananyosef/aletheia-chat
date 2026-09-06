@@ -213,6 +213,14 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(s24.messages, 16, 'b'), 'David');
   });
 
+  it('2SA voces: Abner/Joab 2:14, Gad 24:13', () => {
+    const s2 = run('2samuel', '2SA', 2);
+    assert.equal(speakerOf(s2.messages, 14, 'b'), 'Abner');
+    assert.equal(speakerOf(s2.messages, 14, 'd'), 'Joab');
+    const s24 = run('2samuel', '2SA', 24);
+    assert.equal(speakerOf(s24.messages, 13, 'b'), 'Gad');
+  });
+
   it('JDG voces: Jefté 11:7, Sansón 14:12, Dalila 16:6', () => {
     const j11 = run('jueces', 'JDG', 11);
     assert.equal(speakerOf(j11.messages, 7, 'b'), 'Jefté');

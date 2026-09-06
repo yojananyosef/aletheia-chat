@@ -845,7 +845,7 @@
     },
     {
       "id": "gad-ruben",
-      "pattern": "\\b(gad|rub[ée]n)\\b",
+      "pattern": "\\b(rub[ée]n)\\b|\\b(hijos de gad)\\b|\\b(tribu de gad)\\b|\\b(dib[óo]n-gad)\\b",
       "flags": "i",
       "speaker": "Gad y Rubén",
       "confidence": 0.85
@@ -1472,6 +1472,209 @@
       "flags": "i",
       "speaker": "Adivinos",
       "confidence": 0.85
+    },
+    {
+      "id": "natan",
+      "pattern": "\\b(nat[áa]n)\\b",
+      "flags": "i",
+      "speaker": "Natán",
+      "confidence": 0.85
+    },
+    {
+      "id": "joab",
+      "pattern": "\\b(joab)\\b",
+      "flags": "i",
+      "speaker": "Joab",
+      "confidence": 0.85
+    },
+    {
+      "id": "absalon",
+      "pattern": "\\b(absal[óo]n)\\b",
+      "flags": "i",
+      "speaker": "Absalón",
+      "confidence": 0.85
+    },
+    {
+      "id": "isboset",
+      "pattern": "\\b(isboset)\\b",
+      "flags": "i",
+      "speaker": "Isboset",
+      "confidence": 0.85
+    },
+    {
+      "id": "amnon",
+      "pattern": "\\b(amn[óo]n)\\b",
+      "flags": "i",
+      "speaker": "Amnón",
+      "confidence": 0.85
+    },
+    {
+      "id": "jonadab",
+      "pattern": "\\b(jonadab)\\b",
+      "flags": "i",
+      "speaker": "Jonadab",
+      "confidence": 0.85
+    },
+    {
+      "id": "husai",
+      "pattern": "\\b(husai)\\b",
+      "flags": "i",
+      "speaker": "Husai",
+      "confidence": 0.85
+    },
+    {
+      "id": "ahitofel",
+      "pattern": "\\b(ahitofel)\\b",
+      "flags": "i",
+      "speaker": "Ahitofel",
+      "confidence": 0.85
+    },
+    {
+      "id": "betsabe",
+      "pattern": "\\b(betsab[ée])\\b",
+      "flags": "i",
+      "speaker": "Betsabé",
+      "confidence": 0.85
+    },
+    {
+      "id": "urias",
+      "pattern": "\\b(ur[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Urías",
+      "confidence": 0.85
+    },
+    {
+      "id": "mefiboset",
+      "pattern": "\\b(mefiboset)\\b",
+      "flags": "i",
+      "speaker": "Mefiboset",
+      "confidence": 0.85
+    },
+    {
+      "id": "siba",
+      "pattern": "\\b(siba)\\b",
+      "flags": "i",
+      "speaker": "Siba",
+      "confidence": 0.85
+    },
+    {
+      "id": "simei",
+      "pattern": "\\b(sime[íi])\\b",
+      "flags": "i",
+      "speaker": "Simeí",
+      "confidence": 0.85
+    },
+    {
+      "id": "barzilai",
+      "pattern": "\\b(barzilai)\\b",
+      "flags": "i",
+      "speaker": "Barzilai",
+      "confidence": 0.85
+    },
+    {
+      "id": "ahimaas",
+      "pattern": "\\b(ahimaas)\\b",
+      "flags": "i",
+      "speaker": "Ahimaas",
+      "confidence": 0.85
+    },
+    {
+      "id": "arauna",
+      "pattern": "\\b(arauna)\\b",
+      "flags": "i",
+      "speaker": "Arauna",
+      "confidence": 0.85
+    },
+    {
+      "id": "sadoc",
+      "pattern": "\\b(sadoc)\\b",
+      "flags": "i",
+      "speaker": "Sadoc",
+      "confidence": 0.85
+    },
+    {
+      "id": "abiatar",
+      "pattern": "\\b(abiatar)\\b",
+      "flags": "i",
+      "speaker": "Abiatar",
+      "confidence": 0.85
+    },
+    {
+      "id": "itai",
+      "pattern": "\\b(itai)\\b",
+      "flags": "i",
+      "speaker": "Itai",
+      "confidence": 0.85
+    },
+    {
+      "id": "amasa",
+      "pattern": "\\b(amasa)\\b",
+      "flags": "i",
+      "speaker": "Amasa",
+      "confidence": 0.85
+    },
+    {
+      "id": "seba",
+      "pattern": "\\b(seba)\\b",
+      "flags": "i",
+      "speaker": "Seba",
+      "confidence": 0.85
+    },
+    {
+      "id": "mujer-tecoa",
+      "pattern": "\\b(mujer(?:\\s+sabia)?\\s+de\\s+tecoa)\\b",
+      "flags": "i",
+      "speaker": "Mujer de Tecoa",
+      "confidence": 0.85
+    },
+    {
+      "id": "mujer-sabia-abel",
+      "pattern": "\\b(mujer\\s+sabia)\\b",
+      "flags": "i",
+      "speaker": "Mujer sabia",
+      "confidence": 0.85
+    },
+    {
+      "id": "etiope",
+      "pattern": "\\b(et[íi]ope)\\b",
+      "flags": "i",
+      "speaker": "Etíope",
+      "confidence": 0.85
+    },
+    {
+      "id": "recab-baana",
+      "pattern": "\\b(recab|baana)\\b",
+      "flags": "i",
+      "speaker": "Recab",
+      "confidence": 0.8
+    },
+    {
+      "id": "rizpa",
+      "pattern": "\\b(rizpa)\\b",
+      "flags": "i",
+      "speaker": "Rizpa",
+      "confidence": 0.85
+    },
+    {
+      "id": "jabes",
+      "pattern": "\\b(jabes)\\b",
+      "flags": "i",
+      "speaker": "Jabes",
+      "confidence": 0.8
+    },
+    {
+      "id": "siervos",
+      "pattern": "\\b(siervos?)\\b",
+      "flags": "i",
+      "speaker": "Siervos",
+      "confidence": 0.8
+    },
+    {
+      "id": "jovenes",
+      "pattern": "\\b(j[óo]venes)\\b",
+      "flags": "i",
+      "speaker": "Jóvenes",
+      "confidence": 0.8
     }
   ],
   "aliases": {
