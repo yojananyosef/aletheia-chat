@@ -1,0 +1,91 @@
+{
+    "book": "Cantares",
+    "chapter": 8,
+    "title": "Cantares 8",
+    "messages": [
+        {
+            "id": "sng8_1",
+            "speaker": "Amada",
+            "verse": 1,
+            "text": "¡Oh que fueras tú como mi hermano, que mamó los pechos de mi madre; así, al encontrarte afuera yo te besaría, y no me menospreciarían!"
+        },
+        {
+            "id": "sng8_2",
+            "speaker": "Amada",
+            "verse": 2,
+            "text": "Yo te llevaría, te metería en la casa de mi madre, que me enseñaba; te daría a beber vino sazonado del mosto de mis granadas."
+        },
+        {
+            "id": "sng8_3",
+            "speaker": "Amada",
+            "verse": 3,
+            "text": "Su izquierda esté debajo de mi cabeza, y su derecha me abrace."
+        },
+        {
+            "id": "sng8_4",
+            "speaker": "Amada",
+            "verse": 4,
+            "text": "Os conjuro, oh doncellas de Jerusalén, que no despertéis ni hagáis velar al amor, hasta que quiera."
+        },
+        {
+            "id": "sng8_5",
+            "speaker": "Amada",
+            "verse": 5,
+            "text": "¿Quién es ésta que sube del desierto, recostada sobre su amado? Debajo de un manzano te desperté; allí tuvo dolores tu madre, allí tuvo dolores la que te dio a luz."
+        },
+        {
+            "id": "sng8_6",
+            "speaker": "Amada",
+            "verse": 6,
+            "text": "Ponme como un sello sobre tu corazón, como una marca sobre tu brazo: Porque fuerte como la muerte es el amor; duros como el sepulcro los celos; sus brasas, brasas de fuego, fuerte llama."
+        },
+        {
+            "id": "sng8_7",
+            "speaker": "Amada",
+            "verse": 7,
+            "text": "Las muchas aguas no podrán apagar el amor, ni lo ahogarán los ríos. Si diese el hombre toda la hacienda de su casa por este amor, de cierto lo menospreciarían."
+        },
+        {
+            "id": "sng8_8",
+            "speaker": "Hermanos",
+            "verse": 8,
+            "text": "Tenemos una pequeña hermana, que no tiene pechos: ¿Qué haremos a nuestra hermana cuando de ella se hablare?"
+        },
+        {
+            "id": "sng8_9",
+            "speaker": "Hermanos",
+            "verse": 9,
+            "text": "Si ella es muro, edificaremos sobre él un palacio de plata; y si fuere puerta, la guarneceremos con tablas de cedro."
+        },
+        {
+            "id": "sng8_10",
+            "speaker": "Amada",
+            "verse": 10,
+            "text": "Yo soy muro, y mis pechos como torres, desde que fui en sus ojos como la que halla paz."
+        },
+        {
+            "id": "sng8_11",
+            "speaker": "Amada",
+            "verse": 11,
+            "text": "Salomón tuvo una viña en Baal-hamón, la cual entregó a guardas, cada uno de los cuales debía traer mil piezas de plata por su fruto."
+        },
+        {
+            "id": "sng8_12",
+            "speaker": "Amada",
+            "verse": 12,
+            "text": "Mi viña, que es mía, está delante de mí; las mil serán tuyas, oh Salomón, y doscientas, de los que guardan su fruto."
+        },
+        {
+            "id": "sng8_13",
+            "speaker": "Amado",
+            "verse": 13,
+            "text": "Oh tú la que moras en los huertos, los compañeros escuchan tu voz; házmela oír."
+        },
+        {
+            "id": "sng8_14",
+            "speaker": "Amada",
+            "verse": 14,
+            "text": "Huye, amado mío; y sé semejante al corzo, o al cervatillo, sobre las montañas de los aromas."
+        }
+    ]
+}

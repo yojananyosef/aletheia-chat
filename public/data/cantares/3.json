@@ -1,0 +1,79 @@
+{
+    "book": "Cantares",
+    "chapter": 3,
+    "title": "Cantares 3",
+    "messages": [
+        {
+            "id": "sng3_1",
+            "speaker": "Amada",
+            "verse": 1,
+            "text": "Por las noches busqué en mi lecho al que ama mi alma; lo busqué, y no lo hallé."
+        },
+        {
+            "id": "sng3_2",
+            "speaker": "Amada",
+            "verse": 2,
+            "text": "Me levantaré ahora, y rodearé por la ciudad; por las calles y por las plazas buscaré al que ama mi alma: Lo busqué, y no lo hallé."
+        },
+        {
+            "id": "sng3_3a",
+            "speaker": "Amada",
+            "verse": 3,
+            "text": "Me hallaron los guardas que rondan la ciudad, y les dije:"
+        },
+        {
+            "id": "sng3_3b",
+            "speaker": "Amada",
+            "verse": 3,
+            "text": "¿Habéis visto al que ama mi alma?"
+        },
+        {
+            "id": "sng3_4",
+            "speaker": "Amada",
+            "verse": 4,
+            "text": "Pasando de ellos un poco, hallé luego al que ama mi alma; trabé de él, y no lo dejé, hasta que lo metí en casa de mi madre, y en la cámara de la que me engendró."
+        },
+        {
+            "id": "sng3_5",
+            "speaker": "Amada",
+            "verse": 5,
+            "text": "Yo os conjuro, oh doncellas de Jerusalén, por los corzos y por las ciervas del campo, que no despertéis ni hagáis velar al amor, hasta que quiera."
+        },
+        {
+            "id": "sng3_6",
+            "speaker": "Hijas de Jerusalén",
+            "verse": 6,
+            "text": "¿Quién es ésta que sube del desierto como columna de humo, perfumada de mirra y de incienso, y de todo polvo aromático?"
+        },
+        {
+            "id": "sng3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "He aquí es la litera de Salomón: Sesenta valientes la rodean, de los fuertes de Israel."
+        },
+        {
+            "id": "sng3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Todos ellos tienen espadas, son diestros en la guerra; cada uno con su espada sobre su muslo, por los temores de la noche."
+        },
+        {
+            "id": "sng3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El rey Salomón se hizo un carruaje de madera del Líbano."
+        },
+        {
+            "id": "sng3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Sus columnas hizo de plata, su respaldo de oro, su asiento de grana, su interior tapizado de amor, por las doncellas de Jerusalén."
+        },
+        {
+            "id": "sng3_11",
+            "speaker": "Hijas de Jerusalén",
+            "verse": 11,
+            "text": "Salid, oh doncellas de Sión, y ved al rey Salomón con la corona con que le coronó su madre el día de su desposorio, y el día del gozo de su corazón."
+        }
+    ]
+}
