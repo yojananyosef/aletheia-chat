@@ -1,0 +1,193 @@
+{
+    "book": "Proverbios",
+    "chapter": 21,
+    "title": "Proverbios 21",
+    "messages": [
+        {
+            "id": "pro21_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "El corazón del rey está en la mano de Jehová, como los arroyos de agua, Él lo inclina hacia donde quiere."
+        },
+        {
+            "id": "pro21_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Todo camino del hombre es recto en su propia opinión; mas Jehová pesa los corazones."
+        },
+        {
+            "id": "pro21_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "Hacer justicia y juicio es a Jehová más agradable que sacrificio."
+        },
+        {
+            "id": "pro21_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Altivez de ojos, y orgullo de corazón, y el labrar de los impíos, son pecado."
+        },
+        {
+            "id": "pro21_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Los pensamientos del diligente ciertamente tienden a la abundancia; mas los del presuroso, de cierto llevan a la pobreza."
+        },
+        {
+            "id": "pro21_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Obtener tesoros con lengua de mentira, es vanidad desconcertada de aquellos que buscan la muerte."
+        },
+        {
+            "id": "pro21_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "La rapiña de los impíos los destruirá; porque rehúsan hacer juicio."
+        },
+        {
+            "id": "pro21_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "El camino del hombre es torcido y extraño; mas recto es el proceder del puro."
+        },
+        {
+            "id": "pro21_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Mejor es vivir en un rincón del terrado, que en espaciosa casa con mujer rencillosa."
+        },
+        {
+            "id": "pro21_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "El alma del impío desea el mal: Su prójimo no halla favor a sus ojos."
+        },
+        {
+            "id": "pro21_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Cuando el escarnecedor es castigado, el simple se hace sabio; y cuando el sabio es instruido, adquiere conocimiento."
+        },
+        {
+            "id": "pro21_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "Considera el justo la casa del impío, cómo los impíos son trastornados por el mal."
+        },
+        {
+            "id": "pro21_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "El que cierra su oído al clamor del pobre; también él clamará, y no será oído."
+        },
+        {
+            "id": "pro21_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "El presente en secreto pacifica el enojo, y la dádiva en el seno, la fuerte ira."
+        },
+        {
+            "id": "pro21_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Alegría es al justo el hacer juicio; mas destrucción vendrá a los que hacen iniquidad."
+        },
+        {
+            "id": "pro21_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "El hombre que se extravía del camino de la sabiduría, vendrá a parar en la compañía de los muertos."
+        },
+        {
+            "id": "pro21_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "Hombre necesitado será el que ama el placer; y el que ama el vino y los perfumes no enriquecerá."
+        },
+        {
+            "id": "pro21_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "El impío será el rescate por el justo, y por los rectos, el prevaricador."
+        },
+        {
+            "id": "pro21_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Mejor es morar en tierra del desierto, que con mujer rencillosa e iracunda."
+        },
+        {
+            "id": "pro21_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "Tesoro codiciable y aceite hay en la casa del sabio; mas el hombre insensato lo disipa."
+        },
+        {
+            "id": "pro21_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "El que sigue la justicia y la misericordia, hallará la vida, la justicia y la honra."
+        },
+        {
+            "id": "pro21_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "El sabio escala la ciudad de los poderosos y derriba la fortaleza en que confiaban."
+        },
+        {
+            "id": "pro21_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "El que guarda su boca y su lengua, su alma guarda de angustias."
+        },
+        {
+            "id": "pro21_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "Soberbio, presuntuoso y escarnecedor, es el nombre del que obra con arrogante saña."
+        },
+        {
+            "id": "pro21_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "El deseo del perezoso le mata, porque sus manos rehúsan trabajar;"
+        },
+        {
+            "id": "pro21_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "Hay quien todo el día codicia; mas el justo da, y no escatima."
+        },
+        {
+            "id": "pro21_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "El sacrificio de los impíos es abominación: ¡Cuánto más ofreciéndolo con maldad!"
+        },
+        {
+            "id": "pro21_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "El testigo mentiroso perecerá; mas el hombre que escucha, permanecerá en su dicho."
+        },
+        {
+            "id": "pro21_29",
+            "speaker": "Salomón",
+            "verse": 29,
+            "text": "El hombre impío endurece su rostro; mas el recto ordena sus caminos."
+        },
+        {
+            "id": "pro21_30",
+            "speaker": "Salomón",
+            "verse": 30,
+            "text": "No hay sabiduría, ni inteligencia, ni consejo, contra Jehová."
+        },
+        {
+            "id": "pro21_31",
+            "speaker": "Salomón",
+            "verse": 31,
+            "text": "El caballo se prepara para el día de la batalla; pero la victoria viene de Jehová."
+        }
+    ]
+}

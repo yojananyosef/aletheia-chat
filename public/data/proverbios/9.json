@@ -1,0 +1,127 @@
+{
+    "book": "Proverbios",
+    "chapter": 9,
+    "title": "Proverbios 9",
+    "messages": [
+        {
+            "id": "pro9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "La sabiduría edificó su casa, labró sus siete columnas;"
+        },
+        {
+            "id": "pro9_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "mató sus víctimas, mezcló su vino, y puso su mesa."
+        },
+        {
+            "id": "pro9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Envió sus criadas; sobre lo más alto de la ciudad clamó:"
+        },
+        {
+            "id": "pro9_4a",
+            "speaker": "Sabiduría",
+            "verse": 4,
+            "text": "Quien sea simple, venga acá. A los faltos de cordura dice:"
+        },
+        {
+            "id": "pro9_5",
+            "speaker": "Sabiduría",
+            "verse": 5,
+            "text": "Venid, comed mi pan, y bebed del vino que yo he mezclado."
+        },
+        {
+            "id": "pro9_6",
+            "speaker": "Sabiduría",
+            "verse": 6,
+            "text": "Dejad las simplezas, y vivid; y andad por el camino de la inteligencia."
+        },
+        {
+            "id": "pro9_7",
+            "speaker": "Sabiduría",
+            "verse": 7,
+            "text": "El que corrige al escarnecedor, se acarrea afrenta: El que reprende al impío, se atrae mancha."
+        },
+        {
+            "id": "pro9_8",
+            "speaker": "Sabiduría",
+            "verse": 8,
+            "text": "No reprendas al escarnecedor, para que no te aborrezca; corrige al sabio, y te amará."
+        },
+        {
+            "id": "pro9_9",
+            "speaker": "Sabiduría",
+            "verse": 9,
+            "text": "Da consejo al sabio, y será más sabio; enseña al justo, y aumentará su saber."
+        },
+        {
+            "id": "pro9_10",
+            "speaker": "Sabiduría",
+            "verse": 10,
+            "text": "El principio de la sabiduría es el temor de Jehová; y el conocimiento del Santo es la inteligencia."
+        },
+        {
+            "id": "pro9_11",
+            "speaker": "Sabiduría",
+            "verse": 11,
+            "text": "Porque por mí se aumentarán tus días, y años de vida se te añadirán."
+        },
+        {
+            "id": "pro9_12",
+            "speaker": "Sabiduría",
+            "verse": 12,
+            "text": "Si fueres sabio, para ti lo serás; mas si fueres escarnecedor, pagarás tú solo."
+        },
+        {
+            "id": "pro9_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "La mujer insensata es alborotadora; es simple e ignorante."
+        },
+        {
+            "id": "pro9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Se sienta en una silla a la puerta de su casa, en los lugares altos de la ciudad,"
+        },
+        {
+            "id": "pro9_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "para llamar a los que pasan por el camino, que van por sus caminos derechos."
+        },
+        {
+            "id": "pro9_16a",
+            "speaker": "Mujer insensata",
+            "verse": 16,
+            "text": "Dice al que es simple:"
+        },
+        {
+            "id": "pro9_16b",
+            "speaker": "Mujer insensata",
+            "verse": 16,
+            "text": "Ven acá."
+        },
+        {
+            "id": "pro9_16c",
+            "speaker": "Mujer insensata",
+            "verse": 16,
+            "text": "A los faltos de cordura, dice:"
+        },
+        {
+            "id": "pro9_17",
+            "speaker": "Mujer insensata",
+            "verse": 17,
+            "text": "Las aguas hurtadas son dulces, y el pan comido en oculto es sabroso."
+        },
+        {
+            "id": "pro9_18",
+            "speaker": "Mujer insensata",
+            "verse": 18,
+            "text": "Y no saben que allí están los muertos; que sus convidados están en lo profundo del infierno."
+        }
+    ]
+}

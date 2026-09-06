@@ -1,0 +1,157 @@
+{
+    "book": "Proverbios",
+    "chapter": 13,
+    "title": "Proverbios 13",
+    "messages": [
+        {
+            "id": "pro13_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "El hijo sabio escucha el consejo de su padre; mas el burlador no escucha la reprensión."
+        },
+        {
+            "id": "pro13_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Del fruto de su boca el hombre comerá el bien; mas el alma de los prevaricadores comerá el mal."
+        },
+        {
+            "id": "pro13_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "El que guarda su boca guarda su alma; mas el que mucho abre sus labios tendrá calamidad."
+        },
+        {
+            "id": "pro13_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "El alma del perezoso desea, y nada alcanza; mas el alma de los diligentes será engordada."
+        },
+        {
+            "id": "pro13_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "El justo aborrece la palabra de mentira; mas el impío se hace odioso e infame."
+        },
+        {
+            "id": "pro13_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "La justicia guarda al de perfecto camino; mas la impiedad trastornará al pecador."
+        },
+        {
+            "id": "pro13_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Hay quienes pretenden ser ricos, y no tienen nada; y hay quienes aparentan ser pobres, y tienen muchas riquezas."
+        },
+        {
+            "id": "pro13_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "El rescate de la vida del hombre son sus riquezas; pero el pobre no oye censuras."
+        },
+        {
+            "id": "pro13_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "La luz de los justos se alegrará; mas la lámpara de los impíos será apagada."
+        },
+        {
+            "id": "pro13_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "Sólo por la soberbia viene la contienda; mas con los avisados está la sabiduría."
+        },
+        {
+            "id": "pro13_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Las riquezas de vanidad disminuirán; mas el que las acumula por mano laboriosa las aumentará."
+        },
+        {
+            "id": "pro13_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "La esperanza que se demora, es tormento del corazón; mas árbol de vida es el deseo cumplido."
+        },
+        {
+            "id": "pro13_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "El que menosprecia la palabra, perecerá por ello; mas el que teme el mandamiento, será recompensado."
+        },
+        {
+            "id": "pro13_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "La ley del sabio es manantial de vida, para apartarse de los lazos de la muerte."
+        },
+        {
+            "id": "pro13_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "El buen entendimiento da gracia; mas el camino de los trasgresores es duro."
+        },
+        {
+            "id": "pro13_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "Todo hombre prudente se conduce con sabiduría; mas el necio manifestará su necedad."
+        },
+        {
+            "id": "pro13_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "El mal mensajero caerá en el mal; mas el fiel embajador es salud."
+        },
+        {
+            "id": "pro13_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Pobreza y vergüenza tendrá el que menosprecia el consejo; mas el que guarda la corrección, será honrado."
+        },
+        {
+            "id": "pro13_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "El deseo cumplido endulza el alma; pero apartarse del mal es abominación a los necios."
+        },
+        {
+            "id": "pro13_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El que anda con sabios, sabio será; mas el que se junta con necios, será quebrantado."
+        },
+        {
+            "id": "pro13_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "Mal perseguirá a los pecadores; mas a los justos el bien les será retribuido."
+        },
+        {
+            "id": "pro13_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "El hombre bueno dejará herederos a los hijos de sus hijos; y la riqueza del pecador, para el justo está guardada."
+        },
+        {
+            "id": "pro13_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "En el barbecho de los pobres hay mucho pan; mas se pierde por falta de juicio."
+        },
+        {
+            "id": "pro13_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "El que detiene el castigo, a su hijo aborrece; mas el que lo ama, temprano lo corrige."
+        },
+        {
+            "id": "pro13_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "El justo come hasta saciar su alma; mas el vientre de los impíos tendrá necesidad."
+        }
+    ]
+}

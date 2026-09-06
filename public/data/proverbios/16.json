@@ -1,0 +1,205 @@
+{
+    "book": "Proverbios",
+    "chapter": 16,
+    "title": "Proverbios 16",
+    "messages": [
+        {
+            "id": "pro16_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "Del hombre son las disposiciones del corazón; mas de Jehová es la respuesta de la lengua."
+        },
+        {
+            "id": "pro16_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Todos los caminos del hombre son limpios en su propia opinión; mas Jehová pesa los espíritus."
+        },
+        {
+            "id": "pro16_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados."
+        },
+        {
+            "id": "pro16_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Todas las cosas ha hecho Jehová para sí mismo, y aun al impío para el día malo."
+        },
+        {
+            "id": "pro16_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Abominación es a Jehová todo altivo de corazón; aunque esté mano sobre mano, no quedará impune."
+        },
+        {
+            "id": "pro16_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Con misericordia y verdad se corrige el pecado; y con el temor de Jehová el hombre se aparta del mal."
+        },
+        {
+            "id": "pro16_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Cuando los caminos del hombre son agradables a Jehová, aun a sus enemigos hace estar en paz con él."
+        },
+        {
+            "id": "pro16_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "Mejor es lo poco con justicia, que la abundancia de frutos sin derecho."
+        },
+        {
+            "id": "pro16_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos."
+        },
+        {
+            "id": "pro16_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "Oráculo hay en los labios del rey; su boca no yerra en juicio."
+        },
+        {
+            "id": "pro16_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Peso y balanzas justas son de Jehová; obra suya son todas las pesas de la bolsa."
+        },
+        {
+            "id": "pro16_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "Abominación es a los reyes hacer impiedad; porque con justicia será afirmado el trono."
+        },
+        {
+            "id": "pro16_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "Los labios justos son el contentamiento de los reyes; y aman al que habla lo recto."
+        },
+        {
+            "id": "pro16_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "La ira del rey es como mensajero de muerte; mas el hombre sabio la aplacará."
+        },
+        {
+            "id": "pro16_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "En la alegría del rostro del rey está la vida; y su benevolencia es como nube de lluvia tardía."
+        },
+        {
+            "id": "pro16_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "Mejor es adquirir sabiduría que oro preciado; y adquirir inteligencia vale más que la plata."
+        },
+        {
+            "id": "pro16_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "El camino de los rectos es apartarse del mal: El que guarda su camino guarda su alma."
+        },
+        {
+            "id": "pro16_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Antes del quebrantamiento es la soberbia; y antes de la caída la altivez de espíritu."
+        },
+        {
+            "id": "pro16_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Mejor es humillar el espíritu con los humildes, que repartir despojos con los soberbios."
+        },
+        {
+            "id": "pro16_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El entendido en la palabra, hallará el bien; y el que confía en Jehová, es bienaventurado."
+        },
+        {
+            "id": "pro16_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "El sabio de corazón será llamado prudente; y la dulzura de labios aumenta el saber."
+        },
+        {
+            "id": "pro16_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "Manantial de vida es el entendimiento al que lo posee; mas la instrucción de los necios es necedad."
+        },
+        {
+            "id": "pro16_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "El corazón del sabio hace prudente su boca; y con sus labios aumenta el saber."
+        },
+        {
+            "id": "pro16_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "Panal de miel son los dichos suaves; suavidad al alma y medicina a los huesos."
+        },
+        {
+            "id": "pro16_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Hay camino que al hombre le parece derecho, pero su fin es camino de muerte."
+        },
+        {
+            "id": "pro16_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "El alma del que trabaja, trabaja para sí; porque su boca le anima."
+        },
+        {
+            "id": "pro16_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "El hombre perverso excava el mal; y en sus labios hay como llama de fuego."
+        },
+        {
+            "id": "pro16_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "El hombre perverso siembra discordia; y el chismoso aparta a los mejores amigos."
+        },
+        {
+            "id": "pro16_29",
+            "speaker": "Salomón",
+            "verse": 29,
+            "text": "El hombre malo lisonjea a su prójimo, y le hace andar por camino no bueno:"
+        },
+        {
+            "id": "pro16_30",
+            "speaker": "Salomón",
+            "verse": 30,
+            "text": "Cierra sus ojos para pensar perversidades; mueve sus labios, efectúa el mal."
+        },
+        {
+            "id": "pro16_31",
+            "speaker": "Salomón",
+            "verse": 31,
+            "text": "Corona de honra es la vejez, que se halla en el camino de justicia."
+        },
+        {
+            "id": "pro16_32",
+            "speaker": "Salomón",
+            "verse": 32,
+            "text": "Mejor es el que tarda en airarse que el fuerte; y el que domina su espíritu, que el que toma una ciudad."
+        },
+        {
+            "id": "pro16_33",
+            "speaker": "Salomón",
+            "verse": 33,
+            "text": "La suerte se echa en el regazo; mas de Jehová es el juicio de ella."
+        }
+    ]
+}

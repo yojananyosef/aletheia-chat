@@ -1,0 +1,205 @@
+{
+    "book": "Proverbios",
+    "chapter": 15,
+    "title": "Proverbios 15",
+    "messages": [
+        {
+            "id": "pro15_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "La suave respuesta quita la ira; mas la palabra áspera hace subir el furor."
+        },
+        {
+            "id": "pro15_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "La lengua de los sabios adornará la sabiduría; mas la boca de los necios hablará sandeces."
+        },
+        {
+            "id": "pro15_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "Los ojos de Jehová están en todo lugar, mirando a los malos y a los buenos."
+        },
+        {
+            "id": "pro15_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "La lengua sana es árbol de vida; mas la perversidad en ella es quebrantamiento de espíritu."
+        },
+        {
+            "id": "pro15_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "El necio menosprecia el consejo de su padre; mas el que guarda la corrección, vendrá a ser prudente."
+        },
+        {
+            "id": "pro15_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "En la casa del justo hay gran provisión; pero hay turbación en las ganancias del impío."
+        },
+        {
+            "id": "pro15_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Los labios de los sabios esparcen sabiduría; mas no así el corazón de los necios."
+        },
+        {
+            "id": "pro15_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "El sacrificio de los impíos es abominación a Jehová; mas la oración de los rectos es su gozo."
+        },
+        {
+            "id": "pro15_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Abominación es a Jehová el camino del impío; mas Él ama al que sigue la justicia."
+        },
+        {
+            "id": "pro15_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "La reprensión es molesta al que abandona el camino; y el que aborreciere la corrección, morirá."
+        },
+        {
+            "id": "pro15_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "El infierno y la destrucción están delante de Jehová: ¡Cuánto más los corazones de los hombres!"
+        },
+        {
+            "id": "pro15_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "El escarnecedor no ama al que le reprende; ni se junta con los sabios."
+        },
+        {
+            "id": "pro15_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "El corazón alegre hermosea el rostro; mas por el dolor del corazón el espíritu se abate."
+        },
+        {
+            "id": "pro15_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "El corazón entendido busca la sabiduría; mas la boca de los necios se alimenta de necedades."
+        },
+        {
+            "id": "pro15_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Todos los días del afligido son malos; mas el de corazón contento tiene un banquete continuo."
+        },
+        {
+            "id": "pro15_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "Mejor es lo poco con el temor de Jehová, que el gran tesoro donde hay turbación."
+        },
+        {
+            "id": "pro15_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "Mejor es la comida de legumbres donde hay amor, que de buey engordado donde hay odio."
+        },
+        {
+            "id": "pro15_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "El hombre iracundo suscita contiendas; mas el que tarda en airarse, apacigua la rencilla."
+        },
+        {
+            "id": "pro15_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "El camino del perezoso es como seto de espinos; mas la senda de los rectos como una calzada."
+        },
+        {
+            "id": "pro15_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El hijo sabio alegra al padre; mas el hombre necio menosprecia a su madre."
+        },
+        {
+            "id": "pro15_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "La necedad es alegría al falto de entendimiento; mas el hombre entendido camina con rectitud."
+        },
+        {
+            "id": "pro15_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman."
+        },
+        {
+            "id": "pro15_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "Se alegra el hombre con la respuesta de su boca; y la palabra a su tiempo, ¡cuán buena es!"
+        },
+        {
+            "id": "pro15_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "El camino de la vida es hacia arriba al entendido, para apartarse del infierno abajo."
+        },
+        {
+            "id": "pro15_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Jehová asolará la casa de los soberbios; mas Él afirmará los linderos de la viuda."
+        },
+        {
+            "id": "pro15_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "Abominación son a Jehová los pensamientos del malo; mas las palabras de los limpios son agradables."
+        },
+        {
+            "id": "pro15_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "Alborota su casa el codicioso; mas el que aborrece el soborno vivirá."
+        },
+        {
+            "id": "pro15_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "El corazón del justo piensa para responder; mas la boca de los impíos derrama malas cosas."
+        },
+        {
+            "id": "pro15_29",
+            "speaker": "Salomón",
+            "verse": 29,
+            "text": "Lejos está Jehová de los impíos; pero Él oye la oración de los justos."
+        },
+        {
+            "id": "pro15_30",
+            "speaker": "Salomón",
+            "verse": 30,
+            "text": "La luz de los ojos alegra el corazón; y la buena noticia engorda los huesos."
+        },
+        {
+            "id": "pro15_31",
+            "speaker": "Salomón",
+            "verse": 31,
+            "text": "El oído que escucha las reprensiones de vida, entre los sabios morará."
+        },
+        {
+            "id": "pro15_32",
+            "speaker": "Salomón",
+            "verse": 32,
+            "text": "El que tiene en poco la disciplina, menosprecia su alma; mas el que escucha la corrección, tiene entendimiento."
+        },
+        {
+            "id": "pro15_33",
+            "speaker": "Salomón",
+            "verse": 33,
+            "text": "El temor de Jehová es enseñanza de sabiduría; y antes de la honra está la humildad."
+        }
+    ]
+}

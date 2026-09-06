@@ -1,0 +1,199 @@
+{
+    "book": "Proverbios",
+    "chapter": 20,
+    "title": "Proverbios 20",
+    "messages": [
+        {
+            "id": "pro20_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "El vino es escarnecedor, el licor es alborotador; y cualquiera que por ellos yerra, no es sabio."
+        },
+        {
+            "id": "pro20_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Como rugido de cachorro de león es el terror del rey; quien lo enfurece, contra su propia alma peca."
+        },
+        {
+            "id": "pro20_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "Honra es al hombre el apartarse de contienda; mas todo insensato se envolverá en ella."
+        },
+        {
+            "id": "pro20_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "El perezoso no ara a causa del invierno; mendigará, pues, en la siega, y no hallará."
+        },
+        {
+            "id": "pro20_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Como aguas profundas es el consejo en el corazón del hombre; mas el hombre entendido lo alcanzará."
+        },
+        {
+            "id": "pro20_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Muchos hombres proclaman cada uno su propia bondad; pero hombre de verdad, ¿quién lo hallará?"
+        },
+        {
+            "id": "pro20_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "El justo camina en su integridad, bienaventurados serán sus hijos después de él."
+        },
+        {
+            "id": "pro20_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "El rey que se sienta en el trono de juicio, con su mirar disipa todo mal."
+        },
+        {
+            "id": "pro20_9a",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "¿Quién podrá decir:"
+        },
+        {
+            "id": "pro20_9b",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Yo he limpiado mi corazón, limpio estoy de mi pecado?"
+        },
+        {
+            "id": "pro20_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "Pesa falsa y medida falsa, ambas cosas son abominación a Jehová."
+        },
+        {
+            "id": "pro20_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Aun el muchacho es conocido por sus hechos, si su obra fuere limpia y recta."
+        },
+        {
+            "id": "pro20_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "El oído que oye, y el ojo que ve, ambas cosas ha hecho Jehová."
+        },
+        {
+            "id": "pro20_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "No ames el sueño, para que no te empobrezcas; abre tus ojos, y te saciarás de pan."
+        },
+        {
+            "id": "pro20_14a",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "El que compra dice:"
+        },
+        {
+            "id": "pro20_14b",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "Malo es, malo es; pero cuando se marcha, entonces se alaba."
+        },
+        {
+            "id": "pro20_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Hay oro y multitud de piedras preciosas; mas los labios sabios son una joya preciosa."
+        },
+        {
+            "id": "pro20_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "Quítale su ropa al que salió por fiador del extraño; y tómale prenda al fiador de la mujer extraña."
+        },
+        {
+            "id": "pro20_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "Sabroso es al hombre el pan de mentira; mas después su boca será llena de cascajo."
+        },
+        {
+            "id": "pro20_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Los pensamientos con el consejo se ordenan; y con estrategia se hace la guerra."
+        },
+        {
+            "id": "pro20_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "El que anda en chismes descubre el secreto; no te entremetas, pues, con el que lisonjea con sus labios."
+        },
+        {
+            "id": "pro20_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El que maldice a su padre o a su madre, su lámpara será apagada en oscuridad tenebrosa."
+        },
+        {
+            "id": "pro20_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "La herencia adquirida de prisa al principio, su postrimería no será bendita."
+        },
+        {
+            "id": "pro20_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "No digas: Yo me vengaré; espera en Jehová, y Él te salvará."
+        },
+        {
+            "id": "pro20_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "Abominación son a Jehová las pesas falsas; y la balanza falsa no es buena."
+        },
+        {
+            "id": "pro20_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "De Jehová son los pasos del hombre: ¿Cómo, pues, entenderá el hombre su camino?"
+        },
+        {
+            "id": "pro20_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Lazo es al hombre el devorar lo santo; y reflexionar después de haber hecho los votos."
+        },
+        {
+            "id": "pro20_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "El rey sabio dispersa los impíos, y sobre ellos hace rodar la rueda."
+        },
+        {
+            "id": "pro20_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "Lámpara de Jehová es el espíritu del hombre, que escudriña lo más recóndito del vientre."
+        },
+        {
+            "id": "pro20_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "Misericordia y verdad guardan al rey; y con clemencia se sustenta su trono."
+        },
+        {
+            "id": "pro20_29",
+            "speaker": "Salomón",
+            "verse": 29,
+            "text": "La gloria de los jóvenes es su fuerza, y la hermosura de los viejos su vejez."
+        },
+        {
+            "id": "pro20_30",
+            "speaker": "Salomón",
+            "verse": 30,
+            "text": "Lo amoratado de las heridas purifican del mal; y las llagas llegan a lo más recóndito del vientre."
+        }
+    ]
+}

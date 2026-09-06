@@ -1,0 +1,169 @@
+{
+    "book": "Proverbios",
+    "chapter": 27,
+    "title": "Proverbios 27",
+    "messages": [
+        {
+            "id": "pro27_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "No te jactes del día de mañana; porque no sabes qué traerá el día."
+        },
+        {
+            "id": "pro27_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Que te alaben otros, y no tu boca; el ajeno, y no tus labios."
+        },
+        {
+            "id": "pro27_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "Pesada es la piedra, y la arena pesa; mas la ira del necio es más pesada que ambas cosas."
+        },
+        {
+            "id": "pro27_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Cruel es la ira, e impetuoso el furor; mas ¿quién podrá sostenerse delante de la envidia?"
+        },
+        {
+            "id": "pro27_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Mejor es reprensión manifiesta que amor oculto."
+        },
+        {
+            "id": "pro27_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Fieles son las heridas del que ama; pero engañosos son los besos del que aborrece."
+        },
+        {
+            "id": "pro27_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "El hombre saciado desprecia el panal de miel; pero al hombre hambriento todo lo amargo es dulce."
+        },
+        {
+            "id": "pro27_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "Cual ave que se va de su nido, tal es el hombre que se va de su lugar."
+        },
+        {
+            "id": "pro27_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "El ungüento y el perfume alegran el corazón; y el amigo al hombre con el cordial consejo."
+        },
+        {
+            "id": "pro27_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "No abandones a tu amigo, ni al amigo de tu padre; ni entres en casa de tu hermano el día de tu aflicción. Mejor es el vecino cerca que el hermano lejos."
+        },
+        {
+            "id": "pro27_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Sé sabio, hijo mío, y alegra mi corazón, y tendré qué responder al que me agravie."
+        },
+        {
+            "id": "pro27_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "El avisado ve el mal, y se esconde, mas los simples pasan, y llevan el daño."
+        },
+        {
+            "id": "pro27_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "Quítale su ropa al que salió fiador por el extraño; y al que fió por la extraña, tómale prenda."
+        },
+        {
+            "id": "pro27_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "El que bendice a su amigo en alta voz, madrugando de mañana, por maldición se le contará."
+        },
+        {
+            "id": "pro27_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Gotera continua en tiempo de lluvia, y mujer rencillosa, son semejantes:"
+        },
+        {
+            "id": "pro27_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "El que puede contenerla, puede contener el viento; o el aceite en su mano derecha."
+        },
+        {
+            "id": "pro27_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "Hierro con hierro se aguza; así el hombre aguza el rostro de su amigo."
+        },
+        {
+            "id": "pro27_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "El que cuida la higuera, comerá de su fruto; y el que atiende a su señor, será honrado."
+        },
+        {
+            "id": "pro27_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Como en el agua el rostro corresponde al rostro, así el corazón del hombre al del hombre."
+        },
+        {
+            "id": "pro27_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El infierno y la perdición nunca se hartan: Así los ojos del hombre nunca se sacian."
+        },
+        {
+            "id": "pro27_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "El crisol prueba la plata, y la hornaza el oro; y al hombre la boca del que lo alaba."
+        },
+        {
+            "id": "pro27_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "Aunque majes al necio en un mortero entre granos de trigo majados con el pisón, no se apartará de él su necedad."
+        },
+        {
+            "id": "pro27_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "Considera atentamente el aspecto de tus ovejas; pon tu corazón a tus rebaños:"
+        },
+        {
+            "id": "pro27_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "Porque las riquezas no son para siempre; ¿acaso perdurará la corona por todas las generaciones?"
+        },
+        {
+            "id": "pro27_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Sale la grama, aparece la hierba, y siegan las hierbas de los montes."
+        },
+        {
+            "id": "pro27_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "Los corderos son para tus vestiduras, y los cabritos son el precio del campo;"
+        },
+        {
+            "id": "pro27_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "Y habrá suficiente leche de cabra para tu mantenimiento, y para el mantenimiento de tu casa, y para el sustento de tus criadas."
+        }
+    ]
+}

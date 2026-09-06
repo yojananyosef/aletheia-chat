@@ -1,0 +1,175 @@
+{
+    "book": "Proverbios",
+    "chapter": 25,
+    "title": "Proverbios 25",
+    "messages": [
+        {
+            "id": "pro25_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "También éstos son proverbios de Salomón, los cuales copiaron los varones de Ezequías, rey de Judá."
+        },
+        {
+            "id": "pro25_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Gloria de Dios es ocultar un asunto; Pero honra del rey es escudriñarlo."
+        },
+        {
+            "id": "pro25_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "La altura de los cielos, y la profundidad de la tierra y el corazón de los reyes, son inescrutables."
+        },
+        {
+            "id": "pro25_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Quita las escorias de la plata, y saldrá vaso al fundidor."
+        },
+        {
+            "id": "pro25_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Aparta al impío de la presencia del rey, y su trono se afirmará en justicia."
+        },
+        {
+            "id": "pro25_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "No te alabes delante del rey, ni estés en el lugar de los grandes:"
+        },
+        {
+            "id": "pro25_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Porque mejor es que se te diga: Sube acá, y no que seas humillado delante del príncipe a quien tus ojos han visto."
+        },
+        {
+            "id": "pro25_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "No entres apresuradamente en pleito, no sea que no sepas qué hacer al fin, después que tu prójimo te haya avergonzado."
+        },
+        {
+            "id": "pro25_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Trata tu causa con tu compañero y no descubras el secreto a otro."
+        },
+        {
+            "id": "pro25_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "No sea que te deshonre el que lo oyere, y tu infamia no pueda repararse."
+        },
+        {
+            "id": "pro25_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Manzana de oro con figuras de plata es la palabra dicha oportunamente."
+        },
+        {
+            "id": "pro25_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "Como zarcillo de oro y joyel de oro fino, es el que reprende al sabio que tiene oído dócil."
+        },
+        {
+            "id": "pro25_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "Como frío de nieve en tiempo de la siega, así es el mensajero fiel a los que lo envían; pues al alma de su señor da refrigerio."
+        },
+        {
+            "id": "pro25_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "Como nubes y vientos sin lluvia, así es el hombre que se jacta de falsa liberalidad."
+        },
+        {
+            "id": "pro25_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Con larga paciencia se aplaca el príncipe; y la lengua blanda quebranta los huesos."
+        },
+        {
+            "id": "pro25_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "¿Hallaste la miel? Come lo que te basta; no sea que te hartes de ella y la vomites."
+        },
+        {
+            "id": "pro25_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "Detén tu pie de la casa de tu vecino, no sea que se harte de ti y te aborrezca."
+        },
+        {
+            "id": "pro25_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Martillo y cuchillo y saeta aguda, es el hombre que habla contra su prójimo falso testimonio."
+        },
+        {
+            "id": "pro25_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Diente quebrado y pie descoyuntado, es la confianza en el hombre infiel en el tiempo de angustia."
+        },
+        {
+            "id": "pro25_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El que canta canciones al corazón afligido, es como el que quita la ropa en tiempo de frío, o el que sobre el jabón echa vinagre."
+        },
+        {
+            "id": "pro25_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "Si el que te aborrece tuviere hambre, dale de comer pan; y si tuviere sed, dale de beber agua:"
+        },
+        {
+            "id": "pro25_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "Porque ascuas amontonarás sobre su cabeza, y Jehová te lo pagará."
+        },
+        {
+            "id": "pro25_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "El viento del norte ahuyenta la lluvia, y el rostro airado la lengua detractora."
+        },
+        {
+            "id": "pro25_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "Mejor es estar en un rincón del terrado, que con la mujer rencillosa en espaciosa casa."
+        },
+        {
+            "id": "pro25_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Como el agua fría al alma sedienta, así son las buenas nuevas de lejanas tierras."
+        },
+        {
+            "id": "pro25_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "Como fuente turbia y manantial corrompido, es el justo que cae delante del impío."
+        },
+        {
+            "id": "pro25_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "Comer mucha miel no es bueno; ni el buscar la propia gloria es gloria."
+        },
+        {
+            "id": "pro25_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "Como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda."
+        }
+    ]
+}

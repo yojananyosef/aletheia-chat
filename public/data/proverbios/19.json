@@ -1,0 +1,181 @@
+{
+    "book": "Proverbios",
+    "chapter": 19,
+    "title": "Proverbios 19",
+    "messages": [
+        {
+            "id": "pro19_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "Mejor es el pobre que camina en su integridad, que el de perversos labios y necio."
+        },
+        {
+            "id": "pro19_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "No es bueno que el alma esté sin conocimiento, y el que se apresura con los pies peca."
+        },
+        {
+            "id": "pro19_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "La insensatez del hombre tuerce su camino; y contra Jehová se enfurece su corazón."
+        },
+        {
+            "id": "pro19_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Las riquezas atraen a muchos amigos, mas el pobre es apartado de su amigo."
+        },
+        {
+            "id": "pro19_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "El testigo falso no quedará sin castigo; y el que habla mentiras no escapará."
+        },
+        {
+            "id": "pro19_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Muchos buscan el favor del príncipe; y todos son amigos del hombre que da."
+        },
+        {
+            "id": "pro19_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Todos los hermanos del pobre le aborrecen: ¡Cuánto más sus amigos se alejarán de él! Buscará la palabra, y no la hallará."
+        },
+        {
+            "id": "pro19_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "El que posee entendimiento, ama su alma; el que guarda la inteligencia, hallará el bien."
+        },
+        {
+            "id": "pro19_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "El testigo falso no quedará sin castigo; y el que habla mentiras, perecerá."
+        },
+        {
+            "id": "pro19_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "No conviene al necio el deleite: ¡Cuánto menos al siervo ser señor de los príncipes!"
+        },
+        {
+            "id": "pro19_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "La cordura del hombre detiene su furor; y su honra es pasar por alto la ofensa."
+        },
+        {
+            "id": "pro19_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "Como el rugido de cachorro de león es la ira del rey; y su favor como el rocío sobre la hierba."
+        },
+        {
+            "id": "pro19_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "El hijo necio dolor es para su padre; y gotera continua las contiendas de la esposa."
+        },
+        {
+            "id": "pro19_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "La casa y las riquezas son herencia de los padres; mas la esposa prudente viene de Jehová."
+        },
+        {
+            "id": "pro19_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "La pereza hace caer en profundo sueño; y el alma negligente padecerá hambre."
+        },
+        {
+            "id": "pro19_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "El que guarda el mandamiento, guarda su alma: Mas el que menosprecia sus caminos, morirá."
+        },
+        {
+            "id": "pro19_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "El que se compadece del pobre, a Jehová presta, y lo que ha dado, Él se lo volverá a pagar."
+        },
+        {
+            "id": "pro19_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Castiga a tu hijo en tanto que hay esperanza, y no dejes que tu alma se detenga por causa de su llanto."
+        },
+        {
+            "id": "pro19_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "El hombre de grande ira llevará el castigo; y si tú lo libras, tendrás que volverlo a hacer."
+        },
+        {
+            "id": "pro19_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "Escucha el consejo, y recibe la corrección, para que seas sabio en tu vejez."
+        },
+        {
+            "id": "pro19_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "Muchos pensamientos hay en el corazón del hombre; mas el consejo de Jehová permanecerá."
+        },
+        {
+            "id": "pro19_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "El deseo del hombre es su bondad; y mejor es ser pobre que mentiroso."
+        },
+        {
+            "id": "pro19_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "El temor de Jehová es para vida; y con él vivirá lleno de reposo el hombre; no será visitado de mal."
+        },
+        {
+            "id": "pro19_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "El perezoso esconde su mano en el seno; aun a su boca no la llevará."
+        },
+        {
+            "id": "pro19_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Hiere al escarnecedor, y el simple se hará avisado; y corrigiendo al entendido, entenderá ciencia."
+        },
+        {
+            "id": "pro19_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "El que roba a su padre y ahuyenta a su madre, es hijo que causa vergüenza y acarrea deshonra."
+        },
+        {
+            "id": "pro19_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "Cesa, hijo mío, de oír la enseñanza que te hace divagar de las palabras de sabiduría."
+        },
+        {
+            "id": "pro19_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "El testigo perverso se burlará del juicio; y la boca de los impíos encubrirá la iniquidad."
+        },
+        {
+            "id": "pro19_29",
+            "speaker": "Salomón",
+            "verse": 29,
+            "text": "Preparados están juicios para los escarnecedores, y azotes para la espalda de los necios."
+        }
+    ]
+}

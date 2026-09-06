@@ -1,0 +1,217 @@
+{
+    "book": "Proverbios",
+    "chapter": 14,
+    "title": "Proverbios 14",
+    "messages": [
+        {
+            "id": "pro14_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "La mujer sabia edifica su casa: Mas la necia con sus manos la derriba."
+        },
+        {
+            "id": "pro14_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "El que camina en su rectitud teme a Jehová; mas el que es perverso en sus caminos lo menosprecia."
+        },
+        {
+            "id": "pro14_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "En la boca del necio está la vara de la soberbia; mas los labios de los sabios los guardarán."
+        },
+        {
+            "id": "pro14_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Sin bueyes el granero está limpio; mas por la fuerza del buey hay abundancia de pan."
+        },
+        {
+            "id": "pro14_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "El testigo verdadero no mentirá; mas el testigo falso hablará mentiras."
+        },
+        {
+            "id": "pro14_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Busca el escarnecedor la sabiduría, y no la halla; mas al hombre entendido la sabiduría le es fácil."
+        },
+        {
+            "id": "pro14_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Vete de delante del hombre necio, cuando veas que no hay en él labios de entendimiento."
+        },
+        {
+            "id": "pro14_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "La sabiduría del prudente está en entender su camino; mas la indiscreción de los necios es engaño."
+        },
+        {
+            "id": "pro14_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Los necios se mofan del pecado; mas entre los rectos hay favor."
+        },
+        {
+            "id": "pro14_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "El corazón conoce la amargura de su alma; y extraño no se entrometerá en su alegría."
+        },
+        {
+            "id": "pro14_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "La casa de los impíos será asolada: Mas florecerá la tienda de los rectos."
+        },
+        {
+            "id": "pro14_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "Hay camino que al hombre le parece derecho; pero su fin es camino de muerte."
+        },
+        {
+            "id": "pro14_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "Aun en la risa tendrá dolor el corazón; y el término de la alegría es congoja."
+        },
+        {
+            "id": "pro14_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "El de corazón descarriado será hastiado de sus caminos; y el hombre de bien estará contento del suyo."
+        },
+        {
+            "id": "pro14_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "El simple cree a toda palabra; mas el prudente mira bien sus pasos."
+        },
+        {
+            "id": "pro14_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "El sabio teme y se aparta del mal: Mas el necio se muestra arrogante y confiado."
+        },
+        {
+            "id": "pro14_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "El que presto se enoja, hará locuras; y el hombre de malos designios será aborrecido."
+        },
+        {
+            "id": "pro14_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Los simples heredarán necedad; mas los prudentes se coronarán de sabiduría."
+        },
+        {
+            "id": "pro14_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Los malos se inclinarán delante de los buenos, y los impíos a las puertas del justo."
+        },
+        {
+            "id": "pro14_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "El pobre es odiado aun por su vecino; pero muchos son los amigos del rico."
+        },
+        {
+            "id": "pro14_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "Peca el que menosprecia a su prójimo; mas el que tiene misericordia de los pobres, es bienaventurado."
+        },
+        {
+            "id": "pro14_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "¿No yerran los que piensan mal? Pero misericordia y verdad alcanzarán los que piensan el bien."
+        },
+        {
+            "id": "pro14_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "En toda labor hay fruto; mas la palabra sólo de labios empobrece."
+        },
+        {
+            "id": "pro14_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "Las riquezas de los sabios son su corona; mas es infatuación la insensatez de los necios."
+        },
+        {
+            "id": "pro14_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "El testigo verdadero libra las almas; mas el engañoso hablará mentiras."
+        },
+        {
+            "id": "pro14_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "En el temor de Jehová está la fuerte confianza; y sus hijos tendrán lugar de refugio."
+        },
+        {
+            "id": "pro14_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "El temor de Jehová es manantial de vida, para apartarse de los lazos de la muerte."
+        },
+        {
+            "id": "pro14_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "En la multitud de pueblo está la gloria del rey; y en la falta de pueblo la debilidad del príncipe."
+        },
+        {
+            "id": "pro14_29",
+            "speaker": "Salomón",
+            "verse": 29,
+            "text": "El que tarda en airarse, es grande de entendimiento; mas el impaciente de espíritu enaltece la necedad."
+        },
+        {
+            "id": "pro14_30",
+            "speaker": "Salomón",
+            "verse": 30,
+            "text": "El corazón apacible es vida de la carne; mas la envidia, es carcoma de los huesos."
+        },
+        {
+            "id": "pro14_31",
+            "speaker": "Salomón",
+            "verse": 31,
+            "text": "El que oprime al pobre, afrenta a su Hacedor; mas el que tiene misericordia del pobre, lo honra."
+        },
+        {
+            "id": "pro14_32",
+            "speaker": "Salomón",
+            "verse": 32,
+            "text": "Por su maldad será lanzado el impío; mas el justo en su muerte tiene esperanza."
+        },
+        {
+            "id": "pro14_33",
+            "speaker": "Salomón",
+            "verse": 33,
+            "text": "En el corazón del prudente reposa la sabiduría; mas aquello que está entre los necios, se da a conocer."
+        },
+        {
+            "id": "pro14_34",
+            "speaker": "Salomón",
+            "verse": 34,
+            "text": "La justicia engrandece a la nación; mas el pecado es afrenta de las naciones."
+        },
+        {
+            "id": "pro14_35",
+            "speaker": "Salomón",
+            "verse": 35,
+            "text": "La benevolencia del rey es para con el siervo entendido; mas su enojo contra el que lo avergüenza."
+        }
+    ]
+}

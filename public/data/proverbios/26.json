@@ -1,0 +1,187 @@
+{
+    "book": "Proverbios",
+    "chapter": 26,
+    "title": "Proverbios 26",
+    "messages": [
+        {
+            "id": "pro26_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "Como la nieve en el verano, y la lluvia en la siega, así no conviene al necio la honra."
+        },
+        {
+            "id": "pro26_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "Como el gorrión en su vagar, y como la golondrina en su vuelo, así la maldición nunca vendrá sin causa."
+        },
+        {
+            "id": "pro26_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "El látigo para el caballo, y el cabestro para el asno, y la vara para la espalda del necio."
+        },
+        {
+            "id": "pro26_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "No respondas al necio conforme a su necedad, para que no seas tú también como él."
+        },
+        {
+            "id": "pro26_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Responde al necio según su necedad, para que no se estime sabio en su propia opinión."
+        },
+        {
+            "id": "pro26_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "El que envía mensaje por mano de un necio, se corta los pies y bebe su daño."
+        },
+        {
+            "id": "pro26_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Las piernas del lisiado penden inútiles; así el proverbio en la boca del necio."
+        },
+        {
+            "id": "pro26_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "Como quien liga la piedra en la honda, así hace el que al necio da honra."
+        },
+        {
+            "id": "pro26_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Espinas hincadas en mano del embriagado, tal es el proverbio en la boca de los necios."
+        },
+        {
+            "id": "pro26_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "El grande Dios que creó todas las cosas; da la paga al insensato, y da la paga a los transgresores."
+        },
+        {
+            "id": "pro26_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Como perro que vuelve a su vómito, así es el necio que repite su necedad."
+        },
+        {
+            "id": "pro26_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "¿Has visto hombre sabio en su propia opinión? Más esperanza hay del necio que de él."
+        },
+        {
+            "id": "pro26_13a",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "Dice el perezoso:"
+        },
+        {
+            "id": "pro26_13b",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "El león está en el camino; el león está en las calles."
+        },
+        {
+            "id": "pro26_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "Como la puerta gira sobre sus quicios; así el perezoso da vueltas en su cama."
+        },
+        {
+            "id": "pro26_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Esconde el perezoso su mano en su seno; se cansa de llevarla a su boca."
+        },
+        {
+            "id": "pro26_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "En su propia opinión el perezoso es más sabio que siete que pueden aconsejar."
+        },
+        {
+            "id": "pro26_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "El que pasando se deja llevar de la ira en pleito ajeno, es como el que toma al perro por las orejas."
+        },
+        {
+            "id": "pro26_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Como el que enloquece, y echa llamas y saetas y muerte,"
+        },
+        {
+            "id": "pro26_19a",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Tal es el hombre que engaña a su amigo, y dice:"
+        },
+        {
+            "id": "pro26_19b",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "¿Acaso no estaba yo bromeando?"
+        },
+        {
+            "id": "pro26_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "Sin leña se apaga el fuego; y donde no hay chismoso, cesa la contienda."
+        },
+        {
+            "id": "pro26_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "El carbón para brasas, y la leña para el fuego; y el hombre rencilloso para encender contienda."
+        },
+        {
+            "id": "pro26_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "Las palabras del chismoso son como estocadas, y penetran hasta lo más profundo del vientre."
+        },
+        {
+            "id": "pro26_23",
+            "speaker": "Salomón",
+            "verse": 23,
+            "text": "Como escoria de plata echada sobre el tiesto, son los labios enardecidos y el corazón malo."
+        },
+        {
+            "id": "pro26_24",
+            "speaker": "Salomón",
+            "verse": 24,
+            "text": "El que odia, disimula con sus labios; pero en su interior maquina engaño."
+        },
+        {
+            "id": "pro26_25",
+            "speaker": "Salomón",
+            "verse": 25,
+            "text": "Cuando hablare amigablemente, no le creas; porque siete abominaciones hay en su corazón."
+        },
+        {
+            "id": "pro26_26",
+            "speaker": "Salomón",
+            "verse": 26,
+            "text": "Aunque su odio es encubierto con disimulo; su maldad será descubierta en la congregación."
+        },
+        {
+            "id": "pro26_27",
+            "speaker": "Salomón",
+            "verse": 27,
+            "text": "El que cavare foso, caerá en él: y el que ruede la piedra, ésta se volverá sobre él."
+        },
+        {
+            "id": "pro26_28",
+            "speaker": "Salomón",
+            "verse": 28,
+            "text": "La lengua mentirosa aborrece a los afligidos; y la boca lisonjera acarrea ruina."
+        }
+    ]
+}

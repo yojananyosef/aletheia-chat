@@ -1,0 +1,193 @@
+{
+    "book": "Proverbios",
+    "chapter": 31,
+    "title": "Proverbios 31",
+    "messages": [
+        {
+            "id": "pro31_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Palabras del rey Lemuel; la profecía con que le enseñó su madre."
+        },
+        {
+            "id": "pro31_2",
+            "speaker": "Madre de Lemuel",
+            "verse": 2,
+            "text": "¿Qué, hijo mío? ¿Y qué, hijo de mi vientre? ¿Y qué, hijo de mis votos?"
+        },
+        {
+            "id": "pro31_3",
+            "speaker": "Madre de Lemuel",
+            "verse": 3,
+            "text": "No des a las mujeres tu fuerza, ni tus caminos a lo que es para destruir a los reyes."
+        },
+        {
+            "id": "pro31_4",
+            "speaker": "Madre de Lemuel",
+            "verse": 4,
+            "text": "No es de los reyes, oh Lemuel, no es de los reyes beber vino, ni de los príncipes el licor."
+        },
+        {
+            "id": "pro31_5",
+            "speaker": "Madre de Lemuel",
+            "verse": 5,
+            "text": "No sea que bebiendo olviden la ley, y perviertan el derecho de todos los hijos afligidos."
+        },
+        {
+            "id": "pro31_6",
+            "speaker": "Madre de Lemuel",
+            "verse": 6,
+            "text": "Dad licor al desfallecido, y el vino a los de ánimo amargado."
+        },
+        {
+            "id": "pro31_7",
+            "speaker": "Madre de Lemuel",
+            "verse": 7,
+            "text": "Beban, y olvídense de su necesidad, y de su miseria no se acuerden más."
+        },
+        {
+            "id": "pro31_8",
+            "speaker": "Madre de Lemuel",
+            "verse": 8,
+            "text": "Abre tu boca por el mudo, en el juicio de todos los que están destinados a la muerte."
+        },
+        {
+            "id": "pro31_9",
+            "speaker": "Madre de Lemuel",
+            "verse": 9,
+            "text": "Abre tu boca, juzga con justicia, y defiende el derecho del pobre y del menesteroso."
+        },
+        {
+            "id": "pro31_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de piedras preciosas."
+        },
+        {
+            "id": "pro31_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "El corazón de su marido está en ella confiado, y no tendrá necesidad de despojo."
+        },
+        {
+            "id": "pro31_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Le dará ella bien y no mal, todos los días de su vida."
+        },
+        {
+            "id": "pro31_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Busca lana y lino, y con voluntad trabaja con sus manos."
+        },
+        {
+            "id": "pro31_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Es como navío de mercader; trae su pan de lejos."
+        },
+        {
+            "id": "pro31_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Se levanta aun de noche, y da comida a su familia, y ración a sus criadas."
+        },
+        {
+            "id": "pro31_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Considera la heredad, y la compra; y planta viña del fruto de sus manos."
+        },
+        {
+            "id": "pro31_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Ciñe de fortaleza sus lomos, y esfuerza sus brazos."
+        },
+        {
+            "id": "pro31_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Ve que su ganancia es buena: Su lámpara no se apaga de noche."
+        },
+        {
+            "id": "pro31_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Aplica su mano al huso, y sus manos toman la rueca."
+        },
+        {
+            "id": "pro31_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Extiende su mano al pobre, y tiende su mano al menesteroso."
+        },
+        {
+            "id": "pro31_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "No tiene temor de la nieve por su familia, porque toda su familia está vestida de ropas dobles."
+        },
+        {
+            "id": "pro31_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Ella se hace tapices; de lino fino y púrpura es su vestido."
+        },
+        {
+            "id": "pro31_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Conocido es su marido en las puertas, cuando se sienta con los ancianos de la tierra."
+        },
+        {
+            "id": "pro31_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Hace telas y las vende; y provee de cintos al mercader."
+        },
+        {
+            "id": "pro31_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Fuerza y honor son su vestidura; y se regocijará en el día postrero."
+        },
+        {
+            "id": "pro31_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Abre su boca con sabiduría; y la ley de misericordia está en su lengua."
+        },
+        {
+            "id": "pro31_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Considera los caminos de su casa, y no come el pan de balde."
+        },
+        {
+            "id": "pro31_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Se levantan sus hijos, y la llaman bienaventurada; y su marido también la alaba."
+        },
+        {
+            "id": "pro31_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Muchas mujeres han sido virtuosas; pero tú las sobrepasas a todas."
+        },
+        {
+            "id": "pro31_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Engañosa es la gracia, y vana la hermosura: La mujer que teme a Jehová, ésa será alabada."
+        },
+        {
+            "id": "pro31_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Dadle del fruto de sus manos, y alábenla en las puertas sus hechos."
+        }
+    ]
+}

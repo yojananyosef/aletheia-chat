@@ -1,0 +1,223 @@
+{
+    "book": "Proverbios",
+    "chapter": 8,
+    "title": "Proverbios 8",
+    "messages": [
+        {
+            "id": "pro8_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿No clama la sabiduría, y da su voz la inteligencia?"
+        },
+        {
+            "id": "pro8_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Está en las alturas junto al camino, a las encrucijadas de las veredas se pone de pie;"
+        },
+        {
+            "id": "pro8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "En el lugar de las puertas, a la entrada de la ciudad, a la entrada de las puertas da voces:"
+        },
+        {
+            "id": "pro8_4",
+            "speaker": "Sabiduría",
+            "verse": 4,
+            "text": "Oh hombres, a vosotros clamo; y mi voz se dirige a los hijos de los hombres."
+        },
+        {
+            "id": "pro8_5",
+            "speaker": "Sabiduría",
+            "verse": 5,
+            "text": "Entended, simples, discreción; y vosotros, necios, entrad en cordura."
+        },
+        {
+            "id": "pro8_6",
+            "speaker": "Sabiduría",
+            "verse": 6,
+            "text": "Oíd, porque hablaré cosas excelentes; y abriré mis labios para cosas rectas."
+        },
+        {
+            "id": "pro8_7",
+            "speaker": "Sabiduría",
+            "verse": 7,
+            "text": "Porque mi boca hablará verdad, y la impiedad abominan mis labios."
+        },
+        {
+            "id": "pro8_8",
+            "speaker": "Sabiduría",
+            "verse": 8,
+            "text": "En justicia son todas las razones de mi boca; no hay en ellas cosa perversa ni torcida."
+        },
+        {
+            "id": "pro8_9",
+            "speaker": "Sabiduría",
+            "verse": 9,
+            "text": "Todas ellas son rectas al que entiende, y razonables a los que han hallado sabiduría."
+        },
+        {
+            "id": "pro8_10",
+            "speaker": "Sabiduría",
+            "verse": 10,
+            "text": "Recibid mi enseñanza, y no plata; y entendimiento antes que el oro escogido."
+        },
+        {
+            "id": "pro8_11",
+            "speaker": "Sabiduría",
+            "verse": 11,
+            "text": "Porque mejor es la sabiduría que las piedras preciosas; y todas las cosas que se pueden desear, no son de comparar con ella."
+        },
+        {
+            "id": "pro8_12",
+            "speaker": "Sabiduría",
+            "verse": 12,
+            "text": "Yo, la sabiduría, habito con la prudencia, y hallo el conocimiento en los consejos."
+        },
+        {
+            "id": "pro8_13",
+            "speaker": "Sabiduría",
+            "verse": 13,
+            "text": "El temor de Jehová es aborrecer el mal; la soberbia y la arrogancia, el mal camino, y la boca perversa aborrezco."
+        },
+        {
+            "id": "pro8_14",
+            "speaker": "Sabiduría",
+            "verse": 14,
+            "text": "Conmigo está el consejo y la sana sabiduría; yo soy la inteligencia; mía es la fortaleza."
+        },
+        {
+            "id": "pro8_15",
+            "speaker": "Sabiduría",
+            "verse": 15,
+            "text": "Por mí reinan los reyes, y los príncipes determinan justicia."
+        },
+        {
+            "id": "pro8_16",
+            "speaker": "Sabiduría",
+            "verse": 16,
+            "text": "Por mí dominan los príncipes, y todos los gobernadores juzgan la tierra."
+        },
+        {
+            "id": "pro8_17",
+            "speaker": "Sabiduría",
+            "verse": 17,
+            "text": "Yo amo a los que me aman; y me hallan los que temprano me buscan."
+        },
+        {
+            "id": "pro8_18",
+            "speaker": "Sabiduría",
+            "verse": 18,
+            "text": "Las riquezas y la honra están conmigo; riquezas duraderas, y justicia."
+        },
+        {
+            "id": "pro8_19",
+            "speaker": "Sabiduría",
+            "verse": 19,
+            "text": "Mejor es mi fruto que el oro, y que el oro refinado; y mi rédito mejor que la plata escogida."
+        },
+        {
+            "id": "pro8_20",
+            "speaker": "Sabiduría",
+            "verse": 20,
+            "text": "Por vereda de justicia guiaré, por en medio de sendas de juicio;"
+        },
+        {
+            "id": "pro8_21",
+            "speaker": "Sabiduría",
+            "verse": 21,
+            "text": "Para hacer que los que me aman, hereden hacienda, y yo llenaré sus tesoros."
+        },
+        {
+            "id": "pro8_22",
+            "speaker": "Sabiduría",
+            "verse": 22,
+            "text": "Jehová me poseía en el principio de su camino, ya de antiguo, antes de sus obras."
+        },
+        {
+            "id": "pro8_23",
+            "speaker": "Sabiduría",
+            "verse": 23,
+            "text": "Desde la eternidad tuve el principado, desde el principio, antes de la tierra."
+        },
+        {
+            "id": "pro8_24",
+            "speaker": "Sabiduría",
+            "verse": 24,
+            "text": "Antes de los abismos fui engendrada; antes que fuesen las fuentes de las muchas aguas."
+        },
+        {
+            "id": "pro8_25",
+            "speaker": "Sabiduría",
+            "verse": 25,
+            "text": "Antes que los montes fuesen fundados, antes de los collados, era yo engendrada:"
+        },
+        {
+            "id": "pro8_26",
+            "speaker": "Sabiduría",
+            "verse": 26,
+            "text": "No había aún hecho la tierra, ni los campos, ni el principio del polvo del mundo."
+        },
+        {
+            "id": "pro8_27",
+            "speaker": "Sabiduría",
+            "verse": 27,
+            "text": "Cuando formó los cielos, allí estaba yo; cuando trazó un círculo sobre la faz del abismo;"
+        },
+        {
+            "id": "pro8_28",
+            "speaker": "Sabiduría",
+            "verse": 28,
+            "text": "cuando estableció los cielos arriba, cuando afirmó las fuentes del abismo;"
+        },
+        {
+            "id": "pro8_29",
+            "speaker": "Sabiduría",
+            "verse": 29,
+            "text": "cuando al mar puso sus límites, para que las aguas no pasasen su mandamiento; cuando estableció los fundamentos de la tierra;"
+        },
+        {
+            "id": "pro8_30",
+            "speaker": "Sabiduría",
+            "verse": 30,
+            "text": "Yo estaba con Él, ordenándolo todo; y era su delicia de día en día, regocijándome delante de Él en todo tiempo;"
+        },
+        {
+            "id": "pro8_31",
+            "speaker": "Sabiduría",
+            "verse": 31,
+            "text": "regocijándome en la parte habitable de su tierra; teniendo mis delicias con los hijos de los hombres."
+        },
+        {
+            "id": "pro8_32",
+            "speaker": "Sabiduría",
+            "verse": 32,
+            "text": "Ahora pues, hijos, oídme; y bienaventurados los que guardaren mis caminos."
+        },
+        {
+            "id": "pro8_33",
+            "speaker": "Sabiduría",
+            "verse": 33,
+            "text": "Atended el consejo, y sed sabios, y no lo menospreciéis."
+        },
+        {
+            "id": "pro8_34",
+            "speaker": "Sabiduría",
+            "verse": 34,
+            "text": "Bienaventurado el hombre que me oye, velando a mis puertas cada día, aguardando a los umbrales de mis puertas."
+        },
+        {
+            "id": "pro8_35",
+            "speaker": "Sabiduría",
+            "verse": 35,
+            "text": "Porque el que me hallare, hallará la vida, y alcanzará el favor de Jehová."
+        },
+        {
+            "id": "pro8_36",
+            "speaker": "Sabiduría",
+            "verse": 36,
+            "text": "Mas el que peca contra mí, defrauda su alma: Todos los que me aborrecen, aman la muerte."
+        }
+    ]
+}

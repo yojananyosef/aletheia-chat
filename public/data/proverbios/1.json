@@ -1,0 +1,217 @@
+{
+    "book": "Proverbios",
+    "chapter": 1,
+    "title": "Proverbios 1",
+    "messages": [
+        {
+            "id": "pro1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Los proverbios de Salomón, hijo de David, rey de Israel:"
+        },
+        {
+            "id": "pro1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Para entender sabiduría y doctrina; para conocer las razones prudentes;"
+        },
+        {
+            "id": "pro1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "para recibir el consejo de sabiduría, justicia, juicio y equidad;"
+        },
+        {
+            "id": "pro1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "para dar sagacidad a los simples, y a los jóvenes inteligencia y cordura."
+        },
+        {
+            "id": "pro1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Oirá el sabio, y aumentará el saber; y el entendido adquirirá consejo;"
+        },
+        {
+            "id": "pro1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "para entender parábola y declaración; palabras de los sabios, y sus enigmas."
+        },
+        {
+            "id": "pro1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "El principio de la sabiduría es el temor de Jehová. Los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+            "id": "pro1_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "Oye, hijo mío, la instrucción de tu padre, y no desprecies la ley de tu madre;"
+        },
+        {
+            "id": "pro1_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "porque adorno de gracia serán a tu cabeza, y collares a tu cuello."
+        },
+        {
+            "id": "pro1_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "Hijo mío, si los pecadores te quisieren engañar, no consientas."
+        },
+        {
+            "id": "pro1_11a",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Si dijeren:"
+        },
+        {
+            "id": "pro1_11b",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "Ven con nosotros, pongamos asechanzas para derramar sangre, acechemos sin motivo al inocente;"
+        },
+        {
+            "id": "pro1_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "los tragaremos vivos como el sepulcro, y enteros, como los que caen al abismo."
+        },
+        {
+            "id": "pro1_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "Hallaremos riquezas de toda clase, llenaremos nuestras casas de despojos;"
+        },
+        {
+            "id": "pro1_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "echa tu suerte entre nosotros; tengamos todos una sola bolsa."
+        },
+        {
+            "id": "pro1_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "Hijo mío, no andes en camino con ellos; aparta tu pie de sus veredas;"
+        },
+        {
+            "id": "pro1_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "porque sus pies correrán hacia el mal, e irán presurosos a derramar sangre."
+        },
+        {
+            "id": "pro1_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "Porque en vano se tenderá la red ante los ojos de toda ave;"
+        },
+        {
+            "id": "pro1_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "mas ellos a su propia sangre ponen asechanzas, y a sus propias vidas tienden lazo."
+        },
+        {
+            "id": "pro1_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Tales son las sendas de todo el que es dado a la codicia, la cual quita la vida de sus poseedores."
+        },
+        {
+            "id": "pro1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "La sabiduría clama en las calles, alza su voz en las plazas;"
+        },
+        {
+            "id": "pro1_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Clama en los principales lugares de concurso; en las entradas de las puertas de la ciudad dice sus razones:"
+        },
+        {
+            "id": "pro1_22",
+            "speaker": "Sabiduría",
+            "verse": 22,
+            "text": "¿Hasta cuándo, oh simples, amaréis la simpleza, y los burladores desearán el burlar, y los insensatos aborrecerán el conocimiento?"
+        },
+        {
+            "id": "pro1_23",
+            "speaker": "Sabiduría",
+            "verse": 23,
+            "text": "Volveos a mi reprensión: He aquí yo os derramaré mi espíritu, y os haré saber mis palabras."
+        },
+        {
+            "id": "pro1_24a",
+            "speaker": "Sabiduría",
+            "verse": 24,
+            "text": "Porque llamé, y no quisisteis oír:"
+        },
+        {
+            "id": "pro1_24b",
+            "speaker": "Sabiduría",
+            "verse": 24,
+            "text": "Extendí mi mano, y no hubo quien atendiese;"
+        },
+        {
+            "id": "pro1_25",
+            "speaker": "Sabiduría",
+            "verse": 25,
+            "text": "antes desechasteis todo consejo mío, y mi reprensión no quisisteis:"
+        },
+        {
+            "id": "pro1_26",
+            "speaker": "Sabiduría",
+            "verse": 26,
+            "text": "También yo me reiré en vuestra calamidad, y me burlaré cuando os viniere lo que teméis;"
+        },
+        {
+            "id": "pro1_27",
+            "speaker": "Sabiduría",
+            "verse": 27,
+            "text": "cuando viniere como una destrucción lo que teméis, y vuestra calamidad llegare como un torbellino; cuando sobre vosotros viniere tribulación y angustia."
+        },
+        {
+            "id": "pro1_28",
+            "speaker": "Sabiduría",
+            "verse": 28,
+            "text": "Entonces me llamarán, y no responderé; me buscarán de mañana, y no me hallarán;"
+        },
+        {
+            "id": "pro1_29",
+            "speaker": "Sabiduría",
+            "verse": 29,
+            "text": "por cuanto aborrecieron la sabiduría, y no escogieron el temor de Jehová,"
+        },
+        {
+            "id": "pro1_30",
+            "speaker": "Sabiduría",
+            "verse": 30,
+            "text": "ni quisieron mi consejo, y menospreciaron toda reprensión mía:"
+        },
+        {
+            "id": "pro1_31",
+            "speaker": "Sabiduría",
+            "verse": 31,
+            "text": "Por tanto comerán del fruto de su camino, y serán hastiados de sus propios consejos."
+        },
+        {
+            "id": "pro1_32",
+            "speaker": "Sabiduría",
+            "verse": 32,
+            "text": "Porque el descarrío de los ignorantes los matará, y la prosperidad de los necios los echará a perder."
+        },
+        {
+            "id": "pro1_33",
+            "speaker": "Sabiduría",
+            "verse": 33,
+            "text": "Mas el que me oyere, habitará confiadamente, y vivirá reposado, sin temor del mal."
+        }
+    ]
+}

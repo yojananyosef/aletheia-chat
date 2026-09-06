@@ -1,0 +1,139 @@
+{
+    "book": "Proverbios",
+    "chapter": 2,
+    "title": "Proverbios 2",
+    "messages": [
+        {
+            "id": "pro2_1",
+            "speaker": "Salomón",
+            "verse": 1,
+            "text": "Hijo mío, si recibieres mis palabras, y mis mandamientos atesorares dentro de ti,"
+        },
+        {
+            "id": "pro2_2",
+            "speaker": "Salomón",
+            "verse": 2,
+            "text": "de manera que inclines tu oído a la sabiduría, y apliques tu corazón a la prudencia;"
+        },
+        {
+            "id": "pro2_3",
+            "speaker": "Salomón",
+            "verse": 3,
+            "text": "Si clamares a la inteligencia, y a la prudencia alzares tu voz;"
+        },
+        {
+            "id": "pro2_4",
+            "speaker": "Salomón",
+            "verse": 4,
+            "text": "Si como a la plata la buscares, y la procurares como a tesoros escondidos;"
+        },
+        {
+            "id": "pro2_5",
+            "speaker": "Salomón",
+            "verse": 5,
+            "text": "Entonces entenderás el temor de Jehová, y hallarás el conocimiento de Dios."
+        },
+        {
+            "id": "pro2_6",
+            "speaker": "Salomón",
+            "verse": 6,
+            "text": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia."
+        },
+        {
+            "id": "pro2_7",
+            "speaker": "Salomón",
+            "verse": 7,
+            "text": "Él reserva la sana sabiduría para los rectos; es escudo a los que caminan rectamente."
+        },
+        {
+            "id": "pro2_8",
+            "speaker": "Salomón",
+            "verse": 8,
+            "text": "Él guarda las veredas del juicio, y preserva el camino de sus santos."
+        },
+        {
+            "id": "pro2_9",
+            "speaker": "Salomón",
+            "verse": 9,
+            "text": "Entonces entenderás justicia, juicio y equidad, y todo buen camino."
+        },
+        {
+            "id": "pro2_10",
+            "speaker": "Salomón",
+            "verse": 10,
+            "text": "Cuando la sabiduría entrare en tu corazón, y el conocimiento fuere dulce a tu alma,"
+        },
+        {
+            "id": "pro2_11",
+            "speaker": "Salomón",
+            "verse": 11,
+            "text": "la discreción te guardará, te preservará la inteligencia,"
+        },
+        {
+            "id": "pro2_12",
+            "speaker": "Salomón",
+            "verse": 12,
+            "text": "para librarte del mal camino, de los hombres que hablan perversidades;"
+        },
+        {
+            "id": "pro2_13",
+            "speaker": "Salomón",
+            "verse": 13,
+            "text": "que dejan las sendas derechas, para andar en caminos tenebrosos;"
+        },
+        {
+            "id": "pro2_14",
+            "speaker": "Salomón",
+            "verse": 14,
+            "text": "que se alegran haciendo el mal, que se deleitan en las perversidades del vicio;"
+        },
+        {
+            "id": "pro2_15",
+            "speaker": "Salomón",
+            "verse": 15,
+            "text": "cuyas veredas son torcidas, y torcidos sus caminos."
+        },
+        {
+            "id": "pro2_16",
+            "speaker": "Salomón",
+            "verse": 16,
+            "text": "Para librarte de la mujer extraña, de la ajena que halaga con sus palabras;"
+        },
+        {
+            "id": "pro2_17",
+            "speaker": "Salomón",
+            "verse": 17,
+            "text": "que abandona al compañero de su juventud, y se olvida del pacto de su Dios."
+        },
+        {
+            "id": "pro2_18",
+            "speaker": "Salomón",
+            "verse": 18,
+            "text": "Por lo cual su casa está inclinada a la muerte, y sus veredas hacia los muertos."
+        },
+        {
+            "id": "pro2_19",
+            "speaker": "Salomón",
+            "verse": 19,
+            "text": "Todos los que a ella entraren, no volverán, ni tomarán los senderos de la vida."
+        },
+        {
+            "id": "pro2_20",
+            "speaker": "Salomón",
+            "verse": 20,
+            "text": "Para que andes por el camino de los buenos, y guardes las sendas de los justos."
+        },
+        {
+            "id": "pro2_21",
+            "speaker": "Salomón",
+            "verse": 21,
+            "text": "Porque los rectos habitarán la tierra, y los perfectos permanecerán en ella;"
+        },
+        {
+            "id": "pro2_22",
+            "speaker": "Salomón",
+            "verse": 22,
+            "text": "mas los impíos serán cortados de la tierra, y los prevaricadores serán desarraigados de ella."
+        }
+    ]
+}
