@@ -1,0 +1,145 @@
+{
+    "book": "Isaías",
+    "chapter": 6,
+    "title": "Isaías 6",
+    "messages": [
+        {
+            "id": "isa6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el año que murió el rey Uzías vi yo al Señor sentado sobre un trono alto y sublime, y el borde de su vestidura llenaba el templo."
+        },
+        {
+            "id": "isa6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Por encima de él había serafines; cada uno tenía seis alas; con dos cubrían sus rostros, y con dos cubrían sus pies y con dos volaban."
+        },
+        {
+            "id": "isa6_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y el uno al otro daba voces, diciendo:"
+        },
+        {
+            "id": "isa6_3b",
+            "speaker": "Serafines",
+            "verse": 3,
+            "text": "Santo, santo, santo, Jehová de los ejércitos; toda la tierra está llena de su gloria."
+        },
+        {
+            "id": "isa6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y los quiciales de las puertas se estremecieron con la voz del que clamaba, y la casa se llenó de humo."
+        },
+        {
+            "id": "isa6_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces dije:"
+        },
+        {
+            "id": "isa6_5b",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "¡Ay de mí! que soy muerto; porque siendo hombre inmundo de labios, y habitando en medio de pueblo que tiene labios inmundos, han visto mis ojos al Rey, Jehová de los ejércitos."
+        },
+        {
+            "id": "isa6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y voló hacia mí uno de los serafines, teniendo en su mano un carbón encendido, tomado del altar con unas tenazas:"
+        },
+        {
+            "id": "isa6_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y tocando con él sobre mi boca, dijo:"
+        },
+        {
+            "id": "isa6_7b",
+            "speaker": "Serafines",
+            "verse": 7,
+            "text": "He aquí que esto tocó tus labios, y es quitada tu culpa, y limpio tu pecado."
+        },
+        {
+            "id": "isa6_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Después oí la voz del Señor, que decía:"
+        },
+        {
+            "id": "isa6_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "¿A quién enviaré, y quién irá por nosotros?"
+        },
+        {
+            "id": "isa6_8c",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "Entonces respondí yo:"
+        },
+        {
+            "id": "isa6_8d",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "Heme aquí, envíame a mí."
+        },
+        {
+            "id": "isa6_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "isa6_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Anda, y di a este pueblo: Oíd bien, y no entendáis; ved por cierto, mas no comprendáis."
+        },
+        {
+            "id": "isa6_10",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "Engruesa el corazón de este pueblo, y agrava sus oídos, y ciega sus ojos; no sea que vea con sus ojos, y oiga con sus oídos, y su corazón entienda, y se convierta y sea sanado."
+        },
+        {
+            "id": "isa6_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y yo dije:"
+        },
+        {
+            "id": "isa6_11b",
+            "speaker": "Isaías",
+            "verse": 11,
+            "text": "¿Hasta cuándo, Señor?"
+        },
+        {
+            "id": "isa6_11c",
+            "speaker": "Isaías",
+            "verse": 11,
+            "text": "Y respondió Él:"
+        },
+        {
+            "id": "isa6_11d",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Hasta que las ciudades estén asoladas y sin morador, ni hombre en las casas, y la tierra sea tornada en desierto;"
+        },
+        {
+            "id": "isa6_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Hasta que Jehová haya echado lejos a los hombres, y sea grande el abandono en medio de la tierra."
+        },
+        {
+            "id": "isa6_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Pues aún quedará en ella una décima parte, y volverá a ser consumida, como la encina y el roble, de los cuales en la tala queda el tronco, así será el tronco de ella la simiente santa."
+        }
+    ]
+}

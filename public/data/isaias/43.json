@@ -1,0 +1,187 @@
+{
+    "book": "Isaías",
+    "chapter": 43,
+    "title": "Isaías 43",
+    "messages": [
+        {
+            "id": "isa43_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y ahora, así dice Jehová, tu Creador, oh Jacob, y tu Formador, oh Israel:"
+        },
+        {
+            "id": "isa43_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "No temas, porque yo te redimí; te puse nombre, mío eres tú."
+        },
+        {
+            "id": "isa43_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti."
+        },
+        {
+            "id": "isa43_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Porque yo soy Jehová tu Dios, el Santo de Israel, tu Salvador: A Egipto he dado por tu rescate, a Etiopía y a Seba por ti."
+        },
+        {
+            "id": "isa43_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Porque en mis ojos fuiste de grande estima, fuiste honorable, y yo te amé; daré, pues, hombres por ti, y naciones por tu alma."
+        },
+        {
+            "id": "isa43_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "No temas, porque yo soy contigo; del oriente traeré tu generación, y del occidente te recogeré."
+        },
+        {
+            "id": "isa43_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Diré al norte: Da acá, y al sur: No detengas; trae de lejos mis hijos, y mis hijas de los confines de la tierra,"
+        },
+        {
+            "id": "isa43_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "todos los llamados de mi nombre; para gloria mía los creé, los formé y los hice."
+        },
+        {
+            "id": "isa43_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Sacad al pueblo ciego que tiene ojos, y a los sordos que tienen oídos."
+        },
+        {
+            "id": "isa43_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Congréguense a una todas las naciones, y júntense todos los pueblos: ¿Quién de ellos hay que nos dé nuevas de esto, y que nos haga oír las cosas primeras? Presenten sus testigos, y justifíquense; oigan, y digan: Es Verdad."
+        },
+        {
+            "id": "isa43_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Vosotros sois mis testigos, dice Jehová, y mi siervo que yo escogí; para que me conozcáis y creáis, y entendáis que yo mismo soy; antes de mí no fue formado Dios, ni lo será después de mí."
+        },
+        {
+            "id": "isa43_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Yo, yo Jehová, y fuera de mí no hay quien salve."
+        },
+        {
+            "id": "isa43_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Yo anuncié, y salvé, e hice oír, y no hubo entre vosotros dios extraño. Vosotros, pues, sois mis testigos, dice Jehová, que yo soy Dios."
+        },
+        {
+            "id": "isa43_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Aun antes que hubiera día, yo soy; y no hay quien de mi mano libre. Yo lo haré, ¿quién lo estorbará?"
+        },
+        {
+            "id": "isa43_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así dice Jehová, Redentor vuestro, el Santo de Israel:"
+        },
+        {
+            "id": "isa43_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Por vosotros envié a Babilonia, e hice descender a todos sus nobles, y a los caldeos, cuyo clamor está en las naves."
+        },
+        {
+            "id": "isa43_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Yo soy Jehová, vuestro Santo, Creador de Israel, vuestro Rey."
+        },
+        {
+            "id": "isa43_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Así dice Jehová, el que hace camino en el mar, y senda en las aguas impetuosas;"
+        },
+        {
+            "id": "isa43_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "el que saca carro y caballo, ejército y fuerza; caen juntamente para no levantarse; quedan extinguidos, como pábilo quedan apagados."
+        },
+        {
+            "id": "isa43_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "No os acordéis de las cosas pasadas, ni traigáis a memoria las cosas antiguas."
+        },
+        {
+            "id": "isa43_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "He aquí que yo hago una cosa nueva; pronto saldrá a luz: ¿no la sabréis? Otra vez haré camino en el desierto, y ríos en la soledad."
+        },
+        {
+            "id": "isa43_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "La bestia del campo me honrará, los dragones y los búhos; porque daré aguas en el desierto, ríos en la soledad, para que beba mi pueblo, mi escogido."
+        },
+        {
+            "id": "isa43_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Este pueblo he creado para mí, mis alabanzas publicará."
+        },
+        {
+            "id": "isa43_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y no me invocaste, oh Jacob; antes, de mí te cansaste, oh Israel."
+        },
+        {
+            "id": "isa43_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "No me trajiste los animales de tus holocaustos, ni me honraste con tus sacrificios. Yo no te hice servir con presente, ni te fatigué con incienso."
+        },
+        {
+            "id": "isa43_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "No compraste para mí caña aromática por dinero, ni me saciaste con la grosura de tus sacrificios; antes me abrumaste con tus pecados, me fatigaste con tus maldades."
+        },
+        {
+            "id": "isa43_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Yo, yo soy el que borro tus rebeliones por amor de mí mismo; y no me acordaré de tus pecados."
+        },
+        {
+            "id": "isa43_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Hazme recordar, entremos en juicio juntamente; declara tú para justificarte."
+        },
+        {
+            "id": "isa43_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Tu primer padre pecó, y tus enseñadores prevaricaron contra mí."
+        },
+        {
+            "id": "isa43_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Por tanto, yo profané los príncipes del santuario, y puse por anatema a Jacob, y por oprobio a Israel."
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "book": "Isaías",
+    "chapter": 44,
+    "title": "Isaías 44",
+    "messages": [
+        {
+            "id": "isa44_1",
+            "speaker": "Isaías",
+            "verse": 1,
+            "text": "Ahora pues, oye, Jacob, siervo mío, y tú, Israel, a quien yo escogí."
+        },
+        {
+            "id": "isa44_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Así dice Jehová, Hacedor tuyo, y el que te formó desde el vientre, el cual te ayudará:"
+        },
+        {
+            "id": "isa44_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "No temas, siervo mío Jacob, y tú, Jesurún, a quien yo escogí."
+        },
+        {
+            "id": "isa44_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Porque yo derramaré aguas sobre el que tiene sed, y ríos sobre la tierra árida; derramaré mi Espíritu sobre tu linaje, y mi bendición sobre tu descendencia;"
+        },
+        {
+            "id": "isa44_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "y brotarán como entre hierba, como sauces junto a corrientes de aguas."
+        },
+        {
+            "id": "isa44_5a",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Uno dirá: Yo soy de Jehová; el otro se llamará del nombre de Jacob; y otro escribirá con su mano:"
+        },
+        {
+            "id": "isa44_5b",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "A Jehová, y se apellidará con el nombre de Israel."
+        },
+        {
+            "id": "isa44_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Así dice Jehová el Rey de Israel, y su Redentor, Jehová de los ejércitos:"
+        },
+        {
+            "id": "isa44_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Yo soy el primero, y yo soy el postrero, y fuera de mí no hay Dios."
+        },
+        {
+            "id": "isa44_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "¿Y quién como yo, proclamará y denunciará esto, y lo ordenará por mí, como hago yo desde que establecí el pueblo antiguo? Anúncienles lo que viene, y lo que está por venir."
+        },
+        {
+            "id": "isa44_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "No temáis, ni os amedrentéis; ¿no te lo hice oír desde antiguo, y te lo dije? Luego vosotros sois mis testigos. No hay Dios sino yo. No hay Fuerte; no conozco ninguno."
+        },
+        {
+            "id": "isa44_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Los formadores de imágenes de talla, todos ellos son vanidad, y lo más precioso de ellos para nada es útil; y ellos mismos para su confusión son testigos, que ellos ni ven ni entienden."
+        },
+        {
+            "id": "isa44_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¿Quién formó un dios, o quién fundió una imagen que para nada es de provecho?"
+        },
+        {
+            "id": "isa44_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "He aquí que todos sus compañeros serán avergonzados, porque los artífices mismos son hombres. Que se reúnan todos ellos y se pongan de pie; se asombrarán, y serán avergonzados a una."
+        },
+        {
+            "id": "isa44_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "El herrero toma la tenaza, trabaja en las brasas, le da forma con los martillos, y trabaja en ella con la fuerza de su brazo; luego tiene hambre, y le faltan las fuerzas; no bebe agua, y desfallece."
+        },
+        {
+            "id": "isa44_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "El carpintero tiende la regla, lo señala con almagre, lo labra con los cepillos, le da figura con el compás, lo hace en forma de varón, a semejanza de hombre hermoso, para tenerlo en la casa."
+        },
+        {
+            "id": "isa44_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Corta cedros para sí, y toma ciprés y encina, que crecen entre los árboles del bosque; planta pino, que se críe con la lluvia."
+        },
+        {
+            "id": "isa44_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "De él se sirve luego el hombre para quemar, y toma de ellos para calentarse; enciende también el horno, y cuece panes; hace además un dios, y lo adora; fabrica un ídolo, y se arrodilla delante de él."
+        },
+        {
+            "id": "isa44_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Parte del leño quema en el fuego; con parte de él come carne, adereza asado, y se sacia; después se calienta, y dice:"
+        },
+        {
+            "id": "isa44_16b",
+            "speaker": "Isaías",
+            "verse": 16,
+            "text": "¡Ah! Me he calentado, he visto el fuego;"
+        },
+        {
+            "id": "isa44_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y hace del sobrante un dios, un ídolo suyo; se humilla delante de él, lo adora, y le ruega diciendo:"
+        },
+        {
+            "id": "isa44_17b",
+            "speaker": "Isaías",
+            "verse": 17,
+            "text": "Líbrame, porque tú eres mi dios."
+        },
+        {
+            "id": "isa44_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "No saben ni entienden; porque sus ojos están cerrados para no ver, y su corazón para no entender."
+        },
+        {
+            "id": "isa44_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Ninguno reflexiona en su corazón, ni tiene conocimiento o entendimiento para decir:"
+        },
+        {
+            "id": "isa44_19b",
+            "speaker": "Isaías",
+            "verse": 19,
+            "text": "Parte de esto quemé en el fuego, y sobre sus brasas cocí pan, asé carne, y la comí; ¿haré del restante de ello una abominación? ¿Me postraré delante de un tronco de árbol?"
+        },
+        {
+            "id": "isa44_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "De ceniza se alimenta; su corazón engañado le desvía, para que no libre su alma, ni diga: ¿No es una mentira lo que tengo en mi mano derecha?"
+        },
+        {
+            "id": "isa44_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Acuérdate de estas cosas, oh Jacob, e Israel, pues que tú mi siervo eres: Yo te formé; siervo mío eres tú. Oh Israel, yo no me olvidaré de ti."
+        },
+        {
+            "id": "isa44_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Yo deshice como a una nube tus rebeliones, y como a niebla tus pecados; vuélvete a mí, porque yo te redimí."
+        },
+        {
+            "id": "isa44_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Cantad loores, oh cielos, porque Jehová lo hizo; gritad con júbilo, lugares bajos de la tierra; prorrumpid, montes, en alabanza; bosque, y todo árbol que en él está; porque Jehová redimió a Jacob, y en Israel será glorificado."
+        },
+        {
+            "id": "isa44_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Así dice Jehová, tu Redentor, el que te formó desde el vientre:"
+        },
+        {
+            "id": "isa44_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Yo Jehová, que lo hago todo, que extiendo solo los cielos, que extiendo la tierra por mí mismo;"
+        },
+        {
+            "id": "isa44_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Que frustro las señales de los engañadores, y enloquezco a los agoreros; que hago retroceder a los sabios, y desvanezco su sabiduría;"
+        },
+        {
+            "id": "isa44_26a",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Yo, quien confirma la palabra de su siervo, y cumple el consejo de sus mensajeros; que dice a Jerusalén:"
+        },
+        {
+            "id": "isa44_26b",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Serás habitada; y a las ciudades de Judá: Seréis reedificadas, y yo levantaré sus ruinas;"
+        },
+        {
+            "id": "isa44_27a",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Que dice a las profundidades:"
+        },
+        {
+            "id": "isa44_27b",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Secaos, y tus ríos haré secar;"
+        },
+        {
+            "id": "isa44_28a",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Que dice de Ciro:"
+        },
+        {
+            "id": "isa44_28b",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Él es mi pastor, y cumplirá todo lo que yo quiero, al decir a Jerusalén: Serás edificada; y al templo: Serán echados tus cimientos."
+        }
+    ]
+}

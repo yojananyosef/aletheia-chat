@@ -1,0 +1,79 @@
+{
+    "book": "Isaías",
+    "chapter": 53,
+    "title": "Isaías 53",
+    "messages": [
+        {
+            "id": "isa53_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "¿Quién ha creído a nuestro anuncio? ¿Y sobre quién se ha manifestado el brazo de Jehová?"
+        },
+        {
+            "id": "isa53_2",
+            "speaker": "Isaías",
+            "verse": 2,
+            "text": "Subirá cual renuevo delante de Él, y como raíz de tierra seca; no hay parecer en Él, ni hermosura; le veremos, mas sin atractivo para que le deseemos."
+        },
+        {
+            "id": "isa53_3",
+            "speaker": "Isaías",
+            "verse": 3,
+            "text": "Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto; y como que escondimos de Él el rostro, fue menospreciado, y no lo estimamos."
+        },
+        {
+            "id": "isa53_4",
+            "speaker": "Isaías",
+            "verse": 4,
+            "text": "Ciertamente llevó Él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido."
+        },
+        {
+            "id": "isa53_5",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Mas Él herido fue por nuestras transgresiones, molido por nuestros pecados; el castigo de nuestra paz fue sobre Él, y por su llaga fuimos nosotros curados."
+        },
+        {
+            "id": "isa53_6",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas Jehová cargó en Él el pecado de todos nosotros."
+        },
+        {
+            "id": "isa53_7",
+            "speaker": "Isaías",
+            "verse": 7,
+            "text": "Angustiado Él, y afligido, no abrió su boca; como cordero fue llevado al matadero; y como oveja delante de sus trasquiladores, enmudeció, y no abrió su boca."
+        },
+        {
+            "id": "isa53_8",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "De la cárcel y del juicio fue quitado; y su generación ¿quién la contará? Porque cortado fue de la tierra de los vivientes; por la rebelión de mi pueblo fue herido."
+        },
+        {
+            "id": "isa53_9",
+            "speaker": "Isaías",
+            "verse": 9,
+            "text": "Y se dispuso con los impíos su sepultura, mas con los ricos fue en su muerte; aunque Él nunca hizo maldad, ni hubo engaño en su boca."
+        },
+        {
+            "id": "isa53_10",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "Con todo eso, Jehová quiso quebrantarlo, sujetándole a padecimiento. Cuando hubiere puesto su alma en expiación por el pecado, verá su linaje, prolongará sus días, y la voluntad de Jehová será en su mano prosperada."
+        },
+        {
+            "id": "isa53_11",
+            "speaker": "Isaías",
+            "verse": 11,
+            "text": "Del trabajo de su alma verá y será saciado. Por su conocimiento justificará mi siervo justo a muchos, y Él llevará las iniquidades de ellos."
+        },
+        {
+            "id": "isa53_12",
+            "speaker": "Isaías",
+            "verse": 12,
+            "text": "Por tanto, yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su alma hasta la muerte, y fue contado con los transgresores; y Él llevó el pecado de muchos e hizo intercesión por los transgresores."
+        }
+    ]
+}

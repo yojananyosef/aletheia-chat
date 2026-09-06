@@ -28,7 +28,7 @@ export type CanonicalSpeaker =
     | 'Esdras' | 'Nehemías' | 'Ester' | 'Mardoqueo' | 'Job' | 'Asaf'
     | 'Satán' | 'Elifaz' | 'Bildad' | 'Zofar' | 'Eliú' | 'Esposa' | 'Mensajero'
     | 'Predicador' | 'Amado' | 'Amada' | 'Sabiduría' | 'Agur' | 'Madre de Lemuel'
-    | 'Mujer insensata' | 'Hijas de Jerusalén'
+    | 'Mujer insensata' | 'Hijas de Jerusalén' | 'Serafines'
     | 'Isaías' | 'Jeremías' | 'Ezequiel' | 'Daniel'
     | 'Oseas' | 'Joel' | 'Amós' | 'Abdías' | 'Jonás' | 'Miqueas'
     | 'Nahum' | 'Habacuc' | 'Sofonías' | 'Hageo' | 'Zacarías' | 'Malaquías'

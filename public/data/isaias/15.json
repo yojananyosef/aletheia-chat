@@ -1,0 +1,61 @@
+{
+    "book": "Isaías",
+    "chapter": 15,
+    "title": "Isaías 15",
+    "messages": [
+        {
+            "id": "isa15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Carga de Moab. Ciertamente en una noche fue destruida y silenciada Ar de Moab. Ciertamente en una noche fue destruida y silenciada Kir de Moab."
+        },
+        {
+            "id": "isa15_2",
+            "speaker": "Isaías",
+            "verse": 2,
+            "text": "Subió a Bayit y a Dibón, lugares altos, a llorar; sobre Nebo y sobre Medeba aullará Moab; toda cabeza de ella será rapada, y toda barba rasurada."
+        },
+        {
+            "id": "isa15_3",
+            "speaker": "Isaías",
+            "verse": 3,
+            "text": "Se ceñirán de cilicio en sus plazas; en sus terrados y en sus calles aullarán todos, deshechos en llanto."
+        },
+        {
+            "id": "isa15_4",
+            "speaker": "Isaías",
+            "verse": 4,
+            "text": "Hesbón y Eleale gritarán, hasta Jahaza se oirá su voz; por lo que aullarán los armados de Moab, se lamentará el alma de cada uno de por sí."
+        },
+        {
+            "id": "isa15_5",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Mi corazón dará gritos por Moab; sus fugitivos huirán hasta Zoar, como novilla de tres años. Por la cuesta de Luhit subirán llorando, y levantarán grito de quebrantamiento por el camino de Horonaim."
+        },
+        {
+            "id": "isa15_6",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "Las aguas de Nimrim serán consumidas, y se secará la hierba, se marchitarán los retoños, todo verdor perecerá."
+        },
+        {
+            "id": "isa15_7",
+            "speaker": "Isaías",
+            "verse": 7,
+            "text": "Por tanto, las riquezas que habrán adquirido, y las que habrán almacenado, las llevarán al torrente de los sauces."
+        },
+        {
+            "id": "isa15_8",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "Porque el llanto rodeó los términos de Moab; hasta Eglaim llegó su alarido, y hasta Beer-elim su clamor."
+        },
+        {
+            "id": "isa15_9",
+            "speaker": "Isaías",
+            "verse": 9,
+            "text": "Y las aguas de Dimón se llenarán de sangre; porque yo traeré sobre Dimón otros males, leones sobre los que escaparen de Moab, y sobre los que quedaren de la tierra."
+        }
+    ]
+}

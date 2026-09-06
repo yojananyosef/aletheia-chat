@@ -1,0 +1,205 @@
+{
+    "book": "Isaías",
+    "chapter": 36,
+    "title": "Isaías 36",
+    "messages": [
+        {
+            "id": "isa36_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Aconteció en el año catorce del rey Ezequías, que Senaquerib rey de Asiria subió contra todas las ciudades fortificadas de Judá, y las tomó."
+        },
+        {
+            "id": "isa36_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y el rey de Asiria envió al Rabsaces con grande ejército desde Laquis a Jerusalén contra el rey Ezequías; y acampó junto al acueducto del estanque de arriba, en el camino del campo del Lavador."
+        },
+        {
+            "id": "isa36_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y salió a él Eliaquim, hijo de Hilcías mayordomo, y Sebna, escriba, y Joah, hijo de Asaf, el cronista."
+        },
+        {
+            "id": "isa36_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "A los cuales dijo el Rabsaces:"
+        },
+        {
+            "id": "isa36_4b",
+            "speaker": "Rabsaces",
+            "verse": 4,
+            "text": "Decid ahora a Ezequías: El gran rey, el rey de Asiria, dice así: ¿Qué confianza es ésta en que confías?"
+        },
+        {
+            "id": "isa36_5",
+            "speaker": "Rabsaces",
+            "verse": 5,
+            "text": "Digo, alegas tú, (pero son palabras vanas) que tengo consejo y fortaleza para la guerra. Ahora bien, ¿en quién confías que te rebelas contra mí?"
+        },
+        {
+            "id": "isa36_6",
+            "speaker": "Rabsaces",
+            "verse": 6,
+            "text": "He aquí que confías en este bordón de caña frágil, en Egipto, sobre el cual si alguien se apoyare, se le entrará por la mano, y se la atravesará. Tal es Faraón rey de Egipto para con todos los que en él confían."
+        },
+        {
+            "id": "isa36_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y si me dijeres:"
+        },
+        {
+            "id": "isa36_7b",
+            "speaker": "Rabsaces",
+            "verse": 7,
+            "text": "En Jehová nuestro Dios confiamos; ¿no es Éste Aquél cuyos lugares altos y cuyos altares hizo quitar Ezequías, y dijo a Judá y a Jerusalén: Delante de este altar adoraréis?"
+        },
+        {
+            "id": "isa36_8",
+            "speaker": "Rabsaces",
+            "verse": 8,
+            "text": "Ahora, pues, yo te ruego que des prendas al rey de Asiria mi señor, y yo te daré dos mil caballos, si pudieres tú dar jinetes que cabalguen sobre ellos."
+        },
+        {
+            "id": "isa36_9",
+            "speaker": "Rabsaces",
+            "verse": 9,
+            "text": "¿Cómo, pues, harás volver el rostro de un capitán de los más pequeños siervos de mi señor, aunque estés confiado en Egipto por sus carros y hombres de a caballo?"
+        },
+        {
+            "id": "isa36_10a",
+            "speaker": "Rabsaces",
+            "verse": 10,
+            "text": "¿Acaso vine yo ahora a esta tierra para destruirla sin Jehová? Jehová me dijo:"
+        },
+        {
+            "id": "isa36_10b",
+            "speaker": "Rabsaces",
+            "verse": 10,
+            "text": "Sube a esta tierra y destrúyela."
+        },
+        {
+            "id": "isa36_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces dijo Eliaquim, y Sebna y Joah al Rabsaces:"
+        },
+        {
+            "id": "isa36_11b",
+            "speaker": "Eliaquim",
+            "verse": 11,
+            "text": "Te rogamos que hables a tus siervos en arameo, porque nosotros lo entendemos; y no hables con nosotros en lengua judaica, a oídos del pueblo que está sobre el muro."
+        },
+        {
+            "id": "isa36_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo el Rabsaces:"
+        },
+        {
+            "id": "isa36_12b",
+            "speaker": "Rabsaces",
+            "verse": 12,
+            "text": "¿Acaso me envió mi señor a ti y a tu señor, a que dijese estas palabras, y no a los hombres que están sobre el muro, para que coman su estiércol y beban su orina con vosotros?"
+        },
+        {
+            "id": "isa36_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces el Rabsaces se puso en pie, y gritó a grande voz en lengua judaica, diciendo:"
+        },
+        {
+            "id": "isa36_13b",
+            "speaker": "Rabsaces",
+            "verse": 13,
+            "text": "Oíd las palabras del gran rey, el rey de Asiria."
+        },
+        {
+            "id": "isa36_14a",
+            "speaker": "Rabsaces",
+            "verse": 14,
+            "text": "El rey dice así:"
+        },
+        {
+            "id": "isa36_14b",
+            "speaker": "Rabsaces",
+            "verse": 14,
+            "text": "No os engañe Ezequías, porque él no os podrá librar."
+        },
+        {
+            "id": "isa36_15a",
+            "speaker": "Rabsaces",
+            "verse": 15,
+            "text": "Ni os haga Ezequías confiar en Jehová, diciendo:"
+        },
+        {
+            "id": "isa36_15b",
+            "speaker": "Rabsaces",
+            "verse": 15,
+            "text": "Ciertamente Jehová nos librará; no será entregada esta ciudad en manos del rey de Asiria."
+        },
+        {
+            "id": "isa36_16a",
+            "speaker": "Rabsaces",
+            "verse": 16,
+            "text": "No escuchéis a Ezequías; porque el rey de Asiria dice así:"
+        },
+        {
+            "id": "isa36_16b",
+            "speaker": "Rabsaces",
+            "verse": 16,
+            "text": "Haced conmigo paz, y salid a mí; y coma cada uno de su viña, y cada uno de su higuera, y beba cada cual las aguas de su pozo;"
+        },
+        {
+            "id": "isa36_17",
+            "speaker": "Rabsaces",
+            "verse": 17,
+            "text": "hasta que yo venga y os lleve a una tierra como la vuestra, tierra de grano y de vino, tierra de pan y de viñas."
+        },
+        {
+            "id": "isa36_18a",
+            "speaker": "Rabsaces",
+            "verse": 18,
+            "text": "Mirad no os engañe Ezequías diciendo:"
+        },
+        {
+            "id": "isa36_18b",
+            "speaker": "Rabsaces",
+            "verse": 18,
+            "text": "Jehová nos librará. ¿Acaso libraron los dioses de las naciones, cada uno a su tierra, de la mano del rey de Asiria?"
+        },
+        {
+            "id": "isa36_19",
+            "speaker": "Rabsaces",
+            "verse": 19,
+            "text": "¿Dónde están los dioses de Hamat y de Arfad? ¿Dónde están los dioses de Sefarvaim? ¿Libraron a Samaria de mi mano?"
+        },
+        {
+            "id": "isa36_20",
+            "speaker": "Rabsaces",
+            "verse": 20,
+            "text": "¿Qué dios hay entre los dioses de estas tierras, que haya librado su tierra de mi mano, para que Jehová libre de mi mano a Jerusalén?"
+        },
+        {
+            "id": "isa36_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero ellos callaron y no le respondieron palabra; porque el rey así lo había mandado, diciendo:"
+        },
+        {
+            "id": "isa36_21b",
+            "speaker": "Rabsaces",
+            "verse": 21,
+            "text": "No le respondáis."
+        },
+        {
+            "id": "isa36_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces Eliaquim, hijo de Hilcías mayordomo, y Sebna, el escriba, y Joah, hijo de Asaf el cronista, vinieron a Ezequías rasgadas sus vestiduras, y le contaron las palabras del Rabsaces."
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "book": "Isaías",
+    "chapter": 3,
+    "title": "Isaías 3",
+    "messages": [
+        {
+            "id": "isa3_1",
+            "speaker": "Isaías",
+            "verse": 1,
+            "text": "Porque he aquí que el Señor Jehová de los ejércitos quita de Jerusalén y de Judá la provisión y el apoyo; toda provisión de pan y todo sustento de agua;"
+        },
+        {
+            "id": "isa3_2",
+            "speaker": "Isaías",
+            "verse": 2,
+            "text": "al valiente y al hombre de guerra, al juez y al profeta, al prudente y al anciano;"
+        },
+        {
+            "id": "isa3_3",
+            "speaker": "Isaías",
+            "verse": 3,
+            "text": "al capitán de cincuenta y al hombre de respeto, al consejero, al artífice excelente y al hábil orador."
+        },
+        {
+            "id": "isa3_4",
+            "speaker": "Isaías",
+            "verse": 4,
+            "text": "Y les pondré jóvenes por príncipes, y muchachos serán sus señores."
+        },
+        {
+            "id": "isa3_5",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Y el pueblo sufrirá opresión, los unos de los otros, cada cual contra su vecino; el joven se levantará contra el anciano, y el villano contra el noble."
+        },
+        {
+            "id": "isa3_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Cuando alguno tomare a su hermano, de la familia de su padre, y le dijere:"
+        },
+        {
+            "id": "isa3_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Tú tienes vestidura, tú serás nuestro príncipe, y estas ruinas estarán bajo tu mando;"
+        },
+        {
+            "id": "isa3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Él jurará aquel día, diciendo:"
+        },
+        {
+            "id": "isa3_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Yo no seré el sanador; porque en mi casa ni hay pan, ni qué vestir; no me hagáis príncipe del pueblo."
+        },
+        {
+            "id": "isa3_8",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "Pues arruinada está Jerusalén, y Judá ha caído; porque la lengua de ellos y sus obras han sido contra Jehová, para irritar los ojos de su majestad."
+        },
+        {
+            "id": "isa3_9",
+            "speaker": "Isaías",
+            "verse": 9,
+            "text": "La apariencia de sus rostros testifica contra ellos; como Sodoma publican su pecado, no lo disimulan. ¡Ay del alma de ellos! porque allegaron mal para sí."
+        },
+        {
+            "id": "isa3_10",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "Decid al justo que le irá bien; porque comerá del fruto de su trabajo."
+        },
+        {
+            "id": "isa3_11",
+            "speaker": "Isaías",
+            "verse": 11,
+            "text": "¡Ay del impío! Mal le irá; porque según las obras de sus manos le será pagado."
+        },
+        {
+            "id": "isa3_12",
+            "speaker": "Isaías",
+            "verse": 12,
+            "text": "Los opresores de mi pueblo son muchachos, y mujeres se enseñorearon de él. Pueblo mío, los que te guían te engañan, y tuercen el curso de tus caminos."
+        },
+        {
+            "id": "isa3_13",
+            "speaker": "Isaías",
+            "verse": 13,
+            "text": "Jehová está en pie para litigar, está para juzgar a los pueblos."
+        },
+        {
+            "id": "isa3_14",
+            "speaker": "Isaías",
+            "verse": 14,
+            "text": "Jehová vendrá a juicio contra los ancianos de su pueblo y contra sus príncipes; porque vosotros habéis devorado la viña, y el despojo del pobre está en vuestras casas."
+        },
+        {
+            "id": "isa3_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "¿Qué pensáis vosotros que majáis mi pueblo, y moléis las caras de los pobres? dice el Señor Jehová de los ejércitos."
+        },
+        {
+            "id": "isa3_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Asimismo dice Jehová:"
+        },
+        {
+            "id": "isa3_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Por cuanto las hijas de Sión se ensoberbecen, y andan con el cuello erguido y ojos coquetos; cuando andan van danzando, y haciendo son con los pies."
+        },
+        {
+            "id": "isa3_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Por tanto, el Señor raerá la cabeza de las hijas de Sión, y Jehová descubrirá sus vergüenzas."
+        },
+        {
+            "id": "isa3_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Aquel día quitará el Señor el atavío de los calzados, las redecillas, las lunetas;"
+        },
+        {
+            "id": "isa3_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "los collares, los brazaletes y los velos;"
+        },
+        {
+            "id": "isa3_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "las cofias, los atavíos de las piernas, los partidores del pelo, los pomitos de olor y los zarcillos;"
+        },
+        {
+            "id": "isa3_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "los anillos y los joyeles de la nariz;"
+        },
+        {
+            "id": "isa3_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "las ropas de gala, los mantos, los lienzos, las bolsas,"
+        },
+        {
+            "id": "isa3_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "los espejos, el lino fino, las mitras y los velos."
+        },
+        {
+            "id": "isa3_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Y será que en vez de perfume aromático vendrá hediondez; y cuerda en vez de cinturón; y calvez en lugar de la compostura del cabello; y en lugar de ropa de gala ceñimiento de cilicio; y quemadura en vez de hermosura."
+        },
+        {
+            "id": "isa3_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Tus varones caerán a espada, y tus poderosos en la guerra."
+        },
+        {
+            "id": "isa3_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Sus puertas se entristecerán y enlutarán, y ella, desamparada, se sentará en tierra."
+        }
+    ]
+}

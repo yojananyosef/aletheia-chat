@@ -1,0 +1,79 @@
+{
+    "book": "Isaías",
+    "chapter": 50,
+    "title": "Isaías 50",
+    "messages": [
+        {
+            "id": "isa50_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "isa50_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "¿Dónde está la carta de divorcio de vuestra madre, con la cual yo la repudié? ¿O quiénes son mis acreedores, a quienes yo os he vendido? He aquí que por vuestras maldades os habéis vendido, y por vuestras rebeliones fue repudiada vuestra madre:"
+        },
+        {
+            "id": "isa50_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "¿Por qué cuando vine, no había nadie, y cuando llamé, nadie respondió? ¿Acaso se ha acortado mi mano, para no redimir? ¿No hay en mí poder para librar? He aquí que con mi reprensión hago secar el mar; torno los ríos en desierto, sus peces hieden, y mueren de sed por falta de agua."
+        },
+        {
+            "id": "isa50_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Visto de oscuridad los cielos, y hago que cilicio sea su cubierta."
+        },
+        {
+            "id": "isa50_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "El Señor Jehová me dio lengua de sabios, para saber hablar en sazón palabra al cansado; me despierta mañana tras mañana, despierta mi oído para que oiga como los sabios."
+        },
+        {
+            "id": "isa50_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "El Señor Jehová me abrió el oído, y yo no fui rebelde, ni me torné atrás."
+        },
+        {
+            "id": "isa50_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Di mi cuerpo a los heridores, y mis mejillas a los que me mesaban la barba; no escondí mi rostro de injurias y de esputos."
+        },
+        {
+            "id": "isa50_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Porque el Señor Jehová me ayudará; por tanto no seré confundido; por eso puse mi rostro como un pedernal, y sé que no seré avergonzado."
+        },
+        {
+            "id": "isa50_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Cercano está el que me justifica; ¿quién contenderá conmigo? Juntémonos. ¿Quién es el adversario de mi causa? Acérquese a mí."
+        },
+        {
+            "id": "isa50_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "He aquí que el Señor Jehová me ayudará; ¿quién es el que me condenará? He aquí que todos ellos como ropa de vestir se envejecerán, los comerá polilla."
+        },
+        {
+            "id": "isa50_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¿Quién hay entre vosotros que teme a Jehová, y oye la voz de su siervo? El que anda en tinieblas y carece de luz, confíe en el nombre de Jehová, y apóyese en su Dios."
+        },
+        {
+            "id": "isa50_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "He aquí que todos vosotros encendéis fuego, y estáis cercados de centellas. Andad a la luz de vuestro fuego, y de las centellas que encendisteis. De mi mano os vendrá esto; en dolor seréis sepultados."
+        }
+    ]
+}

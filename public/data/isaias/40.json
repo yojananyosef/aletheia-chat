@@ -1,0 +1,229 @@
+{
+    "book": "Isaías",
+    "chapter": 40,
+    "title": "Isaías 40",
+    "messages": [
+        {
+            "id": "isa40_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Consolaos, consolaos, pueblo mío, dice vuestro Dios."
+        },
+        {
+            "id": "isa40_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Hablad al corazón de Jerusalén; decidle a voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados."
+        },
+        {
+            "id": "isa40_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Voz del que clama en el desierto:"
+        },
+        {
+            "id": "isa40_3b",
+            "speaker": "Isaías",
+            "verse": 3,
+            "text": "Preparad el camino de Jehová; enderezad calzada en la soledad a nuestro Dios."
+        },
+        {
+            "id": "isa40_4",
+            "speaker": "Isaías",
+            "verse": 4,
+            "text": "Todo valle será levantado, y todo monte y collado será abajado; y lo torcido será enderezado, y lo áspero será allanado."
+        },
+        {
+            "id": "isa40_5",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Y se manifestará la gloria de Jehová, y toda carne juntamente la verá; porque la boca de Jehová ha hablado."
+        },
+        {
+            "id": "isa40_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Voz que decía:"
+        },
+        {
+            "id": "isa40_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Da voces."
+        },
+        {
+            "id": "isa40_6c",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "Y yo respondí:"
+        },
+        {
+            "id": "isa40_6d",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "¿Qué he de"
+        },
+        {
+            "id": "isa40_6e",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "Decir? Toda carne es hierba, y toda su gloria es como la flor del campo:"
+        },
+        {
+            "id": "isa40_7",
+            "speaker": "Isaías",
+            "verse": 7,
+            "text": "La hierba se seca, y la flor se marchita; porque el Espíritu de Jehová sopla en ella. Ciertamente hierba es el pueblo."
+        },
+        {
+            "id": "isa40_8",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "La hierba se seca, la flor se marchita; mas la palabra del Dios nuestro permanece para siempre."
+        },
+        {
+            "id": "isa40_9",
+            "speaker": "Isaías",
+            "verse": 9,
+            "text": "Súbete sobre un monte alto, oh Sión, tú que traes buenas nuevas; levanta fuertemente tu voz, oh Jerusalén, tú que traes buenas nuevas; levántala, no temas; di a las ciudades de Judá: ¡He aquí vuestro Dios!"
+        },
+        {
+            "id": "isa40_10",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "He aquí que el Señor Jehová vendrá con mano fuerte, y su brazo señoreará; he aquí que su recompensa viene con Él, y su obra delante de su rostro."
+        },
+        {
+            "id": "isa40_11",
+            "speaker": "Isaías",
+            "verse": 11,
+            "text": "Como pastor apacentará su rebaño; con su brazo recogerá los corderos, y en su seno los llevará; pastoreará suavemente a las recién paridas."
+        },
+        {
+            "id": "isa40_12",
+            "speaker": "Isaías",
+            "verse": 12,
+            "text": "¿Quién midió las aguas con el hueco de su mano, y midió los cielos con su palmo, y con tres dedos juntó el polvo de la tierra, y pesó los montes con balanza, y con pesas los collados?"
+        },
+        {
+            "id": "isa40_13",
+            "speaker": "Isaías",
+            "verse": 13,
+            "text": "¿Quién enseñó al Espíritu de Jehová, o le aconsejó enseñándole?"
+        },
+        {
+            "id": "isa40_14",
+            "speaker": "Isaías",
+            "verse": 14,
+            "text": "¿A quién pidió consejo para ser instruido? ¿Quién le enseñó el camino del juicio, o le enseñó conocimiento, o le mostró la senda del entendimiento?"
+        },
+        {
+            "id": "isa40_15",
+            "speaker": "Isaías",
+            "verse": 15,
+            "text": "He aquí que las naciones le son como la gota que cae de un cubo, y son contadas como el polvo de la balanza; he aquí que hace desaparecer las islas como polvo."
+        },
+        {
+            "id": "isa40_16",
+            "speaker": "Isaías",
+            "verse": 16,
+            "text": "Ni el Líbano bastará para el fuego, ni todos sus animales para el sacrificio."
+        },
+        {
+            "id": "isa40_17",
+            "speaker": "Isaías",
+            "verse": 17,
+            "text": "Como nada son todas las naciones delante de Él; y en su comparación serán estimadas en menos que nada, y que lo que no es."
+        },
+        {
+            "id": "isa40_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "¿A qué, pues, haréis semejante a Dios, o a qué imagen le compararéis?"
+        },
+        {
+            "id": "isa40_19",
+            "speaker": "Isaías",
+            "verse": 19,
+            "text": "El artífice prepara la imagen de talla, el platero le extiende el oro, y le funde cadenas de plata."
+        },
+        {
+            "id": "isa40_20",
+            "speaker": "Isaías",
+            "verse": 20,
+            "text": "El pobre escoge, para ofrecerle, madera que no se apolille; se busca un maestro sabio, que le haga una imagen de talla que no se mueva."
+        },
+        {
+            "id": "isa40_21",
+            "speaker": "Isaías",
+            "verse": 21,
+            "text": "¿No sabéis? ¿No habéis oído? ¿Nunca os lo han dicho desde el principio? ¿No habéis sido enseñados desde que la tierra se fundó?"
+        },
+        {
+            "id": "isa40_22",
+            "speaker": "Isaías",
+            "verse": 22,
+            "text": "Él está sentado sobre el globo de la tierra, cuyos moradores son como langostas; Él extiende los cielos como una cortina, los despliega como una tienda para morar."
+        },
+        {
+            "id": "isa40_23",
+            "speaker": "Isaías",
+            "verse": 23,
+            "text": "Él reduce a nada a los poderosos, y a los jueces de la tierra hace como cosa vana."
+        },
+        {
+            "id": "isa40_24",
+            "speaker": "Isaías",
+            "verse": 24,
+            "text": "Como si nunca hubieran sido plantados, como si nunca hubieran sido sembrados, como si nunca su tronco hubiera tenido raíz en la tierra; así que sopla en ellos, se secan, y el torbellino los lleva como hojarascas."
+        },
+        {
+            "id": "isa40_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "¿A quién, pues, me haréis semejante o me haréis igual? dice el Santo."
+        },
+        {
+            "id": "isa40_26",
+            "speaker": "Isaías",
+            "verse": 26,
+            "text": "Levantad en alto vuestros ojos, y mirad quién creó estas cosas; Él saca y cuenta su ejército; a todas llama por sus nombres; ninguna faltará; tal es la grandeza de su fuerza, y su poder y virtud."
+        },
+        {
+            "id": "isa40_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "¿Por qué dices, oh Jacob, y hablas tú, Israel:"
+        },
+        {
+            "id": "isa40_27b",
+            "speaker": "Jacob",
+            "verse": 27,
+            "text": "Mi camino está escondido de Jehová, y de mi Dios pasó mi juicio?"
+        },
+        {
+            "id": "isa40_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "¿No has sabido, no has oído que el Dios eterno es Jehová, el cual creó los confines de la tierra? No desfallece, ni se fatiga con cansancio, y su entendimiento no hay quien lo alcance."
+        },
+        {
+            "id": "isa40_29",
+            "speaker": "Isaías",
+            "verse": 29,
+            "text": "Él da fortaleza al cansado, y multiplica las fuerzas al que no tiene ningunas."
+        },
+        {
+            "id": "isa40_30",
+            "speaker": "Isaías",
+            "verse": 30,
+            "text": "Los muchachos se fatigan y se cansan, los jóvenes flaquean y caen;"
+        },
+        {
+            "id": "isa40_31",
+            "speaker": "Isaías",
+            "verse": 31,
+            "text": "pero los que esperan en Jehová tendrán nuevas fuerzas; levantarán las alas como águilas, correrán, y no se cansarán, caminarán, y no se fatigarán."
+        }
+    ]
+}

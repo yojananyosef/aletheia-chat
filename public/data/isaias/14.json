@@ -1,0 +1,229 @@
+{
+    "book": "Isaías",
+    "chapter": 14,
+    "title": "Isaías 14",
+    "messages": [
+        {
+            "id": "isa14_1",
+            "speaker": "Isaías",
+            "verse": 1,
+            "text": "Porque Jehová tendrá misericordia de Jacob, y todavía escogerá a Israel y le establecerá en su propia tierra; y a ellos se unirán extranjeros, y se juntarán a la casa de Jacob."
+        },
+        {
+            "id": "isa14_2",
+            "speaker": "Isaías",
+            "verse": 2,
+            "text": "Y los tomarán los pueblos, y los traerán a su lugar: y la casa de Israel los poseerá por siervos y criadas en la tierra de Jehová: y cautivarán a los que los cautivaron, y señorearán sobre sus opresores."
+        },
+        {
+            "id": "isa14_3",
+            "speaker": "Isaías",
+            "verse": 3,
+            "text": "Y será en el día que Jehová te dé reposo de tu trabajo, y de tu temor, y de la dura servidumbre en que te hicieron servir,"
+        },
+        {
+            "id": "isa14_4",
+            "speaker": "Isaías",
+            "verse": 4,
+            "text": "que levantarás este proverbio sobre el rey de Babilonia, y dirás: ¡Cómo cesó el opresor, cómo cesó la ciudad del oro!"
+        },
+        {
+            "id": "isa14_5",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Quebrantó Jehová el bastón de los impíos, el cetro de los señores;"
+        },
+        {
+            "id": "isa14_6",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "al que hería a los pueblos con ira, con llaga permanente, el cual se enseñoreaba de las naciones con furor, y las perseguía con crueldad."
+        },
+        {
+            "id": "isa14_7",
+            "speaker": "Isaías",
+            "verse": 7,
+            "text": "Descansó, sosegó toda la tierra; prorrumpieron en alabanza."
+        },
+        {
+            "id": "isa14_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Aun los cipreses se regocijaron de ti, y los cedros del Líbano, diciendo:"
+        },
+        {
+            "id": "isa14_8b",
+            "speaker": "Isaías",
+            "verse": 8,
+            "text": "Desde que tú pereciste, no ha subido talador contra nosotros."
+        },
+        {
+            "id": "isa14_9",
+            "speaker": "Isaías",
+            "verse": 9,
+            "text": "El infierno abajo se espantó de ti, al recibirte en tu venida; te despertó a los muertos, aun a todos los príncipes de la tierra; hizo levantar de sus tronos a todos los reyes de las naciones."
+        },
+        {
+            "id": "isa14_10",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "Todos ellos darán voces, y te dirán: ¿Tú también te debilitaste como nosotros, y como nosotros has venido a ser?"
+        },
+        {
+            "id": "isa14_11",
+            "speaker": "Isaías",
+            "verse": 11,
+            "text": "Descendió al sepulcro tu soberbia, y el sonido de tus arpas; gusanos serán tu cama, y gusanos te cubrirán."
+        },
+        {
+            "id": "isa14_12",
+            "speaker": "Isaías",
+            "verse": 12,
+            "text": "¡Cómo caíste del cielo, oh Lucifer, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas a las naciones."
+        },
+        {
+            "id": "isa14_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Tú que decías en tu corazón:"
+        },
+        {
+            "id": "isa14_13b",
+            "speaker": "Isaías",
+            "verse": 13,
+            "text": "Subiré al cielo, en lo alto junto a las estrellas de Dios levantaré mi trono, y en el monte del testimonio me sentaré, a los lados del norte;"
+        },
+        {
+            "id": "isa14_14",
+            "speaker": "Isaías",
+            "verse": 14,
+            "text": "Sobre las alturas de las nubes subiré, y seré semejante al Altísimo."
+        },
+        {
+            "id": "isa14_15",
+            "speaker": "Isaías",
+            "verse": 15,
+            "text": "Pero tú derribado serás hasta el infierno, a los lados del abismo."
+        },
+        {
+            "id": "isa14_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Los que te vean, te observarán, te contemplarán, diciendo:"
+        },
+        {
+            "id": "isa14_16b",
+            "speaker": "Isaías",
+            "verse": 16,
+            "text": "¿Es éste aquel varón que hacía temblar la tierra, que trastornaba los reinos;"
+        },
+        {
+            "id": "isa14_17",
+            "speaker": "Isaías",
+            "verse": 17,
+            "text": "que puso al mundo como un desierto, que asoló sus ciudades; que a sus presos nunca abrió la cárcel?"
+        },
+        {
+            "id": "isa14_18",
+            "speaker": "Isaías",
+            "verse": 18,
+            "text": "Todos los reyes de las naciones, todos ellos yacen con honra cada uno en su propia casa."
+        },
+        {
+            "id": "isa14_19",
+            "speaker": "Isaías",
+            "verse": 19,
+            "text": "Pero tú has sido echado de tu sepulcro como vástago abominable, como ropa de muertos atravesados a espada, que descienden hasta las piedras de la fosa; como un cadáver pisoteado."
+        },
+        {
+            "id": "isa14_20",
+            "speaker": "Isaías",
+            "verse": 20,
+            "text": "No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste tu pueblo. No será nombrada para siempre la simiente de los malhechores."
+        },
+        {
+            "id": "isa14_21",
+            "speaker": "Isaías",
+            "verse": 21,
+            "text": "Preparad el matadero para sus hijos por la maldad de sus padres; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades."
+        },
+        {
+            "id": "isa14_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Porque yo me levantaré contra ellos, dice Jehová de los ejércitos, y raeré de Babilonia el nombre y el remanente, hijo y nieto, dice Jehová."
+        },
+        {
+            "id": "isa14_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y la convertiré en posesión de erizos, y en estanques de agua; y la barreré con escobas de destrucción, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "isa14_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Jehová de los ejércitos juró, diciendo:"
+        },
+        {
+            "id": "isa14_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Ciertamente se hará de la manera que lo he pensado, y será confirmado como lo he determinado:"
+        },
+        {
+            "id": "isa14_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Que quebrantaré al asirio en mi tierra, y en mis montes lo hollaré; y su yugo será apartado de ellos, y su carga será quitada de su hombro."
+        },
+        {
+            "id": "isa14_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Éste es el consejo que está acordado sobre toda la tierra; y ésta es la mano extendida sobre todas las naciones."
+        },
+        {
+            "id": "isa14_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Porque Jehová de los ejércitos ha determinado; ¿y quién invalidará? Y su mano extendida, ¿quién la hará tornar?"
+        },
+        {
+            "id": "isa14_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "En el año que murió el rey Acaz fue esta carga:"
+        },
+        {
+            "id": "isa14_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "No te alegres tú, Filistea toda, por haberse quebrado la vara del que te hería; porque de la raíz de la culebra saldrá la víbora, y su fruto, serpiente voladora."
+        },
+        {
+            "id": "isa14_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y destruiré tu remanente."
+        },
+        {
+            "id": "isa14_31a",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea:"
+        },
+        {
+            "id": "isa14_31b",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "porque humo vendrá del norte, no quedará uno solo en sus asambleas."
+        },
+        {
+            "id": "isa14_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "¿Y qué se responderá a los mensajeros de la nación? Que Jehová fundó a Sión, y que en ella se refugiarán los afligidos de su pueblo."
+        }
+    ]
+}

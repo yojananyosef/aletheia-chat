@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 1,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "c",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "c",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "d",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Isaías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "c",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "d",
+    "speaker": "Ezequías",
+    "confidence": 0.9
+  }
+]

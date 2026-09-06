@@ -1,0 +1,193 @@
+{
+    "book": "Isaías",
+    "chapter": 45,
+    "title": "Isaías 45",
+    "messages": [
+        {
+            "id": "isa45_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así dice Jehová a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar naciones delante de él y desatar lomos de reyes; para abrir delante de él puertas, y las puertas no se cerrarán:"
+        },
+        {
+            "id": "isa45_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Yo iré delante de ti, y enderezaré los lugares torcidos; quebraré puertas de bronce, y cerrojos de hierro haré pedazos;"
+        },
+        {
+            "id": "isa45_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "y te daré los tesoros escondidos, y las riquezas de los lugares secretos; para que sepas que yo soy Jehová, el Dios de Israel, el que te llama por tu nombre."
+        },
+        {
+            "id": "isa45_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Por amor a mi siervo Jacob y a Israel mi escogido, te he llamado por tu nombre; te puse sobrenombre, aunque tú no me has conocido."
+        },
+        {
+            "id": "isa45_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Yo soy Jehová, y ninguno más hay. No hay Dios fuera de mí. Yo te ceñí, aunque tú no me has conocido;"
+        },
+        {
+            "id": "isa45_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "para que se sepa desde el nacimiento del sol, y desde donde se pone, que no hay más que yo; yo Jehová, y ninguno más que yo,"
+        },
+        {
+            "id": "isa45_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "que formo la luz y creo las tinieblas, que hago la paz y creo la adversidad. Yo Jehová que hago todo esto."
+        },
+        {
+            "id": "isa45_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Rociad, cielos, de arriba, y las nubes destilen la justicia; ábrase la tierra, y prodúzcanse la salvación y la justicia; háganse brotar juntamente. Yo Jehová lo he creado."
+        },
+        {
+            "id": "isa45_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¡Ay del que pleitea con su Hacedor! ¡El tiesto con los tiestos de la tierra! ¿Dirá el barro al que lo labra: ¿Qué haces?; o tu obra: No tiene manos?"
+        },
+        {
+            "id": "isa45_10a",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "¡Ay del que dice a su padre:"
+        },
+        {
+            "id": "isa45_10b",
+            "speaker": "Isaías",
+            "verse": 10,
+            "text": "¿Por qué engendraste? y a la mujer: ¿Por qué diste a luz?!"
+        },
+        {
+            "id": "isa45_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así dice Jehová, el Santo de Israel y su Hacedor:"
+        },
+        {
+            "id": "isa45_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Preguntadme de las cosas por venir; mandadme acerca de mis hijos, y acerca de la obra de mis manos."
+        },
+        {
+            "id": "isa45_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Yo hice la tierra, y creé sobre ella al hombre. Yo, mis manos, extendieron los cielos, y a todo su ejército ordené."
+        },
+        {
+            "id": "isa45_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Yo lo desperté en justicia, y enderezaré todos sus caminos; él edificará mi ciudad, y soltará mis cautivos, no por precio ni por recompensa, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "isa45_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "isa45_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "El trabajo de Egipto, las mercaderías de Etiopía y los sabeos, hombres de gran estatura, se pasarán a ti y serán tuyos; irán en pos de ti, pasarán con grillos; se inclinarán delante de ti y te suplicarán, diciendo: Ciertamente en ti está Dios, y no hay otro fuera de Dios."
+        },
+        {
+            "id": "isa45_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Verdaderamente tú eres un Dios que te encubres, oh Dios de Israel, el Salvador."
+        },
+        {
+            "id": "isa45_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Confusos y avergonzados serán todos ellos; irán con afrenta todos los fabricadores de imágenes."
+        },
+        {
+            "id": "isa45_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Israel será salvo en Jehová con salvación eterna; no seréis avergonzados ni humillados, por toda la eternidad."
+        },
+        {
+            "id": "isa45_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque así dice Jehová, que creó los cielos, el mismo Dios, el que formó e hizo la tierra, Él la estableció; no la creó en vano, para que fuese habitada la creó:"
+        },
+        {
+            "id": "isa45_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Yo soy Jehová, y no hay otro."
+        },
+        {
+            "id": "isa45_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "No hablé en secreto, en un lugar oscuro de la tierra; no dije a la simiente de Jacob:"
+        },
+        {
+            "id": "isa45_19b",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "En vano me buscáis. Yo soy Jehová que hablo justicia, que anuncio rectitud."
+        },
+        {
+            "id": "isa45_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Reuníos, y venid; acercaos, todos los que habéis escapado de las naciones. No tienen conocimiento aquellos que erigen el madero de su imagen esculpida, y los que ruegan a un dios que no puede salvar."
+        },
+        {
+            "id": "isa45_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Publicad, y hacedlos llegar, y entren todos en consulta: ¿quién hizo oír esto desde el principio, y lo tiene dicho desde entonces, sino yo Jehová? Y no hay más Dios que yo; Dios justo y Salvador:"
+        },
+        {
+            "id": "isa45_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "ningún otro fuera de mí."
+        },
+        {
+            "id": "isa45_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Mirad a mí, y sed salvos, todos los términos de la tierra: porque yo soy Dios, y no hay más."
+        },
+        {
+            "id": "isa45_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Por mí mismo hice juramento, de mi boca salió palabra en justicia, y no será revocada. Que a mí se doblará toda rodilla, y jurará toda lengua."
+        },
+        {
+            "id": "isa45_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Y se dirá de mí: Ciertamente en Jehová está la justicia y la fortaleza; a Él vendrán, y todos los que contra Él se enardecen serán avergonzados."
+        },
+        {
+            "id": "isa45_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "En Jehová será justificada y se gloriará toda la simiente de Israel."
+        }
+    ]
+}

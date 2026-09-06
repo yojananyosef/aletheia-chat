@@ -1,0 +1,43 @@
+{
+    "book": "Isaías",
+    "chapter": 12,
+    "title": "Isaías 12",
+    "messages": [
+        {
+            "id": "isa12_1",
+            "speaker": "Isaías",
+            "verse": 1,
+            "text": "Y dirás en aquel día: Cantaré a ti, oh Jehová; pues aunque te enojaste contra mí, tu ira se apartó, y me has consolado."
+        },
+        {
+            "id": "isa12_2",
+            "speaker": "Isaías",
+            "verse": 2,
+            "text": "He aquí Dios es mi salvación; confiaré, y no temeré; porque mi fortaleza y mi canción es Jehová el Señor, el cual ha sido mi salvación."
+        },
+        {
+            "id": "isa12_3",
+            "speaker": "Isaías",
+            "verse": 3,
+            "text": "Con gozo sacaréis aguas de las fuentes de la salvación."
+        },
+        {
+            "id": "isa12_4",
+            "speaker": "Isaías",
+            "verse": 4,
+            "text": "Y diréis en aquel día: Cantad a Jehová, aclamad su nombre, haced célebres en los pueblos sus obras, recordad que su nombre es engrandecido."
+        },
+        {
+            "id": "isa12_5",
+            "speaker": "Isaías",
+            "verse": 5,
+            "text": "Cantad salmos a Jehová; porque ha hecho cosas magníficas; sea sabido esto por toda la tierra."
+        },
+        {
+            "id": "isa12_6",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "Regocíjate y canta, oh moradora de Sión: porque grande es en medio de ti el Santo de Israel."
+        }
+    ]
+}
