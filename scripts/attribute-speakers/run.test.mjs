@@ -186,6 +186,24 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(j22.messages, 31, 'b'), 'Finees');
   });
 
+  it('JDG voces: Aod 3:19, Débora 4:6, Gedeón 6:13', () => {
+    const j3 = run('jueces', 'JDG', 3);
+    assert.equal(speakerOf(j3.messages, 20, 'b'), 'Aod');
+    const j4 = run('jueces', 'JDG', 4);
+    assert.equal(speakerOf(j4.messages, 14, 'b'), 'Débora');
+    const j6 = run('jueces', 'JDG', 6);
+    assert.equal(speakerOf(j6.messages, 13, 'b'), 'Gedeón');
+  });
+
+  it('JDG voces: Jefté 11:7, Sansón 14:12, Dalila 16:6', () => {
+    const j11 = run('jueces', 'JDG', 11);
+    assert.equal(speakerOf(j11.messages, 7, 'b'), 'Jefté');
+    const j15 = run('jueces', 'JDG', 15);
+    assert.equal(speakerOf(j15.messages, 3, 'b'), 'Sansón');
+    const j16 = run('jueces', 'JDG', 16);
+    assert.equal(speakerOf(j16.messages, 6, 'b'), 'Dalila');
+  });
+
   it('MAT voces: Pedro 16:16 y 26:33', () => {
     const m16 = run('mateo', 'MAT', 16);
     assert.equal(speakerOf(m16.messages, 16, 'b'), 'Pedro');

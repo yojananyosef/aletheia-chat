@@ -38,7 +38,14 @@ export type CanonicalSpeaker =
     | 'Gad y Rubén' | 'Galaaditas' | 'Capitanes' | 'Hijas de Zelofehad'
     | 'Príncipes' | 'Hombres' | 'Cuñado' | 'Cuñada' | 'Oficiales'
     | 'Rey de Jericó' | 'Rahab' | 'Príncipe' | 'Acán' | 'Gabaonitas'
-    | 'Acsa' | 'Hijos de José' | 'Levitas' | 'Finees';
+    | 'Acsa'     | 'Hijos de José' | 'Levitas' | 'Finees'
+    | 'Adonibezec' | 'Otoniel' | 'Aod' | 'Eglón' | 'Débora' | 'Barac'
+    | 'Jael' | 'Sísara' | 'Madre de Sísara' | 'Joás' | 'Madianita'
+    | 'Efraín' | 'Zebul' | 'Gaal' | 'Jotam' | 'Abimelec' | 'Jefté'
+    | 'Rey de Amón' | 'Hija de Jefté' | 'Esposa de Manoa' | 'Manoa'
+    | 'Padres de Sansón' | 'Filisteos' | 'Dalila' | 'Esposa de Sansón'
+    | 'Suegro' | 'Levita' | 'Micaía' | 'Madre de Micaía' | 'Danitas'
+    | 'Anciano' | 'Benjamín';
 
 export type Speaker = CanonicalSpeaker | (string & {});
 

@@ -249,6 +249,202 @@
       "confidence": 0.9
     },
     {
+      "id": "adonibezec",
+      "pattern": "adoni-?bezec",
+      "flags": "i",
+      "speaker": "Adonibezec",
+      "confidence": 0.9
+    },
+    {
+      "id": "aod",
+      "pattern": "\\baod\\b",
+      "flags": "i",
+      "speaker": "Aod",
+      "confidence": 0.9
+    },
+    {
+      "id": "eglon",
+      "pattern": "egl[óo]n",
+      "flags": "i",
+      "speaker": "Eglón",
+      "confidence": 0.9
+    },
+    {
+      "id": "debora",
+      "pattern": "d[ée]bora",
+      "flags": "i",
+      "speaker": "Débora",
+      "confidence": 0.9
+    },
+    {
+      "id": "barac",
+      "pattern": "barac",
+      "flags": "i",
+      "speaker": "Barac",
+      "confidence": 0.9
+    },
+    {
+      "id": "jael",
+      "pattern": "jael",
+      "flags": "i",
+      "speaker": "Jael",
+      "confidence": 0.9
+    },
+    {
+      "id": "sisara",
+      "pattern": "s[íi]sara",
+      "flags": "i",
+      "speaker": "Sísara",
+      "confidence": 0.9
+    },
+    {
+      "id": "madre-sisara",
+      "pattern": "madre de s[íi]sara",
+      "flags": "i",
+      "speaker": "Madre de Sísara",
+      "confidence": 0.9
+    },
+    {
+      "id": "gedeon",
+      "pattern": "gede[óo]n|jerobaal",
+      "flags": "i",
+      "speaker": "Gedeón",
+      "confidence": 0.9
+    },
+    {
+      "id": "joas",
+      "pattern": "\\bjo[áa]s\\b",
+      "flags": "i",
+      "speaker": "Joás",
+      "confidence": 0.9
+    },
+    {
+      "id": "madianita",
+      "pattern": "soñ[ée]",
+      "flags": "i",
+      "speaker": "Madianita",
+      "confidence": 0.8
+    },
+    {
+      "id": "efrain",
+      "pattern": "efra[íi]n|efrateo",
+      "flags": "i",
+      "speaker": "Efraín",
+      "confidence": 0.9
+    },
+    {
+      "id": "zebul",
+      "pattern": "zebul",
+      "flags": "i",
+      "speaker": "Zebul",
+      "confidence": 0.9
+    },
+    {
+      "id": "gaal",
+      "pattern": "\\bgaal\\b",
+      "flags": "i",
+      "speaker": "Gaal",
+      "confidence": 0.9
+    },
+    {
+      "id": "jotam",
+      "pattern": "jotam",
+      "flags": "i",
+      "speaker": "Jotam",
+      "confidence": 0.9
+    },
+    {
+      "id": "jefte",
+      "pattern": "jeft[ée]",
+      "flags": "i",
+      "speaker": "Jefté",
+      "confidence": 0.9
+    },
+    {
+      "id": "rey-amon",
+      "pattern": "rey de los amonitas|rey de (los hijos de )?am[óo]n",
+      "flags": "i",
+      "speaker": "Rey de Amón",
+      "confidence": 0.9
+    },
+    {
+      "id": "manoa",
+      "pattern": "manoa",
+      "flags": "i",
+      "speaker": "Manoa",
+      "confidence": 0.9
+    },
+    {
+      "id": "sanson",
+      "pattern": "\\bsans[óo]n\\b",
+      "flags": "i",
+      "speaker": "Sansón",
+      "confidence": 0.9
+    },
+    {
+      "id": "padres-sanson",
+      "pattern": "su padre y su madre",
+      "flags": "i",
+      "speaker": "Padres de Sansón",
+      "confidence": 0.9
+    },
+    {
+      "id": "filisteos",
+      "pattern": "filisteos?",
+      "flags": "i",
+      "speaker": "Filisteos",
+      "confidence": 0.85
+    },
+    {
+      "id": "dalila",
+      "pattern": "dalila",
+      "flags": "i",
+      "speaker": "Dalila",
+      "confidence": 0.9
+    },
+    {
+      "id": "suegro",
+      "pattern": "padre de (ella|la (joven|moza))|su suegro",
+      "flags": "i",
+      "speaker": "Suegro",
+      "confidence": 0.9
+    },
+    {
+      "id": "levita-jdg",
+      "pattern": "\\blevita\\b",
+      "flags": "i",
+      "speaker": "Levita",
+      "confidence": 0.85
+    },
+    {
+      "id": "micaias",
+      "pattern": "mica[íi]a",
+      "flags": "i",
+      "speaker": "Micaía",
+      "confidence": 0.9
+    },
+    {
+      "id": "danitas",
+      "pattern": "danitas?|hijos de dan\\b|cinco hombres",
+      "flags": "i",
+      "speaker": "Danitas",
+      "confidence": 0.85
+    },
+    {
+      "id": "anciano-jdg",
+      "pattern": "el viejo|hombre viejo",
+      "flags": "i",
+      "speaker": "Anciano",
+      "confidence": 0.85
+    },
+    {
+      "id": "benjamin",
+      "pattern": "benjam[íi]n|hijos de benjam[íi]n",
+      "flags": "i",
+      "speaker": "Benjamín",
+      "confidence": 0.85
+    },
+    {
       "id": "ancianos",
       "pattern": "\\b(ancianos?)\\b",
       "flags": "i",
