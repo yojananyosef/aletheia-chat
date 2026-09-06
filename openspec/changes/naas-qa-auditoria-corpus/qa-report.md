@@ -9,7 +9,7 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | genesis | 2127 | 380 | 119 | 126 |
 | exodus | 1460 | 360 | 120 | 224 |
 | levitico | 905 | 124 | 8 | 8 |
-| numeros | 1444 | 191 | 253 | 253 |
+| numeros | 1444 | 444 | 0 | 0 |
 | deuteronomio | 1047 | 933 | 15 | 22 |
 | josue | 760 | 113 | 48 | 54 |
 | jueces | 887 | 158 | 50 | 64 |
@@ -30,7 +30,7 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 16 |
 | juan | 1303 | 226 | 0 | 20 |
-| **total** | **25306** | **6079** | **704** | **1116** |
+| **total** | **25306** | **6332** | **451** | **863** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -68,7 +68,7 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   torbellino (Dios en 39/41). Sospechosos 734 → 0.
 - `exodus` (256 entradas, 9 caps): instrucciones divinas (Éx 3, 21-23, 26-30). Sospechosos 376 → 120.
 
-### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 704)
+### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 451)
 - **Evangelios (4.2) COMPLETADOS (2026-09-06): 0 sospechosos en los 4** — juan (202 fixes:
   9 piloto + 81 resto), mateo (39), lucas (57), marcos (25). Total: 323 fixes + ~70
   documentaciones de narraciones legítimas y voces confirmadas.
@@ -86,8 +86,13 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   - Marcos: discursos 7/8/10/12/13/14 Jesús; 13:4 Discípulos preguntan; 14:71 Pedro ("No conozco
     a este hombre"); 14:72b cita narrada → Narrador (aplicado Jesús era incorrecto);
     14:65b "Profetiza" = Sacerdotes; 12:33 Escribas.
-- **AT carryover divino (4.3):** numeros (253), genesis (119), josue (48), jueces (50),
-  exodus Narrador←Dios (89) y Narrador←Moisés (23), salmos (38), deuteronomio (15).
+- **AT carryover divino (4.3):** Números COMPLETADO (2026-09-06: 248→0, 253 documentaciones de
+  narración en 25 caps — **hallazgo: el carryover divino actual sobre-fija** sobre narraciones de
+  ejecución/censos/ofrendas ("Tomó, pues, Moisés...", "los contados de ellos..."); el aplicado
+  Narrador era correcto en el 100% de los casos. Mejora heurística opcional: ampliar NARRSTART_RE
+  con arranques narrativos ("Y Moisés", "Entonces Jehová descendió", "Y partieron", "Y los hijos
+  de..."). Restante: exodus (89+23), genesis (78+9+7), josue (35), jueces (18), deuteronomio (15),
+  salmos (25+12), levitico (8).
 - **Salmos doctrina (4.1):** salmista-Narrador vs oráculo genuino (salmos 18/50/60/99/110 del
   triage fase3).
 

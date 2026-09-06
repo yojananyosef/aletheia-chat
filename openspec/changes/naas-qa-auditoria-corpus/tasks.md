@@ -32,9 +32,11 @@
       evangelios con 0 sospechosos: juan 98→0 (81 fixes), mateo 51→0 (39), lucas 84→0 (57),
       marcos 39→0 (25: discursos 7/8/10/12/13/14, 13:4 Discípulos, 14:71 Pedro, 14:72b cita
       narrada→Narrador, 14:65b "Profetiza"=Sacerdotes; 14 documentaciones).
-- [ ] 4.3 AT carryover divino posterior a la integración: numeros (248), genesis (78), josue (35),
-      jueces (18), deuteronomio (15), salmos (25): volcado aplicado vs dry por capítulo,
-      adjudicar, `reviewed/` + `--apply --write`.
+- [ ] 4.3 AT carryover divino posterior a la integración: **numeros COMPLETADO** (248→0, 253
+      documentaciones: el aplicado Narrador era correcto en el 100% — el carryover actual
+      sobre-fija sobre narraciones de ejecución; mejora heurística opcional en qa-report).
+      Restante: genesis (78+9+7), josue (35), jueces (18), deuteronomio (15), levitico (8),
+      exodus (89+23), salmos (25+12).
 - [ ] 4.4 Casos nuevos que arrojen re-corridas: listar aquí con decisión tomada.
 
 ## 5. Cierre
