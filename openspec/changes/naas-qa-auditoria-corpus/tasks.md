@@ -28,10 +28,11 @@
 ## 4. Clusters doctrinales (cubeta b) — decisión explícita antes de tocar
 - [ ] 4.1 Salmos: salmista-Narrador vs oráculo divino genuino (salmos 18, 50, 60, 99, 110 del
       triage fase3) — decidir por salmo y registrar la doctrina resultante en la spec `speakers`.
-- [ ] 4.2 Evangelios (272 sospechosos restantes): doctrina del relator conserva voz.
-      **Piloto Juan 9 completado**: 6 fixes (9:4-5 Jesús; 9:15b y 9:31-33 al Ciego; 9:15b era
-      testimonio del ciego atribuido a Fariseos) + 3 narraciones legítimas documentadas (9:13/18/22).
-      Restante: juan (98), mateo 15/26 (29), lucas 9 (35+16), marcos 14 (17).
+- [ ] 4.2 Evangelios: doctrina del relator conserva voz.
+      **Juan completo** (2026-09-06): juan 98→0 sospechosos, 81 fixes en 17 caps (discurso del pan
+      de vida 6:38-58, Buen Pastor 10, Cenáculo 14, oración sacerdotal 17; 6:9 Andrés; 6:14b
+      Multitud; 11:22 Marta; 11:48 Sacerdotes; 16:30 Discípulos; 5:7 Hombre) + 17 narraciones
+      legítimas documentadas. Pilot Juan 9 previo. Restante: mateo (51), lucas (84), marcos (39).
 - [ ] 4.3 AT carryover divino posterior a la integración: numeros (248), genesis (78), josue (35),
       jueces (18), deuteronomio (15), salmos (25): volcado aplicado vs dry por capítulo,
       adjudicar, `reviewed/` + `--apply --write`.
