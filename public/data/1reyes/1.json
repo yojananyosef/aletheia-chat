@@ -1,0 +1,487 @@
+{
+    "book": "1 Reyes",
+    "chapter": 1,
+    "title": "1 Reyes 1",
+    "messages": [
+        {
+            "id": "1ki1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Cuando el rey David era viejo, y entrado en días, le cubrían de ropas, mas no se calentaba."
+        },
+        {
+            "id": "1ki1_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Le dijeron por tanto sus siervos:"
+        },
+        {
+            "id": "1ki1_2b",
+            "speaker": "Siervos",
+            "verse": 2,
+            "text": "Busquen a mi señor el rey una joven virgen, para que esté delante del rey, y lo abrigue, y duerma a su lado para que dé calor a mi señor el rey."
+        },
+        {
+            "id": "1ki1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y buscaron una joven hermosa por todo el término de Israel, y hallaron a Abisag sunamita, y la trajeron al rey."
+        },
+        {
+            "id": "1ki1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y la joven era hermosa; y ella abrigaba al rey, y le servía; pero el rey nunca la conoció."
+        },
+        {
+            "id": "1ki1_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces Adonías hijo de Haguit se enalteció, diciendo:"
+        },
+        {
+            "id": "1ki1_5b",
+            "speaker": "Adonías",
+            "verse": 5,
+            "text": "Yo seré rey. Y se hizo de carros y de gente de a caballo, y cincuenta hombres que corriesen delante de él."
+        },
+        {
+            "id": "1ki1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y su padre nunca lo entristeció en todos sus días con decirle:"
+        },
+        {
+            "id": "1ki1_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "¿Por qué haces así? Y además éste era de hermoso parecer; y su madre lo había engendrado después de Absalón."
+        },
+        {
+            "id": "1ki1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y tenía tratos con Joab hijo de Sarvia, y con Abiatar sacerdote, los cuales ayudaban a Adonías."
+        },
+        {
+            "id": "1ki1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas el sacerdote Sadoc, y Benaía hijo de Joiada, y el profeta Natán, y Simeí, y Reihi, y todos los valientes de David, no seguían a Adonías."
+        },
+        {
+            "id": "1ki1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y matando Adonías ovejas y vacas y animales engordados junto a la peña de Zohelet, que está cerca de la fuente de Rogel, convidó a todos sus hermanos los hijos del rey, y a todos los varones de Judá, siervos del rey:"
+        },
+        {
+            "id": "1ki1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mas no convidó al profeta Natán, ni a Benaía, ni a los grandes, ni a Salomón, su hermano."
+        },
+        {
+            "id": "1ki1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y habló Natán a Betsabé, madre de Salomón, diciendo:"
+        },
+        {
+            "id": "1ki1_11b",
+            "speaker": "Natán",
+            "verse": 11,
+            "text": "¿No has oído que reina Adonías, hijo de Haguit, sin saberlo David nuestro señor?"
+        },
+        {
+            "id": "1ki1_12",
+            "speaker": "Natán",
+            "verse": 12,
+            "text": "Ven pues, ahora, y toma mi consejo, para que salves tu vida, y la vida de tu hijo Salomón."
+        },
+        {
+            "id": "1ki1_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Ve, y entra al rey David, y dile: Rey señor mío, ¿no has jurado tú a tu sierva, diciendo:"
+        },
+        {
+            "id": "1ki1_13b",
+            "speaker": "Natán",
+            "verse": 13,
+            "text": "Salomón tu hijo reinará después de mí, y él se sentará en mi trono? ¿Por qué, pues, reina Adonías?"
+        },
+        {
+            "id": "1ki1_14",
+            "speaker": "Natán",
+            "verse": 14,
+            "text": "Y mientras tú estés aún hablando con el rey, yo entraré tras de ti, y confirmaré tus palabras."
+        },
+        {
+            "id": "1ki1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces Betsabé entró a la cámara del rey; y el rey era muy viejo; y Abisag sunamita servía al rey."
+        },
+        {
+            "id": "1ki1_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Betsabé se inclinó, e hizo reverencia al rey. Y el rey dijo:"
+        },
+        {
+            "id": "1ki1_16b",
+            "speaker": "Betsabé",
+            "verse": 16,
+            "text": "¿Qué quieres?"
+        },
+        {
+            "id": "1ki1_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y ella le respondió:"
+        },
+        {
+            "id": "1ki1_17b",
+            "speaker": "Betsabé",
+            "verse": 17,
+            "text": "Señor mío, tú juraste a tu sierva por Jehová tu Dios, diciendo: Ciertamente Salomón tu hijo reinará después de mí, y él se sentará en mi trono;"
+        },
+        {
+            "id": "1ki1_18",
+            "speaker": "Betsabé",
+            "verse": 18,
+            "text": "Y he aquí ahora Adonías reina; y tú, mi señor el rey, no lo sabes."
+        },
+        {
+            "id": "1ki1_19",
+            "speaker": "Betsabé",
+            "verse": 19,
+            "text": "Ha matado bueyes y animales engordados y muchas ovejas; y ha convidado a todos los hijos del rey, y al sacerdote Abiatar y a Joab, general del ejército; mas a Salomón, tu siervo, no ha convidado."
+        },
+        {
+            "id": "1ki1_20",
+            "speaker": "Betsabé",
+            "verse": 20,
+            "text": "Entre tanto, rey señor mío, los ojos de todo Israel están sobre ti, para que les declares quién se ha de sentar en el trono de mi señor el rey después de él."
+        },
+        {
+            "id": "1ki1_21",
+            "speaker": "Betsabé",
+            "verse": 21,
+            "text": "De otra manera acontecerá que cuando mi señor el rey durmiere con sus padres, que yo y mi hijo Salomón seremos tenidos por culpables."
+        },
+        {
+            "id": "1ki1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y he aquí que mientras ella aún estaba hablando con el rey, entró el profeta Natán."
+        },
+        {
+            "id": "1ki1_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dieron aviso al rey, diciendo:"
+        },
+        {
+            "id": "1ki1_23b",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "He aquí el profeta Natán; el cual, cuando entró al rey, se postró delante del rey con su rostro en tierra."
+        },
+        {
+            "id": "1ki1_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y dijo Natán:"
+        },
+        {
+            "id": "1ki1_24b",
+            "speaker": "Natán",
+            "verse": 24,
+            "text": "Rey señor mío, ¿has dicho tú: Adonías reinará después de mí, y él se sentará en mi trono?"
+        },
+        {
+            "id": "1ki1_25a",
+            "speaker": "Natán",
+            "verse": 25,
+            "text": "Porque hoy ha descendido y ha matado bueyes, y animales engordados y muchas ovejas; y ha convidado a todos los hijos del rey, y a los capitanes del ejército, y también al sacerdote Abiatar; y he aquí, están comiendo y bebiendo delante de él, y dicen:"
+        },
+        {
+            "id": "1ki1_25b",
+            "speaker": "Natán",
+            "verse": 25,
+            "text": "¡Viva el rey Adonías!"
+        },
+        {
+            "id": "1ki1_26",
+            "speaker": "Natán",
+            "verse": 26,
+            "text": "Pero ni a mí tu siervo, ni al sacerdote Sadoc, ni a Benaía, hijo de Joiada, ni a Salomón tu siervo, ha convidado."
+        },
+        {
+            "id": "1ki1_27",
+            "speaker": "Natán",
+            "verse": 27,
+            "text": "¿Ha sido hecho esto por mi señor el rey, sin haber declarado a tu siervo quién había de sentarse en el trono de mi señor el rey después de él?"
+        },
+        {
+            "id": "1ki1_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces el rey David respondió, y dijo:"
+        },
+        {
+            "id": "1ki1_28b",
+            "speaker": "David",
+            "verse": 28,
+            "text": "Llamadme a Betsabé. Y ella entró a la presencia del rey, y se puso delante del rey."
+        },
+        {
+            "id": "1ki1_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y el rey juró, diciendo:"
+        },
+        {
+            "id": "1ki1_29b",
+            "speaker": "David",
+            "verse": 29,
+            "text": "Vive Jehová, que ha redimido mi alma de toda angustia,"
+        },
+        {
+            "id": "1ki1_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Que como yo te he jurado por Jehová, el Dios de Israel, diciendo:"
+        },
+        {
+            "id": "1ki1_30b",
+            "speaker": "David",
+            "verse": 30,
+            "text": "Tu hijo Salomón reinará después de mí, y él se sentará en mi trono en lugar mío; que así lo haré hoy."
+        },
+        {
+            "id": "1ki1_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces Betsabé se inclinó ante el rey, con su rostro a tierra, y haciendo reverencia al rey, dijo:"
+        },
+        {
+            "id": "1ki1_31b",
+            "speaker": "Betsabé",
+            "verse": 31,
+            "text": "Viva mi señor el rey David para siempre."
+        },
+        {
+            "id": "1ki1_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y el rey David dijo:"
+        },
+        {
+            "id": "1ki1_32b",
+            "speaker": "David",
+            "verse": 32,
+            "text": "Llamadme al sacerdote Sadoc, y al profeta Natán, y a Benaía hijo de Joiada. Y ellos entraron a la presencia del rey."
+        },
+        {
+            "id": "1ki1_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y el rey les dijo:"
+        },
+        {
+            "id": "1ki1_33b",
+            "speaker": "David",
+            "verse": 33,
+            "text": "Tomad con vosotros los siervos de vuestro señor, y haced subir a Salomón mi hijo en mi mula, y llevadlo a Gihón:"
+        },
+        {
+            "id": "1ki1_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y allí lo ungirán el sacerdote Sadoc y el profeta Natán por rey sobre Israel; y tocaréis trompeta, diciendo:"
+        },
+        {
+            "id": "1ki1_34b",
+            "speaker": "David",
+            "verse": 34,
+            "text": "¡Viva el rey Salomón!"
+        },
+        {
+            "id": "1ki1_35",
+            "speaker": "David",
+            "verse": 35,
+            "text": "Después iréis vosotros detrás de él, y vendrá y se sentará en mi trono, y él reinará en mi lugar; porque a él he elegido para que sea príncipe sobre Israel y sobre Judá."
+        },
+        {
+            "id": "1ki1_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces Benaía, hijo de Joiada, respondió al rey, y dijo:"
+        },
+        {
+            "id": "1ki1_36b",
+            "speaker": "Benaía",
+            "verse": 36,
+            "text": "Amén. Así lo diga Jehová, Dios de mi señor el rey."
+        },
+        {
+            "id": "1ki1_37",
+            "speaker": "Benaía",
+            "verse": 37,
+            "text": "De la manera que Jehová ha sido con mi señor el rey, así sea con Salomón; y Él haga engrandecer su trono más que el trono de mi señor el rey David."
+        },
+        {
+            "id": "1ki1_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Entonces el sacerdote Sadoc, el profeta Natán, Benaía, hijo de Joiada, los cereteos y los peleteos, descendieron y montaron a Salomón en la mula del rey David, y lo llevaron a Gihón."
+        },
+        {
+            "id": "1ki1_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y el sacerdote Sadoc tomó el cuerno del aceite del tabernáculo y ungió a Salomón. Y tocaron trompeta, y todo el pueblo dijo:"
+        },
+        {
+            "id": "1ki1_39b",
+            "speaker": "Pueblo",
+            "verse": 39,
+            "text": "¡Viva el rey Salomón!"
+        },
+        {
+            "id": "1ki1_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Después subió todo el pueblo en pos de él, y cantaba la gente con flautas, y hacían grandes alegrías, que parecía que la tierra se hundía con el estruendo de ellos."
+        },
+        {
+            "id": "1ki1_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y lo oyó Adonías, y todos los convidados que con él estaban, cuando ya habían acabado de comer. Y oyendo Joab el sonido de la trompeta, dijo:"
+        },
+        {
+            "id": "1ki1_41b",
+            "speaker": "Adonías",
+            "verse": 41,
+            "text": "¿Por qué se alborota la ciudad con estruendo?"
+        },
+        {
+            "id": "1ki1_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y mientras él aún hablaba, he aquí vino Jonatán, hijo del sacerdote Abiatar, y Adonías le dijo:"
+        },
+        {
+            "id": "1ki1_42b",
+            "speaker": "Adonías",
+            "verse": 42,
+            "text": "Entra, porque tú eres hombre valiente, y traerás buenas nuevas."
+        },
+        {
+            "id": "1ki1_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y Jonatán respondió, y dijo a Adonías:"
+        },
+        {
+            "id": "1ki1_43b",
+            "speaker": "Jonatán",
+            "verse": 43,
+            "text": "Ciertamente nuestro señor el rey David ha hecho rey a Salomón:"
+        },
+        {
+            "id": "1ki1_44",
+            "speaker": "Jonatán",
+            "verse": 44,
+            "text": "el rey ha enviado con él al sacerdote Sadoc, al profeta Natán, y a Benaía, hijo de Joiada, y también a los cereteos y a los peleteos, los cuales lo montaron en la mula del rey;"
+        },
+        {
+            "id": "1ki1_45",
+            "speaker": "Jonatán",
+            "verse": 45,
+            "text": "y el sacerdote Sadoc y el profeta Natán lo han ungido por rey en Gihón; y de allá han subido con alegrías, y la ciudad está llena de estruendo. Éste es el alboroto que habéis oído."
+        },
+        {
+            "id": "1ki1_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y también Salomón se ha sentado en el trono del reino."
+        },
+        {
+            "id": "1ki1_47a",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y aun los siervos del rey han venido a bendecir a nuestro señor el rey David, diciendo:"
+        },
+        {
+            "id": "1ki1_47b",
+            "speaker": "Siervos",
+            "verse": 47,
+            "text": "Dios haga bueno el nombre de Salomón más que tu nombre, y haga mayor su trono que tu trono. Y el rey adoró en la cama."
+        },
+        {
+            "id": "1ki1_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y también el rey habló así:"
+        },
+        {
+            "id": "1ki1_48b",
+            "speaker": "David",
+            "verse": 48,
+            "text": "Bendito sea Jehová, el Dios de Israel, que ha dado hoy quien se siente en mi trono, viéndolo mis ojos."
+        },
+        {
+            "id": "1ki1_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Ellos entonces se estremecieron, y se levantaron todos los convidados que estaban con Adonías, y se fue cada uno por su camino."
+        },
+        {
+            "id": "1ki1_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Mas Adonías, temiendo de la presencia de Salomón, se levantó y se fue, y se asió de los cuernos del altar."
+        },
+        {
+            "id": "1ki1_51a",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y fue hecho saber a Salomón, diciendo:"
+        },
+        {
+            "id": "1ki1_51b",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "He aquí que Adonías tiene miedo del rey Salomón; pues se ha asido de los cuernos del altar, diciendo: Júreme hoy el rey Salomón que no matará a espada a su siervo."
+        },
+        {
+            "id": "1ki1_52a",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y Salomón dijo:"
+        },
+        {
+            "id": "1ki1_52b",
+            "speaker": "Salomón",
+            "verse": 52,
+            "text": "Si demuestra ser un hombre de bien, ni uno de sus cabellos caerá en tierra; mas si se hallare maldad en él, morirá."
+        },
+        {
+            "id": "1ki1_53a",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y envió el rey Salomón, y lo trajeron del altar; y él vino, y se inclinó ante el rey Salomón. Y Salomón le dijo:"
+        },
+        {
+            "id": "1ki1_53b",
+            "speaker": "Salomón",
+            "verse": 53,
+            "text": "Vete a tu casa."
+        }
+    ]
+}

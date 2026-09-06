@@ -1,0 +1,193 @@
+{
+    "book": "1 Reyes",
+    "chapter": 9,
+    "title": "1 Reyes 9",
+    "messages": [
+        {
+            "id": "1ki9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y sucedió que cuando Salomón hubo acabado la obra de la casa de Jehová, y la casa real, y todo lo que Salomón quiso hacer,"
+        },
+        {
+            "id": "1ki9_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Jehová apareció a Salomón la segunda vez, como le había aparecido en Gabaón."
+        },
+        {
+            "id": "1ki9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y le dijo Jehová:"
+        },
+        {
+            "id": "1ki9_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Yo he oído tu oración y tu súplica, que has hecho en mi presencia. Yo he santificado esta casa que tú has edificado, para poner mi nombre en ella para siempre; y en ella estarán mis ojos y mi corazón todos los días."
+        },
+        {
+            "id": "1ki9_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y si tú anduvieres delante de mí, como anduvo David tu padre, en integridad de corazón y en equidad, haciendo todas las cosas que yo te he mandado, y guardando mis estatutos y mis decretos,"
+        },
+        {
+            "id": "1ki9_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Yo afirmaré el trono de tu reino sobre Israel para siempre, como hablé a David tu padre, diciendo:"
+        },
+        {
+            "id": "1ki9_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "No faltará de ti varón en el trono de Israel."
+        },
+        {
+            "id": "1ki9_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Mas si obstinadamente os apartareis de mí vosotros y vuestros hijos, y no guardareis mis mandamientos y mis estatutos que yo he puesto delante de vosotros, sino que fuereis y sirviereis a dioses ajenos, y los adorareis;"
+        },
+        {
+            "id": "1ki9_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "yo cortaré a Israel de sobre la faz de la tierra que les he entregado; y esta casa que he santificado a mi nombre, yo la echaré de delante de mí, e Israel será por proverbio y refrán a todos los pueblos;"
+        },
+        {
+            "id": "1ki9_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "y esta casa, que está en estima, cualquiera que pasare por ella se asombrará y silbará; y dirá: ¿Por qué ha hecho así Jehová a esta tierra, y a esta casa?"
+        },
+        {
+            "id": "1ki9_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y dirán: Por cuanto dejaron a Jehová su Dios, que había sacado a sus padres de tierra de Egipto, y echaron mano a dioses ajenos, y los adoraron, y los sirvieron; por eso ha traído Jehová sobre ellos todo este mal."
+        },
+        {
+            "id": "1ki9_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y aconteció al cabo de veinte años, cuando Salomón había edificado las dos casas, la casa de Jehová y la casa real"
+        },
+        {
+            "id": "1ki9_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "(Para las cuales Hiram, rey de Tiro, había traído a Salomón madera de cedro y de abeto, y cuanto oro él quiso), que el rey Salomón dio a Hiram veinte ciudades en tierra de Galilea."
+        },
+        {
+            "id": "1ki9_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y salió Hiram de Tiro para ver las ciudades que Salomón le había dado, y no le agradaron."
+        },
+        {
+            "id": "1ki9_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "1ki9_13b",
+            "speaker": "Hiram",
+            "verse": 13,
+            "text": "¿Qué ciudades son estas que me has dado, hermano? Y les puso por nombre, la tierra de Cabul, hasta hoy."
+        },
+        {
+            "id": "1ki9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y había Hiram enviado al rey ciento veinte talentos de oro."
+        },
+        {
+            "id": "1ki9_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ésta es la razón de la leva que el rey Salomón impuso para edificar la casa de Jehová, y su casa, y Milo, y el muro de Jerusalén, y Hazor, y Meguido y Gezer."
+        },
+        {
+            "id": "1ki9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Faraón el rey de Egipto había subido y tomado a Gezer, y la quemó, y dio muerte a los cananeos que habitaban la ciudad, y la dio en don a su hija, la esposa de Salomón."
+        },
+        {
+            "id": "1ki9_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Restauró, pues, Salomón a Gezer, y a la baja Bet-horón,"
+        },
+        {
+            "id": "1ki9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "y a Baalat, y a Tadmor en tierra del desierto."
+        },
+        {
+            "id": "1ki9_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Asimismo todas las ciudades donde Salomón tenía municiones, y las ciudades de los carros, y las ciudades de la gente de a caballo, y todo lo que Salomón deseó edificar en Jerusalén, en el Líbano, y en toda la tierra de su señorío."
+        },
+        {
+            "id": "1ki9_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "A todos los pueblos que quedaron de los amorreos, heteos, ferezeos, heveos, jebuseos, que no fueron de los hijos de Israel;"
+        },
+        {
+            "id": "1ki9_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "a sus hijos que quedaron en la tierra después de ellos, que los hijos de Israel no pudieron exterminar, hizo Salomón que sirviesen con tributo hasta hoy."
+        },
+        {
+            "id": "1ki9_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas a ninguno de los hijos de Israel impuso Salomón servicio, sino que eran hombres de guerra, o sus criados, o sus príncipes, o sus capitanes, o comandantes de sus carros o su gente de a caballo."
+        },
+        {
+            "id": "1ki9_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Éstos eran los jefes de los oficiales que estaban al frente de la obra de Salomón, quinientos cincuenta, los cuales supervisaban al pueblo que trabajaba en aquella obra."
+        },
+        {
+            "id": "1ki9_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y subió la hija de Faraón de la ciudad de David a su casa que Salomón le había edificado; entonces edificó él a Milo."
+        },
+        {
+            "id": "1ki9_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y ofrecía Salomón tres veces cada año holocaustos y sacrificios de paz sobre el altar que él edificó a Jehová, y quemaba incienso sobre el altar que estaba delante de Jehová. Así terminó la casa."
+        },
+        {
+            "id": "1ki9_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Hizo también el rey Salomón navíos en Ezión-geber, que está junto a Elot en la ribera del Mar Rojo, en la tierra de Edom."
+        },
+        {
+            "id": "1ki9_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y envió Hiram en ellos a sus siervos, marineros y diestros en el mar, con los siervos de Salomón;"
+        },
+        {
+            "id": "1ki9_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "los cuales fueron a Ofir, y tomaron de allí oro, cuatrocientos veinte talentos y lo trajeron al rey Salomón."
+        }
+    ]
+}

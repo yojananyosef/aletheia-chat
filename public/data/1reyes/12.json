@@ -1,0 +1,271 @@
+{
+    "book": "1 Reyes",
+    "chapter": 12,
+    "title": "1 Reyes 12",
+    "messages": [
+        {
+            "id": "1ki12_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Roboam fue a Siquem; porque todo Israel había venido a Siquem para hacerlo rey."
+        },
+        {
+            "id": "1ki12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y aconteció que cuando lo oyó Jeroboam, hijo de Nabat, que estaba en Egipto, porque había huido de delante del rey Salomón, y Jeroboam habitaba en Egipto;"
+        },
+        {
+            "id": "1ki12_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Enviaron y lo llamaron. Vino, pues, Jeroboam y toda la congregación de Israel, y hablaron a Roboam, diciendo:"
+        },
+        {
+            "id": "1ki12_4",
+            "speaker": "Jeroboam",
+            "verse": 4,
+            "text": "Tu padre agravó nuestro yugo, mas ahora tú disminuye algo de la dura servidumbre de tu padre, y del yugo pesado que puso sobre nosotros, y te serviremos."
+        },
+        {
+            "id": "1ki12_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "1ki12_5b",
+            "speaker": "Roboam",
+            "verse": 5,
+            "text": "Idos, y de aquí a tres días volved a mí. Y el pueblo se fue."
+        },
+        {
+            "id": "1ki12_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces el rey Roboam consultó con los ancianos que habían estado delante de Salomón su padre cuando vivía, y dijo:"
+        },
+        {
+            "id": "1ki12_6b",
+            "speaker": "Roboam",
+            "verse": 6,
+            "text": "¿Cómo aconsejáis vosotros que responda a este pueblo?"
+        },
+        {
+            "id": "1ki12_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y ellos le hablaron, diciendo:"
+        },
+        {
+            "id": "1ki12_7b",
+            "speaker": "Ancianos",
+            "verse": 7,
+            "text": "Si tú fueres hoy siervo de este pueblo, y lo sirvieres, y si les respondieres, y les hablares buenas palabras, ellos te servirán para siempre."
+        },
+        {
+            "id": "1ki12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Pero él dejó el consejo que los ancianos le habían dado, y pidió consejo de los jóvenes que se habían criado con él, y estaban delante de él."
+        },
+        {
+            "id": "1ki12_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "1ki12_9b",
+            "speaker": "Roboam",
+            "verse": 9,
+            "text": "¿Cómo aconsejáis vosotros que respondamos a este pueblo, que me ha hablado, diciendo: Disminuye algo del yugo que tu padre puso sobre nosotros?"
+        },
+        {
+            "id": "1ki12_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces los jóvenes que se habían criado con él, le respondieron, diciendo:"
+        },
+        {
+            "id": "1ki12_10b",
+            "speaker": "Jóvenes",
+            "verse": 10,
+            "text": "Así hablarás a este pueblo que te ha dicho estas palabras: Tu padre agravó nuestro yugo; mas tú disminúyenos algo; así les hablarás: Mi dedo meñique es más grueso que los lomos de mi padre."
+        },
+        {
+            "id": "1ki12_11",
+            "speaker": "Jóvenes",
+            "verse": 11,
+            "text": "Ahora, pues, mi padre os cargó de pesado yugo, mas yo añadiré a vuestro yugo; mi padre os castigó con azotes, mas yo os castigaré con escorpiones."
+        },
+        {
+            "id": "1ki12_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y al tercer día vino Jeroboam con todo el pueblo a Roboam; según el rey lo había mandado, diciendo:"
+        },
+        {
+            "id": "1ki12_12b",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Volved a mí al tercer día."
+        },
+        {
+            "id": "1ki12_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y el rey respondió al pueblo duramente, dejando el consejo que los ancianos le habían dado;"
+        },
+        {
+            "id": "1ki12_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y les habló conforme al consejo de los jóvenes, diciendo:"
+        },
+        {
+            "id": "1ki12_14b",
+            "speaker": "Roboam",
+            "verse": 14,
+            "text": "Mi padre agravó vuestro yugo, pero yo añadiré a vuestro yugo; mi padre os castigó con azotes, mas yo os castigaré con escorpiones."
+        },
+        {
+            "id": "1ki12_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y no oyó el rey al pueblo; porque esto venía de parte de Jehová, para confirmar la palabra que Jehová había hablado por medio de Ahías silonita a Jeroboam, hijo de Nabat."
+        },
+        {
+            "id": "1ki12_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y cuando todo el pueblo vio que el rey no les había oído, le respondió estas palabras, diciendo:"
+        },
+        {
+            "id": "1ki12_16b",
+            "speaker": "Pueblo",
+            "verse": 16,
+            "text": "¿Qué parte tenemos nosotros con David? No tenemos heredad en el hijo de Isaí. ¡Israel, a tus tiendas! ¡Provee ahora en tu casa, David! Entonces Israel se fue a sus tiendas."
+        },
+        {
+            "id": "1ki12_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas reinó Roboam sobre los hijos de Israel que moraban en las ciudades de Judá."
+        },
+        {
+            "id": "1ki12_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y el rey Roboam envió a Adoram, que estaba sobre los tributos; pero le apedreó todo Israel, y murió. Entonces el rey Roboam se apresuró para subir en su carro y huir a Jerusalén."
+        },
+        {
+            "id": "1ki12_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Así se apartó Israel de la casa de David hasta hoy."
+        },
+        {
+            "id": "1ki12_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y aconteció, que oyendo todo Israel que Jeroboam había vuelto, enviaron a llamarlo a la congregación, y lo hicieron rey sobre todo Israel, sin quedar tribu alguna que siguiese la casa de David, sino sólo la tribu de Judá."
+        },
+        {
+            "id": "1ki12_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y cuando Roboam vino a Jerusalén, juntó a toda la casa de Judá y la tribu de Benjamín, ciento ochenta mil hombres guerreros escogidos, para hacer guerra a la casa de Israel, y devolver el reino a Roboam, hijo de Salomón."
+        },
+        {
+            "id": "1ki12_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero vino palabra de Jehová a Semaías varón de Dios, diciendo:"
+        },
+        {
+            "id": "1ki12_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Habla a Roboam, hijo de Salomón, rey de Judá, y a toda la casa de Judá y de Benjamín, y a los demás del pueblo, diciendo:"
+        },
+        {
+            "id": "1ki12_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "1ki12_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "No vayáis, ni peleéis contra vuestros hermanos los hijos de Israel; volveos cada uno a su casa; porque esto lo he hecho yo. Y ellos oyeron la palabra de Dios, y se volvieron, y se fueron, conforme a la palabra de Jehová."
+        },
+        {
+            "id": "1ki12_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y reedificó Jeroboam a Siquem en el monte de Efraín, y habitó en ella; y saliendo de allí, reedificó a Peniel."
+        },
+        {
+            "id": "1ki12_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y dijo Jeroboam en su corazón:"
+        },
+        {
+            "id": "1ki12_26b",
+            "speaker": "Jeroboam",
+            "verse": 26,
+            "text": "Ahora se volverá el reino a la casa de David,"
+        },
+        {
+            "id": "1ki12_27",
+            "speaker": "Jeroboam",
+            "verse": 27,
+            "text": "si este pueblo subiere a ofrecer sacrificios en la casa de Jehová en Jerusalén; porque el corazón de este pueblo se volverá a su señor Roboam, rey de Judá, y me matarán, y se volverán a Roboam, rey de Judá."
+        },
+        {
+            "id": "1ki12_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y habiendo tomado consejo, hizo el rey dos becerros de oro, y dijo al pueblo:"
+        },
+        {
+            "id": "1ki12_28b",
+            "speaker": "Jeroboam",
+            "verse": 28,
+            "text": "Bastante habéis subido a Jerusalén; he aquí tus dioses, oh Israel, que te hicieron subir de la tierra de Egipto."
+        },
+        {
+            "id": "1ki12_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y el uno lo puso en Betel, y el otro lo puso en Dan."
+        },
+        {
+            "id": "1ki12_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y esto fue ocasión de pecado; porque el pueblo iba a adorar delante de uno, aun hasta Dan."
+        },
+        {
+            "id": "1ki12_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Hizo también la casa de los lugares altos, e hizo sacerdotes de la clase baja del pueblo, que no eran de los hijos de Leví."
+        },
+        {
+            "id": "1ki12_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Entonces instituyó Jeroboam fiesta solemne en el mes octavo, a los quince del mes, conforme a la fiesta solemne que se celebraba en Judá; y sacrificó sobre el altar. Así hizo en Betel, ofreciendo sacrificio a los becerros que había hecho. Y estableció en Betel a los sacerdotes de los lugares altos que él había edificado."
+        },
+        {
+            "id": "1ki12_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Sacrificó, pues, sobre el altar que él había hecho en Betel, a los quince del mes octavo, el mes que él había inventado de su propio corazón; e hizo fiesta a los hijos de Israel, y subió al altar para quemar incienso."
+        }
+    ]
+}

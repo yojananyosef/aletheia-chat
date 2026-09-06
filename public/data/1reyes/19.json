@@ -1,0 +1,211 @@
+{
+    "book": "1 Reyes",
+    "chapter": 19,
+    "title": "1 Reyes 19",
+    "messages": [
+        {
+            "id": "1ki19_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Acab dio la nueva a Jezabel de todo lo que Elías había hecho, de cómo había matado a espada a todos los profetas."
+        },
+        {
+            "id": "1ki19_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces Jezabel envió un mensajero a Elías, diciendo:"
+        },
+        {
+            "id": "1ki19_2b",
+            "speaker": "Mensajero",
+            "verse": 2,
+            "text": "Así me hagan los dioses, y así me añadan, si mañana a estas horas yo no he puesto tu vida como la vida de uno de ellos."
+        },
+        {
+            "id": "1ki19_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Viendo pues el peligro, se levantó y se fue para salvar su vida, y vino a Beerseba, que es en Judá, y dejó allí su criado."
+        },
+        {
+            "id": "1ki19_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y él se fue por el desierto un día de camino, y vino y se sentó debajo de un enebro; y deseando morirse, dijo:"
+        },
+        {
+            "id": "1ki19_4b",
+            "speaker": "Elías",
+            "verse": 4,
+            "text": "Baste ya, oh Jehová, quítame la vida; pues no soy yo mejor que mis padres."
+        },
+        {
+            "id": "1ki19_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y echándose debajo del enebro, se quedó dormido. Y he aquí luego un ángel le tocó, y le dijo:"
+        },
+        {
+            "id": "1ki19_5b",
+            "speaker": "Ángel",
+            "verse": 5,
+            "text": "Levántate, come."
+        },
+        {
+            "id": "1ki19_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces él miró, y he aquí a su cabecera una torta cocida sobre las ascuas, y un vaso de agua: y comió y bebió y se volvió a dormir."
+        },
+        {
+            "id": "1ki19_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y volviendo el ángel de Jehová la segunda vez, le tocó y le dijo:"
+        },
+        {
+            "id": "1ki19_7b",
+            "speaker": "Ángel",
+            "verse": 7,
+            "text": "Levántate y come, porque la jornada es muy grande para ti."
+        },
+        {
+            "id": "1ki19_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Se levantó, pues, y comió y bebió; y con la fortaleza de aquella comida caminó cuarenta días y cuarenta noches, hasta el monte de Dios, Horeb."
+        },
+        {
+            "id": "1ki19_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y allí se metió en una cueva, donde pasó la noche. Y he aquí vino a él palabra de Jehová, el cual le dijo:"
+        },
+        {
+            "id": "1ki19_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Qué haces aquí, Elías?"
+        },
+        {
+            "id": "1ki19_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1ki19_10b",
+            "speaker": "Elías",
+            "verse": 10,
+            "text": "He sentido un vivo celo por Jehová Dios de los ejércitos; porque los hijos de Israel han dejado tu pacto, han derribado tus altares, y han matado a espada a tus profetas: y sólo yo he quedado, y me buscan para quitarme la vida."
+        },
+        {
+            "id": "1ki19_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "1ki19_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Sal fuera, y ponte en el monte delante de Jehová. Y he aquí Jehová que pasaba, y un grande y poderoso viento que rompía los montes, y quebraba las peñas delante de Jehová; pero Jehová no estaba en el viento. Y tras el viento un terremoto; pero Jehová no estaba en el terremoto."
+        },
+        {
+            "id": "1ki19_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y tras el terremoto un fuego; pero Jehová no estaba en el fuego. Y tras el fuego una voz suave y apacible."
+        },
+        {
+            "id": "1ki19_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y al oírla Elías, cubrió su rostro con su manto, y salió, y se paró a la puerta de la cueva. Y he aquí vino una voz a él, diciendo:"
+        },
+        {
+            "id": "1ki19_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "¿Qué haces aquí, Elías?"
+        },
+        {
+            "id": "1ki19_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1ki19_14b",
+            "speaker": "Elías",
+            "verse": 14,
+            "text": "He sentido un vivo celo por Jehová, Dios de los ejércitos; porque los hijos de Israel han dejado tu pacto, han derribado tus altares, y han matado a espada a tus profetas; y sólo yo he quedado, y me buscan para quitarme la vida."
+        },
+        {
+            "id": "1ki19_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y le dijo Jehová:"
+        },
+        {
+            "id": "1ki19_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Ve, vuelve por tu camino, por el desierto de Damasco: y llegarás, y ungirás a Hazael por rey de Siria;"
+        },
+        {
+            "id": "1ki19_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y a Jehú, hijo de Nimsi, ungirás por rey sobre Israel; y a Eliseo, hijo de Safat, de Abel-mehola, ungirás para que sea profeta en tu lugar."
+        },
+        {
+            "id": "1ki19_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Y será, que el que escapare de la espada de Hazael, Jehú lo matará; y el que escapare de la espada de Jehú, Eliseo lo matará."
+        },
+        {
+            "id": "1ki19_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Pero yo he hecho que queden en Israel siete mil, cuyas rodillas no se doblaron ante Baal, y cuyas bocas no lo besaron."
+        },
+        {
+            "id": "1ki19_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y partiendo él de allí, halló a Eliseo, hijo de Safat, que araba con doce yuntas de bueyes delante de sí; y él tenía la última. Y pasando Elías por delante de él, echó sobre él su manto."
+        },
+        {
+            "id": "1ki19_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces dejando él los bueyes, vino corriendo en pos de Elías, y dijo:"
+        },
+        {
+            "id": "1ki19_20b",
+            "speaker": "Eliseo",
+            "verse": 20,
+            "text": "Te ruego que me dejes besar a mi padre y a mi madre, y luego te seguiré."
+        },
+        {
+            "id": "1ki19_20c",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "1ki19_20d",
+            "speaker": "Elías",
+            "verse": 20,
+            "text": "Ve, vuelve; ¿qué te he hecho yo?"
+        },
+        {
+            "id": "1ki19_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y se volvió de en pos de él, y tomó un par de bueyes, y los mató, y con el arado de los bueyes coció la carne de éstos, y la dio al pueblo y ellos comieron. Después se levantó y fue tras Elías, y le servía."
+        }
+    ]
+}

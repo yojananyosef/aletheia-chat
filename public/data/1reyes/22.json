@@ -1,0 +1,589 @@
+{
+    "book": "1 Reyes",
+    "chapter": 22,
+    "title": "1 Reyes 22",
+    "messages": [
+        {
+            "id": "1ki22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Tres años pasaron sin guerra entre los sirios e Israel."
+        },
+        {
+            "id": "1ki22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y aconteció al tercer año, que Josafat, rey de Judá, descendió al rey de Israel."
+        },
+        {
+            "id": "1ki22_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y el rey de Israel dijo a sus siervos:"
+        },
+        {
+            "id": "1ki22_3b",
+            "speaker": "Acab",
+            "verse": 3,
+            "text": "¿No sabéis que Ramot de Galaad es nuestra, y nosotros no hemos hecho nada para tomarla de mano del rey de Siria?"
+        },
+        {
+            "id": "1ki22_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y dijo a Josafat:"
+        },
+        {
+            "id": "1ki22_4b",
+            "speaker": "Acab",
+            "verse": 4,
+            "text": "¿Quieres venir conmigo a pelear contra Ramot de Galaad?"
+        },
+        {
+            "id": "1ki22_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Josafat respondió al rey de Israel:"
+        },
+        {
+            "id": "1ki22_4d",
+            "speaker": "Josafat",
+            "verse": 4,
+            "text": "Yo soy como tú, y mi pueblo como tu pueblo, y mis caballos como tus caballos."
+        },
+        {
+            "id": "1ki22_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y dijo luego Josafat al rey de Israel:"
+        },
+        {
+            "id": "1ki22_5b",
+            "speaker": "Josafat",
+            "verse": 5,
+            "text": "Yo te ruego que consultes hoy la palabra de Jehová."
+        },
+        {
+            "id": "1ki22_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces el rey de Israel reunió a los profetas, como cuatrocientos hombres, a los cuales dijo:"
+        },
+        {
+            "id": "1ki22_6b",
+            "speaker": "Hombres",
+            "verse": 6,
+            "text": "¿Iré a la guerra contra Ramot de Galaad, o la dejaré?"
+        },
+        {
+            "id": "1ki22_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "1ki22_6d",
+            "speaker": "Acab",
+            "verse": 6,
+            "text": "Sube; porque el Señor la entregará en mano del rey."
+        },
+        {
+            "id": "1ki22_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo Josafat:"
+        },
+        {
+            "id": "1ki22_7b",
+            "speaker": "Josafat",
+            "verse": 7,
+            "text": "¿Hay aún aquí algún profeta de Jehová, por el cual consultemos?"
+        },
+        {
+            "id": "1ki22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y el rey de Israel respondió a Josafat:"
+        },
+        {
+            "id": "1ki22_8b",
+            "speaker": "Acab",
+            "verse": 8,
+            "text": "Aún hay un varón por el cual podríamos consultar a Jehová, Micaías, hijo de Imla; mas yo le aborrezco, porque nunca me profetiza bien, sino solamente mal."
+        },
+        {
+            "id": "1ki22_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Josafat dijo:"
+        },
+        {
+            "id": "1ki22_8d",
+            "speaker": "Josafat",
+            "verse": 8,
+            "text": "No hable el rey así."
+        },
+        {
+            "id": "1ki22_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces el rey de Israel llamó a un oficial, y le dijo:"
+        },
+        {
+            "id": "1ki22_9b",
+            "speaker": "Acab",
+            "verse": 9,
+            "text": "Trae pronto a Micaías, hijo de Imla."
+        },
+        {
+            "id": "1ki22_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el rey de Israel y Josafat rey de Judá estaban sentados cada uno en su trono, vestidos de sus ropas reales, en la plaza junto a la entrada de la puerta de Samaria; y todos los profetas profetizaban delante de ellos."
+        },
+        {
+            "id": "1ki22_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Sedequías, hijo de Quenaana, se había hecho unos cuernos de hierro, y dijo:"
+        },
+        {
+            "id": "1ki22_11b",
+            "speaker": "Sedequías",
+            "verse": 11,
+            "text": "Así dice Jehová: Con éstos acornearás a los sirios hasta acabarlos."
+        },
+        {
+            "id": "1ki22_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y todos los profetas profetizaban de la misma manera, diciendo:"
+        },
+        {
+            "id": "1ki22_12b",
+            "speaker": "Profeta",
+            "verse": 12,
+            "text": "Sube a Ramot de Galaad, y serás prosperado; porque Jehová la entregará en mano del rey."
+        },
+        {
+            "id": "1ki22_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y el mensajero que había ido a llamar a Micaías, le habló, diciendo:"
+        },
+        {
+            "id": "1ki22_13b",
+            "speaker": "Mensajero",
+            "verse": 13,
+            "text": "He aquí las palabras de los profetas a una boca anuncian al rey el bien; sea ahora tu palabra conforme a la palabra de alguno de ellos, y anuncia el bien."
+        },
+        {
+            "id": "1ki22_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Micaías respondió:"
+        },
+        {
+            "id": "1ki22_14b",
+            "speaker": "Micaías",
+            "verse": 14,
+            "text": "Vive Jehová, que lo que Jehová me hablare, eso diré."
+        },
+        {
+            "id": "1ki22_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Vino, pues, al rey, y el rey le dijo:"
+        },
+        {
+            "id": "1ki22_15b",
+            "speaker": "Acab",
+            "verse": 15,
+            "text": "Micaías, ¿iremos a pelear contra Ramot de Galaad, o la dejaremos?"
+        },
+        {
+            "id": "1ki22_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1ki22_15d",
+            "speaker": "Micaías",
+            "verse": 15,
+            "text": "Sube, que serás prosperado, y Jehová la entregará en mano del rey."
+        },
+        {
+            "id": "1ki22_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y el rey le dijo:"
+        },
+        {
+            "id": "1ki22_16b",
+            "speaker": "Acab",
+            "verse": 16,
+            "text": "¿Hasta cuántas veces he de hacerte jurar que no me digas sino la verdad en el nombre de Jehová?"
+        },
+        {
+            "id": "1ki22_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces él dijo:"
+        },
+        {
+            "id": "1ki22_17b",
+            "speaker": "Micaías",
+            "verse": 17,
+            "text": "Yo vi a todo Israel esparcido por los montes, como ovejas que no tienen pastor; y Jehová dijo: Éstos no tienen señor; vuélvase cada uno a su casa en paz."
+        },
+        {
+            "id": "1ki22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y el rey de Israel dijo a Josafat:"
+        },
+        {
+            "id": "1ki22_18b",
+            "speaker": "Acab",
+            "verse": 18,
+            "text": "¿No te había dicho yo que ninguna cosa buena profetizaría él acerca de mí, sino solamente mal?"
+        },
+        {
+            "id": "1ki22_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces él dijo:"
+        },
+        {
+            "id": "1ki22_19b",
+            "speaker": "Micaías",
+            "verse": 19,
+            "text": "Oye pues palabra de Jehová: Yo vi a Jehová sentado en su trono, y todo el ejército del cielo estaba junto a Él, a su derecha y a su izquierda."
+        },
+        {
+            "id": "1ki22_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Jehová dijo:"
+        },
+        {
+            "id": "1ki22_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "¿Quién inducirá a Acab, para que suba y caiga en Ramot de Galaad? Y uno decía de una manera; y otro decía de otra."
+        },
+        {
+            "id": "1ki22_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y salió un espíritu y se puso delante de Jehová, y dijo:"
+        },
+        {
+            "id": "1ki22_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Yo lo induciré."
+        },
+        {
+            "id": "1ki22_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Jehová le dijo:"
+        },
+        {
+            "id": "1ki22_22b",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "¿De qué manera?"
+        },
+        {
+            "id": "1ki22_22c",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1ki22_22d",
+            "speaker": "Micaías",
+            "verse": 22,
+            "text": "Yo saldré y seré espíritu de mentira en boca de todos sus profetas."
+        },
+        {
+            "id": "1ki22_22e",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "1ki22_22f",
+            "speaker": "Micaías",
+            "verse": 22,
+            "text": "Tú lo inducirás y prevalecerás; ve, pues, y hazlo así."
+        },
+        {
+            "id": "1ki22_23",
+            "speaker": "Micaías",
+            "verse": 23,
+            "text": "Y ahora, he aquí Jehová ha puesto espíritu de mentira en la boca de todos estos tus profetas, y Jehová ha decretado el mal acerca de ti."
+        },
+        {
+            "id": "1ki22_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pero Sedequías, hijo de Quenaana, se acercó, e hirió a Micaías en la mejilla, diciendo:"
+        },
+        {
+            "id": "1ki22_24b",
+            "speaker": "Sedequías",
+            "verse": 24,
+            "text": "¿Por dónde se fue de mí el Espíritu de Jehová para hablarte a ti?"
+        },
+        {
+            "id": "1ki22_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Micaías respondió:"
+        },
+        {
+            "id": "1ki22_25b",
+            "speaker": "Micaías",
+            "verse": 25,
+            "text": "He aquí, tú lo verás en aquel día, cuando te irás metiendo de cámara en cámara para esconderte."
+        },
+        {
+            "id": "1ki22_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces el rey de Israel dijo:"
+        },
+        {
+            "id": "1ki22_26b",
+            "speaker": "Acab",
+            "verse": 26,
+            "text": "Toma a Micaías, y vuélvelo a Amón, gobernador de la ciudad, y a Joás, hijo del rey;"
+        },
+        {
+            "id": "1ki22_27a",
+            "speaker": "Acab",
+            "verse": 27,
+            "text": "Y dirás: Así ha dicho el rey:"
+        },
+        {
+            "id": "1ki22_27b",
+            "speaker": "Acab",
+            "verse": 27,
+            "text": "Echad a éste en la cárcel, y mantenedle con pan de angustia y con agua de aflicción, hasta que yo vuelva en paz."
+        },
+        {
+            "id": "1ki22_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dijo Micaías:"
+        },
+        {
+            "id": "1ki22_28b",
+            "speaker": "Micaías",
+            "verse": 28,
+            "text": "Si llegares a volver en paz, Jehová no ha hablado por mí."
+        },
+        {
+            "id": "1ki22_28c",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "En seguida dijo:"
+        },
+        {
+            "id": "1ki22_28d",
+            "speaker": "Micaías",
+            "verse": 28,
+            "text": "Oíd, pueblos todos."
+        },
+        {
+            "id": "1ki22_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Subió, pues, el rey de Israel con Josafat, rey de Judá, a Ramot de Galaad."
+        },
+        {
+            "id": "1ki22_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y el rey de Israel dijo a Josafat:"
+        },
+        {
+            "id": "1ki22_30b",
+            "speaker": "Acab",
+            "verse": 30,
+            "text": "Yo me disfrazaré, y entraré en la batalla; y tú vístete tus vestiduras. Y el rey de Israel se disfrazó y entró en la batalla."
+        },
+        {
+            "id": "1ki22_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Mas el rey de Siria había mandado a sus treinta y dos capitanes de los carros, diciendo:"
+        },
+        {
+            "id": "1ki22_31b",
+            "speaker": "Rey de Siria",
+            "verse": 31,
+            "text": "No peleéis ni con grande ni con chico, sino sólo contra el rey de Israel."
+        },
+        {
+            "id": "1ki22_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y sucedió que cuando los capitanes de los carros vieron a Josafat, dijeron:"
+        },
+        {
+            "id": "1ki22_32b",
+            "speaker": "Capitanes",
+            "verse": 32,
+            "text": "Ciertamente éste es el rey de Israel, y se desviaron para pelear contra él; pero el rey Josafat dio voces."
+        },
+        {
+            "id": "1ki22_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Viendo entonces los capitanes de los carros que no era el rey de Israel, se apartaron de él."
+        },
+        {
+            "id": "1ki22_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y un hombre disparando su arco a la ventura, hirió al rey de Israel por entre las junturas de la armadura; por lo que dijo él a su carretero:"
+        },
+        {
+            "id": "1ki22_34b",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Da la vuelta y sácame del campo, pues estoy herido."
+        },
+        {
+            "id": "1ki22_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Mas la batalla había arreciado aquel día, y el rey estuvo en su carro delante de los sirios, y a la tarde murió; y la sangre de la herida corrió hasta el fondo del carro."
+        },
+        {
+            "id": "1ki22_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y a la puesta del sol salió un pregón por el campamento que decía:"
+        },
+        {
+            "id": "1ki22_36b",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "¡Cada uno a su ciudad, y cada cual a su tierra!"
+        },
+        {
+            "id": "1ki22_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Murió, pues, el rey, y fue traído a Samaria; y sepultaron al rey en Samaria."
+        },
+        {
+            "id": "1ki22_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y lavaron el carro en el estanque de Samaria; lavaron también sus armas; y los perros lamieron su sangre, conforme a la palabra de Jehová que había hablado."
+        },
+        {
+            "id": "1ki22_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Los demás hechos de Acab, y todo lo que hizo, y la casa de marfil que construyó, y todas las ciudades que edificó, ¿no están escritos en el libro de las crónicas de los reyes de Israel?"
+        },
+        {
+            "id": "1ki22_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y durmió Acab con sus padres, y Ocozías su hijo reinó en su lugar."
+        },
+        {
+            "id": "1ki22_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y Josafat hijo de Asa comenzó a reinar sobre Judá en el cuarto año de Acab, rey de Israel."
+        },
+        {
+            "id": "1ki22_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y era Josafat de treinta y cinco años cuando comenzó a reinar, y reinó veinticinco años en Jerusalén. El nombre de su madre fue Azuba, hija de Silhi."
+        },
+        {
+            "id": "1ki22_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y anduvo en todos los caminos de Asa, su padre, sin declinar de ellos, haciendo lo recto en los ojos de Jehová. Con todo eso, los lugares altos no fueron quitados; pues el pueblo aún sacrificaba y quemaba incienso en los lugares altos."
+        },
+        {
+            "id": "1ki22_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y Josafat hizo paz con el rey de Israel."
+        },
+        {
+            "id": "1ki22_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Los demás hechos de Josafat, y sus hazañas, y las guerras que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá?"
+        },
+        {
+            "id": "1ki22_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Barrió también de la tierra al resto de los sodomitas que habían quedado en el tiempo de su padre Asa."
+        },
+        {
+            "id": "1ki22_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "No había entonces rey en Edom; había gobernador en lugar de rey."
+        },
+        {
+            "id": "1ki22_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Josafat había hecho navíos en Tarsis, los cuales habían de ir a Ofir por oro; mas no fueron, porque se rompieron en Ezión-geber."
+        },
+        {
+            "id": "1ki22_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Entonces Ocozías, hijo de Acab, dijo a Josafat:"
+        },
+        {
+            "id": "1ki22_49b",
+            "speaker": "Ocozías",
+            "verse": 49,
+            "text": "Vayan mis siervos con los tus siervos en los navíos. Mas Josafat no quiso."
+        },
+        {
+            "id": "1ki22_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y durmió Josafat con sus padres, y fue sepultado con sus padres en la ciudad de David su padre; y Joram su hijo reinó en su lugar."
+        },
+        {
+            "id": "1ki22_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y Ocozías, hijo de Acab, comenzó a reinar sobre Israel en Samaria, el año diecisiete de Josafat, rey de Judá; y reinó dos años sobre Israel."
+        },
+        {
+            "id": "1ki22_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "E hizo lo malo ante los ojos de Jehová, y anduvo en el camino de su padre, y en el camino de su madre, y en el camino de Jeroboam, hijo de Nabat, que hizo pecar a Israel:"
+        },
+        {
+            "id": "1ki22_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Porque sirvió a Baal y lo adoró, y provocó a ira a Jehová, el Dios de Israel, conforme a todas las cosas que su padre había hecho."
+        }
+    ]
+}

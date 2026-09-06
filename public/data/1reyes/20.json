@@ -1,0 +1,481 @@
+{
+    "book": "1 Reyes",
+    "chapter": 20,
+    "title": "1 Reyes 20",
+    "messages": [
+        {
+            "id": "1ki20_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces Benadad, rey de Siria reunió a todo su ejército, y con él a treinta y dos reyes, con caballos y carros; y subió y sitió a Samaria, y la combatió."
+        },
+        {
+            "id": "1ki20_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y envió mensajeros a la ciudad a Acab, rey de Israel, diciendo:"
+        },
+        {
+            "id": "1ki20_2b",
+            "speaker": "Mensajero",
+            "verse": 2,
+            "text": "Así dice Benadad:"
+        },
+        {
+            "id": "1ki20_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Tu plata y tu oro son míos, y tus esposas y tus hijos hermosos son míos."
+        },
+        {
+            "id": "1ki20_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y el rey de Israel respondió, y dijo:"
+        },
+        {
+            "id": "1ki20_4b",
+            "speaker": "Acab",
+            "verse": 4,
+            "text": "Como tú dices, rey señor mío, yo soy tuyo, y todo lo que tengo."
+        },
+        {
+            "id": "1ki20_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y volviendo los mensajeros otra vez, dijeron:"
+        },
+        {
+            "id": "1ki20_5b",
+            "speaker": "Mensajero",
+            "verse": 5,
+            "text": "Así dijo Benadad: Yo te envié a decir: Tu plata y tu oro, y tus esposas y tus hijos me darás."
+        },
+        {
+            "id": "1ki20_6",
+            "speaker": "Mensajero",
+            "verse": 6,
+            "text": "Además mañana a estas horas enviaré yo a ti mis siervos, los cuales inspeccionarán tu casa, y las casas de tus siervos; y sucederá que todo lo precioso que tienes ellos lo tomarán con sus manos y se lo llevarán."
+        },
+        {
+            "id": "1ki20_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces el rey de Israel llamó a todos los ancianos de la tierra, y les dijo:"
+        },
+        {
+            "id": "1ki20_7b",
+            "speaker": "Acab",
+            "verse": 7,
+            "text": "Entended, y ved ahora cómo éste no busca sino mal; pues ha enviado a mí por mis esposas y mis hijos, y por mi plata y por mi oro; y yo no se lo he negado."
+        },
+        {
+            "id": "1ki20_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y todos los ancianos y todo el pueblo le respondieron:"
+        },
+        {
+            "id": "1ki20_8b",
+            "speaker": "Ancianos",
+            "verse": 8,
+            "text": "No le obedezcas, ni hagas lo que te pide."
+        },
+        {
+            "id": "1ki20_9a",
+            "speaker": "Acab",
+            "verse": 9,
+            "text": "Entonces él respondió a los embajadores de Benadad:"
+        },
+        {
+            "id": "1ki20_9b",
+            "speaker": "Acab",
+            "verse": 9,
+            "text": "Decid al rey mi señor: Haré todo lo que mandaste a tu siervo al principio; pero esto no lo puedo hacer. Y los embajadores fueron, y le dieron la respuesta."
+        },
+        {
+            "id": "1ki20_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Benadad envió a decirle:"
+        },
+        {
+            "id": "1ki20_10b",
+            "speaker": "Benadad",
+            "verse": 10,
+            "text": "Así me hagan los dioses, y aun me añadan, que el polvo de Samaria no bastará a los puños de todo el pueblo que me sigue."
+        },
+        {
+            "id": "1ki20_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y el rey de Israel respondió, y dijo:"
+        },
+        {
+            "id": "1ki20_11b",
+            "speaker": "Acab",
+            "verse": 11,
+            "text": "Decidle, que no se alabe el que se ciñe las armas, como el que las desciñe."
+        },
+        {
+            "id": "1ki20_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando Benadad oyó esta palabra, estaba bebiendo con los reyes en las tiendas, y dijo a sus siervos:"
+        },
+        {
+            "id": "1ki20_12b",
+            "speaker": "Benadad",
+            "verse": 12,
+            "text": "Tomad posiciones. Y ellos tomaron posiciones contra la ciudad."
+        },
+        {
+            "id": "1ki20_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y he aquí un profeta se acercó a Acab, rey de Israel, y le dijo:"
+        },
+        {
+            "id": "1ki20_13b",
+            "speaker": "Profeta",
+            "verse": 13,
+            "text": "Así dice Jehová: ¿Has visto toda esta gran multitud? He aquí yo la entregaré hoy en tu mano, para que sepas que yo soy Jehová."
+        },
+        {
+            "id": "1ki20_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y respondió Acab:"
+        },
+        {
+            "id": "1ki20_14b",
+            "speaker": "Acab",
+            "verse": 14,
+            "text": "¿Por mano de quién?"
+        },
+        {
+            "id": "1ki20_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1ki20_14d",
+            "speaker": "Profeta",
+            "verse": 14,
+            "text": "Así dice Jehová: Por mano de los jóvenes de los príncipes de las provincias."
+        },
+        {
+            "id": "1ki20_14e",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y dijo Acab:"
+        },
+        {
+            "id": "1ki20_14f",
+            "speaker": "Acab",
+            "verse": 14,
+            "text": "¿Quién comenzará la batalla?"
+        },
+        {
+            "id": "1ki20_14g",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1ki20_14h",
+            "speaker": "Profeta",
+            "verse": 14,
+            "text": "Tú."
+        },
+        {
+            "id": "1ki20_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces él pasó revista a los jóvenes de los príncipes de las provincias, los cuales fueron doscientos treinta y dos. Luego pasó revista a todo el pueblo, a todos los hijos de Israel, que fueron siete mil."
+        },
+        {
+            "id": "1ki20_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y salieron al mediodía. Pero Benadad estaba bebiendo, emborrachándose en las tiendas, él y los reyes, los treinta y dos reyes que habían venido en su ayuda."
+        },
+        {
+            "id": "1ki20_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los jóvenes de los príncipes de las provincias salieron primero. Y Benadad había enviado mensajeros quienes le dieron aviso, diciendo:"
+        },
+        {
+            "id": "1ki20_17b",
+            "speaker": "Mensajero",
+            "verse": 17,
+            "text": "Han salido hombres de Samaria."
+        },
+        {
+            "id": "1ki20_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Él entonces dijo:"
+        },
+        {
+            "id": "1ki20_18b",
+            "speaker": "Benadad",
+            "verse": 18,
+            "text": "Si han salido por paz, tomadlos vivos; y si han salido para pelear, tomadlos vivos."
+        },
+        {
+            "id": "1ki20_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Salieron, pues, de la ciudad los jóvenes de los príncipes de las provincias, y en pos de ellos el ejército."
+        },
+        {
+            "id": "1ki20_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y mató cada uno al que venía contra él: y huyeron los sirios, siguiéndolos los de Israel. Y Benadad, rey de Siria, se escapó en un caballo con alguna gente de a caballo."
+        },
+        {
+            "id": "1ki20_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y salió el rey de Israel, e hirió la gente de a caballo, y los carros; y deshizo a los sirios con grande estrago."
+        },
+        {
+            "id": "1ki20_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Vino luego el profeta al rey de Israel y le dijo:"
+        },
+        {
+            "id": "1ki20_22b",
+            "speaker": "Profeta",
+            "verse": 22,
+            "text": "Ve, fortalécete, y considera y mira lo que has de hacer; porque pasado el año, el rey de Siria vendrá contra ti."
+        },
+        {
+            "id": "1ki20_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y los siervos del rey de Siria le dijeron:"
+        },
+        {
+            "id": "1ki20_23b",
+            "speaker": "Siervos",
+            "verse": 23,
+            "text": "Sus dioses son dioses de las montañas, por eso nos han vencido; mas si peleáremos con ellos en el valle, se verá si no los vencemos."
+        },
+        {
+            "id": "1ki20_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Haz, pues, así: Saca a los reyes, a cada uno de su puesto, y pon capitanes en su lugar."
+        },
+        {
+            "id": "1ki20_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y tú, fórmate otro ejército como el ejército que perdiste, caballos por caballos, y carros por carros; luego pelearemos con ellos en el valle, y veremos si no los vencemos. Y él les dio oído, y lo hizo así."
+        },
+        {
+            "id": "1ki20_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y aconteció que pasado el año, Benadad pasó revista a los sirios, y vino a Afec a pelear contra Israel."
+        },
+        {
+            "id": "1ki20_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y los hijos de Israel fueron también inspeccionados, y tomando provisiones vinieron a encontrarles; y acamparon los hijos de Israel delante de ellos, como dos rebañuelos de cabras; y los sirios llenaban la tierra."
+        },
+        {
+            "id": "1ki20_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Acercándose entonces el varón de Dios al rey de Israel, le habló diciendo:"
+        },
+        {
+            "id": "1ki20_28b",
+            "speaker": "Varón de Dios",
+            "verse": 28,
+            "text": "Así dice Jehová: Por cuanto los sirios han dicho, Jehová es Dios de las montañas, y no Dios de los valles, yo entregaré toda esta gran multitud en tu mano, y sabrás que yo soy Jehová."
+        },
+        {
+            "id": "1ki20_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Siete días estuvieron acampados los unos delante de los otros, y al séptimo día se dio la batalla; y los hijos de Israel mataron de los sirios en un solo día a cien mil hombres de a pie."
+        },
+        {
+            "id": "1ki20_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Los demás huyeron a Afec, a la ciudad; y el muro cayó sobre veintisiete mil hombres que habían quedado. También Benadad vino huyendo a la ciudad, y se escondía de cámara en cámara."
+        },
+        {
+            "id": "1ki20_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces sus siervos le dijeron:"
+        },
+        {
+            "id": "1ki20_31b",
+            "speaker": "Siervos",
+            "verse": 31,
+            "text": "He aquí, hemos oído que los reyes de la casa de Israel son reyes misericordiosos; pongamos, pues, ahora cilicio en nuestros lomos, y cuerdas sobre nuestras cabezas, y salgamos al rey de Israel; quizá por ventura te salve la vida."
+        },
+        {
+            "id": "1ki20_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Ciñeron, pues, sus lomos de cilicio y pusieron cuerdas sobre sus cabezas, y vinieron al rey de Israel y le dijeron:"
+        },
+        {
+            "id": "1ki20_32b",
+            "speaker": "Siervos",
+            "verse": 32,
+            "text": "Tu siervo Benadad dice: Te ruego que viva mi alma."
+        },
+        {
+            "id": "1ki20_32c",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "1ki20_32d",
+            "speaker": "Acab",
+            "verse": 32,
+            "text": "¿Vive todavía? Él es mi hermano."
+        },
+        {
+            "id": "1ki20_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Esto tomaron aquellos hombres por buen augurio, y presto tomaron esta palabra de su boca, y dijeron:"
+        },
+        {
+            "id": "1ki20_33b",
+            "speaker": "Hombres",
+            "verse": 33,
+            "text": "¡Tu hermano Benadad vive!"
+        },
+        {
+            "id": "1ki20_33c",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "1ki20_33d",
+            "speaker": "Acab",
+            "verse": 33,
+            "text": "Id, y traedle. Benadad entonces se presentó a Acab, y él le hizo subir en un carro."
+        },
+        {
+            "id": "1ki20_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y le dijo Benadad:"
+        },
+        {
+            "id": "1ki20_34b",
+            "speaker": "Benadad",
+            "verse": 34,
+            "text": "Las ciudades que mi padre tomó de tu padre, yo las restituiré; y haz plazas en Damasco para ti, como mi padre las hizo en Samaria. Y yo, dijo Acab, te dejaré partir con este pacto. Hizo, pues, pacto con él, y le dejó ir."
+        },
+        {
+            "id": "1ki20_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Entonces un varón de los hijos de los profetas dijo a su compañero por palabra de Dios:"
+        },
+        {
+            "id": "1ki20_35b",
+            "speaker": "Profeta",
+            "verse": 35,
+            "text": "Hiéreme ahora. Mas el otro varón no quiso herirle."
+        },
+        {
+            "id": "1ki20_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "1ki20_36b",
+            "speaker": "Profeta",
+            "verse": 36,
+            "text": "Por cuanto no has obedecido a la palabra de Jehová, he aquí que cuando te apartes de mí, te herirá un león. Y tan pronto se apartó de él, lo topó un león, y lo mató."
+        },
+        {
+            "id": "1ki20_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Luego se encontró con otro hombre, y le dijo:"
+        },
+        {
+            "id": "1ki20_37b",
+            "speaker": "Profeta",
+            "verse": 37,
+            "text": "Hiéreme, te ruego. Y el hombre le dio un golpe, y le hizo una herida."
+        },
+        {
+            "id": "1ki20_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y el profeta se fue, y se puso delante del rey en el camino, y se disfrazó poniendo ceniza sobre su rostro."
+        },
+        {
+            "id": "1ki20_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y como el rey pasaba, él dio voces al rey, y dijo:"
+        },
+        {
+            "id": "1ki20_39b",
+            "speaker": "Profeta",
+            "verse": 39,
+            "text": "Tu siervo salió entre la tropa; y he aquí apartándose uno, me trajo a un hombre, diciendo: Guarda a este hombre, y si por alguna razón él llegare a faltar, tu vida será por su vida, o pagarás un talento de plata."
+        },
+        {
+            "id": "1ki20_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y como tu siervo estaba ocupado a una parte y a otra, él desapareció. Entonces el rey de Israel le dijo:"
+        },
+        {
+            "id": "1ki20_40b",
+            "speaker": "Acab",
+            "verse": 40,
+            "text": "Ésa será tu sentencia; tú la has pronunciado."
+        },
+        {
+            "id": "1ki20_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Pero él se quitó pronto la ceniza de sobre su rostro, y el rey de Israel conoció que era de los profetas."
+        },
+        {
+            "id": "1ki20_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "1ki20_42b",
+            "speaker": "Profeta",
+            "verse": 42,
+            "text": "Así dice Jehová: Por cuanto soltaste de la mano el hombre de mi anatema, tu vida será por su vida, y tu pueblo por su pueblo."
+        },
+        {
+            "id": "1ki20_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y el rey de Israel se fue a su casa, triste y enojado, y llegó a Samaria."
+        }
+    ]
+}
