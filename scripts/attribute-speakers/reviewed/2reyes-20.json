@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Isaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Ezequías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Isaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Isaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Isaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Isaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Isaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "d",
+    "speaker": "Ezequías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  }
+]

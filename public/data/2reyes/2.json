@@ -1,0 +1,343 @@
+{
+    "book": "2 Reyes",
+    "chapter": 2,
+    "title": "2 Reyes 2",
+    "messages": [
+        {
+            "id": "2ki2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que cuando quiso Jehová alzar a Elías en un torbellino al cielo, Elías venía con Eliseo de Gilgal."
+        },
+        {
+            "id": "2ki2_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo Elías a Eliseo:"
+        },
+        {
+            "id": "2ki2_2b",
+            "speaker": "Elías",
+            "verse": 2,
+            "text": "Quédate ahora aquí, porque Jehová me ha enviado a Betel."
+        },
+        {
+            "id": "2ki2_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Eliseo dijo:"
+        },
+        {
+            "id": "2ki2_2d",
+            "speaker": "Eliseo",
+            "verse": 2,
+            "text": "Vive Jehová, y vive tu alma, que no te dejaré. Descendieron, pues, a Betel."
+        },
+        {
+            "id": "2ki2_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y saliendo a Eliseo los hijos de los profetas que estaban en Betel, le dijeron:"
+        },
+        {
+            "id": "2ki2_3b",
+            "speaker": "Profeta",
+            "verse": 3,
+            "text": "¿Sabes que Jehová quitará hoy a tu señor de sobre tu cabeza?"
+        },
+        {
+            "id": "2ki2_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki2_3d",
+            "speaker": "Eliseo",
+            "verse": 3,
+            "text": "Sí, yo lo sé; callad."
+        },
+        {
+            "id": "2ki2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Elías le volvió a decir:"
+        },
+        {
+            "id": "2ki2_4b",
+            "speaker": "Elías",
+            "verse": 4,
+            "text": "Eliseo, quédate aquí ahora, porque Jehová me ha enviado a Jericó."
+        },
+        {
+            "id": "2ki2_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki2_4d",
+            "speaker": "Eliseo",
+            "verse": 4,
+            "text": "Vive Jehová, y vive tu alma, que no te dejaré. Vinieron, pues, a Jericó."
+        },
+        {
+            "id": "2ki2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los hijos de los profetas que estaban en Jericó vinieron a Eliseo, y le dijeron:"
+        },
+        {
+            "id": "2ki2_5b",
+            "speaker": "Profeta",
+            "verse": 5,
+            "text": "¿Sabes que Jehová quitará hoy a tu señor de sobre tu cabeza?"
+        },
+        {
+            "id": "2ki2_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2ki2_5d",
+            "speaker": "Eliseo",
+            "verse": 5,
+            "text": "Sí, yo lo sé; callad."
+        },
+        {
+            "id": "2ki2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Elías le dijo:"
+        },
+        {
+            "id": "2ki2_6b",
+            "speaker": "Elías",
+            "verse": 6,
+            "text": "Te ruego que te quedes aquí, porque Jehová me ha enviado al Jordán."
+        },
+        {
+            "id": "2ki2_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki2_6d",
+            "speaker": "Eliseo",
+            "verse": 6,
+            "text": "Vive Jehová, y vive tu alma, que no te dejaré. Fueron, pues, los dos."
+        },
+        {
+            "id": "2ki2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y vinieron cincuenta varones de los hijos de los profetas, y se pararon enfrente a lo lejos; y ellos dos se pararon junto al Jordán."
+        },
+        {
+            "id": "2ki2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Tomando entonces Elías su manto, lo dobló, y golpeó las aguas, las cuales se apartaron a uno y a otro lado, y pasaron ambos en seco."
+        },
+        {
+            "id": "2ki2_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y sucedió que cuando habían pasado, Elías dijo a Eliseo:"
+        },
+        {
+            "id": "2ki2_9b",
+            "speaker": "Elías",
+            "verse": 9,
+            "text": "Pide lo que quieres que haga por ti, antes que sea quitado de tu lado."
+        },
+        {
+            "id": "2ki2_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Eliseo:"
+        },
+        {
+            "id": "2ki2_9d",
+            "speaker": "Eliseo",
+            "verse": 9,
+            "text": "Te ruego que una doble porción de tu espíritu sea sobre mí."
+        },
+        {
+            "id": "2ki2_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "2ki2_10b",
+            "speaker": "Elías",
+            "verse": 10,
+            "text": "Cosa difícil has pedido. Si me vieres cuando fuere quitado de ti, te será así hecho; mas si no, no."
+        },
+        {
+            "id": "2ki2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y aconteció que yendo ellos y hablando, he aquí, apareció un carro de fuego con caballos de fuego que apartó a los dos; y Elías subió al cielo en un torbellino."
+        },
+        {
+            "id": "2ki2_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y viéndolo Eliseo, clamaba:"
+        },
+        {
+            "id": "2ki2_12b",
+            "speaker": "Eliseo",
+            "verse": 12,
+            "text": "¡Padre mío, padre mío, carro de Israel y su gente de a caballo! Y nunca más le vio, y trabando de sus vestiduras, las rompió en dos partes."
+        },
+        {
+            "id": "2ki2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Alzó luego el manto de Elías que se le había caído, y volvió, y se paró a la orilla del Jordán."
+        },
+        {
+            "id": "2ki2_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y tomando el manto de Elías que se le había caído, golpeó las aguas, y dijo:"
+        },
+        {
+            "id": "2ki2_14b",
+            "speaker": "Elías",
+            "verse": 14,
+            "text": "¿Dónde está Jehová, el Dios de Elías? Y así que hubo del mismo modo golpeado las aguas, se apartaron a uno y a otro lado, y pasó Eliseo."
+        },
+        {
+            "id": "2ki2_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y viéndole los hijos de los profetas que estaban en Jericó al otro lado, dijeron:"
+        },
+        {
+            "id": "2ki2_15b",
+            "speaker": "Profeta",
+            "verse": 15,
+            "text": "El espíritu de Elías reposa sobre Eliseo. Y vinieron a recibirle, y se inclinaron a tierra delante de él."
+        },
+        {
+            "id": "2ki2_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y le dijeron:"
+        },
+        {
+            "id": "2ki2_16b",
+            "speaker": "Profeta",
+            "verse": 16,
+            "text": "He aquí hay con tus siervos cincuenta varones fuertes; vayan ahora y busquen a tu señor; quizá lo ha levantado el Espíritu de Jehová, y lo ha echado en algún monte o en algún valle."
+        },
+        {
+            "id": "2ki2_16c",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "2ki2_16d",
+            "speaker": "Eliseo",
+            "verse": 16,
+            "text": "No enviéis."
+        },
+        {
+            "id": "2ki2_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas ellos le importunaron, hasta que avergonzándose, dijo:"
+        },
+        {
+            "id": "2ki2_17b",
+            "speaker": "Eliseo",
+            "verse": 17,
+            "text": "Enviad. Entonces ellos enviaron cincuenta hombres, los cuales lo buscaron tres días, mas no lo hallaron."
+        },
+        {
+            "id": "2ki2_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y cuando volvieron a él (pues él se había quedado en Jericó), él les dijo:"
+        },
+        {
+            "id": "2ki2_18b",
+            "speaker": "Eliseo",
+            "verse": 18,
+            "text": "¿No os dije yo que no fueseis?"
+        },
+        {
+            "id": "2ki2_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y los hombres de la ciudad dijeron a Eliseo:"
+        },
+        {
+            "id": "2ki2_19b",
+            "speaker": "Hombres",
+            "verse": 19,
+            "text": "He aquí el lugar donde está situada la ciudad es bueno, como mi señor ve; mas las aguas son malas, y la tierra es estéril."
+        },
+        {
+            "id": "2ki2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces él dijo:"
+        },
+        {
+            "id": "2ki2_20b",
+            "speaker": "Eliseo",
+            "verse": 20,
+            "text": "Traedme una vasija nueva, y poned sal en ella. Y se la trajeron."
+        },
+        {
+            "id": "2ki2_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y saliendo él a los manantiales de las aguas, echó dentro la sal, y dijo:"
+        },
+        {
+            "id": "2ki2_21b",
+            "speaker": "Eliseo",
+            "verse": 21,
+            "text": "Así dice Jehová: Yo sané estas aguas, y no habrá más en ellas muerte ni esterilidad."
+        },
+        {
+            "id": "2ki2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y fueron sanas las aguas hasta hoy, conforme a la palabra que habló Eliseo."
+        },
+        {
+            "id": "2ki2_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Después subió de allí a Betel; y subiendo por el camino, salieron los muchachos de la ciudad, y se burlaban de él, diciendo:"
+        },
+        {
+            "id": "2ki2_23b",
+            "speaker": "Jóvenes",
+            "verse": 23,
+            "text": "¡Calvo, sube; calvo, sube!"
+        },
+        {
+            "id": "2ki2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y mirando él atrás, los vio, y los maldijo en el nombre de Jehová. Y salieron dos osas del monte, y despedazaron de ellos a cuarenta y dos muchachos."
+        },
+        {
+            "id": "2ki2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "De allí fue al monte Carmelo, y de allí volvió a Samaria."
+        }
+    ]
+}

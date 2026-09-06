@@ -1,0 +1,319 @@
+{
+    "book": "2 Reyes",
+    "chapter": 5,
+    "title": "2 Reyes 5",
+    "messages": [
+        {
+            "id": "2ki5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Naamán, general del ejército del rey de Siria, era un gran varón delante de su señor, y le tenía en alta estima, porque por medio de él había dado Jehová salvamento a Siria. Era este hombre valeroso en extremo, pero leproso."
+        },
+        {
+            "id": "2ki5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y de Siria habían salido cuadrillas, y habían llevado cautiva de la tierra de Israel una muchacha; la cual sirviendo a la esposa de Naamán,"
+        },
+        {
+            "id": "2ki5_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Dijo a su señora:"
+        },
+        {
+            "id": "2ki5_3b",
+            "speaker": "Criada",
+            "verse": 3,
+            "text": "Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra."
+        },
+        {
+            "id": "2ki5_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y entrando Naamán a su señor, se lo declaró, diciendo:"
+        },
+        {
+            "id": "2ki5_4b",
+            "speaker": "Naamán",
+            "verse": 4,
+            "text": "Así y así ha dicho una muchacha que es de la tierra de Israel."
+        },
+        {
+            "id": "2ki5_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y le dijo el rey de Siria:"
+        },
+        {
+            "id": "2ki5_5b",
+            "speaker": "Benadad",
+            "verse": 5,
+            "text": "Anda, ve, y yo enviaré una carta al rey de Israel. Partió, pues, él, llevando consigo diez talentos de plata, y seis mil piezas de oro, y diez mudas de vestiduras."
+        },
+        {
+            "id": "2ki5_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Tomó también la carta para el rey de Israel, que decía así:"
+        },
+        {
+            "id": "2ki5_6b",
+            "speaker": "Benadad",
+            "verse": 6,
+            "text": "Ahora, cuando esta carta llegue a ti, sabe por ella que yo te envío a mi siervo Naamán, para que lo sanes de su lepra."
+        },
+        {
+            "id": "2ki5_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y sucedió que cuando el rey de Israel leyó la carta, rasgó sus vestiduras, y dijo:"
+        },
+        {
+            "id": "2ki5_7b",
+            "speaker": "Joram",
+            "verse": 7,
+            "text": "¿Soy yo Dios, que mate y dé vida, para que éste envíe a mí a que sane a un hombre de su lepra? Considerad ahora, y ved cómo busca ocasión contra mí."
+        },
+        {
+            "id": "2ki5_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y como Eliseo, varón de Dios oyó que el rey de Israel había rasgado sus vestiduras, envió a decir al rey:"
+        },
+        {
+            "id": "2ki5_8b",
+            "speaker": "Eliseo",
+            "verse": 8,
+            "text": "¿Por qué has rasgado tus vestiduras? Venga ahora a mí, y sabrá que hay profeta en Israel."
+        },
+        {
+            "id": "2ki5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vino Naamán con sus caballos y con su carro, y se paró a las puertas de la casa de Eliseo."
+        },
+        {
+            "id": "2ki5_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Eliseo le envió un mensajero, diciendo:"
+        },
+        {
+            "id": "2ki5_10b",
+            "speaker": "Eliseo",
+            "verse": 10,
+            "text": "Ve y lávate siete veces en el Jordán, y tu carne se te restaurará, y serás limpio."
+        },
+        {
+            "id": "2ki5_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Naamán se fue enojado, diciendo:"
+        },
+        {
+            "id": "2ki5_11b",
+            "speaker": "Naamán",
+            "verse": 11,
+            "text": "He aquí yo decía para mí: Saldrá él luego, y estando en pie invocará el nombre de Jehová su Dios, y alzará su mano, y tocará el lugar, y sanará la lepra."
+        },
+        {
+            "id": "2ki5_12",
+            "speaker": "Naamán",
+            "verse": 12,
+            "text": "Abana y Farfar, ríos de Damasco, ¿no son mejores que todas las aguas de Israel? Si me lavare en ellos, ¿no seré limpio? Y se volvió, y se fue enojado."
+        },
+        {
+            "id": "2ki5_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas sus criados se acercaron a él, y le hablaron, diciendo:"
+        },
+        {
+            "id": "2ki5_13b",
+            "speaker": "Siervos",
+            "verse": 13,
+            "text": "Padre mío, si el profeta te mandara alguna gran cosa, ¿no la harías?"
+        },
+        {
+            "id": "2ki5_13c",
+            "speaker": "Siervos",
+            "verse": 13,
+            "text": "¿Cuánto más, diciéndote:"
+        },
+        {
+            "id": "2ki5_13d",
+            "speaker": "Siervos",
+            "verse": 13,
+            "text": "Lávate, y serás limpio?"
+        },
+        {
+            "id": "2ki5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Él entonces descendió, y se zambulló siete veces en el Jordán, conforme a la palabra del varón de Dios; y su carne se volvió como la carne de un niño, y fue limpio."
+        },
+        {
+            "id": "2ki5_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y volvió al varón de Dios, él y toda su compañía, y se puso delante de él, y dijo:"
+        },
+        {
+            "id": "2ki5_15b",
+            "speaker": "Naamán",
+            "verse": 15,
+            "text": "He aquí ahora conozco que no hay Dios en toda la tierra, sino en Israel. Te ruego que recibas algún presente de tu siervo."
+        },
+        {
+            "id": "2ki5_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Pero él dijo:"
+        },
+        {
+            "id": "2ki5_16b",
+            "speaker": "Eliseo",
+            "verse": 16,
+            "text": "Vive Jehová, delante del cual estoy, que no lo recibiré. Y le insistió para que lo tomase, pero él rehusó."
+        },
+        {
+            "id": "2ki5_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces Naamán dijo:"
+        },
+        {
+            "id": "2ki5_17b",
+            "speaker": "Naamán",
+            "verse": 17,
+            "text": "Te ruego, pues, ¿no se dará a tu siervo una carga de un par de mulas de esta tierra? porque de aquí en adelante tu siervo no sacrificará holocausto ni sacrificio a otros dioses, sino a Jehová."
+        },
+        {
+            "id": "2ki5_18",
+            "speaker": "Naamán",
+            "verse": 18,
+            "text": "En esto perdone Jehová a tu siervo; que cuando mi señor entrare en el templo de Rimón, y para adorar en él se apoyare sobre mi mano, si yo también me inclinare en el templo de Rimón, si en el templo de Rimón me inclino, Jehová perdone en esto a tu siervo."
+        },
+        {
+            "id": "2ki5_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "2ki5_19b",
+            "speaker": "Eliseo",
+            "verse": 19,
+            "text": "Vete en paz. Se fue, pues, de él, y caminó cierta distancia."
+        },
+        {
+            "id": "2ki5_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces Giezi, criado de Eliseo el varón de Dios, dijo entre sí:"
+        },
+        {
+            "id": "2ki5_20b",
+            "speaker": "Giezi",
+            "verse": 20,
+            "text": "He aquí mi señor estorbó a este sirio Naamán, no tomando de su mano las cosas que había traído. Vive Jehová que correré yo tras él y tomaré de él alguna cosa."
+        },
+        {
+            "id": "2ki5_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y siguió Giezi a Naamán; y cuando Naamán lo vio que venía corriendo tras él, se bajó del carro para recibirle, y dijo:"
+        },
+        {
+            "id": "2ki5_21b",
+            "speaker": "Naamán",
+            "verse": 21,
+            "text": "¿Está todo bien?"
+        },
+        {
+            "id": "2ki5_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki5_22b",
+            "speaker": "Giezi",
+            "verse": 22,
+            "text": "Todo está Bien."
+        },
+        {
+            "id": "2ki5_22c",
+            "speaker": "Giezi",
+            "verse": 22,
+            "text": "Mi señor me envía a decir:"
+        },
+        {
+            "id": "2ki5_22d",
+            "speaker": "Giezi",
+            "verse": 22,
+            "text": "He aquí vinieron a mí en esta hora del monte de Efraín dos jóvenes de los hijos de los profetas, te ruego que les des un talento de plata y dos mudas de ropa."
+        },
+        {
+            "id": "2ki5_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Naamán dijo:"
+        },
+        {
+            "id": "2ki5_23b",
+            "speaker": "Naamán",
+            "verse": 23,
+            "text": "Te ruego que tomes dos talentos. Y él le constriñó, y ató dos talentos de plata en dos sacos, con dos mudas de ropa, y los puso sobre dos de sus criados para que los llevaran delante de él."
+        },
+        {
+            "id": "2ki5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y cuando llegó a la fortaleza, él los tomó de mano de ellos, y los guardó en la casa; luego despidió a los hombres y ellos se fueron."
+        },
+        {
+            "id": "2ki5_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y él entró, y se puso delante de su señor. Y Eliseo le dijo:"
+        },
+        {
+            "id": "2ki5_25b",
+            "speaker": "Eliseo",
+            "verse": 25,
+            "text": "¿De dónde vienes, Giezi?"
+        },
+        {
+            "id": "2ki5_25c",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki5_25d",
+            "speaker": "Giezi",
+            "verse": 25,
+            "text": "Tu siervo no ha ido a ninguna parte."
+        },
+        {
+            "id": "2ki5_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Él entonces le dijo:"
+        },
+        {
+            "id": "2ki5_26b",
+            "speaker": "Eliseo",
+            "verse": 26,
+            "text": "¿No fue contigo mi corazón, cuando el hombre volvió de su carro a recibirte? ¿Acaso es tiempo de tomar plata, de tomar ropa, olivares, viñas, ovejas, bueyes, siervos y siervas?"
+        },
+        {
+            "id": "2ki5_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Por tanto, la lepra de Naamán se te pegará a ti y a tu simiente para siempre. Y salió de delante de él leproso, blanco como la nieve."
+        }
+    ]
+}

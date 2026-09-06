@@ -1,0 +1,289 @@
+{
+    "book": "2 Reyes",
+    "chapter": 8,
+    "title": "2 Reyes 8",
+    "messages": [
+        {
+            "id": "2ki8_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y habló Eliseo a aquella mujer, a cuyo hijo él había hecho vivir, diciendo:"
+        },
+        {
+            "id": "2ki8_1b",
+            "speaker": "Eliseo",
+            "verse": 1,
+            "text": "Levántate y vete, tú y toda tu casa, a vivir donde pudieres; porque Jehová ha llamado al hambre, la cual también vendrá sobre la tierra por siete años."
+        },
+        {
+            "id": "2ki8_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces la mujer se levantó, e hizo como el varón de Dios le dijo:"
+        },
+        {
+            "id": "2ki8_2b",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y se fue ella con su familia y vivió en tierra de los filisteos siete años."
+        },
+        {
+            "id": "2ki8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y aconteció que cuando habían pasado los siete años, la mujer volvió de la tierra de los filisteos y fue a clamar al rey por su casa y por sus tierras."
+        },
+        {
+            "id": "2ki8_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y el rey estaba hablando con Giezi, criado del varón de Dios, diciéndole:"
+        },
+        {
+            "id": "2ki8_4b",
+            "speaker": "Joram",
+            "verse": 4,
+            "text": "Te ruego que me cuentes todas las maravillas que ha hecho Eliseo."
+        },
+        {
+            "id": "2ki8_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y sucedió que mientras él contaba al rey cómo había hecho vivir a un muerto, he aquí, la mujer a cuyo hijo él había hecho vivir, que clamaba al rey por su casa y por sus tierras. Entonces dijo Giezi:"
+        },
+        {
+            "id": "2ki8_5b",
+            "speaker": "Giezi",
+            "verse": 5,
+            "text": "Rey señor mío, ésta es la mujer, y éste es su hijo, al cual Eliseo hizo vivir."
+        },
+        {
+            "id": "2ki8_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y cuando el rey preguntó a la mujer, ella se lo contó. Entonces el rey le asignó un oficial, diciéndole:"
+        },
+        {
+            "id": "2ki8_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Haz que le devuelvan todas las cosas que eran suyas, y todo el fruto de su tierra desde el día que dejó el país hasta ahora."
+        },
+        {
+            "id": "2ki8_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Eliseo se fue luego a Damasco, y Benadad, rey de Siria, estaba enfermo, al cual dieron aviso, diciendo:"
+        },
+        {
+            "id": "2ki8_7b",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "El varón de Dios ha venido aquí."
+        },
+        {
+            "id": "2ki8_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y el rey dijo a Hazael:"
+        },
+        {
+            "id": "2ki8_8b",
+            "speaker": "Benadad",
+            "verse": 8,
+            "text": "Toma en tu mano un presente, y ve a recibir al varón de Dios, y consulta por él a Jehová, diciendo: ¿He de sanar de esta enfermedad?"
+        },
+        {
+            "id": "2ki8_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Tomó pues Hazael en su mano un presente de todos los bienes de Damasco, cuarenta camellos cargados, y salió a recibirlo: y llegó y se puso delante de él, y dijo:"
+        },
+        {
+            "id": "2ki8_9b",
+            "speaker": "Hazael",
+            "verse": 9,
+            "text": "Tu hijo Benadad, rey de Siria, me ha enviado a ti, diciendo: ¿He de sanar de esta enfermedad?"
+        },
+        {
+            "id": "2ki8_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Eliseo le dijo:"
+        },
+        {
+            "id": "2ki8_10b",
+            "speaker": "Eliseo",
+            "verse": 10,
+            "text": "Ve y dile: Seguramente vivirás. Sin embargo Jehová me ha mostrado que él ciertamente ha de morir."
+        },
+        {
+            "id": "2ki8_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y el varón de Dios le miró fijamente, hasta avergonzarlo; y lloró el varón de Dios."
+        },
+        {
+            "id": "2ki8_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces le dijo Hazael:"
+        },
+        {
+            "id": "2ki8_12b",
+            "speaker": "Hazael",
+            "verse": 12,
+            "text": "¿Por qué llora mi señor?"
+        },
+        {
+            "id": "2ki8_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2ki8_12d",
+            "speaker": "Eliseo",
+            "verse": 12,
+            "text": "Porque sé el mal que has de hacer a los hijos de Israel: a sus fortalezas prenderás fuego, y a sus jóvenes matarás a espada, y estrellarás a sus niños, y abrirás el vientre a sus mujeres encinta."
+        },
+        {
+            "id": "2ki8_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Hazael dijo:"
+        },
+        {
+            "id": "2ki8_13b",
+            "speaker": "Hazael",
+            "verse": 13,
+            "text": "¿Acaso es tu siervo, un perro, para que haga tan enorme cosa?"
+        },
+        {
+            "id": "2ki8_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y respondió Eliseo:"
+        },
+        {
+            "id": "2ki8_13d",
+            "speaker": "Eliseo",
+            "verse": 13,
+            "text": "Jehová me ha mostrado que tú serás rey de Siria."
+        },
+        {
+            "id": "2ki8_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él se fue de Eliseo, y vino a su señor, el cual le dijo:"
+        },
+        {
+            "id": "2ki8_14b",
+            "speaker": "Benadad",
+            "verse": 14,
+            "text": "¿Qué te ha dicho Eliseo?"
+        },
+        {
+            "id": "2ki8_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2ki8_14d",
+            "speaker": "Hazael",
+            "verse": 14,
+            "text": "Me dijo que seguramente sanarás."
+        },
+        {
+            "id": "2ki8_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y sucedió que al día siguiente tomó un paño grueso y lo metió en agua, y lo puso sobre el rostro de Benadad, y murió. Y reinó Hazael en su lugar."
+        },
+        {
+            "id": "2ki8_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "En el quinto año de Joram, hijo de Acab, rey de Israel, y siendo Josafat, rey de Judá, comenzó a reinar Joram, hijo de Josafat, rey de Judá."
+        },
+        {
+            "id": "2ki8_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "De treinta y dos años era cuando comenzó a reinar, y ocho años reinó en Jerusalén."
+        },
+        {
+            "id": "2ki8_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y anduvo en el camino de los reyes de Israel, como hizo la casa de Acab, porque una hija de Acab fue su esposa; e hizo lo malo en ojos de Jehová."
+        },
+        {
+            "id": "2ki8_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Con todo eso, Jehová no quiso cortar a Judá, por amor a David su siervo, como le había prometido darle lámpara a él y a sus hijos perpetuamente."
+        },
+        {
+            "id": "2ki8_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "En su tiempo se rebeló Edom de debajo de la mano de Judá, y pusieron rey sobre sí."
+        },
+        {
+            "id": "2ki8_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Joram por tanto pasó a Seir, y todos sus carros con él: y levantándose de noche hirió a los edomitas, los cuales le habían cercado, y a los capitanes de los carros: y el pueblo huyó a sus tiendas."
+        },
+        {
+            "id": "2ki8_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "No obstante, Edom se rebeló de la mano de Judá, hasta hoy. Libna también se rebeló en el mismo tiempo."
+        },
+        {
+            "id": "2ki8_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Los demás hechos de Joram, y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá?"
+        },
+        {
+            "id": "2ki8_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y durmió Joram con sus padres, y fue sepultado con sus padres en la ciudad de David; y Ocozías su hijo reinó en su lugar."
+        },
+        {
+            "id": "2ki8_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "En el año doce de Joram, hijo de Acab, rey de Israel, comenzó a reinar Ocozías, hijo de Joram, rey de Judá."
+        },
+        {
+            "id": "2ki8_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Veintidós años tenía Ocozías cuando comenzó a reinar, y reinó un año en Jerusalén. El nombre de su madre fue Atalía, hija de Omri, rey de Israel."
+        },
+        {
+            "id": "2ki8_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y anduvo en el camino de la casa de Acab, e hizo lo malo en ojos de Jehová, como la casa de Acab; porque era yerno de la casa de Acab."
+        },
+        {
+            "id": "2ki8_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y fue con Joram, hijo de Acab, a la guerra contra Hazael, rey de Siria, en Ramot de Galaad; y los sirios hirieron a Joram."
+        },
+        {
+            "id": "2ki8_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y el rey Joram se volvió a Jezreel, para curarse de las heridas que los sirios le hicieron en Ramá, cuando peleó contra Hazael rey de Siria. Y descendió Ocozías, hijo de Joram, rey de Judá, a visitar a Joram, hijo de Acab, en Jezreel, porque estaba enfermo."
+        }
+    ]
+}

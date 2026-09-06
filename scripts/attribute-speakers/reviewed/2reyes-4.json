@@ -1,0 +1,236 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Viuda",
+    "confidence": 0.85
+  },
+  {
+    "verse": 2,
+    "subId": "d",
+    "speaker": "Viuda",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Viuda",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "d",
+    "speaker": "Niño",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "d",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Niño",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "d",
+    "speaker": "Hombres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Hombres",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "d",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "c",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "d",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 38,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 41,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Sunamita",
+    "confidence": 0.85
+  }
+]

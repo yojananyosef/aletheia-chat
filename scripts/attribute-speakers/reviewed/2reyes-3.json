@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Joram",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "d",
+    "speaker": "Joram",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Josafat",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "d",
+    "speaker": "Joram",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Joram",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "d",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Moabitas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Profeta",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Profeta",
+    "confidence": 0.85
+  },
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Elías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Profeta",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Profeta",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Eliseo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Jóvenes",
+    "confidence": 0.85
+  }
+]

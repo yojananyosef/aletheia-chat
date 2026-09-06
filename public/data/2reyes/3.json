@@ -1,0 +1,277 @@
+{
+    "book": "2 Reyes",
+    "chapter": 3,
+    "title": "2 Reyes 3",
+    "messages": [
+        {
+            "id": "2ki3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Joram hijo de Acab comenzó a reinar en Samaria sobre Israel el año dieciocho de Josafat rey de Judá; y reinó doce años."
+        },
+        {
+            "id": "2ki3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "E hizo lo malo ante los ojos de Jehová, aunque no como su padre y su madre; porque quitó las estatuas de Baal que su padre había hecho."
+        },
+        {
+            "id": "2ki3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mas se entregó a los pecados de Jeroboam, hijo de Nabat, que hizo pecar a Israel; y no se apartó de ellos."
+        },
+        {
+            "id": "2ki3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces Mesa rey de Moab era propietario de ganados, y pagaba al rey de Israel cien mil corderos, y cien mil carneros, más la lana."
+        },
+        {
+            "id": "2ki3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pero aconteció que cuando Acab murió, el rey de Moab se rebeló contra el rey de Israel."
+        },
+        {
+            "id": "2ki3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y salió entonces de Samaria el rey Joram, y pasó revista a todo Israel."
+        },
+        {
+            "id": "2ki3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y fue y envió a decir a Josafat rey de Judá:"
+        },
+        {
+            "id": "2ki3_7b",
+            "speaker": "Joram",
+            "verse": 7,
+            "text": "El rey de Moab se ha rebelado contra mí: ¿irás tú conmigo a la guerra contra Moab?"
+        },
+        {
+            "id": "2ki3_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2ki3_7d",
+            "speaker": "Joram",
+            "verse": 7,
+            "text": "Iré, porque yo soy como tú eres; mi pueblo como tu pueblo; y mis caballos, como tus caballos."
+        },
+        {
+            "id": "2ki3_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "2ki3_8b",
+            "speaker": "Josafat",
+            "verse": 8,
+            "text": "¿Por qué camino iremos?"
+        },
+        {
+            "id": "2ki3_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2ki3_8d",
+            "speaker": "Joram",
+            "verse": 8,
+            "text": "Por el camino del desierto de Idumea."
+        },
+        {
+            "id": "2ki3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Partieron, pues, el rey de Israel, y el rey de Judá, y el rey de Idumea; y como anduvieron rodeando por el desierto siete días de camino, les faltó el agua para el ejército y para las bestias que los seguían."
+        },
+        {
+            "id": "2ki3_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces el rey de Israel dijo:"
+        },
+        {
+            "id": "2ki3_10b",
+            "speaker": "Joram",
+            "verse": 10,
+            "text": "¡Ah! que ha llamado Jehová estos tres reyes para entregarlos en manos de los moabitas."
+        },
+        {
+            "id": "2ki3_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas Josafat dijo:"
+        },
+        {
+            "id": "2ki3_11b",
+            "speaker": "Josafat",
+            "verse": 11,
+            "text": "¿No hay aquí profeta de Jehová, para que consultemos a Jehová por él?"
+        },
+        {
+            "id": "2ki3_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y uno de los siervos del rey de Israel respondió y dijo:"
+        },
+        {
+            "id": "2ki3_11d",
+            "speaker": "Criado",
+            "verse": 11,
+            "text": "Aquí está Eliseo, hijo de Safat, que daba agua en las manos de Elías."
+        },
+        {
+            "id": "2ki3_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Josafat dijo:"
+        },
+        {
+            "id": "2ki3_12b",
+            "speaker": "Josafat",
+            "verse": 12,
+            "text": "Éste tendrá palabra de Jehová. Y descendieron a él el rey de Israel, y Josafat, y el rey de Idumea."
+        },
+        {
+            "id": "2ki3_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Eliseo dijo al rey de Israel:"
+        },
+        {
+            "id": "2ki3_13b",
+            "speaker": "Eliseo",
+            "verse": 13,
+            "text": "¿Qué tengo yo contigo? Ve a los profetas de tu padre, y a los profetas de tu madre."
+        },
+        {
+            "id": "2ki3_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y el rey de Israel le respondió:"
+        },
+        {
+            "id": "2ki3_13d",
+            "speaker": "Eliseo",
+            "verse": 13,
+            "text": "No; porque ha juntado Jehová estos tres reyes para entregarlos en manos de los moabitas."
+        },
+        {
+            "id": "2ki3_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Eliseo dijo:"
+        },
+        {
+            "id": "2ki3_14b",
+            "speaker": "Eliseo",
+            "verse": 14,
+            "text": "Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josafat, rey de Judá, no te miraría ni te vería."
+        },
+        {
+            "id": "2ki3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas ahora traedme un tañedor. Y sucedió que mientras el tañedor tocaba, la mano de Jehová vino sobre Eliseo."
+        },
+        {
+            "id": "2ki3_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "2ki3_16b",
+            "speaker": "Eliseo",
+            "verse": 16,
+            "text": "Así dice Jehová: Haced en este valle muchas acequias."
+        },
+        {
+            "id": "2ki3_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque así dice Jehová:"
+        },
+        {
+            "id": "2ki3_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "No veréis viento, ni veréis lluvia, y este valle será lleno de agua, y beberéis vosotros, y vuestras bestias, y vuestros ganados."
+        },
+        {
+            "id": "2ki3_18",
+            "speaker": "Eliseo",
+            "verse": 18,
+            "text": "Y esto es cosa ligera en los ojos de Jehová; dará también a los moabitas en vuestras manos."
+        },
+        {
+            "id": "2ki3_19",
+            "speaker": "Eliseo",
+            "verse": 19,
+            "text": "Y vosotros destruiréis toda ciudad fortificada y a toda villa hermosa, y talaréis todo buen árbol, y cegaréis todas las fuentes de aguas, y destruiréis con piedras toda tierra fértil."
+        },
+        {
+            "id": "2ki3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y aconteció que por la mañana, cuando se ofrece el sacrificio, he aquí vinieron aguas por el camino de Idumea, y la tierra fue llena de aguas."
+        },
+        {
+            "id": "2ki3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y todos los de Moab, como oyeron que los reyes subían a pelear contra ellos, se juntaron todos desde los que apenas podían ceñirse la armadura en delante, y se pusieron en la frontera."
+        },
+        {
+            "id": "2ki3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y cuando se levantaron temprano por la mañana, y brilló el sol sobre las aguas, vieron los moabitas desde lejos las aguas rojas como sangre;"
+        },
+        {
+            "id": "2ki3_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dijeron:"
+        },
+        {
+            "id": "2ki3_23b",
+            "speaker": "Moabitas",
+            "verse": 23,
+            "text": "¡Esto es sangre de espada! Los reyes se han vuelto uno contra el otro y cada uno ha dado muerte a su compañero. Ahora, pues, ¡Moab, al despojo!"
+        },
+        {
+            "id": "2ki3_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mas cuando llegaron al campamento de Israel, se levantaron los israelitas e hirieron a los de Moab, los cuales huyeron delante de ellos; pero ellos los persiguieron aun hasta su país, matando a los moabitas."
+        },
+        {
+            "id": "2ki3_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y asolaron las ciudades, y en todas las heredades fértiles echó cada uno su piedra, y las llenaron; cegaron también todas las fuentes de las agua, y derribaron todos los buenos árboles; hasta que en Kir-hareset solamente dejaron sus piedras; porque los honderos la rodearon, y la hirieron."
+        },
+        {
+            "id": "2ki3_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y cuando el rey de Moab vio que la batalla lo vencía, tomó consigo setecientos hombres que sacaban espada, para abrir brecha contra el rey de Idumea; mas no pudieron."
+        },
+        {
+            "id": "2ki3_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Entonces arrebató a su primogénito que había de reinar en su lugar, y le sacrificó en holocausto sobre el muro. Y hubo grande enojo contra Israel; y se retiraron de él, y se volvieron a su tierra."
+        }
+    ]
+}

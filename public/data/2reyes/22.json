@@ -1,0 +1,163 @@
+{
+    "book": "2 Reyes",
+    "chapter": 22,
+    "title": "2 Reyes 22",
+    "messages": [
+        {
+            "id": "2ki22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Ocho años tenía Josías cuando comenzó a reinar, y reinó en Jerusalén treinta y un años. El nombre de su madre fue Jedida, hija de Adaías de Boscat."
+        },
+        {
+            "id": "2ki22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "E hizo lo recto ante los ojos de Jehová, y anduvo en todo el camino de David su padre, sin apartarse ni a derecha ni a izquierda."
+        },
+        {
+            "id": "2ki22_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y aconteció que a los dieciocho años del rey Josías, el rey envió a Safán, hijo de Azalías, hijo de Mesulam, el escriba, a la casa de Jehová, diciendo:"
+        },
+        {
+            "id": "2ki22_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Ve al sumo sacerdote Hilcías, y dile que recoja el dinero que han traído a la casa de Jehová, que han recogido del pueblo los guardianes de la puerta,"
+        },
+        {
+            "id": "2ki22_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "y que lo pongan en manos de los que hacen la obra, que tienen cargo de la casa de Jehová, y que lo entreguen a los que hacen la obra de la casa de Jehová, para reparar las grietas de la casa;"
+        },
+        {
+            "id": "2ki22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "a los carpinteros, a los maestros y a los albañiles, para comprar madera y piedra de cantería para reparar la casa."
+        },
+        {
+            "id": "2ki22_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y no se les pedía cuentas del dinero entregado en sus manos, porque ellos procedían con fidelidad."
+        },
+        {
+            "id": "2ki22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces el sumo sacerdote Hilcías dijo a Safán, el escriba:"
+        },
+        {
+            "id": "2ki22_8b",
+            "speaker": "Hilcías",
+            "verse": 8,
+            "text": "He hallado el libro de la ley en la casa de JEHOVÁ. E Hilcías dio el libro a Safán, y lo leyó."
+        },
+        {
+            "id": "2ki22_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Vino luego Safán, el escriba al rey, y dio al rey la respuesta, y dijo:"
+        },
+        {
+            "id": "2ki22_9b",
+            "speaker": "Safán",
+            "verse": 9,
+            "text": "Tus siervos han recogido el dinero que se halló en el templo, y lo han entregado en poder de los que hacen la obra, que tienen cargo de la casa de Jehová."
+        },
+        {
+            "id": "2ki22_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Asimismo Safán, el escriba declaró al rey, diciendo:"
+        },
+        {
+            "id": "2ki22_10b",
+            "speaker": "Safán",
+            "verse": 10,
+            "text": "Hilcías el sacerdote me ha dado un libro. Y lo leyó Safán delante del rey."
+        },
+        {
+            "id": "2ki22_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y sucedió que cuando el rey hubo oído las palabras del libro de la ley, rasgó sus vestiduras."
+        },
+        {
+            "id": "2ki22_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Luego mandó el rey a Hilcías el sacerdote, y a Ahicam, hijo de Safán, y a Acbor, hijo de Micaías, y a Safán el escriba, y a Asaías, siervo del rey, diciendo:"
+        },
+        {
+            "id": "2ki22_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Id, y consultad a Jehová por mí, y por el pueblo, y por todo Judá, acerca de las palabras de este libro que se ha hallado; porque grande es la ira de Jehová que se ha encendido contra nosotros, por cuanto nuestros padres no escucharon las palabras de este libro, para hacer conforme a todo lo que nos fue escrito."
+        },
+        {
+            "id": "2ki22_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Hilcías el sacerdote, y Ahicam y Acbor y Safán y Asaías, fueron a la profetisa Hulda, esposa de Salum, hijo de Ticva, hijo de Araas, guarda de las vestimentas, la cual moraba en Jerusalén, en la casa de la doctrina, y hablaron con ella."
+        },
+        {
+            "id": "2ki22_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ella les dijo:"
+        },
+        {
+            "id": "2ki22_15b",
+            "speaker": "Hulda",
+            "verse": 15,
+            "text": "Así dice Jehová el Dios de Israel: Decid al varón que os envió a mí:"
+        },
+        {
+            "id": "2ki22_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "2ki22_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "He aquí yo traigo mal sobre este lugar, y sobre los que en él moran, según todas las palabras del libro que ha leído el rey de Judá:"
+        },
+        {
+            "id": "2ki22_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Por cuanto me dejaron a mí, y quemaron incienso a dioses ajenos, provocándome a ira en toda obra de sus manos; y mi furor se ha encendido contra este lugar, y no se apagará."
+        },
+        {
+            "id": "2ki22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mas al rey de Judá que os ha enviado para que consultaseis a Jehová, diréis así: Así dice Jehová, el Dios de Israel:"
+        },
+        {
+            "id": "2ki22_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Por cuanto oíste las palabras del libro,"
+        },
+        {
+            "id": "2ki22_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "y tu corazón se enterneció, y te humillaste delante de Jehová, cuando oíste lo que yo he pronunciado contra este lugar y contra sus moradores, que vendrían a ser asolados y malditos, y rasgaste tus vestiduras, y lloraste en mi presencia, también yo te he oído, dice Jehová."
+        },
+        {
+            "id": "2ki22_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Por tanto, he aquí yo te recogeré con tus padres, y tú serás recogido a tu sepulcro en paz, y no verán tus ojos todo el mal que yo traigo sobre este lugar. Y ellos dieron la respuesta al rey."
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "book": "2 Reyes",
+    "chapter": 1,
+    "title": "2 Reyes 1",
+    "messages": [
+        {
+            "id": "2ki1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de la muerte de Acab se rebeló Moab contra Israel."
+        },
+        {
+            "id": "2ki1_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Ocozías cayó por las celosías de una sala de la casa que tenía en Samaria; y estando enfermo envió mensajeros, y les dijo:"
+        },
+        {
+            "id": "2ki1_2b",
+            "speaker": "Ocozías",
+            "verse": 2,
+            "text": "Id, y consultad a Baal-zebub dios de Ecrón, si he de sanar de esta mi enfermedad."
+        },
+        {
+            "id": "2ki1_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces el ángel de Jehová habló a Elías tisbita, diciendo:"
+        },
+        {
+            "id": "2ki1_3b",
+            "speaker": "Ángel",
+            "verse": 3,
+            "text": "Levántate, y sube a encontrarte con los mensajeros del rey de Samaria, y diles: ¿Acaso no hay Dios en Israel, para que vayáis a consultar a Baal-zebub, dios de Ecrón?"
+        },
+        {
+            "id": "2ki1_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Por tanto, así dice Jehová:"
+        },
+        {
+            "id": "2ki1_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Del lecho en que subiste no descenderás, antes morirás ciertamente. Y Elías se fue."
+        },
+        {
+            "id": "2ki1_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando los mensajeros se volvieron al rey, él les dijo:"
+        },
+        {
+            "id": "2ki1_5b",
+            "speaker": "Ocozías",
+            "verse": 5,
+            "text": "¿Por qué os habéis vuelto?"
+        },
+        {
+            "id": "2ki1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y ellos le respondieron:"
+        },
+        {
+            "id": "2ki1_6b",
+            "speaker": "Mensajeros",
+            "verse": 6,
+            "text": "Encontramos un varón que nos dijo: Id, y volveos al rey que os envió, y decidle: Así dice Jehová: ¿Acaso no hay Dios en Israel, que tú envías a consultar a Baal-zebub, dios de Ecrón? Por tanto, del lecho en que subiste no descenderás, sino que de cierto morirás."
+        },
+        {
+            "id": "2ki1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces él les dijo:"
+        },
+        {
+            "id": "2ki1_7b",
+            "speaker": "Ocozías",
+            "verse": 7,
+            "text": "¿Cómo era aquel varón que encontrasteis y os dijo tales palabras?"
+        },
+        {
+            "id": "2ki1_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ellos le respondieron:"
+        },
+        {
+            "id": "2ki1_8b",
+            "speaker": "Mensajeros",
+            "verse": 8,
+            "text": "Un varón velludo, y ceñía sus lomos con un cinto de cuero."
+        },
+        {
+            "id": "2ki1_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces él dijo:"
+        },
+        {
+            "id": "2ki1_8d",
+            "speaker": "Ocozías",
+            "verse": 8,
+            "text": "Es Elías tisbita."
+        },
+        {
+            "id": "2ki1_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces el rey envió a él un capitán de cincuenta con sus cincuenta, el cual subió a él; y he aquí que él estaba sentado en la cumbre del monte. Y él le dijo:"
+        },
+        {
+            "id": "2ki1_9b",
+            "speaker": "Capitán",
+            "verse": 9,
+            "text": "Varón de Dios, el rey dice que desciendas."
+        },
+        {
+            "id": "2ki1_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Elías respondió, y dijo al capitán de cincuenta:"
+        },
+        {
+            "id": "2ki1_10b",
+            "speaker": "Elías",
+            "verse": 10,
+            "text": "Si yo soy varón de Dios, descienda fuego del cielo y te consuma con tus cincuenta. Y descendió fuego del cielo y lo consumió a él y a sus cincuenta."
+        },
+        {
+            "id": "2ki1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Volvió el rey a enviar a él otro capitán de cincuenta con sus cincuenta; y le habló, y dijo:"
+        },
+        {
+            "id": "2ki1_11b",
+            "speaker": "Capitán",
+            "verse": 11,
+            "text": "Varón de Dios, el rey dice así: Desciende pronto."
+        },
+        {
+            "id": "2ki1_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y les respondió Elías, y dijo:"
+        },
+        {
+            "id": "2ki1_12b",
+            "speaker": "Elías",
+            "verse": 12,
+            "text": "Si yo soy varón de Dios, descienda fuego del cielo, y te consuma con tus cincuenta. Y el fuego de Dios descendió del cielo y lo consumió a él y a sus cincuenta."
+        },
+        {
+            "id": "2ki1_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y volvió a enviar el tercer capitán de cincuenta con sus cincuenta; y subiendo aquel tercer capitán de cincuenta, se hincó de rodillas delante de Elías, y le rogó, diciendo:"
+        },
+        {
+            "id": "2ki1_13b",
+            "speaker": "Capitán",
+            "verse": 13,
+            "text": "Varón de Dios, te ruego que sea de valor delante de tus ojos mi vida, y la vida de estos tus cincuenta siervos."
+        },
+        {
+            "id": "2ki1_14",
+            "speaker": "Capitán",
+            "verse": 14,
+            "text": "He aquí ha descendido fuego del cielo y ha consumido a los dos primeros capitanes de cincuenta con sus cincuenta; sea ahora mi vida de valor delante de tus ojos."
+        },
+        {
+            "id": "2ki1_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces el ángel de Jehová dijo a Elías:"
+        },
+        {
+            "id": "2ki1_15b",
+            "speaker": "Ángel",
+            "verse": 15,
+            "text": "Desciende con él; no tengas miedo de él. Y él se levantó, y descendió con él al rey."
+        },
+        {
+            "id": "2ki1_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "2ki1_16b",
+            "speaker": "Elías",
+            "verse": 16,
+            "text": "Así dice Jehová: Por cuanto enviaste mensajeros a consultar a Baal-zebub dios de Ecrón, ¿acaso no hay Dios en Israel para consultar en su palabra? Por tanto, no descenderás del lecho en que subiste, sino que de cierto morirás."
+        },
+        {
+            "id": "2ki1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y murió conforme a la palabra de Jehová que había hablado Elías; y reinó en su lugar Joram, en el segundo año de Joram, hijo de Josafat rey de Judá; porque Ocozías no tenía hijo."
+        },
+        {
+            "id": "2ki1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y los demás hechos de Ocozías, ¿no están escritos en el libro de las crónicas de los reyes de Israel?"
+        }
+    ]
+}

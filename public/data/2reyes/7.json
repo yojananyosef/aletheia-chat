@@ -1,0 +1,229 @@
+{
+    "book": "2 Reyes",
+    "chapter": 7,
+    "title": "2 Reyes 7",
+    "messages": [
+        {
+            "id": "2ki7_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Dijo entonces Eliseo:"
+        },
+        {
+            "id": "2ki7_1b",
+            "speaker": "Eliseo",
+            "verse": 1,
+            "text": "Oíd palabra de Jehová: Así dice Jehová: Mañana a estas horas valdrá una medida de flor de harina un siclo, y dos medidas de cebada un siclo, a la puerta de Samaria."
+        },
+        {
+            "id": "2ki7_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y un príncipe sobre cuya mano el rey se apoyaba, respondió al varón de Dios, y dijo:"
+        },
+        {
+            "id": "2ki7_2b",
+            "speaker": "Príncipe",
+            "verse": 2,
+            "text": "Mira, si Jehová hiciese ahora ventanas en el cielo, ¿sería esto así?"
+        },
+        {
+            "id": "2ki7_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki7_2d",
+            "speaker": "Príncipe",
+            "verse": 2,
+            "text": "He aquí tú lo verás con tus ojos, mas no comerás de ello."
+        },
+        {
+            "id": "2ki7_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y había cuatro hombres leprosos a la entrada de la puerta, los cuales se dijeron el uno al otro:"
+        },
+        {
+            "id": "2ki7_3b",
+            "speaker": "Hombres",
+            "verse": 3,
+            "text": "¿Para qué nos estamos aquí hasta que muramos?"
+        },
+        {
+            "id": "2ki7_4",
+            "speaker": "Hombres",
+            "verse": 4,
+            "text": "Si tratáremos de entrar en la ciudad, por el hambre que hay en la ciudad moriremos en ella; y si nos quedamos aquí, también moriremos. Vamos pues ahora, y pasémonos al ejército de los sirios; si ellos nos dieren la vida, viviremos; y si nos dieren la muerte, moriremos."
+        },
+        {
+            "id": "2ki7_5",
+            "speaker": "Hombres",
+            "verse": 5,
+            "text": "Se levantaron, pues, al principio de la noche, para ir al campamento de los sirios; y cuando llegaron a la entrada del campamento de los sirios, no había allí hombre."
+        },
+        {
+            "id": "2ki7_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque el Señor había hecho que en el campamento de los sirios se oyese estruendo de carros, ruido de caballos y estrépito de grande ejército; y se dijeron unos a otros:"
+        },
+        {
+            "id": "2ki7_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "He aquí el rey de Israel ha pagado contra nosotros a los reyes de los heteos, y a los reyes de los egipcios, para que vengan contra nosotros."
+        },
+        {
+            "id": "2ki7_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y así se levantaron y huyeron al anochecer, dejando sus tiendas, sus caballos, sus asnos y el campamento como estaba; y huyeron para salvar sus vidas."
+        },
+        {
+            "id": "2ki7_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y cuando los leprosos llegaron a la entrada del campamento, entraron en una tienda y comieron y bebieron, y tomaron de allí plata y oro y vestiduras, y fueron y lo escondieron; y volvieron y entraron en otra tienda, y de allí también tomaron, y fueron y lo escondieron."
+        },
+        {
+            "id": "2ki7_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y se dijeron el uno al otro:"
+        },
+        {
+            "id": "2ki7_9b",
+            "speaker": "Hombres",
+            "verse": 9,
+            "text": "No hacemos bien; hoy es día de buenas nuevas, y nosotros callamos; y si esperamos hasta la luz de la mañana, nos alcanzará la maldad. Vamos pues, ahora, entremos y demos las nuevas en casa del rey."
+        },
+        {
+            "id": "2ki7_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y vinieron, y dieron voces a los guardas de la puerta de la ciudad, y les declararon, diciendo:"
+        },
+        {
+            "id": "2ki7_10b",
+            "speaker": "Hombres",
+            "verse": 10,
+            "text": "Nosotros fuimos al campamento de los sirios, y he aquí que no había allí hombre, ni voz de hombre, sino caballos atados, asnos también atados, y las tiendas como estaban."
+        },
+        {
+            "id": "2ki7_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y los porteros dieron voces, y lo declararon dentro, en el palacio del rey."
+        },
+        {
+            "id": "2ki7_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y el rey se levantó de noche, y dijo a sus siervos:"
+        },
+        {
+            "id": "2ki7_12b",
+            "speaker": "Joram",
+            "verse": 12,
+            "text": "Yo os declararé lo que nos han hecho los sirios."
+        },
+        {
+            "id": "2ki7_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Ellos saben que tenemos hambre, y han salido de las tiendas y se han escondido en el campo, diciendo:"
+        },
+        {
+            "id": "2ki7_12d",
+            "speaker": "Joram",
+            "verse": 12,
+            "text": "Cuando salgan de la ciudad, los tomaremos vivos y entraremos en la ciudad."
+        },
+        {
+            "id": "2ki7_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces respondió uno de sus siervos, y dijo:"
+        },
+        {
+            "id": "2ki7_13b",
+            "speaker": "Criado",
+            "verse": 13,
+            "text": "Tomen ahora cinco de los caballos que han quedado en la ciudad, (he aquí, ellos son como toda la multitud de Israel que ha quedado en ella; he aquí, os digo que ellos son como toda la multitud de Israel que ha perecido); enviemos, y veamos qué hay."
+        },
+        {
+            "id": "2ki7_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Tomaron, pues, dos caballos de un carro, y el rey los envió tras el campamento de los sirios, diciendo:"
+        },
+        {
+            "id": "2ki7_14b",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Id y ved."
+        },
+        {
+            "id": "2ki7_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ellos fueron, y los siguieron hasta el Jordán; y he aquí, todo el camino estaba lleno de vestiduras y enseres que los sirios habían arrojado con la premura. Y volvieron los mensajeros, y lo hicieron saber al rey."
+        },
+        {
+            "id": "2ki7_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces el pueblo salió, y saquearon el campamento de los sirios. Y fue vendida una medida de flor de harina por un siclo, y dos medidas de cebada por un siclo, conforme a la palabra de Jehová."
+        },
+        {
+            "id": "2ki7_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y el rey puso a cargo de la puerta al príncipe sobre cuya mano él se apoyaba; y el pueblo lo atropelló a la puerta y murió, conforme a lo que había dicho el varón de Dios, el cual habló cuando el rey descendió a él."
+        },
+        {
+            "id": "2ki7_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Aconteció, pues, de la manera que el varón de Dios había hablado al rey, diciendo:"
+        },
+        {
+            "id": "2ki7_18b",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Dos medidas de cebada por un siclo, y una medida de flor de harina será vendida por un siclo mañana a estas horas, a la puerta de Samaria."
+        },
+        {
+            "id": "2ki7_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "A lo cual aquel príncipe había respondido al varón de Dios, diciendo:"
+        },
+        {
+            "id": "2ki7_19b",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mira, si Jehová hiciese ventanas en el cielo, ¿Pudiera suceder tal cosa?"
+        },
+        {
+            "id": "2ki7_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki7_19d",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "He aquí tú lo verás con tus ojos, mas no comerás de ello."
+        },
+        {
+            "id": "2ki7_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y le sucedió así; porque el pueblo lo atropelló a la puerta, y murió."
+        }
+    ]
+}

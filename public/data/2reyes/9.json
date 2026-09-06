@@ -1,0 +1,481 @@
+{
+    "book": "2 Reyes",
+    "chapter": 9,
+    "title": "2 Reyes 9",
+    "messages": [
+        {
+            "id": "2ki9_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces el profeta Eliseo llamó a uno de los hijos de los profetas, y le dijo:"
+        },
+        {
+            "id": "2ki9_1b",
+            "speaker": "Eliseo",
+            "verse": 1,
+            "text": "Ciñe tus lomos y toma este frasco de aceite en tu mano y ve a Ramot de Galaad."
+        },
+        {
+            "id": "2ki9_2",
+            "speaker": "Eliseo",
+            "verse": 2,
+            "text": "Y cuando llegares allá, verás allí a Jehú hijo de Josafat hijo de Nimsi; y entrando, haz que se levante de entre sus hermanos, y mételo en la recámara."
+        },
+        {
+            "id": "2ki9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Toma luego el frasco de aceite y derrámalo sobre su cabeza, y di: Así dice Jehová:"
+        },
+        {
+            "id": "2ki9_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Yo te he ungido por rey sobre Israel. Y abriendo la puerta, huye, y no esperes."
+        },
+        {
+            "id": "2ki9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Fue, pues, el siervo, el siervo del profeta, a Ramot de Galaad."
+        },
+        {
+            "id": "2ki9_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y como él entró, he aquí los príncipes del ejército que estaban sentados. Y él dijo:"
+        },
+        {
+            "id": "2ki9_5b",
+            "speaker": "Joven",
+            "verse": 5,
+            "text": "Príncipe, una palabra tengo que decirte."
+        },
+        {
+            "id": "2ki9_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Jehú dijo:"
+        },
+        {
+            "id": "2ki9_5d",
+            "speaker": "Jehú",
+            "verse": 5,
+            "text": "¿A cuál de todos nosotros?"
+        },
+        {
+            "id": "2ki9_5e",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki9_5f",
+            "speaker": "Joven",
+            "verse": 5,
+            "text": "A ti, príncipe."
+        },
+        {
+            "id": "2ki9_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él se levantó, y entró en casa; y el otro derramó el aceite sobre su cabeza, y le dijo:"
+        },
+        {
+            "id": "2ki9_6b",
+            "speaker": "Joven",
+            "verse": 6,
+            "text": "Así dijo Jehová Dios de Israel: Yo te he ungido por rey sobre el pueblo de Jehová, sobre Israel."
+        },
+        {
+            "id": "2ki9_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y herirás la casa de Acab tu señor, para que yo vengue la sangre de mis siervos los profetas, y la sangre de todos los siervos de Jehová, de la mano de Jezabel."
+        },
+        {
+            "id": "2ki9_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y perecerá toda la casa de Acab, y cortaré de Acab a todo meante a la pared, así al siervo como al libre en Israel."
+        },
+        {
+            "id": "2ki9_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y yo pondré la casa de Acab como la casa de Jeroboam, hijo de Nabat, y como la casa de Baasa, hijo de Ahías."
+        },
+        {
+            "id": "2ki9_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y a Jezabel la comerán los perros en el campo de Jezreel, y no habrá quien la sepulte. En seguida abrió la puerta, y huyó."
+        },
+        {
+            "id": "2ki9_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Después salió Jehú a los siervos de su señor, y le dijeron:"
+        },
+        {
+            "id": "2ki9_11b",
+            "speaker": "Jehú",
+            "verse": 11,
+            "text": "¿Todo está bien? ¿Para qué entró a ti aquel loco?"
+        },
+        {
+            "id": "2ki9_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "2ki9_11d",
+            "speaker": "Siervos",
+            "verse": 11,
+            "text": "Vosotros conocéis al hombre y sus palabras."
+        },
+        {
+            "id": "2ki9_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "2ki9_12b",
+            "speaker": "Siervos",
+            "verse": 12,
+            "text": "Mentira; decláranoslo ahora."
+        },
+        {
+            "id": "2ki9_12c",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "2ki9_12d",
+            "speaker": "Jehú",
+            "verse": 12,
+            "text": "Así y así me habló, diciendo: Así dice Jehová: Yo te he ungido por rey sobre Israel."
+        },
+        {
+            "id": "2ki9_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces se apresuraron y cada uno tomó su ropa y la puso debajo de él, sobre las gradas, y tocaron trompeta y dijeron:"
+        },
+        {
+            "id": "2ki9_13b",
+            "speaker": "Siervos",
+            "verse": 13,
+            "text": "Jehú es rey."
+        },
+        {
+            "id": "2ki9_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así conjuró Jehú, hijo de Josafat, hijo de Nimsi, contra Joram. (Estaba Joram guardando a Ramot de Galaad con todo Israel, por causa de Hazael rey de Siria."
+        },
+        {
+            "id": "2ki9_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pero el rey Joram se había vuelto a Jezreel para curarse de las heridas que los sirios le habían hecho, cuando peleó contra Hazael, rey de Siria.) Y Jehú dijo:"
+        },
+        {
+            "id": "2ki9_15b",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Si es vuestra voluntad, que ninguno escape de la ciudad para ir a dar las nuevas en Jezreel."
+        },
+        {
+            "id": "2ki9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces Jehú subió a un carro y se fue a Jezreel, porque Joram estaba allí enfermo. También Ocozías, rey de Judá, había descendido a visitar a Joram."
+        },
+        {
+            "id": "2ki9_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y el atalaya que estaba en la torre de Jezreel vio la cuadrilla de Jehú, que venía, y dijo:"
+        },
+        {
+            "id": "2ki9_17b",
+            "speaker": "Jehú",
+            "verse": 17,
+            "text": "Yo veo una cuadrilla."
+        },
+        {
+            "id": "2ki9_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Joram dijo:"
+        },
+        {
+            "id": "2ki9_17d",
+            "speaker": "Joram",
+            "verse": 17,
+            "text": "Toma uno de a caballo y envíalo a su encuentro, y que les diga: ¿Hay paz?"
+        },
+        {
+            "id": "2ki9_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Fue, pues, el de a caballo a su encuentro, y dijo:"
+        },
+        {
+            "id": "2ki9_18b",
+            "speaker": "Mensajero",
+            "verse": 18,
+            "text": "El rey dice así: ¿Hay paz?"
+        },
+        {
+            "id": "2ki9_18c",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Jehú le dijo:"
+        },
+        {
+            "id": "2ki9_18d",
+            "speaker": "Jehú",
+            "verse": 18,
+            "text": "¿Qué tienes tú que ver con la paz? Vuélvete tras mí."
+        },
+        {
+            "id": "2ki9_18e",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "El atalaya dio luego aviso, diciendo:"
+        },
+        {
+            "id": "2ki9_18f",
+            "speaker": "Hombre",
+            "verse": 18,
+            "text": "El mensajero llegó hasta ellos, y no vuelve."
+        },
+        {
+            "id": "2ki9_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces envió otro de a caballo, el cual llegando a ellos, dijo:"
+        },
+        {
+            "id": "2ki9_19b",
+            "speaker": "Mensajero",
+            "verse": 19,
+            "text": "El rey dice así: ¿Hay paz?"
+        },
+        {
+            "id": "2ki9_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Jehú respondió:"
+        },
+        {
+            "id": "2ki9_19d",
+            "speaker": "Jehú",
+            "verse": 19,
+            "text": "¿Qué tienes tú que ver con la paz? Vuélvete tras mí."
+        },
+        {
+            "id": "2ki9_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "El atalaya volvió a decir:"
+        },
+        {
+            "id": "2ki9_20b",
+            "speaker": "Hombre",
+            "verse": 20,
+            "text": "También éste llegó a ellos y no vuelve: mas el marchar del que viene es como el marchar de Jehú, hijo de Nimsi, porque viene impetuosamente."
+        },
+        {
+            "id": "2ki9_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Joram dijo:"
+        },
+        {
+            "id": "2ki9_21b",
+            "speaker": "Joram",
+            "verse": 21,
+            "text": "Unce. Y fue uncido su carro. Y salieron Joram, rey de Israel, y Ocozías, rey de Judá, cada uno en su carro y fueron a encontrar a Jehú, al cual hallaron en la heredad de Nabot de Jezreel."
+        },
+        {
+            "id": "2ki9_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y sucedió que cuando Joram vio a Jehú, dijo:"
+        },
+        {
+            "id": "2ki9_22b",
+            "speaker": "Joram",
+            "verse": 22,
+            "text": "¿Hay paz, Jehú?"
+        },
+        {
+            "id": "2ki9_22c",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "2ki9_22d",
+            "speaker": "Jehú",
+            "verse": 22,
+            "text": "¿Qué paz, con las fornicaciones de Jezabel, tu madre, y sus muchas hechicerías?"
+        },
+        {
+            "id": "2ki9_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces Joram volviendo la mano huyó, y dijo a Ocozías:"
+        },
+        {
+            "id": "2ki9_23b",
+            "speaker": "Joram",
+            "verse": 23,
+            "text": "¡Traición, Ocozías!"
+        },
+        {
+            "id": "2ki9_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mas Jehú entesó su arco con toda su fuerza e hirió a Joram entre las espaldas, y la saeta salió por su corazón, y cayó en su carro."
+        },
+        {
+            "id": "2ki9_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Dijo luego Jehú a Bidcar su capitán:"
+        },
+        {
+            "id": "2ki9_25b",
+            "speaker": "Jehú",
+            "verse": 25,
+            "text": "Tómalo y échalo a un cabo de la heredad de Nabot de Jezreel."
+        },
+        {
+            "id": "2ki9_25c",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Acuérdate que cuando tú y yo íbamos juntos en pos de Acab su padre Jehová pronunció esta sentencia sobre él, diciendo:"
+        },
+        {
+            "id": "2ki9_26",
+            "speaker": "Jehú",
+            "verse": 26,
+            "text": "Ciertamente yo vi ayer la sangre de Nabot y la sangre de sus hijos, dice Jehová; y tengo que darte la paga en esta heredad, dice Jehová. Tómalo, pues, ahora, y échalo en la heredad, conforme a la palabra de Jehová."
+        },
+        {
+            "id": "2ki9_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y viendo esto Ocozías, rey de Judá, huyó por el camino de la casa del huerto. Y lo siguió Jehú, diciendo:"
+        },
+        {
+            "id": "2ki9_27b",
+            "speaker": "Jehú",
+            "verse": 27,
+            "text": "Herid también a éste en el carro. Y lo hirieron a la subida de Gur, junto a Ibleam. Y él huyó a Meguido, y murió allí."
+        },
+        {
+            "id": "2ki9_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y sus siervos lo llevaron en un carro a Jerusalén, y lo sepultaron en su sepulcro con sus padres en la ciudad de David."
+        },
+        {
+            "id": "2ki9_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "En el undécimo año de Joram, hijo de Acab, comenzó a reinar Ocozías sobre Judá."
+        },
+        {
+            "id": "2ki9_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Vino después Jehú a Jezreel: y cuando Jezabel lo oyó, adornó sus ojos y atavió su cabeza, y se asomó por una ventana."
+        },
+        {
+            "id": "2ki9_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y cuando Jehú entraba por la puerta, ella dijo:"
+        },
+        {
+            "id": "2ki9_31b",
+            "speaker": "Jezabel",
+            "verse": 31,
+            "text": "¿Le va bien a Zimri, que mató a su señor?"
+        },
+        {
+            "id": "2ki9_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Entonces él alzó su rostro hacia la ventana y dijo:"
+        },
+        {
+            "id": "2ki9_32b",
+            "speaker": "Jehú",
+            "verse": 32,
+            "text": "¿Quién está conmigo? ¿Quién? Y miraron hacia él dos o tres eunucos."
+        },
+        {
+            "id": "2ki9_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "2ki9_33b",
+            "speaker": "Jehú",
+            "verse": 33,
+            "text": "Echadla abajo. Y ellos la echaron abajo; y parte de su sangre salpicó la pared y los caballos; y él la atropelló."
+        },
+        {
+            "id": "2ki9_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entró luego, y después que comió y bebió, dijo:"
+        },
+        {
+            "id": "2ki9_34b",
+            "speaker": "Jehú",
+            "verse": 34,
+            "text": "Id ahora a ver aquella maldita, y sepultadla, pues es hija de rey."
+        },
+        {
+            "id": "2ki9_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y cuando fueron para sepultarla, no hallaron de ella más que la calavera, y los pies, y las palmas de las manos."
+        },
+        {
+            "id": "2ki9_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y volvieron, y se lo dijeron. Y él dijo:"
+        },
+        {
+            "id": "2ki9_36b",
+            "speaker": "Jehú",
+            "verse": 36,
+            "text": "Ésta es la palabra de Jehová, la cual Él habló por medio de su siervo Elías tisbita, diciendo: En la heredad de Jezreel comerán los perros las carnes de Jezabel."
+        },
+        {
+            "id": "2ki9_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y el cadáver de Jezabel será como estiércol sobre la faz de la tierra en la heredad de Jezreel; de manera que nadie pueda decir:"
+        },
+        {
+            "id": "2ki9_37b",
+            "speaker": "Jezabel",
+            "verse": 37,
+            "text": "Ésta es Jezabel."
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "book": "2 Reyes",
+    "chapter": 20,
+    "title": "2 Reyes 20",
+    "messages": [
+        {
+            "id": "2ki20_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En aquellos días Ezequías cayó enfermo de muerte, y vino a él el profeta Isaías, hijo de Amoz, y le dijo:"
+        },
+        {
+            "id": "2ki20_1b",
+            "speaker": "Isaías",
+            "verse": 1,
+            "text": "Así dice Jehová: Pon tu casa en orden, porque morirás, y no vivirás."
+        },
+        {
+            "id": "2ki20_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces volvió él su rostro a la pared, y oró a Jehová, y dijo:"
+        },
+        {
+            "id": "2ki20_3",
+            "speaker": "Ezequías",
+            "verse": 3,
+            "text": "Te ruego, oh Jehová, te ruego hagas memoria de que he andado delante de ti en verdad y con íntegro corazón, y que he hecho las cosas que te agradan. Y lloró Ezequías con gran lloro."
+        },
+        {
+            "id": "2ki20_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y aconteció que antes que Isaías saliese hasta la mitad del patio, vino palabra de Jehová a Isaías, diciendo:"
+        },
+        {
+            "id": "2ki20_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Vuelve, y di a Ezequías, príncipe de mi pueblo: Así dice Jehová, el Dios de David tu padre:"
+        },
+        {
+            "id": "2ki20_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Yo he oído tu oración, y he visto tus lágrimas; he aquí yo te sano; al tercer día subirás a la casa de Jehová."
+        },
+        {
+            "id": "2ki20_6",
+            "speaker": "Isaías",
+            "verse": 6,
+            "text": "Y añadiré a tus días quince años, y te libraré a ti y a esta ciudad de mano del rey de Asiria; y ampararé esta ciudad por amor a mí mismo, y por amor a David mi siervo."
+        },
+        {
+            "id": "2ki20_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo Isaías:"
+        },
+        {
+            "id": "2ki20_7b",
+            "speaker": "Isaías",
+            "verse": 7,
+            "text": "Tomad masa de higos. Y tomándola, la pusieron sobre la llaga, y sanó."
+        },
+        {
+            "id": "2ki20_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Ezequías había dicho a Isaías:"
+        },
+        {
+            "id": "2ki20_8b",
+            "speaker": "Ezequías",
+            "verse": 8,
+            "text": "¿Qué señal tendré de que Jehová me sanará, y de que subiré a la casa de Jehová al tercer día?"
+        },
+        {
+            "id": "2ki20_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y respondió Isaías:"
+        },
+        {
+            "id": "2ki20_9b",
+            "speaker": "Isaías",
+            "verse": 9,
+            "text": "Esta señal tendrás de Jehová, de que Jehová hará esto que ha dicho: ¿Avanzará la sombra diez grados, o retrocederá diez grados?"
+        },
+        {
+            "id": "2ki20_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Ezequías respondió:"
+        },
+        {
+            "id": "2ki20_10b",
+            "speaker": "Ezequías",
+            "verse": 10,
+            "text": "Fácil cosa es que la sombra decline diez grados: pero no que la sombra vuelva atrás diez grados."
+        },
+        {
+            "id": "2ki20_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces el profeta Isaías clamó a Jehová; e hizo volver la sombra por los grados que había descendido en el reloj de Acaz, diez grados atrás."
+        },
+        {
+            "id": "2ki20_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "En aquel tiempo Berodac-baladán, hijo de Baladán, rey de Babilonia, envió cartas y un presente a Ezequías, porque había oído que Ezequías había caído enfermo."
+        },
+        {
+            "id": "2ki20_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Ezequías los oyó, y les mostró toda la casa de sus tesoros, la plata, el oro, las especias y los preciosos ungüentos; y la casa de sus armas, y todo lo que había en sus tesoros: ninguna cosa quedó que Ezequías no les mostrase, así en su casa como en todo su señorío."
+        },
+        {
+            "id": "2ki20_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces el profeta Isaías vino al rey Ezequías, y le dijo:"
+        },
+        {
+            "id": "2ki20_14b",
+            "speaker": "Isaías",
+            "verse": 14,
+            "text": "¿Qué dijeron aquellos varones, y de dónde vinieron a ti?"
+        },
+        {
+            "id": "2ki20_14c",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Ezequías le respondió:"
+        },
+        {
+            "id": "2ki20_14d",
+            "speaker": "Ezequías",
+            "verse": 14,
+            "text": "De lejanas tierras han venido, de Babilonia."
+        },
+        {
+            "id": "2ki20_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él le volvió a decir:"
+        },
+        {
+            "id": "2ki20_15b",
+            "speaker": "Isaías",
+            "verse": 15,
+            "text": "¿Qué vieron en tu casa?"
+        },
+        {
+            "id": "2ki20_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Ezequías respondió:"
+        },
+        {
+            "id": "2ki20_15d",
+            "speaker": "Ezequías",
+            "verse": 15,
+            "text": "Vieron todo lo que hay en mi casa; nada quedó en mis tesoros que no les mostrase."
+        },
+        {
+            "id": "2ki20_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces Isaías dijo a Ezequías:"
+        },
+        {
+            "id": "2ki20_16b",
+            "speaker": "Isaías",
+            "verse": 16,
+            "text": "Oye palabra de Jehová:"
+        },
+        {
+            "id": "2ki20_17",
+            "speaker": "Isaías",
+            "verse": 17,
+            "text": "He aquí vienen días, en que todo lo que hay en tu casa, y todo lo que tus padres han atesorado hasta hoy, será llevado a Babilonia, sin quedar nada, dice Jehová."
+        },
+        {
+            "id": "2ki20_18",
+            "speaker": "Isaías",
+            "verse": 18,
+            "text": "Y de tus hijos que saldrán de ti, que habrás engendrado, tomarán; y serán eunucos en el palacio del rey de Babilonia."
+        },
+        {
+            "id": "2ki20_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces Ezequías dijo a Isaías:"
+        },
+        {
+            "id": "2ki20_19b",
+            "speaker": "Ezequías",
+            "verse": 19,
+            "text": "La palabra de Jehová que has hablado, es buena."
+        },
+        {
+            "id": "2ki20_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Después dijo:"
+        },
+        {
+            "id": "2ki20_19d",
+            "speaker": "Ezequías",
+            "verse": 19,
+            "text": "¿Mas no habrá paz y verdad en mis días?"
+        },
+        {
+            "id": "2ki20_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Los demás hechos de Ezequías, y todo su poderío, y cómo hizo el estanque y el acueducto, y metió las aguas en la ciudad, ¿no están escritos en el libro de las crónicas de los reyes de Judá?"
+        },
+        {
+            "id": "2ki20_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y durmió Ezequías con sus padres, y Manasés su hijo reinó en su lugar."
+        }
+    ]
+}

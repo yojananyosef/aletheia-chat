@@ -1,0 +1,241 @@
+{
+    "book": "2 Reyes",
+    "chapter": 15,
+    "title": "2 Reyes 15",
+    "messages": [
+        {
+            "id": "2ki15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el año veintisiete de Jeroboam, rey de Israel, comenzó a reinar Azarías, hijo de Amasías, rey de Judá."
+        },
+        {
+            "id": "2ki15_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Dieciséis años tenía cuando comenzó a reinar, y cincuenta y dos años reinó en Jerusalén; el nombre de su madre fue Jecolía, de Jerusalén."
+        },
+        {
+            "id": "2ki15_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "E hizo lo recto ante los ojos de Jehová, conforme a todas las cosas que su padre Amasías había hecho."
+        },
+        {
+            "id": "2ki15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Con todo, los lugares altos no fueron quitados, pues el pueblo todavía sacrificaba y quemaba incienso en los lugares altos."
+        },
+        {
+            "id": "2ki15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas Jehová hirió al rey con lepra, y fue leproso hasta el día de su muerte y habitó en una casa separada; y Jotam, hijo del rey, tenía el cargo del palacio, gobernando al pueblo de la tierra."
+        },
+        {
+            "id": "2ki15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Los demás hechos de Azarías, y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá?"
+        },
+        {
+            "id": "2ki15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y durmió Azarías con sus padres, y lo sepultaron con sus padres en la ciudad de David: y Jotam su hijo reinó en su lugar."
+        },
+        {
+            "id": "2ki15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "En el año treinta y ocho de Azarías, rey de Judá, reinó Zacarías, hijo de Jeroboam, sobre Israel seis meses."
+        },
+        {
+            "id": "2ki15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "E hizo lo malo ante los ojos de Jehová, como habían hecho sus padres: no se apartó de los pecados de Jeroboam, hijo de Nabat, el que hizo pecar a Israel."
+        },
+        {
+            "id": "2ki15_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Contra él conspiró Salum, hijo de Jabes, y lo hirió en presencia de su pueblo, y lo mató, y reinó en su lugar."
+        },
+        {
+            "id": "2ki15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Los demás hechos de Zacarías, he aquí están escritos en el libro de las crónicas de los reyes de Israel."
+        },
+        {
+            "id": "2ki15_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y ésta fue la palabra de Jehová que había hablado a Jehú, diciendo:"
+        },
+        {
+            "id": "2ki15_12b",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Tus hijos hasta la cuarta generación se sentarán en el trono de Israel. Y fue así."
+        },
+        {
+            "id": "2ki15_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Salum, hijo de Jabes, comenzó a reinar en el año treinta y nueve de Uzías, rey de Judá, y reinó el tiempo de un mes en Samaria;"
+        },
+        {
+            "id": "2ki15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pues subió Manahem, hijo de Gadi, de Tirsa, y vino a Samaria, e hirió a Salum, hijo de Jabes en Samaria y lo mató, y reinó en su lugar."
+        },
+        {
+            "id": "2ki15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Los demás hechos de Salum, y la conspiración que hizo, he aquí están escritos en el libro de las crónicas de los reyes de Israel."
+        },
+        {
+            "id": "2ki15_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces hirió Manahem a Tifsa, y a todos los que estaban en ella, y también sus términos desde Tirsa; y la hirió porque no le habían abierto las puertas; y abrió el vientre a todas las mujeres que estaban encinta."
+        },
+        {
+            "id": "2ki15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "En el año treinta y nueve de Azarías, rey de Judá, Manahem, hijo de Gadi, comenzó a reinar sobre Israel; y reinó diez años en Samaria."
+        },
+        {
+            "id": "2ki15_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "E hizo lo malo ante los ojos de Jehová; no se apartó en todo su tiempo de los pecados de Jeroboam, hijo de Nabat, el que hizo pecar a Israel."
+        },
+        {
+            "id": "2ki15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y vino Pul, rey de Asiria, a la tierra; y dio Manahem a Pul mil talentos de plata para que le ayudara a confirmarse en el reino."
+        },
+        {
+            "id": "2ki15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "E impuso Manahem este dinero sobre Israel, sobre todos los poderosos y opulentos: de cada uno cincuenta siclos de plata, para dar al rey de Asiria, y el rey de Asiria se volvió, y no se detuvo allí en la tierra."
+        },
+        {
+            "id": "2ki15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Los demás hechos de Manahem, y todas las cosas que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Israel?"
+        },
+        {
+            "id": "2ki15_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y durmió Manahem con sus padres, y Pekaía su hijo reinó en su lugar."
+        },
+        {
+            "id": "2ki15_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "En el año cincuenta de Azarías, rey de Judá, Pekaía, hijo de Manahem, comenzó a reinar sobre Israel en Samaria, y reinó dos años."
+        },
+        {
+            "id": "2ki15_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "E hizo lo malo ante los ojos de Jehová; no se apartó de los pecados de Jeroboam, hijo de Nabat, el que hizo pecar a Israel."
+        },
+        {
+            "id": "2ki15_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y conspiró contra él Peka, hijo de Remalías, capitán suyo, y lo hirió en Samaria, en el palacio de la casa real, en compañía de Argob y de Arif, y con cincuenta hombres de los hijos de los galaaditas. Y lo mató y reinó en su lugar."
+        },
+        {
+            "id": "2ki15_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Los demás hechos de Pekaía, y todo lo que hizo, he aquí están escritos en el libro de las crónicas de los reyes de Israel."
+        },
+        {
+            "id": "2ki15_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "En el año cincuenta y dos de Azarías, rey de Judá, Peka, hijo de Remalías, comenzó a reinar sobre Israel en Samaria; y reinó veinte años."
+        },
+        {
+            "id": "2ki15_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "E hizo lo malo ante los ojos de Jehová; no se apartó de los pecados de Jeroboam, hijo de Nabat, el que hizo pecar a Israel."
+        },
+        {
+            "id": "2ki15_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "En los días de Peka, rey de Israel, vino Tiglat-pileser rey de los asirios, y tomó a Ahión, Abel-bet-maaca, y Janoa, y Cedes, y Hazor, y Galaad, y Galilea, y toda la tierra de Neftalí; y los llevó cautivos a Asiria."
+        },
+        {
+            "id": "2ki15_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y Oseas, hijo de Ela, hizo una conspiración contra Peka, hijo de Remalías, y lo hirió, y lo mató, y reinó en su lugar, a los veinte años de Jotam, hijo de Uzías."
+        },
+        {
+            "id": "2ki15_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Los demás hechos de Peka, y todo lo que hizo, he aquí están escritos en el libro de las crónicas de los reyes de Israel."
+        },
+        {
+            "id": "2ki15_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "En el segundo año de Peka, hijo de Remalías, rey de Israel, comenzó a reinar Jotam, hijo de Uzías, rey de Judá."
+        },
+        {
+            "id": "2ki15_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Cuando comenzó a reinar era de veinticinco años, y reinó dieciséis años en Jerusalén. El nombre de su madre fue Jerusa, hija de Sadoc."
+        },
+        {
+            "id": "2ki15_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y él hizo lo recto en ojos de Jehová; hizo conforme a todas las cosas que había hecho su padre Uzías."
+        },
+        {
+            "id": "2ki15_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Con todo eso los lugares altos no fueron quitados; que el pueblo sacrificaba aún, y quemaba incienso en los lugares altos. Edificó él la puerta más alta de la casa de Jehová."
+        },
+        {
+            "id": "2ki15_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Los demás hechos de Jotam, y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá?"
+        },
+        {
+            "id": "2ki15_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "En aquel tiempo comenzó Jehová a enviar contra Judá a Rezín, rey de Siria, y a Peka, hijo de Remalías."
+        },
+        {
+            "id": "2ki15_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y durmió Jotam con sus padres, y fue sepultado con sus padres en la ciudad de David, su padre; y Acaz su hijo reinó en su lugar."
+        }
+    ]
+}

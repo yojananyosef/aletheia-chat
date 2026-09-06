@@ -1,0 +1,229 @@
+{
+    "book": "2 Reyes",
+    "chapter": 13,
+    "title": "2 Reyes 13",
+    "messages": [
+        {
+            "id": "2ki13_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el año veintitrés de Joás hijo de Ocozías, rey de Judá, comenzó a reinar Joacaz, hijo de Jehú, sobre Israel en Samaria; y reinó diecisiete años."
+        },
+        {
+            "id": "2ki13_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "E hizo lo malo en ojos de Jehová, y siguió los pecados de Jeroboam, hijo de Nabat, el que hizo pecar a Israel, y no se apartó de ellos."
+        },
+        {
+            "id": "2ki13_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y se encendió el furor de Jehová contra Israel, y los entregó en mano de Hazael, rey de Siria, y en mano de Benadad, hijo de Hazael, por largo tiempo."
+        },
+        {
+            "id": "2ki13_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas Joacaz oró a la faz de Jehová, y Jehová lo oyó: porque miró la aflicción de Israel, pues el rey de Siria los afligía."
+        },
+        {
+            "id": "2ki13_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "(Y dio Jehová salvador a Israel, y salieron de bajo la mano de los sirios; y habitaron los hijos de Israel en sus tiendas, como antes."
+        },
+        {
+            "id": "2ki13_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Con todo eso no se apartaron de los pecados de la casa de Jeroboam, el que hizo pecar a Israel; en ellos anduvieron; y también la imagen de Asera permaneció en Samaria.)"
+        },
+        {
+            "id": "2ki13_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque no le había quedado gente a Joacaz, sino cincuenta hombres de a caballo, y diez carros y diez mil hombres de a pie; pues el rey de Siria los había destruido, y los había puesto como polvo para hollar."
+        },
+        {
+            "id": "2ki13_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Los demás hechos de Joacaz, y todo lo que hizo, y sus valentías, ¿no están escritos en el libro de las crónicas de los reyes de Israel?"
+        },
+        {
+            "id": "2ki13_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y durmió Joacaz con sus padres, y lo sepultaron en Samaria, y Joás su hijo reinó en su lugar."
+        },
+        {
+            "id": "2ki13_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El año treinta y siete de Joás, rey de Judá, comenzó a reinar Joás, hijo de Joacaz, sobre Israel en Samaria; y reinó dieciséis años."
+        },
+        {
+            "id": "2ki13_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "E hizo lo malo ante los ojos de Jehová: no se apartó de todos los pecados de Jeroboam, hijo de Nabat, el cual hizo pecar a Israel, sino que en ellos anduvo."
+        },
+        {
+            "id": "2ki13_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Los demás hechos de Joás, y todo lo que hizo, y su esfuerzo con que guerreó contra Amasías, rey de Judá, ¿no están escritos en el libro de las crónicas de los reyes de Israel?"
+        },
+        {
+            "id": "2ki13_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y durmió Joás con sus padres, y Jeroboam se sentó en su trono: Y Joás fue sepultado en Samaria con los reyes de Israel."
+        },
+        {
+            "id": "2ki13_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Eliseo estaba enfermo de aquella su enfermedad de que murió. Y descendió a él Joás, rey de Israel, y llorando delante de él, dijo:"
+        },
+        {
+            "id": "2ki13_14b",
+            "speaker": "Joás",
+            "verse": 14,
+            "text": "¡Padre mío, padre mío, carro de Israel y su gente de a caballo!"
+        },
+        {
+            "id": "2ki13_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y le dijo Eliseo:"
+        },
+        {
+            "id": "2ki13_15b",
+            "speaker": "Eliseo",
+            "verse": 15,
+            "text": "Toma un arco y unas saetas. Tomó él entonces un arco y unas saetas."
+        },
+        {
+            "id": "2ki13_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y dijo Eliseo al rey de Israel:"
+        },
+        {
+            "id": "2ki13_16b",
+            "speaker": "Eliseo",
+            "verse": 16,
+            "text": "Pon tu mano sobre el arco. Y puso él su mano sobre el arco. Entonces puso Eliseo sus manos sobre las manos del rey,"
+        },
+        {
+            "id": "2ki13_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "2ki13_17b",
+            "speaker": "Eliseo",
+            "verse": 17,
+            "text": "Abre la ventana de hacia el oriente, y él la abrió."
+        },
+        {
+            "id": "2ki13_17c",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces Eliseo dijo:"
+        },
+        {
+            "id": "2ki13_17d",
+            "speaker": "Eliseo",
+            "verse": 17,
+            "text": "Tira."
+        },
+        {
+            "id": "2ki13_17e",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y tirando él, dijo Eliseo:"
+        },
+        {
+            "id": "2ki13_17f",
+            "speaker": "Eliseo",
+            "verse": 17,
+            "text": "Saeta de salvación de Jehová, saeta de salvación contra Siria; porque herirás a los sirios en Afec, hasta consumirlos."
+        },
+        {
+            "id": "2ki13_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "2ki13_18b",
+            "speaker": "Eliseo",
+            "verse": 18,
+            "text": "Toma las saetas."
+        },
+        {
+            "id": "2ki13_18c",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y luego que el rey de Israel las hubo tomado, le dijo:"
+        },
+        {
+            "id": "2ki13_18d",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Hiere la tierra. Y él la hirió tres veces y se detuvo."
+        },
+        {
+            "id": "2ki13_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces el varón de Dios, enojado contra él, le dijo:"
+        },
+        {
+            "id": "2ki13_19b",
+            "speaker": "Eliseo",
+            "verse": 19,
+            "text": "Al herir cinco o seis veces, habrías herido a Siria, hasta no quedar ninguno: Pero ahora herirás a Siria sólo tres veces."
+        },
+        {
+            "id": "2ki13_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y murió Eliseo, y lo sepultaron. Entrado el año vinieron partidas de moabitas a la tierra."
+        },
+        {
+            "id": "2ki13_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y aconteció que cuando estaban sepultando a un hombre, súbitamente vieron una banda de hombres, y arrojaron al hombre en el sepulcro de Eliseo: y cuando llegó a tocar el muerto los huesos de Eliseo, revivió, y se levantó sobre sus pies."
+        },
+        {
+            "id": "2ki13_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero Hazael, rey de Siria, afligió a Israel todo el tiempo de Joacaz."
+        },
+        {
+            "id": "2ki13_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Mas Jehová tuvo misericordia de ellos, y tuvo compasión de ellos, y los miró, por amor a su pacto con Abraham, Isaac y Jacob; y no quiso destruirlos ni echarlos de delante de sí hasta ahora."
+        },
+        {
+            "id": "2ki13_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y murió Hazael, rey de Siria, y Benadad su hijo reinó en su lugar."
+        },
+        {
+            "id": "2ki13_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y volvió Joás, hijo de Joacaz, y recobró de mano de Benadad, hijo de Hazael, las ciudades que éste había tomado en guerra de mano de Joacaz, su padre. Tres veces Joás lo derrotó, y recobró las ciudades de Israel."
+        }
+    ]
+}
