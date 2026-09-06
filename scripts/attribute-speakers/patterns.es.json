@@ -1675,6 +1675,181 @@
       "flags": "i",
       "speaker": "Jóvenes",
       "confidence": 0.8
+    },
+    {
+      "id": "adonias",
+      "pattern": "\\b(adon[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Adonías",
+      "confidence": 0.85
+    },
+    {
+      "id": "benaia",
+      "pattern": "\\b(bena[íi]a)\\b",
+      "flags": "i",
+      "speaker": "Benaía",
+      "confidence": 0.85
+    },
+    {
+      "id": "acab",
+      "pattern": "\\b(acab)\\b",
+      "flags": "i",
+      "speaker": "Acab",
+      "confidence": 0.85
+    },
+    {
+      "id": "jezabel",
+      "pattern": "\\b(jezabel)\\b",
+      "flags": "i",
+      "speaker": "Jezabel",
+      "confidence": 0.85
+    },
+    {
+      "id": "jeroboam",
+      "pattern": "\\b(jeroboam)\\b",
+      "flags": "i",
+      "speaker": "Jeroboam",
+      "confidence": 0.85
+    },
+    {
+      "id": "roboam",
+      "pattern": "\\b(roboam)\\b",
+      "flags": "i",
+      "speaker": "Roboam",
+      "confidence": 0.85
+    },
+    {
+      "id": "hiram",
+      "pattern": "\\b(hiram)\\b",
+      "flags": "i",
+      "speaker": "Hiram",
+      "confidence": 0.85
+    },
+    {
+      "id": "reina-seba",
+      "pattern": "\\b(reina de seba)\\b",
+      "flags": "i",
+      "speaker": "Reina de Seba",
+      "confidence": 0.85
+    },
+    {
+      "id": "abdias",
+      "pattern": "\\b(abd[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Abdías",
+      "confidence": 0.85
+    },
+    {
+      "id": "nabot",
+      "pattern": "\\b(nabot)\\b",
+      "flags": "i",
+      "speaker": "Nabot",
+      "confidence": 0.85
+    },
+    {
+      "id": "micaias",
+      "pattern": "\\b(mica[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Micaías",
+      "confidence": 0.85
+    },
+    {
+      "id": "sedequias",
+      "pattern": "\\b(sedequ[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Sedequías",
+      "confidence": 0.85
+    },
+    {
+      "id": "josafat",
+      "pattern": "\\b(josafat)\\b",
+      "flags": "i",
+      "speaker": "Josafat",
+      "confidence": 0.85
+    },
+    {
+      "id": "benadad",
+      "pattern": "\\b(benadad)\\b",
+      "flags": "i",
+      "speaker": "Benadad",
+      "confidence": 0.85
+    },
+    {
+      "id": "ahias",
+      "pattern": "\\b(ah[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Ahías",
+      "confidence": 0.85
+    },
+    {
+      "id": "viuda-sarepta",
+      "pattern": "\\b(viuda)\\b",
+      "flags": "i",
+      "speaker": "Viuda",
+      "confidence": 0.8
+    },
+    {
+      "id": "varon-de-dios",
+      "pattern": "\\b(var[óo]n de dios)\\b",
+      "flags": "i",
+      "speaker": "Varón de Dios",
+      "confidence": 0.85
+    },
+    {
+      "id": "profeta-viejo",
+      "pattern": "\\b(profeta viejo)\\b",
+      "flags": "i",
+      "speaker": "Profeta viejo",
+      "confidence": 0.85
+    },
+    {
+      "id": "esposa-jeroboam",
+      "pattern": "\\b(esposa de jeroboam)\\b",
+      "flags": "i",
+      "speaker": "Esposa de Jeroboam",
+      "confidence": 0.85
+    },
+    {
+      "id": "ocozias",
+      "pattern": "\\b(ocoz[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Ocozías",
+      "confidence": 0.85
+    },
+    {
+      "id": "rey-de-siria",
+      "pattern": "\\b(rey de siria)\\b",
+      "flags": "i",
+      "speaker": "Rey de Siria",
+      "confidence": 0.85
+    },
+    {
+      "id": "salomon",
+      "pattern": "\\b(salom[óo]n)\\b",
+      "flags": "i",
+      "speaker": "Salomón",
+      "confidence": 0.85
+    },
+    {
+      "id": "elias",
+      "pattern": "\\b(el[íi]as)\\b",
+      "flags": "i",
+      "speaker": "Elías",
+      "confidence": 0.85
+    },
+    {
+      "id": "eliseo",
+      "pattern": "\\b(eliseo)\\b",
+      "flags": "i",
+      "speaker": "Eliseo",
+      "confidence": 0.85
+    },
+    {
+      "id": "profeta",
+      "pattern": "\\b(profeta)\\b",
+      "flags": "i",
+      "speaker": "Profeta",
+      "confidence": 0.75
     }
   ],
   "aliases": {
