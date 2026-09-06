@@ -1,0 +1,445 @@
+{
+    "book": "Lucas",
+    "chapter": 12,
+    "title": "Lucas 12",
+    "messages": [
+        {
+            "id": "luk12_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En esto, juntándose una innumerable multitud, tanto que unos a otros se atropellaban, comenzó a decir a sus discípulos primeramente:"
+        },
+        {
+            "id": "luk12_1b",
+            "speaker": "Multitud",
+            "verse": 1,
+            "text": "Guardaos de la levadura de los fariseos, que es hipocresía."
+        },
+        {
+            "id": "luk12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque nada hay encubierto, que no haya de ser revelado; ni oculto, que no haya de saberse."
+        },
+        {
+            "id": "luk12_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Por tanto, lo que dijisteis en tinieblas, a la luz será oído; y lo que hablasteis al oído en las alcobas, será pregonado en las azoteas."
+        },
+        {
+            "id": "luk12_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y yo os digo, amigos míos: No temáis a los que matan el cuerpo, y después nada más pueden hacer."
+        },
+        {
+            "id": "luk12_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas os enseñaré a quién debéis temer: Temed a Aquél que después de haber quitado la vida, tiene poder de echar en el infierno: Sí, os digo: A Éste temed."
+        },
+        {
+            "id": "luk12_6",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "¿No se venden cinco pajarillos por dos blancas? Y ni uno de ellos está olvidado delante de Dios."
+        },
+        {
+            "id": "luk12_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pues aun los cabellos de vuestra cabeza están todos contados. No temáis, pues; de más estima sois vosotros que muchos pajarillos."
+        },
+        {
+            "id": "luk12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y os digo que todo aquel que me confesare delante de los hombres, también el Hijo del Hombre le confesará delante de los ángeles de Dios;"
+        },
+        {
+            "id": "luk12_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "pero el que me negare delante de los hombres, será negado delante de los ángeles de Dios."
+        },
+        {
+            "id": "luk12_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y todo aquel que dijere palabra contra el Hijo del Hombre, le será perdonado; pero al que blasfemare contra el Espíritu Santo, no le será perdonado."
+        },
+        {
+            "id": "luk12_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando os trajeren a las sinagogas, y ante los magistrados y potestades, no os preocupéis de cómo o qué habéis de responder, o qué habéis de decir;"
+        },
+        {
+            "id": "luk12_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "porque el Espíritu Santo os enseñará en la misma hora lo que debéis de decir."
+        },
+        {
+            "id": "luk12_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y le dijo uno de la multitud:"
+        },
+        {
+            "id": "luk12_13b",
+            "speaker": "Hombre",
+            "verse": 13,
+            "text": "Maestro, di a mi hermano que parta conmigo la herencia."
+        },
+        {
+            "id": "luk12_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas Él le dijo:"
+        },
+        {
+            "id": "luk12_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Hombre, ¿quién me puso por juez o partidor sobre vosotros?"
+        },
+        {
+            "id": "luk12_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk12_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Mirad, y guardaos de la avaricia; porque la vida del hombre no consiste en la abundancia de los bienes que posee."
+        },
+        {
+            "id": "luk12_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y les refirió una parábola, diciendo:"
+        },
+        {
+            "id": "luk12_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "La heredad de un hombre rico había producido mucho;"
+        },
+        {
+            "id": "luk12_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y él pensaba dentro de sí, diciendo:"
+        },
+        {
+            "id": "luk12_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "¿Qué haré, porque no tengo dónde almacenar mis frutos?"
+        },
+        {
+            "id": "luk12_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "luk12_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Esto haré; derribaré mis graneros, y los edificaré mayores, y allí almacenaré todos mis frutos y mis bienes;"
+        },
+        {
+            "id": "luk12_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y diré a mi alma: Alma, muchos bienes tienes almacenados para muchos años; repósate, come, bebe, regocíjate."
+        },
+        {
+            "id": "luk12_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Pero Dios le dijo:"
+        },
+        {
+            "id": "luk12_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será?"
+        },
+        {
+            "id": "luk12_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Así es el que hace para sí tesoro, y no es rico para con Dios."
+        },
+        {
+            "id": "luk12_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y dijo a sus discípulos:"
+        },
+        {
+            "id": "luk12_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Por tanto os digo: No os preocupéis por vuestra vida, qué comeréis; ni por el cuerpo, qué vestiréis."
+        },
+        {
+            "id": "luk12_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "La vida es más que la comida, y el cuerpo más que el vestido."
+        },
+        {
+            "id": "luk12_24",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Considerad los cuervos, que no siembran, ni siegan; que no tienen almacén, ni granero, y Dios los alimenta. ¿Cuánto más sois vosotros de más estima que las aves?"
+        },
+        {
+            "id": "luk12_25",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "¿Y quién de vosotros podrá con afanarse añadir a su estatura un codo?"
+        },
+        {
+            "id": "luk12_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Pues si no podéis ni aun lo que es menos, ¿por qué os afanáis por lo demás?"
+        },
+        {
+            "id": "luk12_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Considerad los lirios, cómo crecen; no labran, ni hilan; y os digo que ni aun Salomón con toda su gloria se vistió como uno de ellos."
+        },
+        {
+            "id": "luk12_28",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "Y si así viste Dios la hierba, que hoy está en el campo, y mañana es echada en el horno; ¿cuánto más a vosotros, hombres de poca fe?"
+        },
+        {
+            "id": "luk12_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Vosotros, pues, no os afanéis de qué habéis de comer, o qué habéis de beber; ni estéis ansiosos."
+        },
+        {
+            "id": "luk12_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Porque todas estas cosas buscan las gentes del mundo; pero vuestro Padre sabe que tenéis necesidad de estas cosas."
+        },
+        {
+            "id": "luk12_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Mas buscad primeramente el reino de Dios, y todas estas cosas os serán añadidas."
+        },
+        {
+            "id": "luk12_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "No temáis, manada pequeña; porque a vuestro Padre le ha placido daros el reino."
+        },
+        {
+            "id": "luk12_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Vended lo que poseéis, y dad limosna; haceos bolsas que no se envejezcan, tesoro en el cielo que no se agote; donde ladrón no llega, ni polilla corrompe."
+        },
+        {
+            "id": "luk12_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Porque donde está vuestro tesoro, allí también estará vuestro corazón."
+        },
+        {
+            "id": "luk12_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Estén ceñidos vuestros lomos, y vuestras lámparas encendidas;"
+        },
+        {
+            "id": "luk12_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "y vosotros sed semejantes a hombres que esperan cuando su señor ha de volver de las bodas; para que cuando venga y toque, en seguida le abran."
+        },
+        {
+            "id": "luk12_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Bienaventurados aquellos siervos a quienes el señor, cuando venga, halle velando; de cierto os digo que se ceñirá, y hará que se sienten a la mesa, y vendrá y les servirá."
+        },
+        {
+            "id": "luk12_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y si viene a la segunda vigilia, o aunque venga a la tercera vigilia, y los halla así, bienaventurados son aquellos siervos."
+        },
+        {
+            "id": "luk12_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y esto sabed, que si supiese el padre de familia a qué hora había de venir el ladrón, velaría ciertamente, y no dejaría minar su casa."
+        },
+        {
+            "id": "luk12_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Vosotros, pues, también, estad apercibidos; porque a la hora que no penséis, el Hijo del Hombre vendrá."
+        },
+        {
+            "id": "luk12_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Entonces Pedro le dijo:"
+        },
+        {
+            "id": "luk12_41b",
+            "speaker": "Pedro",
+            "verse": 41,
+            "text": "Señor, ¿dices esta parábola a nosotros, o también a todos?"
+        },
+        {
+            "id": "luk12_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y dijo el Señor:"
+        },
+        {
+            "id": "luk12_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "¿Quién es el mayordomo fiel y prudente, a quien su señor pondrá sobre su familia, para que a tiempo les dé su ración?"
+        },
+        {
+            "id": "luk12_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Bienaventurado aquel siervo a quien, cuando su señor venga, lo halle haciendo así."
+        },
+        {
+            "id": "luk12_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "En verdad os digo que él le pondrá sobre todos sus bienes."
+        },
+        {
+            "id": "luk12_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Pero si aquel siervo dice en su corazón:"
+        },
+        {
+            "id": "luk12_45b",
+            "speaker": "Jesús",
+            "verse": 45,
+            "text": "Mi señor tarda en venir; y comienza a golpear a los siervos y a las criadas, y a comer y beber y a embriagarse;"
+        },
+        {
+            "id": "luk12_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "vendrá el señor de aquel siervo el día que no lo espera, y a la hora que no sabe, y le apartará, y pondrá su parte con los incrédulos."
+        },
+        {
+            "id": "luk12_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y aquel siervo que sabía la voluntad de su señor y no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes."
+        },
+        {
+            "id": "luk12_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Pero el que sin saberla, hizo cosas dignas de azotes, será azotado poco; porque al que mucho le es dado, mucho le será demandado; y al que encomendaron mucho, más le será pedido."
+        },
+        {
+            "id": "luk12_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Fuego vine a meter en la tierra; ¿y qué quiero, si ya está encendido?"
+        },
+        {
+            "id": "luk12_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Pero de un bautismo me es necesario ser bautizado; y ¡cómo me angustio hasta que se cumpla!"
+        },
+        {
+            "id": "luk12_51",
+            "speaker": "Jesús",
+            "verse": 51,
+            "text": "¿Pensáis que he venido a la tierra para dar paz? Os digo: No, sino disensión."
+        },
+        {
+            "id": "luk12_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Porque de aquí en adelante cinco en una casa estarán divididos; tres contra dos, y dos contra tres."
+        },
+        {
+            "id": "luk12_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "El padre estará dividido contra el hijo, y el hijo contra el padre; la madre contra la hija, y la hija contra la madre; la suegra contra su nuera, y la nuera contra su suegra."
+        },
+        {
+            "id": "luk12_54a",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y decía también a la gente:"
+        },
+        {
+            "id": "luk12_54b",
+            "speaker": "Jesús",
+            "verse": 54,
+            "text": "Cuando veis la nube que sale del poniente, luego decís: Agua viene; y es así."
+        },
+        {
+            "id": "luk12_55a",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y cuando sopla el viento del sur, decís:"
+        },
+        {
+            "id": "luk12_55b",
+            "speaker": "Jesús",
+            "verse": 55,
+            "text": "Hará calor; y lo hace."
+        },
+        {
+            "id": "luk12_56",
+            "speaker": "Jesús",
+            "verse": 56,
+            "text": "¡Hipócritas! Sabéis discernir la faz del cielo y de la tierra; ¿y cómo no discernís este tiempo?"
+        },
+        {
+            "id": "luk12_57",
+            "speaker": "Jesús",
+            "verse": 57,
+            "text": "¿Y por qué aun de vosotros mismos no juzgáis lo que es justo?"
+        },
+        {
+            "id": "luk12_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Cuando vayas al magistrado con tu adversario, procura en el camino librarte de él; para que no te arrastre al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel."
+        },
+        {
+            "id": "luk12_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Te digo que no saldrás de allí, hasta que hayas pagado hasta la última blanca."
+        }
+    ]
+}

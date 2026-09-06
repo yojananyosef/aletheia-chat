@@ -1,0 +1,32 @@
+[
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Pastores",
+    "confidence": 0.8
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Simeón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 48,
+    "subId": "b",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  }
+]

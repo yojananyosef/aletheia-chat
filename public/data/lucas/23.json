@@ -1,0 +1,469 @@
+{
+    "book": "Lucas",
+    "chapter": 23,
+    "title": "Lucas 23",
+    "messages": [
+        {
+            "id": "luk23_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Levantándose entonces toda la multitud de ellos, le llevaron a Pilato."
+        },
+        {
+            "id": "luk23_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y comenzaron a acusarle, diciendo:"
+        },
+        {
+            "id": "luk23_2b",
+            "speaker": "Sacerdotes",
+            "verse": 2,
+            "text": "Hemos hallado que Éste pervierte la nación; y que prohíbe dar tributo a César, diciendo que Él mismo es Cristo; un Rey."
+        },
+        {
+            "id": "luk23_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces Pilato le preguntó, diciendo:"
+        },
+        {
+            "id": "luk23_3b",
+            "speaker": "Pilato",
+            "verse": 3,
+            "text": "¿Eres tú el Rey de los judíos?"
+        },
+        {
+            "id": "luk23_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y respondiendo Él, dijo:"
+        },
+        {
+            "id": "luk23_3d",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "Tú lo dices."
+        },
+        {
+            "id": "luk23_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Pilato dijo a los príncipes de los sacerdotes, y a la gente:"
+        },
+        {
+            "id": "luk23_4b",
+            "speaker": "Pilato",
+            "verse": 4,
+            "text": "Ninguna falta hallo en este hombre."
+        },
+        {
+            "id": "luk23_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas ellos porfiaban, diciendo:"
+        },
+        {
+            "id": "luk23_5b",
+            "speaker": "Sacerdotes",
+            "verse": 5,
+            "text": "Alborota al pueblo, enseñando por toda Judea, comenzando desde Galilea hasta aquí."
+        },
+        {
+            "id": "luk23_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Pilato, al oír, de Galilea, preguntó si el hombre era galileo."
+        },
+        {
+            "id": "luk23_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y luego que supo que era de la jurisdicción de Herodes, le remitió a Herodes, que también estaba en Jerusalén en aquellos días."
+        },
+        {
+            "id": "luk23_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Herodes, viendo a Jesús, se gozó mucho, pues hacía mucho que deseaba verle; porque había oído de Él muchas cosas, y tenía esperanza que le vería hacer algún milagro."
+        },
+        {
+            "id": "luk23_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y le preguntaba con muchas palabras; mas Él nada le respondió."
+        },
+        {
+            "id": "luk23_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y estaban los príncipes de los sacerdotes y los escribas acusándole con gran vehemencia."
+        },
+        {
+            "id": "luk23_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas Herodes con sus soldados le menospreció y escarneció, vistiéndole de una ropa espléndida; y le volvió a enviar a Pilato."
+        },
+        {
+            "id": "luk23_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y aquel mismo día Pilato y Herodes entre ellos se hicieron amigos; porque antes estaban enemistados entre sí."
+        },
+        {
+            "id": "luk23_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Pilato, convocando a los príncipes de los sacerdotes, y a los magistrados, y al pueblo,"
+        },
+        {
+            "id": "luk23_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Les dijo:"
+        },
+        {
+            "id": "luk23_14b",
+            "speaker": "Pilato",
+            "verse": 14,
+            "text": "Me habéis presentado a Éste como un hombre que pervierte al pueblo; y he aquí, yo, habiéndole interrogado delante de vosotros, no he hallado en este hombre falta alguna de aquellas cosas de que le acusáis."
+        },
+        {
+            "id": "luk23_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ni aun Herodes; porque os remití a él; y he aquí, nada digno de muerte ha hecho."
+        },
+        {
+            "id": "luk23_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Le castigaré, pues, y le soltaré."
+        },
+        {
+            "id": "luk23_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y tenía necesidad de soltarles uno en la fiesta."
+        },
+        {
+            "id": "luk23_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mas toda la multitud dio voces a una, diciendo:"
+        },
+        {
+            "id": "luk23_18b",
+            "speaker": "Multitud",
+            "verse": 18,
+            "text": "Fuera con Éste, y suéltanos a Barrabás."
+        },
+        {
+            "id": "luk23_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "(El cual había sido echado en la cárcel por una sedición hecha en la ciudad, y por un homicidio.)"
+        },
+        {
+            "id": "luk23_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y les habló otra vez Pilato, queriendo soltar a Jesús."
+        },
+        {
+            "id": "luk23_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero ellos volvieron a dar voces, diciendo:"
+        },
+        {
+            "id": "luk23_21b",
+            "speaker": "Multitud",
+            "verse": 21,
+            "text": "¡Crucifícale, crucifícale!"
+        },
+        {
+            "id": "luk23_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y él les dijo la tercera vez:"
+        },
+        {
+            "id": "luk23_22b",
+            "speaker": "Pilato",
+            "verse": 22,
+            "text": "¿Por qué? ¿Qué mal ha hecho Éste? No he hallado culpa de muerte en Él; le castigaré, pues, y le soltaré."
+        },
+        {
+            "id": "luk23_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Pero ellos instaban a grandes voces, pidiendo que fuese crucificado. Y las voces de ellos y de los príncipes de los sacerdotes prevalecieron."
+        },
+        {
+            "id": "luk23_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Pilato juzgó que se hiciese lo que ellos pedían;"
+        },
+        {
+            "id": "luk23_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "y les soltó a aquél que había sido echado en la cárcel por sedición y homicidio, al cual habían pedido; y entregó a Jesús a la voluntad de ellos."
+        },
+        {
+            "id": "luk23_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y llevándole, tomaron a un Simón cireneo, que venía del campo, y le pusieron encima la cruz para que la llevase en pos de Jesús."
+        },
+        {
+            "id": "luk23_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y le seguía una gran multitud del pueblo, y de mujeres que le lloraban y lamentaban."
+        },
+        {
+            "id": "luk23_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Mas Jesús, volviéndose a ellas, les dijo:"
+        },
+        {
+            "id": "luk23_28b",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "Hijas de Jerusalén, no lloréis por mí, sino llorad por vosotras mismas y por vuestros hijos."
+        },
+        {
+            "id": "luk23_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Porque he aquí vendrán días en que dirán: Bienaventuradas las estériles, y los vientres que no engendraron, y los pechos que no amamantaron."
+        },
+        {
+            "id": "luk23_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces comenzarán a decir a los montes:"
+        },
+        {
+            "id": "luk23_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "Caed sobre nosotros; y a los collados: Cubridnos."
+        },
+        {
+            "id": "luk23_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Porque si en el árbol verde hacen estas cosas, ¿en el seco, qué se hará?"
+        },
+        {
+            "id": "luk23_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y llevaban también con Él a otros dos, que eran malhechores, para ser muertos."
+        },
+        {
+            "id": "luk23_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y cuando llegaron al lugar que es llamado El Calvario, le crucificaron allí, y a los malhechores, uno a la derecha y otro a la izquierda."
+        },
+        {
+            "id": "luk23_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y Jesús decía:"
+        },
+        {
+            "id": "luk23_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "Padre, perdónalos, porque no saben lo que hacen. Y partiendo sus vestiduras, echaron suertes."
+        },
+        {
+            "id": "luk23_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y el pueblo estaba mirando; y también los príncipes con ellos se burlaban de Él, diciendo:"
+        },
+        {
+            "id": "luk23_35b",
+            "speaker": "Sacerdotes",
+            "verse": 35,
+            "text": "A otros salvó; sálvese a sí mismo, si Él es el Cristo, el escogido de Dios."
+        },
+        {
+            "id": "luk23_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y los soldados también le escarnecían, acercándose y presentándole vinagre,"
+        },
+        {
+            "id": "luk23_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "luk23_37b",
+            "speaker": "Soldados",
+            "verse": 37,
+            "text": "Si tú eres el Rey de los judíos, sálvate a ti mismo."
+        },
+        {
+            "id": "luk23_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y había también sobre Él un título escrito con letras griegas, y latinas, y hebreas: ÉSTE ES EL REY DE LOS JUDÍOS."
+        },
+        {
+            "id": "luk23_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y uno de los malhechores que estaban colgados le injuriaba, diciendo:"
+        },
+        {
+            "id": "luk23_39b",
+            "speaker": "Ladrones",
+            "verse": 39,
+            "text": "Si tú eres el Cristo, sálvate a ti mismo y a nosotros."
+        },
+        {
+            "id": "luk23_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y respondiendo el otro, le reprendió, diciendo:"
+        },
+        {
+            "id": "luk23_40b",
+            "speaker": "Ladrones",
+            "verse": 40,
+            "text": "¿No temes tú a Dios, aun estando en la misma condenación?"
+        },
+        {
+            "id": "luk23_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y nosotros, a la verdad, justamente padecemos; porque recibimos lo que merecieron nuestros hechos; mas Éste ningún mal hizo."
+        },
+        {
+            "id": "luk23_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y dijo a Jesús:"
+        },
+        {
+            "id": "luk23_42b",
+            "speaker": "Ladrones",
+            "verse": 42,
+            "text": "Señor, acuérdate de mí cuando vengas en tu reino."
+        },
+        {
+            "id": "luk23_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Entonces Jesús le dijo:"
+        },
+        {
+            "id": "luk23_43b",
+            "speaker": "Jesús",
+            "verse": 43,
+            "text": "De cierto te digo: Hoy estarás conmigo en el paraíso."
+        },
+        {
+            "id": "luk23_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y era como la hora sexta, y hubo tinieblas sobre toda la tierra hasta la hora novena."
+        },
+        {
+            "id": "luk23_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y el sol se oscureció, y el velo del templo se rasgó por el medio."
+        },
+        {
+            "id": "luk23_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Entonces Jesús, clamando a gran voz, dijo:"
+        },
+        {
+            "id": "luk23_46b",
+            "speaker": "Jesús",
+            "verse": 46,
+            "text": "Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto, entregó el espíritu."
+        },
+        {
+            "id": "luk23_47a",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y cuando el centurión vio lo que había acontecido, dio gloria a Dios, diciendo:"
+        },
+        {
+            "id": "luk23_47b",
+            "speaker": "Centurión",
+            "verse": 47,
+            "text": "Verdaderamente este hombre era justo."
+        },
+        {
+            "id": "luk23_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y toda la multitud de los que estaban presentes en este espectáculo, viendo lo que había acontecido, se volvían golpeándose el pecho."
+        },
+        {
+            "id": "luk23_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y todos sus conocidos, y las mujeres que le habían seguido desde Galilea, estaban lejos mirando estas cosas."
+        },
+        {
+            "id": "luk23_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y he aquí había un varón llamado José, el cual era consejero y un varón bueno y justo"
+        },
+        {
+            "id": "luk23_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "(Éste, no había consentido con el consejo ni con los hechos de ellos), de Arimatea, ciudad de los judíos, y quien también esperaba el reino de Dios."
+        },
+        {
+            "id": "luk23_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Éste fue a Pilato, y pidió el cuerpo de Jesús."
+        },
+        {
+            "id": "luk23_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y bajándolo, lo envolvió en una sábana, y lo puso en un sepulcro abierto en una peña, en el cual aún nadie había sido puesto."
+        },
+        {
+            "id": "luk23_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y era el día de la preparación; y estaba para comenzar el sábado."
+        },
+        {
+            "id": "luk23_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y las mujeres que habían venido con Él desde Galilea también lo acompañaron, y vieron el sepulcro y cómo fue puesto su cuerpo."
+        },
+        {
+            "id": "luk23_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Y regresando, prepararon especias aromáticas y ungüentos; y reposaron el sábado, conforme al mandamiento."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 40,
+    "subId": "d",
+    "speaker": "Fariseos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "b",
+    "speaker": "Fariseos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 44,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 48,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 50,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  }
+]

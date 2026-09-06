@@ -1,0 +1,373 @@
+{
+    "book": "Lucas",
+    "chapter": 10,
+    "title": "Lucas 10",
+    "messages": [
+        {
+            "id": "luk10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de estas cosas, designó el Señor también a otros setenta, y los envió de dos en dos delante de su faz, a toda ciudad y lugar a donde Él había de venir."
+        },
+        {
+            "id": "luk10_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y les decía:"
+        },
+        {
+            "id": "luk10_2b",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "La mies a la verdad es mucha, mas los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros a su mies."
+        },
+        {
+            "id": "luk10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Id, he aquí yo os envío como corderos en medio de lobos."
+        },
+        {
+            "id": "luk10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "No llevéis bolsa, ni alforja, ni calzado; y a nadie saludéis por el camino."
+        },
+        {
+            "id": "luk10_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "En cualquier casa donde entréis, primeramente decid:"
+        },
+        {
+            "id": "luk10_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Paz sea a esta casa."
+        },
+        {
+            "id": "luk10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y si hubiere allí algún hijo de paz, vuestra paz reposará sobre él; y si no, se volverá a vosotros."
+        },
+        {
+            "id": "luk10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y posad en aquella misma casa, comiendo y bebiendo lo que os dieren; porque el obrero digno es de su salario. No os paséis de casa en casa."
+        },
+        {
+            "id": "luk10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y en cualquier ciudad donde entrareis y os recibieren, comed lo que os pongan delante;"
+        },
+        {
+            "id": "luk10_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y sanad a los enfermos que en ella haya, y decidles:"
+        },
+        {
+            "id": "luk10_9b",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "El reino de Dios se ha acercado a vosotros."
+        },
+        {
+            "id": "luk10_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pero en cualquier ciudad donde entréis, y no os reciban, saliendo por sus calles, decid:"
+        },
+        {
+            "id": "luk10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Aun el polvo que se nos ha pegado de vuestra ciudad, sacudimos contra vosotros: Pero esto sabed, que el reino de Dios se ha acercado a vosotros."
+        },
+        {
+            "id": "luk10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y os digo que será más tolerable el castigo para Sodoma en aquel día, que para aquella ciudad."
+        },
+        {
+            "id": "luk10_13",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! que si en Tiro y en Sidón se hubieran hecho las maravillas que se han hecho en vosotras, hace mucho tiempo que sentadas en cilicio y ceniza, se habrían arrepentido."
+        },
+        {
+            "id": "luk10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Por tanto, en el juicio será más tolerable el castigo para Tiro y Sidón que para vosotras."
+        },
+        {
+            "id": "luk10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y tú, Capernaúm, que hasta el cielo eres levantada, hasta el infierno serás arrojada."
+        },
+        {
+            "id": "luk10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "El que a vosotros oye, a mí me oye; y el que a vosotros desecha, a mí me desecha; y el que a mí me desecha, desecha al que me envió."
+        },
+        {
+            "id": "luk10_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y volvieron los setenta con gozo, diciendo:"
+        },
+        {
+            "id": "luk10_17b",
+            "speaker": "Discípulos",
+            "verse": 17,
+            "text": "Señor, aun los demonios se nos sujetan en tu nombre."
+        },
+        {
+            "id": "luk10_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk10_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Yo vi a Satanás caer del cielo como un rayo."
+        },
+        {
+            "id": "luk10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "He aquí os doy potestad de hollar sobre las serpientes y sobre los escorpiones, y sobre toda fuerza del enemigo, y nada en ningún modo os dañará."
+        },
+        {
+            "id": "luk10_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas no os regocijéis en esto de que los espíritus se os sujetan; antes regocijaos de que vuestros nombres están escritos en el cielo."
+        },
+        {
+            "id": "luk10_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "En aquella misma hora Jesús se regocijó en su espíritu, y dijo:"
+        },
+        {
+            "id": "luk10_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Te doy gracias, oh Padre, Señor del cielo y de la tierra, porque escondiste estas cosas de los sabios y entendidos, y las has revelado a los niños. Sí Padre, porque así te agradó."
+        },
+        {
+            "id": "luk10_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Todas las cosas me son entregadas por mi Padre; y nadie sabe quién es el Hijo sino el Padre; ni quién es el Padre, sino el Hijo, y a quien el Hijo lo quisiere revelar."
+        },
+        {
+            "id": "luk10_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y volviéndose a sus discípulos, les dijo en privado:"
+        },
+        {
+            "id": "luk10_23b",
+            "speaker": "Discípulos",
+            "verse": 23,
+            "text": "Bienaventurados los ojos que ven lo que vosotros veis:"
+        },
+        {
+            "id": "luk10_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque os digo que muchos profetas y reyes desearon ver lo que vosotros veis, y no lo vieron; y oír lo que oís, y no lo oyeron."
+        },
+        {
+            "id": "luk10_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y he aquí un doctor de la ley se levantó y dijo, para probarle:"
+        },
+        {
+            "id": "luk10_25b",
+            "speaker": "Doctor",
+            "verse": 25,
+            "text": "Maestro, ¿qué haré para heredar la vida eterna?"
+        },
+        {
+            "id": "luk10_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Él le dijo:"
+        },
+        {
+            "id": "luk10_26b",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "¿Qué está escrito en la ley? ¿Cómo lees?"
+        },
+        {
+            "id": "luk10_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y él respondiendo, dijo:"
+        },
+        {
+            "id": "luk10_27b",
+            "speaker": "Doctor",
+            "verse": 27,
+            "text": "Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con todas tus fuerzas, y con toda tu mente; y a tu prójimo como a ti mismo."
+        },
+        {
+            "id": "luk10_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "luk10_28b",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "Bien has respondido; haz esto, y vivirás."
+        },
+        {
+            "id": "luk10_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Pero él, queriendo justificarse a sí mismo, dijo a Jesús:"
+        },
+        {
+            "id": "luk10_29b",
+            "speaker": "Doctor",
+            "verse": 29,
+            "text": "¿Y quién es mi prójimo?"
+        },
+        {
+            "id": "luk10_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y respondiendo Jesús, dijo:"
+        },
+        {
+            "id": "luk10_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "Un hombre descendía de Jerusalén a Jericó, y cayó en manos de ladrones, los cuales le despojaron; e hiriéndole, se fueron, dejándole medio muerto."
+        },
+        {
+            "id": "luk10_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y aconteció, que descendió un sacerdote por aquel camino, y cuando lo vio, pasó por el otro lado."
+        },
+        {
+            "id": "luk10_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y asimismo un levita, cuando llegó cerca de aquel lugar y lo vio, pasó por el otro lado."
+        },
+        {
+            "id": "luk10_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Pero un samaritano, que iba de camino, vino adonde él estaba, y cuando lo vio, tuvo compasión de él;"
+        },
+        {
+            "id": "luk10_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "y acercándose, vendó sus heridas, echándoles aceite y vino; y poniéndole sobre su cabalgadura, lo llevó al mesón y cuidó de él."
+        },
+        {
+            "id": "luk10_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y otro día al partir, sacó dos denarios, y los dio al mesonero, y le dijo:"
+        },
+        {
+            "id": "luk10_35b",
+            "speaker": "Jesús",
+            "verse": 35,
+            "text": "Cuida de él; y todo lo que de más gastares, yo cuando vuelva te lo pagaré."
+        },
+        {
+            "id": "luk10_36",
+            "speaker": "Ladrones",
+            "verse": 36,
+            "text": "¿Quién, pues, de estos tres te parece que fue el prójimo del que cayó en manos de los ladrones?"
+        },
+        {
+            "id": "luk10_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "luk10_37b",
+            "speaker": "Doctor",
+            "verse": 37,
+            "text": "El que mostró con él misericordia."
+        },
+        {
+            "id": "luk10_37c",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Entonces Jesús le dijo:"
+        },
+        {
+            "id": "luk10_37d",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Ve, y haz tú lo mismo."
+        },
+        {
+            "id": "luk10_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y aconteció que yendo ellos, entró Él en una aldea; y una mujer llamada Marta lo recibió en su casa."
+        },
+        {
+            "id": "luk10_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y ésta tenía una hermana que se llamaba María, la cual, sentándose a los pies de Jesús, oía su palabra."
+        },
+        {
+            "id": "luk10_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Pero Marta se distraía en muchos servicios; y vino a Él, diciendo:"
+        },
+        {
+            "id": "luk10_40b",
+            "speaker": "Marta",
+            "verse": 40,
+            "text": "Señor, ¿no tienes cuidado que mi hermana me deja servir sola? Dile, pues, que me ayude."
+        },
+        {
+            "id": "luk10_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y respondiendo Jesús, le dijo:"
+        },
+        {
+            "id": "luk10_41b",
+            "speaker": "Jesús",
+            "verse": 41,
+            "text": "Marta, Marta, estás afanada y turbada con muchas cosas:"
+        },
+        {
+            "id": "luk10_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Pero una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada."
+        }
+    ]
+}

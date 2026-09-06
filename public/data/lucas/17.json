@@ -1,0 +1,325 @@
+{
+    "book": "Lucas",
+    "chapter": 17,
+    "title": "Lucas 17",
+    "messages": [
+        {
+            "id": "luk17_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces dijo a los discípulos:"
+        },
+        {
+            "id": "luk17_1b",
+            "speaker": "Jesús",
+            "verse": 1,
+            "text": "Imposible es que no vengan tropiezos; mas ¡ay de aquel por quien vienen!"
+        },
+        {
+            "id": "luk17_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Mejor le fuera si se le atase al cuello una piedra de molino, y se le lanzase en el mar, que hacer tropezar a uno de estos pequeñitos."
+        },
+        {
+            "id": "luk17_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mirad por vosotros mismos. Si tu hermano peca contra ti, repréndele; y si se arrepiente, perdónale."
+        },
+        {
+            "id": "luk17_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y si siete veces al día peca contra ti, y siete veces al día vuelve a ti, diciendo:"
+        },
+        {
+            "id": "luk17_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Me arrepiento; perdónale."
+        },
+        {
+            "id": "luk17_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y los apóstoles dijeron al Señor:"
+        },
+        {
+            "id": "luk17_5b",
+            "speaker": "Discípulos",
+            "verse": 5,
+            "text": "Auméntanos la fe."
+        },
+        {
+            "id": "luk17_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y el Señor dijo:"
+        },
+        {
+            "id": "luk17_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Si tuviereis fe como un grano de mostaza, podríais decir a este sicómoro: Desarráigate, y plántate en el mar; y os obedecería."
+        },
+        {
+            "id": "luk17_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "¿Y quién de vosotros teniendo un siervo que ara o apacienta ganado, al volver él del campo, le dice en seguida:"
+        },
+        {
+            "id": "luk17_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Pasa, siéntate a la mesa?"
+        },
+        {
+            "id": "luk17_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "¿No le dice más bien:"
+        },
+        {
+            "id": "luk17_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Adereza qué cene, y cíñete, y sírveme hasta que haya comido y bebido; y después de esto, come y bebe tú?"
+        },
+        {
+            "id": "luk17_9",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "¿Da gracias al siervo porque hizo lo que le había sido mandado? Pienso que no."
+        },
+        {
+            "id": "luk17_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Así también vosotros, cuando hubiereis hecho todo lo que os es mandado, decid:"
+        },
+        {
+            "id": "luk17_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Siervos inútiles somos, porque lo que debíamos hacer, hicimos."
+        },
+        {
+            "id": "luk17_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y aconteció que yendo Él a Jerusalén, pasó por medio de Samaria y de Galilea."
+        },
+        {
+            "id": "luk17_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y entrando en una aldea, le vinieron al encuentro diez hombres leprosos, que se pararon a lo lejos,"
+        },
+        {
+            "id": "luk17_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y alzaron la voz, diciendo:"
+        },
+        {
+            "id": "luk17_13b",
+            "speaker": "Leprosos",
+            "verse": 13,
+            "text": "Jesús, Maestro, ten misericordia de nosotros."
+        },
+        {
+            "id": "luk17_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y cuando Él los vio, les dijo:"
+        },
+        {
+            "id": "luk17_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Id, mostraos a los sacerdotes. Y aconteció que yendo ellos, fueron limpiados."
+        },
+        {
+            "id": "luk17_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces uno de ellos, viendo que había sido sanado, volvió, glorificando a Dios a gran voz;"
+        },
+        {
+            "id": "luk17_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "y se postró sobre su rostro a sus pies, dándole gracias; y éste era samaritano."
+        },
+        {
+            "id": "luk17_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y respondiendo Jesús, dijo:"
+        },
+        {
+            "id": "luk17_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "¿No son diez los que fueron limpiados? ¿Y los nueve dónde están?"
+        },
+        {
+            "id": "luk17_18",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "¿No hubo quien volviese y diese gloria a Dios sino este extranjero?"
+        },
+        {
+            "id": "luk17_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "luk17_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Levántate, vete; tu fe te ha salvado."
+        },
+        {
+            "id": "luk17_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y preguntándole los fariseos, cuándo había de venir el reino de Dios, respondió y les dijo:"
+        },
+        {
+            "id": "luk17_20b",
+            "speaker": "Fariseos",
+            "verse": 20,
+            "text": "El reino de Dios no vendrá con advertencia;"
+        },
+        {
+            "id": "luk17_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "ni dirán: Helo aquí, o helo allí; porque he aquí el reino de Dios entre vosotros está."
+        },
+        {
+            "id": "luk17_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y dijo a sus discípulos:"
+        },
+        {
+            "id": "luk17_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Tiempo vendrá, cuando desearéis ver uno de los días del Hijo del Hombre, y no lo veréis."
+        },
+        {
+            "id": "luk17_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y os dirán: Helo aquí, o helo allí. No vayáis tras ellos, ni los sigáis."
+        },
+        {
+            "id": "luk17_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque como el relámpago, que resplandeciendo, alumbra de un extremo al otro bajo del cielo, así también será el Hijo del Hombre en su día."
+        },
+        {
+            "id": "luk17_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Pero primero es necesario que padezca mucho, y sea rechazado por esta generación."
+        },
+        {
+            "id": "luk17_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y como fue en los días de Noé, así también será en los días del Hijo del Hombre."
+        },
+        {
+            "id": "luk17_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Comían, bebían, se casaban y se daban en casamiento, hasta el día en que Noé entró en el arca; y vino el diluvio, y destruyó a todos."
+        },
+        {
+            "id": "luk17_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Asimismo también como fue en los días de Lot; comían, bebían, compraban, vendían, plantaban, edificaban;"
+        },
+        {
+            "id": "luk17_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "pero el día en que Lot salió de Sodoma, llovió del cielo fuego y azufre, y destruyó a todos."
+        },
+        {
+            "id": "luk17_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Así también será el día en que el Hijo del Hombre se manifieste."
+        },
+        {
+            "id": "luk17_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "En aquel día, el que esté en la azotea, y sus pertenencias en casa, no descienda a tomarlas; y el que esté en el campo, igualmente, no vuelva atrás."
+        },
+        {
+            "id": "luk17_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Acordaos de la esposa de Lot."
+        },
+        {
+            "id": "luk17_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Cualquiera que procure salvar su vida, la perderá; y cualquiera que la pierda, la salvará."
+        },
+        {
+            "id": "luk17_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Os digo que en aquella noche estarán dos en una cama; el uno será tomado, y el otro será dejado."
+        },
+        {
+            "id": "luk17_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Dos mujeres estarán moliendo juntas; la una será tomada, y la otra dejada."
+        },
+        {
+            "id": "luk17_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Dos estarán en el campo; el uno será tomado, y el otro dejado."
+        },
+        {
+            "id": "luk17_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y respondiendo, le dijeron:"
+        },
+        {
+            "id": "luk17_37b",
+            "speaker": "Discípulos",
+            "verse": 37,
+            "text": "¿Dónde, Señor?"
+        },
+        {
+            "id": "luk17_37c",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk17_37d",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Donde esté el cuerpo, allí también se juntarán las águilas."
+        }
+    ]
+}

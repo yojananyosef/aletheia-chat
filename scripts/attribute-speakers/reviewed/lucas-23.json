@@ -1,0 +1,74 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.8
+  },
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Pilato",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Pilato",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Soldados",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Ladrones",
+    "confidence": 0.85
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Ladrones",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Ladrones",
+    "confidence": 0.85
+  }
+]

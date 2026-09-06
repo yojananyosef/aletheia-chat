@@ -1,0 +1,673 @@
+{
+    "book": "Lucas",
+    "chapter": 22,
+    "title": "Lucas 22",
+    "messages": [
+        {
+            "id": "luk22_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y se acercaba el día de la fiesta de los panes sin levadura, que es llamada la Pascua."
+        },
+        {
+            "id": "luk22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y los príncipes de los sacerdotes y los escribas buscaban cómo matarle; porque temían al pueblo."
+        },
+        {
+            "id": "luk22_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y entró Satanás en Judas, por sobrenombre Iscariote, el cual era uno del número de los doce;"
+        },
+        {
+            "id": "luk22_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "y éste fue y habló con los príncipes de los sacerdotes, y con los magistrados, de cómo se lo entregaría."
+        },
+        {
+            "id": "luk22_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ellos se alegraron, y convinieron en darle dinero."
+        },
+        {
+            "id": "luk22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él prometió, y buscó oportunidad para entregárselo en ausencia del pueblo."
+        },
+        {
+            "id": "luk22_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y vino el día de los panes sin levadura, en el cual era necesario sacrificar la pascua."
+        },
+        {
+            "id": "luk22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y envió a Pedro y a Juan, diciendo:"
+        },
+        {
+            "id": "luk22_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Id y preparadnos la pascua para que comamos."
+        },
+        {
+            "id": "luk22_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "luk22_9b",
+            "speaker": "Discípulos",
+            "verse": 9,
+            "text": "¿Dónde quieres que la preparemos?"
+        },
+        {
+            "id": "luk22_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk22_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "He aquí, cuando entrareis en la ciudad, os encontrará un hombre que lleva un cántaro de agua; seguidle hasta la casa donde entrare,"
+        },
+        {
+            "id": "luk22_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y decid al padre de familia de esa casa:"
+        },
+        {
+            "id": "luk22_11b",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "El Maestro te dice: ¿Dónde está el aposento donde he de comer la pascua con mis discípulos?"
+        },
+        {
+            "id": "luk22_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces él os mostrará un gran aposento alto, ya dispuesto; preparad allí."
+        },
+        {
+            "id": "luk22_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Fueron, pues, y hallaron como les había dicho; y prepararon la pascua."
+        },
+        {
+            "id": "luk22_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y llegada la hora, se sentó a la mesa, y con Él los doce apóstoles."
+        },
+        {
+            "id": "luk22_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk22_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "¡Con cuánto anhelo he deseado comer con vosotros esta pascua antes que padezca!"
+        },
+        {
+            "id": "luk22_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque os digo que no comeré más de ella, hasta que se cumpla en el reino de Dios."
+        },
+        {
+            "id": "luk22_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y tomando la copa, dio gracias, y dijo:"
+        },
+        {
+            "id": "luk22_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Tomad esto, y repartidlo entre vosotros;"
+        },
+        {
+            "id": "luk22_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "porque os digo que no beberé del fruto de la vid, hasta que el reino de Dios venga."
+        },
+        {
+            "id": "luk22_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y tomando el pan, dio gracias, y lo partió y les dio, diciendo:"
+        },
+        {
+            "id": "luk22_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria de mí."
+        },
+        {
+            "id": "luk22_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "De igual manera, después que hubo cenado, tomó también la copa, diciendo:"
+        },
+        {
+            "id": "luk22_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Esta copa es el nuevo testamento en mi sangre, que por vosotros es derramada."
+        },
+        {
+            "id": "luk22_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Mas he aquí, conmigo en la mesa, la mano del que me entrega."
+        },
+        {
+            "id": "luk22_22",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Y a la verdad el Hijo del Hombre va, según lo que está determinado; mas ¡ay de aquel hombre por quien Él es entregado!"
+        },
+        {
+            "id": "luk22_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Ellos entonces comenzaron a preguntar entre sí, quién de ellos sería el que había de hacer esto."
+        },
+        {
+            "id": "luk22_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y hubo también entre ellos una disputa, de quién de ellos sería el mayor."
+        },
+        {
+            "id": "luk22_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk22_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Los reyes de los gentiles se enseñorean de ellos; y los que sobre ellos tienen autoridad son llamados bienhechores;"
+        },
+        {
+            "id": "luk22_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "mas no así vosotros; antes el que es mayor entre vosotros, sea como el menor; y el que es príncipe, sea como el siervo."
+        },
+        {
+            "id": "luk22_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Porque, ¿cuál es mayor, el que se sienta a la mesa, o el que sirve? ¿No es el que se sienta a la mesa? Pero yo soy entre vosotros como el que sirve."
+        },
+        {
+            "id": "luk22_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Mas vosotros sois los que habéis permanecido conmigo en mis pruebas."
+        },
+        {
+            "id": "luk22_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Yo, pues, os asigno un reino, como mi Padre me lo asignó a mí,"
+        },
+        {
+            "id": "luk22_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "para que comáis y bebáis a mi mesa en mi reino, y os sentéis sobre tronos juzgando a las doce tribus de Israel."
+        },
+        {
+            "id": "luk22_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Dijo también el Señor:"
+        },
+        {
+            "id": "luk22_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Simón, Simón, he aquí Satanás os ha pedido para zarandearos como a trigo;"
+        },
+        {
+            "id": "luk22_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "mas yo he rogado por ti, para que tu fe no falte; y tú, una vez vuelto, confirma a tus hermanos."
+        },
+        {
+            "id": "luk22_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "luk22_33b",
+            "speaker": "Pedro",
+            "verse": 33,
+            "text": "Señor, presto estoy a ir contigo a la cárcel, y aun a la muerte."
+        },
+        {
+            "id": "luk22_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "luk22_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "Pedro, te digo que el gallo no cantará hoy antes que tú hayas negado tres veces que me conoces."
+        },
+        {
+            "id": "luk22_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y a ellos dijo:"
+        },
+        {
+            "id": "luk22_35b",
+            "speaker": "Jesús",
+            "verse": 35,
+            "text": "Cuando os envié sin bolsa, y sin alforja, y sin zapatos, ¿os faltó algo?"
+        },
+        {
+            "id": "luk22_35c",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "luk22_35d",
+            "speaker": "Discípulos",
+            "verse": 35,
+            "text": "Nada."
+        },
+        {
+            "id": "luk22_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces les dijo:"
+        },
+        {
+            "id": "luk22_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Pues ahora, el que tiene bolsa, tómela, y también la alforja, y el que no tiene espada, venda su capa y compre una."
+        },
+        {
+            "id": "luk22_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Porque os digo que es necesario que se cumpla todavía en mí aquello que está escrito: Y con los malos fue contado; porque lo que concierne a mí, cumplimiento tiene."
+        },
+        {
+            "id": "luk22_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Entonces ellos dijeron:"
+        },
+        {
+            "id": "luk22_38b",
+            "speaker": "Discípulos",
+            "verse": 38,
+            "text": "Señor, he aquí dos espadas."
+        },
+        {
+            "id": "luk22_38c",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk22_38d",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "Basta."
+        },
+        {
+            "id": "luk22_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y saliendo, se fue, como solía, al monte de los Olivos; y sus discípulos también le siguieron."
+        },
+        {
+            "id": "luk22_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y cuando llegó a aquel lugar, les dijo:"
+        },
+        {
+            "id": "luk22_40b",
+            "speaker": "Jesús",
+            "verse": 40,
+            "text": "Orad que no entréis en tentación."
+        },
+        {
+            "id": "luk22_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y Él se apartó de ellos como a un tiro de piedra; y puesto de rodillas oró,"
+        },
+        {
+            "id": "luk22_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "luk22_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "Padre, si quieres, pasa de mí esta copa; pero no se haga mi voluntad, sino la tuya."
+        },
+        {
+            "id": "luk22_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y le apareció un ángel del cielo para fortalecerle."
+        },
+        {
+            "id": "luk22_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y estando en agonía, oraba más intensamente; y fue su sudor como grandes gotas de sangre que caían hasta la tierra."
+        },
+        {
+            "id": "luk22_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y cuando se levantó de la oración, y vino a sus discípulos, los halló durmiendo de tristeza;"
+        },
+        {
+            "id": "luk22_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk22_46b",
+            "speaker": "Jesús",
+            "verse": 46,
+            "text": "¿Por qué dormís? Levantaos, y orad que no entréis en tentación."
+        },
+        {
+            "id": "luk22_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y mientras Él aún hablaba, he aquí una turba; y el que se llamaba Judas, uno de los doce, iba delante de ellos; y se acercó a Jesús para besarle."
+        },
+        {
+            "id": "luk22_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Entonces Jesús le dijo:"
+        },
+        {
+            "id": "luk22_48b",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "Judas, ¿con un beso entregas al Hijo del Hombre?"
+        },
+        {
+            "id": "luk22_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y viendo los que estaban con Él lo que estaba por acontecer, le dijeron:"
+        },
+        {
+            "id": "luk22_49b",
+            "speaker": "Discípulos",
+            "verse": 49,
+            "text": "Señor, ¿heriremos a espada?"
+        },
+        {
+            "id": "luk22_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y uno de ellos hirió a un siervo del sumo sacerdote, y le cortó la oreja derecha."
+        },
+        {
+            "id": "luk22_51a",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Entonces respondiendo Jesús, dijo:"
+        },
+        {
+            "id": "luk22_51b",
+            "speaker": "Jesús",
+            "verse": 51,
+            "text": "Dejad hasta aquí. Y tocando su oreja, le sanó."
+        },
+        {
+            "id": "luk22_52a",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Entonces Jesús dijo a los príncipes de los sacerdotes, y a los magistrados del templo, y a los ancianos que habían venido contra Él:"
+        },
+        {
+            "id": "luk22_52b",
+            "speaker": "Jesús",
+            "verse": 52,
+            "text": "¿Como contra un ladrón habéis salido, con espadas y palos?"
+        },
+        {
+            "id": "luk22_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; mas ésta es vuestra hora, y la potestad de las tinieblas."
+        },
+        {
+            "id": "luk22_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y prendiéndole le trajeron, y le metieron en casa del sumo sacerdote. Y Pedro le seguía de lejos."
+        },
+        {
+            "id": "luk22_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y habiendo encendido fuego en medio de la sala, y sentándose todos alrededor, se sentó también Pedro entre ellos."
+        },
+        {
+            "id": "luk22_56a",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Pero una criada le vio que estaba sentado al fuego, y observándole, dijo:"
+        },
+        {
+            "id": "luk22_56b",
+            "speaker": "Criada",
+            "verse": 56,
+            "text": "Éste también con Él estaba."
+        },
+        {
+            "id": "luk22_57a",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Entonces él lo negó, diciendo:"
+        },
+        {
+            "id": "luk22_57b",
+            "speaker": "Pedro",
+            "verse": 57,
+            "text": "Mujer, no le conozco."
+        },
+        {
+            "id": "luk22_58a",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y un poco después, viéndole otro, dijo:"
+        },
+        {
+            "id": "luk22_58b",
+            "speaker": "Hombre",
+            "verse": 58,
+            "text": "Tú también eres de ellos."
+        },
+        {
+            "id": "luk22_58c",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y Pedro dijo:"
+        },
+        {
+            "id": "luk22_58d",
+            "speaker": "Pedro",
+            "verse": 58,
+            "text": "Hombre, no soy."
+        },
+        {
+            "id": "luk22_59a",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Y como una hora después, otro afirmó, diciendo:"
+        },
+        {
+            "id": "luk22_59b",
+            "speaker": "Hombre",
+            "verse": 59,
+            "text": "Verdaderamente éste también estaba con Él, porque es galileo."
+        },
+        {
+            "id": "luk22_60a",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Y Pedro dijo:"
+        },
+        {
+            "id": "luk22_60b",
+            "speaker": "Pedro",
+            "verse": 60,
+            "text": "Hombre, no sé qué dices. Y al instante, mientras él aún hablaba, el gallo cantó."
+        },
+        {
+            "id": "luk22_61a",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Entonces, vuelto el Señor, miró a Pedro; y Pedro se acordó de la palabra del Señor como le había dicho:"
+        },
+        {
+            "id": "luk22_61b",
+            "speaker": "Pedro",
+            "verse": 61,
+            "text": "Antes que el gallo cante, me negarás tres veces."
+        },
+        {
+            "id": "luk22_62",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Y Pedro, saliendo fuera, lloró amargamente."
+        },
+        {
+            "id": "luk22_63",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Y los hombres que custodiaban a Jesús se burlaban de Él y le golpeaban;"
+        },
+        {
+            "id": "luk22_64a",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Y vendándole los ojos, le golpeaban el rostro, y le preguntaban, diciendo:"
+        },
+        {
+            "id": "luk22_64b",
+            "speaker": "Soldados",
+            "verse": 64,
+            "text": "Profetiza, ¿quién es el que te golpeó?"
+        },
+        {
+            "id": "luk22_65",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Y muchas otras blasfemias decían contra Él."
+        },
+        {
+            "id": "luk22_66a",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "Y cuando fue de día, se reunieron los ancianos del pueblo, y los príncipes de los sacerdotes y los escribas, y le trajeron al concilio de ellos, diciendo:"
+        },
+        {
+            "id": "luk22_67a",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "¿Eres tú el Cristo? Dínoslo. Y Él les dijo:"
+        },
+        {
+            "id": "luk22_67b",
+            "speaker": "Jesús",
+            "verse": 67,
+            "text": "Si os lo dijere, no creeréis;"
+        },
+        {
+            "id": "luk22_68",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "y también si os preguntare, no me responderéis, ni me soltaréis."
+        },
+        {
+            "id": "luk22_69",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "Desde ahora el Hijo del Hombre se sentará a la diestra del poder de Dios."
+        },
+        {
+            "id": "luk22_70a",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "Entonces todos dijeron:"
+        },
+        {
+            "id": "luk22_70b",
+            "speaker": "Sacerdotes",
+            "verse": 70,
+            "text": "¿Luego eres tú el Hijo de Dios?"
+        },
+        {
+            "id": "luk22_70c",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk22_70d",
+            "speaker": "Jesús",
+            "verse": 70,
+            "text": "Vosotros decís que lo soy."
+        },
+        {
+            "id": "luk22_71a",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "Entonces ellos dijeron:"
+        },
+        {
+            "id": "luk22_71b",
+            "speaker": "Sacerdotes",
+            "verse": 71,
+            "text": "¿Qué más testimonio necesitamos? porque nosotros mismos lo hemos oído de su boca."
+        }
+    ]
+}

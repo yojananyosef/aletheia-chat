@@ -1,0 +1,307 @@
+{
+    "book": "Lucas",
+    "chapter": 16,
+    "title": "Lucas 16",
+    "messages": [
+        {
+            "id": "luk16_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y dijo también a sus discípulos:"
+        },
+        {
+            "id": "luk16_1b",
+            "speaker": "Jesús",
+            "verse": 1,
+            "text": "Había un hombre rico, el cual tenía un mayordomo, y éste fue acusado ante él de que había disipado sus bienes."
+        },
+        {
+            "id": "luk16_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y le llamó, y le dijo:"
+        },
+        {
+            "id": "luk16_2b",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "¿Qué es esto que oigo de ti? Da cuenta de tu mayordomía, porque ya no podrás ser mayordomo."
+        },
+        {
+            "id": "luk16_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces el mayordomo dijo dentro de sí:"
+        },
+        {
+            "id": "luk16_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "¿Qué haré? Porque mi señor me quita la mayordomía. Cavar, no puedo; mendigar, me da vergüenza."
+        },
+        {
+            "id": "luk16_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Ya sé lo que haré para que cuando sea quitado de la mayordomía, me reciban en sus casas."
+        },
+        {
+            "id": "luk16_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y llamando a cada uno de los deudores de su señor, dijo al primero:"
+        },
+        {
+            "id": "luk16_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "¿Cuánto debes a mi señor?"
+        },
+        {
+            "id": "luk16_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "luk16_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Cien barriles de aceite."
+        },
+        {
+            "id": "luk16_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "luk16_6d",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Toma tu cuenta, y siéntate pronto, y escribe cincuenta."
+        },
+        {
+            "id": "luk16_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Después dijo a otro:"
+        },
+        {
+            "id": "luk16_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "¿Y tú, cuánto debes?"
+        },
+        {
+            "id": "luk16_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "luk16_7d",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Cien medidas de trigo."
+        },
+        {
+            "id": "luk16_7e",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "luk16_7f",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Toma tu cuenta, y escribe ochenta."
+        },
+        {
+            "id": "luk16_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y alabó el señor al mayordomo injusto por haber hecho astutamente; porque los hijos de este siglo son en su generación más astutos que los hijos de luz."
+        },
+        {
+            "id": "luk16_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y yo os digo: Haceos amigos de las riquezas de maldad, para que cuando fallareis, os reciban en las moradas eternas."
+        },
+        {
+            "id": "luk16_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El que es fiel en lo muy poco, también en lo más es fiel; y el que en lo muy poco es injusto, también en lo más es injusto."
+        },
+        {
+            "id": "luk16_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pues si en las riquezas injustas no fuisteis fieles, ¿quién os confiará lo verdadero?"
+        },
+        {
+            "id": "luk16_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo que es vuestro?"
+        },
+        {
+            "id": "luk16_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Ningún siervo puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o se apegará al uno y despreciará al otro. No podéis servir a Dios y a las riquezas."
+        },
+        {
+            "id": "luk16_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y oían también todas estas cosas los fariseos, los cuales eran avaros, y se burlaban de Él."
+        },
+        {
+            "id": "luk16_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk16_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Vosotros sois los que os justificáis a vosotros mismos delante de los hombres; pero Dios conoce vuestros corazones; porque lo que los hombres tienen en alta estima, delante de Dios es abominación."
+        },
+        {
+            "id": "luk16_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "La ley y los profetas fueron hasta Juan; desde entonces el reino de Dios es predicado, y todos se esfuerzan por entrar en él."
+        },
+        {
+            "id": "luk16_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pero es más fácil que pasen el cielo y la tierra, que fallar una tilde de la ley."
+        },
+        {
+            "id": "luk16_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Cualquiera que repudia a su esposa, y se casa con otra, comete adulterio; y el que se casa con la repudiada del marido, comete adulterio."
+        },
+        {
+            "id": "luk16_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Había un hombre rico, que se vestía de púrpura y de lino fino, y hacía cada día banquete con esplendidez."
+        },
+        {
+            "id": "luk16_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Había también un mendigo llamado Lázaro, el cual estaba echado a la puerta de él, lleno de llagas,"
+        },
+        {
+            "id": "luk16_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "y deseaba saciarse de las migajas que caían de la mesa del rico; y aun los perros venían y le lamían las llagas."
+        },
+        {
+            "id": "luk16_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y aconteció que murió el mendigo, y fue llevado por los ángeles al seno de Abraham. Y murió también el rico, y fue sepultado."
+        },
+        {
+            "id": "luk16_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y en el infierno alzó sus ojos, estando en tormentos, y vio a Abraham de lejos, y a Lázaro en su seno."
+        },
+        {
+            "id": "luk16_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces él, dando voces, dijo:"
+        },
+        {
+            "id": "luk16_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Padre Abraham, ten misericordia de mí, y envía a Lázaro para que moje la punta de su dedo en agua, y refresque mi lengua; porque soy atormentado en esta llama."
+        },
+        {
+            "id": "luk16_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Abraham le dijo:"
+        },
+        {
+            "id": "luk16_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Hijo, acuérdate que recibiste tus bienes en tu vida, y Lázaro también males; mas ahora éste es consolado, y tú atormentado."
+        },
+        {
+            "id": "luk16_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y además de todo esto, una gran sima está puesta entre nosotros y vosotros, de manera que los que quieran pasar de aquí a vosotros, no puedan, ni de allá pasar acá."
+        },
+        {
+            "id": "luk16_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Entonces él dijo:"
+        },
+        {
+            "id": "luk16_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "Te ruego, pues, padre, que le envíes a la casa de mi padre,"
+        },
+        {
+            "id": "luk16_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "porque tengo cinco hermanos, para que les testifique, para que no vengan ellos también a este lugar de tormento."
+        },
+        {
+            "id": "luk16_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Abraham le dijo:"
+        },
+        {
+            "id": "luk16_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "A Moisés y a los profetas tienen; óiganlos."
+        },
+        {
+            "id": "luk16_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Él entonces dijo:"
+        },
+        {
+            "id": "luk16_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "No, padre Abraham; mas si alguno va a ellos de entre los muertos, se arrepentirán."
+        },
+        {
+            "id": "luk16_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Mas Abraham le dijo:"
+        },
+        {
+            "id": "luk16_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Si no oyen a Moisés y a los profetas, tampoco se persuadirán aunque alguno se levante de los muertos."
+        }
+    ]
+}

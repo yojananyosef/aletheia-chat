@@ -1,0 +1,92 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "d",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 48,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Juan",
+    "confidence": 0.85
+  },
+  {
+    "verse": 55,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 57,
+    "subId": "b",
+    "speaker": "Hombre",
+    "confidence": 0.8
+  },
+  {
+    "verse": 59,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.9
+  },
+  {
+    "verse": 59,
+    "subId": "d",
+    "speaker": "Hombre",
+    "confidence": 0.8
+  },
+  {
+    "verse": 61,
+    "subId": "b",
+    "speaker": "Hombre",
+    "confidence": 0.8
+  }
+]

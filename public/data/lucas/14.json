@@ -1,0 +1,295 @@
+{
+    "book": "Lucas",
+    "chapter": 14,
+    "title": "Lucas 14",
+    "messages": [
+        {
+            "id": "luk14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció un día sábado, que yendo a comer pan en casa de un príncipe de los fariseos, ellos le acechaban."
+        },
+        {
+            "id": "luk14_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y he aquí un hombre hidrópico estaba delante de Él."
+        },
+        {
+            "id": "luk14_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y respondiendo Jesús, habló a los doctores de la ley y a los fariseos, diciendo:"
+        },
+        {
+            "id": "luk14_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "¿Es lícito sanar en sábado?"
+        },
+        {
+            "id": "luk14_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y ellos callaron. Entonces Él tomándole, le sanó, y le despidió."
+        },
+        {
+            "id": "luk14_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y les respondió, diciendo:"
+        },
+        {
+            "id": "luk14_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "¿Quién de vosotros, si su asno o su buey cayere en un pozo, no lo sacará luego en día de sábado?"
+        },
+        {
+            "id": "luk14_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y no le podían replicar a estas cosas."
+        },
+        {
+            "id": "luk14_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y observando cómo escogían los primeros asientos a la mesa, relató una parábola a los convidados, diciéndoles:"
+        },
+        {
+            "id": "luk14_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Cuando seas convidado por alguno a bodas, no te sientes en el primer lugar, no sea que otro más distinguido que tú esté convidado por él,"
+        },
+        {
+            "id": "luk14_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "y el que te convidó a ti y a él, venga y te diga: Da lugar a éste; y entonces comiences con vergüenza a tomar el último lugar."
+        },
+        {
+            "id": "luk14_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mas cuando seas convidado, ve, y siéntate en el postrer lugar; para que cuando venga el que te convidó, te diga: Amigo, sube más arriba; entonces tendrás gloria delante de los que juntamente se sientan a la mesa."
+        },
+        {
+            "id": "luk14_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque cualquiera que se enaltece, será humillado; y el que se humilla, será enaltecido."
+        },
+        {
+            "id": "luk14_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo también al que le había convidado:"
+        },
+        {
+            "id": "luk14_12b",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Cuando haces comida o cena, no llames a tus amigos, ni a tus hermanos, ni a tus parientes, ni a vecinos ricos; no sea que también ellos te vuelvan a convidar, y te sea hecha recompensa."
+        },
+        {
+            "id": "luk14_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas cuando hagas banquete, llama a los pobres, los mancos, los cojos, y a los ciegos;"
+        },
+        {
+            "id": "luk14_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y serás bienaventurado; porque ellos no te pueden recompensar; pues tú serás recompensado en la resurrección de los justos."
+        },
+        {
+            "id": "luk14_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y oyendo esto uno de los que estaban sentados con Él a la mesa, le dijo:"
+        },
+        {
+            "id": "luk14_15b",
+            "speaker": "Hombre",
+            "verse": 15,
+            "text": "Bienaventurado el que coma pan en el reino de Dios."
+        },
+        {
+            "id": "luk14_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Él entonces le dijo:"
+        },
+        {
+            "id": "luk14_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Un hombre hizo una gran cena, y convidó a muchos."
+        },
+        {
+            "id": "luk14_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y a la hora de la cena envió a su siervo a decir a los que habían sido convidados:"
+        },
+        {
+            "id": "luk14_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Venid, que ya todo está preparado."
+        },
+        {
+            "id": "luk14_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y comenzaron todos a una a excusarse. El primero le dijo:"
+        },
+        {
+            "id": "luk14_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "He comprado una hacienda, y necesito ir a verla; te ruego que me excuses."
+        },
+        {
+            "id": "luk14_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y el otro dijo:"
+        },
+        {
+            "id": "luk14_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "He comprado cinco yuntas de bueyes, y voy a probarlos; te ruego que me excuses."
+        },
+        {
+            "id": "luk14_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y el otro dijo:"
+        },
+        {
+            "id": "luk14_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Acabo de casarme, y por tanto no puedo ir."
+        },
+        {
+            "id": "luk14_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y vuelto el siervo, hizo saber estas cosas a su señor. Entonces enojado el padre de familia, dijo a su siervo:"
+        },
+        {
+            "id": "luk14_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Ve pronto por las plazas y las calles de la ciudad, y mete acá a los pobres, los mancos, los cojos y los ciegos."
+        },
+        {
+            "id": "luk14_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y dijo el siervo:"
+        },
+        {
+            "id": "luk14_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Señor, se ha hecho como mandaste, y aún hay lugar."
+        },
+        {
+            "id": "luk14_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dijo el señor al siervo:"
+        },
+        {
+            "id": "luk14_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Ve por los caminos y por los vallados, y fuérzalos a entrar, para que se llene mi casa."
+        },
+        {
+            "id": "luk14_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque os digo que ninguno de aquellos hombres que fueron convidados, gustará mi cena."
+        },
+        {
+            "id": "luk14_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y grandes multitudes iban con Él; y volviéndose, les dijo:"
+        },
+        {
+            "id": "luk14_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Si alguno viene a mí, y no aborrece a su padre, y madre, y esposa, e hijos, y hermanos, y hermanas, y aun también su propia vida, no puede ser mi discípulo."
+        },
+        {
+            "id": "luk14_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y cualquiera que no trae su cruz y viene en pos de mí, no puede ser mi discípulo."
+        },
+        {
+            "id": "luk14_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Porque ¿quién de vosotros, queriendo edificar una torre, no se sienta primero y cuenta el costo, para ver si tiene lo que necesita para acabarla?"
+        },
+        {
+            "id": "luk14_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "No sea que después que haya echado el cimiento, y no pueda acabarla, todos los que lo vean comiencen a burlarse de él,"
+        },
+        {
+            "id": "luk14_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "luk14_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "Este hombre comenzó a edificar, y no pudo acabar."
+        },
+        {
+            "id": "luk14_31",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "¿O qué rey, yendo a hacer guerra contra otro rey, no se sienta primero y consulta si con diez mil puede salir al encuentro del que viene contra él con veinte mil?"
+        },
+        {
+            "id": "luk14_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "De otra manera, cuando el otro aún está lejos, le envía una embajada y le pide condiciones de paz."
+        },
+        {
+            "id": "luk14_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Así, pues, cualquiera de vosotros que no renuncia a todo lo que posee, no puede ser mi discípulo."
+        },
+        {
+            "id": "luk14_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Buena es la sal; pero si la sal pierde su sabor, ¿con qué será sazonada?"
+        },
+        {
+            "id": "luk14_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "No es útil ni para la tierra, ni para el muladar; la arrojan fuera. El que tiene oídos para oír, oiga."
+        }
+    ]
+}

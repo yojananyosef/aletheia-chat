@@ -1,0 +1,577 @@
+{
+    "book": "Lucas",
+    "chapter": 1,
+    "title": "Lucas 1",
+    "messages": [
+        {
+            "id": "luk1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Puesto que ya muchos han intentado poner en orden la historia de las cosas que entre nosotros son ciertísimas,"
+        },
+        {
+            "id": "luk1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "así como nos lo enseñaron los que desde el principio lo vieron con sus ojos, y fueron ministros de la palabra;"
+        },
+        {
+            "id": "luk1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "me ha parecido también a mí, después de haber entendido perfectamente todas las cosas desde el principio, escribírtelas por orden, oh excelentísimo Teófilo,"
+        },
+        {
+            "id": "luk1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "para que conozcas la certeza de las cosas en las que has sido instruido."
+        },
+        {
+            "id": "luk1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Hubo en los días de Herodes, rey de Judea, un sacerdote llamado Zacarías, de la clase de Abías; y su esposa era de las hijas de Aarón, y se llamaba Elisabet."
+        },
+        {
+            "id": "luk1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y ambos eran justos delante de Dios, andando irreprensibles en todos los mandamientos y ordenanzas del Señor."
+        },
+        {
+            "id": "luk1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y no tenían hijo, porque Elisabet era estéril, y ambos eran ya de edad avanzada."
+        },
+        {
+            "id": "luk1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y aconteció que ejerciendo Zacarías el sacerdocio delante de Dios en el orden de su clase,"
+        },
+        {
+            "id": "luk1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "conforme a la costumbre del sacerdocio, le tocó en suerte encender el incienso, entrando en el templo del Señor."
+        },
+        {
+            "id": "luk1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y toda la multitud del pueblo estaba fuera orando a la hora del incienso."
+        },
+        {
+            "id": "luk1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y se le apareció un ángel del Señor puesto en pie a la derecha del altar del incienso."
+        },
+        {
+            "id": "luk1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y viéndole, se turbó Zacarías, y cayó temor sobre él."
+        },
+        {
+            "id": "luk1_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas el ángel le dijo:"
+        },
+        {
+            "id": "luk1_13b",
+            "speaker": "Ángel",
+            "verse": 13,
+            "text": "Zacarías, no temas; porque tu oración ha sido oída, y tu esposa Elisabet te dará a luz un hijo, y llamarás su nombre Juan."
+        },
+        {
+            "id": "luk1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y tendrás gozo y alegría, y muchos se regocijarán de su nacimiento."
+        },
+        {
+            "id": "luk1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Porque será grande delante del Señor; y no beberá vino ni sidra, y será lleno del Espíritu Santo, aun desde el vientre de su madre."
+        },
+        {
+            "id": "luk1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y a muchos de los hijos de Israel convertirá al Señor Dios de ellos."
+        },
+        {
+            "id": "luk1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque él irá delante de Él en el espíritu y el poder de Elías, para hacer volver los corazones de los padres a los hijos, y los desobedientes a la sabiduría de los justos, para preparar un pueblo dispuesto para el Señor."
+        },
+        {
+            "id": "luk1_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y dijo Zacarías al ángel:"
+        },
+        {
+            "id": "luk1_18b",
+            "speaker": "Zacarías",
+            "verse": 18,
+            "text": "¿En qué conoceré esto? Porque yo soy viejo, y mi esposa es de edad avanzada."
+        },
+        {
+            "id": "luk1_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y respondiendo el ángel le dijo:"
+        },
+        {
+            "id": "luk1_19b",
+            "speaker": "Ángel",
+            "verse": 19,
+            "text": "Yo soy Gabriel, que estoy delante de Dios; y soy enviado a hablarte y darte estas buenas nuevas."
+        },
+        {
+            "id": "luk1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y he aquí estarás mudo y no podrás hablar, hasta el día que esto sea hecho, por cuanto no creíste mis palabras, las cuales se cumplirán a su tiempo."
+        },
+        {
+            "id": "luk1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y el pueblo estaba esperando a Zacarías, y se maravillaban de que él se demorase en el templo."
+        },
+        {
+            "id": "luk1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y cuando salió, no les podía hablar; y entendieron que había visto visión en el templo, pues les hablaba por señas, y permanecía mudo."
+        },
+        {
+            "id": "luk1_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y aconteció que cumpliéndose los días de su ministerio, se fue a su casa."
+        },
+        {
+            "id": "luk1_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y después de aquellos días concibió su esposa Elisabet, y se encubrió por cinco meses, diciendo:"
+        },
+        {
+            "id": "luk1_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Así me ha hecho el Señor en los días en que miró para quitar mi afrenta entre los hombres."
+        },
+        {
+            "id": "luk1_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y al sexto mes, el ángel Gabriel fue enviado de Dios a una ciudad de Galilea, llamada Nazaret,"
+        },
+        {
+            "id": "luk1_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "a una virgen desposada con un varón que se llamaba José, de la casa de David; y el nombre de la virgen era María."
+        },
+        {
+            "id": "luk1_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y entrando el ángel a donde ella estaba, dijo:"
+        },
+        {
+            "id": "luk1_28b",
+            "speaker": "Ángel",
+            "verse": 28,
+            "text": "¡Salve, muy favorecida! El Señor es contigo; bendita tú entre las mujeres."
+        },
+        {
+            "id": "luk1_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y cuando ella le vio, se turbó por sus palabras, y pensaba qué salutación sería ésta."
+        },
+        {
+            "id": "luk1_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces el ángel le dijo:"
+        },
+        {
+            "id": "luk1_30b",
+            "speaker": "Ángel",
+            "verse": 30,
+            "text": "María, no temas, porque has hallado gracia delante de Dios."
+        },
+        {
+            "id": "luk1_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y he aquí, concebirás en tu vientre, y darás a luz un hijo, y llamarás su nombre JESÚS."
+        },
+        {
+            "id": "luk1_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Éste será grande, y será llamado Hijo del Altísimo; y el Señor Dios le dará el trono de David, su padre;"
+        },
+        {
+            "id": "luk1_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "y reinará sobre la casa de Jacob por siempre; y de su reino no habrá fin."
+        },
+        {
+            "id": "luk1_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces María dijo al ángel:"
+        },
+        {
+            "id": "luk1_34b",
+            "speaker": "María",
+            "verse": 34,
+            "text": "¿Cómo será esto? pues no conozco varón."
+        },
+        {
+            "id": "luk1_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y respondiendo el ángel le dijo:"
+        },
+        {
+            "id": "luk1_35b",
+            "speaker": "Ángel",
+            "verse": 35,
+            "text": "El Espíritu Santo vendrá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por lo cual también lo Santo que de ti nacerá, será llamado el Hijo de Dios."
+        },
+        {
+            "id": "luk1_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y he aquí tu prima Elisabet, la que llamaban estéril, ella también ha concebido hijo en su vejez; y éste es el sexto mes para ella;"
+        },
+        {
+            "id": "luk1_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Porque con Dios nada será imposible."
+        },
+        {
+            "id": "luk1_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Entonces María dijo:"
+        },
+        {
+            "id": "luk1_38b",
+            "speaker": "María",
+            "verse": 38,
+            "text": "He aquí la sierva del Señor; hágase a mí conforme a tu palabra. Y el ángel se fue de ella."
+        },
+        {
+            "id": "luk1_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y en aquellos días levantándose María, se fue aprisa a la montaña, a una ciudad de Judá;"
+        },
+        {
+            "id": "luk1_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "y entró en casa de Zacarías, y saludó a Elisabet."
+        },
+        {
+            "id": "luk1_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y aconteció que cuando oyó Elisabet la salutación de María, la criatura saltó en su vientre; y Elisabet fue llena del Espíritu Santo,"
+        },
+        {
+            "id": "luk1_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y exclamó a gran voz, y dijo:"
+        },
+        {
+            "id": "luk1_42b",
+            "speaker": "Elisabet",
+            "verse": 42,
+            "text": "Bendita tú entre las mujeres, y bendito el fruto de tu vientre."
+        },
+        {
+            "id": "luk1_43",
+            "speaker": "Elisabet",
+            "verse": 43,
+            "text": "¿Y de dónde esto a mí, que la madre de mi Señor venga a mí?"
+        },
+        {
+            "id": "luk1_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Porque he aquí, tan pronto como llegó la voz de tu salutación a mis oídos, la criatura saltó de alegría en mi vientre."
+        },
+        {
+            "id": "luk1_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y bienaventurada la que creyó, porque se cumplirán las cosas que le fueron dichas de parte del Señor."
+        },
+        {
+            "id": "luk1_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Entonces María dijo:"
+        },
+        {
+            "id": "luk1_46b",
+            "speaker": "María",
+            "verse": 46,
+            "text": "Mi alma engrandece al Señor;"
+        },
+        {
+            "id": "luk1_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y mi espíritu se regocijó en Dios mi Salvador,"
+        },
+        {
+            "id": "luk1_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "porque ha mirado la bajeza de su sierva; y he aquí, desde ahora me dirán bienaventurada todas las generaciones."
+        },
+        {
+            "id": "luk1_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Porque me ha hecho grandes cosas el Poderoso; y santo es su nombre."
+        },
+        {
+            "id": "luk1_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y su misericordia es en los que le temen, de generación en generación."
+        },
+        {
+            "id": "luk1_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Hizo proezas con su brazo; esparció a los soberbios en las imaginaciones de sus corazones;"
+        },
+        {
+            "id": "luk1_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Derribó de los tronos a los poderosos, y exaltó a los humildes."
+        },
+        {
+            "id": "luk1_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "A los hambrientos colmó de bienes, y a los ricos envió vacíos."
+        },
+        {
+            "id": "luk1_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Socorrió a Israel su siervo, acordándose de su misericordia;"
+        },
+        {
+            "id": "luk1_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "tal como habló a nuestros padres, a Abraham, y a su simiente para siempre."
+        },
+        {
+            "id": "luk1_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Y se quedó María con ella como tres meses, y se regresó a su casa."
+        },
+        {
+            "id": "luk1_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Y a Elisabet se le cumplió el tiempo de su alumbramiento, y dio a luz un hijo."
+        },
+        {
+            "id": "luk1_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y oyeron sus vecinos y sus parientes que Dios había mostrado para con ella grande misericordia, y se regocijaron con ella."
+        },
+        {
+            "id": "luk1_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Y aconteció que al octavo día vinieron para circuncidar al niño; y le llamaban por el nombre de su padre, Zacarías."
+        },
+        {
+            "id": "luk1_60a",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Y respondiendo su madre, dijo:"
+        },
+        {
+            "id": "luk1_60b",
+            "speaker": "Elisabet",
+            "verse": 60,
+            "text": "No; sino Juan será llamado."
+        },
+        {
+            "id": "luk1_61a",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Y le dijeron:"
+        },
+        {
+            "id": "luk1_61b",
+            "speaker": "Familiares",
+            "verse": 61,
+            "text": "No hay nadie en tu parentela que se llame con ese nombre."
+        },
+        {
+            "id": "luk1_62",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Entonces hicieron señas a su padre, preguntándole cómo le quería llamar."
+        },
+        {
+            "id": "luk1_63a",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Y pidiendo una tablilla, escribió, diciendo:"
+        },
+        {
+            "id": "luk1_63b",
+            "speaker": "Zacarías",
+            "verse": 63,
+            "text": "Juan es su nombre."
+        },
+        {
+            "id": "luk1_63c",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Y todos se maravillaron."
+        },
+        {
+            "id": "luk1_64",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Y al instante fue abierta su boca y suelta su lengua, y habló bendiciendo a Dios."
+        },
+        {
+            "id": "luk1_65",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Y vino temor sobre todos sus vecinos; y todas estas cosas se divulgaron por todas las montañas de Judea."
+        },
+        {
+            "id": "luk1_66a",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "Y todos los que las oían las guardaban en su corazón, diciendo:"
+        },
+        {
+            "id": "luk1_66b",
+            "speaker": "Multitud",
+            "verse": 66,
+            "text": "¿Quién será este niño? Y la mano del Señor era con él."
+        },
+        {
+            "id": "luk1_67a",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Y Zacarías su padre fue lleno del Espíritu Santo, y profetizó, diciendo:"
+        },
+        {
+            "id": "luk1_68",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "Bendito el Señor Dios de Israel, porque ha visitado y redimido a su pueblo,"
+        },
+        {
+            "id": "luk1_69",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "y nos alzó cuerno de salvación en la casa de David su siervo,"
+        },
+        {
+            "id": "luk1_70",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "tal como habló por boca de sus santos profetas que fueron desde el principio del mundo;"
+        },
+        {
+            "id": "luk1_71",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "Que habríamos de ser salvos de nuestros enemigos, y de mano de todos los que nos aborrecen;"
+        },
+        {
+            "id": "luk1_72",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "para hacer misericordia con nuestros padres, y acordarse de su santo pacto;"
+        },
+        {
+            "id": "luk1_73",
+            "speaker": "Narrador",
+            "verse": 73,
+            "text": "Del juramento que hizo a Abraham nuestro padre,"
+        },
+        {
+            "id": "luk1_74",
+            "speaker": "Narrador",
+            "verse": 74,
+            "text": "que nos habría de conceder, que liberados de la mano de nuestros enemigos, sin temor le serviríamos,"
+        },
+        {
+            "id": "luk1_75",
+            "speaker": "Narrador",
+            "verse": 75,
+            "text": "en santidad y justicia delante de Él, todos los días de nuestra vida."
+        },
+        {
+            "id": "luk1_76",
+            "speaker": "Narrador",
+            "verse": 76,
+            "text": "Y tú, niño, profeta del Altísimo serás llamado; porque irás delante de la faz del Señor, para preparar sus caminos;"
+        },
+        {
+            "id": "luk1_77",
+            "speaker": "Narrador",
+            "verse": 77,
+            "text": "para dar conocimiento de salvación a su pueblo, para remisión de sus pecados,"
+        },
+        {
+            "id": "luk1_78",
+            "speaker": "Narrador",
+            "verse": 78,
+            "text": "por la entrañable misericordia de nuestro Dios, con que la aurora nos visitó de lo alto,"
+        },
+        {
+            "id": "luk1_79",
+            "speaker": "Narrador",
+            "verse": 79,
+            "text": "para dar luz a los que habitan en tinieblas y sombra de muerte; para encaminar nuestros pies por camino de paz."
+        },
+        {
+            "id": "luk1_80",
+            "speaker": "Narrador",
+            "verse": 80,
+            "text": "Y el niño crecía, y se fortalecía en espíritu; y estuvo en el desierto hasta el día que se mostró a Israel."
+        }
+    ]
+}

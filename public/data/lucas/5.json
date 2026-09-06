@@ -1,0 +1,355 @@
+{
+    "book": "Lucas",
+    "chapter": 5,
+    "title": "Lucas 5",
+    "messages": [
+        {
+            "id": "luk5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció, que estando Él junto al lago de Genezaret, la multitud se agolpaba sobre Él para oír la palabra de Dios."
+        },
+        {
+            "id": "luk5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y vio dos barcas que estaban cerca de la orilla del lago; y los pescadores, habiendo descendido de ellas, lavaban sus redes."
+        },
+        {
+            "id": "luk5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y entrado en una de las barcas, la cual era de Simón, le rogó que la apartase de tierra un poco; y sentándose, enseñaba desde la barca a la multitud."
+        },
+        {
+            "id": "luk5_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y cuando terminó de hablar, dijo a Simón:"
+        },
+        {
+            "id": "luk5_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Boga mar adentro, y echad vuestras redes para pescar."
+        },
+        {
+            "id": "luk5_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y respondiendo Simón, le dijo:"
+        },
+        {
+            "id": "luk5_5b",
+            "speaker": "Pedro",
+            "verse": 5,
+            "text": "Maestro, hemos trabajado toda la noche, y nada hemos pescado; mas en tu palabra echaré la red."
+        },
+        {
+            "id": "luk5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y habiéndolo hecho, encerraron gran cantidad de peces, y su red se rompía."
+        },
+        {
+            "id": "luk5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "E hicieron señas a los compañeros que estaban en la otra barca para que viniesen a ayudarles; y vinieron, y llenaron ambas barcas, de tal manera que se hundían."
+        },
+        {
+            "id": "luk5_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Al ver esto Simón Pedro, cayó a las rodillas de Jesús, diciendo:"
+        },
+        {
+            "id": "luk5_8b",
+            "speaker": "Pedro",
+            "verse": 8,
+            "text": "Apártate de mí, Señor, porque soy hombre pecador."
+        },
+        {
+            "id": "luk5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque temor le había rodeado, y a todos los que estaban con él, a causa de la presa de los peces que habían tomado;"
+        },
+        {
+            "id": "luk5_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y asimismo a Jacobo y a Juan, hijos de Zebedeo, que eran compañeros de Simón. Y Jesús dijo a Simón:"
+        },
+        {
+            "id": "luk5_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "No temas; desde ahora pescarás hombres."
+        },
+        {
+            "id": "luk5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando trajeron las barcas a tierra, dejándolo todo, le siguieron."
+        },
+        {
+            "id": "luk5_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y aconteció que estando en una ciudad, he aquí un hombre lleno de lepra, el cual viendo a Jesús, se postró sobre su rostro, y le rogó, diciendo:"
+        },
+        {
+            "id": "luk5_12b",
+            "speaker": "Leproso",
+            "verse": 12,
+            "text": "Señor, si quieres, puedes limpiarme."
+        },
+        {
+            "id": "luk5_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y extendiendo su mano, le tocó, diciendo:"
+        },
+        {
+            "id": "luk5_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Quiero; sé limpio. Y al instante la lepra se fue de él."
+        },
+        {
+            "id": "luk5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y Él le mandó que no lo dijese a nadie; Pero ve, le dijo, muéstrate al sacerdote, y ofrece por tu limpieza, como mandó Moisés, para testimonio a ellos."
+        },
+        {
+            "id": "luk5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pero su fama mucho más se extendía, y grandes multitudes se reunían para oírle, y ser sanados por Él de sus enfermedades."
+        },
+        {
+            "id": "luk5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas Él se apartaba al desierto, y oraba."
+        },
+        {
+            "id": "luk5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y aconteció un día, que Él estaba enseñando, y los fariseos y doctores de la ley estaban sentados; los cuales habían venido de todas las aldeas de Galilea, y de Judea y Jerusalén: Y el poder del Señor estaba allí para sanarlos."
+        },
+        {
+            "id": "luk5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y he aquí unos hombres que traían sobre un lecho a un hombre que estaba paralítico; y procuraban meterle, y ponerle delante de Él."
+        },
+        {
+            "id": "luk5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y no hallando por dónde meterlo a causa de la multitud, subieron a la azotea y por el tejado lo bajaron con el lecho y lo pusieron en medio, delante de Jesús."
+        },
+        {
+            "id": "luk5_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y al ver Él la fe de ellos, le dijo:"
+        },
+        {
+            "id": "luk5_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Hombre, tus pecados te son perdonados."
+        },
+        {
+            "id": "luk5_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces los escribas y los fariseos comenzaron a murmurar, diciendo:"
+        },
+        {
+            "id": "luk5_21b",
+            "speaker": "Escribas",
+            "verse": 21,
+            "text": "¿Quién es Éste que habla blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?"
+        },
+        {
+            "id": "luk5_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Jesús, percibiendo los pensamientos de ellos, respondió y les dijo:"
+        },
+        {
+            "id": "luk5_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "¿Qué pensáis en vuestros corazones?"
+        },
+        {
+            "id": "luk5_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "¿Qué es más fácil, decir:"
+        },
+        {
+            "id": "luk5_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Tus pecados te son perdonados, o decir: Levántate y anda?"
+        },
+        {
+            "id": "luk5_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra de perdonar pecados (dijo al paralítico):"
+        },
+        {
+            "id": "luk5_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "A ti digo, levántate, toma tu lecho, y vete a tu casa.>"
+        },
+        {
+            "id": "luk5_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y al instante, se levantó en presencia de ellos, y tomando el lecho en que había estado acostado, se fue a su casa, glorificando a Dios."
+        },
+        {
+            "id": "luk5_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y todos estaban asombrados, y glorificaban a Dios; y llenos de temor, decían:"
+        },
+        {
+            "id": "luk5_26b",
+            "speaker": "Multitud",
+            "verse": 26,
+            "text": "Hoy hemos visto maravillas."
+        },
+        {
+            "id": "luk5_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y después de estas cosas salió, y vio a un publicano llamado Leví, sentado al banco de los tributos públicos, y le dijo:"
+        },
+        {
+            "id": "luk5_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "Sígueme."
+        },
+        {
+            "id": "luk5_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dejándolo todo, se levantó, y le siguió."
+        },
+        {
+            "id": "luk5_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Leví le hizo un gran banquete en su casa; y había mucha compañía de publicanos y de otros que estaban sentados a la mesa con ellos."
+        },
+        {
+            "id": "luk5_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y los escribas y los fariseos murmuraban contra sus discípulos, diciendo:"
+        },
+        {
+            "id": "luk5_30b",
+            "speaker": "Escribas",
+            "verse": 30,
+            "text": "¿Por qué coméis y bebéis con los publicanos y pecadores?"
+        },
+        {
+            "id": "luk5_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "luk5_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Los que están sanos no tienen necesidad de médico, sino los que están enfermos."
+        },
+        {
+            "id": "luk5_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "No he venido a llamar a justos, sino a pecadores al arrepentimiento."
+        },
+        {
+            "id": "luk5_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces ellos le dijeron:"
+        },
+        {
+            "id": "luk5_33b",
+            "speaker": "Fariseos",
+            "verse": 33,
+            "text": "¿Por qué los discípulos de Juan ayunan muchas veces y hacen oraciones, y asimismo los de los fariseos, pero los tuyos comen y beben?"
+        },
+        {
+            "id": "luk5_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk5_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "¿Podéis hacer que los que están de bodas ayunen, entre tanto que el esposo está con ellos?"
+        },
+        {
+            "id": "luk5_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Pero los días vendrán cuando el esposo les será quitado; entonces, en aquellos días ayunarán."
+        },
+        {
+            "id": "luk5_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y les dijo también una parábola:"
+        },
+        {
+            "id": "luk5_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Nadie pone remiendo de paño nuevo en vestido viejo; de otra manera el nuevo lo rompe, y el remiendo sacado del nuevo no armoniza con el viejo."
+        },
+        {
+            "id": "luk5_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y nadie echa vino nuevo en odres viejos; de otra manera el vino nuevo romperá los odres, y el vino se derramará, y los odres se perderán."
+        },
+        {
+            "id": "luk5_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Mas el vino nuevo en odres nuevos se ha de echar; y ambos se conservan."
+        },
+        {
+            "id": "luk5_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y ninguno que bebiere el añejo, quiere luego el nuevo; porque dice:"
+        },
+        {
+            "id": "luk5_39b",
+            "speaker": "Jesús",
+            "verse": 39,
+            "text": "El añejo es mejor."
+        }
+    ]
+}

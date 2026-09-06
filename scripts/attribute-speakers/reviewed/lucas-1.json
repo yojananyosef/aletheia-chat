@@ -1,0 +1,68 @@
+[
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 38,
+    "subId": "b",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Elisabet",
+    "confidence": 0.9
+  },
+  {
+    "verse": 46,
+    "subId": "b",
+    "speaker": "María",
+    "confidence": 0.9
+  },
+  {
+    "verse": 60,
+    "subId": "b",
+    "speaker": "Elisabet",
+    "confidence": 0.9
+  },
+  {
+    "verse": 61,
+    "subId": "b",
+    "speaker": "Familiares",
+    "confidence": 0.8
+  },
+  {
+    "verse": 66,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Elisabet",
+    "confidence": 0.85
+  }
+]

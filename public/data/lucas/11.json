@@ -1,0 +1,415 @@
+{
+    "book": "Lucas",
+    "chapter": 11,
+    "title": "Lucas 11",
+    "messages": [
+        {
+            "id": "luk11_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que estaba Él orando en cierto lugar, y cuando terminó, uno de sus discípulos le dijo:"
+        },
+        {
+            "id": "luk11_1b",
+            "speaker": "Discípulos",
+            "verse": 1,
+            "text": "Señor, enséñanos a orar, como también Juan enseñó a sus discípulos."
+        },
+        {
+            "id": "luk11_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk11_2b",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "Cuando oréis, decid: Padre nuestro que estás en el cielo; santificado sea tu nombre. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra."
+        },
+        {
+            "id": "luk11_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "El pan nuestro de cada día, dánoslo hoy."
+        },
+        {
+            "id": "luk11_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del mal."
+        },
+        {
+            "id": "luk11_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y también les dijo:"
+        },
+        {
+            "id": "luk11_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "¿Quién de vosotros tendrá un amigo, e irá a él a media noche, y le dirá: Amigo, préstame tres panes,"
+        },
+        {
+            "id": "luk11_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "porque un amigo mío ha venido a mí de camino, y no tengo qué ponerle delante;"
+        },
+        {
+            "id": "luk11_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y él, desde adentro respondiendo, le dice:"
+        },
+        {
+            "id": "luk11_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "No me molestes; la puerta ya está cerrada, y mis niños están conmigo en cama; no puedo levantarme y dártelos?"
+        },
+        {
+            "id": "luk11_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Os digo, que aunque no se levante a dárselos por ser su amigo, no obstante, por su importunidad, se levantará y le dará todo lo que necesite."
+        },
+        {
+            "id": "luk11_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá."
+        },
+        {
+            "id": "luk11_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá."
+        },
+        {
+            "id": "luk11_11",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "¿Y quién de vosotros, siendo padre, si su hijo le pide pan, le dará una piedra? ¿O si pescado, en lugar de pescado, le dará una serpiente?"
+        },
+        {
+            "id": "luk11_12",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "¿O si le pide un huevo, le dará un escorpión?"
+        },
+        {
+            "id": "luk11_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan?"
+        },
+        {
+            "id": "luk11_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y estaba Él lanzando un demonio, el cual era mudo; y aconteció que salido fuera el demonio, el mudo habló y la gente se maravillaba."
+        },
+        {
+            "id": "luk11_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas algunos de ellos decían:"
+        },
+        {
+            "id": "luk11_15b",
+            "speaker": "Multitud",
+            "verse": 15,
+            "text": "Por Belcebú, príncipe de los demonios, echa fuera los demonios."
+        },
+        {
+            "id": "luk11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y otros, tentándole, le pedían señal del cielo."
+        },
+        {
+            "id": "luk11_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas Él, conociendo los pensamientos de ellos, les dijo:"
+        },
+        {
+            "id": "luk11_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Todo reino dividido contra sí mismo, es asolado; y una casa dividida contra sí misma, cae."
+        },
+        {
+            "id": "luk11_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y si también Satanás está dividido contra sí mismo, ¿cómo permanecerá su reino? pues decís que por Belcebú echo yo fuera los demonios."
+        },
+        {
+            "id": "luk11_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Pues si yo echo fuera los demonios por Belcebú, ¿vuestros hijos por quién los echan fuera? Por tanto, ellos serán vuestros jueces."
+        },
+        {
+            "id": "luk11_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Pero si yo por el dedo de Dios echo fuera los demonios, ciertamente el reino de Dios ha llegado a vosotros."
+        },
+        {
+            "id": "luk11_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Cuando el hombre fuerte armado guarda su palacio, en paz está lo que posee."
+        },
+        {
+            "id": "luk11_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero cuando viene otro más fuerte que él y lo vence, le quita todas sus armas en que confiaba, y reparte sus despojos."
+        },
+        {
+            "id": "luk11_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama."
+        },
+        {
+            "id": "luk11_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo; y no hallándolo, dice:"
+        },
+        {
+            "id": "luk11_24b",
+            "speaker": "Demonio",
+            "verse": 24,
+            "text": "Regresaré a mi casa de donde salí."
+        },
+        {
+            "id": "luk11_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y viniendo, la halla barrida y arreglada."
+        },
+        {
+            "id": "luk11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces va, y toma otros siete espíritus peores que él; y entrados, habitan allí; y el postrer estado de aquel hombre viene a ser peor que el primero."
+        },
+        {
+            "id": "luk11_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y aconteció que diciendo estas cosas, una mujer de entre la multitud, levantando la voz, le dijo:"
+        },
+        {
+            "id": "luk11_27b",
+            "speaker": "Mujer",
+            "verse": 27,
+            "text": "Bienaventurado el vientre que te trajo, y los pechos que mamaste."
+        },
+        {
+            "id": "luk11_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "luk11_28b",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "Antes bienaventurados los que oyen la palabra de Dios, y la guardan."
+        },
+        {
+            "id": "luk11_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y juntándose la multitud, comenzó a decir:"
+        },
+        {
+            "id": "luk11_29b",
+            "speaker": "Multitud",
+            "verse": 29,
+            "text": "Esta generación es mala: Demandan señal, y señal no le será dada, sino la señal de Jonás el profeta."
+        },
+        {
+            "id": "luk11_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Porque como Jonás fue señal a los ninivitas, así también lo será el Hijo del Hombre a esta generación."
+        },
+        {
+            "id": "luk11_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "La reina del Sur se levantará en juicio con los hombres de esta generación, y los condenará; porque vino de los confines de la tierra para oír la sabiduría de Salomón; y he aquí uno mayor que Salomón en este lugar."
+        },
+        {
+            "id": "luk11_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Los hombres de Nínive se levantarán en juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron; y he aquí uno mayor que Jonás en este lugar."
+        },
+        {
+            "id": "luk11_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Nadie pone en oculto el candil encendido, ni debajo del almud, sino en el candelero, para que los que entran vean la luz."
+        },
+        {
+            "id": "luk11_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "La luz del cuerpo es el ojo; así que cuando tu ojo es sencillo, también todo tu cuerpo está lleno de luz; pero cuando tu ojo es malo, también tu cuerpo está en tinieblas."
+        },
+        {
+            "id": "luk11_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Mira pues, que la luz que en ti hay, no sea tinieblas."
+        },
+        {
+            "id": "luk11_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Así que, si todo tu cuerpo está lleno de luz, no teniendo parte alguna de tinieblas, será todo luminoso, como cuando una lámpara con su resplandor te alumbra."
+        },
+        {
+            "id": "luk11_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y luego que hubo hablado, le rogó un fariseo que comiese con él; y entrando Jesús, se sentó a la mesa."
+        },
+        {
+            "id": "luk11_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y el fariseo, cuando lo vio, se maravilló de que no se lavó antes de comer."
+        },
+        {
+            "id": "luk11_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y el Señor le dijo:"
+        },
+        {
+            "id": "luk11_39b",
+            "speaker": "Jesús",
+            "verse": 39,
+            "text": "Ahora, vosotros los fariseos limpiáis lo de fuera de la copa y del plato; pero por dentro estáis llenos de rapiña y de maldad."
+        },
+        {
+            "id": "luk11_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Necios, ¿el que hizo lo de fuera, no hizo también lo de dentro?"
+        },
+        {
+            "id": "luk11_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Pero dad limosna de lo que tenéis; y he aquí, todo os es limpio."
+        },
+        {
+            "id": "luk11_42",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "Mas ¡ay de vosotros, fariseos! que diezmáis la menta, y la ruda, y toda hortaliza; mas el juicio y el amor de Dios pasáis por alto. Esto os era necesario hacer, sin dejar de hacer lo otro."
+        },
+        {
+            "id": "luk11_43",
+            "speaker": "Jesús",
+            "verse": 43,
+            "text": "¡Ay de vosotros, fariseos! que amáis las primeras sillas en las sinagogas, y las salutaciones en las plazas."
+        },
+        {
+            "id": "luk11_44",
+            "speaker": "Jesús",
+            "verse": 44,
+            "text": "¡Ay de vosotros, escribas y fariseos, hipócritas! que sois como sepulcros encubiertos, y los hombres que andan encima no lo saben."
+        },
+        {
+            "id": "luk11_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y respondiendo uno de los doctores de la ley, le dice:"
+        },
+        {
+            "id": "luk11_45b",
+            "speaker": "Doctor",
+            "verse": 45,
+            "text": "Maestro, cuando dices esto, también nos afrentas a nosotros."
+        },
+        {
+            "id": "luk11_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "luk11_46b",
+            "speaker": "Jesús",
+            "verse": 46,
+            "text": "¡Ay de vosotros también, doctores de la ley! que abrumáis a los hombres con cargas pesadas de llevar; mas vosotros ni aun con un dedo las tocáis."
+        },
+        {
+            "id": "luk11_47",
+            "speaker": "Jesús",
+            "verse": 47,
+            "text": "¡Ay de vosotros! que edificáis los sepulcros de los profetas, y los mataron vuestros padres."
+        },
+        {
+            "id": "luk11_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "De cierto dais testimonio que consentís en los hechos de vuestros padres; porque a la verdad ellos los mataron, y vosotros edificáis sus sepulcros."
+        },
+        {
+            "id": "luk11_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Por tanto, la sabiduría de Dios también dijo:"
+        },
+        {
+            "id": "luk11_49b",
+            "speaker": "Jesús",
+            "verse": 49,
+            "text": "Les enviaré profetas y apóstoles; y de ellos a unos matarán y a otros perseguirán;"
+        },
+        {
+            "id": "luk11_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "para que la sangre de todos los profetas, que ha sido derramada desde la fundación del mundo, sea demandada de esta generación;"
+        },
+        {
+            "id": "luk11_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "desde la sangre de Abel hasta la sangre de Zacarías, que murió entre el altar y el templo. De cierto os digo que será demandada de esta generación."
+        },
+        {
+            "id": "luk11_52",
+            "speaker": "Jesús",
+            "verse": 52,
+            "text": "¡Ay de vosotros, doctores de la ley! que habéis quitado la llave de la ciencia; vosotros mismos no entrasteis, y a los que entraban se lo impedisteis."
+        },
+        {
+            "id": "luk11_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y diciéndoles estas cosas, los escribas y los fariseos comenzaron a acosarle en gran manera, para provocarle a que hablase de muchas cosas;"
+        },
+        {
+            "id": "luk11_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "acechándole, y procurando cazar alguna palabra de su boca para acusarle."
+        }
+    ]
+}

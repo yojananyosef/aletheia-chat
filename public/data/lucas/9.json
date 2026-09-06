@@ -1,0 +1,571 @@
+{
+    "book": "Lucas",
+    "chapter": 9,
+    "title": "Lucas 9",
+    "messages": [
+        {
+            "id": "luk9_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces llamando a sus doce discípulos, les dio poder y autoridad sobre todos los demonios, y para sanar enfermedades."
+        },
+        {
+            "id": "luk9_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y los envió a predicar el reino de Dios, y a sanar a los enfermos."
+        },
+        {
+            "id": "luk9_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk9_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "No toméis nada para el camino, ni bordón, ni alforja, ni pan, ni dinero; ni llevéis dos túnicas cada uno."
+        },
+        {
+            "id": "luk9_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y en cualquier casa en que entrareis, quedad allí, y de allí salid."
+        },
+        {
+            "id": "luk9_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y si algunos no os recibieren, saliendo de aquella ciudad, aun el polvo sacudid de vuestros pies en testimonio contra ellos."
+        },
+        {
+            "id": "luk9_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y saliendo, recorrían todas las aldeas, predicando el evangelio, y sanando por todas partes."
+        },
+        {
+            "id": "luk9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y oyó Herodes el tetrarca todas las cosas que Él hacía; y estaba perplejo, porque algunos decían:"
+        },
+        {
+            "id": "luk9_7b",
+            "speaker": "Herodes",
+            "verse": 7,
+            "text": "Juan ha resucitado de los muertos;"
+        },
+        {
+            "id": "luk9_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "y otros: Elías ha aparecido; y otros: Algún profeta de los antiguos ha resucitado."
+        },
+        {
+            "id": "luk9_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Herodes:"
+        },
+        {
+            "id": "luk9_9b",
+            "speaker": "Herodes",
+            "verse": 9,
+            "text": "A Juan yo decapité; ¿quién, pues, será Éste, de quien yo oigo tales cosas? Y procuraba verle."
+        },
+        {
+            "id": "luk9_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y cuando los apóstoles regresaron, le contaron todas las cosas que habían hecho. Y tomándolos, se retiró aparte a un lugar desierto de la ciudad que se llama Betsaida."
+        },
+        {
+            "id": "luk9_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando la gente lo supo, le siguieron; y Él les recibió, y les hablaba del reino de Dios, y sanaba a los que necesitaban ser curados."
+        },
+        {
+            "id": "luk9_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando comenzó a declinar el día; llegan los doce, y le dicen:"
+        },
+        {
+            "id": "luk9_12b",
+            "speaker": "Discípulos",
+            "verse": 12,
+            "text": "Despide la multitud, para que vayan a las aldeas, y campos de alrededor, y se alojen y hallen alimentos; porque aquí estamos en lugar desierto."
+        },
+        {
+            "id": "luk9_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "luk9_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Dadles vosotros de comer."
+        },
+        {
+            "id": "luk9_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dijeron ellos:"
+        },
+        {
+            "id": "luk9_13d",
+            "speaker": "Discípulos",
+            "verse": 13,
+            "text": "No tenemos más que cinco panes y dos pescados, a menos que vayamos a comprar alimentos para toda esta multitud."
+        },
+        {
+            "id": "luk9_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y eran como cinco mil hombres. Entonces dijo a sus discípulos:"
+        },
+        {
+            "id": "luk9_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Hacedlos sentar en grupos, de cincuenta en cincuenta."
+        },
+        {
+            "id": "luk9_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y así lo hicieron, haciéndolos sentar a todos."
+        },
+        {
+            "id": "luk9_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y tomando los cinco panes y los dos pescados, mirando al cielo los bendijo, y partió, y dio a sus discípulos para que pusiesen delante de la multitud."
+        },
+        {
+            "id": "luk9_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y comieron todos, y se saciaron; y alzaron lo que les sobró, doce canastos de pedazos."
+        },
+        {
+            "id": "luk9_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y aconteció que estando Él aparte orando, estaban con Él los discípulos; y les preguntó, diciendo:"
+        },
+        {
+            "id": "luk9_18b",
+            "speaker": "Discípulos",
+            "verse": 18,
+            "text": "¿Quién dice la gente que soy yo?"
+        },
+        {
+            "id": "luk9_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y ellos respondiendo, dijeron:"
+        },
+        {
+            "id": "luk9_19b",
+            "speaker": "Discípulos",
+            "verse": 19,
+            "text": "Juan el Bautista; y otros, Elías; y otros, que algún profeta de los antiguos ha resucitado."
+        },
+        {
+            "id": "luk9_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk9_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "¿Y vosotros, quién decís que soy yo?"
+        },
+        {
+            "id": "luk9_20c",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces respondiendo Pedro, dijo:"
+        },
+        {
+            "id": "luk9_20d",
+            "speaker": "Pedro",
+            "verse": 20,
+            "text": "El Cristo de Dios."
+        },
+        {
+            "id": "luk9_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Mas Él, amonestándoles, les mandó que a nadie dijesen esto,"
+        },
+        {
+            "id": "luk9_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "luk9_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Es necesario que el Hijo del Hombre padezca muchas cosas, y sea rechazado por los ancianos, y por los príncipes de los sacerdotes y por los escribas, y que sea muerto, y resucite al tercer día."
+        },
+        {
+            "id": "luk9_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y decía a todos:"
+        },
+        {
+            "id": "luk9_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz cada día, y sígame."
+        },
+        {
+            "id": "luk9_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque el que quiera salvar su vida, la perderá; y el que pierda su vida por causa de mí, éste la salvará."
+        },
+        {
+            "id": "luk9_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Porque ¿qué aprovechará al hombre, si ganare todo el mundo, y se pierde a sí mismo, o se destruye?"
+        },
+        {
+            "id": "luk9_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Porque el que se avergonzare de mí y de mis palabras, de éste se avergonzará el Hijo del Hombre cuando viniere en su gloria, y en la del Padre, y de los santos ángeles."
+        },
+        {
+            "id": "luk9_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y os digo en verdad, que hay algunos de los que están aquí, que no gustarán la muerte, hasta que vean el reino de Dios."
+        },
+        {
+            "id": "luk9_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y aconteció como ocho días después de estas palabras, que tomó a Pedro y a Juan y a Jacobo, y subió al monte a orar."
+        },
+        {
+            "id": "luk9_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y entre tanto que oraba, la apariencia de su rostro se hizo otra, y su vestidura blanca y resplandeciente."
+        },
+        {
+            "id": "luk9_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y he aquí dos varones que hablaban con Él, los cuales eran Moisés y Elías;"
+        },
+        {
+            "id": "luk9_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "que aparecieron con gloria, y hablaban de su partida, la cual Él había de cumplir en Jerusalén."
+        },
+        {
+            "id": "luk9_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y Pedro y los que estaban con Él, estaban cargados de sueño; y despertando, vieron su gloria, y a los dos varones que estaban con Él."
+        },
+        {
+            "id": "luk9_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y aconteció que apartándose ellos de Él, Pedro dice a Jesús:"
+        },
+        {
+            "id": "luk9_33b",
+            "speaker": "Pedro",
+            "verse": 33,
+            "text": "Maestro, bien es que nos quedemos aquí, y hagamos tres tabernáculos, uno para ti, y uno para Moisés, y uno para Elías; no sabiendo lo que decía."
+        },
+        {
+            "id": "luk9_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y diciendo él esto, vino una nube que los cubrió; y tuvieron temor al entrar en la nube."
+        },
+        {
+            "id": "luk9_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y vino una voz desde la nube, que decía:"
+        },
+        {
+            "id": "luk9_35b",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "Éste es mi Hijo amado; a Él oíd."
+        },
+        {
+            "id": "luk9_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y pasada aquella voz, Jesús fue hallado solo; y ellos callaron; y por aquellos días no dijeron nada a nadie de lo que habían visto."
+        },
+        {
+            "id": "luk9_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y aconteció que al día siguiente, cuando descendieron del monte, una gran multitud les salió al encuentro."
+        },
+        {
+            "id": "luk9_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y he aquí, un hombre de la multitud clamó, diciendo:"
+        },
+        {
+            "id": "luk9_38b",
+            "speaker": "Multitud",
+            "verse": 38,
+            "text": "Maestro, te ruego que veas a mi hijo; porque es mi único hijo;"
+        },
+        {
+            "id": "luk9_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "y he aquí un espíritu le toma, y de repente da gritos; y le sacude y le hace echar espuma, e hiriéndole difícilmente se aparta de él."
+        },
+        {
+            "id": "luk9_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y rogué a tus discípulos que le echasen fuera, y no pudieron."
+        },
+        {
+            "id": "luk9_41a",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y respondiendo Jesús, dijo:"
+        },
+        {
+            "id": "luk9_41b",
+            "speaker": "Jesús",
+            "verse": 41,
+            "text": "¡Oh generación incrédula y perversa! ¿Hasta cuándo he de estar con vosotros, y os he de soportar? Trae acá tu hijo."
+        },
+        {
+            "id": "luk9_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y cuando aun se iba acercando, el demonio le derribó y le sacudió violentamente; mas Jesús reprendió al espíritu inmundo, y sanó al muchacho, y lo devolvió a su padre."
+        },
+        {
+            "id": "luk9_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y todos estaban maravillados de la grandeza de Dios. Y admirándose todos de todas las cosas que Jesús hacía, dijo a sus discípulos:"
+        },
+        {
+            "id": "luk9_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Dejad que estas palabras penetren en vuestros oídos, porque el Hijo del Hombre será entregado en manos de hombres."
+        },
+        {
+            "id": "luk9_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Mas ellos no entendían esta palabra, y les era encubierta para que no la entendiesen; y temían preguntarle de esta palabra."
+        },
+        {
+            "id": "luk9_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Entonces entraron en disputa, de cuál de ellos sería el mayor."
+        },
+        {
+            "id": "luk9_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Mas Jesús, viendo los pensamientos del corazón de ellos, tomó a un niño, y lo puso junto a sí,"
+        },
+        {
+            "id": "luk9_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk9_48b",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "Cualquiera que reciba a este niño en mí nombre, a mí me recibe; y cualquiera que me recibe a mí, recibe al que me envió; porque el que es más pequeño entre todos vosotros, ése será el más grande."
+        },
+        {
+            "id": "luk9_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Entonces respondiendo Juan, dijo:"
+        },
+        {
+            "id": "luk9_49b",
+            "speaker": "Juan",
+            "verse": 49,
+            "text": "Maestro, hemos visto a uno que echaba fuera demonios en tu nombre; y se lo prohibimos, porque no sigue con nosotros."
+        },
+        {
+            "id": "luk9_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "luk9_50b",
+            "speaker": "Jesús",
+            "verse": 50,
+            "text": "No se lo prohibáis; porque el que no es contra nosotros, por nosotros es."
+        },
+        {
+            "id": "luk9_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y aconteció, que cumpliéndose el tiempo en que había de ser recibido arriba, Él afirmó su rostro para ir a Jerusalén."
+        },
+        {
+            "id": "luk9_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y envió mensajeros delante de sí, los cuales fueron y entraron en una aldea de samaritanos, para preparar para Él."
+        },
+        {
+            "id": "luk9_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Pero no le recibieron, porque su apariencia era como de ir a Jerusalén."
+        },
+        {
+            "id": "luk9_54a",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y viendo esto sus discípulos Jacobo y Juan, dijeron:"
+        },
+        {
+            "id": "luk9_54b",
+            "speaker": "Discípulos",
+            "verse": 54,
+            "text": "Señor, ¿quieres que mandemos que descienda fuego del cielo, y los consuma, así como hizo Elías?"
+        },
+        {
+            "id": "luk9_55a",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Entonces volviéndose Él, los reprendió, diciendo:"
+        },
+        {
+            "id": "luk9_55b",
+            "speaker": "Jesús",
+            "verse": 55,
+            "text": "Vosotros no sabéis de qué espíritu sois;"
+        },
+        {
+            "id": "luk9_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "porque el Hijo del Hombre no ha venido para perder las almas de los hombres, sino para salvarlas. Y se fueron a otra aldea."
+        },
+        {
+            "id": "luk9_57a",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Y aconteció que yendo ellos, uno le dijo en el camino:"
+        },
+        {
+            "id": "luk9_57b",
+            "speaker": "Hombre",
+            "verse": 57,
+            "text": "Señor, te seguiré a dondequiera que vayas."
+        },
+        {
+            "id": "luk9_58a",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y le dijo Jesús:"
+        },
+        {
+            "id": "luk9_58b",
+            "speaker": "Jesús",
+            "verse": 58,
+            "text": "Las zorras tienen guaridas, y las aves del cielo tienen nidos; mas el Hijo del Hombre no tiene donde recostar su cabeza."
+        },
+        {
+            "id": "luk9_59a",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Y dijo a otro:"
+        },
+        {
+            "id": "luk9_59b",
+            "speaker": "Jesús",
+            "verse": 59,
+            "text": "Sígueme."
+        },
+        {
+            "id": "luk9_59c",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "luk9_59d",
+            "speaker": "Hombre",
+            "verse": 59,
+            "text": "Señor, déjame que primero vaya y entierre a mi padre."
+        },
+        {
+            "id": "luk9_60a",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "luk9_60b",
+            "speaker": "Jesús",
+            "verse": 60,
+            "text": "Deja que los muertos entierren a sus muertos; y tú, ve, y predica el reino de Dios."
+        },
+        {
+            "id": "luk9_61a",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Entonces también dijo otro:"
+        },
+        {
+            "id": "luk9_61b",
+            "speaker": "Hombre",
+            "verse": 61,
+            "text": "Te seguiré, Señor; mas déjame que me despida primero de los que están en mi casa."
+        },
+        {
+            "id": "luk9_62a",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "luk9_62b",
+            "speaker": "Jesús",
+            "verse": 62,
+            "text": "Ninguno que poniendo su mano en el arado y mira hacia atrás, es apto para el reino de Dios."
+        }
+    ]
+}

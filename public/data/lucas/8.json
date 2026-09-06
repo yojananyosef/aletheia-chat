@@ -1,0 +1,481 @@
+{
+    "book": "Lucas",
+    "chapter": 8,
+    "title": "Lucas 8",
+    "messages": [
+        {
+            "id": "luk8_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció después, que caminaba Él por todas las ciudades y aldeas, predicando y anunciando el evangelio del reino de Dios, y los doce con Él,"
+        },
+        {
+            "id": "luk8_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y algunas mujeres que habían sido sanadas de malos espíritus y de enfermedades: María, que se llamaba Magdalena, de la cual habían salido siete demonios,"
+        },
+        {
+            "id": "luk8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y Juana, esposa de Chuza, mayordomo de Herodes, y Susana, y otras muchas que le servían de sus bienes."
+        },
+        {
+            "id": "luk8_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y cuando se juntó una gran multitud, y vinieron a Él de cada ciudad, les dijo por parábola:"
+        },
+        {
+            "id": "luk8_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "El sembrador salió a sembrar su semilla; y al sembrarla, una parte cayó junto al camino, y fue hollada; y las aves del cielo la comieron."
+        },
+        {
+            "id": "luk8_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y otra parte cayó sobre la piedra; y nacida, se secó, porque no tenía humedad."
+        },
+        {
+            "id": "luk8_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y otra parte cayó entre espinos; y creciendo los espinos juntamente con ella, la ahogaron."
+        },
+        {
+            "id": "luk8_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y otra parte cayó en buena tierra, y nació, y llevó fruto a ciento por uno. Y hablando estas cosas, dijo a gran voz:"
+        },
+        {
+            "id": "luk8_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "El que tiene oídos para oír, oiga.>"
+        },
+        {
+            "id": "luk8_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y sus discípulos le preguntaron, diciendo:"
+        },
+        {
+            "id": "luk8_9b",
+            "speaker": "Discípulos",
+            "verse": 9,
+            "text": "¿Qué significa esta parábola?"
+        },
+        {
+            "id": "luk8_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "luk8_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "A vosotros os es dado conocer los misterios del reino de Dios; mas a los otros por parábolas, para que viendo no vean, y oyendo no entiendan."
+        },
+        {
+            "id": "luk8_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Ésta es, pues, la parábola: La semilla es la palabra de Dios."
+        },
+        {
+            "id": "luk8_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y los de junto al camino, éstos son los que oyen; y luego viene el diablo y quita la palabra de su corazón, para que no crean y sean salvos."
+        },
+        {
+            "id": "luk8_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y los de sobre la piedra, son los que habiendo oído, reciben la palabra con gozo; pero éstos no tienen raíces; que por un tiempo creen, pero en el tiempo de la prueba se apartan."
+        },
+        {
+            "id": "luk8_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y la que cayó entre espinos; éstos son los que oyen; mas yéndose, son ahogados de los afanes y las riquezas y los placeres de esta vida, y no llevan fruto."
+        },
+        {
+            "id": "luk8_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas la que en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y llevan fruto con paciencia."
+        },
+        {
+            "id": "luk8_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Ninguno que enciende un candil lo cubre con una vasija, o lo pone debajo de la cama; mas lo pone en un candelero, para que los que entran vean la luz."
+        },
+        {
+            "id": "luk8_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque nada hay oculto, que no haya de ser manifestado; ni escondido, que no haya de ser conocido, y de salir a luz."
+        },
+        {
+            "id": "luk8_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mirad, pues, cómo oís; porque a todo el que tiene, le será dado; y a todo el que no tiene, aun lo que parece tener le será quitado."
+        },
+        {
+            "id": "luk8_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces vinieron a Él su madre y sus hermanos; y no podían llegar a Él a causa de la multitud."
+        },
+        {
+            "id": "luk8_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y le fue dado aviso, diciendo:"
+        },
+        {
+            "id": "luk8_20b",
+            "speaker": "Mensajero",
+            "verse": 20,
+            "text": "Tu madre y tus hermanos están fuera, y quieren verte."
+        },
+        {
+            "id": "luk8_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces respondiendo Él, les dijo:"
+        },
+        {
+            "id": "luk8_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Mi madre y mis hermanos son aquellos que oyen la palabra de Dios, y la ponen por obra."
+        },
+        {
+            "id": "luk8_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y aconteció un día que Él entró en una barca con sus discípulos, y les dijo:"
+        },
+        {
+            "id": "luk8_22b",
+            "speaker": "Discípulos",
+            "verse": 22,
+            "text": "Pasemos al otro lado del lago. Y partieron."
+        },
+        {
+            "id": "luk8_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Pero mientras navegaban, Él se durmió. Y sobrevino una tempestad de viento en el lago; y se anegaban, y peligraban."
+        },
+        {
+            "id": "luk8_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y viniendo a Él, le despertaron, diciendo:"
+        },
+        {
+            "id": "luk8_24b",
+            "speaker": "Discípulos",
+            "verse": 24,
+            "text": "¡Maestro, Maestro, que perecemos! Y despertado Él, reprendió al viento y al levantamiento de las aguas; y cesaron, y fue hecha bonanza."
+        },
+        {
+            "id": "luk8_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "luk8_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "¿Dónde está vuestra fe?"
+        },
+        {
+            "id": "luk8_25c",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y atemorizados, se maravillaban, y se decían unos a otros:"
+        },
+        {
+            "id": "luk8_25d",
+            "speaker": "Discípulos",
+            "verse": 25,
+            "text": "¿Qué clase de hombre es Éste, que aun a los vientos y a las aguas manda, y le obedecen?"
+        },
+        {
+            "id": "luk8_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y arribaron a la tierra de los gadarenos, que está al lado opuesto de Galilea."
+        },
+        {
+            "id": "luk8_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y llegando Él a tierra, le salió al encuentro un hombre de la ciudad que tenía demonios por ya mucho tiempo; y no vestía ropa, ni moraba en casa, sino en los sepulcros."
+        },
+        {
+            "id": "luk8_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Éste, cuando vio a Jesús, dio voces, y postrándose delante de Él, dijo a gran voz:"
+        },
+        {
+            "id": "luk8_28b",
+            "speaker": "Demonio",
+            "verse": 28,
+            "text": "¿Qué tengo yo contigo, Jesús, Hijo del Dios Altísimo? Te ruego que no me atormentes."
+        },
+        {
+            "id": "luk8_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "(Porque mandaba al espíritu inmundo que saliese del hombre; pues hacía mucho tiempo que le arrebataba; y le guardaban preso con cadenas y grillos; pero rompiendo las cadenas, era arrastrado por el demonio a los desiertos.)"
+        },
+        {
+            "id": "luk8_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y Jesús le preguntó, diciendo:"
+        },
+        {
+            "id": "luk8_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "¿Cómo te llamas?"
+        },
+        {
+            "id": "luk8_30c",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "luk8_30d",
+            "speaker": "Demonio",
+            "verse": 30,
+            "text": "Legión. Porque muchos demonios habían entrado en él."
+        },
+        {
+            "id": "luk8_31",
+            "speaker": "Demonio",
+            "verse": 31,
+            "text": "Y le rogaban que no les mandase ir al abismo."
+        },
+        {
+            "id": "luk8_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y había allí un hato de muchos puercos que pacían en el monte; y le rogaron que los dejase entrar en ellos; y los dejó."
+        },
+        {
+            "id": "luk8_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y los demonios, salidos del hombre, entraron en los puercos; y el hato se arrojó por un despeñadero en el lago, y se ahogó."
+        },
+        {
+            "id": "luk8_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y cuando los que los apacentaban, vieron lo que había acontecido, huyeron, y yendo dieron aviso en la ciudad y por los campos."
+        },
+        {
+            "id": "luk8_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y salieron a ver lo que había acontecido; y vinieron a Jesús, y hallaron al hombre de quien habían salido los demonios, sentado a los pies de Jesús; vestido, y en su juicio cabal, y tuvieron miedo."
+        },
+        {
+            "id": "luk8_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y los que lo habían visto, les contaron cómo había sido sanado aquel endemoniado."
+        },
+        {
+            "id": "luk8_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Entonces toda la multitud de la tierra de los gadarenos alrededor, le rogó que se fuese de ellos; porque tenían gran temor. Y Él, subiendo en la barca, se volvió."
+        },
+        {
+            "id": "luk8_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y aquel hombre de quien habían salido los demonios le rogaba que le permitiese estar con Él; mas Jesús le despidió, diciendo:"
+        },
+        {
+            "id": "luk8_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Vuélvete a tu casa, y cuenta cuán grandes cosas ha hecho Dios contigo. Y él se fue, publicando por toda la ciudad cuán grandes cosas había hecho Jesús con él."
+        },
+        {
+            "id": "luk8_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y aconteció que cuando Jesús volvió, la multitud le recibió con gozo; porque todos le esperaban."
+        },
+        {
+            "id": "luk8_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y he aquí un varón llamado Jairo, que era príncipe de la sinagoga, vino, y postrándose a los pies de Jesús, le rogaba que entrase en su casa;"
+        },
+        {
+            "id": "luk8_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "porque tenía una hija única, como de doce años, y ella se estaba muriendo. Y yendo, la multitud le apretaba."
+        },
+        {
+            "id": "luk8_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y una mujer que tenía flujo de sangre hacía ya doce años, la cual había gastado en médicos todo cuanto tenía, y por ninguno había podido ser curada,"
+        },
+        {
+            "id": "luk8_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "vino por detrás y tocó el borde de su manto; y al instante se estancó el flujo de su sangre."
+        },
+        {
+            "id": "luk8_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Entonces Jesús dijo:"
+        },
+        {
+            "id": "luk8_45b",
+            "speaker": "Jesús",
+            "verse": 45,
+            "text": "¿Quién me ha tocado?"
+        },
+        {
+            "id": "luk8_45c",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y negando todos, dijo Pedro y los que estaban con él:"
+        },
+        {
+            "id": "luk8_45d",
+            "speaker": "Pedro",
+            "verse": 45,
+            "text": "Maestro, la multitud te aprieta y oprime, y dices: ¿Quién me ha tocado?"
+        },
+        {
+            "id": "luk8_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y Jesús dijo:"
+        },
+        {
+            "id": "luk8_46b",
+            "speaker": "Jesús",
+            "verse": 46,
+            "text": "Alguien me ha tocado; porque sé que ha salido poder de mí."
+        },
+        {
+            "id": "luk8_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Entonces, viendo la mujer que no se había ocultado, vino temblando, y postrándose delante de Él le declaró delante de todo el pueblo por qué causa le había tocado, y cómo al instante había sido sanada."
+        },
+        {
+            "id": "luk8_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y Él le dijo:"
+        },
+        {
+            "id": "luk8_48b",
+            "speaker": "Jesús",
+            "verse": 48,
+            "text": "Hija, ten buen ánimo; tu fe te ha salvado; ve en paz."
+        },
+        {
+            "id": "luk8_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Hablando aún Él, vino uno del príncipe de la sinagoga a decirle:"
+        },
+        {
+            "id": "luk8_49b",
+            "speaker": "Mensajero",
+            "verse": 49,
+            "text": "Tu hija ha muerto, no molestes más al Maestro."
+        },
+        {
+            "id": "luk8_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y oyéndolo Jesús, le respondió, diciendo:"
+        },
+        {
+            "id": "luk8_50b",
+            "speaker": "Jesús",
+            "verse": 50,
+            "text": "No temas; cree solamente, y será sanada."
+        },
+        {
+            "id": "luk8_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y entrado en casa, no dejó entrar a nadie, sino a Pedro, y a Jacobo, y a Juan, y al padre y a la madre de la muchacha."
+        },
+        {
+            "id": "luk8_52a",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y lloraban todos, y hacían duelo por ella. Y Él dijo:"
+        },
+        {
+            "id": "luk8_52b",
+            "speaker": "Jesús",
+            "verse": 52,
+            "text": "No lloréis; no está muerta, sino duerme."
+        },
+        {
+            "id": "luk8_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y se burlaban de Él, sabiendo que estaba muerta."
+        },
+        {
+            "id": "luk8_54a",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Mas Él echó fuera a todos, y tomándola de la mano, le habló, diciendo:"
+        },
+        {
+            "id": "luk8_54b",
+            "speaker": "Jesús",
+            "verse": 54,
+            "text": "Muchacha, levántate."
+        },
+        {
+            "id": "luk8_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Entonces su espíritu volvió, y se levantó en seguida; y Él mandó que le diesen de comer."
+        },
+        {
+            "id": "luk8_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Y sus padres estaban atónitos; pero Él les mandó que a nadie dijesen lo que había sido hecho."
+        }
+    ]
+}

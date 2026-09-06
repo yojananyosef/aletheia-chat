@@ -1,0 +1,433 @@
+{
+    "book": "Lucas",
+    "chapter": 19,
+    "title": "Lucas 19",
+    "messages": [
+        {
+            "id": "luk19_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y entrando Jesús pasó por Jericó."
+        },
+        {
+            "id": "luk19_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y he aquí un varón llamado Zaqueo, que era jefe de los publicanos, y era rico;"
+        },
+        {
+            "id": "luk19_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y procuraba ver quién era Jesús, pero no podía a causa de la multitud, porque era pequeño de estatura."
+        },
+        {
+            "id": "luk19_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y corriendo delante, se subió a un árbol sicómoro para verle; porque había de pasar por allí."
+        },
+        {
+            "id": "luk19_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando Jesús llegó a aquel lugar, mirando hacia arriba, le vio, y le dijo:"
+        },
+        {
+            "id": "luk19_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Zaqueo, date prisa, desciende, porque hoy es necesario que pose yo en tu casa."
+        },
+        {
+            "id": "luk19_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces él descendió aprisa, y le recibió gozoso."
+        },
+        {
+            "id": "luk19_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y viendo esto, todos murmuraban, diciendo que había entrado a posar con un hombre pecador."
+        },
+        {
+            "id": "luk19_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces Zaqueo, puesto en pie, dijo al Señor:"
+        },
+        {
+            "id": "luk19_8b",
+            "speaker": "Zaqueo",
+            "verse": 8,
+            "text": "He aquí, Señor, la mitad de mis bienes doy a los pobres; y si en algo he defraudado a alguno, se lo devuelvo cuadruplicado."
+        },
+        {
+            "id": "luk19_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "luk19_9b",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "Hoy ha venido la salvación a esta casa; por cuanto él también es hijo de Abraham."
+        },
+        {
+            "id": "luk19_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido."
+        },
+        {
+            "id": "luk19_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y oyendo ellos estas cosas, Él prosiguió y dijo una parábola, por cuanto estaba cerca de Jerusalén, y porque ellos pensaban que pronto se manifestaría el reino de Dios."
+        },
+        {
+            "id": "luk19_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Dijo, pues:"
+        },
+        {
+            "id": "luk19_12b",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Un hombre noble partió a una provincia lejos, para tomar para sí un reino, y volver."
+        },
+        {
+            "id": "luk19_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y llamando a diez siervos suyos, les dio diez minas, y les dijo:"
+        },
+        {
+            "id": "luk19_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Negociad entre tanto que vengo."
+        },
+        {
+            "id": "luk19_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pero sus ciudadanos le aborrecían, y enviaron tras él una embajada, diciendo:"
+        },
+        {
+            "id": "luk19_14b",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "No queremos que éste reine sobre nosotros."
+        },
+        {
+            "id": "luk19_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y aconteció que cuando él regresó, después de recibir el reino, mandó llamar ante él a aquellos siervos a los cuales había dado el dinero, para saber lo que había negociado cada uno."
+        },
+        {
+            "id": "luk19_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y vino el primero, diciendo:"
+        },
+        {
+            "id": "luk19_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Señor, tu mina ha ganado diez minas."
+        },
+        {
+            "id": "luk19_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "luk19_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Bien, buen siervo; pues que en lo poco has sido fiel, tendrás autoridad sobre diez ciudades."
+        },
+        {
+            "id": "luk19_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y vino otro, diciendo:"
+        },
+        {
+            "id": "luk19_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Señor, tu mina ha ganado cinco minas."
+        },
+        {
+            "id": "luk19_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "E igualmente dijo a éste:"
+        },
+        {
+            "id": "luk19_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Tú también sé sobre cinco ciudades."
+        },
+        {
+            "id": "luk19_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y vino otro, diciendo:"
+        },
+        {
+            "id": "luk19_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Señor, he aquí tu mina, la cual he tenido guardada en un pañuelo;"
+        },
+        {
+            "id": "luk19_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "pues tuve miedo de ti, porque eres hombre severo, que tomas lo que no pusiste, y siegas lo que no sembraste."
+        },
+        {
+            "id": "luk19_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces él le dijo:"
+        },
+        {
+            "id": "luk19_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Mal siervo, por tu propia boca te juzgo. Sabías que yo era hombre severo, que tomo lo que no puse, y que siego lo que no sembré;"
+        },
+        {
+            "id": "luk19_23",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "¿por qué, pues, no diste mi dinero al banco, para que al venir yo, lo hubiera recibido con los intereses?"
+        },
+        {
+            "id": "luk19_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y dijo a los que estaban presentes:"
+        },
+        {
+            "id": "luk19_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Quitadle la mina, y dadla al que tiene diez minas."
+        },
+        {
+            "id": "luk19_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "luk19_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Señor, tiene diez minas."
+        },
+        {
+            "id": "luk19_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Pues yo os digo que a todo el que tiene le será dado; y al que no tiene, aun lo que tiene le será quitado."
+        },
+        {
+            "id": "luk19_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y también a aquellos mis enemigos que no querían que yo reinase sobre ellos, traedlos acá, y matadlos delante de mí."
+        },
+        {
+            "id": "luk19_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dicho esto, iba delante subiendo a Jerusalén."
+        },
+        {
+            "id": "luk19_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y aconteció que llegando cerca de Betfagé y de Betania, al monte que se llama de los Olivos, envió dos de sus discípulos,"
+        },
+        {
+            "id": "luk19_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "luk19_30b",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "Id a la aldea de enfrente; y entrando en ella, hallaréis un pollino atado sobre el cual ningún hombre se ha sentado jamás; desatadlo, y traedlo."
+        },
+        {
+            "id": "luk19_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y si alguien os preguntare, ¿por qué lo desatáis? le responderéis así:"
+        },
+        {
+            "id": "luk19_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Porque el Señor lo necesita."
+        },
+        {
+            "id": "luk19_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y fueron los que habían sido enviados, y hallaron como Él les había dicho."
+        },
+        {
+            "id": "luk19_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y cuando desataban el pollino, sus dueños les dijeron:"
+        },
+        {
+            "id": "luk19_33b",
+            "speaker": "Hombre",
+            "verse": 33,
+            "text": "¿Por qué desatáis el pollino?"
+        },
+        {
+            "id": "luk19_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "luk19_34b",
+            "speaker": "Discípulos",
+            "verse": 34,
+            "text": "Porque el Señor lo necesita."
+        },
+        {
+            "id": "luk19_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y lo trajeron a Jesús; y habiendo echado sus mantos sobre el pollino, pusieron a Jesús encima."
+        },
+        {
+            "id": "luk19_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y yendo Él, tendían sus mantos por el camino."
+        },
+        {
+            "id": "luk19_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y cuando Él llegó ya cerca de la bajada del monte de los Olivos, toda la multitud de los discípulos, gozándose, comenzaron a alabar a Dios a gran voz por todas las maravillas que habían visto,"
+        },
+        {
+            "id": "luk19_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "luk19_38b",
+            "speaker": "Multitud",
+            "verse": 38,
+            "text": "¡Bendito el Rey que viene en el nombre del Señor; paz en el cielo, y gloria en las alturas!"
+        },
+        {
+            "id": "luk19_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Entonces algunos de los fariseos de entre la multitud le dijeron:"
+        },
+        {
+            "id": "luk19_39b",
+            "speaker": "Fariseos",
+            "verse": 39,
+            "text": "Maestro, reprende a tus discípulos."
+        },
+        {
+            "id": "luk19_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y Él respondiendo, les dijo:"
+        },
+        {
+            "id": "luk19_40b",
+            "speaker": "Jesús",
+            "verse": 40,
+            "text": "Os digo que si éstos callaran, las piedras clamarían."
+        },
+        {
+            "id": "luk19_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y cuando llegó cerca de la ciudad, al verla, lloró sobre ella,"
+        },
+        {
+            "id": "luk19_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "luk19_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "¡Oh si hubieses conocido, aun tú, a lo menos en este tu día, lo que toca a tu paz! Pero ahora está encubierto a tus ojos."
+        },
+        {
+            "id": "luk19_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Porque vendrán días sobre ti, que tus enemigos te cercarán con vallado, y te pondrán cerco, y de todas partes te pondrán en estrecho,"
+        },
+        {
+            "id": "luk19_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "y te derribarán a tierra, y a tus hijos dentro de ti; y no dejarán en ti piedra sobre piedra; por cuanto no conociste el tiempo de tu visitación."
+        },
+        {
+            "id": "luk19_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y entrando en el templo, comenzó a echar fuera a todos los que vendían y compraban en él,"
+        },
+        {
+            "id": "luk19_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Diciéndoles:"
+        },
+        {
+            "id": "luk19_46b",
+            "speaker": "Jesús",
+            "verse": 46,
+            "text": "Escrito está: Mi casa, es casa de oración; mas vosotros la habéis hecho cueva de ladrones."
+        },
+        {
+            "id": "luk19_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y enseñaba cada día en el templo; pero los príncipes de los sacerdotes, y los escribas, y los principales del pueblo procuraban matarle."
+        },
+        {
+            "id": "luk19_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y no hallaban qué hacer, porque todo el pueblo estaba muy atento oyéndole."
+        }
+    ]
+}
