@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 14,
     "subId": "b",
     "speaker": "Hijos de José",

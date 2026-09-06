@@ -6,6 +6,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Oficiales",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "",
     "speaker": "Josué",
@@ -18,9 +24,9 @@
     "confidence": 0.85
   },
   {
-    "verse": 4,
+    "verse": 12,
     "subId": "",
-    "speaker": "Oficiales",
-    "confidence": 0.85
+    "speaker": "Josué",
+    "confidence": 0.9
   }
 ]

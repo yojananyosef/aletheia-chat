@@ -78,18 +78,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 22,
-    "subId": "d",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 20,
-    "subId": "",
-    "speaker": "Josué",
-    "confidence": 0.85
-  },
-  {
     "verse": 17,
     "subId": "",
     "speaker": "Pueblo",
@@ -102,9 +90,27 @@
     "confidence": 0.85
   },
   {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "d",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
     "verse": 23,
     "subId": "",
     "speaker": "Josué",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]
