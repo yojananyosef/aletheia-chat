@@ -28,12 +28,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | proverbios | 932 | 889 | 0 | 0 |
 | eclesiastes | 232 | 225 | 0 | 0 |
 | cantares | 121 | 116 | 0 | 0 |
+| isaias | 1462 | 843 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **26591** | **7885** | **0** | **0** |
+| **total** | **28053** | **8728** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -88,6 +89,21 @@ dramático: **Amada** y **Amado** (las dos voces principales), **Hijas de Jerusa
 y su llamada 5:2b (con los marcos 2:10a/5:2a en la Amada). Cruxes documentadas: 7:9 "mi amado"
 → Amada (la voz femenina del texto publicado, sin split posible); 8:5 pregunta del coro +
 respuesta de la Amada → Amada.
+
+### Isaías — integración nueva (2026-09-06)
+Libro desbloqueado (1462 mensajes, 66 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Doctrina
+doctrinal del libro: **Isaías** = la voz del profeta por defecto (autor nombrado; doctrina del
+relator: su boca transmite el oráculo — precedente proverbios 1:11 / mateo 15:7-9); **Dios** =
+las citas tras marco dividido y su continuación (1:2b-23, 3:16b-26, 7:3b-9, 8:1b-10, 10:24b-34,
+43:1b-28, 44:2b-28, 45:1b-25...), los versos con fórmula en línea ("dice Jehová/dice el Santo":
+3:15, 14:22-23, 40:1-2, 40:25) y los oráculos del Siervo con voz divina ("mi siervo": 42:1-9/
+14-17, 52:13-15, 41:9b); **Narrador** = títulos ("Carga de..."), biografía (7:1, 20:1-3) y
+marcos 'a' del dry. Escena de 36-39 con voces: **Rabsaces** (36:4b-10, 12-21), **Eliaquim**
+(36:11b), **Siervos** de Ezequías (37:3b-4), **Rey de Asiria** (la carta 37:10-13, patrón
+Asuero de ester), **Ezequías** (oración 37:16-20; escritura 38:10-20; 39:3d/4d/8b-d), **Acaz**
+(7:12b), **Serafines** (6:3b/7b), **Mujeres** (4:1b). 138 correcciones sobre el dry (falsos
+Dios en citas de terceros: 6:5b/8d/11b Isaías, 8:2/16-18, 10:8b-14, 14:8b/13b/16b, 24:16b,
+28:15b, 21:9b, 57:10b, 63:11b; 37:36-38 Narrador; 38:5a Dios).
 
 ## Triaje (estado del tasks.md)
 

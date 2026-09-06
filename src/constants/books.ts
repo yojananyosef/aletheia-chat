@@ -65,7 +65,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'cantares', name: 'Cantares', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8], category: 'Poesía', description: 'La belleza del amor humano y divino.', participants: ['Dios', 'Narrador', 'Amado', 'Amada', 'Hijas de Jerusalén', 'Hermanos'] },
 
     // --- PROFETAS MAYORES ---
-    { id: 'isaias', name: 'Isaías', availableChapters: [], isLocked: true, category: 'Profetas Mayores', description: 'Visiones del Mesías y el juicio venidero.', participants: ['Isaías', 'Dios'] },
+    { id: 'isaias', name: 'Isaías', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66], category: 'Profetas Mayores', description: 'Visiones del Mesías y el juicio venidero.', participants: ['Dios', 'Narrador', 'Isaías', 'Serafines', 'Mujeres', 'Acaz', 'Rabsaces', 'Eliaquim', 'Siervos', 'Rey de Asiria', 'Ezequías', 'Jacob'] },
     { id: 'jeremias', name: 'Jeremías', availableChapters: [], isLocked: true, category: 'Profetas Mayores', description: 'El profeta llorón y el nuevo pacto.', participants: ['Jeremías'] },
     { id: 'lamentaciones', name: 'Lamentaciones', availableChapters: [], isLocked: true, category: 'Profetas Mayores', description: 'Duelo por la caída de Jerusalén.', participants: ['Jeremías'] },
     { id: 'ezequiel', name: 'Ezequiel', availableChapters: [], isLocked: true, category: 'Profetas Mayores', description: 'Visiones de la gloria de Dios en el exilio.', participants: ['Ezequiel'] },
