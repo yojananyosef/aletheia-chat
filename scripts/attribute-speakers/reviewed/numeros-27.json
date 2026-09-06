@@ -12,14 +12,14 @@
     "confidence": 0.85
   },
   {
-    "verse": 8,
-    "subId": "b",
+    "verse": 7,
+    "subId": "",
     "speaker": "Dios",
     "confidence": 0.85
   },
   {
-    "verse": 7,
-    "subId": "",
+    "verse": 8,
+    "subId": "b",
     "speaker": "Dios",
     "confidence": 0.85
   },
@@ -81,6 +81,12 @@
     "verse": 21,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": "22",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

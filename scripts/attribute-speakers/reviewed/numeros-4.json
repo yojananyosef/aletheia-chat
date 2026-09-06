@@ -178,5 +178,17 @@
     "subId": "",
     "speaker": "Dios",
     "confidence": 0.85
+  },
+  {
+    "verse": "34",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "35",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
   }
 ]

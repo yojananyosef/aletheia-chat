@@ -1,5 +1,11 @@
 [
   {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
     "verse": 4,
     "subId": "b",
     "speaker": "Balaam",
@@ -24,9 +30,27 @@
     "confidence": 0.85
   },
   {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
     "verse": 12,
     "subId": "b",
     "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": "14",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -42,6 +66,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Balac",
+    "confidence": 0.85
+  },
+  {
     "verse": 18,
     "subId": "b",
     "speaker": "Balaam",
@@ -51,36 +81,6 @@
     "verse": 19,
     "subId": "",
     "speaker": "Balaam",
-    "confidence": 0.85
-  },
-  {
-    "verse": 23,
-    "subId": "b",
-    "speaker": "Balaam",
-    "confidence": 0.85
-  },
-  {
-    "verse": 2,
-    "subId": "b",
-    "speaker": "Narrador",
-    "confidence": 0.9
-  },
-  {
-    "verse": 9,
-    "subId": "",
-    "speaker": "Balaam",
-    "confidence": 0.85
-  },
-  {
-    "verse": 10,
-    "subId": "",
-    "speaker": "Balaam",
-    "confidence": 0.85
-  },
-  {
-    "verse": 17,
-    "subId": "b",
-    "speaker": "Balac",
     "confidence": 0.85
   },
   {
@@ -104,6 +104,12 @@
   {
     "verse": 23,
     "subId": "a",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 23,
+    "subId": "b",
     "speaker": "Balaam",
     "confidence": 0.85
   },

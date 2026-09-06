@@ -6,6 +6,18 @@
     "confidence": 0.85
   },
   {
+    "verse": "3",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "4",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 6,
     "subId": "",
     "speaker": "Dios",
@@ -87,6 +99,24 @@
     "verse": 19,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": "20",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "21",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "22",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {

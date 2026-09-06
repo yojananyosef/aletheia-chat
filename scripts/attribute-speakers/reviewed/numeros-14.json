@@ -24,18 +24,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 27,
-    "subId": "",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
-    "verse": 40,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
     "verse": 8,
     "subId": "",
     "speaker": "Josué",
@@ -120,6 +108,18 @@
     "confidence": 0.85
   },
   {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 29,
     "subId": "",
     "speaker": "Dios",
@@ -162,6 +162,36 @@
     "confidence": 0.85
   },
   {
+    "verse": "36",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "37",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "38",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "39",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
     "verse": 42,
     "subId": "",
     "speaker": "Moisés",
@@ -171,12 +201,6 @@
     "verse": 43,
     "subId": "",
     "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "a",
-    "speaker": "Dios",
     "confidence": 0.85
   }
 ]

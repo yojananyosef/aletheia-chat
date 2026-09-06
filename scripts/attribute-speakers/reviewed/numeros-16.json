@@ -12,6 +12,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "",
     "speaker": "Moisés",
@@ -24,49 +30,13 @@
     "confidence": 0.85
   },
   {
-    "verse": 11,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 22,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.8
-  },
-  {
-    "verse": 24,
-    "subId": "b",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
-    "verse": 26,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 34,
-    "subId": "b",
-    "speaker": "Israel",
-    "confidence": 0.8
-  },
-  {
-    "verse": 47,
-    "subId": "b",
-    "speaker": "Narrador",
-    "confidence": 0.9
-  },
-  {
-    "verse": 6,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
     "verse": 10,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.85
@@ -102,6 +72,36 @@
     "confidence": 0.85
   },
   {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.8
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": "25",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": "27",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 29,
     "subId": "",
     "speaker": "Moisés",
@@ -114,6 +114,12 @@
     "confidence": 0.85
   },
   {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Israel",
+    "confidence": 0.8
+  },
+  {
     "verse": 37,
     "subId": "",
     "speaker": "Dios",
@@ -123,6 +129,12 @@
     "verse": 38,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": "39",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   },
   {
@@ -141,6 +153,30 @@
     "verse": 45,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 47,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": "48",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "49",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "50",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

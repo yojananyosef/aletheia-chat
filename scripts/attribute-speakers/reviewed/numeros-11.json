@@ -1,23 +1,5 @@
 [
   {
-    "verse": 12,
-    "subId": "",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 13,
-    "subId": "b",
-    "speaker": "Moisés",
-    "confidence": 0.85
-  },
-  {
-    "verse": 20,
-    "subId": "b",
-    "speaker": "Dios",
-    "confidence": 0.85
-  },
-  {
     "verse": 5,
     "subId": "",
     "speaker": "Multitud",
@@ -30,8 +12,20 @@
     "confidence": 0.8
   },
   {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
     "verse": 13,
     "subId": "a",
+    "speaker": "Moisés",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
     "speaker": "Moisés",
     "confidence": 0.85
   },
@@ -60,15 +54,33 @@
     "confidence": 0.85
   },
   {
+    "verse": 20,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 22,
     "subId": "",
     "speaker": "Moisés",
     "confidence": 0.85
   },
   {
-    "verse": 20,
-    "subId": "a",
-    "speaker": "Dios",
+    "verse": "25",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "26",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

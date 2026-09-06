@@ -12,8 +12,20 @@
     "confidence": 0.8
   },
   {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.85
+  },
+  {
     "verse": 8,
     "subId": "b",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
     "speaker": "Balaam",
     "confidence": 0.85
   },
@@ -30,6 +42,66 @@
     "confidence": 0.8
   },
   {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Mensajeros",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Balaam",
+    "confidence": 0.85
+  },
+  {
+    "verse": "21",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "22",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "23",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "24",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "25",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "26",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "27",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Asna",
+    "confidence": 0.85
+  },
+  {
     "verse": 30,
     "subId": "d",
     "speaker": "Balaam",
@@ -42,45 +114,15 @@
     "confidence": 0.85
   },
   {
-    "verse": 35,
-    "subId": "b",
-    "speaker": "Ángel",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "b",
-    "speaker": "Asna",
-    "confidence": 0.85
-  },
-  {
     "verse": 33,
     "subId": "",
     "speaker": "Ángel",
     "confidence": 0.85
   },
   {
-    "verse": 6,
-    "subId": "",
-    "speaker": "Mensajeros",
-    "confidence": 0.85
-  },
-  {
-    "verse": 11,
-    "subId": "",
-    "speaker": "Balaam",
-    "confidence": 0.85
-  },
-  {
-    "verse": 17,
-    "subId": "",
-    "speaker": "Mensajeros",
-    "confidence": 0.85
-  },
-  {
-    "verse": 19,
-    "subId": "",
-    "speaker": "Balaam",
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Ángel",
     "confidence": 0.85
   }
 ]

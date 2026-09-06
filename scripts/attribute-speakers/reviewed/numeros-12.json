@@ -6,14 +6,20 @@
     "confidence": 0.85
   },
   {
+    "verse": "5",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 6,
     "subId": "b",
     "speaker": "Dios",
     "confidence": 0.85
   },
   {
-    "verse": 8,
-    "subId": "b",
+    "verse": 7,
+    "subId": "",
     "speaker": "Dios",
     "confidence": 0.85
   },
@@ -24,9 +30,33 @@
     "confidence": 0.85
   },
   {
-    "verse": 7,
-    "subId": "",
+    "verse": 8,
+    "subId": "b",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": "9",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "10",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "15",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "16",
+    "subId": "",
+    "speaker": "Narrador",
     "confidence": 0.85
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "verse": 12,
-    "subId": "b",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
-    "verse": 13,
-    "subId": "",
-    "speaker": "Pueblo",
-    "confidence": 0.85
-  },
-  {
     "verse": 2,
     "subId": "",
     "speaker": "Dios",
@@ -33,6 +21,42 @@
     "verse": 5,
     "subId": "",
     "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": "6",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "7",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "8",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": "11",
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Pueblo",
     "confidence": 0.85
   }
 ]
