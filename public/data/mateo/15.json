@@ -1,0 +1,361 @@
+{
+    "book": "Mateo",
+    "chapter": 15,
+    "title": "Mateo 15",
+    "messages": [
+        {
+            "id": "mat15_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces vinieron a Jesús ciertos escribas y fariseos de Jerusalén, diciendo:"
+        },
+        {
+            "id": "mat15_2",
+            "speaker": "Ancianos",
+            "verse": 2,
+            "text": "¿Por qué tus discípulos quebrantan la tradición de los ancianos? Pues no se lavan sus manos cuando comen pan."
+        },
+        {
+            "id": "mat15_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero Él respondió y les dijo:"
+        },
+        {
+            "id": "mat15_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "¿Por qué también vosotros quebrantáis el mandamiento de Dios por vuestra tradición?"
+        },
+        {
+            "id": "mat15_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque Dios mandó, diciendo:"
+        },
+        {
+            "id": "mat15_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Honra a tu padre y a tu madre, y: El que maldijere a su padre o a su madre, muera de muerte."
+        },
+        {
+            "id": "mat15_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pero vosotros decís:"
+        },
+        {
+            "id": "mat15_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Cualquiera que dijere a su padre o a su madre: Es mi ofrenda todo aquello con que pudiera ayudarte,"
+        },
+        {
+            "id": "mat15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y no honra a su padre o a su madre, será libre. Así habéis invalidado el mandamiento de Dios por vuestra tradición."
+        },
+        {
+            "id": "mat15_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Hipócritas, bien profetizó de vosotros Isaías, diciendo:"
+        },
+        {
+            "id": "mat15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Este pueblo se acerca a mí con su boca, y de labios me honra, pero su corazón lejos está de mí."
+        },
+        {
+            "id": "mat15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero en vano me honran; enseñando como doctrinas mandamientos de hombres."
+        },
+        {
+            "id": "mat15_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y llamó a sí a la multitud, y les dijo:"
+        },
+        {
+            "id": "mat15_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Oíd, y entended:"
+        },
+        {
+            "id": "mat15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "No lo que entra en la boca contamina al hombre; sino lo que sale de la boca, esto contamina al hombre."
+        },
+        {
+            "id": "mat15_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces vinieron los discípulos, y le dijeron:"
+        },
+        {
+            "id": "mat15_12b",
+            "speaker": "Discípulos",
+            "verse": 12,
+            "text": "¿Sabes que los fariseos se ofendieron cuando oyeron esta palabra?"
+        },
+        {
+            "id": "mat15_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas Él respondió y dijo:"
+        },
+        {
+            "id": "mat15_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Toda planta que no plantó mi Padre celestial, será desarraigada."
+        },
+        {
+            "id": "mat15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Dejadlos; son ciegos guías de ciegos; y si el ciego guiare al ciego, ambos caerán en el hoyo."
+        },
+        {
+            "id": "mat15_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces respondió Pedro, y le dijo:"
+        },
+        {
+            "id": "mat15_15b",
+            "speaker": "Pedro",
+            "verse": 15,
+            "text": "Decláranos esta parábola."
+        },
+        {
+            "id": "mat15_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Jesús les dijo:"
+        },
+        {
+            "id": "mat15_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "¿También vosotros estáis aún sin entendimiento?"
+        },
+        {
+            "id": "mat15_17",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "¿Aún no entendéis que todo lo que entra en la boca va al vientre, y es arrojado en la letrina?"
+        },
+        {
+            "id": "mat15_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pero lo que sale de la boca, del corazón sale, y esto contamina al hombre."
+        },
+        {
+            "id": "mat15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque del corazón salen los malos pensamientos, homicidios, adulterios, fornicaciones, hurtos, falsos testimonios, blasfemias."
+        },
+        {
+            "id": "mat15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Estas cosas son las que contaminan al hombre, pero el comer con las manos sin lavar no contamina al hombre."
+        },
+        {
+            "id": "mat15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y saliendo Jesús de allí, se fue a las costas de Tiro y de Sidón."
+        },
+        {
+            "id": "mat15_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y he aquí una mujer cananea que había salido de aquella región clamaba, diciéndole:"
+        },
+        {
+            "id": "mat15_22b",
+            "speaker": "Mujer",
+            "verse": 22,
+            "text": "Señor, Hijo de David, ten misericordia de mí, mi hija es gravemente atormentada por un demonio."
+        },
+        {
+            "id": "mat15_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Pero Él no le respondió palabra. Y sus discípulos vinieron y le rogaron, diciendo:"
+        },
+        {
+            "id": "mat15_23b",
+            "speaker": "Discípulos",
+            "verse": 23,
+            "text": "Despídela, pues da voces tras nosotros."
+        },
+        {
+            "id": "mat15_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y Él respondiendo, dijo:"
+        },
+        {
+            "id": "mat15_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "No soy enviado sino a las ovejas perdidas de la casa de Israel."
+        },
+        {
+            "id": "mat15_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Entonces ella vino y le adoró, diciendo:"
+        },
+        {
+            "id": "mat15_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "¡Señor, socórreme!"
+        },
+        {
+            "id": "mat15_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mas Él respondió, y dijo:"
+        },
+        {
+            "id": "mat15_26b",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "No está bien tomar el pan de los hijos, y echarlo a los perrillos."
+        },
+        {
+            "id": "mat15_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y ella dijo:"
+        },
+        {
+            "id": "mat15_27b",
+            "speaker": "Mujer",
+            "verse": 27,
+            "text": "Sí, Señor, mas los perrillos comen de las migajas que caen de la mesa de sus señores."
+        },
+        {
+            "id": "mat15_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces respondiendo Jesús, le dijo:"
+        },
+        {
+            "id": "mat15_28b",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "¡Oh mujer, grande es tu fe! Sea hecho contigo como quieres. Y su hija fue sanada desde aquella hora."
+        },
+        {
+            "id": "mat15_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y partiendo Jesús de allí, vino junto al mar de Galilea; y subiendo al monte, se sentó allí."
+        },
+        {
+            "id": "mat15_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y grandes multitudes vinieron a Él, trayendo consigo, a cojos, ciegos, mudos, mancos, y muchos otros, y los pusieron a los pies de Jesús, y los sanó;"
+        },
+        {
+            "id": "mat15_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "de manera que la multitud se maravillaba, viendo a los mudos hablar, a los mancos ser sanados, a los cojos andar, y a los ciegos ver; y glorificaban al Dios de Israel."
+        },
+        {
+            "id": "mat15_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y llamando Jesús a sus discípulos, dijo:"
+        },
+        {
+            "id": "mat15_32b",
+            "speaker": "Jesús",
+            "verse": 32,
+            "text": "Tengo compasión de la multitud, porque hace ya tres días que están conmigo, y no tienen qué comer; y enviarlos en ayunas no quiero, no sea que desmayen en el camino."
+        },
+        {
+            "id": "mat15_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces sus discípulos le dijeron:"
+        },
+        {
+            "id": "mat15_33b",
+            "speaker": "Discípulos",
+            "verse": 33,
+            "text": "¿De dónde obtendremos tanto pan en el desierto, para saciar a tan grande multitud?"
+        },
+        {
+            "id": "mat15_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y Jesús les dijo:"
+        },
+        {
+            "id": "mat15_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "¿Cuántos panes tenéis?"
+        },
+        {
+            "id": "mat15_34c",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "mat15_34d",
+            "speaker": "Discípulos",
+            "verse": 34,
+            "text": "Siete, y unos cuantos pececillos."
+        },
+        {
+            "id": "mat15_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y mandó a la multitud que se recostase en tierra."
+        },
+        {
+            "id": "mat15_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y tomando los siete panes y los peces, habiendo dado gracias, los partió y dio a sus discípulos, y los discípulos a la multitud."
+        },
+        {
+            "id": "mat15_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y todos comieron, y se saciaron; y recogieron lo que sobró de los pedazos, siete canastos llenos."
+        },
+        {
+            "id": "mat15_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y los que habían comido fueron cuatro mil hombres, además de las mujeres y los niños."
+        },
+        {
+            "id": "mat15_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Entonces, despedida la multitud, entró en una barca, y vino a las costas de Magdala."
+        }
+    ]
+}

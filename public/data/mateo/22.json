@@ -1,0 +1,391 @@
+{
+    "book": "Mateo",
+    "chapter": 22,
+    "title": "Mateo 22",
+    "messages": [
+        {
+            "id": "mat22_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y respondiendo Jesús, les volvió a hablar en parábolas, diciendo:"
+        },
+        {
+            "id": "mat22_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "El reino de los cielos es semejante a un rey que hizo bodas a su hijo,"
+        },
+        {
+            "id": "mat22_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y envió a sus siervos para que llamasen a los convidados a las bodas; mas no quisieron venir."
+        },
+        {
+            "id": "mat22_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Volvió a enviar otros siervos, diciendo:"
+        },
+        {
+            "id": "mat22_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Decid a los convidados: He aquí, mi comida he preparado, mis toros y animales engordados han sido muertos, y todo está preparado; venid a las bodas."
+        },
+        {
+            "id": "mat22_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pero ellos, lo tuvieron en poco, y se fueron, uno a su labranza, y otro a sus negocios;"
+        },
+        {
+            "id": "mat22_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y los otros, tomando a sus siervos, los afrentaron y los mataron."
+        },
+        {
+            "id": "mat22_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y oyéndolo el rey, se indignó; y enviando sus ejércitos, destruyó a aquellos homicidas, y puso a fuego su ciudad."
+        },
+        {
+            "id": "mat22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces dijo a sus siervos:"
+        },
+        {
+            "id": "mat22_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Las bodas a la verdad están preparadas; pero los que fueron convidados no eran dignos."
+        },
+        {
+            "id": "mat22_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Id, pues, a las salidas de los caminos, y llamad a las bodas a cuantos halléis."
+        },
+        {
+            "id": "mat22_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y saliendo los siervos por los caminos, juntaron a todos los que hallaron, juntamente malos y buenos; y las bodas fueron llenas de convidados."
+        },
+        {
+            "id": "mat22_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando el rey vino para ver a los convidados, vio allí a un hombre que no estaba vestido de boda,"
+        },
+        {
+            "id": "mat22_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "mat22_12b",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Amigo, ¿cómo entraste acá sin estar vestido de boda? Mas él enmudeció."
+        },
+        {
+            "id": "mat22_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces el rey dijo a los que servían:"
+        },
+        {
+            "id": "mat22_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Atadle de pies y manos, llevadle y echadle en las tinieblas de afuera; allí será el lloro y el crujir de dientes."
+        },
+        {
+            "id": "mat22_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque muchos son llamados, pero pocos son escogidos."
+        },
+        {
+            "id": "mat22_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces los fariseos fueron y consultaron de cómo le prenderían en alguna palabra."
+        },
+        {
+            "id": "mat22_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y le enviaron los discípulos de ellos, con los herodianos, diciendo:"
+        },
+        {
+            "id": "mat22_16b",
+            "speaker": "Discípulos",
+            "verse": 16,
+            "text": "Maestro, sabemos que eres veraz, y que enseñas con verdad el camino de Dios, y que no te cuidas de nadie, porque no miras la apariencia de los hombres."
+        },
+        {
+            "id": "mat22_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Dinos, pues, qué te parece: ¿Es lícito dar tributo a César, o no?"
+        },
+        {
+            "id": "mat22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pero Jesús, conociendo la malicia de ellos, les dijo:"
+        },
+        {
+            "id": "mat22_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "¿Por qué me tentáis, hipócritas?"
+        },
+        {
+            "id": "mat22_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mostradme la moneda del tributo. Y ellos le presentaron un denario."
+        },
+        {
+            "id": "mat22_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces les dijo:"
+        },
+        {
+            "id": "mat22_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "¿De quién es esta imagen, y la inscripción?"
+        },
+        {
+            "id": "mat22_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Le dijeron:"
+        },
+        {
+            "id": "mat22_21b",
+            "speaker": "Fariseos",
+            "verse": 21,
+            "text": "De César."
+        },
+        {
+            "id": "mat22_21c",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Él les dijo:"
+        },
+        {
+            "id": "mat22_21d",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Dad, pues, a César lo que es de César, y a Dios lo que es de Dios."
+        },
+        {
+            "id": "mat22_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y oyendo esto, se maravillaron, y dejándole, se fueron."
+        },
+        {
+            "id": "mat22_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Aquel día, vinieron a Él los saduceos, que dicen que no hay resurrección, y le preguntaron,"
+        },
+        {
+            "id": "mat22_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat22_24b",
+            "speaker": "Saduceos",
+            "verse": 24,
+            "text": "Maestro, Moisés dijo: Si alguno muriere sin hijos, su hermano se casará con su esposa, y levantará descendencia a su hermano."
+        },
+        {
+            "id": "mat22_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Hubo, pues, entre nosotros siete hermanos; y el primero se casó, y murió; y no teniendo descendencia, dejó su esposa a su hermano;"
+        },
+        {
+            "id": "mat22_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "así también el segundo, y el tercero, hasta el séptimo."
+        },
+        {
+            "id": "mat22_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y después de todos murió también la mujer."
+        },
+        {
+            "id": "mat22_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "En la resurrección, pues, ¿de cuál de los siete será esposa, pues todos la tuvieron?"
+        },
+        {
+            "id": "mat22_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Entonces respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "mat22_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "Erráis, no conociendo las Escrituras, ni el poder de Dios."
+        },
+        {
+            "id": "mat22_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Porque en la resurrección ni se casan, ni se dan en casamiento, sino que son como los ángeles de Dios en el cielo."
+        },
+        {
+            "id": "mat22_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Pero en cuanto a la resurrección de los muertos, ¿no habéis leído lo que os fue dicho por Dios, cuando dijo:"
+        },
+        {
+            "id": "mat22_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Yo soy el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob? Dios no es Dios de muertos, sino de vivos."
+        },
+        {
+            "id": "mat22_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y oyéndolo la multitud, se maravillaban de su doctrina."
+        },
+        {
+            "id": "mat22_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y cuando los fariseos oyeron que había hecho callar a los saduceos, se juntaron a una."
+        },
+        {
+            "id": "mat22_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Entonces uno de ellos, que era intérprete de la ley, preguntó por tentarle, diciendo:"
+        },
+        {
+            "id": "mat22_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Maestro, ¿cuál es el gran mandamiento en la ley?"
+        },
+        {
+            "id": "mat22_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "mat22_37b",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente."
+        },
+        {
+            "id": "mat22_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Éste es el primero y grande mandamiento."
+        },
+        {
+            "id": "mat22_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y el segundo es semejante a éste: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+            "id": "mat22_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "De estos dos mandamientos pende toda la ley y los profetas."
+        },
+        {
+            "id": "mat22_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y juntándose los fariseos, Jesús les preguntó,"
+        },
+        {
+            "id": "mat22_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat22_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "¿Qué pensáis del Cristo? ¿De quién es hijo?"
+        },
+        {
+            "id": "mat22_42c",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Le dijeron:"
+        },
+        {
+            "id": "mat22_42d",
+            "speaker": "Fariseos",
+            "verse": 42,
+            "text": "De David."
+        },
+        {
+            "id": "mat22_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Él les dijo:"
+        },
+        {
+            "id": "mat22_43b",
+            "speaker": "Jesús",
+            "verse": 43,
+            "text": "¿Cómo entonces David en el Espíritu le llama Señor, diciendo:"
+        },
+        {
+            "id": "mat22_44a",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Dijo el Señor a mi Señor:"
+        },
+        {
+            "id": "mat22_44b",
+            "speaker": "Jesús",
+            "verse": 44,
+            "text": "Siéntate a mi diestra, hasta que ponga a tus enemigos por estrado de tus pies."
+        },
+        {
+            "id": "mat22_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Pues si David le llama Señor, ¿cómo es su hijo?"
+        },
+        {
+            "id": "mat22_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y nadie le podía responder palabra; ni osó alguno desde aquel día preguntarle más."
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "book": "Mateo",
+    "chapter": 20,
+    "title": "Mateo 20",
+    "messages": [
+        {
+            "id": "mat20_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Porque el reino de los cielos es semejante a un hombre, padre de familia, que salió por la mañana a contratar obreros para su viña."
+        },
+        {
+            "id": "mat20_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y habiendo acordado con los obreros en un denario al día, los envió a su viña."
+        },
+        {
+            "id": "mat20_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y saliendo cerca de la hora tercera, vio a otros en la plaza que estaban ociosos,"
+        },
+        {
+            "id": "mat20_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mat20_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Id también vosotros a mi viña, y os daré lo que sea justo. Y ellos fueron."
+        },
+        {
+            "id": "mat20_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Salió otra vez cerca de las horas sexta y novena, e hizo lo mismo."
+        },
+        {
+            "id": "mat20_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y saliendo cerca de la hora undécima, halló a otros que estaban ociosos, y les dijo:"
+        },
+        {
+            "id": "mat20_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "¿Por qué estáis aquí todo el día ociosos?"
+        },
+        {
+            "id": "mat20_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Ellos le dicen:"
+        },
+        {
+            "id": "mat20_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Porque nadie nos ha contratado."
+        },
+        {
+            "id": "mat20_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Él les dijo:"
+        },
+        {
+            "id": "mat20_7d",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Id también vosotros a la viña, y recibiréis lo que sea justo."
+        },
+        {
+            "id": "mat20_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y cuando cayó la tarde, el señor de la viña dijo a su mayordomo:"
+        },
+        {
+            "id": "mat20_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Llama a los obreros y págales el jornal, comenzando desde los postreros hasta los primeros."
+        },
+        {
+            "id": "mat20_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y viniendo los que habían ido cerca de la hora undécima, recibieron cada uno un denario."
+        },
+        {
+            "id": "mat20_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y cuando vinieron los primeros, pensaban que habían de recibir más, pero ellos también recibieron cada uno un denario."
+        },
+        {
+            "id": "mat20_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y al recibirlo, murmuraban contra el padre de familia,"
+        },
+        {
+            "id": "mat20_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat20_12b",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Estos postreros han trabajado sólo una hora, y los has hecho iguales a nosotros, que hemos llevado la carga y el calor del día."
+        },
+        {
+            "id": "mat20_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas él respondiendo, dijo a uno de ellos:"
+        },
+        {
+            "id": "mat20_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Amigo, no te hago agravio; ¿no acordaste conmigo por un denario?"
+        },
+        {
+            "id": "mat20_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Toma lo que es tuyo y vete; pero quiero dar a este postrero igual que a ti."
+        },
+        {
+            "id": "mat20_15",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "¿No me es lícito hacer lo que quiero con lo mío? ¿O es malo tu ojo porque yo soy bueno?"
+        },
+        {
+            "id": "mat20_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Así, los primeros serán postreros, y los postreros, primeros: Porque muchos son llamados, mas pocos escogidos."
+        },
+        {
+            "id": "mat20_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y subiendo Jesús a Jerusalén, tomó a sus doce discípulos aparte en el camino, y les dijo:"
+        },
+        {
+            "id": "mat20_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "He aquí subimos a Jerusalén, y el Hijo del Hombre será entregado a los príncipes de los sacerdotes y a los escribas, y le condenarán a muerte;"
+        },
+        {
+            "id": "mat20_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y le entregarán a los gentiles para ser escarnecido, azotado, y crucificado, mas al tercer día resucitará."
+        },
+        {
+            "id": "mat20_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces vino a Él la madre de los hijos de Zebedeo con sus hijos, adorándole y pidiéndole algo."
+        },
+        {
+            "id": "mat20_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y Él le dijo:"
+        },
+        {
+            "id": "mat20_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "¿Qué quieres?"
+        },
+        {
+            "id": "mat20_21c",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Ella le dijo:"
+        },
+        {
+            "id": "mat20_21d",
+            "speaker": "Mujer",
+            "verse": 21,
+            "text": "Concede que en tu reino se sienten estos mis dos hijos, el uno a tu mano derecha, y el otro a tu izquierda."
+        },
+        {
+            "id": "mat20_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces Jesús respondiendo, dijo:"
+        },
+        {
+            "id": "mat20_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "No sabéis lo que pedís: ¿Podéis beber la copa que yo he de beber, y ser bautizados con el bautismo con que yo soy bautizado?"
+        },
+        {
+            "id": "mat20_22c",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Ellos le dijeron:"
+        },
+        {
+            "id": "mat20_22d",
+            "speaker": "Jacobo y Juan",
+            "verse": 22,
+            "text": "Podemos."
+        },
+        {
+            "id": "mat20_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mat20_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "A la verdad de mi copa beberéis, y seréis bautizados con el bautismo que yo soy bautizado, pero el sentaros a mi mano derecha y a mi izquierda, no es mío darlo, sino a aquellos para quienes está preparado por mi Padre."
+        },
+        {
+            "id": "mat20_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y oyéndolo los diez, se indignaron contra los dos hermanos."
+        },
+        {
+            "id": "mat20_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Entonces Jesús, llamándolos, dijo:"
+        },
+        {
+            "id": "mat20_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Sabéis que los príncipes de los gentiles se enseñorean sobre ellos, y los que son grandes ejercen sobre ellos autoridad."
+        },
+        {
+            "id": "mat20_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mas entre vosotros no será así, sino que el que quisiere ser grande entre vosotros, sea vuestro servidor,"
+        },
+        {
+            "id": "mat20_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "y el que quisiere ser el primero entre vosotros, sea vuestro servidor;"
+        },
+        {
+            "id": "mat20_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "así como el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos."
+        },
+        {
+            "id": "mat20_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y saliendo ellos de Jericó, le seguía gran multitude."
+        },
+        {
+            "id": "mat20_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y he aquí, dos ciegos sentados junto al camino, cuando oyeron que Jesús pasaba, clamaron, diciendo:"
+        },
+        {
+            "id": "mat20_30b",
+            "speaker": "Ciegos",
+            "verse": 30,
+            "text": "¡Señor, Hijo de David, ten misericordia de nosotros!"
+        },
+        {
+            "id": "mat20_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y la multitud les reprendía para que callasen; pero ellos más clamaban, diciendo:"
+        },
+        {
+            "id": "mat20_31b",
+            "speaker": "Multitud",
+            "verse": 31,
+            "text": "¡Señor, Hijo de David, ten misericordia de nosotros!"
+        },
+        {
+            "id": "mat20_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y deteniéndose Jesús, los llamó, y les dijo:"
+        },
+        {
+            "id": "mat20_32b",
+            "speaker": "Jesús",
+            "verse": 32,
+            "text": "¿Qué queréis que os haga?"
+        },
+        {
+            "id": "mat20_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Ellos le dijeron:"
+        },
+        {
+            "id": "mat20_33b",
+            "speaker": "Ciegos",
+            "verse": 33,
+            "text": "Señor, que sean abiertos nuestros ojos."
+        },
+        {
+            "id": "mat20_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces Jesús, teniendo compasión de ellos, tocó sus ojos, y al instante sus ojos recibieron la vista; y le siguieron."
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "book": "Mateo",
+    "chapter": 5,
+    "title": "Mateo 5",
+    "messages": [
+        {
+            "id": "mat5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y viendo las multitudes, subió al monte; y sentándose, sus discípulos vinieron a Él."
+        },
+        {
+            "id": "mat5_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y abriendo su boca, les enseñaba, diciendo:"
+        },
+        {
+            "id": "mat5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Bienaventurados los pobres en espíritu; porque de ellos es el reino de los cielos."
+        },
+        {
+            "id": "mat5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Bienaventurados los que lloran; porque ellos serán consolados."
+        },
+        {
+            "id": "mat5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Bienaventurados los mansos; porque ellos heredarán la tierra."
+        },
+        {
+            "id": "mat5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Bienaventurados los que tienen hambre y sed de justicia; porque ellos serán saciados."
+        },
+        {
+            "id": "mat5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Bienaventurados los misericordiosos; porque ellos alcanzarán misericordia."
+        },
+        {
+            "id": "mat5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Bienaventurados los de limpio corazón; porque ellos verán a Dios."
+        },
+        {
+            "id": "mat5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Bienaventurados los pacificadores; porque ellos serán llamados hijos de Dios."
+        },
+        {
+            "id": "mat5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Bienaventurados los que padecen persecución por causa de la justicia; porque de ellos es el reino de los cielos."
+        },
+        {
+            "id": "mat5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo."
+        },
+        {
+            "id": "mat5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Regocijaos y alegraos; porque vuestro galardón es grande en el cielo; porque así persiguieron a los profetas que fueron antes de vosotros."
+        },
+        {
+            "id": "mat5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Vosotros sois la sal de la tierra; pero si la sal pierde su sabor, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y ser hollada por los hombres."
+        },
+        {
+            "id": "mat5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Vosotros sois la luz del mundo. Una ciudad asentada sobre un monte no se puede esconder."
+        },
+        {
+            "id": "mat5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Ni se enciende un candil y se pone debajo del almud, sino sobre el candelero, y alumbra a todos los que están en casa."
+        },
+        {
+            "id": "mat5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en el cielo."
+        },
+        {
+            "id": "mat5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir."
+        },
+        {
+            "id": "mat5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo sea cumplido."
+        },
+        {
+            "id": "mat5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "De manera que cualquiera que quebrantare uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los hiciere y enseñare, éste será llamado grande en el reino de los cielos."
+        },
+        {
+            "id": "mat5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos."
+        },
+        {
+            "id": "mat5_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Oísteis que fue dicho por los antiguos:"
+        },
+        {
+            "id": "mat5_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "No matarás; y cualquiera que matare estará expuesto a juicio."
+        },
+        {
+            "id": "mat5_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas yo os digo que cualquiera que sin razón se enojare contra su hermano, estará en peligro del juicio; y cualquiera que dijere a su hermano:"
+        },
+        {
+            "id": "mat5_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "Raca, estará en peligro del concilio; y cualquiera que le dijere: Fatuo, estará expuesto al infierno de fuego."
+        },
+        {
+            "id": "mat5_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Por tanto, si trajeres tu ofrenda al altar, y allí te acordares que tu hermano tiene algo contra ti;"
+        },
+        {
+            "id": "mat5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "deja allí tu ofrenda delante del altar, y ve, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda."
+        },
+        {
+            "id": "mat5_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Ponte de acuerdo pronto con tu adversario, mientras estás con él en el camino, no sea que el adversario te entregue al juez, y el juez te entregue al alguacil, y seas echado en la cárcel."
+        },
+        {
+            "id": "mat5_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "De cierto te digo que no saldrás de allí, hasta que pagues el último cuadrante."
+        },
+        {
+            "id": "mat5_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Oísteis que fue dicho por los antiguos:"
+        },
+        {
+            "id": "mat5_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "No cometerás adulterio."
+        },
+        {
+            "id": "mat5_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."
+        },
+        {
+            "id": "mat5_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Por tanto, si tu ojo derecho te es ocasión de caer, sácalo, y échalo de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea lanzado al infierno."
+        },
+        {
+            "id": "mat5_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y si tu mano derecha te es ocasión de caer, córtala, y échala de ti; pues mejor te es que uno de tus miembros se pierda, y no que todo tu cuerpo sea lanzado al infierno."
+        },
+        {
+            "id": "mat5_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "También fue dicho:"
+        },
+        {
+            "id": "mat5_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Cualquiera que repudiare a su esposa, déle carta de divorcio."
+        },
+        {
+            "id": "mat5_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Pero yo os digo que cualquiera que repudiare a su esposa, salvo por causa de fornicación, hace que ella adultere; y el que se casa con la divorciada, comete adulterio."
+        },
+        {
+            "id": "mat5_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Además, oísteis que fue dicho por los antiguos:"
+        },
+        {
+            "id": "mat5_33b",
+            "speaker": "Jesús",
+            "verse": 33,
+            "text": "No perjurarás; mas cumplirás al Señor tus juramentos."
+        },
+        {
+            "id": "mat5_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Pero yo os digo: No juréis en ninguna manera; ni por el cielo, porque es el trono de Dios;"
+        },
+        {
+            "id": "mat5_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del gran Rey."
+        },
+        {
+            "id": "mat5_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Ni por tu cabeza jurarás, porque no puedes hacer blanco o negro un solo cabello."
+        },
+        {
+            "id": "mat5_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Mas sea vuestro hablar:"
+        },
+        {
+            "id": "mat5_37b",
+            "speaker": "Jesús",
+            "verse": 37,
+            "text": "Sí, sí: No, no; porque lo que es más de esto, de mal procede."
+        },
+        {
+            "id": "mat5_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Oísteis que fue dicho:"
+        },
+        {
+            "id": "mat5_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "Ojo por ojo, y diente por diente."
+        },
+        {
+            "id": "mat5_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Pero yo os digo: No resistáis el mal; antes a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra;"
+        },
+        {
+            "id": "mat5_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "y a cualquiera que te demande ante la ley y tome tu túnica, déjale tomar también la capa;"
+        },
+        {
+            "id": "mat5_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "y cualquiera que te obligue a ir una milla, ve con él dos."
+        },
+        {
+            "id": "mat5_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Al que te pida, dale; y al que quiera tomar de ti prestado, no le rehúses."
+        },
+        {
+            "id": "mat5_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Oísteis que fue dicho:"
+        },
+        {
+            "id": "mat5_43b",
+            "speaker": "Jesús",
+            "verse": 43,
+            "text": "Amarás a tu prójimo, y aborrecerás a tu enemigo."
+        },
+        {
+            "id": "mat5_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;"
+        },
+        {
+            "id": "mat5_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "para que seáis hijos de vuestro Padre que está en el cielo; porque Él hace que su sol salga sobre malos y buenos; y envía lluvia sobre justos e injustos."
+        },
+        {
+            "id": "mat5_46",
+            "speaker": "Publicanos",
+            "verse": 46,
+            "text": "Porque si amáis a los que os aman, ¿qué recompensa tendréis? ¿No hacen también así los publicanos?"
+        },
+        {
+            "id": "mat5_47",
+            "speaker": "Publicanos",
+            "verse": 47,
+            "text": "Y si saludáis solamente a vuestros hermanos, ¿qué hacéis de más? ¿No hacen también así los publicanos?"
+        },
+        {
+            "id": "mat5_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Sed, pues, vosotros perfectos, como vuestro Padre que está en el cielo es perfecto."
+        }
+    ]
+}

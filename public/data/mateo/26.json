@@ -1,0 +1,727 @@
+{
+    "book": "Mateo",
+    "chapter": 26,
+    "title": "Mateo 26",
+    "messages": [
+        {
+            "id": "mat26_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que cuando Jesús hubo acabado todas estas palabras, dijo a sus discípulos:"
+        },
+        {
+            "id": "mat26_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Sabéis que dentro de dos días se celebra la pascua; y el Hijo del Hombre será entregado para ser crucificado."
+        },
+        {
+            "id": "mat26_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces los príncipes de los sacerdotes, y los escribas, y los ancianos del pueblo, se reunieron en el palacio del sumo sacerdote llamado Caifás,"
+        },
+        {
+            "id": "mat26_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "y tuvieron consejo para prender con engaño a Jesús, y matarle."
+        },
+        {
+            "id": "mat26_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pero decían:"
+        },
+        {
+            "id": "mat26_5b",
+            "speaker": "Sacerdotes",
+            "verse": 5,
+            "text": "No en el día de fiesta, para que no se haga alboroto en el pueblo."
+        },
+        {
+            "id": "mat26_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y estando Jesús en Betania, en casa de Simón el leproso,"
+        },
+        {
+            "id": "mat26_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "vino a Él una mujer, trayendo un frasco de alabastro de ungüento de mucho precio, y lo derramó sobre la cabeza de Él, estando Él sentado a la mesa."
+        },
+        {
+            "id": "mat26_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Al ver esto sus discípulos, se indignaron, diciendo:"
+        },
+        {
+            "id": "mat26_8b",
+            "speaker": "Discípulos",
+            "verse": 8,
+            "text": "¿Por qué este desperdicio?"
+        },
+        {
+            "id": "mat26_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque este ungüento podía haberse vendido a gran precio, y haberse dado a los pobres."
+        },
+        {
+            "id": "mat26_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y entendiéndolo Jesús, les dijo:"
+        },
+        {
+            "id": "mat26_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "¿Por qué molestáis a esta mujer? pues buena obra me ha hecho."
+        },
+        {
+            "id": "mat26_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque a los pobres siempre los tenéis con vosotros, pero a mí no siempre me tenéis."
+        },
+        {
+            "id": "mat26_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque derramando este ungüento sobre mi cuerpo, para mi sepultura lo ha hecho."
+        },
+        {
+            "id": "mat26_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "De cierto os digo: Dondequiera que se predique este evangelio, en todo el mundo, también lo que ésta ha hecho, será dicho para memoria de ella."
+        },
+        {
+            "id": "mat26_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces uno de los doce, llamado Judas Iscariote, fue a los príncipes de los sacerdotes,"
+        },
+        {
+            "id": "mat26_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mat26_15b",
+            "speaker": "Judas",
+            "verse": 15,
+            "text": "¿Qué me queréis dar, y yo os lo entregaré? Y convinieron con él por treinta piezas de plata."
+        },
+        {
+            "id": "mat26_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y desde entonces buscaba oportunidad para entregarle."
+        },
+        {
+            "id": "mat26_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y el primer día de la fiesta de los panes sin levadura, vinieron los discípulos a Jesús, diciéndole:"
+        },
+        {
+            "id": "mat26_17b",
+            "speaker": "Discípulos",
+            "verse": 17,
+            "text": "¿Dónde quieres que preparemos para que comas la pascua?"
+        },
+        {
+            "id": "mat26_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "mat26_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Id a la ciudad, a cierto hombre, y decidle: El Maestro dice: Mi tiempo está cerca; en tu casa celebraré la pascua con mis discípulos."
+        },
+        {
+            "id": "mat26_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y los discípulos hicieron como Jesús les mandó, y prepararon la pascua."
+        },
+        {
+            "id": "mat26_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y cuando llegó la noche, se sentó a la mesa con los doce."
+        },
+        {
+            "id": "mat26_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y comiendo ellos, dijo:"
+        },
+        {
+            "id": "mat26_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "De cierto os digo, que uno de vosotros me ha de entregar."
+        },
+        {
+            "id": "mat26_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y entristecidos en gran manera, comenzó cada uno de ellos a decirle:"
+        },
+        {
+            "id": "mat26_22b",
+            "speaker": "Discípulos",
+            "verse": 22,
+            "text": "¿Soy yo, Señor?"
+        },
+        {
+            "id": "mat26_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces Él respondiendo, dijo:"
+        },
+        {
+            "id": "mat26_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "El que mete la mano conmigo en el plato, ése me ha de entregar."
+        },
+        {
+            "id": "mat26_24",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "A la verdad el Hijo del Hombre va, como está escrito de Él, mas ¡ay de aquel hombre por quien el Hijo del Hombre es entregado! Bueno le fuera a tal hombre no haber nacido."
+        },
+        {
+            "id": "mat26_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Entonces Judas, el que le entregaba, respondió y dijo:"
+        },
+        {
+            "id": "mat26_25b",
+            "speaker": "Judas",
+            "verse": 25,
+            "text": "¿Soy yo, Maestro?"
+        },
+        {
+            "id": "mat26_25c",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Él le dijo:"
+        },
+        {
+            "id": "mat26_25d",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Tú lo has dicho."
+        },
+        {
+            "id": "mat26_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y mientras comían, Jesús tomó el pan, y lo bendijo, y lo partió y dio a sus discípulos, y dijo:"
+        },
+        {
+            "id": "mat26_26b",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "Tomad, comed; esto es mi cuerpo."
+        },
+        {
+            "id": "mat26_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y tomando la copa, habiendo dado gracias, les dio, diciendo:"
+        },
+        {
+            "id": "mat26_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "Bebed de ella todos;"
+        },
+        {
+            "id": "mat26_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "porque esto es mi sangre del nuevo testamento, la cual es derramada por muchos para remisión de pecados."
+        },
+        {
+            "id": "mat26_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y os digo, que desde ahora no beberé más de este fruto de la vid, hasta aquel día cuando lo beba nuevo con vosotros en el reino de mi Padre."
+        },
+        {
+            "id": "mat26_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y cuando hubieron cantado un himno, salieron al monte de los Olivos."
+        },
+        {
+            "id": "mat26_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Entonces Jesús les dijo:"
+        },
+        {
+            "id": "mat26_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "Todos vosotros os escandalizaréis de mí esta noche; porque está escrito: Heriré al pastor, y las ovejas del rebaño serán dispersadas."
+        },
+        {
+            "id": "mat26_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Pero después que haya resucitado, iré delante de vosotros a Galilea."
+        },
+        {
+            "id": "mat26_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Respondiendo Pedro, le dijo:"
+        },
+        {
+            "id": "mat26_33b",
+            "speaker": "Pedro",
+            "verse": 33,
+            "text": "Aunque todos se escandalicen por causa de ti, yo nunca me escandalizaré."
+        },
+        {
+            "id": "mat26_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "mat26_34b",
+            "speaker": "Jesús",
+            "verse": 34,
+            "text": "De cierto te digo que esta noche, antes que el gallo cante, me negarás tres veces."
+        },
+        {
+            "id": "mat26_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Pedro le dice:"
+        },
+        {
+            "id": "mat26_35b",
+            "speaker": "Pedro",
+            "verse": 35,
+            "text": "Aunque me sea necesario morir contigo, no te negaré. Y todos los discípulos dijeron lo mismo."
+        },
+        {
+            "id": "mat26_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces llegó Jesús con ellos a un lugar que se llama Getsemaní, y dijo a sus discípulos:"
+        },
+        {
+            "id": "mat26_36b",
+            "speaker": "Jesús",
+            "verse": 36,
+            "text": "Sentaos aquí, entre tanto que voy allí y oro."
+        },
+        {
+            "id": "mat26_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y tomando a Pedro y a los dos hijos de Zebedeo, comenzó a entristecerse y a angustiarse en gran manera."
+        },
+        {
+            "id": "mat26_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Entonces Él les dijo:"
+        },
+        {
+            "id": "mat26_38b",
+            "speaker": "Jesús",
+            "verse": 38,
+            "text": "Mi alma está muy triste hasta la muerte; quedaos aquí, y velad conmigo."
+        },
+        {
+            "id": "mat26_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y yendo un poco más adelante, se postró sobre su rostro, y oró diciendo:"
+        },
+        {
+            "id": "mat26_39b",
+            "speaker": "Jesús",
+            "verse": 39,
+            "text": "Padre mío, si es posible, que pase de mí esta copa, pero no se haga mi voluntad, sino la tuya."
+        },
+        {
+            "id": "mat26_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y vino a sus discípulos y los halló durmiendo, y dijo a Pedro:"
+        },
+        {
+            "id": "mat26_40b",
+            "speaker": "Discípulos",
+            "verse": 40,
+            "text": "¿Así que, no habéis podido velar conmigo una hora?"
+        },
+        {
+            "id": "mat26_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil."
+        },
+        {
+            "id": "mat26_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Otra vez fue, y oró por segunda vez, diciendo:"
+        },
+        {
+            "id": "mat26_42b",
+            "speaker": "Jesús",
+            "verse": 42,
+            "text": "Padre mío, si no puede pasar de mí esta copa sin que yo la beba, hágase tu voluntad."
+        },
+        {
+            "id": "mat26_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y vino, y otra vez los halló durmiendo, porque los ojos de ellos estaban cargados de sueño."
+        },
+        {
+            "id": "mat26_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y dejándolos, se fue de nuevo, y oró por tercera vez, diciendo las mismas palabras."
+        },
+        {
+            "id": "mat26_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Entonces vino a sus discípulos y les dijo:"
+        },
+        {
+            "id": "mat26_45b",
+            "speaker": "Discípulos",
+            "verse": 45,
+            "text": "Dormid ya, y descansad; he aquí ha llegado la hora, y el Hijo del Hombre es entregado en manos de pecadores."
+        },
+        {
+            "id": "mat26_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Levantaos, vamos; he aquí, se acerca el que me entrega."
+        },
+        {
+            "id": "mat26_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y cuando Él aún hablaba, vino Judas, uno de los doce, y una gran multitud con él, con espadas y palos, de parte de los príncipes de los sacerdotes y de los ancianos del pueblo."
+        },
+        {
+            "id": "mat26_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y el que le entregaba les había dado señal, diciendo:"
+        },
+        {
+            "id": "mat26_48b",
+            "speaker": "Judas",
+            "verse": 48,
+            "text": "Al que yo besare, ése es; prendedle."
+        },
+        {
+            "id": "mat26_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y luego se acercó a Jesús, y dijo:"
+        },
+        {
+            "id": "mat26_49b",
+            "speaker": "Judas",
+            "verse": 49,
+            "text": "¡Salve Maestro! Y le besó."
+        },
+        {
+            "id": "mat26_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Y Jesús le dijo:"
+        },
+        {
+            "id": "mat26_50b",
+            "speaker": "Jesús",
+            "verse": 50,
+            "text": "Amigo, ¿a qué vienes? Entonces vinieron y echaron mano a Jesús, y le prendieron."
+        },
+        {
+            "id": "mat26_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Y he aquí, uno de los que estaban con Jesús, extendiendo su mano, sacó su espada, e hiriendo a un siervo del sumo sacerdote, le cortó su oreja."
+        },
+        {
+            "id": "mat26_52a",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Entonces Jesús le dijo:"
+        },
+        {
+            "id": "mat26_52b",
+            "speaker": "Jesús",
+            "verse": 52,
+            "text": "Vuelve tu espada a su lugar; porque todos los que tomen espada, a espada perecerán."
+        },
+        {
+            "id": "mat26_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "O ¿piensas que no puedo ahora orar a mi Padre, y Él me daría más de doce legiones de ángeles?"
+        },
+        {
+            "id": "mat26_54",
+            "speaker": "Jesús",
+            "verse": 54,
+            "text": "¿Pero cómo entonces se cumplirían las Escrituras, de que es necesario que así se haga?"
+        },
+        {
+            "id": "mat26_55a",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "En aquella hora, dijo Jesús a la multitud:"
+        },
+        {
+            "id": "mat26_55b",
+            "speaker": "Jesús",
+            "verse": 55,
+            "text": "¿Como contra un ladrón habéis salido, con espadas y palos para prenderme? Cada día me sentaba con vosotros enseñando en el templo, y no me prendisteis."
+        },
+        {
+            "id": "mat26_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Pero todo esto es hecho, para que se cumplan las Escrituras de los profetas. Entonces todos los discípulos, dejándole, huyeron."
+        },
+        {
+            "id": "mat26_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Y los que prendieron a Jesús, le llevaron a Caifás el sumo sacerdote, donde los escribas y los ancianos estaban reunidos."
+        },
+        {
+            "id": "mat26_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Mas Pedro le seguía de lejos hasta el patio del sumo sacerdote; y entrando, se sentó con los siervos, para ver el fin."
+        },
+        {
+            "id": "mat26_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Y los príncipes de los sacerdotes y los ancianos y todo el concilio, buscaban falso testimonio contra Jesús, para entregarle a muerte,"
+        },
+        {
+            "id": "mat26_60",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "pero no lo hallaron; aunque muchos testigos falsos venían, pero no lo hallaron. Y a la postre vinieron dos testigos falsos,"
+        },
+        {
+            "id": "mat26_61a",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Que dijeron:"
+        },
+        {
+            "id": "mat26_61b",
+            "speaker": "Testigos",
+            "verse": 61,
+            "text": "Éste dijo: Puedo derribar el templo de Dios, y en tres días reedificarlo."
+        },
+        {
+            "id": "mat26_62a",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Y levantándose el sumo sacerdote, le dijo:"
+        },
+        {
+            "id": "mat26_62b",
+            "speaker": "Sumo sacerdote",
+            "verse": 62,
+            "text": "¿No respondes nada? ¿Qué testifican éstos contra ti?"
+        },
+        {
+            "id": "mat26_63a",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Mas Jesús callaba. Y el sumo sacerdote respondiendo, le dijo:"
+        },
+        {
+            "id": "mat26_63b",
+            "speaker": "Jesús",
+            "verse": 63,
+            "text": "Te conjuro por el Dios viviente, que nos digas si eres tú el Cristo, el Hijo de Dios."
+        },
+        {
+            "id": "mat26_64a",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "mat26_64b",
+            "speaker": "Jesús",
+            "verse": 64,
+            "text": "Tú lo has"
+        },
+        {
+            "id": "mat26_64c",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Dicho. Además os digo:"
+        },
+        {
+            "id": "mat26_64d",
+            "speaker": "Jesús",
+            "verse": 64,
+            "text": "Desde ahora veréis al Hijo del Hombre sentado a la diestra de poder, y viniendo en las nubes del cielo."
+        },
+        {
+            "id": "mat26_65a",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Entonces el sumo sacerdote rasgó sus vestiduras, diciendo:"
+        },
+        {
+            "id": "mat26_65b",
+            "speaker": "Sumo sacerdote",
+            "verse": 65,
+            "text": "¡Ha blasfemado! ¿Qué más necesidad tenemos de testigos? He aquí, ahora habéis oído su blasfemia."
+        },
+        {
+            "id": "mat26_66a",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "¿Qué os parece? Y respondiendo ellos, dijeron:"
+        },
+        {
+            "id": "mat26_66b",
+            "speaker": "Sacerdotes",
+            "verse": 66,
+            "text": "¡Culpable es de muerte!"
+        },
+        {
+            "id": "mat26_67",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Entonces le escupieron en su rostro, y le dieron de puñetazos; y otros le abofeteaban,"
+        },
+        {
+            "id": "mat26_68a",
+            "speaker": "Narrador",
+            "verse": 68,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat26_68b",
+            "speaker": "Soldados",
+            "verse": 68,
+            "text": "Profetízanos, Cristo, ¿quién es el que te golpeó?"
+        },
+        {
+            "id": "mat26_69a",
+            "speaker": "Narrador",
+            "verse": 69,
+            "text": "Y Pedro estaba sentado fuera en el patio; y se le acercó una criada, diciendo:"
+        },
+        {
+            "id": "mat26_69b",
+            "speaker": "Pedro",
+            "verse": 69,
+            "text": "Tú también estabas con Jesús el galileo."
+        },
+        {
+            "id": "mat26_70a",
+            "speaker": "Narrador",
+            "verse": 70,
+            "text": "Mas él negó delante de todos, diciendo:"
+        },
+        {
+            "id": "mat26_70b",
+            "speaker": "Pedro",
+            "verse": 70,
+            "text": "No sé lo que dices."
+        },
+        {
+            "id": "mat26_71a",
+            "speaker": "Narrador",
+            "verse": 71,
+            "text": "Y cuando salió al pórtico, le vio otra, y dijo a los que estaban allí:"
+        },
+        {
+            "id": "mat26_71b",
+            "speaker": "Criada",
+            "verse": 71,
+            "text": "También éste estaba con Jesús el Nazareno."
+        },
+        {
+            "id": "mat26_72",
+            "speaker": "Narrador",
+            "verse": 72,
+            "text": "Y negó otra vez con juramento: No conozco al hombre."
+        },
+        {
+            "id": "mat26_73a",
+            "speaker": "Narrador",
+            "verse": 73,
+            "text": "Y un poco después llegaron unos que por allí estaban, y dijeron a Pedro:"
+        },
+        {
+            "id": "mat26_73b",
+            "speaker": "Multitud",
+            "verse": 73,
+            "text": "Verdaderamente también tú eres de ellos, porque tu habla te descubre."
+        },
+        {
+            "id": "mat26_74a",
+            "speaker": "Narrador",
+            "verse": 74,
+            "text": "Entonces comenzó a maldecir, y a jurar, diciendo:"
+        },
+        {
+            "id": "mat26_74b",
+            "speaker": "Pedro",
+            "verse": 74,
+            "text": "No conozco al hombre. Y en seguida cantó el gallo."
+        },
+        {
+            "id": "mat26_75a",
+            "speaker": "Narrador",
+            "verse": 75,
+            "text": "Y Pedro se acordó de las palabras de Jesús, que le dijo:"
+        },
+        {
+            "id": "mat26_75b",
+            "speaker": "Jesús",
+            "verse": 75,
+            "text": "Antes que el gallo cante, me negarás tres veces."
+        },
+        {
+            "id": "mat26_75c",
+            "speaker": "Narrador",
+            "verse": 75,
+            "text": "Y saliendo fuera, lloró amargamente."
+        }
+    ]
+}

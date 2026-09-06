@@ -1,0 +1,181 @@
+{
+    "book": "Mateo",
+    "chapter": 2,
+    "title": "Mateo 2",
+    "messages": [
+        {
+            "id": "mat2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando Jesús nació en Belén de Judea en días del rey Herodes, he aquí unos hombres sabios del oriente vinieron a Jerusalén,"
+        },
+        {
+            "id": "mat2_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat2_2b",
+            "speaker": "Magos",
+            "verse": 2,
+            "text": "¿Dónde está el Rey de los judíos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle."
+        },
+        {
+            "id": "mat2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Oyendo esto el rey Herodes, se turbó, y toda Jerusalén con él."
+        },
+        {
+            "id": "mat2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y convocando a todos los príncipes de los sacerdotes, y a los escribas del pueblo, les preguntó dónde había de nacer el Cristo;"
+        },
+        {
+            "id": "mat2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "mat2_5b",
+            "speaker": "Sacerdotes",
+            "verse": 5,
+            "text": "En Belén de Judea; porque así está escrito por el profeta:"
+        },
+        {
+            "id": "mat2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y tú Belén, de la tierra de Judá, no eres la más pequeña entre los príncipes de Judá; porque de ti saldrá un Guiador, que apacentará a mi pueblo Israel."
+        },
+        {
+            "id": "mat2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Herodes, llamando en secreto a los sabios, inquirió de ellos diligentemente el tiempo de la aparición de la estrella;"
+        },
+        {
+            "id": "mat2_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y enviándolos a Belén, dijo:"
+        },
+        {
+            "id": "mat2_8b",
+            "speaker": "Herodes",
+            "verse": 8,
+            "text": "Id y preguntad con diligencia por el niño; y cuando le hubiereis hallado, hacédmelo saber, para que yo también vaya y le adore."
+        },
+        {
+            "id": "mat2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y ellos, habiendo oído al rey, se fueron; y he aquí la estrella que habían visto en el oriente iba delante de ellos, hasta que llegando, se detuvo sobre donde estaba el niño."
+        },
+        {
+            "id": "mat2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y al ver la estrella, se regocijaron con muy grande gozo."
+        },
+        {
+            "id": "mat2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y entrando en la casa, vieron al niño con María su madre, y postrándose lo adoraron; y abriendo sus tesoros, le ofrecieron dones, oro, incienso y mirra."
+        },
+        {
+            "id": "mat2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y siendo avisados por Dios en un sueño que no volviesen a Herodes, se volvieron a su tierra por otro camino."
+        },
+        {
+            "id": "mat2_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y habiendo ellos partido, he aquí el ángel del Señor apareció en un sueño a José, diciendo:"
+        },
+        {
+            "id": "mat2_13b",
+            "speaker": "Ángel",
+            "verse": 13,
+            "text": "Levántate, toma al niño y a su madre, y huye a Egipto, y quédate allá hasta que yo te diga; porque Herodes buscará al niño para matarlo."
+        },
+        {
+            "id": "mat2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y despertando él, tomó de noche al niño y a su madre y se fue a Egipto;"
+        },
+        {
+            "id": "mat2_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y estuvo allá hasta la muerte de Herodes; para que se cumpliese lo que dijo el Señor por medio del profeta, diciendo:"
+        },
+        {
+            "id": "mat2_15b",
+            "speaker": "Herodes",
+            "verse": 15,
+            "text": "De Egipto llamé a mi Hijo."
+        },
+        {
+            "id": "mat2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Herodes entonces, al verse burlado de los sabios, se llenó de ira, y mandó matar a todos los niños de dos años para abajo que había en Belén y en todos sus alrededores, conforme al tiempo que había inquirido de los sabios."
+        },
+        {
+            "id": "mat2_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces se cumplió lo que fue dicho por el profeta Jeremías, que dijo:"
+        },
+        {
+            "id": "mat2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Voz fue oída en Ramá, lamentación, lloro y gemido grande, Raquel que llora a sus hijos, y no quiso ser consolada, porque perecieron."
+        },
+        {
+            "id": "mat2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y muerto Herodes, he aquí un ángel del Señor apareció en un sueño a José en Egipto,"
+        },
+        {
+            "id": "mat2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat2_20b",
+            "speaker": "Ángel",
+            "verse": 20,
+            "text": "Levántate, toma al niño y a su madre, y vete a la tierra de Israel, porque han muerto los que procuraban la muerte del niño."
+        },
+        {
+            "id": "mat2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces él se levantó, y tomó al niño y a su madre, y vino a tierra de Israel."
+        },
+        {
+            "id": "mat2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero cuando oyó que Arquelao reinaba en Judea en lugar de Herodes su padre, tuvo temor de ir allá. Y siendo avisado por Dios en un sueño, se fue a la región de Galilea,"
+        },
+        {
+            "id": "mat2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "y vino y habitó en la ciudad que se llama Nazaret; para que se cumpliese lo dicho por los profetas, que habría de ser llamado nazareno."
+        }
+    ]
+}

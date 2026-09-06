@@ -1,0 +1,151 @@
+{
+    "book": "Mateo",
+    "chapter": 3,
+    "title": "Mateo 3",
+    "messages": [
+        {
+            "id": "mat3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En aquellos días vino Juan el Bautista predicando en el desierto de Judea,"
+        },
+        {
+            "id": "mat3_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "mat3_2b",
+            "speaker": "Juan el Bautista",
+            "verse": 2,
+            "text": "Arrepentíos, porque el reino de los cielos se ha acercado."
+        },
+        {
+            "id": "mat3_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque éste es aquél de quien habló el profeta Isaías, diciendo:"
+        },
+        {
+            "id": "mat3_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Voz del que clama en el desierto: Preparad el camino del Señor: Enderezad sus sendas."
+        },
+        {
+            "id": "mat3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Juan mismo tenía su vestidura de pelo de camello, y un cinto de cuero alrededor de sus lomos; y su comida era langostas y miel silvestre."
+        },
+        {
+            "id": "mat3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces salía a él Jerusalén, y toda Judea, y toda la región de alrededor del Jordán;"
+        },
+        {
+            "id": "mat3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y eran bautizados por él en el Jordán, confesando sus pecados."
+        },
+        {
+            "id": "mat3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero cuando vio que muchos de los fariseos y de los saduceos venían a su bautismo, les dijo:"
+        },
+        {
+            "id": "mat3_7b",
+            "speaker": "Fariseos",
+            "verse": 7,
+            "text": "Generación de víboras, ¿quién os enseñó a huir de la ira que vendrá?"
+        },
+        {
+            "id": "mat3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Haced, pues, frutos dignos de arrepentimiento,"
+        },
+        {
+            "id": "mat3_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y no penséis decir dentro de vosotros mismos:"
+        },
+        {
+            "id": "mat3_9b",
+            "speaker": "Juan el Bautista",
+            "verse": 9,
+            "text": "A Abraham tenemos por padre; porque yo os digo que Dios puede levantar hijos a Abraham aun de estas piedras."
+        },
+        {
+            "id": "mat3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y ya también el hacha está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado en el fuego."
+        },
+        {
+            "id": "mat3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Yo a la verdad os bautizo en agua para arrepentimiento; mas el que viene tras mí, es más poderoso que yo; cuyo calzado no soy digno de llevar; Él os bautizará con el Espíritu Santo, y con fuego."
+        },
+        {
+            "id": "mat3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Su aventador está en su mano, y limpiará su era; y recogerá su trigo en el granero, y quemará la paja en fuego que nunca se apagará."
+        },
+        {
+            "id": "mat3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él."
+        },
+        {
+            "id": "mat3_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pero Juan le resistía, diciendo:"
+        },
+        {
+            "id": "mat3_14b",
+            "speaker": "Juan el Bautista",
+            "verse": 14,
+            "text": "Yo necesito ser bautizado por ti, ¿y tú vienes a mí?"
+        },
+        {
+            "id": "mat3_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pero Jesús respondió, y le dijo:"
+        },
+        {
+            "id": "mat3_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Deja ahora; porque nos es preciso cumplir así toda justicia. Entonces le dejó."
+        },
+        {
+            "id": "mat3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y Jesús, después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma, y venía sobre Él."
+        },
+        {
+            "id": "mat3_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y he aquí una voz del cielo que decía:"
+        },
+        {
+            "id": "mat3_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Éste es mi Hijo amado, en quien tengo contentamiento."
+        }
+    ]
+}

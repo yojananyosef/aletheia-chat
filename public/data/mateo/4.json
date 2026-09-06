@@ -1,0 +1,205 @@
+{
+    "book": "Mateo",
+    "chapter": 4,
+    "title": "Mateo 4",
+    "messages": [
+        {
+            "id": "mat4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces Jesús fue llevado por el Espíritu al desierto, para ser tentado por el diablo."
+        },
+        {
+            "id": "mat4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y después que hubo ayunado cuarenta días y cuarenta noches, tuvo hambre."
+        },
+        {
+            "id": "mat4_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y vino a Él el tentador, y le dijo:"
+        },
+        {
+            "id": "mat4_3b",
+            "speaker": "Demonio",
+            "verse": 3,
+            "text": "Si eres el Hijo de Dios, di que estas piedras se conviertan en pan."
+        },
+        {
+            "id": "mat4_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pero Él respondió y dijo:"
+        },
+        {
+            "id": "mat4_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Escrito está: No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios."
+        },
+        {
+            "id": "mat4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces el diablo lo llevó a la santa ciudad, y lo puso sobre el pináculo del templo,"
+        },
+        {
+            "id": "mat4_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "mat4_6b",
+            "speaker": "Demonio",
+            "verse": 6,
+            "text": "Si eres el Hijo de Dios, échate abajo; porque escrito está: A sus ángeles mandará acerca de ti, y en sus manos te sostendrán para que no tropieces con tu pie en piedra."
+        },
+        {
+            "id": "mat4_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "mat4_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Escrito está también: No tentarás al Señor tu Dios."
+        },
+        {
+            "id": "mat4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Otra vez el diablo lo llevó a un monte muy alto, y le mostró todos los reinos del mundo, y la gloria de ellos,"
+        },
+        {
+            "id": "mat4_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "mat4_9b",
+            "speaker": "Demonio",
+            "verse": 9,
+            "text": "Todo esto te daré, si postrado me adorares."
+        },
+        {
+            "id": "mat4_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Jesús le dijo:"
+        },
+        {
+            "id": "mat4_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Vete, Satanás, porque escrito está: Al Señor tu Dios adorarás, y a Él sólo servirás."
+        },
+        {
+            "id": "mat4_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces el diablo le dejó, y he aquí, ángeles vinieron y le servían."
+        },
+        {
+            "id": "mat4_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando Jesús oyó que Juan había sido encarcelado, se fue a Galilea;"
+        },
+        {
+            "id": "mat4_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "y dejando Nazaret, vino y habitó en Capernaúm, ciudad marítima, en los confines de Zabulón y Neftalí;"
+        },
+        {
+            "id": "mat4_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Para que se cumpliese lo dicho por el profeta Isaías, que dijo:"
+        },
+        {
+            "id": "mat4_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Tierra de Zabulón y tierra de Neftalí, camino del mar, al otro lado del Jordán, Galilea de los gentiles;"
+        },
+        {
+            "id": "mat4_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "El pueblo asentado en tinieblas vio gran luz: Y a los asentados en región y sombra de muerte, luz les resplandeció."
+        },
+        {
+            "id": "mat4_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Desde entonces comenzó Jesús a predicar, y a decir:"
+        },
+        {
+            "id": "mat4_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Arrepentíos, porque el reino de los cielos se ha acercado."
+        },
+        {
+            "id": "mat4_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores."
+        },
+        {
+            "id": "mat4_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "mat4_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Venid en pos de mí, y yo os haré pescadores de hombres."
+        },
+        {
+            "id": "mat4_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Ellos entonces, dejando luego las redes, le siguieron."
+        },
+        {
+            "id": "mat4_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y pasando de allí, vio a otros dos hermanos, Jacobo hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, que remendaban sus redes; y los llamó."
+        },
+        {
+            "id": "mat4_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y ellos, dejando luego la barca y a su padre, le siguieron."
+        },
+        {
+            "id": "mat4_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y recorría Jesús toda Galilea, enseñando en las sinagogas de ellos, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo."
+        },
+        {
+            "id": "mat4_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y corrió su fama por toda Siria. Y le traían a todos los enfermos que eran tomados de diversas enfermedades y tormentos; los endemoniados, los lunáticos y los paralíticos; y los sanaba."
+        },
+        {
+            "id": "mat4_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y le seguían grandes multitudes de Galilea, de Decápolis, de Jerusalén, de Judea y del otro lado del Jordán."
+        }
+    ]
+}

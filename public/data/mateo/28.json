@@ -1,0 +1,157 @@
+{
+    "book": "Mateo",
+    "chapter": 28,
+    "title": "Mateo 28",
+    "messages": [
+        {
+            "id": "mat28_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pasado el sábado, al amanecer del primer día de la semana, vinieron María Magdalena y la otra María a ver el sepulcro."
+        },
+        {
+            "id": "mat28_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y he aquí, fue hecho un gran terremoto; porque el ángel del Señor descendió del cielo y llegando, removió la piedra de la puerta, y se sentó sobre ella."
+        },
+        {
+            "id": "mat28_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y su aspecto era como relámpago, y su vestidura blanca como la nieve."
+        },
+        {
+            "id": "mat28_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y de miedo de él, los guardias temblaron y se quedaron como muertos."
+        },
+        {
+            "id": "mat28_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y respondiendo el ángel, dijo a las mujeres:"
+        },
+        {
+            "id": "mat28_5b",
+            "speaker": "Ángel",
+            "verse": 5,
+            "text": "No temáis vosotras; porque yo sé que buscáis a Jesús, el que fue crucificado."
+        },
+        {
+            "id": "mat28_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "No está aquí, pues ha resucitado, como dijo. Venid, ved el lugar donde fue puesto el Señor."
+        },
+        {
+            "id": "mat28_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "E id pronto y decid a sus discípulos que ha resucitado de los muertos, y he aquí va delante de vosotros a Galilea; allí le veréis, he aquí, os lo he dicho."
+        },
+        {
+            "id": "mat28_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ellas, saliendo aprisa del sepulcro, con temor y gran gozo, fueron corriendo a dar las nuevas a sus discípulos."
+        },
+        {
+            "id": "mat28_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y mientras iban a dar las nuevas a sus discípulos, he aquí, Jesús les sale al encuentro, diciendo:"
+        },
+        {
+            "id": "mat28_9b",
+            "speaker": "Discípulos",
+            "verse": 9,
+            "text": "¡Salve! Y ellas, acercándose, abrazaron sus pies, y le adoraron."
+        },
+        {
+            "id": "mat28_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Jesús les dijo:"
+        },
+        {
+            "id": "mat28_10b",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "No temáis; id, dad las nuevas a mis hermanos para que vayan a Galilea, y allí me verán."
+        },
+        {
+            "id": "mat28_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y yendo ellas, he aquí unos de la guardia vinieron a la ciudad, y dieron aviso a los príncipes de los sacerdotes de todas las cosas que habían acontecido."
+        },
+        {
+            "id": "mat28_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y reuniéndose con los ancianos, y habido consejo, dieron mucho dinero a los soldados,"
+        },
+        {
+            "id": "mat28_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat28_13b",
+            "speaker": "Sacerdotes",
+            "verse": 13,
+            "text": "Decid: Sus discípulos vinieron de noche, mientras dormíamos, y lo hurtaron."
+        },
+        {
+            "id": "mat28_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y si esto llegare a oídos del gobernador, nosotros le persuadiremos, y os haremos seguros."
+        },
+        {
+            "id": "mat28_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ellos tomando el dinero, hicieron como fueron instruidos; y este dicho ha sido divulgado entre los judíos hasta el día de hoy."
+        },
+        {
+            "id": "mat28_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces los once discípulos se fueron a Galilea, al monte donde Jesús les había ordenado."
+        },
+        {
+            "id": "mat28_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y cuando le vieron, le adoraron, mas unos dudaban."
+        },
+        {
+            "id": "mat28_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Jesús vino y les habló, diciendo:"
+        },
+        {
+            "id": "mat28_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Toda potestad me es dada en el cielo y en la tierra."
+        },
+        {
+            "id": "mat28_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Por tanto, id, y enseñad a todas las naciones, bautizándoles en el nombre del Padre, y del Hijo, y del Espíritu Santo;"
+        },
+        {
+            "id": "mat28_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "book": "Mateo",
+    "chapter": 11,
+    "title": "Mateo 11",
+    "messages": [
+        {
+            "id": "mat11_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que cuando Jesús terminó de dar comisión a sus doce discípulos, se fue de allí a enseñar y predicar en las ciudades de ellos."
+        },
+        {
+            "id": "mat11_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y oyendo Juan en la prisión los hechos de Cristo, envió dos de sus discípulos,"
+        },
+        {
+            "id": "mat11_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Diciéndole:"
+        },
+        {
+            "id": "mat11_3b",
+            "speaker": "Discípulos",
+            "verse": 3,
+            "text": "¿Eres tú Aquél que había de venir, o esperaremos a otro?"
+        },
+        {
+            "id": "mat11_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y respondiendo Jesús les dijo:"
+        },
+        {
+            "id": "mat11_4b",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Id, y decid a Juan las cosas que oís y veis."
+        },
+        {
+            "id": "mat11_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Los ciegos ven y los cojos andan, los leprosos son limpiados y los sordos oyen, los muertos son resucitados y a los pobres es predicado el evangelio."
+        },
+        {
+            "id": "mat11_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y bienaventurado es el que no fuere escandalizado en mí."
+        },
+        {
+            "id": "mat11_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y yéndose ellos, comenzó Jesús a decir a las multitudes acerca de Juan:"
+        },
+        {
+            "id": "mat11_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "¿Qué salisteis a ver al desierto? ¿Una caña sacudida por el viento?"
+        },
+        {
+            "id": "mat11_8",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "¿O qué salisteis a ver? ¿Un hombre cubierto de ropas delicadas? He aquí, los que visten ropas delicadas, en las casas de los reyes están."
+        },
+        {
+            "id": "mat11_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mas, ¿qué salisteis a ver? ¿A un profeta? Sí, os digo, y más que profeta."
+        },
+        {
+            "id": "mat11_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque éste es de quien está escrito: He aquí, yo envío mi mensajero delante de tu faz, el cual preparará tu camino delante de ti."
+        },
+        {
+            "id": "mat11_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "De cierto os digo: Entre los nacidos de mujer jamás se levantó otro mayor que Juan el Bautista; pero el que es menor en el reino de los cielos, mayor es que él."
+        },
+        {
+            "id": "mat11_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y desde los días de Juan el Bautista hasta ahora, el reino de los cielos sufre violencia, y los violentos lo arrebatan."
+        },
+        {
+            "id": "mat11_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque todos los profetas y la ley, hasta Juan profetizaron."
+        },
+        {
+            "id": "mat11_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y si queréis recibirlo, él es aquel Elías que había de venir."
+        },
+        {
+            "id": "mat11_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "El que tiene oídos para oír, oiga."
+        },
+        {
+            "id": "mat11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas ¿a qué compararé esta generación? Es semejante a los muchachos que se sientan en las plazas, y dan voces a sus compañeros,"
+        },
+        {
+            "id": "mat11_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "mat11_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Os tocamos flauta, y no bailasteis; os endechamos, y no lamentasteis."
+        },
+        {
+            "id": "mat11_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque vino Juan, que ni comía ni bebía, y dicen:"
+        },
+        {
+            "id": "mat11_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Demonio tiene."
+        },
+        {
+            "id": "mat11_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Vino el Hijo del Hombre, que come y bebe, y dicen:"
+        },
+        {
+            "id": "mat11_19b",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "He aquí un hombre glotón y bebedor de vino, amigo de publicanos y pecadores. Pero la sabiduría es justificada por sus hijos."
+        },
+        {
+            "id": "mat11_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces comenzó a reconvenir a las ciudades donde la mayoría de sus milagros habían sido hechos, porque no se habían arrepentido, diciendo:"
+        },
+        {
+            "id": "mat11_21",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si los milagros hechos en vosotras, se hubiesen hecho en Tiro y en Sidón, hace mucho que se hubieran arrepentido en cilicio y en ceniza."
+        },
+        {
+            "id": "mat11_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Por tanto os digo: En el día del juicio, será más tolerable el castigo para Tiro y para Sidón, que para vosotras."
+        },
+        {
+            "id": "mat11_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y tú, Capernaúm, que hasta el cielo eres levantada, hasta el infierno serás abajada; porque si en Sodoma hubiesen sido hechos los milagros hechos en ti, habría permanecido hasta el día de hoy."
+        },
+        {
+            "id": "mat11_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Por tanto os digo, que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma, que para ti."
+        },
+        {
+            "id": "mat11_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "En aquel tiempo, respondió Jesús y dijo:"
+        },
+        {
+            "id": "mat11_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Te doy gracias, Padre, Señor del cielo y de la tierra, porque escondiste estas cosas de los sabios y de los entendidos, y las revelaste a los niños."
+        },
+        {
+            "id": "mat11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Sí, Padre, porque así agradó a tus ojos."
+        },
+        {
+            "id": "mat11_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Todas las cosas me son entregadas por mi Padre; y nadie conoce al Hijo, sino el Padre, ni nadie conoce al Padre, sino el Hijo, y aquel a quien el Hijo lo quisiere revelar."
+        },
+        {
+            "id": "mat11_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."
+        },
+        {
+            "id": "mat11_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas."
+        },
+        {
+            "id": "mat11_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Porque mi yugo es fácil, y ligera mi carga."
+        }
+    ]
+}

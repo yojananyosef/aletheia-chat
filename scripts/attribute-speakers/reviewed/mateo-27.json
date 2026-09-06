@@ -1,0 +1,116 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Judas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "d",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Esposa de Pilato",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Pilato",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "d",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "d",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Pilato",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "d",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Soldados",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  },
+  {
+    "verse": 47,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 54,
+    "subId": "b",
+    "speaker": "Centurión",
+    "confidence": 0.9
+  },
+  {
+    "verse": 63,
+    "subId": "b",
+    "speaker": "Sacerdotes",
+    "confidence": 0.85
+  }
+]

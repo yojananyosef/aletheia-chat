@@ -1,0 +1,247 @@
+{
+    "book": "Mateo",
+    "chapter": 16,
+    "title": "Mateo 16",
+    "messages": [
+        {
+            "id": "mat16_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vinieron los fariseos y los saduceos para tentarle, y le pidieron que les mostrase señal del cielo."
+        },
+        {
+            "id": "mat16_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Mas Él respondiendo, les dijo:"
+        },
+        {
+            "id": "mat16_2b",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "Cuando anochece, decís: Hará buen tiempo, porque el cielo tiene arreboles."
+        },
+        {
+            "id": "mat16_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y por la mañana: Hoy habrá tempestad, porque el cielo tiene arreboles y está nublado. ¡Hipócritas! que sabéis discernir la faz del cielo; ¿Mas las señales de los tiempos no podéis?"
+        },
+        {
+            "id": "mat16_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "La generación perversa y adúltera demanda señal; mas señal no le será dada, sino la señal del profeta Jonás. Y dejándolos, se fue."
+        },
+        {
+            "id": "mat16_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y viniendo los discípulos al otro lado, se habían olvidado de traer pan."
+        },
+        {
+            "id": "mat16_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Jesús les dijo:"
+        },
+        {
+            "id": "mat16_6b",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Mirad, y guardaos de la levadura de los fariseos y de los saduceos."
+        },
+        {
+            "id": "mat16_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y ellos hablaban entre sí, diciendo:"
+        },
+        {
+            "id": "mat16_7b",
+            "speaker": "Discípulos",
+            "verse": 7,
+            "text": "Esto dice porque no trajimos pan."
+        },
+        {
+            "id": "mat16_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y entendiéndolo Jesús, les dijo:"
+        },
+        {
+            "id": "mat16_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "¿Por qué discutís entre vosotros, hombres de poca fe, que no trajisteis pan?"
+        },
+        {
+            "id": "mat16_9",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "¿No entendéis aún, ni os acordáis de los cinco panes entre cinco mil, y cuántas cestas alzasteis?"
+        },
+        {
+            "id": "mat16_10",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "¿Ni de los siete panes entre cuatro mil, y cuántas canastas recogisteis?"
+        },
+        {
+            "id": "mat16_11",
+            "speaker": "Fariseos",
+            "verse": 11,
+            "text": "¿Cómo es que no entendéis que no por el pan os dije, que os guardaseis de la levadura de los fariseos y de los saduceos?"
+        },
+        {
+            "id": "mat16_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces entendieron que no les había dicho que se guardasen de la levadura de pan, sino de la doctrina de los fariseos y de los saduceos."
+        },
+        {
+            "id": "mat16_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y viniendo Jesús a la región de Cesarea de Filipo, preguntó a sus discípulos, diciendo:"
+        },
+        {
+            "id": "mat16_13b",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "¿Quién dicen los hombres que es el Hijo del Hombre?"
+        },
+        {
+            "id": "mat16_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "mat16_14b",
+            "speaker": "Discípulos",
+            "verse": 14,
+            "text": "Unos, Juan el Bautista; otros, Elías; y otros, Jeremías, o alguno de los profetas."
+        },
+        {
+            "id": "mat16_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Él les dice:"
+        },
+        {
+            "id": "mat16_15b",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "¿Y vosotros quién decís que soy yo?"
+        },
+        {
+            "id": "mat16_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y respondiendo Simón Pedro, dijo:"
+        },
+        {
+            "id": "mat16_16b",
+            "speaker": "Pedro",
+            "verse": 16,
+            "text": "Tú eres el Cristo, el Hijo del Dios viviente."
+        },
+        {
+            "id": "mat16_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y respondiendo Jesús, le dijo:"
+        },
+        {
+            "id": "mat16_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "Bienaventurado eres Simón hijo de Jonás; porque no te lo reveló carne ni sangre, sino mi Padre que está en el cielo."
+        },
+        {
+            "id": "mat16_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y yo también te digo que tú eres Pedro, y sobre esta roca edificaré mi iglesia, y las puertas del infierno no prevalecerán contra ella."
+        },
+        {
+            "id": "mat16_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y a ti te daré las llaves del reino de los cielos; y todo lo que atares en la tierra será atado en el cielo; y todo lo que desatares en la tierra será desatado en el cielo."
+        },
+        {
+            "id": "mat16_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces mandó a sus discípulos que a nadie dijesen que Él era Jesús el Cristo."
+        },
+        {
+            "id": "mat16_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Desde aquel tiempo comenzó Jesús a declarar a sus discípulos que le era necesario ir a Jerusalén y padecer mucho de los ancianos, y de los príncipes de los sacerdotes y de los escribas; y ser muerto, y resucitar al tercer día."
+        },
+        {
+            "id": "mat16_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Pedro, tomándole aparte, comenzó a reprenderle, diciendo:"
+        },
+        {
+            "id": "mat16_22b",
+            "speaker": "Pedro",
+            "verse": 22,
+            "text": "Señor, ten compasión de ti; en ninguna manera esto te acontezca."
+        },
+        {
+            "id": "mat16_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces Él, volviéndose, dijo a Pedro:"
+        },
+        {
+            "id": "mat16_23b",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Quítate de delante de mí Satanás; me eres tropiezo; porque no piensas en las cosas de Dios, sino en las de los hombres."
+        },
+        {
+            "id": "mat16_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Jesús dijo a sus discípulos:"
+        },
+        {
+            "id": "mat16_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame."
+        },
+        {
+            "id": "mat16_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Porque el que quiera salvar su vida, la perderá; y el que pierda su vida por causa de mí, la hallará."
+        },
+        {
+            "id": "mat16_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Porque, ¿qué aprovechará el hombre, si ganare todo el mundo, y perdiere su alma? O, ¿qué recompensa dará el hombre por su alma?"
+        },
+        {
+            "id": "mat16_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Porque el Hijo del Hombre vendrá en la gloria de su Padre con sus ángeles; y entonces pagará a cada uno conforme a sus obras."
+        },
+        {
+            "id": "mat16_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte, hasta que hayan visto al Hijo del Hombre viniendo en su reino."
+        }
+    ]
+}

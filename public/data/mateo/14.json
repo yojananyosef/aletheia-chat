@@ -1,0 +1,313 @@
+{
+    "book": "Mateo",
+    "chapter": 14,
+    "title": "Mateo 14",
+    "messages": [
+        {
+            "id": "mat14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En aquel tiempo Herodes el tetrarca oyó de la fama de Jesús,"
+        },
+        {
+            "id": "mat14_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo a sus siervos:"
+        },
+        {
+            "id": "mat14_2b",
+            "speaker": "Herodes",
+            "verse": 2,
+            "text": "Éste es Juan el Bautista; él ha resucitado de los muertos, y por eso maravillas se manifiestan en él."
+        },
+        {
+            "id": "mat14_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque Herodes había prendido a Juan, y le había aprisionado y puesto en la cárcel, por causa de Herodías, esposa de Felipe su hermano,"
+        },
+        {
+            "id": "mat14_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque Juan le decía:"
+        },
+        {
+            "id": "mat14_4b",
+            "speaker": "Juan el Bautista",
+            "verse": 4,
+            "text": "No te es lícito tenerla."
+        },
+        {
+            "id": "mat14_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y quería matarle, pero temía al pueblo, porque le tenían como a profeta."
+        },
+        {
+            "id": "mat14_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas celebrándose el cumpleaños de Herodes, la hija de Herodías danzó delante de ellos, y agradó a Herodes;"
+        },
+        {
+            "id": "mat14_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "por lo cual él prometió con juramento darle cualquier cosa que ella pidiese."
+        },
+        {
+            "id": "mat14_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ella, siendo instruida primero por su madre, dijo:"
+        },
+        {
+            "id": "mat14_8b",
+            "speaker": "Hija de Herodías",
+            "verse": 8,
+            "text": "Dame aquí en un plato la cabeza de Juan el Bautista."
+        },
+        {
+            "id": "mat14_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces el rey se entristeció, mas por causa del juramento, y de los que estaban sentados con él a la mesa, mandó que se la diesen,"
+        },
+        {
+            "id": "mat14_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y envió decapitar a Juan en la cárcel."
+        },
+        {
+            "id": "mat14_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y fue traída su cabeza en un plato, y dada a la damisela, y ésta la presentó a su madre."
+        },
+        {
+            "id": "mat14_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces vinieron sus discípulos, y tomaron el cuerpo y lo enterraron; y fueron y dieron las nuevas a Jesús."
+        },
+        {
+            "id": "mat14_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y oyéndolo Jesús, se apartó de allí en una barca a un lugar desierto, apartado; y cuando el pueblo lo oyó, le siguió a pie de las ciudades."
+        },
+        {
+            "id": "mat14_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y saliendo Jesús, vio una gran multitud, y tuvo compasión de ellos, y sanó a los que de ellos estaban enfermos."
+        },
+        {
+            "id": "mat14_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y cuando fue la tarde, sus discípulos vinieron a Él, diciendo:"
+        },
+        {
+            "id": "mat14_15b",
+            "speaker": "Discípulos",
+            "verse": 15,
+            "text": "Éste es un lugar desierto, y la hora es ya pasada; despide a la multitud para que vayan a las aldeas y compren para sí de comer."
+        },
+        {
+            "id": "mat14_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas Jesús les dijo:"
+        },
+        {
+            "id": "mat14_16b",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "No tienen necesidad de irse; dadles vosotros de comer."
+        },
+        {
+            "id": "mat14_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "mat14_17b",
+            "speaker": "Discípulos",
+            "verse": 17,
+            "text": "No tenemos aquí sino cinco panes y dos peces."
+        },
+        {
+            "id": "mat14_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "mat14_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Traédmelos acá."
+        },
+        {
+            "id": "mat14_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces mandó a la multitud recostarse sobre la hierba, y tomó los cinco panes y los dos peces, y levantando los ojos al cielo, bendijo, y partió y dio los panes a sus discípulos, y los discípulos a la multitud."
+        },
+        {
+            "id": "mat14_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y comieron todos, y se saciaron; y de los pedazos que sobraron, alzaron doce canastos llenos."
+        },
+        {
+            "id": "mat14_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y los que comieron eran como cinco mil hombres, sin contar las mujeres y los niños."
+        },
+        {
+            "id": "mat14_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y luego Jesús hizo a sus discípulos entrar en una barca e ir delante de Él al otro lado, mientras Él despedía a las multitudes."
+        },
+        {
+            "id": "mat14_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y despedidas las multitudes, subió al monte a orar aparte. Y cuando llegó la noche, estaba allí solo."
+        },
+        {
+            "id": "mat14_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y ya la barca estaba en medio del mar, azotada por las olas, porque el viento era contrario."
+        },
+        {
+            "id": "mat14_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y a la cuarta vigilia de la noche, Jesús vino a ellos andando sobre el mar."
+        },
+        {
+            "id": "mat14_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y los discípulos, viéndole andar sobre el mar, se turbaron, diciendo:"
+        },
+        {
+            "id": "mat14_26b",
+            "speaker": "Discípulos",
+            "verse": 26,
+            "text": "¡Un fantasma! Y dieron voces de miedo."
+        },
+        {
+            "id": "mat14_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Pero enseguida Jesús les habló, diciendo:"
+        },
+        {
+            "id": "mat14_27b",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "¡Tened ánimo; yo soy, no temáis!"
+        },
+        {
+            "id": "mat14_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces le respondió Pedro, y dijo:"
+        },
+        {
+            "id": "mat14_28b",
+            "speaker": "Pedro",
+            "verse": 28,
+            "text": "Señor, si eres tú, manda que yo vaya a ti sobre las aguas."
+        },
+        {
+            "id": "mat14_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "mat14_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "Ven."
+        },
+        {
+            "id": "mat14_29c",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y descendiendo Pedro de la barca, caminó sobre las aguas para ir a Jesús."
+        },
+        {
+            "id": "mat14_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Pero viendo el viento fuerte, tuvo miedo; y comenzando a hundirse, dio voces, diciendo:"
+        },
+        {
+            "id": "mat14_30b",
+            "speaker": "Pedro",
+            "verse": 30,
+            "text": "¡Señor, sálvame!"
+        },
+        {
+            "id": "mat14_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y al instante Jesús, extendiendo su mano, trabó de él, y le dijo:"
+        },
+        {
+            "id": "mat14_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "¡Hombre de poca fe! ¿Por qué dudaste?"
+        },
+        {
+            "id": "mat14_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y cuando ellos entraron en la barca, se calmó el viento."
+        },
+        {
+            "id": "mat14_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces los que estaban en la barca vinieron y le adoraron, diciendo:"
+        },
+        {
+            "id": "mat14_33b",
+            "speaker": "Discípulos",
+            "verse": 33,
+            "text": "Verdaderamente tú eres el Hijo de Dios."
+        },
+        {
+            "id": "mat14_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y cruzando al otro lado, vinieron a la tierra de Genezaret."
+        },
+        {
+            "id": "mat14_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y cuando le reconocieron los hombres de aquel lugar, enviaron por toda aquella tierra alrededor, y trajeron a Él todos los enfermos,"
+        },
+        {
+            "id": "mat14_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "y le rogaban que les dejase tocar tan sólo el borde de su manto; y todos los que le tocaban, quedaban sanos."
+        }
+    ]
+}

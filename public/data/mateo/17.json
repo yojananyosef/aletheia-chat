@@ -1,0 +1,271 @@
+{
+    "book": "Mateo",
+    "chapter": 17,
+    "title": "Mateo 17",
+    "messages": [
+        {
+            "id": "mat17_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y después de seis días, Jesús tomó a Pedro, y a Jacobo, y a Juan su hermano, y los llevó aparte a un monte alto;"
+        },
+        {
+            "id": "mat17_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y se transfiguró delante de ellos; y su rostro resplandeció como el sol, y su vestidura se hizo blanca como la luz."
+        },
+        {
+            "id": "mat17_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y he aquí les aparecieron Moisés y Elías, hablando con Él."
+        },
+        {
+            "id": "mat17_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces respondiendo Pedro, dijo a Jesús:"
+        },
+        {
+            "id": "mat17_4b",
+            "speaker": "Pedro",
+            "verse": 4,
+            "text": "Señor, bueno es que estemos aquí; si quieres, hagamos aquí tres tabernáculos; uno para ti, uno para Moisés, y uno para Elías."
+        },
+        {
+            "id": "mat17_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mientras Él aún hablaba, una nube resplandeciente los cubrió; y he aquí una voz desde la nube, que decía:"
+        },
+        {
+            "id": "mat17_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Éste es mi Hijo amado, en quien tengo contentamiento; a Él oíd."
+        },
+        {
+            "id": "mat17_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y oyendo esto los discípulos, cayeron sobre sus rostros, y temieron en gran manera."
+        },
+        {
+            "id": "mat17_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Jesús vino y los tocó, y dijo:"
+        },
+        {
+            "id": "mat17_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Levantaos, y no temáis."
+        },
+        {
+            "id": "mat17_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y alzando ellos sus ojos a nadie vieron, sino a Jesús solo."
+        },
+        {
+            "id": "mat17_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cuando descendieron del monte, Jesús les mandó, diciendo:"
+        },
+        {
+            "id": "mat17_9b",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "No digáis a nadie la visión, hasta que el Hijo del Hombre resucite de los muertos."
+        },
+        {
+            "id": "mat17_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces sus discípulos le preguntaron, diciendo:"
+        },
+        {
+            "id": "mat17_10b",
+            "speaker": "Discípulos",
+            "verse": 10,
+            "text": "¿Por qué, pues, dicen los escribas que es necesario que Elías venga primero?"
+        },
+        {
+            "id": "mat17_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y respondiendo Jesús, les dijo:"
+        },
+        {
+            "id": "mat17_11b",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "A la verdad, Elías vendrá primero, y restaurará todas las cosas."
+        },
+        {
+            "id": "mat17_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas os digo que Elías ya vino, y no le conocieron; sino que hicieron de él todo lo que quisieron: Así también el Hijo del Hombre padecerá de ellos."
+        },
+        {
+            "id": "mat17_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces los discípulos entendieron que les había hablado de Juan el Bautista."
+        },
+        {
+            "id": "mat17_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y cuando llegaron a la multitud, vino a Él un hombre, y cayendo de rodillas delante de Él, dijo:"
+        },
+        {
+            "id": "mat17_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Señor, ten misericordia de mi hijo, que es lunático, y padece mucho, porque muchas veces cae en el fuego, y muchas en el agua."
+        },
+        {
+            "id": "mat17_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y le traje a tus discípulos, y no le pudieron sanar."
+        },
+        {
+            "id": "mat17_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces respondiendo Jesús, dijo:"
+        },
+        {
+            "id": "mat17_17b",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "¡Oh generación incrédula y perversa! ¿Hasta cuándo he de estar con vosotros? ¿Hasta cuándo os he de soportar? Traédmelo acá."
+        },
+        {
+            "id": "mat17_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y reprendió Jesús al demonio, el cual salió del muchacho, y éste quedó sano desde aquella hora."
+        },
+        {
+            "id": "mat17_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces viniendo los discípulos a Jesús, aparte, dijeron:"
+        },
+        {
+            "id": "mat17_19b",
+            "speaker": "Discípulos",
+            "verse": 19,
+            "text": "¿Por qué nosotros no pudimos echarlo fuera?"
+        },
+        {
+            "id": "mat17_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Jesús les dijo:"
+        },
+        {
+            "id": "mat17_20b",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Por vuestra incredulidad; porque de cierto os digo, que si tuviereis fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible."
+        },
+        {
+            "id": "mat17_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero este género no sale sino por oración y ayuno."
+        },
+        {
+            "id": "mat17_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y estando ellos en Galilea, Jesús les dijo:"
+        },
+        {
+            "id": "mat17_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "El Hijo del Hombre será entregado en manos de hombres,"
+        },
+        {
+            "id": "mat17_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "y le matarán; pero al tercer día resucitará. Y ellos se entristecieron en gran manera."
+        },
+        {
+            "id": "mat17_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y cuando llegaron a Capernaúm, vinieron a Pedro los que cobraban los tributos, diciendo:"
+        },
+        {
+            "id": "mat17_24b",
+            "speaker": "Publicanos",
+            "verse": 24,
+            "text": "¿Vuestro maestro no paga los tributos?"
+        },
+        {
+            "id": "mat17_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Él dijo:"
+        },
+        {
+            "id": "mat17_25b",
+            "speaker": "Pedro",
+            "verse": 25,
+            "text": "Sí."
+        },
+        {
+            "id": "mat17_25c",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y entrando él en casa, Jesús le habló antes, diciendo:"
+        },
+        {
+            "id": "mat17_25d",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "¿Qué te parece, Simón? Los reyes de la tierra, ¿de quién cobran los impuestos o tributos? ¿De sus hijos, o de los extranjeros?"
+        },
+        {
+            "id": "mat17_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Pedro le dijo:"
+        },
+        {
+            "id": "mat17_26b",
+            "speaker": "Pedro",
+            "verse": 26,
+            "text": "De los extranjeros."
+        },
+        {
+            "id": "mat17_26c",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "mat17_26d",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "Luego los hijos están francos."
+        },
+        {
+            "id": "mat17_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Mas para no ofenderles, ve al mar, y echa el anzuelo, y el primer pez que saques, tómalo, y al abrirle su boca, hallarás un estatero; tómalo y dáselo por mí y por ti."
+        }
+    ]
+}

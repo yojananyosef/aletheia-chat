@@ -1,0 +1,217 @@
+{
+    "book": "Mateo",
+    "chapter": 6,
+    "title": "Mateo 6",
+    "messages": [
+        {
+            "id": "mat6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Mirad que no hagáis vuestras limosnas delante de los hombres, para ser vistos de ellos; de otra manera no tenéis recompensa de vuestro Padre que está en el cielo."
+        },
+        {
+            "id": "mat6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Cuando, pues, des limosna, no hagas tocar trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las calles, para ser alabados de los hombres; de cierto os digo: Ya tienen su recompensa."
+        },
+        {
+            "id": "mat6_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mas cuando tú des limosna, no sepa tu mano izquierda lo que hace tu mano derecha."
+        },
+        {
+            "id": "mat6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Que tu limosna sea en secreto, y tu Padre que ve en lo secreto, Él te recompensará en público."
+        },
+        {
+            "id": "mat6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando ores, no seas como los hipócritas; porque ellos aman el orar en pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres. De cierto os digo: Ya tienen su recompensa."
+        },
+        {
+            "id": "mat6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas tú, cuando ores, entra en tu alcoba, y cerrada tu puerta ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto, te recompensará en público."
+        },
+        {
+            "id": "mat6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando ores, no uses vanas repeticiones, como hacen los gentiles, que piensan que por su palabrería serán oídos."
+        },
+        {
+            "id": "mat6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "No seáis, pues, semejantes a ellos; porque vuestro Padre sabe de qué cosas tenéis necesidad, antes que vosotros le pidáis."
+        },
+        {
+            "id": "mat6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Vosotros, pues, oraréis así: Padre nuestro que estás en el cielo, santificado sea tu nombre."
+        },
+        {
+            "id": "mat6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Venga tu reino. Hágase tu voluntad, así en la tierra como en el cielo."
+        },
+        {
+            "id": "mat6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "El pan nuestro de cada día, dánoslo hoy."
+        },
+        {
+            "id": "mat6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores."
+        },
+        {
+            "id": "mat6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por siempre. Amén."
+        },
+        {
+            "id": "mat6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque si perdonáis a los hombres sus ofensas, vuestro Padre celestial también os perdonará a vosotros."
+        },
+        {
+            "id": "mat6_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas."
+        },
+        {
+            "id": "mat6_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y cuando ayunéis, no seáis austeros, como los hipócritas; porque ellos demudan sus rostros para parecer a los hombres que ayunan. De cierto os digo que ya tienen su recompensa."
+        },
+        {
+            "id": "mat6_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro;"
+        },
+        {
+            "id": "mat6_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "para no parecer a los hombres que ayunas, sino a tu Padre que está en secreto; y tu Padre que ve en lo secreto, te recompensará en público."
+        },
+        {
+            "id": "mat6_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan."
+        },
+        {
+            "id": "mat6_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas haceos tesoros en el cielo, donde ni la polilla, ni el orín corrompen, y donde ladrones no minan ni hurtan."
+        },
+        {
+            "id": "mat6_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón."
+        },
+        {
+            "id": "mat6_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "La lámpara del cuerpo es el ojo; así que, si tu ojo fuere sincero, todo tu cuerpo estará lleno de luz."
+        },
+        {
+            "id": "mat6_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Mas si tu ojo fuere maligno, todo tu cuerpo estará en oscuridad. Así que, si la luz que hay en ti es tinieblas, ¿cuánto más lo serán las mismas tinieblas?"
+        },
+        {
+            "id": "mat6_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Ninguno puede servir a dos señores; porque o aborrecerá al uno, y amará al otro; o apreciará al uno, y menospreciará al otro. No podéis servir a Dios y a las riquezas."
+        },
+        {
+            "id": "mat6_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Por tanto os digo: No os afanéis por vuestra vida, qué habéis de comer, o qué habéis de beber; ni por vuestro cuerpo, qué habéis de vestir. ¿No es la vida más que el alimento, y el cuerpo más que el vestido?"
+        },
+        {
+            "id": "mat6_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta. ¿No sois vosotros mucho mejores que ellas?"
+        },
+        {
+            "id": "mat6_27",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "¿Y quién de vosotros podrá, por mucho que se afane, añadir a su estatura un codo?"
+        },
+        {
+            "id": "mat6_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y por el vestido, ¿por qué os afanáis? Considerad los lirios del campo, cómo crecen; no trabajan ni hilan;"
+        },
+        {
+            "id": "mat6_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "pero os digo, que ni aun Salomón con toda su gloria se vistió como uno de ellos."
+        },
+        {
+            "id": "mat6_30",
+            "speaker": "Jesús",
+            "verse": 30,
+            "text": "Y si a la hierba del campo que hoy es, y mañana es echada en el horno, Dios la viste así, ¿no hará mucho más por vosotros, hombres de poca fe?"
+        },
+        {
+            "id": "mat6_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Por tanto, no os afanéis, diciendo:"
+        },
+        {
+            "id": "mat6_31b",
+            "speaker": "Jesús",
+            "verse": 31,
+            "text": "¿Qué comeremos, o qué beberemos, o qué vestiremos?"
+        },
+        {
+            "id": "mat6_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Porque los gentiles buscan todas estas cosas; mas vuestro Padre celestial sabe que tenéis necesidad de todas estas cosas."
+        },
+        {
+            "id": "mat6_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas."
+        },
+        {
+            "id": "mat6_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Así que, no os afanéis por el mañana, que el mañana traerá su afán. Bástele al día su propio mal."
+        }
+    ]
+}

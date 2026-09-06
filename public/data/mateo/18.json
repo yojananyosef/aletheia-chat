@@ -1,0 +1,265 @@
+{
+    "book": "Mateo",
+    "chapter": 18,
+    "title": "Mateo 18",
+    "messages": [
+        {
+            "id": "mat18_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En aquella hora vinieron los discípulos a Jesús, diciendo:"
+        },
+        {
+            "id": "mat18_1b",
+            "speaker": "Discípulos",
+            "verse": 1,
+            "text": "¿Quién es el mayor en el reino de los cielos?"
+        },
+        {
+            "id": "mat18_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y llamando Jesús a un niño, lo puso en medio de ellos,"
+        },
+        {
+            "id": "mat18_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "mat18_3b",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "De cierto os digo: Si no os volvéis y os hacéis como niños, no entraréis en el reino de los cielos."
+        },
+        {
+            "id": "mat18_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Cualquiera, pues, que se humillare como este niño, ése es el mayor en el reino de los cielos."
+        },
+        {
+            "id": "mat18_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cualquiera que recibiere en mi nombre a un niño como éste, a mí me recibe."
+        },
+        {
+            "id": "mat18_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y cualquiera que haga tropezar a uno de estos pequeñitos que creen en mí; mejor le fuera que se le colgase al cuello una piedra de molino de asno, y que se le sumergiese en lo profundo del mar."
+        },
+        {
+            "id": "mat18_7",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "¡Ay del mundo por los tropiezos! porque necesario es que vengan tropiezos, mas ¡ay de aquel hombre por quien viene el tropiezo!"
+        },
+        {
+            "id": "mat18_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por tanto, si tu mano o tu pie te hacen caer, córtalos y échalos de ti; mejor te es entrar en la vida cojo o manco, que teniendo dos manos o dos pies ser echado en el fuego eterno."
+        },
+        {
+            "id": "mat18_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y si tu ojo te hace caer, sácalo y échalo de ti; porque mejor te es entrar en la vida con un solo ojo, que teniendo dos ojos ser echado en el fuego del infierno."
+        },
+        {
+            "id": "mat18_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mirad que no tengáis en poco a uno de estos pequeñitos; porque os digo que sus ángeles en el cielo ven siempre la faz de mi Padre que está en el cielo."
+        },
+        {
+            "id": "mat18_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque el Hijo del Hombre vino a salvar lo que se había perdido."
+        },
+        {
+            "id": "mat18_12",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "¿Qué os parece? Si un hombre tiene cien ovejas, y se descarría una de ellas, ¿no deja las noventa y nueve y va por los montes a buscar la que se ha descarriado?"
+        },
+        {
+            "id": "mat18_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y si acontece que la halla, de cierto os digo que se regocija más por aquélla, que por las noventa y nueve que no se descarriaron."
+        },
+        {
+            "id": "mat18_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así, no es la voluntad de vuestro Padre que está en el cielo, que se pierda uno de estos pequeñitos."
+        },
+        {
+            "id": "mat18_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Por tanto, si tu hermano pecare contra ti, ve y repréndele estando tú y él solos; si te oyere, has ganado a tu hermano."
+        },
+        {
+            "id": "mat18_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas si no te oyere, toma aún contigo uno o dos, para que en boca de dos o tres testigos conste toda palabra."
+        },
+        {
+            "id": "mat18_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y si no los oyere a ellos, dilo a la iglesia, y si no oyere a la iglesia, tenle por gentil y publicano."
+        },
+        {
+            "id": "mat18_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "De cierto os digo: Todo lo que atéis en la tierra, será atado en el cielo; y todo lo que desatéis en la tierra, será desatado en el cielo."
+        },
+        {
+            "id": "mat18_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Otra vez os digo: Que si dos de vosotros se pusieren de acuerdo en la tierra acerca de cualquier cosa que pidieren, les será hecho por mi Padre que está en el cielo."
+        },
+        {
+            "id": "mat18_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos."
+        },
+        {
+            "id": "mat18_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Pedro viniendo a Él, dijo:"
+        },
+        {
+            "id": "mat18_21b",
+            "speaker": "Pedro",
+            "verse": 21,
+            "text": "Señor, ¿cuántas veces perdonaré a mi hermano que pecare contra mí? ¿Hasta siete?"
+        },
+        {
+            "id": "mat18_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Jesús le dijo:"
+        },
+        {
+            "id": "mat18_22b",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "No te digo hasta siete, sino aun hasta setenta veces siete."
+        },
+        {
+            "id": "mat18_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Por lo cual el reino de los cielos es semejante a un rey que quiso hacer cuentas con sus siervos."
+        },
+        {
+            "id": "mat18_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y comenzando a hacer cuentas, le fue traído uno que le debía diez mil talentos."
+        },
+        {
+            "id": "mat18_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Mas a éste, no teniendo con qué pagar, su señor mandó venderle, y a su esposa e hijos, con todo lo que tenía, y que se le pagase."
+        },
+        {
+            "id": "mat18_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces aquel siervo, postrado le rogaba, diciendo:"
+        },
+        {
+            "id": "mat18_26b",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "Señor, ten paciencia conmigo, y yo te lo pagaré todo."
+        },
+        {
+            "id": "mat18_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Entonces el señor de aquel siervo, fue movido a misericordia, y le soltó y le perdonó la deuda."
+        },
+        {
+            "id": "mat18_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Mas saliendo aquel siervo, halló a uno de sus consiervos, que le debía cien denarios, y sujetándolo del cuello, le dijo:"
+        },
+        {
+            "id": "mat18_28b",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "Págame lo que me debes."
+        },
+        {
+            "id": "mat18_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Entonces su consiervo, postrándose a sus pies, le rogaba diciendo:"
+        },
+        {
+            "id": "mat18_29b",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "Ten paciencia conmigo, y yo te lo pagaré todo."
+        },
+        {
+            "id": "mat18_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Pero él no quiso, sino fue y le echó en la cárcel, hasta que pagase la deuda."
+        },
+        {
+            "id": "mat18_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y cuando sus consiervos vieron lo que pasaba, se entristecieron mucho, y viniendo, dijeron a su señor todo lo que había pasado."
+        },
+        {
+            "id": "mat18_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Entonces llamándole su señor, le dijo:"
+        },
+        {
+            "id": "mat18_32b",
+            "speaker": "Jesús",
+            "verse": 32,
+            "text": "Siervo malvado, toda aquella deuda te perdoné porque me rogaste."
+        },
+        {
+            "id": "mat18_33",
+            "speaker": "Jesús",
+            "verse": 33,
+            "text": "¿No debías tú también tener misericordia de tu consiervo, así como yo tuve misericordia de ti"
+        },
+        {
+            "id": "mat18_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces su señor se enojó, y le entregó a los verdugos, hasta que pagase todo lo que le debía."
+        },
+        {
+            "id": "mat18_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Así también hará con vosotros mi Padre celestial, si no perdonáis de vuestro corazón cada uno a su hermano sus ofensas."
+        }
+    ]
+}
