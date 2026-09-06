@@ -1,5 +1,11 @@
 # Triage doctrinal pendiente (post-carryover)
 
+> **ACTUALIZACIÓN 2026-09-06**: el barrido reproducible vive ahora en el change
+> `naas-qa-auditoria-corpus` (`qa-sweep.mjs` + `qa-report.md`), que clasifica cada divergencia
+> dry↔aplicado en revisada (respaldada por `reviewed/`) o sospechosa. El backfill doctrinal de
+> Job/Éxodo (tarea 3.2) y el piloto Juan 9 (tarea 4.2) ya están resueltos allí; los clusters de
+> Salmos y NT de este documento siguen pendientes de decisión verso a verso.
+
 Generado 2026-09-06 tras el parche de carryover de voz (`ea960c7` + `cda93c5`).
 El barrido dry-run-nuevo vs aplicado (`/tmp/opencode/sweep2.txt`, regenerar con
 el heuristic actual antes de corregir) dejó estos clusters que NO son mecánicos:
@@ -30,7 +36,9 @@ OJO: muchos aplicados-Narrador pueden estar BIEN (relator). Ejemplos vistos:
 - `mateo 26` (9), `mateo 15` (8), `lucas 9` (8), `marcos 14` (7), `juan 18` (7)...
 Método: por capítulo, volcar aplicado vs dry, adjudicar con la doctrina del
 relator, corregir vía `reviewed/<libro>-<cap>.json` + `--apply --write` +
-verificación `mismatches: 0` + QA. Empezar por `juan 9`.
+verificación `mismatches: 0` + QA. ~~Empezar por `juan 9`~~ **juan 9 RESUELTO
+(2026-09-06, piloto del change naas-qa-auditoria-corpus: 9:4-5 Jesús,
+9:15b/31-33 Ciego, 9:13/18/22 Narrador legítimo).**
 
 ## 3. Nota de mecanismo
 - `dry=Dios → aplicado=Moisés` en Deuteronomio (75) está BIEN (doctrina:

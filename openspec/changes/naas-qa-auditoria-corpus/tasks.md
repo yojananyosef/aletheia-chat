@@ -17,19 +17,21 @@
 ## 3. Correcciones mecánicas (cubeta a)
 - [x] 3.1 Vocabulario: `CanonicalSpeaker` += Asael/Asa/Reina (`Message.ts`); `books.ts` += Mujer
       (genesis), Hija de Herodías + Ancianos (mateo). Barrido en 0 vocabulario-invalido.
-- [ ] 3.2 Backfill de `reviewed/` donde la doctrina vigente respalda el aplicado (cubeta a2):
-      job (ciclos de discurso), exodus (1ª persona divina del tabernáculo + Moisés). Volcar
-      aplicado→`reviewed/<libro>-<cap>.json` (confidence 0.85), `--apply --write`, 2ª pasada
-      0 fusionados, commit `feat(corpus): backfill reviewed <libro>`.
-- [ ] 3.3 Huecos de deuda `ambiguo-sin-revisar` en capítulos publicados (1.436 total; prioridad
-      numeros 253, job 240, exodus 225, genesis 126, juan 123, lucas 100): adjudicar con el
+- [x] 3.2 Backfill de `reviewed/` donde la doctrina vigente respalda el aplicado (cubeta a2):
+      job (990 entradas, 37 caps: ciclos de discurso + discursos del torbellino) y exodus (Éx 3,
+      21-23, 26-30). Merge-safe sobre reviewed existente, `--apply --write`, 2ª pasada 0 fusionados,
+      2ª pasada del barrido: job 734→0 sospechosos, exodus 376→120.
+- [ ] 3.3 Huecos de deuda `ambiguo-sin-revisar` en capítulos publicados (1.388 total; prioridad
+      numeros 253, job 198, exodus 224, genesis 126, juan 118, lucas 100): adjudicar con el
       método del triage fase3 y re-corrida del barrido.
 
 ## 4. Clusters doctrinales (cubeta b) — decisión explícita antes de tocar
 - [ ] 4.1 Salmos: salmista-Narrador vs oráculo divino genuino (salmos 18, 50, 60, 99, 110 del
       triage fase3) — decidir por salmo y registrar la doctrina resultante en la spec `speakers`.
-- [ ] 4.2 Evangelios (283 sospechosos): doctrina del relator conserva voz — empezar por `juan 9`
-      (bug real sospechado), luego mateo 15/26, lucas 9, marcos 14, juan 18.
+- [ ] 4.2 Evangelios (272 sospechosos restantes): doctrina del relator conserva voz.
+      **Piloto Juan 9 completado**: 6 fixes (9:4-5 Jesús; 9:15b y 9:31-33 al Ciego; 9:15b era
+      testimonio del ciego atribuido a Fariseos) + 3 narraciones legítimas documentadas (9:13/18/22).
+      Restante: juan (98), mateo 15/26 (29), lucas 9 (35+16), marcos 14 (17).
 - [ ] 4.3 AT carryover divino posterior a la integración: numeros (248), genesis (78), josue (35),
       jueces (18), deuteronomio (15), salmos (25): volcado aplicado vs dry por capítulo,
       adjudicar, `reviewed/` + `--apply --write`.

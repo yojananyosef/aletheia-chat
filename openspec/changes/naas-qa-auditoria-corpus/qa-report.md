@@ -1,4 +1,4 @@
-# qa-report.md — barrido 2026-09-06 (post-fix vocabulario)
+# qa-report.md — barrido 2026-09-06 (tras backfill Job/Exodo + piloto Juan 9)
 
 Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libros · 25.306 mensajes.
 
@@ -7,7 +7,7 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | libro | msgs | revisado | sospechoso | ambiguo-sin-revisar |
 |---|---|---|---|---|
 | genesis | 2127 | 380 | 119 | 126 |
-| exodus | 1460 | 104 | 376 | 225 |
+| exodus | 1460 | 360 | 120 | 224 |
 | levitico | 905 | 124 | 8 | 8 |
 | numeros | 1444 | 191 | 253 | 253 |
 | deuteronomio | 1047 | 933 | 15 | 22 |
@@ -23,14 +23,14 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | esdras | 299 | 74 | 0 | 0 |
 | nehemias | 458 | 98 | 3 | 4 |
 | ester | 206 | 35 | 0 | 11 |
-| job | 1124 | 68 | 734 | 240 |
+| job | 1124 | 802 | 0 | 198 |
 | salmos | 2664 | 119 | 38 | 38 |
 | jonas | 68 | 22 | 4 | 4 |
 | mateo | 1464 | 299 | 51 | 68 |
 | marcos | 952 | 191 | 39 | 39 |
 | lucas | 1576 | 402 | 84 | 100 |
-| juan | 1303 | 187 | 103 | 123 |
-| **total** | **25306** | **4935** | **1971** | **1436** |
+| juan | 1303 | 194 | 98 | 118 |
+| **total** | **25306** | **5932** | **976** | **1388** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -39,52 +39,46 @@ Integridad: **0** capitulo-faltante · 0 capitulo-extra · 0 texto-perdido · 0 
 
 ## Sospechosos por cluster (aplicado ← dry, sin respaldo reviewed/)
 
-- 379 · job | Job ← Narrador
-- 255 · exodus | Dios ← Narrador
 - 248 · numeros | Narrador ← Dios
-- 102 · job | Eliú ← Narrador
 - 89 · exodus | Narrador ← Dios
 - 78 · genesis | Narrador ← Dios
-- 78 · juan | Narrador ← Jesús
-- 74 · job | Elifaz ← Narrador
-- 63 · job | Dios ← Narrador
-- 38 · job | Bildad ← Narrador
-- 36 · job | Zofar ← Narrador
+- 76 · juan | Narrador ← Jesús
 - 35 · josue | Narrador ← Dios
 - 35 · lucas | Narrador ← Dios
 - 29 · mateo | Narrador ← Jesús
 - 25 · salmos | Narrador ← Dios
-- 24 · job | Eliú ← Dios
 - 23 · exodus | Narrador ← Moisés
 - 18 · jueces | Narrador ← Dios
 - 17 · marcos | Narrador ← Jesús
 - 16 · lucas | Narrador ← Jesús
+- 15 · deuteronomio | Narrador ← Dios
+- 15 · lucas | Narrador ← Discípulos
+- 12 · salmos | Narrador ← Impíos
 
-## Triaje (cubetas del tasks.md)
+## Triaje (estado del tasks.md)
 
-### Cubeta a — resuelta en este barrido
-- `CanonicalSpeaker` sin `Asael` (2samuel), `Asa`/`Reina` (2cronicas) → añadidos a `Message.ts`.
-- `books.ts` sin `Mujer` (genesis), sin `Hija de Herodías`/`Ancianos` (mateo) → añadidos.
-- Tras los fixes: 0 vocabulario-invalido.
+### Cubeta a — resuelta (barrido 1)
+- `CanonicalSpeaker` += Asael (2samuel), Asa/Reina (2cronicas); `books.ts` += Mujer (genesis),
+  Hija de Herodías + Ancianos (mateo). 0 vocabulario-invalido.
 
-### Cubeta a2 — backfill mecánico de `reviewed/` (doctrina vigente respalda el aplicado)
-La voz aplicada es doctrinalmente correcta y el dry actual solo la pierde por mejoras posteriores de
-la heurística (carryover se introdujo DESPUÉS de integrar estos libros). Proteger contra
-regeneraciones volcando el aplicado a `reviewed/<libro>-<cap>.json` (mismo speaker, confidence 0.85):
-- `job` (734): ciclos de discurso Job/Elifaz/Bildad/Zofar/Eliú — quien mueve la boca en escena.
-- `exodus` Dios←Narrador (255): instrucciones del tabernáculo/ley en 1ª persona divina (Éx 25-31, 35-40).
-- `exodus` Moisés←Narrador (23): Moisés habla en 1ª persona divina (doctrina del triage fase3).
+### Cubeta a2 — resuelta (backfill doctrinal de `reviewed/`)
+La voz aplicada es doctrinalmente correcta y el dry actual solo la pierde porque el carryover de voz
+llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confidence 0.85, merge-safe,
+2ª pasada 0 fusionados):
+- `job` (734 entradas, 37 caps): ciclos de discurso Job/Elifaz/Bildad/Zofar/Eliú + discursos del
+  torbellino (Dios en 39/41). Sospechosos 734 → 0.
+- `exodus` (256 entradas, 9 caps): instrucciones divinas (Éx 3, 21-23, 26-30). Sospechosos 376 → 120.
 
-### Cubeta b — adjudicación doctrinal verso a verso (requiere leer el texto)
-- `numeros` Narrador←Dios (248) y resto AT (genesis 78, josue 35, jueces 18…): carryover divino
-  ("Y habló Jehová a Moisés, diciendo:") llegó después de la integración. Método del triage fase3:
-  volcado aplicado vs dry por capítulo, adjudicar, `reviewed/` + `--apply --write`, verificación
-  2ª pasada 0 fusionados. Prioridad: Números (253), Génesis (126), Josué (48), Jueces (50).
-- Evangelios Narrador←Jesús/Dios (283 en total): doctrina del relator conserva voz. Empezar por
-  `juan 9` (sospecha de bug real documentada en el triage fase3), luego mateo 15/26, lucas 9,
-  marcos 14, juan 18.
-- `salmos` (38) + 1.436 ambiguo-sin-revisar: clusters doctrinales del triage fase3 (salmos 18/50/60/99/110)
-  más deuda de review en capítulos publicados (numeros 253, job 240, exodus 225…).
+### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 976)
+- **Evangelios (4.2): piloto Juan 9 completado** — 6 fixes reales (9:4-5 Jesús "Me es necesario…";
+  9:15b el testimonio del ciego mal asignado a Fariseos; 9:31-33 la defensa del ciego publicada como
+  Narrador) + 3 versos de narración legítima documentados (9:13/18/22). Restante: juan (98),
+  mateo (51), lucas (84), marcos (39). Método: volcado aplicado vs dry por capítulo, adjudicar con
+  la doctrina del relator, `reviewed/` + `--apply --write`, 2ª pasada.
+- **AT carryover divino (4.3):** numeros (253), genesis (119), josue (48), jueces (50),
+  exodus Narrador←Dios (89) y Narrador←Moisés (23), salmos (38), deuteronomio (15).
+- **Salmos doctrina (4.1):** salmista-Narrador vs oráculo genuino (salmos 18/50/60/99/110 del
+  triage fase3).
 
 ### Deriva-fuente (advertencia, no bug)
 - salmos 124: headings «…» extraídos a títulos Sistema (transformación conocida) + puntuación.
