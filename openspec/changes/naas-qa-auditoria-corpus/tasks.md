@@ -36,7 +36,11 @@
       **Mateo completo** (51→0 sospechosos, 39 fixes en 17 caps): 1:21/1:23a Ángel, 15:7-9 Jesús
       citando a Isaías (no Dios, doctrina del relator del triage), 17:15 Hombre, 22:17 Discípulos,
       22:36 Doctor (voz añadida a books.ts), 26:75b Narrador (cita narrada, aplicado Jesús era
-      incorrecto), 28:6-7 Ángel + 12 documentaciones. Restante: lucas (84), marcos (39).
+      incorrecto), 28:6-7 Ángel + 12 documentaciones.
+      **Lucas completo** (84→0 sospechosos, 57 fixes en 15 caps): Magnificat María, Benedictus
+      Zacarías, Sermón del llano Jesús, 4:10-11 Demonio (precedente mateo 4:6b), 7:7-8 Centurión,
+      11:3/11:50-51/12:21-40/13 Jesús + 27 documentaciones (genealogía 3:23-38). Restante:
+      marcos (39).
 - [ ] 4.3 AT carryover divino posterior a la integración: numeros (248), genesis (78), josue (35),
       jueces (18), deuteronomio (15), salmos (25): volcado aplicado vs dry por capítulo,
       adjudicar, `reviewed/` + `--apply --write`.

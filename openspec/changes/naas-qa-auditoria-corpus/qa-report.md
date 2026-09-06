@@ -28,9 +28,9 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | jonas | 68 | 22 | 4 | 4 |
 | mateo | 1464 | 320 | 0 | 17 |
 | marcos | 952 | 191 | 39 | 39 |
-| lucas | 1576 | 402 | 84 | 100 |
+| lucas | 1576 | 472 | 0 | 16 |
 | juan | 1303 | 226 | 0 | 20 |
-| **total** | **25306** | **5985** | **827** | **1239** |
+| **total** | **25306** | **6055** | **743** | **1155** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -68,7 +68,7 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   torbellino (Dios en 39/41). Sospechosos 734 → 0.
 - `exodus` (256 entradas, 9 caps): instrucciones divinas (Éx 3, 21-23, 26-30). Sospechosos 376 → 120.
 
-### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 827)
+### Cubeta b — adjudicación doctrinal verso a verso (pendiente, 743)
 - **Evangelios (4.2): Juan COMPLETO** (2026-09-06: 98→0 sospechosos, 81 fixes en 17 caps + piloto
   9 previo). Ciclos corregidos: pan de vida (6:38-58), Buen Pastor (10:8-38), Cenáculo (14),
   oración sacerdotal (17:2-14), discursos del templo (7-8, 12); voces puntuales: 6:9 Andrés,
@@ -81,6 +81,11 @@ llegó después de integrar esos libros. Volcado aplicado→`reviewed/` (confide
   añadida a books.ts mateo), 26:75b Narrador (cita narrada: el relator conserva la voz, el aplicado
   Jesús era incorrecto), 28:6-7 Ángel; 12 narraciones/afirmaciones documentadas (8:26b, 8:32b,
   14:29b, 21:15b Niños, 21:19b...). Restante: lucas (84), marcos (39).
+- **Lucas COMPLETO** (2026-09-06: 84→0 sospechosos, 57 fixes en 15 caps): Magnificat 1:47-49
+  María, Benedictus 1:69 Zacarías, Sermón del llano 6:21-38 Jesús, parábola del acreedor
+  7:41-47 Jesús, condenas 9:24-27 y 12:21-40 Jesús, Padre nuestro 11:3 Jesús (lo enseña Él),
+  11:50-51 Jesús (cita de la Sabiduría), tentación 4:10-11 Demonio (precedente mateo 4:6b),
+  7:7-8 Centurión, 1:32 Ángel; 27 documentaciones (genealogía 3:23-38, narraciones).
 - **AT carryover divino (4.3):** numeros (253), genesis (119), josue (48), jueces (50),
   exodus Narrador←Dios (89) y Narrador←Moisés (23), salmos (38), deuteronomio (15).
 - **Salmos doctrina (4.1):** salmista-Narrador vs oráculo genuino (salmos 18/50/60/99/110 del
