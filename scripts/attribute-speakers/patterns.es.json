@@ -10,43 +10,468 @@
     }
   ],
   "speakerRules": [
-    { "id": "jehova-dios", "pattern": "\\b(jehov[aá]\\s+dios|dios)\\b", "flags": "i", "speaker": "Dios", "confidence": 0.95 },
-    { "id": "jehova-solo", "pattern": "\\bjehov[aá]\\b", "flags": "i", "speaker": "Dios", "confidence": 0.9 },
-    { "id": "serpiente", "pattern": "\\b(serpiente)\\b", "flags": "i", "speaker": "Serpiente", "confidence": 0.9 },
-    { "id": "mujer", "pattern": "\\b(mujer)\\b", "flags": "i", "speaker": "Mujer", "confidence": 0.75 },
-    { "id": "adan-hombre", "pattern": "\\b(ad[aá]n|el hombre)\\b", "flags": "i", "speaker": "Adán", "confidence": 0.8 },
-    { "id": "moises", "pattern": "\\b(mois[eé]s)\\b", "flags": "i", "speaker": "Moisés", "confidence": 0.9 },
-    { "id": "faraon", "pattern": "\\b(fara[oó]n)\\b", "flags": "i", "speaker": "Faraón", "confidence": 0.9 },
-    { "id": "rey-egipto", "pattern": "\\b(rey de egipto)\\b", "flags": "i", "speaker": "Faraón", "confidence": 0.9 },
-    { "id": "parteras", "pattern": "\\b(parteras?)\\b", "flags": "i", "speaker": "Parteras", "confidence": 0.9 },
-    { "id": "hija-faraon", "pattern": "\\b(hija de fara[oó]n)\\b", "flags": "i", "speaker": "Hija de Faraón", "confidence": 0.9 },
-    { "id": "hermana", "pattern": "\\b(su hermana|la hermana|hermana)\\b", "flags": "i", "speaker": "Hermana", "confidence": 0.85 },
-    { "id": "reuel", "pattern": "\\b(reuel)\\b", "flags": "i", "speaker": "Reuel", "confidence": 0.9 },
-    { "id": "jetro", "pattern": "\\b(jetro|jethro)\\b", "flags": "i", "speaker": "Jetro", "confidence": 0.9 },
-    { "id": "jesus", "pattern": "\\bjes[úu]s\\b", "flags": "i", "speaker": "Jesús", "confidence": 0.9 },
-    { "id": "pablo", "pattern": "\\bpablo\\b", "flags": "i", "speaker": "Pablo", "confidence": 0.9 },
-    { "id": "satan", "pattern": "\\bsatan[áa]s\\b", "flags": "i", "speaker": "Satán", "confidence": 0.85 },
-    { "id": "jonas", "pattern": "\\bjon[áa]s\\b", "flags": "i", "speaker": "Jonás", "confidence": 0.9 },
-    { "id": "marineros", "pattern": "\\b(maestre|marineros?|los de la nave)\\b", "flags": "i", "speaker": "Marineros", "confidence": 0.8 },
-    { "id": "noemi", "pattern": "\\b(noem[íi]|suegra)\\b", "flags": "i", "speaker": "Noemí", "confidence": 0.9 },
-    { "id": "nueras", "pattern": "\\b(nueras?|orfa)\\b", "flags": "i", "speaker": "Nueras", "confidence": 0.8 },
-    { "id": "rut", "pattern": "\\bruth?\\b", "flags": "i", "speaker": "Rut", "confidence": 0.9 },
-    { "id": "booz", "pattern": "\\bbo[ao]z\\b", "flags": "i", "speaker": "Booz", "confidence": 0.95 },
-    { "id": "segadores", "pattern": "\\b(segadores?)\\b", "flags": "i", "speaker": "Segadores", "confidence": 0.8 },
-    { "id": "criado", "pattern": "\\b(siervo|mayordomo|criados?)\\b", "flags": "i", "speaker": "Criado", "confidence": 0.8 },
-    { "id": "pariente", "pattern": "\\bpariente\\b", "flags": "i", "speaker": "Pariente", "confidence": 0.85 },
-    { "id": "ancianos", "pattern": "\\b(ancianos?)\\b", "flags": "i", "speaker": "Ancianos", "confidence": 0.85 },
-    { "id": "mujeres", "pattern": "\\b(mujeres|vecinas?)\\b", "flags": "i", "speaker": "Mujeres", "confidence": 0.8 },
-    { "id": "rey-ninive", "pattern": "\\b(r[ée]y de n[íi]nive)\\b", "flags": "i", "speaker": "Rey de Nínive", "confidence": 0.85 },
-    { "id": "impios", "pattern": "\\b(necios?|imp[íi]os?)\\b", "flags": "i", "speaker": "Impíos", "confidence": 0.8 },
-    { "id": "job", "pattern": "\\bjob\\b", "flags": "i", "speaker": "Job", "confidence": 0.9 },
-    { "id": "elifaz", "pattern": "\\b(elifaz|temanita)\\b", "flags": "i", "speaker": "Elifaz", "confidence": 0.9 },
-    { "id": "bildad", "pattern": "\\b(bildad|suhita)\\b", "flags": "i", "speaker": "Bildad", "confidence": 0.9 },
-    { "id": "zofar", "pattern": "\\b(zofar|naamatita)\\b", "flags": "i", "speaker": "Zofar", "confidence": 0.9 },
-    { "id": "eliu", "pattern": "\\beli[úu]\\b", "flags": "i", "speaker": "Eliú", "confidence": 0.9 },
-    { "id": "esposa-job", "pattern": "\\besposa\\b", "flags": "i", "speaker": "Esposa", "confidence": 0.85 },
-    { "id": "mensajero", "pattern": "\\bmensajero\\b", "flags": "i", "speaker": "Mensajero", "confidence": 0.8 },
-    { "id": "eva", "pattern": "\\b(eva)\\b", "flags": "i", "speaker": "Eva", "confidence": 0.9 }
+    {
+      "id": "jehova-dios",
+      "pattern": "\\b(jehov[aá]\\s+dios|dios)\\b",
+      "flags": "i",
+      "speaker": "Dios",
+      "confidence": 0.95
+    },
+    {
+      "id": "jehova-solo",
+      "pattern": "\\bjehov[aá]\\b",
+      "flags": "i",
+      "speaker": "Dios",
+      "confidence": 0.9
+    },
+    {
+      "id": "serpiente",
+      "pattern": "\\b(serpiente)\\b",
+      "flags": "i",
+      "speaker": "Serpiente",
+      "confidence": 0.9
+    },
+    {
+      "id": "mujer",
+      "pattern": "\\b(mujer)\\b",
+      "flags": "i",
+      "speaker": "Mujer",
+      "confidence": 0.75
+    },
+    {
+      "id": "adan-hombre",
+      "pattern": "\\b(ad[aá]n|el hombre)\\b",
+      "flags": "i",
+      "speaker": "Adán",
+      "confidence": 0.8
+    },
+    {
+      "id": "moises",
+      "pattern": "\\b(mois[eé]s)\\b",
+      "flags": "i",
+      "speaker": "Moisés",
+      "confidence": 0.9
+    },
+    {
+      "id": "faraon",
+      "pattern": "\\b(fara[oó]n)\\b",
+      "flags": "i",
+      "speaker": "Faraón",
+      "confidence": 0.9
+    },
+    {
+      "id": "rey-egipto",
+      "pattern": "\\b(rey de egipto)\\b",
+      "flags": "i",
+      "speaker": "Faraón",
+      "confidence": 0.9
+    },
+    {
+      "id": "parteras",
+      "pattern": "\\b(parteras?)\\b",
+      "flags": "i",
+      "speaker": "Parteras",
+      "confidence": 0.9
+    },
+    {
+      "id": "hija-faraon",
+      "pattern": "\\b(hija de fara[oó]n)\\b",
+      "flags": "i",
+      "speaker": "Hija de Faraón",
+      "confidence": 0.9
+    },
+    {
+      "id": "hermana",
+      "pattern": "\\b(su hermana|la hermana|hermana)\\b",
+      "flags": "i",
+      "speaker": "Hermana",
+      "confidence": 0.85
+    },
+    {
+      "id": "reuel",
+      "pattern": "\\b(reuel)\\b",
+      "flags": "i",
+      "speaker": "Reuel",
+      "confidence": 0.9
+    },
+    {
+      "id": "jetro",
+      "pattern": "\\b(jetro|jethro)\\b",
+      "flags": "i",
+      "speaker": "Jetro",
+      "confidence": 0.9
+    },
+    {
+      "id": "jesus",
+      "pattern": "\\bjes[úu]s\\b",
+      "flags": "i",
+      "speaker": "Jesús",
+      "confidence": 0.9
+    },
+    {
+      "id": "pablo",
+      "pattern": "\\bpablo\\b",
+      "flags": "i",
+      "speaker": "Pablo",
+      "confidence": 0.9
+    },
+    {
+      "id": "satan",
+      "pattern": "\\bsatan[áa]s\\b",
+      "flags": "i",
+      "speaker": "Satán",
+      "confidence": 0.85
+    },
+    {
+      "id": "jonas",
+      "pattern": "\\bjon[áa]s\\b",
+      "flags": "i",
+      "speaker": "Jonás",
+      "confidence": 0.9
+    },
+    {
+      "id": "marineros",
+      "pattern": "\\b(maestre|marineros?|los de la nave)\\b",
+      "flags": "i",
+      "speaker": "Marineros",
+      "confidence": 0.8
+    },
+    {
+      "id": "noemi",
+      "pattern": "\\b(noem[íi]|suegra)\\b",
+      "flags": "i",
+      "speaker": "Noemí",
+      "confidence": 0.9
+    },
+    {
+      "id": "nueras",
+      "pattern": "\\b(nueras?|orfa)\\b",
+      "flags": "i",
+      "speaker": "Nueras",
+      "confidence": 0.8
+    },
+    {
+      "id": "rut",
+      "pattern": "\\bruth?\\b",
+      "flags": "i",
+      "speaker": "Rut",
+      "confidence": 0.9
+    },
+    {
+      "id": "booz",
+      "pattern": "\\bbo[ao]z\\b",
+      "flags": "i",
+      "speaker": "Booz",
+      "confidence": 0.95
+    },
+    {
+      "id": "segadores",
+      "pattern": "\\b(segadores?)\\b",
+      "flags": "i",
+      "speaker": "Segadores",
+      "confidence": 0.8
+    },
+    {
+      "id": "criado",
+      "pattern": "\\b(siervo|mayordomo|criados?)\\b",
+      "flags": "i",
+      "speaker": "Criado",
+      "confidence": 0.8
+    },
+    {
+      "id": "pariente",
+      "pattern": "\\bpariente\\b",
+      "flags": "i",
+      "speaker": "Pariente",
+      "confidence": 0.85
+    },
+    {
+      "id": "ancianos",
+      "pattern": "\\b(ancianos?)\\b",
+      "flags": "i",
+      "speaker": "Ancianos",
+      "confidence": 0.85
+    },
+    {
+      "id": "mujeres",
+      "pattern": "\\b(mujeres|vecinas?)\\b",
+      "flags": "i",
+      "speaker": "Mujeres",
+      "confidence": 0.8
+    },
+    {
+      "id": "rey-ninive",
+      "pattern": "\\b(r[ée]y de n[íi]nive)\\b",
+      "flags": "i",
+      "speaker": "Rey de Nínive",
+      "confidence": 0.85
+    },
+    {
+      "id": "impios",
+      "pattern": "\\b(necios?|imp[íi]os?)\\b",
+      "flags": "i",
+      "speaker": "Impíos",
+      "confidence": 0.8
+    },
+    {
+      "id": "job",
+      "pattern": "\\bjob\\b",
+      "flags": "i",
+      "speaker": "Job",
+      "confidence": 0.9
+    },
+    {
+      "id": "elifaz",
+      "pattern": "\\b(elifaz|temanita)\\b",
+      "flags": "i",
+      "speaker": "Elifaz",
+      "confidence": 0.9
+    },
+    {
+      "id": "bildad",
+      "pattern": "\\b(bildad|suhita)\\b",
+      "flags": "i",
+      "speaker": "Bildad",
+      "confidence": 0.9
+    },
+    {
+      "id": "zofar",
+      "pattern": "\\b(zofar|naamatita)\\b",
+      "flags": "i",
+      "speaker": "Zofar",
+      "confidence": 0.9
+    },
+    {
+      "id": "eliu",
+      "pattern": "\\beli[úu]\\b",
+      "flags": "i",
+      "speaker": "Eliú",
+      "confidence": 0.9
+    },
+    {
+      "id": "esposa-job",
+      "pattern": "\\besposa\\b",
+      "flags": "i",
+      "speaker": "Esposa",
+      "confidence": 0.85
+    },
+    {
+      "id": "mensajero",
+      "pattern": "\\b(mensajeros?)\\b",
+      "flags": "i",
+      "speaker": "Mensajero",
+      "confidence": 0.8
+    },
+    {
+      "id": "eva",
+      "pattern": "\\b(eva)\\b",
+      "flags": "i",
+      "speaker": "Eva",
+      "confidence": 0.9
+    },
+    {
+      "id": "cain",
+      "pattern": "\\bca[íi]n\\b",
+      "flags": "i",
+      "speaker": "Caín",
+      "confidence": 0.9
+    },
+    {
+      "id": "abel",
+      "pattern": "\\babel\\b",
+      "flags": "i",
+      "speaker": "Abel",
+      "confidence": 0.9
+    },
+    {
+      "id": "lamec",
+      "pattern": "\\blamec\\b",
+      "flags": "i",
+      "speaker": "Lamec",
+      "confidence": 0.85
+    },
+    {
+      "id": "noe",
+      "pattern": "\\bno[ée]\\b",
+      "flags": "i",
+      "speaker": "Noé",
+      "confidence": 0.9
+    },
+    {
+      "id": "abraham",
+      "pattern": "\\b(abram|abraham)\\b",
+      "flags": "i",
+      "speaker": "Abraham",
+      "confidence": 0.9
+    },
+    {
+      "id": "sara",
+      "pattern": "\\b(sarai|sara)\\b",
+      "flags": "i",
+      "speaker": "Sara",
+      "confidence": 0.9
+    },
+    {
+      "id": "isaac",
+      "pattern": "\\bisaac\\b",
+      "flags": "i",
+      "speaker": "Isaac",
+      "confidence": 0.9
+    },
+    {
+      "id": "jacob",
+      "pattern": "\\bjacob\\b",
+      "flags": "i",
+      "speaker": "Jacob",
+      "confidence": 0.9
+    },
+    {
+      "id": "jose",
+      "pattern": "\\bjos[ée]\\b",
+      "flags": "i",
+      "speaker": "José",
+      "confidence": 0.9
+    },
+    {
+      "id": "lot",
+      "pattern": "\\blot\\b",
+      "flags": "i",
+      "speaker": "Lot",
+      "confidence": 0.9
+    },
+    {
+      "id": "melquisedec",
+      "pattern": "\\bmelquisedec\\b",
+      "flags": "i",
+      "speaker": "Melquisedec",
+      "confidence": 0.9
+    },
+    {
+      "id": "agar",
+      "pattern": "\\bagar\\b",
+      "flags": "i",
+      "speaker": "Agar",
+      "confidence": 0.9
+    },
+    {
+      "id": "abimelec",
+      "pattern": "\\babimelec\\b",
+      "flags": "i",
+      "speaker": "Abimelec",
+      "confidence": 0.9
+    },
+    {
+      "id": "rebeca",
+      "pattern": "\\brebeca\\b",
+      "flags": "i",
+      "speaker": "Rebeca",
+      "confidence": 0.9
+    },
+    {
+      "id": "esau",
+      "pattern": "\\besa[úu]\\b",
+      "flags": "i",
+      "speaker": "Esaú",
+      "confidence": 0.9
+    },
+    {
+      "id": "laban",
+      "pattern": "\\blab[áa]n\\b",
+      "flags": "i",
+      "speaker": "Labán",
+      "confidence": 0.9
+    },
+    {
+      "id": "lea",
+      "pattern": "\\blea\\b",
+      "flags": "i",
+      "speaker": "Lea",
+      "confidence": 0.9
+    },
+    {
+      "id": "raquel",
+      "pattern": "\\braquel\\b",
+      "flags": "i",
+      "speaker": "Raquel",
+      "confidence": 0.9
+    },
+    {
+      "id": "hamor",
+      "pattern": "\\bhamor\\b",
+      "flags": "i",
+      "speaker": "Hamor",
+      "confidence": 0.85
+    },
+    {
+      "id": "siquem",
+      "pattern": "\\bsiquem\\b",
+      "flags": "i",
+      "speaker": "Siquem",
+      "confidence": 0.85
+    },
+    {
+      "id": "efron",
+      "pattern": "\\befr[óo]n\\b",
+      "flags": "i",
+      "speaker": "Efrón",
+      "confidence": 0.85
+    },
+    {
+      "id": "juda",
+      "pattern": "\\bjud[áa]\\b",
+      "flags": "i",
+      "speaker": "Judá",
+      "confidence": 0.85
+    },
+    {
+      "id": "ruben",
+      "pattern": "\\brub[ée]n\\b",
+      "flags": "i",
+      "speaker": "Rubén",
+      "confidence": 0.8
+    },
+    {
+      "id": "copero",
+      "pattern": "\\bcopero\\b",
+      "flags": "i",
+      "speaker": "Copero",
+      "confidence": 0.85
+    },
+    {
+      "id": "panadero",
+      "pattern": "\\bpanadero\\b",
+      "flags": "i",
+      "speaker": "Panadero",
+      "confidence": 0.85
+    },
+    {
+      "id": "angel",
+      "pattern": "\\b[áa]ngel\\b",
+      "flags": "i",
+      "speaker": "Ángel",
+      "confidence": 0.85
+    },
+    {
+      "id": "rey-sodoma",
+      "pattern": "\\b(rey de sodoma)\\b",
+      "flags": "i",
+      "speaker": "Rey de Sodoma",
+      "confidence": 0.85
+    },
+    {
+      "id": "pastores",
+      "pattern": "\\b(pastores?)\\b",
+      "flags": "i",
+      "speaker": "Pastores",
+      "confidence": 0.8
+    },
+    {
+      "id": "tamar",
+      "pattern": "\\b(tamar)\\b",
+      "flags": "i",
+      "speaker": "Tamar",
+      "confidence": 0.85
+    }
   ],
   "aliases": {
     "jehová dios": "Dios",

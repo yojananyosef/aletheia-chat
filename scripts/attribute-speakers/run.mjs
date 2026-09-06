@@ -133,9 +133,10 @@ function detectSayer(narratorPart, patterns) {
   // él bendito de Jehová... Y Noemí le dijo:" hablaba Noemí, no Dios — RUT 2:20).
   // Con a/al es destinatario ("dijo a la mujer") y se ignora.
   if (verbEnd >= 0) {
-    // Destinatario = preposición a/al justo antes del candidato ("dijo Moisés a
-    // Dios", "dijo a su nuera"): se mira el FINAL del hueco verbo→candidato.
-    const isDest = (h) => /(^|\s)a(l)?(\s+\S+){0,3}\s*$/i.test(narratorPart.slice(verbEnd, h.idx));
+    // Objeto preposicional justo antes del candidato ("dijo Moisés a Dios",
+    // "llamó el nombre de Jehová", "habló contra Dios"): nunca es el sujeto
+    // (GEN 16:13 habla Agar, no Jehová). El sujeto VSO no lleva preposición.
+    const isDest = (h) => /(\s|^)(a(l)?|de(l)?|en|con|por|para|contra|entre|sobre|bajo|hacia|desde|sin|tras|seg[úu]n|nombre)(\s+\S+){0,3}\s*$/i.test(narratorPart.slice(verbEnd, h.idx));
     const post = deduped.filter(h => h.idx > verbIdx && !isDest(h));
     if (post.length) {
       const distinct = new Set(post.map(h => h.speaker));
@@ -150,7 +151,9 @@ function detectSayer(narratorPart, patterns) {
   // salvo que vayan introducidos por a/al ("oró a Jehová, y dijo:" habla Jonás,
   // no Dios — JON 4:2): el objeto de "a" es destinatario, nunca sujeto.
   const pre = (verbIdx >= 0 ? deduped.filter(h => h.idx <= verbIdx) : deduped)
-    .filter(h => !/(^|\s)a(l)?\s*$/i.test(narratorPart.slice(0, h.idx)))
+    // Objeto directo con a personal + artículo/posesivo ("vio a las mujeres",
+    // "dijo a su siervo"): tampoco es sujeto (GEN 33:5 habla Esaú, no Mujeres).
+    .filter(h => !/(\s|^)a(l)?(\s+(el|la|los|las|un|una|mi|tu|su|este|esta|estos|estas))?\s*$/i.test(narratorPart.slice(0, h.idx)))
     // Vocativo ("oh Jehová") y complementos ("en Jehová he confiado", "hablaron
     // contra Dios", "el nombre de Jehová") no son sujeto (PSA 11:1, 31:14, 78:19).
     .filter(h => !/(^|\s)(oh|en|contra|nombre de)\s*$/i.test(narratorPart.slice(0, h.idx)));

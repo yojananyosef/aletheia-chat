@@ -91,6 +91,21 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(resp.speaker, 'Narrador');
   });
 
+  it('GEN patriarcas: Faraón GEN 12:18, Abraham GEN 22:8, Lamec GEN 4:23', () => {
+    const g12 = run('genesis', 'GEN', 12);
+    const faraon = g12.messages.find(m => m.verse === 18 && /qué es esto/i.test(m.text));
+    assert.ok(faraon, 'burbuja de Faraón GEN 12:18 existe');
+    assert.equal(faraon.speaker, 'Faraón');
+    const g22 = run('genesis', 'GEN', 22);
+    const abraham = g22.messages.find(m => m.verse === 8 && /proveer/.test(m.text));
+    assert.ok(abraham, 'burbuja de Abraham GEN 22:8 existe');
+    assert.equal(abraham.speaker, 'Abraham');
+    const g4 = run('genesis', 'GEN', 4);
+    const lamec = g4.messages.find(m => m.verse === 23 && /oíd mi voz/i.test(m.text));
+    assert.ok(lamec, 'burbuja de Lamec GEN 4:23 existe');
+    assert.equal(lamec.speaker, 'Lamec');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));
