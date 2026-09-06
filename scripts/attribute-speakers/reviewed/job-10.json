@@ -1,5 +1,47 @@
 [
   {
+    "verse": "1",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
+    "verse": "2",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
+    "verse": "3",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
+    "verse": "4",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
+    "verse": "5",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
+    "verse": "6",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
+    "verse": "7",
+    "subId": "",
+    "speaker": "Job",
+    "confidence": 0.85
+  },
+  {
     "verse": "8",
     "subId": "",
     "speaker": "Job",
@@ -36,10 +78,10 @@
     "confidence": 0.85
   },
   {
-    "verse": 14,
-    "subId": "b",
+    "verse": "14",
+    "subId": "",
     "speaker": "Job",
-    "confidence": 0.8
+    "confidence": 0.85
   },
   {
     "verse": "15",
@@ -54,7 +96,7 @@
     "confidence": 0.85
   },
   {
-    "verse": 17,
+    "verse": "17",
     "subId": "",
     "speaker": "Job",
     "confidence": 0.85
@@ -84,79 +126,7 @@
     "confidence": 0.85
   },
   {
-    "verse": 22,
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "23",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "24",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "25",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "26",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "27",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": 28,
-    "subId": "b",
-    "speaker": "Job",
-    "confidence": 0.8
-  },
-  {
-    "verse": "29",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "30",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "31",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "32",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "33",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "34",
+    "verse": "22",
     "subId": "",
     "speaker": "Job",
     "confidence": 0.85

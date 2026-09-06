@@ -1,13 +1,103 @@
 [
   {
+    "verse": "7",
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
     "verse": 7,
     "subId": "b",
     "speaker": "Eliú",
     "confidence": 0.85
   },
   {
+    "verse": "8",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "9",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
     "verse": 10,
     "subId": "b",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "11",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "12",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "13",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "14",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "15",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "16",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "17",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "18",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "19",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "20",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "21",
+    "subId": "",
+    "speaker": "Eliú",
+    "confidence": 0.85
+  },
+  {
+    "verse": "22",
+    "subId": "",
     "speaker": "Eliú",
     "confidence": 0.85
   }

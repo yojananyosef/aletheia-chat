@@ -6,6 +6,30 @@
     "confidence": 0.85
   },
   {
+    "verse": "8",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "9",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "10",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "11",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
     "verse": 12,
     "subId": "",
     "speaker": "Elifaz",
@@ -18,8 +42,98 @@
     "confidence": 0.85
   },
   {
+    "verse": "14",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "15",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "16",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
     "verse": 17,
     "subId": "b",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "18",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "20",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "21",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "22",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "23",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "24",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "25",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "26",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "27",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "28",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "29",
+    "subId": "",
+    "speaker": "Elifaz",
+    "confidence": 0.85
+  },
+  {
+    "verse": "30",
+    "subId": "",
     "speaker": "Elifaz",
     "confidence": 0.85
   }

@@ -1,14 +1,20 @@
 [
   {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Satán",
+    "confidence": 0.9
+  },
+  {
     "verse": 10,
     "subId": "b",
     "speaker": "Job",
     "confidence": 0.9
   },
   {
-    "verse": 5,
+    "verse": "11",
     "subId": "",
-    "speaker": "Satán",
-    "confidence": 0.9
+    "speaker": "Narrador",
+    "confidence": 0.85
   }
 ]

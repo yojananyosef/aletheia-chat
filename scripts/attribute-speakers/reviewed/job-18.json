@@ -6,24 +6,6 @@
     "confidence": 0.85
   },
   {
-    "verse": 3,
-    "subId": "",
-    "speaker": "Bildad",
-    "confidence": 0.85
-  },
-  {
-    "verse": "4",
-    "subId": "",
-    "speaker": "Bildad",
-    "confidence": 0.85
-  },
-  {
-    "verse": "5",
-    "subId": "",
-    "speaker": "Bildad",
-    "confidence": 0.85
-  },
-  {
     "verse": "6",
     "subId": "",
     "speaker": "Bildad",
@@ -96,10 +78,10 @@
     "confidence": 0.85
   },
   {
-    "verse": 18,
-    "subId": "b",
+    "verse": "18",
+    "subId": "",
     "speaker": "Bildad",
-    "confidence": 0.8
+    "confidence": 0.85
   },
   {
     "verse": "19",
@@ -115,12 +97,6 @@
   },
   {
     "verse": "21",
-    "subId": "",
-    "speaker": "Bildad",
-    "confidence": 0.85
-  },
-  {
-    "verse": "22",
     "subId": "",
     "speaker": "Bildad",
     "confidence": 0.85

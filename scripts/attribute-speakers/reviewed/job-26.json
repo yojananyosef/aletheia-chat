@@ -1,29 +1,5 @@
 [
   {
-    "verse": "1",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "2",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "3",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "4",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
     "verse": "5",
     "subId": "",
     "speaker": "Job",
@@ -78,19 +54,7 @@
     "confidence": 0.85
   },
   {
-    "verse": 14,
-    "subId": "b",
-    "speaker": "Job",
-    "confidence": 0.9
-  },
-  {
-    "verse": "15",
-    "subId": "",
-    "speaker": "Job",
-    "confidence": 0.85
-  },
-  {
-    "verse": "16",
+    "verse": "14",
     "subId": "",
     "speaker": "Job",
     "confidence": 0.85

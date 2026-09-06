@@ -1,5 +1,11 @@
 [
   {
+    "verse": "2",
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
     "verse": 4,
     "subId": "d",
     "speaker": "Moisés",
@@ -18,18 +24,6 @@
     "confidence": 0.95
   },
   {
-    "verse": 12,
-    "subId": "b",
-    "speaker": "Dios",
-    "confidence": 0.9
-  },
-  {
-    "verse": 14,
-    "subId": "d",
-    "speaker": "Dios",
-    "confidence": 0.9
-  },
-  {
     "verse": 8,
     "subId": "",
     "speaker": "Dios",
@@ -46,6 +40,18 @@
     "subId": "",
     "speaker": "Dios",
     "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "d",
+    "speaker": "Dios",
+    "confidence": 0.9
   },
   {
     "verse": 16,
