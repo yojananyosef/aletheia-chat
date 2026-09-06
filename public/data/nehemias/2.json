@@ -1,0 +1,187 @@
+{
+    "book": "Nehemías",
+    "chapter": 2,
+    "title": "Nehemías 2",
+    "messages": [
+        {
+            "id": "neh2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y sucedió en el mes de Nisán, en el año veinte del rey Artajerjes, que estando ya el vino delante de él, tomé el vino, y lo di al rey. Y como yo no había estado antes triste en su presencia,"
+        },
+        {
+            "id": "neh2_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Me dijo el rey:"
+        },
+        {
+            "id": "neh2_2b",
+            "speaker": "Artajerjes",
+            "verse": 2,
+            "text": "¿Por qué está triste tu rostro, pues no estás enfermo? No es esto sino quebranto de corazón. Entonces temí en gran manera."
+        },
+        {
+            "id": "neh2_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dije al rey:"
+        },
+        {
+            "id": "neh2_3b",
+            "speaker": "Nehemías",
+            "verse": 3,
+            "text": "Viva el rey para siempre. ¿Cómo no ha de estar triste mi rostro, cuando la ciudad, casa de los sepulcros de mis padres, está desierta, y sus puertas consumidas por el fuego?"
+        },
+        {
+            "id": "neh2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y me dijo el rey:"
+        },
+        {
+            "id": "neh2_4b",
+            "speaker": "Artajerjes",
+            "verse": 4,
+            "text": "¿Qué cosa pides? Entonces oré al Dios de los cielos,"
+        },
+        {
+            "id": "neh2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y dije al rey:"
+        },
+        {
+            "id": "neh2_5b",
+            "speaker": "Nehemías",
+            "verse": 5,
+            "text": "Si le place al rey, y si tu siervo ha hallado gracia delante de ti, envíame a Judá, a la ciudad de los sepulcros de mis padres, para que yo la reedifique."
+        },
+        {
+            "id": "neh2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces el rey me dijo (y la reina estaba sentada junto a él):"
+        },
+        {
+            "id": "neh2_6b",
+            "speaker": "Artajerjes",
+            "verse": 6,
+            "text": "¿Cuánto durará tu viaje, y cuándo volverás? Y agradó al rey enviarme, y le señalé tiempo."
+        },
+        {
+            "id": "neh2_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Además dije al rey:"
+        },
+        {
+            "id": "neh2_7b",
+            "speaker": "Nehemías",
+            "verse": 7,
+            "text": "Si place al rey, que se me den cartas para los gobernadores del otro lado del río, para que me franqueen el paso hasta que llegue a Judá;"
+        },
+        {
+            "id": "neh2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "y carta para Asaf, guarda del bosque del rey, a fin que me dé madera para enmaderar los portales del palacio de la casa, y para el muro de la ciudad, y para la casa donde yo estaré. Y el rey me lo otorgó, según la bondadosa mano de mi Dios sobre mí."
+        },
+        {
+            "id": "neh2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vine luego a los gobernadores del otro lado del río, y les di las cartas del rey. Y el rey envió conmigo capitanes del ejército y gente de a caballo."
+        },
+        {
+            "id": "neh2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y oyéndolo Sanbalat horonita, y Tobías, el siervo amonita, les desagradó en extremo que viniese alguno para procurar el bien de los hijos de Israel."
+        },
+        {
+            "id": "neh2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Llegué, pues, a Jerusalén, y después de estar allí tres días,"
+        },
+        {
+            "id": "neh2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "me levanté de noche, yo y unos cuantos varones conmigo, y no declaré a hombre alguno lo que Dios había puesto en mi corazón que hiciese en Jerusalén; ni había bestia conmigo, excepto la cabalgadura en que cabalgaba."
+        },
+        {
+            "id": "neh2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y salí de noche por la puerta del Valle hacia la fuente del Dragón y a la puerta del Muladar; y observé los muros de Jerusalén que estaban derribados, y sus puertas estaban consumidas por el fuego."
+        },
+        {
+            "id": "neh2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pasé luego a la puerta de la Fuente, y al estanque del Rey; pero no había lugar por donde pasase la cabalgadura en que iba."
+        },
+        {
+            "id": "neh2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y subí de noche por el torrente, y observé el muro, y regresando entré por la puerta del Valle, y regresé."
+        },
+        {
+            "id": "neh2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y no sabían los magistrados a dónde yo había ido, ni qué había hecho; ni hasta entonces lo había yo declarado a los judíos y sacerdotes, ni a los nobles y magistrados, ni a los demás que hacían la obra."
+        },
+        {
+            "id": "neh2_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Les dije, pues:"
+        },
+        {
+            "id": "neh2_17b",
+            "speaker": "Nehemías",
+            "verse": 17,
+            "text": "Vosotros veis el mal en que estamos, que Jerusalén está desierta, y sus puertas consumidas por el fuego; venid, y edifiquemos el muro de Jerusalén, y no seamos más oprobio."
+        },
+        {
+            "id": "neh2_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces les declaré cómo la mano de mi Dios era buena sobre mí, y asimismo las palabras del rey, que me había dicho. Y dijeron:"
+        },
+        {
+            "id": "neh2_18b",
+            "speaker": "Pueblo",
+            "verse": 18,
+            "text": "Levantémonos y edifiquemos. Así esforzaron sus manos para bien."
+        },
+        {
+            "id": "neh2_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas habiéndolo oído Sanbalat horonita, y Tobías el siervo amonita, y Gesem el árabe, hicieron escarnio de nosotros, y nos despreciaron, diciendo:"
+        },
+        {
+            "id": "neh2_19b",
+            "speaker": "Sanbalat",
+            "verse": 19,
+            "text": "¿Qué es esto que hacéis vosotros? ¿Os rebeláis contra el rey?"
+        },
+        {
+            "id": "neh2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces les respondí, y les dije:"
+        },
+        {
+            "id": "neh2_20b",
+            "speaker": "Nehemías",
+            "verse": 20,
+            "text": "El Dios del cielo, Él nos prosperará, y nosotros sus siervos nos levantaremos y edificaremos; porque vosotros no tenéis parte ni derecho, ni memoria en Jerusalén."
+        }
+    ]
+}

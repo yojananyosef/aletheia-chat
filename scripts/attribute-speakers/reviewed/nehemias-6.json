@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Sanbalat",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Nehemías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Sanbalat",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Nehemías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Adversarios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "c",
+    "speaker": "Nehemías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Semaías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Nehemías",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Nehemías",
+    "confidence": 0.85
+  }
+]
