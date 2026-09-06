@@ -173,7 +173,7 @@
     },
     {
       "id": "criado",
-      "pattern": "\\b(siervo|mayordomo|criados?)\\b",
+      "pattern": "\\b(siervos?|mayordomo|criados?)\\b",
       "flags": "i",
       "speaker": "Criado",
       "confidence": 0.8
@@ -737,6 +737,76 @@
       "flags": "i",
       "speaker": "Familiares",
       "confidence": 0.8
+    },
+    {
+      "id": "samaritana",
+      "pattern": "\\bsamaritana\\b",
+      "flags": "i",
+      "speaker": "Samaritana",
+      "confidence": 0.9
+    },
+    {
+      "id": "judios",
+      "pattern": "\\bjud[íi]os?\\b",
+      "flags": "i",
+      "speaker": "Judíos",
+      "confidence": 0.9
+    },
+    {
+      "id": "natanael",
+      "pattern": "\\bnatanael\\b",
+      "flags": "i",
+      "speaker": "Natanael",
+      "confidence": 0.9
+    },
+    {
+      "id": "felipe",
+      "pattern": "\\bfelipe\\b",
+      "flags": "i",
+      "speaker": "Felipe",
+      "confidence": 0.9
+    },
+    {
+      "id": "andres",
+      "pattern": "\\bandr[ée]s\\b",
+      "flags": "i",
+      "speaker": "Andrés",
+      "confidence": 0.9
+    },
+    {
+      "id": "tomas",
+      "pattern": "\\btom[áa]s\\b",
+      "flags": "i",
+      "speaker": "Tomás",
+      "confidence": 0.9
+    },
+    {
+      "id": "nicodemo",
+      "pattern": "\\bnicodemo\\b",
+      "flags": "i",
+      "speaker": "Nicodemo",
+      "confidence": 0.9
+    },
+    {
+      "id": "caifas",
+      "pattern": "\\bcaif[áa]s\\b",
+      "flags": "i",
+      "speaker": "Caifás",
+      "confidence": 0.9
+    },
+    {
+      "id": "alguaciles",
+      "pattern": "\\b(alguacil(es)?|ministros?)\\b",
+      "flags": "i",
+      "speaker": "Alguaciles",
+      "confidence": 0.85
+    },
+    {
+      "id": "griegos",
+      "pattern": "\\bgriegos?\\b",
+      "flags": "i",
+      "speaker": "Griegos",
+      "confidence": 0.85
     }
   ],
   "aliases": {

@@ -144,6 +144,16 @@ describe('attribute-speakers (heurística)', () => {
     assert.equal(speakerOf(l23.messages, 39, 'b'), 'Ladrones');
   });
 
+  it('JHN voces: Fariseos 9:40, Tomás 11:16, Marta 11:39, Criado 18:26', () => {
+    const j9 = run('juan', 'JHN', 9);
+    assert.equal(speakerOf(j9.messages, 40, 'b'), 'Fariseos');
+    const j11 = run('juan', 'JHN', 11);
+    assert.equal(speakerOf(j11.messages, 16, 'b'), 'Tomás');
+    assert.equal(speakerOf(j11.messages, 39, 'd'), 'Marta');
+    const j18 = run('juan', 'JHN', 18);
+    assert.equal(speakerOf(j18.messages, 26, 'b'), 'Criado');
+  });
+
   it('canon extendido: JOB 1 atribuye a Satán y JONÁS 1 a Marineros', () => {
     const job = run('job', 'JOB', 1);
     const satan = job.messages.find(m => m.verse === 7 && /rodear la tierra/.test(m.text));
