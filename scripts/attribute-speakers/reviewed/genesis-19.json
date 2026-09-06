@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Lot",
+    "confidence": 0.9
+  },
+  {
+    "verse": 2,
+    "subId": "d",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Lot",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Lot",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Lot",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Lot",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Lot",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Hijas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Hijas",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Hijas",
+    "confidence": 0.85
+  }
+]

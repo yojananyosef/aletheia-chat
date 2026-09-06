@@ -1,0 +1,86 @@
+[
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Mensajero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "d",
+    "speaker": "Tamar",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "d",
+    "speaker": "Tamar",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Amigo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 21,
+    "subId": "d",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Amigo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Mensajero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Tamar",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Parteras",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Parteras",
+    "confidence": 0.9
+  }
+]

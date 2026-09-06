@@ -1,0 +1,62 @@
+[
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Pastores",
+    "confidence": 0.8
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Abimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Abimelec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Pastores",
+    "confidence": 0.85
+  }
+]

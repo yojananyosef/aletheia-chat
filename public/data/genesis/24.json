@@ -1,0 +1,661 @@
+{
+    "book": "Génesis",
+    "chapter": 24,
+    "title": "Génesis 24",
+    "messages": [
+        {
+            "id": "g24_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Abraham era viejo y bien entrado en días; y Jehová había bendecido a Abraham en todo."
+        },
+        {
+            "id": "g24_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo Abraham a un criado suyo, el más viejo de su casa, que era el que gobernaba en todo lo que tenía:"
+        },
+        {
+            "id": "g24_2b",
+            "speaker": "Abraham",
+            "verse": 2,
+            "text": "Pon ahora tu mano debajo de mi muslo,"
+        },
+        {
+            "id": "g24_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y te haré jurar por Jehová, Dios de los cielos y Dios de la tierra, que no has de tomar esposa para mi hijo de las hijas de los cananeos, entre los cuales yo habito;"
+        },
+        {
+            "id": "g24_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Sino que irás a mi tierra y a mi parentela, y tomarás esposa para mi hijo Isaac."
+        },
+        {
+            "id": "g24_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el criado le respondió:"
+        },
+        {
+            "id": "g24_5b",
+            "speaker": "Criado",
+            "verse": 5,
+            "text": "Quizá la mujer no querrá venir en pos de mí a esta tierra: ¿volveré, pues, tu hijo a la tierra de donde saliste?"
+        },
+        {
+            "id": "g24_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Abraham le dijo:"
+        },
+        {
+            "id": "g24_6b",
+            "speaker": "Abraham",
+            "verse": 6,
+            "text": "Guárdate que no vuelvas a mi hijo allá."
+        },
+        {
+            "id": "g24_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Jehová, Dios de los cielos, que me tomó de la casa de mi padre y de la tierra de mi parentela, y me habló y me juró, diciendo:"
+        },
+        {
+            "id": "g24_7b",
+            "speaker": "Abraham",
+            "verse": 7,
+            "text": "A tu simiente daré esta tierra; Él enviará su ángel delante de ti, y tú tomarás de allá esposa para mi hijo."
+        },
+        {
+            "id": "g24_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y si la mujer no quisiere venir en pos de ti, serás libre de este mi juramento; solamente que no vuelvas allá a mi hijo."
+        },
+        {
+            "id": "g24_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces el criado puso su mano debajo del muslo de Abraham su señor, y le juró sobre este asunto."
+        },
+        {
+            "id": "g24_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el criado tomó diez camellos de los camellos de su señor, y se fue, pues tenía a su disposición todos los bienes de su señor: y puesto en camino, llegó a Mesopotamia, a la ciudad de Nacor."
+        },
+        {
+            "id": "g24_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "E hizo arrodillar los camellos fuera de la ciudad, junto a un pozo de agua, a la hora de la tarde, a la hora en que salen las doncellas por agua."
+        },
+        {
+            "id": "g24_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g24_12b",
+            "speaker": "Criado",
+            "verse": 12,
+            "text": "Oh Jehová, Dios de mi señor Abraham, dame, te ruego, el tener hoy buen encuentro, y haz misericordia con mi señor Abraham."
+        },
+        {
+            "id": "g24_13",
+            "speaker": "Criado",
+            "verse": 13,
+            "text": "He aquí yo estoy junto a la fuente de agua, y las hijas de los varones de esta ciudad salen por agua:"
+        },
+        {
+            "id": "g24_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Sea, pues, que la doncella a quien yo dijere:"
+        },
+        {
+            "id": "g24_14b",
+            "speaker": "Criado",
+            "verse": 14,
+            "text": "Baja tu cántaro, te ruego, para que yo beba; y ella respondiere: Bebe, y también daré de beber a tus camellos; que sea ésta la que tú has destinado para tu siervo Isaac; y en esto conoceré que habrás hecho misericordia con mi señor."
+        },
+        {
+            "id": "g24_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y aconteció que antes que él acabase de hablar, he aquí Rebeca, que había nacido a Betuel, hijo de Milca, esposa de Nacor hermano de Abraham, la cual salía con su cántaro sobre su hombro."
+        },
+        {
+            "id": "g24_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y la doncella era de muy hermoso aspecto, virgen, a la que varón no había conocido; la cual descendió a la fuente, y llenó su cántaro, y se volvía."
+        },
+        {
+            "id": "g24_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces el criado corrió hacia ella, y dijo:"
+        },
+        {
+            "id": "g24_17b",
+            "speaker": "Criado",
+            "verse": 17,
+            "text": "Te ruego que me des a beber un poco de agua de tu cántaro."
+        },
+        {
+            "id": "g24_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "g24_18b",
+            "speaker": "Rebeca",
+            "verse": 18,
+            "text": "Bebe, señor mío; y se dio prisa a bajar su cántaro sobre su mano, y le dio a beber."
+        },
+        {
+            "id": "g24_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y cuando acabó de darle a beber, dijo:"
+        },
+        {
+            "id": "g24_19b",
+            "speaker": "Rebeca",
+            "verse": 19,
+            "text": "También para tus camellos sacaré agua, hasta que acaben de beber."
+        },
+        {
+            "id": "g24_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y se dio prisa, y vació su cántaro en la pila, y corrió otra vez al pozo para sacar agua, y sacó para todos sus camellos."
+        },
+        {
+            "id": "g24_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y el hombre estaba maravillado de ella, callando, para saber si Jehová había prosperado o no su viaje."
+        },
+        {
+            "id": "g24_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y sucedió que cuando los camellos acabaron de beber, el hombre le presentó un pendiente de oro que pesaba medio siclo, y dos brazaletes para sus manos que pesaban diez siclos de oro,"
+        },
+        {
+            "id": "g24_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g24_23b",
+            "speaker": "Criado",
+            "verse": 23,
+            "text": "¿De quién eres hija? Te ruego me digas, ¿hay lugar en casa de tu padre donde posemos?"
+        },
+        {
+            "id": "g24_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "g24_24b",
+            "speaker": "Rebeca",
+            "verse": 24,
+            "text": "Soy hija de Betuel, hijo de Milca, el cual ella dio a luz a Nacor."
+        },
+        {
+            "id": "g24_25",
+            "speaker": "Rebeca",
+            "verse": 25,
+            "text": "Y añadió: También hay en nuestra casa paja y mucho forraje, y lugar para posar."
+        },
+        {
+            "id": "g24_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "El hombre entonces se inclinó, y adoró a Jehová."
+        },
+        {
+            "id": "g24_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g24_27b",
+            "speaker": "Criado",
+            "verse": 27,
+            "text": "Bendito sea Jehová, Dios de mi amo Abraham, que no apartó su misericordia y su verdad de mi amo, guiándome Jehová en el camino a casa de los hermanos de mi amo."
+        },
+        {
+            "id": "g24_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y la doncella corrió, e hizo saber en casa de su madre estas cosas."
+        },
+        {
+            "id": "g24_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Rebeca tenía un hermano que se llamaba Labán. Y Labán corrió afuera hacia el hombre, a la Fuente."
+        },
+        {
+            "id": "g24_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y sucedió que cuando él vio el pendiente y los brazaletes en las manos de su hermana, y cuando oyó las palabras de su hermana Rebeca, que decía:"
+        },
+        {
+            "id": "g24_30b",
+            "speaker": "Rebeca",
+            "verse": 30,
+            "text": "Así me habló aquel hombre."
+        },
+        {
+            "id": "g24_30c",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "vino a él; y he aquí que él estaba con los camellos junto a la fuente."
+        },
+        {
+            "id": "g24_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "g24_31b",
+            "speaker": "Labán",
+            "verse": 31,
+            "text": "Ven, bendito de Jehová; ¿por qué estás fuera? yo he limpiado la casa, y el lugar para los camellos."
+        },
+        {
+            "id": "g24_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Entonces el hombre vino a casa, y Labán desató los camellos; y les dio paja y forraje, y agua para lavar los pies de él, y los pies de los hombres que con él venían."
+        },
+        {
+            "id": "g24_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y le pusieron delante qué comer; mas él dijo:"
+        },
+        {
+            "id": "g24_33b",
+            "speaker": "Criado",
+            "verse": 33,
+            "text": "No comeré hasta que haya dicho mi mensaje."
+        },
+        {
+            "id": "g24_33c",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "g24_33d",
+            "speaker": "Labán",
+            "verse": 33,
+            "text": "Habla."
+        },
+        {
+            "id": "g24_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces dijo:"
+        },
+        {
+            "id": "g24_34b",
+            "speaker": "Criado",
+            "verse": 34,
+            "text": "Yo soy criado de Abraham;"
+        },
+        {
+            "id": "g24_35",
+            "speaker": "Criado",
+            "verse": 35,
+            "text": "y Jehová ha bendecido mucho a mi amo, y él se ha engrandecido: y le ha dado ovejas y vacas, plata y oro, siervos y siervas, camellos y asnos."
+        },
+        {
+            "id": "g24_36",
+            "speaker": "Criado",
+            "verse": 36,
+            "text": "Y Sara, la esposa de mi amo, en su vejez dio a luz un hijo a mi señor, a quien le ha dado todo cuanto tiene."
+        },
+        {
+            "id": "g24_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y mi amo me hizo jurar, diciendo:"
+        },
+        {
+            "id": "g24_37b",
+            "speaker": "Criado",
+            "verse": 37,
+            "text": "No tomarás esposa para mi hijo de las hijas de los cananeos, en cuya tierra habito;"
+        },
+        {
+            "id": "g24_38",
+            "speaker": "Criado",
+            "verse": 38,
+            "text": "sino que irás a la casa de mi padre, y a mi parentela, y tomarás esposa para mi hijo."
+        },
+        {
+            "id": "g24_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y yo dije a mi señor:"
+        },
+        {
+            "id": "g24_39b",
+            "speaker": "Criado",
+            "verse": 39,
+            "text": "Quizás la mujer no querrá seguirme."
+        },
+        {
+            "id": "g24_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Entonces él me respondió:"
+        },
+        {
+            "id": "g24_40b",
+            "speaker": "Criado",
+            "verse": 40,
+            "text": "Jehová, en cuya presencia he andado, enviará su ángel contigo, y prosperará tu camino; y tomarás esposa para mi hijo de mi linaje y de la casa de mi padre."
+        },
+        {
+            "id": "g24_41",
+            "speaker": "Criado",
+            "verse": 41,
+            "text": "Entonces serás libre de mi juramento, cuando hubieres llegado a mi linaje; y si no te la dieren, serás libre de mi juramento."
+        },
+        {
+            "id": "g24_42a",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Llegué, pues, hoy a la fuente, y dije:"
+        },
+        {
+            "id": "g24_42b",
+            "speaker": "Criado",
+            "verse": 42,
+            "text": "Jehová, Dios de mi señor Abraham, si tú prosperas ahora mi camino por el cual ando;"
+        },
+        {
+            "id": "g24_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "He aquí yo estoy junto a la fuente de agua; sea, pues, que la doncella que saliere a sacar agua, a la cual dijere:"
+        },
+        {
+            "id": "g24_43b",
+            "speaker": "Criado",
+            "verse": 43,
+            "text": "Dame a beber, te ruego, un poco de agua de tu cántaro;"
+        },
+        {
+            "id": "g24_44a",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y ella me respondiere:"
+        },
+        {
+            "id": "g24_44b",
+            "speaker": "Criado",
+            "verse": 44,
+            "text": "Bebe tú, y también para tus camellos sacaré agua; sea ésta la mujer que destinó Jehová para el hijo de mi señor."
+        },
+        {
+            "id": "g24_45a",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y antes que acabase de hablar en mi corazón, he aquí Rebeca, que salía con su cántaro sobre su hombro; y descendió a la fuente, y sacó agua; y le dije:"
+        },
+        {
+            "id": "g24_45b",
+            "speaker": "Criado",
+            "verse": 45,
+            "text": "Te ruego que me des a beber."
+        },
+        {
+            "id": "g24_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y prestamente bajó su cántaro de sobre su hombro, y dijo:"
+        },
+        {
+            "id": "g24_46b",
+            "speaker": "Criado",
+            "verse": 46,
+            "text": "Bebe, y también a tus camellos daré a beber. Y bebí; y también dio de beber a mis camellos."
+        },
+        {
+            "id": "g24_47a",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Entonces le pregunté, y dije:"
+        },
+        {
+            "id": "g24_47b",
+            "speaker": "Criado",
+            "verse": 47,
+            "text": "¿De quién eres hija?"
+        },
+        {
+            "id": "g24_47c",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "g24_47d",
+            "speaker": "Criado",
+            "verse": 47,
+            "text": "Hija de Betuel, hijo de Nacor, que le dio a luz Milca. Entonces le puse un pendiente sobre su nariz, y brazaletes sobre sus manos:"
+        },
+        {
+            "id": "g24_48",
+            "speaker": "Criado",
+            "verse": 48,
+            "text": "Y me incliné, y adoré a Jehová, y bendije a Jehová, Dios de mi señor Abraham, que me había guiado por camino de verdad para tomar la hija del hermano de mi señor para su hijo."
+        },
+        {
+            "id": "g24_49",
+            "speaker": "Criado",
+            "verse": 49,
+            "text": "Ahora, pues, si vosotros hacéis misericordia y verdad con mi señor, declarádmelo; y si no, declarádmelo; y me iré a la derecha o a la izquierda."
+        },
+        {
+            "id": "g24_50a",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Entonces Labán y Betuel respondieron y dijeron:"
+        },
+        {
+            "id": "g24_50b",
+            "speaker": "Labán",
+            "verse": 50,
+            "text": "De Jehová ha salido esto; no podemos hablarte malo ni bueno."
+        },
+        {
+            "id": "g24_51",
+            "speaker": "Labán",
+            "verse": 51,
+            "text": "He ahí Rebeca delante de ti; tómala y vete, y sea esposa del hijo de tu señor, como lo ha dicho Jehová."
+        },
+        {
+            "id": "g24_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y aconteció que cuando el criado de Abraham oyó sus palabras, se inclinó a tierra, y adoró a Jehová."
+        },
+        {
+            "id": "g24_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Y sacó el criado vasos de plata y vasos de oro y vestidos, y dio a Rebeca; también dio cosas preciosas a su hermano y a su madre."
+        },
+        {
+            "id": "g24_54a",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y comieron y bebieron él y los varones que venían con él, y durmieron; y levantándose de mañana, dijo:"
+        },
+        {
+            "id": "g24_54b",
+            "speaker": "Criado",
+            "verse": 54,
+            "text": "Enviadme a mi señor."
+        },
+        {
+            "id": "g24_55a",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Entonces respondió su hermano y su madre:"
+        },
+        {
+            "id": "g24_55b",
+            "speaker": "Labán",
+            "verse": 55,
+            "text": "Espere la doncella con nosotros a lo menos diez días, y después irá."
+        },
+        {
+            "id": "g24_56a",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "g24_56b",
+            "speaker": "Criado",
+            "verse": 56,
+            "text": "No me detengáis, pues que Jehová ha prosperado mi camino; despachadme para que me vaya a mi señor."
+        },
+        {
+            "id": "g24_57a",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Ellos respondieron entonces:"
+        },
+        {
+            "id": "g24_57b",
+            "speaker": "Labán",
+            "verse": 57,
+            "text": "Llamemos a la doncella y preguntémosle."
+        },
+        {
+            "id": "g24_58a",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y llamaron a Rebeca, y le dijeron:"
+        },
+        {
+            "id": "g24_58b",
+            "speaker": "Labán",
+            "verse": 58,
+            "text": "¿Irás tú con este varón?"
+        },
+        {
+            "id": "g24_58c",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "g24_58d",
+            "speaker": "Rebeca",
+            "verse": 58,
+            "text": "Sí, iré."
+        },
+        {
+            "id": "g24_59",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Entonces dejaron ir a Rebeca su hermana, y a su nodriza, y al criado de Abraham y a sus hombres."
+        },
+        {
+            "id": "g24_60a",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Y bendijeron a Rebeca, y le dijeron:"
+        },
+        {
+            "id": "g24_60b",
+            "speaker": "Labán",
+            "verse": 60,
+            "text": "Nuestra hermana eres; sé madre de millares de millares, y tu generación posea la puerta de sus enemigos."
+        },
+        {
+            "id": "g24_61",
+            "speaker": "Narrador",
+            "verse": 61,
+            "text": "Se levantó entonces Rebeca y sus mozas, y subieron sobre los camellos, y siguieron al hombre; y el criado tomó a Rebeca, y se fue."
+        },
+        {
+            "id": "g24_62",
+            "speaker": "Narrador",
+            "verse": 62,
+            "text": "Y venía Isaac del Pozo del Viviente que me ve; porque él habitaba en la tierra del sur."
+        },
+        {
+            "id": "g24_63",
+            "speaker": "Narrador",
+            "verse": 63,
+            "text": "Y había salido Isaac a orar al campo, a la hora de la tarde; y alzando sus ojos miró, y he aquí los camellos que venían."
+        },
+        {
+            "id": "g24_64",
+            "speaker": "Narrador",
+            "verse": 64,
+            "text": "Rebeca también alzó sus ojos, y vio a Isaac, y descendió del camello;"
+        },
+        {
+            "id": "g24_65a",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Porque había preguntado al criado:"
+        },
+        {
+            "id": "g24_65b",
+            "speaker": "Rebeca",
+            "verse": 65,
+            "text": "¿Quién es este varón que viene por el campo hacia nosotros?"
+        },
+        {
+            "id": "g24_65c",
+            "speaker": "Narrador",
+            "verse": 65,
+            "text": "Y el siervo había respondido:"
+        },
+        {
+            "id": "g24_65d",
+            "speaker": "Criado",
+            "verse": 65,
+            "text": "Éste es mi señor. Ella entonces tomó el velo, y se cubrió."
+        },
+        {
+            "id": "g24_66",
+            "speaker": "Narrador",
+            "verse": 66,
+            "text": "Entonces el criado contó a Isaac todo lo que había hecho."
+        },
+        {
+            "id": "g24_67",
+            "speaker": "Narrador",
+            "verse": 67,
+            "text": "Y la introdujo Isaac a la tienda de su madre Sara, y tomó a Rebeca por esposa; y la amó. Y se consoló Isaac después de la muerte de su madre."
+        }
+    ]
+}

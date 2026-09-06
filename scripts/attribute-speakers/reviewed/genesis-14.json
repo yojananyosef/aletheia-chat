@@ -1,0 +1,32 @@
+[
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Melquisedec",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Melquisedec",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Rey de Sodoma",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  }
+]

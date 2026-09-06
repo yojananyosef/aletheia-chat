@@ -1,0 +1,163 @@
+{
+    "book": "Génesis",
+    "chapter": 16,
+    "title": "Génesis 16",
+    "messages": [
+        {
+            "id": "g16_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Sarai, esposa de Abram no le daba hijos; y ella tenía una sierva egipcia, que se llamaba Agar."
+        },
+        {
+            "id": "g16_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Dijo, pues, Sarai a Abram:"
+        },
+        {
+            "id": "g16_2b",
+            "speaker": "Sara",
+            "verse": 2,
+            "text": "Ya ves que Jehová me ha hecho estéril; te ruego que entres a mi sierva; quizá tendré hijos de ella. Y atendió Abram al dicho de Sarai."
+        },
+        {
+            "id": "g16_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y Sarai, esposa de Abram, tomó a Agar su sierva egipcia, al cabo de diez años que había habitado Abram en la tierra de Canaán, y la dio a Abram su marido por esposa."
+        },
+        {
+            "id": "g16_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y él cohabitó con Agar, la cual concibió; y cuando vio que había concebido, miraba con desprecio a su señora."
+        },
+        {
+            "id": "g16_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces Sarai dijo a Abram:"
+        },
+        {
+            "id": "g16_5b",
+            "speaker": "Sara",
+            "verse": 5,
+            "text": "Mi afrenta sea sobre ti; yo puse mi sierva en tu seno, y viéndose embarazada, me mira con desprecio; juzgue Jehová entre tú y yo."
+        },
+        {
+            "id": "g16_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y respondió Abram a Sarai:"
+        },
+        {
+            "id": "g16_6b",
+            "speaker": "Abraham",
+            "verse": 6,
+            "text": "He ahí tu sierva en tu mano, haz con ella lo que bien te pareciere. Y como Sarai la afligía, ella huyó de su presencia."
+        },
+        {
+            "id": "g16_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y la halló el Ángel de Jehová junto a una fuente de agua en el desierto, junto a la fuente que está en el camino de Shur."
+        },
+        {
+            "id": "g16_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "g16_8b",
+            "speaker": "Ángel",
+            "verse": 8,
+            "text": "Agar, sierva de Sarai, ¿de dónde vienes tú, y a dónde vas?"
+        },
+        {
+            "id": "g16_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "g16_8d",
+            "speaker": "Agar",
+            "verse": 8,
+            "text": "Huyo de delante de Sarai mi señora."
+        },
+        {
+            "id": "g16_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y le dijo el Ángel de Jehová:"
+        },
+        {
+            "id": "g16_9b",
+            "speaker": "Ángel",
+            "verse": 9,
+            "text": "Vuélvete a tu señora, y ponte sumisa bajo de su mano."
+        },
+        {
+            "id": "g16_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Le dijo también el Ángel de Jehová:"
+        },
+        {
+            "id": "g16_10b",
+            "speaker": "Ángel",
+            "verse": 10,
+            "text": "Multiplicaré tanto tu descendencia, que no será contada a causa de la multitud."
+        },
+        {
+            "id": "g16_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Le dijo también el Ángel de Jehová:"
+        },
+        {
+            "id": "g16_11b",
+            "speaker": "Ángel",
+            "verse": 11,
+            "text": "He aquí que has concebido, y darás a luz un hijo, y llamarás su nombre Ismael, porque Jehová ha oído tu aflicción."
+        },
+        {
+            "id": "g16_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y él será hombre fiero; su mano será contra todos, y las manos de todos contra él, y delante de todos sus hermanos habitará."
+        },
+        {
+            "id": "g16_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces llamó el nombre de Jehová que con ella hablaba:"
+        },
+        {
+            "id": "g16_13b",
+            "speaker": "Agar",
+            "verse": 13,
+            "text": "Tú Dios me ves; porque dijo: ¿No he visto también aquí al que me ve?"
+        },
+        {
+            "id": "g16_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Por lo cual llamó al pozo, Pozo del Viviente que me ve. He aquí está entre Cades y Bered."
+        },
+        {
+            "id": "g16_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Agar dio a luz un hijo a Abram, y llamó Abram el nombre de su hijo que le dio Agar, Ismael."
+        },
+        {
+            "id": "g16_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y era Abram de edad de ochenta y seis años, cuando Agar dio a luz a Ismael, de Abram."
+        }
+    ]
+}

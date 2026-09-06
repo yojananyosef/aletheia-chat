@@ -1,0 +1,38 @@
+[
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "d",
+    "speaker": "Agar",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Agar",
+    "confidence": 0.9
+  }
+]

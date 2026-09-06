@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Sara",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Sara",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Agar",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Abraham",
+    "confidence": 0.9
+  }
+]

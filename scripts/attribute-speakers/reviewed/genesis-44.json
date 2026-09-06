@@ -1,0 +1,116 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "d",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.8
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.8
+  }
+]

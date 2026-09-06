@@ -1,0 +1,157 @@
+{
+    "book": "Génesis",
+    "chapter": 6,
+    "title": "Génesis 6",
+    "messages": [
+        {
+            "id": "g6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que cuando comenzaron los hombres a multiplicarse sobre la faz de la tierra, y les nacieron hijas,"
+        },
+        {
+            "id": "g6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "viendo los hijos de Dios que las hijas de los hombres eran hermosas, se tomaron mujeres, escogiendo entre todas."
+        },
+        {
+            "id": "g6_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo Jehová:"
+        },
+        {
+            "id": "g6_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "No contenderá mi Espíritu con el hombre para siempre, porque ciertamente él es carne; mas serán sus días ciento veinte años."
+        },
+        {
+            "id": "g6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Había gigantes en la tierra en aquellos días, y también después que entraron los hijos de Dios a las hijas de los hombres, y les engendraron hijos: Éstos fueron los valientes que desde la antigüedad fueron varones de renombre."
+        },
+        {
+            "id": "g6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y vio Jehová que la maldad de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal."
+        },
+        {
+            "id": "g6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y se arrepintió Jehová de haber hecho hombre en la tierra, y le pesó en su corazón."
+        },
+        {
+            "id": "g6_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y dijo Jehová:"
+        },
+        {
+            "id": "g6_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Raeré de sobre la faz de la tierra, a los hombres que he creado, desde el hombre hasta la bestia, y hasta el reptil y las aves del cielo, porque me arrepiento de haberlos hecho."
+        },
+        {
+            "id": "g6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Pero Noé halló gracia en los ojos de Jehová."
+        },
+        {
+            "id": "g6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Éstas son las generaciones de Noé: Noé, varón justo, perfecto fue en sus generaciones; con Dios caminó Noé."
+        },
+        {
+            "id": "g6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y engendró Noé tres hijos: a Sem, a Cam y a Jafet."
+        },
+        {
+            "id": "g6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y se corrompió la tierra delante de Dios, y estaba la tierra llena de violencia."
+        },
+        {
+            "id": "g6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y miró Dios la tierra, y he aquí que estaba corrompida; porque toda carne había corrompido su camino sobre la tierra."
+        },
+        {
+            "id": "g6_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dijo Dios a Noé:"
+        },
+        {
+            "id": "g6_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "El fin de toda carne ha venido delante de mí; porque la tierra está llena de violencia a causa de ellos; y he aquí que yo los destruiré con la tierra."
+        },
+        {
+            "id": "g6_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Hazte un arca de madera de gofer; harás compartimentos en el arca y la calafatearás con brea por dentro y por fuera."
+        },
+        {
+            "id": "g6_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y de esta manera la harás: De trescientos codos la longitud del arca, de cincuenta codos su anchura, y de treinta codos su altura."
+        },
+        {
+            "id": "g6_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Una ventana harás al arca, y la acabarás a un codo de elevación por la parte de arriba: y pondrás la puerta del arca a su lado; y le harás piso bajo, segundo y tercero."
+        },
+        {
+            "id": "g6_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Y he aquí que yo traigo un diluvio de aguas sobre la tierra, para destruir toda carne en que haya espíritu de vida debajo del cielo; todo lo que hay en la tierra morirá."
+        },
+        {
+            "id": "g6_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Mas estableceré mi pacto contigo, y entrarás en el arca tú, tus hijos, tu esposa, y las esposas de tus hijos contigo."
+        },
+        {
+            "id": "g6_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y de todo lo que vive, de toda carne, dos de cada especie meterás en el arca, para preservarles la vida contigo; macho y hembra serán."
+        },
+        {
+            "id": "g6_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "De las aves según su especie, y de las bestias según su especie, de todo reptil de la tierra según su especie, dos de cada especie entrarán contigo para preservarles la vida."
+        },
+        {
+            "id": "g6_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Y toma contigo de todo alimento que se come, y almacénalo para ti; y servirá de alimento para ti y para ellos."
+        },
+        {
+            "id": "g6_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y lo hizo así Noé; hizo conforme a todo lo que Dios le mandó."
+        }
+    ]
+}

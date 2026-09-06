@@ -1,0 +1,415 @@
+{
+    "book": "Génesis",
+    "chapter": 30,
+    "title": "Génesis 30",
+    "messages": [
+        {
+            "id": "g30_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y viendo Raquel que no daba hijos a Jacob, tuvo envidia de su hermana, y decía a Jacob:"
+        },
+        {
+            "id": "g30_1b",
+            "speaker": "Raquel",
+            "verse": 1,
+            "text": "Dame hijos, o si no, me muero."
+        },
+        {
+            "id": "g30_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Jacob se enojaba contra Raquel, y decía:"
+        },
+        {
+            "id": "g30_2b",
+            "speaker": "Jacob",
+            "verse": 2,
+            "text": "¿Soy yo en lugar de Dios, que te impidió el fruto de tu vientre?"
+        },
+        {
+            "id": "g30_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y ella dijo:"
+        },
+        {
+            "id": "g30_3b",
+            "speaker": "Raquel",
+            "verse": 3,
+            "text": "He aquí mi sierva Bilha; entra a ella, y dará a luz sobre mis rodillas, y yo también tendré hijos de ella."
+        },
+        {
+            "id": "g30_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Así le dio a Bilha su sierva por esposa; y Jacob entró a ella."
+        },
+        {
+            "id": "g30_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y concibió Bilha, y dio a luz un hijo a Jacob."
+        },
+        {
+            "id": "g30_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y dijo Raquel:"
+        },
+        {
+            "id": "g30_6b",
+            "speaker": "Raquel",
+            "verse": 6,
+            "text": "Me juzgó Dios, y también oyó mi voz, y me dio un hijo. Por tanto llamó su nombre Dan."
+        },
+        {
+            "id": "g30_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y concibió otra vez Bilha, la sierva de Raquel, y dio a luz el hijo segundo a Jacob."
+        },
+        {
+            "id": "g30_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y dijo Raquel:"
+        },
+        {
+            "id": "g30_8b",
+            "speaker": "Raquel",
+            "verse": 8,
+            "text": "Con grandes luchas he contendido con mi hermana, y he vencido. Y llamó su nombre Neftalí."
+        },
+        {
+            "id": "g30_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y viendo Lea que había dejado de dar a luz, tomó a Zilpa su sierva, y la dio a Jacob por esposa."
+        },
+        {
+            "id": "g30_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Zilpa, sierva de Lea, dio a luz a Jacob un hijo."
+        },
+        {
+            "id": "g30_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y dijo Lea:"
+        },
+        {
+            "id": "g30_11b",
+            "speaker": "Lea",
+            "verse": 11,
+            "text": "Vino la ventura. Y llamó su nombre Gad."
+        },
+        {
+            "id": "g30_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Zilpa, la sierva de Lea, dio a luz otro hijo a Jacob."
+        },
+        {
+            "id": "g30_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dijo Lea:"
+        },
+        {
+            "id": "g30_13b",
+            "speaker": "Lea",
+            "verse": 13,
+            "text": "¡Qué dicha la mía! porque las mujeres me dirán bienaventurada; y llamó su nombre Aser."
+        },
+        {
+            "id": "g30_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y fue Rubén en tiempo de la siega de los trigos, y halló mandrágoras en el campo, y las trajo a Lea su madre: y dijo Raquel a Lea:"
+        },
+        {
+            "id": "g30_14b",
+            "speaker": "Raquel",
+            "verse": 14,
+            "text": "Te ruego que me des de las mandrágoras de tu hijo."
+        },
+        {
+            "id": "g30_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ella respondió:"
+        },
+        {
+            "id": "g30_15b",
+            "speaker": "Lea",
+            "verse": 15,
+            "text": "¿Es poco que hayas tomado mi marido, sino que también te has de llevar las mandrágoras de mi hijo?"
+        },
+        {
+            "id": "g30_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y dijo Raquel:"
+        },
+        {
+            "id": "g30_15d",
+            "speaker": "Raquel",
+            "verse": 15,
+            "text": "Pues dormirá contigo esta noche por las mandrágoras de tu hijo."
+        },
+        {
+            "id": "g30_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y cuando Jacob volvía del campo a la tarde, salió Lea a él, y le dijo:"
+        },
+        {
+            "id": "g30_16b",
+            "speaker": "Lea",
+            "verse": 16,
+            "text": "A mí has de entrar, porque a la verdad te he alquilado por las mandrágoras de mi hijo. Y se acostó con ella aquella noche."
+        },
+        {
+            "id": "g30_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y oyó Dios a Lea: y concibió, y dio a luz a Jacob el quinto hijo."
+        },
+        {
+            "id": "g30_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y dijo Lea:"
+        },
+        {
+            "id": "g30_18b",
+            "speaker": "Lea",
+            "verse": 18,
+            "text": "Dios me ha dado mi recompensa, por cuanto di mi sierva a mi marido; por eso llamó su nombre Isacar."
+        },
+        {
+            "id": "g30_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y concibió Lea otra vez, y dio a luz el sexto hijo a Jacob."
+        },
+        {
+            "id": "g30_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y dijo Lea:"
+        },
+        {
+            "id": "g30_20b",
+            "speaker": "Lea",
+            "verse": 20,
+            "text": "Dios me ha dado una buena dote; ahora morará conmigo mi marido, porque le he dado a luz seis hijos: y llamó su nombre Zabulón."
+        },
+        {
+            "id": "g30_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y después dio a luz una hija, y llamó su nombre Dina."
+        },
+        {
+            "id": "g30_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y se acordó Dios de Raquel, y la oyó Dios, y abrió su matriz."
+        },
+        {
+            "id": "g30_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y concibió, y dio a luz un hijo: y dijo:"
+        },
+        {
+            "id": "g30_23b",
+            "speaker": "Raquel",
+            "verse": 23,
+            "text": "Dios ha quitado mi afrenta:"
+        },
+        {
+            "id": "g30_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y llamó su nombre José, diciendo:"
+        },
+        {
+            "id": "g30_24b",
+            "speaker": "Raquel",
+            "verse": 24,
+            "text": "Añádame Jehová otro hijo."
+        },
+        {
+            "id": "g30_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y aconteció, cuando Raquel hubo dado a luz a José, que Jacob dijo a Labán:"
+        },
+        {
+            "id": "g30_25b",
+            "speaker": "Jacob",
+            "verse": 25,
+            "text": "Envíame, e iré a mi lugar, y a mi tierra."
+        },
+        {
+            "id": "g30_26",
+            "speaker": "Jacob",
+            "verse": 26,
+            "text": "Dame mis esposas y mis hijos, por las cuales he servido contigo, y déjame ir; pues tú sabes los servicios que te he hecho."
+        },
+        {
+            "id": "g30_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Labán le respondió:"
+        },
+        {
+            "id": "g30_27b",
+            "speaker": "Labán",
+            "verse": 27,
+            "text": "Halle yo ahora gracia en tus ojos, y quédate; pues he experimentado que Jehová me ha bendecido por tu causa."
+        },
+        {
+            "id": "g30_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g30_28b",
+            "speaker": "Labán",
+            "verse": 28,
+            "text": "Señálame tu salario, que yo lo daré."
+        },
+        {
+            "id": "g30_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g30_29b",
+            "speaker": "Jacob",
+            "verse": 29,
+            "text": "Tú sabes cómo te he servido, y cómo ha estado tu ganado conmigo;"
+        },
+        {
+            "id": "g30_30a",
+            "speaker": "Jacob",
+            "verse": 30,
+            "text": "Porque poco tenías antes de mi venida, y ha crecido en gran número; y Jehová te ha bendecido con mi llegada:"
+        },
+        {
+            "id": "g30_30b",
+            "speaker": "Jacob",
+            "verse": 30,
+            "text": "y ahora ¿cuándo he de trabajar yo también por mi propia casa?"
+        },
+        {
+            "id": "g30_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "g30_31b",
+            "speaker": "Labán",
+            "verse": 31,
+            "text": "¿Qué te daré?"
+        },
+        {
+            "id": "g30_31c",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y respondió Jacob:"
+        },
+        {
+            "id": "g30_31d",
+            "speaker": "Jacob",
+            "verse": 31,
+            "text": "No me des nada: si hicieres por mí esto, volveré a apacentar tus ovejas."
+        },
+        {
+            "id": "g30_32",
+            "speaker": "Jacob",
+            "verse": 32,
+            "text": "Yo pasaré hoy por todo tu rebaño, poniendo aparte todas las ovejas manchadas y pintadas, y todas las ovejas de color oscuro entre las manadas, y las manchadas y las pintadas entre las cabras; y esto será mi salario."
+        },
+        {
+            "id": "g30_33",
+            "speaker": "Jacob",
+            "verse": 33,
+            "text": "Así responderá por mí mi justicia mañana cuando me viniere mi salario delante de ti; toda la que no fuere pintada ni manchada en las cabras y de color oscuro en las ovejas mías, se me ha de contar como de hurto."
+        },
+        {
+            "id": "g30_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y dijo Labán:"
+        },
+        {
+            "id": "g30_34b",
+            "speaker": "Labán",
+            "verse": 34,
+            "text": "Mira, que sea como tú dices."
+        },
+        {
+            "id": "g30_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y apartó aquel día los machos cabríos rayados y manchados; y todas las cabras manchadas y pintadas, y toda aquella que tenía en sí algo de blanco, y todas las de color oscuro entre las ovejas, y las puso en manos de sus hijos;"
+        },
+        {
+            "id": "g30_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y puso tres días de camino entre sí y Jacob: y Jacob apacentaba las otras ovejas de Labán."
+        },
+        {
+            "id": "g30_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y se tomó Jacob varas de álamo verdes y de avellano, y de castaño, y descortezó en ellas mondaduras blancas, descubriendo así lo blanco de las varas."
+        },
+        {
+            "id": "g30_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y puso las varas que había mondado delante de los rebaños, en los canales de los abrevaderos del agua donde venían a beber las ovejas, las cuales concebían cuando venían a beber."
+        },
+        {
+            "id": "g30_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y concebían las ovejas delante de las varas, y parían borregos listados, pintados y salpicados de diversos colores."
+        },
+        {
+            "id": "g30_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y apartaba Jacob los corderos, y ponía con su rebaño los listados, y todo lo que era oscuro en el hato de Labán. Y ponía su hato aparte, y no lo ponía con las ovejas de Labán."
+        },
+        {
+            "id": "g30_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y sucedía que cuando las ovejas más fuertes entraban en celo, Jacob ponía las varas delante de las ovejas en los abrevaderos, para que concibieran a la vista de las varas."
+        },
+        {
+            "id": "g30_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y cuando las ovejas eran débiles, no ponía las varas; así las débiles eran para Labán, y las fuertes para Jacob."
+        },
+        {
+            "id": "g30_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y se engrandeció el varón muchísimo, y tuvo muchas ovejas, y siervas y siervos, y camellos y asnos."
+        }
+    ]
+}

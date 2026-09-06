@@ -1,0 +1,367 @@
+{
+    "book": "Génesis",
+    "chapter": 42,
+    "title": "Génesis 42",
+    "messages": [
+        {
+            "id": "g42_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando Jacob vio que en Egipto había alimentos, Jacobo dijo a sus hijos:"
+        },
+        {
+            "id": "g42_1b",
+            "speaker": "Jacob",
+            "verse": 1,
+            "text": "¿Por qué os estáis mirando?"
+        },
+        {
+            "id": "g42_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g42_2b",
+            "speaker": "Jacob",
+            "verse": 2,
+            "text": "He aquí, yo he oído que hay víveres en Egipto; descended allá, y comprad de allí para nosotros, para que vivamos y no muramos."
+        },
+        {
+            "id": "g42_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y descendieron los diez hermanos de José a comprar trigo a Egipto."
+        },
+        {
+            "id": "g42_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas Jacob no envió a Benjamín hermano de José con sus hermanos; porque dijo:"
+        },
+        {
+            "id": "g42_4b",
+            "speaker": "Jacob",
+            "verse": 4,
+            "text": "No sea acaso que le acontezca algún desastre."
+        },
+        {
+            "id": "g42_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y vinieron los hijos de Israel a comprar entre los que venían: porque había hambre en la tierra de Canaán."
+        },
+        {
+            "id": "g42_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y José era el señor de la tierra; él era quien le vendía a todo el pueblo de la tierra. Y llegaron los hermanos de José y se inclinaron a él rostro a tierra."
+        },
+        {
+            "id": "g42_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y José como vio a sus hermanos, los reconoció; mas hizo como que no los conocía, y les habló ásperamente, y les dijo:"
+        },
+        {
+            "id": "g42_7b",
+            "speaker": "José",
+            "verse": 7,
+            "text": "¿De dónde habéis venido?"
+        },
+        {
+            "id": "g42_7c",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Ellos respondieron:"
+        },
+        {
+            "id": "g42_7d",
+            "speaker": "Hermanos",
+            "verse": 7,
+            "text": "De la tierra de Canaán a comprar alimentos."
+        },
+        {
+            "id": "g42_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "José, pues, reconoció a sus hermanos; pero ellos no le reconocieron."
+        },
+        {
+            "id": "g42_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces se acordó José de los sueños que había tenido de ellos, y les dijo:"
+        },
+        {
+            "id": "g42_9b",
+            "speaker": "José",
+            "verse": 9,
+            "text": "Espías sois; por ver lo descubierto del país habéis venido."
+        },
+        {
+            "id": "g42_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y ellos le respondieron:"
+        },
+        {
+            "id": "g42_10b",
+            "speaker": "Hermanos",
+            "verse": 10,
+            "text": "No, señor mío: mas tus siervos han venido a comprar alimentos."
+        },
+        {
+            "id": "g42_11",
+            "speaker": "Hermanos",
+            "verse": 11,
+            "text": "Todos nosotros somos hijos de un varón: somos hombres de verdad: tus siervos nunca fueron espías."
+        },
+        {
+            "id": "g42_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y él les dijo:"
+        },
+        {
+            "id": "g42_12b",
+            "speaker": "José",
+            "verse": 12,
+            "text": "No; sino que para ver lo descubierto del país habéis venido."
+        },
+        {
+            "id": "g42_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y ellos respondieron:"
+        },
+        {
+            "id": "g42_13b",
+            "speaker": "Hermanos",
+            "verse": 13,
+            "text": "Tus siervos somos doce hermanos, hijos de un varón en la tierra de Canaán; y he aquí el menor está hoy con nuestro padre, y otro no parece."
+        },
+        {
+            "id": "g42_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y José les dijo:"
+        },
+        {
+            "id": "g42_14b",
+            "speaker": "José",
+            "verse": 14,
+            "text": "Eso es lo que os he dicho, afirmando que sois espías:"
+        },
+        {
+            "id": "g42_15",
+            "speaker": "José",
+            "verse": 15,
+            "text": "En esto seréis probados: Vive Faraón que no saldréis de aquí, al menos que vuestro hermano menor venga aquí."
+        },
+        {
+            "id": "g42_16",
+            "speaker": "José",
+            "verse": 16,
+            "text": "Enviad uno de vosotros, y traiga a vuestro hermano; y vosotros quedad presos, y vuestras palabras serán probadas, si hay verdad en vosotros; y si no, vive Faraón, que sois espías."
+        },
+        {
+            "id": "g42_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y los juntó en la cárcel por tres días."
+        },
+        {
+            "id": "g42_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y al tercer día les dijo José:"
+        },
+        {
+            "id": "g42_18b",
+            "speaker": "José",
+            "verse": 18,
+            "text": "Haced esto, y vivid: Yo temo a Dios:"
+        },
+        {
+            "id": "g42_19",
+            "speaker": "José",
+            "verse": 19,
+            "text": "Si sois hombres de verdad, quede preso en la casa de vuestra cárcel uno de vuestros hermanos; y vosotros id, llevad el alimento para el hambre de vuestras casas:"
+        },
+        {
+            "id": "g42_20",
+            "speaker": "José",
+            "verse": 20,
+            "text": "Pero habéis de traerme a vuestro hermano menor, y serán verificadas vuestras palabras, y no moriréis. Y ellos lo hicieron así."
+        },
+        {
+            "id": "g42_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y decían el uno al otro:"
+        },
+        {
+            "id": "g42_21b",
+            "speaker": "Hermanos",
+            "verse": 21,
+            "text": "Verdaderamente hemos pecado contra nuestro hermano, que vimos la angustia de su alma cuando nos rogaba, y no le oímos: por eso ha venido sobre nosotros esta angustia."
+        },
+        {
+            "id": "g42_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces Rubén les respondió, diciendo:"
+        },
+        {
+            "id": "g42_22b",
+            "speaker": "Rubén",
+            "verse": 22,
+            "text": "¿No os hablé yo y dije: No pequéis contra el joven; y no escuchasteis? He aquí también su sangre es requerida."
+        },
+        {
+            "id": "g42_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y ellos no sabían que los entendía José, porque había intérprete entre ellos."
+        },
+        {
+            "id": "g42_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y José se apartó de ellos, y lloró: después volvió a ellos, y les habló, y tomó de entre ellos a Simeón, y lo aprisionó a vista de ellos."
+        },
+        {
+            "id": "g42_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y mandó José que llenaran sus sacos de trigo, y devolviesen el dinero de cada uno de ellos, poniéndolo en su saco, y les diesen comida para el camino: y así se hizo con ellos."
+        },
+        {
+            "id": "g42_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y ellos pusieron su trigo sobre sus asnos, y se fueron de allí."
+        },
+        {
+            "id": "g42_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y abriendo uno de ellos su saco para dar de comer a su asno en el mesón, vio su dinero que estaba en la boca de su costal."
+        },
+        {
+            "id": "g42_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dijo a sus hermanos:"
+        },
+        {
+            "id": "g42_28b",
+            "speaker": "Hermanos",
+            "verse": 28,
+            "text": "Mi dinero se me ha devuelto, y helo aquí en mi saco."
+        },
+        {
+            "id": "g42_28c",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces se les sobresaltó el corazón, y espantados dijeron el uno al otro:"
+        },
+        {
+            "id": "g42_28d",
+            "speaker": "Hermanos",
+            "verse": 28,
+            "text": "¿Qué es esto que nos ha hecho Dios?"
+        },
+        {
+            "id": "g42_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y vinieron a Jacob su padre en tierra de Canaán, y le contaron todo lo que les había acontecido, diciendo:"
+        },
+        {
+            "id": "g42_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Aquel varón, señor de la tierra, nos habló ásperamente, y nos trató como a espías de la tierra:"
+        },
+        {
+            "id": "g42_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y nosotros le dijimos:"
+        },
+        {
+            "id": "g42_31b",
+            "speaker": "Hermanos",
+            "verse": 31,
+            "text": "Somos hombres de verdad, no somos espías:"
+        },
+        {
+            "id": "g42_32",
+            "speaker": "Hermanos",
+            "verse": 32,
+            "text": "Somos doce hermanos, hijos de nuestro padre; uno no parece, y el menor está hoy con nuestro padre en la tierra de Canaán."
+        },
+        {
+            "id": "g42_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y aquel varón, señor de la tierra, nos dijo:"
+        },
+        {
+            "id": "g42_33b",
+            "speaker": "José",
+            "verse": 33,
+            "text": "En esto conoceré que sois hombres de verdad; dejad conmigo uno de vuestros hermanos, y tomad grano para el hambre de vuestras casas, y andad,"
+        },
+        {
+            "id": "g42_34",
+            "speaker": "José",
+            "verse": 34,
+            "text": "y traedme a vuestro hermano el menor, para que yo sepa que no sois espías, sino hombres de verdad: así os daré a vuestro hermano, y negociaréis en la tierra."
+        },
+        {
+            "id": "g42_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y aconteció que vaciando ellos sus sacos, he aquí que en el saco de cada uno estaba el atado de su dinero, y viendo ellos y su padre los atados de su dinero, tuvieron temor."
+        },
+        {
+            "id": "g42_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces su padre Jacob les dijo:"
+        },
+        {
+            "id": "g42_36b",
+            "speaker": "Jacob",
+            "verse": 36,
+            "text": "Me habéis privado de mis hijos; José no parece, Simeón tampoco, y a Benjamín le llevaréis: contra mí son todas estas cosas."
+        },
+        {
+            "id": "g42_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y Rubén habló a su padre, diciendo:"
+        },
+        {
+            "id": "g42_37b",
+            "speaker": "Rubén",
+            "verse": 37,
+            "text": "Harás morir a mis dos hijos, si no te lo volviere; entrégalo en mi mano, que yo lo volveré a ti."
+        },
+        {
+            "id": "g42_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "g42_38b",
+            "speaker": "Jacob",
+            "verse": 38,
+            "text": "No descenderá mi hijo con vosotros; pues su hermano es muerto, y él solo ha quedado: y si le aconteciere algún desastre en el camino por donde vais, haréis descender mis canas con dolor a la sepultura."
+        }
+    ]
+}

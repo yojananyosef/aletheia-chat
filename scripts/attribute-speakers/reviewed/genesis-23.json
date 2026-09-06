@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Abraham",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Efrón",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Abraham",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Efrón",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Abraham",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  }
+]

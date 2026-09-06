@@ -1,0 +1,62 @@
+[
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Faraón",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Pueblo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  }
+]

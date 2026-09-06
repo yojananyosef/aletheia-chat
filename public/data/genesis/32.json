@@ -1,0 +1,325 @@
+{
+    "book": "Génesis",
+    "chapter": 32,
+    "title": "Génesis 32",
+    "messages": [
+        {
+            "id": "g32_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y Jacob siguió su camino, y le salieron al encuentro ángeles de Dios."
+        },
+        {
+            "id": "g32_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo Jacob cuando los vio:"
+        },
+        {
+            "id": "g32_2b",
+            "speaker": "Jacob",
+            "verse": 2,
+            "text": "El campamento de Dios es éste; y llamó el nombre de aquel lugar Mahanaim."
+        },
+        {
+            "id": "g32_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y envió Jacob mensajeros delante de sí a Esaú su hermano, a la tierra de Seir, campo de Edom."
+        },
+        {
+            "id": "g32_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y les mandó diciendo:"
+        },
+        {
+            "id": "g32_4b",
+            "speaker": "Jacob",
+            "verse": 4,
+            "text": "Así diréis a mí señor Esaú: Así dice tu siervo Jacob: Con Labán he morado, y he estado allí hasta ahora;"
+        },
+        {
+            "id": "g32_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y tengo vacas, y asnos, y ovejas, y siervos y siervas; y envío a decirlo a mi señor, por hallar gracia en tus ojos."
+        },
+        {
+            "id": "g32_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y los mensajeros volvieron a Jacob, diciendo:"
+        },
+        {
+            "id": "g32_6b",
+            "speaker": "Mensajero",
+            "verse": 6,
+            "text": "Vinimos a tu hermano Esaú, y él también vino a recibirte, y cuatrocientos hombres con él."
+        },
+        {
+            "id": "g32_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces Jacob tuvo gran temor, y se angustió; y dividió al pueblo que tenía consigo en dos campamentos, y las ovejas y las vacas y los camellos;"
+        },
+        {
+            "id": "g32_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g32_8b",
+            "speaker": "Jacob",
+            "verse": 8,
+            "text": "Si viniere Esaú contra un campamento y lo hiriere, el otro campamento escapará."
+        },
+        {
+            "id": "g32_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Jacob:"
+        },
+        {
+            "id": "g32_9b",
+            "speaker": "Jacob",
+            "verse": 9,
+            "text": "Dios de mi padre Abraham, y Dios de mi padre Isaac, Jehová, que me dijiste: Vuélvete a tu tierra y a tu parentela, y yo te haré bien."
+        },
+        {
+            "id": "g32_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "No soy digno de la más pequeña de todas las misericordias, y de toda la verdad que has usado para con tu siervo; que con mi bordón pasé este Jordán, y ahora estoy sobre dos campamentos."
+        },
+        {
+            "id": "g32_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Líbrame ahora de la mano de mi hermano, de la mano de Esaú, porque le temo; no venga quizá, y me hiera a mí, y a la madre con los hijos."
+        },
+        {
+            "id": "g32_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y tú has dicho:"
+        },
+        {
+            "id": "g32_12b",
+            "speaker": "Jacob",
+            "verse": 12,
+            "text": "Ciertamente yo te haré bien, y pondré tu simiente como la arena del mar, que no se puede contar por la multitud."
+        },
+        {
+            "id": "g32_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y durmió allí aquella noche, y tomó de lo que le vino a la mano un presente para su hermano Esaú."
+        },
+        {
+            "id": "g32_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Doscientas cabras y veinte machos cabríos, doscientas ovejas y veinte carneros,"
+        },
+        {
+            "id": "g32_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "treinta camellas paridas, con sus crías, cuarenta vacas y diez novillos, veinte asnas y diez borricos."
+        },
+        {
+            "id": "g32_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y lo entregó en mano de sus siervos, cada manada de por sí; y dijo a sus siervos:"
+        },
+        {
+            "id": "g32_16b",
+            "speaker": "Jacob",
+            "verse": 16,
+            "text": "Pasad delante de mí, y poned espacio entre manada y manada."
+        },
+        {
+            "id": "g32_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y mandó al primero, diciendo:"
+        },
+        {
+            "id": "g32_17b",
+            "speaker": "Jacob",
+            "verse": 17,
+            "text": "Si Esaú mi hermano te encontrare, y te preguntare, diciendo: ¿De quién eres? ¿Y adónde vas? ¿Y para quién es esto que llevas delante de ti?"
+        },
+        {
+            "id": "g32_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces dirás: Presente es de tu siervo Jacob, que envía a mi señor Esaú; y he aquí también él viene tras nosotros."
+        },
+        {
+            "id": "g32_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y mandó también al segundo, y al tercero, y a todos los que iban tras aquellas manadas, diciendo:"
+        },
+        {
+            "id": "g32_19b",
+            "speaker": "Jacob",
+            "verse": 19,
+            "text": "Conforme a esto hablaréis a Esaú, cuando le hallareis."
+        },
+        {
+            "id": "g32_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y diréis también: He aquí tu siervo Jacob viene tras nosotros. Porque dijo:"
+        },
+        {
+            "id": "g32_20b",
+            "speaker": "Jacob",
+            "verse": 20,
+            "text": "Apaciguaré su ira con el presente que va delante de mí, y después veré su rostro; quizá le seré acepto."
+        },
+        {
+            "id": "g32_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y pasó el presente delante de él; y él durmió aquella noche en el campamento."
+        },
+        {
+            "id": "g32_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y se levantó aquella noche, y tomó sus dos esposas, y sus dos siervas, y sus once hijos, y pasó el vado de Jaboc."
+        },
+        {
+            "id": "g32_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Los tomó, pues, y los hizo pasar el arroyo, e hizo pasar lo que tenía."
+        },
+        {
+            "id": "g32_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y Jacob se quedó solo; y luchó con él un varón hasta que rayaba el alba."
+        },
+        {
+            "id": "g32_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y cuando vio que no podía con él, tocó en el sitio del encaje de su muslo, y se descoyuntó el muslo de Jacob mientras con él luchaba."
+        },
+        {
+            "id": "g32_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g32_26b",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Déjame, que raya el alba."
+        },
+        {
+            "id": "g32_26c",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "g32_26d",
+            "speaker": "Jacob",
+            "verse": 26,
+            "text": "No te dejaré, si no me bendices."
+        },
+        {
+            "id": "g32_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Él le dijo:"
+        },
+        {
+            "id": "g32_27b",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "¿Cuál es tu nombre?"
+        },
+        {
+            "id": "g32_27c",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g32_27d",
+            "speaker": "Jacob",
+            "verse": 27,
+            "text": "Jacob."
+        },
+        {
+            "id": "g32_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "g32_28b",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "No se dirá más tu nombre Jacob, sino Israel; porque como príncipe has luchado con Dios y con los hombres, y has vencido."
+        },
+        {
+            "id": "g32_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Entonces Jacob le preguntó, y dijo:"
+        },
+        {
+            "id": "g32_29b",
+            "speaker": "Jacob",
+            "verse": 29,
+            "text": "Declárame ahora tu nombre."
+        },
+        {
+            "id": "g32_29c",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y Él respondió:"
+        },
+        {
+            "id": "g32_29d",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "¿Por qué preguntas por mi nombre? Y lo bendijo allí."
+        },
+        {
+            "id": "g32_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y llamó Jacob el nombre de aquel lugar Peniel; porque dijo:"
+        },
+        {
+            "id": "g32_30b",
+            "speaker": "Jacob",
+            "verse": 30,
+            "text": "Vi a Dios cara a cara, y fue librada mi alma."
+        },
+        {
+            "id": "g32_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y le salió el sol pasado que hubo a Peniel; y cojeaba de su cadera."
+        },
+        {
+            "id": "g32_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Por esto no comen los hijos de Israel, hasta hoy día, del tendón que se contrajo, el cual está en el encaje del muslo; porque tocó a Jacob este sitio de su muslo en el tendón que se contrajo."
+        }
+    ]
+}

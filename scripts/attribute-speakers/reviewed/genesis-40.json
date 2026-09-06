@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Copero",
+    "confidence": 0.75
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Copero",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Copero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Copero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Panadero",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Panadero",
+    "confidence": 0.85
+  }
+]

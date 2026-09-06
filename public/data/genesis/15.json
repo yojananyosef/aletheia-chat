@@ -1,0 +1,205 @@
+{
+    "book": "Génesis",
+    "chapter": 15,
+    "title": "Génesis 15",
+    "messages": [
+        {
+            "id": "g15_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de estas cosas vino la palabra de Jehová a Abram en visión, diciendo:"
+        },
+        {
+            "id": "g15_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "No temas, Abram; yo soy tu escudo, y soy tu galardón sobremanera grande."
+        },
+        {
+            "id": "g15_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y respondió Abram:"
+        },
+        {
+            "id": "g15_2b",
+            "speaker": "Abraham",
+            "verse": 2,
+            "text": "Señor Jehová ¿qué me has de dar, siendo así que ando sin hijos, y el mayordomo de mi casa es ese damasceno Eliezer?"
+        },
+        {
+            "id": "g15_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Dijo más Abram:"
+        },
+        {
+            "id": "g15_3b",
+            "speaker": "Abraham",
+            "verse": 3,
+            "text": "Mira que no me has dado hijos, y he aquí que es mi heredero uno nacido en mi casa."
+        },
+        {
+            "id": "g15_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y luego vino a él la palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "g15_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "No te heredará éste, sino el que saldrá de tus entrañas será el que te herede."
+        },
+        {
+            "id": "g15_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y le llevó fuera, y dijo:"
+        },
+        {
+            "id": "g15_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Mira ahora a los cielos, y cuenta las estrellas, si las puedes contar."
+        },
+        {
+            "id": "g15_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "g15_5d",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Así será tu simiente."
+        },
+        {
+            "id": "g15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y creyó a Jehová, y Él se lo contó por justicia."
+        },
+        {
+            "id": "g15_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "g15_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Yo soy Jehová, que te saqué de Ur de los caldeos, para darte a heredar esta tierra."
+        },
+        {
+            "id": "g15_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g15_8b",
+            "speaker": "Abraham",
+            "verse": 8,
+            "text": "Señor Jehová ¿en qué conoceré que la he de heredar?"
+        },
+        {
+            "id": "g15_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "g15_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Apártame una becerra de tres años, y una cabra de tres años, y un carnero de tres años, una tórtola también, y un palomino."
+        },
+        {
+            "id": "g15_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y tomó él todas estas cosas, y las partió por la mitad, y puso cada mitad una enfrente de otra; mas no partió las aves."
+        },
+        {
+            "id": "g15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y descendían aves sobre los cuerpos muertos, y Abram las ahuyentaba."
+        },
+        {
+            "id": "g15_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas a la caída del sol sobrecogió el sueño a Abram, y he aquí que el pavor de una grande oscuridad cayó sobre él."
+        },
+        {
+            "id": "g15_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces dijo a Abram:"
+        },
+        {
+            "id": "g15_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Ten por cierto que tu simiente será peregrina en tierra no suya, y servirá a los de allí y será afligida por cuatrocientos años."
+        },
+        {
+            "id": "g15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas también a la nación a quien servirán, juzgaré yo; y después de esto saldrán con grande riqueza."
+        },
+        {
+            "id": "g15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y tú vendrás a tus padres en paz, y serás sepultado en buena vejez."
+        },
+        {
+            "id": "g15_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y en la cuarta generación volverán acá; porque la maldad del amorreo aún no ha llegado a su colmo."
+        },
+        {
+            "id": "g15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y sucedió que puesto el sol, y ya oscurecido, se dejó ver un horno humeando, y una antorcha de fuego que pasó por entre los animales divididos."
+        },
+        {
+            "id": "g15_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "En aquel día hizo Jehová un pacto con Abram diciendo:"
+        },
+        {
+            "id": "g15_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "A tu simiente daré esta tierra desde el río de Egipto hasta el río grande, el río Éufrates;"
+        },
+        {
+            "id": "g15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Los cineos, los cenezeos, los cadmoneos,"
+        },
+        {
+            "id": "g15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "los heteos, los ferezeos, los refaítas,"
+        },
+        {
+            "id": "g15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "los amorreos, los cananeos, los gergeseos y los jebuseos."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Hijos de Labán",
+    "confidence": 0.8
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "d",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Raquel",
+    "confidence": 0.8
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Raquel",
+    "confidence": 0.75
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Raquel",
+    "confidence": 0.75
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Raquel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.9
+  },
+  {
+    "verse": 50,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
+  },
+  {
+    "verse": 52,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
+  },
+  {
+    "verse": 53,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
+  }
+]

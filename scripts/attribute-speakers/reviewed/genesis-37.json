@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "José",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "d",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Hombre",
+    "confidence": 0.8
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Hombre",
+    "confidence": 0.8
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Judá",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Rubén",
+    "confidence": 0.9
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Hermanos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  }
+]

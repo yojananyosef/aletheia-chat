@@ -1,0 +1,205 @@
+{
+    "book": "Génesis",
+    "chapter": 10,
+    "title": "Génesis 10",
+    "messages": [
+        {
+            "id": "g10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Éstas son las generaciones de los hijos de Noé: Sem, Cam y Jafet, a quienes les nacieron hijos después del diluvio."
+        },
+        {
+            "id": "g10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Los hijos de Jafet: Gomer, Magog, Madai, Javán, Tubal, Mesec y Tiras."
+        },
+        {
+            "id": "g10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y los hijos de Gomer: Askenaz, Rifat y Togarma."
+        },
+        {
+            "id": "g10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y los hijos de Javán: Elisa, Tarsis, Quitim y Dodanim."
+        },
+        {
+            "id": "g10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por éstos fueron repartidas las islas de los gentiles en sus tierras, cada cual según su lengua, conforme a sus familias en sus naciones."
+        },
+        {
+            "id": "g10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Los hijos de Cam: Cus, Mizraim, Fut y Canaán."
+        },
+        {
+            "id": "g10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y los hijos de Cus: Seba, Havila, Sabta, Raama y Sabteca. Y los hijos de Raama: Seba y Dedán."
+        },
+        {
+            "id": "g10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Cus engendró a Nimrod, éste comenzó a ser poderoso en la tierra."
+        },
+        {
+            "id": "g10_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Éste fue vigoroso cazador delante de Jehová; por lo cual se dice:"
+        },
+        {
+            "id": "g10_9b",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Así como Nimrod, vigoroso cazador delante de Jehová."
+        },
+        {
+            "id": "g10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y fue la cabecera de su reino Babel, Erec, Acad y Calne, en la tierra de Sinar."
+        },
+        {
+            "id": "g10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "De esta tierra salió Asur, y edificó a Nínive, y la ciudad de Rehobot, a Cala,"
+        },
+        {
+            "id": "g10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "y Resén entre Nínive y Cala; la cual es ciudad grande."
+        },
+        {
+            "id": "g10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y Mizraim engendró a Ludim, a Anamim, a Lehabim, a Naftuhim,"
+        },
+        {
+            "id": "g10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "a Patrusim, a Casluhim (de donde salieron los filisteos), y a Caftorim."
+        },
+        {
+            "id": "g10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Canaán engendró a Sidón, su primogénito, a Het,"
+        },
+        {
+            "id": "g10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "al jebuseo, al amorreo, al gergeseo,"
+        },
+        {
+            "id": "g10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "al heveo, al araceo, al sineo,"
+        },
+        {
+            "id": "g10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "al arvadeo, al samareo y al hamateo; y después se dispersaron las familias de los cananeos."
+        },
+        {
+            "id": "g10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y fue el término de los cananeos desde Sidón, viniendo a Gerar hasta Gaza, hasta entrar en Sodoma y Gomorra, Adma y Zeboim hasta Lasa."
+        },
+        {
+            "id": "g10_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Éstos son los hijos de Cam por sus familias, por sus lenguas, en sus tierras, en sus naciones."
+        },
+        {
+            "id": "g10_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "También le nacieron hijos a Sem, el padre de todos los hijos de Heber, el hermano de Jafet el mayor."
+        },
+        {
+            "id": "g10_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y los hijos de Sem: Elam, Asur, Arfaxad, Lud y Aram."
+        },
+        {
+            "id": "g10_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y los hijos de Aram: Uz, Hul, Geter y Mas."
+        },
+        {
+            "id": "g10_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y Arfaxad engendró a Sala, y Sala engendró a Heber."
+        },
+        {
+            "id": "g10_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y a Heber nacieron dos hijos: el nombre de uno fue Peleg, porque en sus días fue repartida la tierra; y el nombre de su hermano, Joctán."
+        },
+        {
+            "id": "g10_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y Joctán engendró a Almodad, a Selef, a Hazarmavet, a Jera,"
+        },
+        {
+            "id": "g10_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "a Hadoram, a Uzal, a Dicla,"
+        },
+        {
+            "id": "g10_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "a Obal, a Abimael, a Seba,"
+        },
+        {
+            "id": "g10_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "a Ofir, a Havila y a Jobad; todos éstos fueron hijos de Joctán."
+        },
+        {
+            "id": "g10_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y fue su habitación desde Mesa viniendo de Sefar, región montañosa del oriente."
+        },
+        {
+            "id": "g10_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Éstos fueron los hijos de Sem por sus familias, por sus lenguas, en sus tierras, en sus naciones."
+        },
+        {
+            "id": "g10_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Éstas son las familias de los hijos de Noé por sus descendencias en sus naciones; y por éstos fueron divididas las naciones en la tierra después del diluvio."
+        }
+    ]
+}

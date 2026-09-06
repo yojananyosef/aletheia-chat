@@ -1,0 +1,271 @@
+{
+    "book": "Génesis",
+    "chapter": 21,
+    "title": "Génesis 21",
+    "messages": [
+        {
+            "id": "g21_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y visitó Jehová a Sara, como había dicho, e hizo Jehová con Sara como había hablado."
+        },
+        {
+            "id": "g21_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Sara concibió y dio a luz un hijo a Abraham en su vejez, en el tiempo que Dios le había dicho."
+        },
+        {
+            "id": "g21_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y llamó Abraham el nombre de su hijo que le nació, que le dio a luz Sara, Isaac."
+        },
+        {
+            "id": "g21_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y circuncidó Abraham a su hijo Isaac de ocho días, como Dios le había mandado."
+        },
+        {
+            "id": "g21_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y era Abraham de cien años, cuando le nació Isaac su hijo."
+        },
+        {
+            "id": "g21_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces dijo Sara:"
+        },
+        {
+            "id": "g21_6b",
+            "speaker": "Sara",
+            "verse": 6,
+            "text": "Dios me ha hecho reír, y cualquiera que lo oyere, se reirá conmigo."
+        },
+        {
+            "id": "g21_7",
+            "speaker": "Sara",
+            "verse": 7,
+            "text": "Y añadió: ¿Quién dijera a Abraham que Sara había de dar de mamar a hijos? pues que le he dado un hijo en su vejez."
+        },
+        {
+            "id": "g21_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y creció el niño, y fue destetado; e hizo Abraham gran banquete el día que fue destetado Isaac."
+        },
+        {
+            "id": "g21_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vio Sara al hijo de Agar la egipcia, el cual ésta le había dado a luz a Abraham, que se burlaba."
+        },
+        {
+            "id": "g21_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Por tanto dijo a Abraham:"
+        },
+        {
+            "id": "g21_10b",
+            "speaker": "Sara",
+            "verse": 10,
+            "text": "Echa a esta sierva y a su hijo; pues el hijo de esta sierva no ha de heredar con mi hijo, con Isaac."
+        },
+        {
+            "id": "g21_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Este dicho pareció grave en gran manera a Abraham a causa de su hijo."
+        },
+        {
+            "id": "g21_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces dijo Dios a Abraham:"
+        },
+        {
+            "id": "g21_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "No te parezca grave a causa del muchacho y de tu sierva; en todo lo que te dijere Sara, oye su voz, porque en Isaac te será llamada descendencia."
+        },
+        {
+            "id": "g21_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y también del hijo de la sierva haré una nación, porque es tu simiente."
+        },
+        {
+            "id": "g21_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Abraham se levantó muy de mañana, y tomó pan, y un odre de agua, y lo dio a Agar, poniéndolo sobre su hombro, y le entregó el muchacho, y la despidió. Y ella partió, y andaba errante por el desierto de Beerseba."
+        },
+        {
+            "id": "g21_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y faltó el agua del odre, y echó al muchacho debajo de un árbol;"
+        },
+        {
+            "id": "g21_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y se fue y se sentó enfrente, alejándose como a un tiro de arco; porque decía:"
+        },
+        {
+            "id": "g21_16b",
+            "speaker": "Agar",
+            "verse": 16,
+            "text": "No veré cuando el muchacho morirá: y se sentó enfrente, y alzó su voz y lloró."
+        },
+        {
+            "id": "g21_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y oyó Dios la voz del muchacho; y el Ángel de Dios llamó a Agar desde el cielo, y le dijo:"
+        },
+        {
+            "id": "g21_17b",
+            "speaker": "Ángel",
+            "verse": 17,
+            "text": "¿Qué tienes, Agar? No temas; porque Dios ha oído la voz del muchacho en donde está."
+        },
+        {
+            "id": "g21_18",
+            "speaker": "Ángel",
+            "verse": 18,
+            "text": "Levántate, alza al muchacho, y tómalo en tus manos, porque haré de él una gran nación."
+        },
+        {
+            "id": "g21_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces abrió Dios sus ojos, y vio una fuente de agua; y fue, y llenó el odre de agua, y dio de beber al muchacho."
+        },
+        {
+            "id": "g21_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Dios fue con el muchacho; y creció, y habitó en el desierto, y fue tirador de arco."
+        },
+        {
+            "id": "g21_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y habitó en el desierto de Parán; y su madre le tomó esposa de la tierra de Egipto."
+        },
+        {
+            "id": "g21_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y aconteció en aquel mismo tiempo que habló Abimelec, y Ficol, príncipe de su ejército, a Abraham diciendo:"
+        },
+        {
+            "id": "g21_22b",
+            "speaker": "Abimelec",
+            "verse": 22,
+            "text": "Dios es contigo en todo cuanto haces."
+        },
+        {
+            "id": "g21_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Ahora pues, júrame aquí por Dios, que no faltarás a mí, ni a mi hijo, ni a mi nieto; sino que conforme a la bondad que yo hice contigo, harás tú conmigo y con la tierra donde has peregrinado."
+        },
+        {
+            "id": "g21_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y respondió Abraham:"
+        },
+        {
+            "id": "g21_24b",
+            "speaker": "Abraham",
+            "verse": 24,
+            "text": "Yo juraré."
+        },
+        {
+            "id": "g21_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Abraham reconvino a Abimelec a causa de un pozo de agua, que los siervos de Abimelec le habían quitado."
+        },
+        {
+            "id": "g21_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y respondió Abimelec:"
+        },
+        {
+            "id": "g21_26b",
+            "speaker": "Abimelec",
+            "verse": 26,
+            "text": "No sé quién haya hecho esto, ni tampoco tú me lo hiciste saber, ni yo lo he oído hasta hoy."
+        },
+        {
+            "id": "g21_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y tomó Abraham ovejas y vacas, y dio a Abimelec; e hicieron ambos alianza."
+        },
+        {
+            "id": "g21_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y puso Abraham siete corderas del rebaño aparte."
+        },
+        {
+            "id": "g21_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y dijo Abimelec a Abraham:"
+        },
+        {
+            "id": "g21_29b",
+            "speaker": "Abimelec",
+            "verse": 29,
+            "text": "¿Qué significan esas siete corderas que has puesto aparte?"
+        },
+        {
+            "id": "g21_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g21_30b",
+            "speaker": "Abraham",
+            "verse": 30,
+            "text": "Que estas siete corderas tomarás de mi mano, para que me sean en testimonio de que yo cavé este pozo."
+        },
+        {
+            "id": "g21_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Por esto llamó a aquel lugar Beerseba; porque allí juraron ambos."
+        },
+        {
+            "id": "g21_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Así hicieron alianza en Beerseba: y se levantó Abimelec y Ficol, príncipe de su ejército, y se volvieron a tierra de los filisteos."
+        },
+        {
+            "id": "g21_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y plantó Abraham un bosque en Beerseba, e invocó allí el nombre de Jehová, el Dios eterno."
+        },
+        {
+            "id": "g21_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y moró Abraham en tierra de los filisteos muchos días."
+        }
+    ]
+}

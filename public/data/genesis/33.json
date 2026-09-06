@@ -1,0 +1,211 @@
+{
+    "book": "Génesis",
+    "chapter": 33,
+    "title": "Génesis 33",
+    "messages": [
+        {
+            "id": "g33_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y alzando Jacob sus ojos miró, y he aquí venía Esaú, y los cuatrocientos hombres con él; entonces repartió él los niños entre Lea y Raquel y las dos siervas."
+        },
+        {
+            "id": "g33_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y puso las siervas y sus niños delante; luego a Lea y a sus niños; y a Raquel y a José los postreros."
+        },
+        {
+            "id": "g33_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y él pasó delante de ellos, y se inclinó a tierra siete veces, hasta que llegó a su hermano."
+        },
+        {
+            "id": "g33_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Esaú corrió a su encuentro, y le abrazó, y se echó sobre su cuello, y le besó; y lloraron."
+        },
+        {
+            "id": "g33_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y alzó sus ojos, y vio las mujeres y los niños, y dijo:"
+        },
+        {
+            "id": "g33_5b",
+            "speaker": "Esaú",
+            "verse": 5,
+            "text": "¿Quiénes son éstos?"
+        },
+        {
+            "id": "g33_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g33_5d",
+            "speaker": "Jacob",
+            "verse": 5,
+            "text": "Son los niños que Dios ha dado a tu siervo."
+        },
+        {
+            "id": "g33_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y luego se acercaron las siervas, ellas y sus niños, y se inclinaron."
+        },
+        {
+            "id": "g33_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Lea también se acercó con sus niños, y se inclinaron; y después llegó José y Raquel, y también se inclinaron."
+        },
+        {
+            "id": "g33_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "g33_8b",
+            "speaker": "Esaú",
+            "verse": 8,
+            "text": "¿Qué te propones con todas estas cuadrillas que he encontrado?"
+        },
+        {
+            "id": "g33_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g33_8d",
+            "speaker": "Jacob",
+            "verse": 8,
+            "text": "El hallar gracia en los ojos de mi señor."
+        },
+        {
+            "id": "g33_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dijo Esaú:"
+        },
+        {
+            "id": "g33_9b",
+            "speaker": "Esaú",
+            "verse": 9,
+            "text": "Suficiente tengo yo, hermano mío; sea para ti lo que es tuyo."
+        },
+        {
+            "id": "g33_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dijo Jacob:"
+        },
+        {
+            "id": "g33_10b",
+            "speaker": "Jacob",
+            "verse": 10,
+            "text": "No, yo te ruego, si he hallado ahora gracia en tus ojos, toma mi presente de mi mano, pues que he visto tu rostro, como si hubiera visto el rostro de Dios; y te has contentado conmigo."
+        },
+        {
+            "id": "g33_11",
+            "speaker": "Jacob",
+            "verse": 11,
+            "text": "Acepta, te ruego, mi bendición que te es traída; porque Dios me ha favorecido porque tengo lo suficiente. Y porfió con él, y la tomó."
+        },
+        {
+            "id": "g33_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g33_12b",
+            "speaker": "Esaú",
+            "verse": 12,
+            "text": "Anda, y vamos; y yo iré delante de ti."
+        },
+        {
+            "id": "g33_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y él le dijo:"
+        },
+        {
+            "id": "g33_13b",
+            "speaker": "Jacob",
+            "verse": 13,
+            "text": "Mi señor sabe que los niños son tiernos, y que tengo ovejas y vacas paridas; y si las fatigan, en un día morirán todas las ovejas."
+        },
+        {
+            "id": "g33_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pase ahora mi señor delante de su siervo, y yo me iré poco a poco al paso del ganado que va delante de mí, y al paso de los niños, hasta que llegue a mi señor a Seir."
+        },
+        {
+            "id": "g33_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Esaú dijo:"
+        },
+        {
+            "id": "g33_15b",
+            "speaker": "Esaú",
+            "verse": 15,
+            "text": "Permíteme ahora dejar contigo algunos de los que vienen conmigo."
+        },
+        {
+            "id": "g33_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "g33_15d",
+            "speaker": "Jacob",
+            "verse": 15,
+            "text": "¿Para qué esto? halle yo gracia en los ojos de mi señor."
+        },
+        {
+            "id": "g33_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Así volvió Esaú aquel día por su camino a Seir."
+        },
+        {
+            "id": "g33_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Jacob se fue a Sucot, y edificó allí casa para sí, e hizo cabañas para su ganado; por tanto, llamó el nombre de aquel lugar Sucot."
+        },
+        {
+            "id": "g33_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y Jacob vino a la ciudad de Siquem, que está en la tierra de Canaán, cuando venía de Padan-aram; y acampó delante de la ciudad."
+        },
+        {
+            "id": "g33_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y compró una parte del campo, donde tendió su tienda, de mano de los hijos de Hamor, padre de Siquem, por cien monedas."
+        },
+        {
+            "id": "g33_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y erigió allí un altar, y le llamó:"
+        },
+        {
+            "id": "g33_20b",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "El Poderoso Dios de Israel."
+        }
+    ]
+}

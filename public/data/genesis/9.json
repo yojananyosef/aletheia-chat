@@ -1,0 +1,211 @@
+{
+    "book": "Génesis",
+    "chapter": 9,
+    "title": "Génesis 9",
+    "messages": [
+        {
+            "id": "g9_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y bendijo Dios a Noé y a sus hijos, y les dijo:"
+        },
+        {
+            "id": "g9_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Fructificad y multiplicaos, y llenad la tierra."
+        },
+        {
+            "id": "g9_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Y el temor y el pavor de vosotros estarán sobre todo animal de la tierra, y sobre toda ave de los cielos, en todo lo que se mueva sobre la tierra, y en todos los peces del mar. En vuestra mano son entregados."
+        },
+        {
+            "id": "g9_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Todo lo que se mueve y vive, os será para mantenimiento; así como las legumbres y plantas verdes; os lo he dado todo."
+        },
+        {
+            "id": "g9_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Pero carne con su vida, que es su sangre, no comeréis."
+        },
+        {
+            "id": "g9_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre."
+        },
+        {
+            "id": "g9_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "El que derramare sangre del hombre, por el hombre su sangre será derramada; porque a imagen de Dios es hecho el hombre."
+        },
+        {
+            "id": "g9_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Mas vosotros fructificad, y multiplicaos; procread abundantemente en la tierra, y multiplicaos en ella."
+        },
+        {
+            "id": "g9_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y habló Dios a Noé y a sus hijos con él, diciendo:"
+        },
+        {
+            "id": "g9_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "He aquí que yo establezco mi pacto con vosotros, y con vuestra simiente después de vosotros;"
+        },
+        {
+            "id": "g9_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y con toda alma viviente que está con vosotros, de aves, de animales, y de toda bestia de la tierra que está con vosotros; desde todos los que salieron del arca hasta todo animal de la tierra."
+        },
+        {
+            "id": "g9_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y estableceré mi pacto con vosotros, y no será exterminada ya más toda carne con aguas de diluvio; ni habrá más diluvio para destruir la tierra."
+        },
+        {
+            "id": "g9_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y dijo Dios:"
+        },
+        {
+            "id": "g9_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Ésta es la señal del pacto que yo establezco con vosotros y con todo ser viviente que está con vosotros, por perpetuas generaciones."
+        },
+        {
+            "id": "g9_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Mi arco pondré en las nubes, el cual será por señal del pacto entre mí y la tierra."
+        },
+        {
+            "id": "g9_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y será que cuando haré venir nubes sobre la tierra, se dejará ver entonces mi arco en las nubes."
+        },
+        {
+            "id": "g9_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y me acordaré de mi pacto, que hay entre mí y vosotros y todo ser viviente de toda carne; y no serán más las aguas por diluvio para destruir toda carne."
+        },
+        {
+            "id": "g9_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y estará el arco en las nubes, y lo veré, y me acordaré del pacto eterno entre Dios y todo ser viviente de toda carne que hay sobre la tierra."
+        },
+        {
+            "id": "g9_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y dijo Dios a Noé:"
+        },
+        {
+            "id": "g9_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Ésta es la señal del pacto que he establecido entre mí y toda carne que está sobre la tierra."
+        },
+        {
+            "id": "g9_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y los hijos de Noé que salieron del arca fueron Sem, Cam y Jafet: y Cam es el padre de Canaán."
+        },
+        {
+            "id": "g9_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Estos tres son los hijos de Noé; y de ellos fue llena toda la tierra."
+        },
+        {
+            "id": "g9_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y comenzó Noé a labrar la tierra, y plantó una viña;"
+        },
+        {
+            "id": "g9_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "y bebió del vino, y se embriagó, y estaba descubierto en medio de su tienda."
+        },
+        {
+            "id": "g9_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y Cam, padre de Canaán, vio la desnudez de su padre, y lo dijo a sus dos hermanos que estaban afuera."
+        },
+        {
+            "id": "g9_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces Sem y Jafet tomaron la ropa, y la pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron la desnudez de su padre teniendo vueltos sus rostros, y así no vieron la desnudez de su padre."
+        },
+        {
+            "id": "g9_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y despertó Noé de su vino, y supo lo que había hecho con él su hijo el más joven;"
+        },
+        {
+            "id": "g9_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g9_25b",
+            "speaker": "Noé",
+            "verse": 25,
+            "text": "Maldito sea Canaán; siervo de siervos será a sus hermanos."
+        },
+        {
+            "id": "g9_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Dijo más:"
+        },
+        {
+            "id": "g9_26b",
+            "speaker": "Noé",
+            "verse": 26,
+            "text": "Bendito sea Jehová el Dios de Sem, y sea Canaán su siervo."
+        },
+        {
+            "id": "g9_27",
+            "speaker": "Noé",
+            "verse": 27,
+            "text": "Engrandezca Dios a Jafet, y habite en las tiendas de Sem, y sea Canaán su siervo."
+        },
+        {
+            "id": "g9_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y vivió Noé después del diluvio trescientos cincuenta años."
+        },
+        {
+            "id": "g9_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y fueron todos los días de Noé novecientos cincuenta años; y murió."
+        }
+    ]
+}

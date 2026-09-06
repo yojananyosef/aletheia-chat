@@ -1,0 +1,457 @@
+{
+    "book": "Génesis",
+    "chapter": 31,
+    "title": "Génesis 31",
+    "messages": [
+        {
+            "id": "g31_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y oía él las palabras de los hijos de Labán que decían:"
+        },
+        {
+            "id": "g31_1b",
+            "speaker": "Hijos de Labán",
+            "verse": 1,
+            "text": "Jacob ha tomado todo lo que era de nuestro padre, y de lo que era de nuestro padre ha adquirido toda esta grandeza."
+        },
+        {
+            "id": "g31_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Miraba también Jacob el semblante de Labán, y veía que no era para con él como había sido antes."
+        },
+        {
+            "id": "g31_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "También Jehová dijo a Jacob:"
+        },
+        {
+            "id": "g31_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Vuélvete a la tierra de tus padres, y a tu parentela, y yo estaré contigo."
+        },
+        {
+            "id": "g31_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y envió Jacob, y llamó a Raquel y a Lea al campo, donde estaba su rebaño,"
+        },
+        {
+            "id": "g31_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "g31_5b",
+            "speaker": "Jacob",
+            "verse": 5,
+            "text": "Veo que el semblante de vuestro padre no es para conmigo como antes; pero el Dios de mi padre ha estado conmigo."
+        },
+        {
+            "id": "g31_6",
+            "speaker": "Jacob",
+            "verse": 6,
+            "text": "Y vosotras sabéis que con todas mis fuerzas he servido a vuestro padre:"
+        },
+        {
+            "id": "g31_7",
+            "speaker": "Jacob",
+            "verse": 7,
+            "text": "Y vuestro padre me ha engañado, y me ha cambiado el salario diez veces; pero Dios no le ha permitido hacerme daño."
+        },
+        {
+            "id": "g31_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Si él decía así:"
+        },
+        {
+            "id": "g31_8b",
+            "speaker": "Jacob",
+            "verse": 8,
+            "text": "Los pintados serán tu salario; entonces todas las ovejas parían pintados: y si decía así: Los listados serán tu salario; entonces todas las ovejas parían listados."
+        },
+        {
+            "id": "g31_9",
+            "speaker": "Jacob",
+            "verse": 9,
+            "text": "Así quitó Dios el ganado de vuestro padre, y me lo dio a mí."
+        },
+        {
+            "id": "g31_10",
+            "speaker": "Jacob",
+            "verse": 10,
+            "text": "Y sucedió que al tiempo que las ovejas se apareaban, alcé yo mis ojos y miré en sueños, y he aquí los machos que cubrían a las hembras eran listados, pintados y abigarrados."
+        },
+        {
+            "id": "g31_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y el Ángel de Dios me habló en un sueño diciendo:"
+        },
+        {
+            "id": "g31_11b",
+            "speaker": "Ángel",
+            "verse": 11,
+            "text": "Jacob."
+        },
+        {
+            "id": "g31_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y yo dije:"
+        },
+        {
+            "id": "g31_11d",
+            "speaker": "Jacob",
+            "verse": 11,
+            "text": "Heme aquí."
+        },
+        {
+            "id": "g31_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Él dijo:"
+        },
+        {
+            "id": "g31_12b",
+            "speaker": "Ángel",
+            "verse": 12,
+            "text": "Alza ahora tus ojos, y mira; todos los machos que cubren a las ovejas son listados, pintados y abigarrados; porque yo he visto todo lo que Labán te ha hecho."
+        },
+        {
+            "id": "g31_13",
+            "speaker": "Ángel",
+            "verse": 13,
+            "text": "Yo soy el Dios de Betel, donde tú ungiste la columna, y donde me hiciste un voto. Levántate ahora, y sal de esta tierra, y vuélvete a la tierra de tus padres."
+        },
+        {
+            "id": "g31_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y respondió Raquel y Lea, y le dijeron:"
+        },
+        {
+            "id": "g31_14b",
+            "speaker": "Raquel",
+            "verse": 14,
+            "text": "¿Acaso tenemos todavía parte o heredad en la casa de nuestro padre?"
+        },
+        {
+            "id": "g31_15",
+            "speaker": "Raquel",
+            "verse": 15,
+            "text": "¿No nos tiene ya como por extrañas, pues que nos vendió, y aun se ha comido del todo nuestro precio?"
+        },
+        {
+            "id": "g31_16",
+            "speaker": "Raquel",
+            "verse": 16,
+            "text": "Porque toda la riqueza que Dios ha quitado a nuestro padre, nuestra es y de nuestros hijos; ahora pues, haz todo lo que Dios te ha dicho."
+        },
+        {
+            "id": "g31_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces se levantó Jacob, y subió a sus hijos y a sus esposas sobre los camellos."
+        },
+        {
+            "id": "g31_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y puso en camino todo su ganado, y todos sus bienes que había adquirido, el ganado de su ganancia que había obtenido en Padan-aram, para volverse a Isaac su padre en la tierra de Canaán."
+        },
+        {
+            "id": "g31_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y Labán había ido a trasquilar sus ovejas: y Raquel hurtó los ídolos de su padre."
+        },
+        {
+            "id": "g31_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Jacob engañó a Labán el arameo, al no decirle que se huía."
+        },
+        {
+            "id": "g31_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Huyó, pues, con todo lo que tenía; y se levantó, y pasó el río, y puso su rostro hacia el monte de Galaad."
+        },
+        {
+            "id": "g31_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y al tercer día fue dicho a Labán que Jacob había huido."
+        },
+        {
+            "id": "g31_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces tomó a sus hermanos consigo, y fue tras él camino de siete días, y le alcanzó en el monte de Galaad."
+        },
+        {
+            "id": "g31_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y vino Dios a Labán arameo en sueños aquella noche, y le dijo:"
+        },
+        {
+            "id": "g31_24b",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Guárdate que no hables a Jacob descomedidamente."
+        },
+        {
+            "id": "g31_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Alcanzó, pues, Labán a Jacob. Y Jacob había fijado su tienda en el monte, y Labán acampó con sus hermanos en el monte de Galaad."
+        },
+        {
+            "id": "g31_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y dijo Labán a Jacob:"
+        },
+        {
+            "id": "g31_26b",
+            "speaker": "Labán",
+            "verse": 26,
+            "text": "¿Qué has hecho, que me has engañado, y has traído a mis hijas como cautivas a espada?"
+        },
+        {
+            "id": "g31_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "¿Por qué te escondiste para huir, y me hurtaste; y no me lo hiciste saber para que yo te enviara con alegría y con cantares, con tamborín y arpa?"
+        },
+        {
+            "id": "g31_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y ni siquiera me dejaste besar a mis hijos y a mis hijas. Ahora locamente has hecho."
+        },
+        {
+            "id": "g31_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Poder hay en mi mano para haceros mal; mas el Dios de vuestro padre me habló anoche diciendo:"
+        },
+        {
+            "id": "g31_29b",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Guárdate que no hables a Jacob descomedidamente."
+        },
+        {
+            "id": "g31_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y ya que te ibas, porque tenías deseo de la casa de tu padre, ¿por qué me hurtaste mis dioses?"
+        },
+        {
+            "id": "g31_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y Jacob respondió, y dijo a Labán:"
+        },
+        {
+            "id": "g31_31b",
+            "speaker": "Jacob",
+            "verse": 31,
+            "text": "Porque tuve miedo; pues dije, que quizás me quitarías por fuerza tus hijas."
+        },
+        {
+            "id": "g31_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "En quien hallares tus dioses, no viva; delante de nuestros hermanos reconoce lo que yo tuviere tuyo, y llévatelo. Jacob no sabía que Raquel los había hurtado."
+        },
+        {
+            "id": "g31_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y entró Labán en la tienda de Jacob, y en la tienda de Lea, y en la tienda de las dos siervas, y no los halló, y salió de la tienda de Lea, y vino a la tienda de Raquel."
+        },
+        {
+            "id": "g31_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y tomó Raquel los ídolos, y los puso en una albarda de un camello, y se sentó sobre ellos; y buscó Labán por toda la tienda pero no los halló."
+        },
+        {
+            "id": "g31_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y ella dijo a su padre:"
+        },
+        {
+            "id": "g31_35b",
+            "speaker": "Raquel",
+            "verse": 35,
+            "text": "No se enoje mi señor, porque no me puedo levantar delante de ti; pues estoy con la costumbre de las mujeres. Y él buscó, pero no halló los ídolos."
+        },
+        {
+            "id": "g31_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces Jacob se enojó, y discutió con Labán; y respondió Jacob y dijo a Labán:"
+        },
+        {
+            "id": "g31_36b",
+            "speaker": "Jacob",
+            "verse": 36,
+            "text": "¿Cuál es mi transgresión? ¿Cuál es mi pecado, para que con tanto ardor hayas venido en mi persecución?"
+        },
+        {
+            "id": "g31_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Pues que has buscado en todas mis cosas, ¿qué has hallado de todas las alhajas de tu casa? Ponlo aquí delante de mis hermanos y de tus hermanos, y juzguen entre nosotros."
+        },
+        {
+            "id": "g31_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Estos veinte años he estado contigo: tus ovejas y tus cabras nunca abortaron, ni yo comí carnero de tus ovejas."
+        },
+        {
+            "id": "g31_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Nunca te traje lo arrebatado por las fieras; yo pagaba el daño; lo hurtado así de día como de noche, de mi mano lo requerías."
+        },
+        {
+            "id": "g31_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "De día me consumía el calor, y de noche la helada, y el sueño huía de mis ojos."
+        },
+        {
+            "id": "g31_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Así he estado veinte años en tu casa: catorce años te serví por tus dos hijas, y seis años por tu ganado; y has mudado mi salario diez veces."
+        },
+        {
+            "id": "g31_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Si el Dios de mi padre, el Dios de Abraham, y el temor de Isaac, no fuera conmigo, de cierto me enviarías ahora vacío; pero Dios vio mi aflicción y el trabajo de mis manos, y te reprendió anoche."
+        },
+        {
+            "id": "g31_43a",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y respondió Labán, y dijo a Jacob:"
+        },
+        {
+            "id": "g31_43b",
+            "speaker": "Labán",
+            "verse": 43,
+            "text": "Las hijas son hijas mías, y los hijos, hijos míos son, y las ovejas son mis ovejas, y todo lo que tú ves es mío: ¿y qué puedo yo hacer hoy a estas mis hijas, o a sus hijos que ellas han dado a luz?"
+        },
+        {
+            "id": "g31_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Ven, pues, ahora, hagamos alianza tú y yo; y sea en testimonio entre nosotros dos."
+        },
+        {
+            "id": "g31_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Entonces Jacob tomó una piedra, y la levantó por columna."
+        },
+        {
+            "id": "g31_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Y dijo Jacob a sus hermanos:"
+        },
+        {
+            "id": "g31_46b",
+            "speaker": "Jacob",
+            "verse": 46,
+            "text": "Recoged piedras. Y tomaron piedras e hicieron un majano; y comieron allí sobre aquel majano."
+        },
+        {
+            "id": "g31_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Y lo llamó Labán Jegar Sahaduta; y lo llamó Jacob Galaad."
+        },
+        {
+            "id": "g31_48a",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Porque Labán dijo:"
+        },
+        {
+            "id": "g31_48b",
+            "speaker": "Labán",
+            "verse": 48,
+            "text": "Este majano es testigo hoy entre tú y yo; por eso fue llamado su nombre Galaad."
+        },
+        {
+            "id": "g31_49a",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y Mizpa, por cuanto dijo:"
+        },
+        {
+            "id": "g31_49b",
+            "speaker": "Labán",
+            "verse": 49,
+            "text": "Atalaye Jehová entre tú y yo, cuando nos hayamos apartado el uno del otro."
+        },
+        {
+            "id": "g31_50",
+            "speaker": "Labán",
+            "verse": 50,
+            "text": "Si afligieres a mis hijas, o si tomares otras esposas además de mis hijas, nadie está con nosotros; mira, Dios es testigo entre tú y yo."
+        },
+        {
+            "id": "g31_51a",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Dijo más Labán a Jacob:"
+        },
+        {
+            "id": "g31_51b",
+            "speaker": "Labán",
+            "verse": 51,
+            "text": "He aquí este majano, y he aquí esta columna, que he erigido entre tú y yo."
+        },
+        {
+            "id": "g31_52",
+            "speaker": "Labán",
+            "verse": 52,
+            "text": "Testigo sea este majano, y testigo sea esta columna, que ni yo pasaré contra ti este majano, ni tú pasarás contra mí este majano ni esta columna, para mal."
+        },
+        {
+            "id": "g31_53",
+            "speaker": "Labán",
+            "verse": 53,
+            "text": "El Dios de Abraham, y el Dios de Nacor juzgue entre nosotros, el Dios de sus padres. Y Jacob juró por el temor de Isaac su padre."
+        },
+        {
+            "id": "g31_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Entonces Jacob ofreció un sacrificio en el monte y llamó a sus hermanos a comer pan; y comieron pan, y pasaron aquella noche en el monte."
+        },
+        {
+            "id": "g31_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Y levantándose muy de mañana, Labán besó a sus hijos y a sus hijas, y los bendijo. Luego partió Labán y regresó a su lugar."
+        }
+    ]
+}

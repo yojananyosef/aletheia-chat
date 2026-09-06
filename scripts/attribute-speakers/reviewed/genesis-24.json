@@ -1,0 +1,248 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Abraham",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.8
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "d",
+    "speaker": "Labán",
+    "confidence": 0.9
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 39,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 41,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 43,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 44,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 45,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 46,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 47,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 47,
+    "subId": "d",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 48,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 49,
+    "subId": "",
+    "speaker": "Criado",
+    "confidence": 0.85
+  },
+  {
+    "verse": 51,
+    "subId": "",
+    "speaker": "Labán",
+    "confidence": 0.8
+  },
+  {
+    "verse": 54,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 55,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.75
+  },
+  {
+    "verse": 56,
+    "subId": "b",
+    "speaker": "Criado",
+    "confidence": 0.9
+  },
+  {
+    "verse": 57,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.75
+  },
+  {
+    "verse": 58,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.9
+  },
+  {
+    "verse": 58,
+    "subId": "d",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 60,
+    "subId": "b",
+    "speaker": "Labán",
+    "confidence": 0.75
+  },
+  {
+    "verse": 65,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  }
+]

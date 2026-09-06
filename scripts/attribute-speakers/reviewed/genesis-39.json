@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Esposa",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "José",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Esposa",
+    "confidence": 0.8
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "José",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Esposa",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Esposa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Esposa",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Esposa",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Esposa",
+    "confidence": 0.9
+  }
+]

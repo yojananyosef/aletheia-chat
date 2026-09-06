@@ -1,0 +1,86 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Mensajero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.85
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "d",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
+    "subId": "d",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "d",
+    "speaker": "Dios",
+    "confidence": 0.9
+  }
+]

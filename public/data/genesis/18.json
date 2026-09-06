@@ -1,0 +1,373 @@
+{
+    "book": "Génesis",
+    "chapter": 18,
+    "title": "Génesis 18",
+    "messages": [
+        {
+            "id": "g18_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y le apareció Jehová en el valle de Mamre, estando él sentado a la puerta de su tienda en el calor del día."
+        },
+        {
+            "id": "g18_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y alzó sus ojos y miró, y he aquí tres varones que estaban junto a él; y cuando los vio, salió corriendo de la puerta de su tienda a recibirlos, y se inclinó hacia la tierra,"
+        },
+        {
+            "id": "g18_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g18_3b",
+            "speaker": "Abraham",
+            "verse": 3,
+            "text": "Mi Señor, si ahora he hallado gracia en tus ojos, te ruego que no pases de tu siervo."
+        },
+        {
+            "id": "g18_4",
+            "speaker": "Abraham",
+            "verse": 4,
+            "text": "Que se traiga ahora un poco de agua, y lavad vuestros pies; y recostaos debajo de un árbol,"
+        },
+        {
+            "id": "g18_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y traeré un bocado de pan, y sustentad vuestro corazón; después pasaréis; porque por eso habéis pasado cerca de vuestro siervo. Y ellos dijeron:"
+        },
+        {
+            "id": "g18_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Haz así como has dicho."
+        },
+        {
+            "id": "g18_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces Abraham fue de prisa a la tienda a Sara, y le dijo:"
+        },
+        {
+            "id": "g18_6b",
+            "speaker": "Abraham",
+            "verse": 6,
+            "text": "Toma presto tres medidas de flor de harina, amasa y haz panes cocidos debajo del rescoldo."
+        },
+        {
+            "id": "g18_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y corrió Abraham a las vacas, y tomó un becerro tierno y bueno, y lo dio al criado, y éste se dio prisa a aderezarlo."
+        },
+        {
+            "id": "g18_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y tomó mantequilla y leche, y el becerro que había aderezado, y lo puso delante de ellos; y él estaba junto a ellos debajo del árbol; y comieron."
+        },
+        {
+            "id": "g18_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y le dijeron:"
+        },
+        {
+            "id": "g18_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Dónde está Sara tu esposa?"
+        },
+        {
+            "id": "g18_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y él respondió:"
+        },
+        {
+            "id": "g18_9d",
+            "speaker": "Abraham",
+            "verse": 9,
+            "text": "Aquí en la tienda."
+        },
+        {
+            "id": "g18_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces dijo:"
+        },
+        {
+            "id": "g18_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "De cierto volveré a ti según el tiempo de la vida, y he aquí, tendrá un hijo tu esposa Sara. Y Sara escuchaba a la puerta de la tienda, que estaba detrás de él."
+        },
+        {
+            "id": "g18_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y Abraham y Sara eran viejos, entrados en días: y a Sara le había cesado ya la costumbre de las mujeres."
+        },
+        {
+            "id": "g18_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Se rió, pues, Sara entre sí, diciendo:"
+        },
+        {
+            "id": "g18_12b",
+            "speaker": "Sara",
+            "verse": 12,
+            "text": "¿Después que he envejecido tendré deleite, siendo también mi señor ya viejo?"
+        },
+        {
+            "id": "g18_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Jehová dijo a Abraham:"
+        },
+        {
+            "id": "g18_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "¿Por qué se ha reído Sara diciendo: Será cierto que he de dar a luz siendo ya vieja?"
+        },
+        {
+            "id": "g18_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "¿Hay para Dios alguna cosa difícil? Al tiempo señalado volveré a ti, según el tiempo de la vida, y Sara tendrá un hijo."
+        },
+        {
+            "id": "g18_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces Sara negó diciendo:"
+        },
+        {
+            "id": "g18_15b",
+            "speaker": "Sara",
+            "verse": 15,
+            "text": "No me reí; porque tuvo miedo."
+        },
+        {
+            "id": "g18_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "g18_15d",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "No es así, sino que te has reído."
+        },
+        {
+            "id": "g18_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y los varones se levantaron de allí, y miraron hacia Sodoma: y Abraham iba con ellos acompañándolos."
+        },
+        {
+            "id": "g18_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y Jehová dijo:"
+        },
+        {
+            "id": "g18_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "¿Encubriré yo a Abraham lo que voy a hacer,"
+        },
+        {
+            "id": "g18_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "habiendo de ser Abraham una nación grande y fuerte, y habiendo de ser benditas en él todas las naciones de la tierra?"
+        },
+        {
+            "id": "g18_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Porque yo lo conozco, sé que mandará a sus hijos y a su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio, para que haga venir Jehová sobre Abraham lo que ha hablado acerca de él."
+        },
+        {
+            "id": "g18_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Entonces Jehová le dijo:"
+        },
+        {
+            "id": "g18_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Por cuanto el clamor de Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo,"
+        },
+        {
+            "id": "g18_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "descenderé ahora, y veré si han consumado su obra según el clamor que ha venido hasta mí; y si no, lo sabré."
+        },
+        {
+            "id": "g18_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y se apartaron de allí los varones, y fueron hacia Sodoma; mas Abraham estaba aún delante de Jehová."
+        },
+        {
+            "id": "g18_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y se acercó Abraham y dijo:"
+        },
+        {
+            "id": "g18_23b",
+            "speaker": "Abraham",
+            "verse": 23,
+            "text": "¿Destruirás también al justo con el impío?"
+        },
+        {
+            "id": "g18_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Tal vez haya cincuenta justos dentro de la ciudad: ¿destruirás también y no perdonarás al lugar por amor a los cincuenta justos que estén dentro de él?"
+        },
+        {
+            "id": "g18_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Lejos de ti el hacer tal cosa, que hagas morir al justo con el impío y que sea el justo tratado como el impío; nunca tal hagas. El Juez de toda la tierra, ¿no ha de hacer lo que es justo?"
+        },
+        {
+            "id": "g18_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces respondió Jehová:"
+        },
+        {
+            "id": "g18_26b",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Si hallare en Sodoma cincuenta justos dentro de la ciudad, perdonaré a todo este lugar por amor a ellos."
+        },
+        {
+            "id": "g18_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y Abraham replicó y dijo:"
+        },
+        {
+            "id": "g18_27b",
+            "speaker": "Abraham",
+            "verse": 27,
+            "text": "He aquí ahora que he comenzado a hablar a mi Señor, aunque soy polvo y ceniza:"
+        },
+        {
+            "id": "g18_28a",
+            "speaker": "Abraham",
+            "verse": 28,
+            "text": "Quizá faltarán de cincuenta justos cinco: ¿destruirás por aquellos cinco toda la ciudad?"
+        },
+        {
+            "id": "g18_28a2",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g18_28b",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "No la destruiré, si hallare allí cuarenta y cinco."
+        },
+        {
+            "id": "g18_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y volvió a hablarle, y dijo:"
+        },
+        {
+            "id": "g18_29b",
+            "speaker": "Abraham",
+            "verse": 29,
+            "text": "Quizá se hallarán allí cuarenta."
+        },
+        {
+            "id": "g18_29c",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y respondió:"
+        },
+        {
+            "id": "g18_29d",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "No lo haré por amor a los cuarenta."
+        },
+        {
+            "id": "g18_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g18_30b",
+            "speaker": "Abraham",
+            "verse": 30,
+            "text": "No se enoje ahora mi Señor, si hablare; quizá se hallarán allí treinta."
+        },
+        {
+            "id": "g18_30c",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y respondió:"
+        },
+        {
+            "id": "g18_30d",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "No lo haré si hallare allí treinta."
+        },
+        {
+            "id": "g18_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "g18_31b",
+            "speaker": "Abraham",
+            "verse": 31,
+            "text": "He aquí ahora que he emprendido el hablar a mi Señor: quizá se hallarán allí veinte. No la destruiré, respondió, por amor a los veinte."
+        },
+        {
+            "id": "g18_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Y volvió a decir:"
+        },
+        {
+            "id": "g18_32b",
+            "speaker": "Abraham",
+            "verse": 32,
+            "text": "No se enoje ahora mi Señor, si hablare solamente una vez: quizá se hallarán allí diez."
+        },
+        {
+            "id": "g18_32c",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "No la destruiré, respondió, por amor a los diez."
+        },
+        {
+            "id": "g18_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y Jehová se fue, luego que acabó de hablar a Abraham; y Abraham se volvió a su lugar."
+        }
+    ]
+}

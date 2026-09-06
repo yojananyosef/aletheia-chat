@@ -1,0 +1,140 @@
+[
+  {
+    "verse": 1,
+    "subId": "d",
+    "speaker": "Esaú",
+    "confidence": 0.9
+  },
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "d",
+    "speaker": "Isaac",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "d",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "d",
+    "speaker": "Jacob",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Esaú",
+    "confidence": 0.9
+  },
+  {
+    "verse": 32,
+    "subId": "d",
+    "speaker": "Esaú",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Isaac",
+    "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Esaú",
+    "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "d",
+    "speaker": "Esaú",
+    "confidence": 0.9
+  },
+  {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Isaac",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.85
+  },
+  {
+    "verse": 45,
+    "subId": "",
+    "speaker": "Rebeca",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Rebeca",
+    "confidence": 0.9
+  }
+]
