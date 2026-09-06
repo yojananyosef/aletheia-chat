@@ -11,6 +11,7 @@ export type CanonicalSpeaker =
     | 'Efrón' | 'Judá' | 'Rubén' | 'Copero' | 'Panadero' | 'Ángel'
     | 'Hermanos' | 'Hijos de Labán' | 'Tamar'
     | 'Hombre' | 'Amigo' | 'Rey de Sodoma'
+    | 'María' | 'Egipcios' | 'Capataces' | 'Encantadores' | 'Artífices'
     | 'Criado' | 'Segadores' | 'Pariente' | 'Ancianos' | 'Mujeres' | 'Pueblo'
     | 'Marineros' | 'Rey de Nínive' | 'Impíos' | 'Pueblos'
     | 'Samuel' | 'Saúl' | 'David' | 'Salomón' | 'Elías' | 'Eliseo'
