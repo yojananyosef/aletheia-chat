@@ -1,0 +1,289 @@
+{
+    "book": "Esdras",
+    "chapter": 10,
+    "title": "Esdras 10",
+    "messages": [
+        {
+            "id": "ezr10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y orando Esdras y confesando, llorando y postrándose delante de la casa de Dios, se juntó a él una muy grande multitud de Israel, hombres, mujeres y niños; y lloraba el pueblo con gran llanto."
+        },
+        {
+            "id": "ezr10_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces respondió Secanías, hijo de Jehiel, uno de los hijos de Elam, y dijo a Esdras:"
+        },
+        {
+            "id": "ezr10_2b",
+            "speaker": "Secanías",
+            "verse": 2,
+            "text": "Nosotros hemos prevaricado contra nuestro Dios, pues tomamos esposas extranjeras de los pueblos de la tierra; pero aún hay esperanza para Israel sobre esto."
+        },
+        {
+            "id": "ezr10_3",
+            "speaker": "Secanías",
+            "verse": 3,
+            "text": "Ahora, pues, hagamos pacto con nuestro Dios, que echaremos a todas las esposas extranjeras y a los nacidos de ellas, según el consejo de mi señor y de los que tiemblan ante el mandamiento de nuestro Dios; y hágase conforme a la ley."
+        },
+        {
+            "id": "ezr10_4",
+            "speaker": "Secanías",
+            "verse": 4,
+            "text": "Levántate, porque a ti toca este asunto, y nosotros seremos contigo; esfuérzate, y ponlo por obra."
+        },
+        {
+            "id": "ezr10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces se levantó Esdras, e hizo jurar a los príncipes de los sacerdotes y a los levitas, y a todo Israel, que harían conforme a esto; y ellos juraron."
+        },
+        {
+            "id": "ezr10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Se levantó luego Esdras de delante de la casa de Dios, y fue a la cámara de Johanán, hijo de Eliasib; y llegado allí, no comió pan ni bebió agua, porque se entristeció a causa de la prevaricación de los de la cautividad."
+        },
+        {
+            "id": "ezr10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "E hicieron pasar pregón por Judá y por Jerusalén a todos los hijos de la cautividad, que se reuniesen en Jerusalén:"
+        },
+        {
+            "id": "ezr10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y que el que no viniese en un lapso de tres días, conforme al acuerdo de los príncipes y de los ancianos, perdiese toda su hacienda, y él fuese apartado de la congregación de aquellos que habían sido llevados en cautiverio."
+        },
+        {
+            "id": "ezr10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Así todos los hombres de Judá y de Benjamín se reunieron en Jerusalén dentro de los tres días, a los veinte del mes, el cual era el mes noveno; y se sentó todo el pueblo en la plaza de la casa de Dios, temblando con motivo de aquel asunto, y también por causa de la intensa lluvia."
+        },
+        {
+            "id": "ezr10_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y se levantó Esdras el sacerdote, y les dijo:"
+        },
+        {
+            "id": "ezr10_10b",
+            "speaker": "Esdras",
+            "verse": 10,
+            "text": "Vosotros habéis prevaricado, por cuanto tomasteis esposas extranjeras, añadiendo así sobre el pecado de Israel."
+        },
+        {
+            "id": "ezr10_11",
+            "speaker": "Esdras",
+            "verse": 11,
+            "text": "Ahora, pues, dad gloria a Jehová Dios de vuestros padres, y haced su voluntad, y apartaos de los pueblos de las tierras, y de las esposas extranjeras."
+        },
+        {
+            "id": "ezr10_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces toda la congregación respondió, y dijo en alta voz:"
+        },
+        {
+            "id": "ezr10_12b",
+            "speaker": "Pueblo",
+            "verse": 12,
+            "text": "Así se haga conforme a tu palabra."
+        },
+        {
+            "id": "ezr10_13",
+            "speaker": "Pueblo",
+            "verse": 13,
+            "text": "Mas el pueblo es mucho, y el tiempo lluvioso, y no podemos permanecer afuera; ni la obra es de un día ni de dos, porque somos muchos los que hemos prevaricado en esto."
+        },
+        {
+            "id": "ezr10_14",
+            "speaker": "Pueblo",
+            "verse": 14,
+            "text": "Dejad ahora que se queden nuestros príncipes, los de toda la congregación; y todos aquellos que en nuestras ciudades hubieren tomado esposas extranjeras, vengan en tiempos determinados, y con ellos los ancianos de cada ciudad, y los jueces de ellas, hasta que apartemos de nosotros el furor de la ira de nuestro Dios sobre esto."
+        },
+        {
+            "id": "ezr10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Solamente Jonatán, hijo de Asael, y Jahazías, hijo de Ticva, fueron puestos sobre este asunto; y Mesulam y el levita Sabetai les ayudaron."
+        },
+        {
+            "id": "ezr10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "E hicieron así los hijos de la cautividad. Y fueron apartados Esdras el sacerdote, y los varones jefes de familias en la casa de sus padres, todos ellos por sus nombres, se sentaron el primer día del mes décimo para inquirir el asunto."
+        },
+        {
+            "id": "ezr10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y concluyeron, con todos aquellos que habían tomado esposas extranjeras, al primer día del mes primero."
+        },
+        {
+            "id": "ezr10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y de los hijos de los sacerdotes que habían tomado esposas extranjeras, fueron hallados estos: De los hijos de Jesúa hijo de Josadac, y de sus hermanos: Maasías, Eliezer, Jarib y Gedalías;"
+        },
+        {
+            "id": "ezr10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y dieron su mano en promesa de echar a sus esposas extranjeras, y siendo culpables ofrecieron un carnero de los rebaños por su delito."
+        },
+        {
+            "id": "ezr10_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y de los hijos de Imer: Hanani y Zebadías."
+        },
+        {
+            "id": "ezr10_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y de los hijos de Harim, Maasías, Elías, Semaías, Jehiel y Uzías."
+        },
+        {
+            "id": "ezr10_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y de los hijos de Pasur: Elioenai, Maasías, Ismael, Natanael, Jozabad y Elasa."
+        },
+        {
+            "id": "ezr10_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y de los levitas: Jozabad, Simeí, Kelaía (éste es Kelita), Petaías, Judá y Eliezer."
+        },
+        {
+            "id": "ezr10_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y de los cantores, Eliasib; y de los porteros: Selum, Telem y Uri."
+        },
+        {
+            "id": "ezr10_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Asimismo de Israel: De los hijos de Paros: Ramía, Izías, Malquías, Miamín, Eleazar, Malquías y Benaía."
+        },
+        {
+            "id": "ezr10_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y de los hijos de Elam: Matanías, Zacarías, Jehiel, Abdi, Jerimot y Elías."
+        },
+        {
+            "id": "ezr10_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y de los hijos de Zatu: Elioenai, Eliasib, Matanías, Jerimot, Zabad y Aziza."
+        },
+        {
+            "id": "ezr10_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y de los hijos de Bebai: Johanán, Hananías, Zabai y Atlai."
+        },
+        {
+            "id": "ezr10_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y de los hijos de Bani: Mesulam, Maluc, Adaías, Jasub, Seal y Ramot."
+        },
+        {
+            "id": "ezr10_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y de los hijos de Pahat-moab: Adna, Queleal, Benaía, Maasías, Matanías, Bezaleel, Binúi y Manasés."
+        },
+        {
+            "id": "ezr10_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y de los hijos de Harim: Eliezer, Isías, Malquías, Semaías, Simeón,"
+        },
+        {
+            "id": "ezr10_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Benjamín, Maluc y Semarías."
+        },
+        {
+            "id": "ezr10_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "De los hijos de Hasum: Matenai, Matata, Zabad, Elifelet, Jeremai, Manasés y Simeí."
+        },
+        {
+            "id": "ezr10_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "De los hijos de Bani: Maadi, Amram, Uel,"
+        },
+        {
+            "id": "ezr10_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Benaía, Bedías, Quelúhi,"
+        },
+        {
+            "id": "ezr10_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Vanías, Meremot, Eliasib,"
+        },
+        {
+            "id": "ezr10_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Matanías, Matenai, Jaasai,"
+        },
+        {
+            "id": "ezr10_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Bani, Binúi, Simeí,"
+        },
+        {
+            "id": "ezr10_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Selemías, Natán, Adaías,"
+        },
+        {
+            "id": "ezr10_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Macnadbai, Sasai, Sarai,"
+        },
+        {
+            "id": "ezr10_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Azareel, Selemías, Semarías,"
+        },
+        {
+            "id": "ezr10_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Salum, Amarías y José."
+        },
+        {
+            "id": "ezr10_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y de los hijos de Nebo: Jeiel, Matatías, Zabad, Zebina, Jadau, Joel y Benaía."
+        },
+        {
+            "id": "ezr10_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Todos estos habían tomado esposas extranjeras; y algunos de ellos tenían esposas que les habían dado hijos."
+        }
+    ]
+}

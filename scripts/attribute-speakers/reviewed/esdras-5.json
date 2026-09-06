@@ -1,0 +1,92 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "a",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "a",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Ancianos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "a",
+    "speaker": "Ciro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Ciro",
+    "confidence": 0.85
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Tatnai",
+    "confidence": 0.85
+  }
+]

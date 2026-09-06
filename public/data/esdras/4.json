@@ -1,0 +1,163 @@
+{
+    "book": "Esdras",
+    "chapter": 4,
+    "title": "Esdras 4",
+    "messages": [
+        {
+            "id": "ezr4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando los enemigos de Judá y de Benjamín oyeron que los hijos de los de la cautividad edificaban el templo de Jehová, Dios de Israel,"
+        },
+        {
+            "id": "ezr4_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Vinieron a Zorobabel, y a los jefes de los padres, y les dijeron:"
+        },
+        {
+            "id": "ezr4_2b",
+            "speaker": "Adversarios",
+            "verse": 2,
+            "text": "Permitidnos edificar con vosotros, porque nosotros buscamos a vuestro Dios al igual que vosotros, y a Él hacemos sacrificios desde los días de Esar-hadón rey de Asiria, que nos hizo subir aquí."
+        },
+        {
+            "id": "ezr4_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero Zorobabel, y Jesúa y los demás cabezas de los padres de Israel les dijeron:"
+        },
+        {
+            "id": "ezr4_3b",
+            "speaker": "Zorobabel",
+            "verse": 3,
+            "text": "Vosotros nada tenéis que hacer edificando con nosotros casa a nuestro Dios, sino que nosotros unidos la edificaremos a Jehová, Dios de Israel, como nos mandó el rey Ciro, rey de Persia."
+        },
+        {
+            "id": "ezr4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Entonces el pueblo de la tierra debilitaba las manos del pueblo de Judá, atemorizándolo para que no edificara."
+        },
+        {
+            "id": "ezr4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y contrataron consejeros contra ellos para frustrar su propósito, todo el tiempo de Ciro, rey de Persia, y hasta el reinado de Darío, rey de Persia."
+        },
+        {
+            "id": "ezr4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y en el reinado de Asuero, en el principio de su reinado, escribieron acusaciones contra los moradores de Judá y de Jerusalén."
+        },
+        {
+            "id": "ezr4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y en días de Artajerjes, Bislam, Mitrídates, Tabeel, y los demás sus compañeros, escribieron a Artajerjes rey de Persia; y la escritura de la carta estaba hecha en arameo y traducida en arameo."
+        },
+        {
+            "id": "ezr4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Rehum el canciller y el escriba Simsai escribieron una carta contra Jerusalén al rey Artajerjes, de esta manera."
+        },
+        {
+            "id": "ezr4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "En aquel tiempo escribieron el canciller Rehum y el escriba Simsai, y sus demás compañeros, los dineos, los aparsaqueos, los tarpelitas, los afarseos, los erqueos, los babilonios, los susasqueos, los dieveos y los elamitas;"
+        },
+        {
+            "id": "ezr4_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y los demás pueblos que el grande y glorioso Asnapar trasportó, e hizo habitar en las ciudades de Samaria, y los demás del otro lado del río. Y ahora:"
+        },
+        {
+            "id": "ezr4_11",
+            "speaker": "Rehum",
+            "verse": 11,
+            "text": "Ésta es la copia de la carta que enviaron: Al rey Artajerjes: Tus siervos del otro lado del río. Y ahora:"
+        },
+        {
+            "id": "ezr4_12",
+            "speaker": "Rehum",
+            "verse": 12,
+            "text": "Sea notorio al rey, que los judíos que subieron de ti a nosotros, vinieron a Jerusalén; y edifican la ciudad rebelde y mala, y han levantado los muros y reparado los fundamentos."
+        },
+        {
+            "id": "ezr4_13",
+            "speaker": "Rehum",
+            "verse": 13,
+            "text": "Ahora sea notorio al rey, que si aquella ciudad fuere reedificada, y los muros fueren establecidos, ellos no pagarán tributo, ni impuesto, ni rentas, y el catastro de los reyes será menoscabado."
+        },
+        {
+            "id": "ezr4_14",
+            "speaker": "Rehum",
+            "verse": 14,
+            "text": "Y ya que nos mantienen del palacio, no nos es justo ver el menosprecio del rey; por tanto, hemos enviado para hacerlo saber al rey,"
+        },
+        {
+            "id": "ezr4_15",
+            "speaker": "Rehum",
+            "verse": 15,
+            "text": "para que busque en el libro de las historias de nuestros padres; y hallarás en el libro de las historias, y sabrás que esta ciudad es una ciudad rebelde y perjudicial a los reyes y a las provincias, y que de tiempo antiguo forman en medio de ella rebeliones; por lo que esta ciudad fue destruida."
+        },
+        {
+            "id": "ezr4_16",
+            "speaker": "Rehum",
+            "verse": 16,
+            "text": "Hacemos saber al rey, que si esta ciudad fuere reedificada, y erigidos sus muros, la región de más allá del río no será tuya."
+        },
+        {
+            "id": "ezr4_17",
+            "speaker": "Artajerjes",
+            "verse": 17,
+            "text": "El rey envió esta respuesta a Rehum el canciller, y al escriba Simsai, y a los demás sus compañeros que habitan en Samaria, y a los demás del otro lado del río: Paz ahora."
+        },
+        {
+            "id": "ezr4_18",
+            "speaker": "Artajerjes",
+            "verse": 18,
+            "text": "La carta que nos enviasteis fue leída claramente delante de mí."
+        },
+        {
+            "id": "ezr4_19",
+            "speaker": "Artajerjes",
+            "verse": 19,
+            "text": "Y por mí fue dado mandamiento, y buscaron; y hallaron que aquella ciudad de tiempo antiguo se ha levantado contra los reyes y se ha rebelado, y se ha formado en ella sedición;"
+        },
+        {
+            "id": "ezr4_20",
+            "speaker": "Artajerjes",
+            "verse": 20,
+            "text": "y que reyes fuertes hubo en Jerusalén, quienes señorearon en todas las provincias que están más allá del río; y que se les pagaba tributo, impuesto y rentas."
+        },
+        {
+            "id": "ezr4_21",
+            "speaker": "Artajerjes",
+            "verse": 21,
+            "text": "Ahora, pues, dad orden que cesen aquellos hombres, y que no sea esa ciudad reedificada hasta que por mí sea dado mandamiento."
+        },
+        {
+            "id": "ezr4_22",
+            "speaker": "Artajerjes",
+            "verse": 22,
+            "text": "Y mirad bien que no hagáis error en esto; ¿por qué habrá de crecer el daño para perjuicio de los reyes?"
+        },
+        {
+            "id": "ezr4_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces, cuando la copia de la carta del rey Artajerjes fue leída delante de Rehum, y del escriba Simsai, y sus compañeros, fueron prestamente a Jerusalén a los judíos, y les hicieron cesar con poder y fuerza."
+        },
+        {
+            "id": "ezr4_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces cesó la obra de la casa de Dios, que estaba en Jerusalén. Y cesó hasta el año segundo del reinado de Darío, rey de Persia."
+        }
+    ]
+}
