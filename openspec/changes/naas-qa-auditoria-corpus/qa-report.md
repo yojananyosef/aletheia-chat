@@ -31,12 +31,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | isaias | 1462 | 843 | 0 | 0 |
 | jeremias | 1715 | 269 | 0 | 0 |
 | lamentaciones | 163 | 162 | 0 | 0 |
+| ezequiel | 1504 | 410 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **29931** | **9159** | **0** | **0** |
+| **total** | **31435** | **9569** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -130,6 +131,19 @@ Edom y consuelo a Sión 4:21-22); **Jerusalén** = la ciudad personificada en 1�
 5 entero; **Dios** = única cita divina "No temas" (3:57b, el citado de "dijiste"); voces de
 escena: **Niños** (2:12b), **Sacerdotes** (4:15b), **Enemigos** (la burla 2:15b/16b). 24
 correcciones sobre el dry (los 12 falsos Dios incluidos).
+
+### Ezequiel — integración nueva (2026-09-06)
+Libro desbloqueado (1504 mensajes, 48 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Hereda
+la doctrina de Isaías/Jeremías: **Ezequiel** = la voz del profeta por defecto (visión del
+merkaba cap. 1, actos simbólicos 4-5/12/24:18/37:7/37:10, tour del templo 40-48, exclamaciones
+11:13b y 37:3d); **Dios** = dominante (marcos "Y me vino palabra de Jehová, diciendo:" y su
+continuación, comisionamiento 2-3, oráculos 25-39, voz desde la casa 43:7-12, y en 40-48 lo
+que el texto atribuye expresamente "me dijo Jehová"/"así dice Jehová"); **Ángel** = el varón
+de la caña de medir que guía el tour (40:4b, 40:45b, 41:4b, 41:22b, 42:13b, 46:20b, 46:24b,
+47:6b, 47:8b); **Pueblo** = citas de la casa de Israel (12:22b, 33:24b, 37:11d, 37:18b),
+pregunta 24:19b y mofa 33:30b (esta última correcta en el dry); **Mensajero** = el fugitivo
+que anuncia la caída de Jerusalén (33:21b). 21 correcciones sobre el dry (falsos Pueblo en
+3:11b, falsos Benaía/Hombres en 11:13b/15b).
 
 ## Triaje (estado del tasks.md)
 
