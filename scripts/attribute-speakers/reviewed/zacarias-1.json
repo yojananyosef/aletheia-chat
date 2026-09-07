@@ -1,0 +1,236 @@
+[
+  {
+    "verse": 1,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "d",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "d",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Zacarías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "d",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  }
+]

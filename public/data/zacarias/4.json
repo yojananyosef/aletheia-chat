@@ -1,0 +1,181 @@
+{
+    "book": "Zacarías",
+    "chapter": 4,
+    "title": "Zacarías 4",
+    "messages": [
+        {
+            "id": "zec4_1",
+            "speaker": "Zacarías",
+            "verse": 1,
+            "text": "Y volvió el Ángel que hablaba conmigo, y me despertó como un hombre que es despertado de su sueño."
+        },
+        {
+            "id": "zec4_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "zec4_2b",
+            "speaker": "Ángel",
+            "verse": 2,
+            "text": "¿Qué ves?"
+        },
+        {
+            "id": "zec4_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y respondí:"
+        },
+        {
+            "id": "zec4_2d",
+            "speaker": "Zacarías",
+            "verse": 2,
+            "text": "He mirado, y he aquí un candelero todo de oro, con un tazón sobre la parte superior, y sus siete lámparas encima del candelero; y siete tubos para las lámparas que están encima de él;"
+        },
+        {
+            "id": "zec4_3",
+            "speaker": "Zacarías",
+            "verse": 3,
+            "text": "Y sobre él dos olivos, uno a la derecha del tazón, y el otro a su izquierda."
+        },
+        {
+            "id": "zec4_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Proseguí, y hablé a aquel Ángel que hablaba conmigo, diciendo:"
+        },
+        {
+            "id": "zec4_4b",
+            "speaker": "Zacarías",
+            "verse": 4,
+            "text": "¿Qué es esto, mi Señor?"
+        },
+        {
+            "id": "zec4_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el Ángel que hablaba conmigo respondió, y me dijo:"
+        },
+        {
+            "id": "zec4_5b",
+            "speaker": "Ángel",
+            "verse": 5,
+            "text": "¿No sabes qué es esto?"
+        },
+        {
+            "id": "zec4_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y dije:"
+        },
+        {
+            "id": "zec4_5d",
+            "speaker": "Zacarías",
+            "verse": 5,
+            "text": "No, mi Señor."
+        },
+        {
+            "id": "zec4_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces respondió y me habló, diciendo:"
+        },
+        {
+            "id": "zec4_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Ésta es palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "zec4_7a",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "¿Quién eres tú, oh gran monte? Delante de Zorobabel serás reducido a llanura; él sacará la primera piedra con aclamaciones, diciendo:"
+        },
+        {
+            "id": "zec4_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Gracia, gracia a ella."
+        },
+        {
+            "id": "zec4_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces la palabra de Jehová vino a mí, diciendo:"
+        },
+        {
+            "id": "zec4_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Las manos de Zorobabel echarán el fundamento a esta casa, y sus manos la acabarán; y conocerás que Jehová de los ejércitos me envió a vosotros."
+        },
+        {
+            "id": "zec4_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¿Pues quién ha menospreciado el día de las pequeñeces? Pues estos se alegrarán y verán la plomada en la mano de Zorobabel. Estos siete son los ojos de Jehová que recorren por toda la tierra."
+        },
+        {
+            "id": "zec4_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Hablé más, y le dije:"
+        },
+        {
+            "id": "zec4_11b",
+            "speaker": "Zacarías",
+            "verse": 11,
+            "text": "¿Qué significan estos dos olivos a la derecha del candelero, y a su izquierda?"
+        },
+        {
+            "id": "zec4_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Hablé aún de nuevo, y le dije:"
+        },
+        {
+            "id": "zec4_12b",
+            "speaker": "Zacarías",
+            "verse": 12,
+            "text": "¿Qué significan las dos ramas de olivo que por medio de dos tubos de oro vierten de sí aceite como oro?"
+        },
+        {
+            "id": "zec4_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y me respondió, diciendo:"
+        },
+        {
+            "id": "zec4_13b",
+            "speaker": "Ángel",
+            "verse": 13,
+            "text": "¿No sabes qué es esto?"
+        },
+        {
+            "id": "zec4_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dije:"
+        },
+        {
+            "id": "zec4_13d",
+            "speaker": "Zacarías",
+            "verse": 13,
+            "text": "No, mi Señor."
+        },
+        {
+            "id": "zec4_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Él dijo:"
+        },
+        {
+            "id": "zec4_14b",
+            "speaker": "Ángel",
+            "verse": 14,
+            "text": "Éstos son los dos ungidos que están delante del Señor de toda la tierra."
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "book": "Zacarías",
+    "chapter": 1,
+    "title": "Zacarías 1",
+    "messages": [
+        {
+            "id": "zec1_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el mes octavo, en el año segundo de Darío, vino palabra de Jehová al profeta Zacarías, hijo de Berequías, hijo de Iddo, diciendo:"
+        },
+        {
+            "id": "zec1_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Jehová está muy enojado contra vuestros padres."
+        },
+        {
+            "id": "zec1_3a",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Por tanto, diles: Así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "zec1_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Volveos a mí, dice Jehová de los ejércitos, y yo me volveré a vosotros, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "zec1_4a",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "No seáis como vuestros padres, a los cuales hablaron los primeros profetas, diciendo:"
+        },
+        {
+            "id": "zec1_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Así dice Jehová de los ejércitos: Volveos ahora de vuestros malos caminos, y de vuestras malas obras; pero no atendieron, ni me escucharon, dice Jehová."
+        },
+        {
+            "id": "zec1_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Vuestros padres, ¿dónde están? y los profetas ¿han de vivir para siempre?"
+        },
+        {
+            "id": "zec1_6a",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Pero mis palabras y mis ordenanzas que mandé a mis siervos los profetas, ¿no alcanzaron a vuestros padres? Por eso se volvieron ellos y dijeron:"
+        },
+        {
+            "id": "zec1_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Así como Jehová de los ejércitos pensó hacer con nosotros conforme a nuestros caminos y conforme a nuestras obras, así ha hecho con nosotros."
+        },
+        {
+            "id": "zec1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "El día veinticuatro del mes undécimo, que es el mes de Sebat, en el año segundo de Darío, vino palabra de Jehová al profeta Zacarías, hijo de Berequías, hijo de Iddo, diciendo:"
+        },
+        {
+            "id": "zec1_8",
+            "speaker": "Zacarías",
+            "verse": 8,
+            "text": "Vi de noche, y he aquí un varón que cabalgaba sobre un caballo alazán, el cual estaba entre los mirtos que había en la hondura; y detrás de él había caballos alazanes, overos y blancos."
+        },
+        {
+            "id": "zec1_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces dije:"
+        },
+        {
+            "id": "zec1_9b",
+            "speaker": "Zacarías",
+            "verse": 9,
+            "text": "¿Qué son éstos, Señor mío?"
+        },
+        {
+            "id": "zec1_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y me dijo el Ángel que hablaba conmigo:"
+        },
+        {
+            "id": "zec1_9d",
+            "speaker": "Ángel",
+            "verse": 9,
+            "text": "Yo te enseñaré qué son éstos."
+        },
+        {
+            "id": "zec1_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y aquel varón que estaba entre los mirtos respondió, y dijo:"
+        },
+        {
+            "id": "zec1_10b",
+            "speaker": "Ángel",
+            "verse": 10,
+            "text": "Éstos son los que Jehová ha enviado a recorrer la tierra."
+        },
+        {
+            "id": "zec1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y ellos respondieron al Ángel de Jehová que estaba entre los mirtos, y dijeron:"
+        },
+        {
+            "id": "zec1_11b",
+            "speaker": "Ángel",
+            "verse": 11,
+            "text": "Hemos recorrido la tierra, y he aquí toda la tierra está reposada y quieta."
+        },
+        {
+            "id": "zec1_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y respondió el Ángel de Jehová, y dijo:"
+        },
+        {
+            "id": "zec1_12b",
+            "speaker": "Ángel",
+            "verse": 12,
+            "text": "Oh Jehová de los ejércitos, ¿hasta cuándo no tendrás piedad de Jerusalén, y de las ciudades de Judá, con las cuales has estado indignado estos setenta años?"
+        },
+        {
+            "id": "zec1_13",
+            "speaker": "Zacarías",
+            "verse": 13,
+            "text": "Y Jehová respondió buenas palabras, palabras consoladoras, al Ángel que hablaba conmigo."
+        },
+        {
+            "id": "zec1_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y me dijo el Ángel que hablaba conmigo:"
+        },
+        {
+            "id": "zec1_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Clama, diciendo: Así dice Jehová de los ejércitos: Estoy celoso por Jerusalén y por Sión, con gran celo:"
+        },
+        {
+            "id": "zec1_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y estoy muy indignado contra las naciones que están reposadas; porque cuando yo estaba enojado un poco, ellos ayudaron para el mal."
+        },
+        {
+            "id": "zec1_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Por tanto, así dice Jehová:"
+        },
+        {
+            "id": "zec1_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Yo me he vuelto a Jerusalén con misericordia; en ella será edificada mi casa, dice Jehová de los ejércitos, y el cordel será tendido sobre Jerusalén."
+        },
+        {
+            "id": "zec1_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Clama aún, diciendo:"
+        },
+        {
+            "id": "zec1_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Así dice Jehová de los ejércitos: Aún serán ensanchadas mis ciudades por la abundancia del bien; y aún consolará Jehová a Sión, y escogerá todavía a Jerusalén."
+        },
+        {
+            "id": "zec1_18",
+            "speaker": "Zacarías",
+            "verse": 18,
+            "text": "Después alcé mis ojos y miré, y he aquí cuatro cuernos."
+        },
+        {
+            "id": "zec1_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y dije al Ángel que hablaba conmigo:"
+        },
+        {
+            "id": "zec1_19b",
+            "speaker": "Zacarías",
+            "verse": 19,
+            "text": "¿Qué son éstos?"
+        },
+        {
+            "id": "zec1_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y me respondió:"
+        },
+        {
+            "id": "zec1_19d",
+            "speaker": "Ángel",
+            "verse": 19,
+            "text": "Éstos son los cuernos que dispersaron a Judá, a Israel y a Jerusalén."
+        },
+        {
+            "id": "zec1_20",
+            "speaker": "Zacarías",
+            "verse": 20,
+            "text": "Me mostró luego Jehová cuatro carpinteros."
+        },
+        {
+            "id": "zec1_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y yo dije:"
+        },
+        {
+            "id": "zec1_21b",
+            "speaker": "Zacarías",
+            "verse": 21,
+            "text": "¿Qué vienen a hacer éstos?"
+        },
+        {
+            "id": "zec1_21c",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y me respondió, diciendo:"
+        },
+        {
+            "id": "zec1_21d",
+            "speaker": "Ángel",
+            "verse": 21,
+            "text": "Éstos son los cuernos que dispersaron a Judá, tanto que ninguno alzó su cabeza; mas éstos han venido para hacerlos temblar, para derribar los cuernos de las naciones, que alzaron el cuerno sobre la tierra de Judá para dispersarla."
+        }
+    ]
+}

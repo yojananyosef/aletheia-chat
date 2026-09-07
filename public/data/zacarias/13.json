@@ -1,0 +1,79 @@
+{
+    "book": "Zacarías",
+    "chapter": 13,
+    "title": "Zacarías 13",
+    "messages": [
+        {
+            "id": "zec13_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "En aquel tiempo habrá un manantial abierto para la casa de David y para los moradores de Jerusalén, para lavar el pecado y la inmundicia."
+        },
+        {
+            "id": "zec13_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Y será en aquel día, dice Jehová de los ejércitos, que borraré de la tierra los nombres de los ídolos, y nunca más serán recordados; y también quitaré de la tierra a los profetas y al espíritu inmundo."
+        },
+        {
+            "id": "zec13_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y será que cuando alguno profetizare todavía, su padre y su madre que lo engendraron le dirán: No vivirás, porque has hablado mentira en el nombre de Jehová; y su padre y su madre que lo engendraron, lo traspasarán cuando profetizare."
+        },
+        {
+            "id": "zec13_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y será en aquel tiempo, que todos los profetas se avergonzarán de su visión cuando profetizaren; y nunca más se vestirán de manto velloso para mentir."
+        },
+        {
+            "id": "zec13_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y dirá: No soy profeta; labrador soy de la tierra; porque esto aprendí del hombre desde mi juventud."
+        },
+        {
+            "id": "zec13_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y le preguntarán:"
+        },
+        {
+            "id": "zec13_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "¿Qué heridas son éstas en tus manos?"
+        },
+        {
+            "id": "zec13_6c",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Él responderá:"
+        },
+        {
+            "id": "zec13_6d",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Con ellas fui herido en casa de mis amigos."
+        },
+        {
+            "id": "zec13_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Levántate, oh espada, sobre el pastor, y sobre el hombre compañero mío, dice Jehová de los ejércitos. Hiere al pastor, y se dispersarán las ovejas; y volveré mi mano sobre los pequeñitos."
+        },
+        {
+            "id": "zec13_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y acontecerá en toda la tierra, dice Jehová, que dos partes serán cortadas en ella, y perecerán; mas la tercera quedará en ella."
+        },
+        {
+            "id": "zec13_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y meteré en el fuego la tercera parte, y los refinaré como se refina la plata, y los probaré como se prueba el oro. Invocarán mi nombre, y yo les oiré, y diré: Pueblo mío; y ellos dirán: Jehová es mi Dios."
+        }
+    ]
+}

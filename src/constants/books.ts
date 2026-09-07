@@ -82,7 +82,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'habacuc', name: 'Habacuc', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'Diálogo con Dios sobre la injusticia.', participants: ['Dios', 'Narrador', 'Habacuc'] },
     { id: 'sofonias', name: 'Sofonías', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'Juicio y restauración.', participants: ['Dios', 'Narrador', 'Sofonías'] },
     { id: 'hageo', name: 'Hageo', availableChapters: [1, 2], category: 'Profetas Menores', description: 'Exhortación a reconstruir el templo.', participants: ['Dios', 'Narrador', 'Hageo'] },
-    { id: 'zacarias', name: 'Zacarías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Visiones del Mesías y el triunfo de Dios.', participants: ['Zacarías'] },
+    { id: 'zacarias', name: 'Zacarías', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], category: 'Profetas Menores', description: 'Visiones del Mesías y el triunfo de Dios.', participants: ['Dios', 'Narrador', 'Zacarías', 'Ángel'] },
     { id: 'malaquias', name: 'Malaquías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'El mensajero del Señor.', participants: ['Malaquías'] },
 
     // --- EVANGELIOS ---

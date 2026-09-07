@@ -1,0 +1,151 @@
+{
+    "book": "Zacarías",
+    "chapter": 11,
+    "title": "Zacarías 11",
+    "messages": [
+        {
+            "id": "zec11_1",
+            "speaker": "Zacarías",
+            "verse": 1,
+            "text": "Oh Líbano, abre tus puertas, y que el fuego devore tus cedros."
+        },
+        {
+            "id": "zec11_2",
+            "speaker": "Zacarías",
+            "verse": 2,
+            "text": "Aúlla, oh ciprés, porque el cedro cayó, porque los poderosos son derribados. Aullad, alcornoques de Basán, porque el bosque espeso es derribado."
+        },
+        {
+            "id": "zec11_3",
+            "speaker": "Zacarías",
+            "verse": 3,
+            "text": "Voz de aullido de pastores, porque su magnificencia es asolada; estruendo de rugidos de cachorros de leones, porque la soberbia del Jordán es destruida."
+        },
+        {
+            "id": "zec11_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Así dice Jehová mi Dios:"
+        },
+        {
+            "id": "zec11_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Apacienta las ovejas de la matanza;"
+        },
+        {
+            "id": "zec11_5a",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "A las cuales matan sus compradores, y no se tienen por culpables; y el que las vende, dice:"
+        },
+        {
+            "id": "zec11_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Bendito sea Jehová, porque me he enriquecido; y sus propios pastores no tenían piedad de ellas."
+        },
+        {
+            "id": "zec11_6a",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Por tanto, no tendré ya más piedad de los moradores de la tierra, dice Jehová:"
+        },
+        {
+            "id": "zec11_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "porque he aquí, yo entregaré los hombres, cada cual en mano de su compañero, y en mano de su rey; y herirán la tierra, y yo no los libraré de sus manos."
+        },
+        {
+            "id": "zec11_7",
+            "speaker": "Zacarías",
+            "verse": 7,
+            "text": "Apacentaré, pues, las ovejas de la matanza, esto es, a vosotros los pobres del rebaño. Y tomé para mí dos cayados; al uno puse por nombre Hermosura, y al otro Lazos; y apacenté las ovejas."
+        },
+        {
+            "id": "zec11_8",
+            "speaker": "Zacarías",
+            "verse": 8,
+            "text": "Y destruí a tres pastores en un mes, y mi alma los detestó; y también el alma de ellos me aborreció a mí."
+        },
+        {
+            "id": "zec11_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y dije:"
+        },
+        {
+            "id": "zec11_9b",
+            "speaker": "Zacarías",
+            "verse": 9,
+            "text": "No os apacentaré; la que ha de morir, que muera; y la que se ha de perder, que se pierda; y las que quedaren, que cada una coma la carne de su compañera."
+        },
+        {
+            "id": "zec11_10",
+            "speaker": "Zacarías",
+            "verse": 10,
+            "text": "Tomé luego mi cayado Hermosura, y lo quebré, para deshacer mi pacto que concerté con todos los pueblos."
+        },
+        {
+            "id": "zec11_11",
+            "speaker": "Zacarías",
+            "verse": 11,
+            "text": "Y fue deshecho en ese día, y así conocieron los pobres del rebaño que miraban a mí, que era la palabra de Jehová."
+        },
+        {
+            "id": "zec11_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y les dije:"
+        },
+        {
+            "id": "zec11_12b",
+            "speaker": "Zacarías",
+            "verse": 12,
+            "text": "Si os parece bien, dadme mi salario; y si no, dejadlo. Y pesaron por mi salario treinta piezas de plata."
+        },
+        {
+            "id": "zec11_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "zec11_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Échalo al tesoro, ¡hermoso precio con que me han apreciado! Y tomé las treinta piezas de plata, y las eché al tesoro en la casa de Jehová."
+        },
+        {
+            "id": "zec11_14",
+            "speaker": "Zacarías",
+            "verse": 14,
+            "text": "Quebré luego mi segundo cayado, Lazos, para romper la hermandad entre Judá e Israel."
+        },
+        {
+            "id": "zec11_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "zec11_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Toma aún los aperos de un pastor insensato;"
+        },
+        {
+            "id": "zec11_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "porque he aquí, yo levanto pastor en la tierra, que no visitará las perdidas, no buscará la pequeña, no curará la perniquebrada, ni llevará la cansada a cuestas; sino que comerá la carne de la engordada, y romperá sus pezuñas."
+        },
+        {
+            "id": "zec11_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "¡Ay del pastor inútil que abandona el rebaño! Espada caiga sobre su brazo, y sobre su ojo derecho; del todo se secará su brazo, y su ojo derecho será totalmente oscurecido."
+        }
+    ]
+}
