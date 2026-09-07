@@ -36,12 +36,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | oseas | 210 | 178 | 0 | 0 |
 | joel | 77 | 53 | 0 | 0 |
 | amos | 190 | 54 | 0 | 0 |
+| abdias | 23 | 1 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **32333** | **10159** | **0** | **0** |
+| **total** | **32356** | **10160** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -197,6 +198,13 @@ persona): **Amós** por defecto — relato y sus respuestas al interrogatorio di
 citada por Amós en el rebuke (7:16b); la cita "así ha dicho Amós" (7:11b) vuelve a Amós como
 citado con nombre; la orden de profetizar (7:15b) y el oráculo contra Amasías (7:17b) → Dios.
 **Cap 9**: juicio y restauración en 1ª persona divina (9:2-5, 9:8-15 → Dios). 34 correcciones.
+
+### Abdías — integración nueva (2026-09-06)
+Libro desbloqueado (23 mensajes, 1 cap; barrido 0 sospechosos/0 ambiguos/0 duros). Un único
+oráculo divino contra Edom: 1:1a Narrador (título+marco) y 1:1b-21 Dios en 1ª/2ª persona
+(te he hecho pequeño; por la injuria contra tu hermano Jacob; el día de Jehová está cercano;
+en el monte de Sión habrá liberación; el reino será de Jehová). Un matiz corregido: 1:3a es
+acusación divina (el dry lo dejaba como marco Narrador). 1 corrección.
 
 ## Triaje (estado del tasks.md)
 
