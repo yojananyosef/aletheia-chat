@@ -1,0 +1,205 @@
+{
+    "book": "Ezequiel",
+    "chapter": 11,
+    "title": "Ezequiel 11",
+    "messages": [
+        {
+            "id": "ezk11_1",
+            "speaker": "Ezequiel",
+            "verse": 1,
+            "text": "Y el Espíritu me elevó, y me metió por la puerta oriental de la casa de Jehová, la cual mira hacia el oriente: y he aquí a la entrada de la puerta veinticinco varones, entre los cuales vi a Jaazanías hijo de Azur, y a Pelatías hijo de Benaía, príncipes del pueblo."
+        },
+        {
+            "id": "ezk11_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "ezk11_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Hijo de hombre, éstos son los hombres que maquinan perversidad, y dan mal consejo en esta ciudad."
+        },
+        {
+            "id": "ezk11_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Los cuales dicen:"
+        },
+        {
+            "id": "ezk11_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "No será tan pronto; edifiquemos casas; ésta será la caldera, y nosotros la carne."
+        },
+        {
+            "id": "ezk11_4",
+            "speaker": "Ezequiel",
+            "verse": 4,
+            "text": "Por tanto, profetiza contra ellos, profetiza, hijo de hombre."
+        },
+        {
+            "id": "ezk11_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el Espíritu de Jehová descendió sobre mí, y me dijo:"
+        },
+        {
+            "id": "ezk11_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Di: Así dice Jehová: Así habéis hablado, oh casa de Israel, pues yo conozco las cosas que suben a vuestra mente."
+        },
+        {
+            "id": "ezk11_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Habéis multiplicado vuestros muertos en esta ciudad, y habéis llenado de muertos sus calles."
+        },
+        {
+            "id": "ezk11_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por tanto, así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk11_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Vuestros muertos que habéis puesto en medio de ella, ellos son la carne, y ella es la caldera; mas yo os sacaré a vosotros de en medio de ella."
+        },
+        {
+            "id": "ezk11_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Espada habéis temido, y espada traeré sobre vosotros, dice Jehová el Señor."
+        },
+        {
+            "id": "ezk11_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y os sacaré de en medio de ella, y os entregaré en manos de extraños, y yo haré juicios entre vosotros."
+        },
+        {
+            "id": "ezk11_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "A espada caeréis; en el término de Israel os juzgaré, y sabréis que yo soy Jehová."
+        },
+        {
+            "id": "ezk11_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Esta ciudad no os será por caldera, ni vosotros seréis en medio de ella la carne; en el término de Israel os juzgaré."
+        },
+        {
+            "id": "ezk11_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y sabréis que yo soy Jehová: porque no habéis andado en mis estatutos, ni habéis obedecido mis juicios, sino según las costumbres de las gentes que están en vuestros alrededores habéis hecho."
+        },
+        {
+            "id": "ezk11_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y aconteció que mientras yo profetizaba, Pelatías hijo de Benaía murió. Entonces caí sobre mi rostro, y clamé con grande voz, y dije:"
+        },
+        {
+            "id": "ezk11_13b",
+            "speaker": "Ezequiel",
+            "verse": 13,
+            "text": "¡Ah, Señor Jehová! ¿Habrás de exterminar al remanente de Israel?"
+        },
+        {
+            "id": "ezk11_14a",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y vino a mí palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "ezk11_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Hijo de hombre, tus hermanos, tus hermanos, los hombres de tu parentesco y toda la casa de Israel, toda ella son aquellos a quienes dijeron los moradores de Jerusalén:"
+        },
+        {
+            "id": "ezk11_15b",
+            "speaker": "Pueblo",
+            "verse": 15,
+            "text": "Alejaos de Jehová; a nosotros es dada la tierra en posesión."
+        },
+        {
+            "id": "ezk11_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Por tanto, di: Así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk11_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Aunque los he echado lejos entre las naciones, y los he esparcido por las tierras, con todo eso les seré por un pequeño santuario en las tierras a donde llegaren."
+        },
+        {
+            "id": "ezk11_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Por tanto, di: Así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk11_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Yo os recogeré de los pueblos, y os congregaré de las tierras en las cuales estáis esparcidos, y os daré la tierra de Israel."
+        },
+        {
+            "id": "ezk11_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y vendrán allá, y quitarán de ella todas las cosas detestables, y todas sus abominaciones."
+        },
+        {
+            "id": "ezk11_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y les daré un solo corazón; y pondré un espíritu nuevo dentro de ellos, y quitaré de su carne el corazón de piedra, y les daré un corazón de carne;"
+        },
+        {
+            "id": "ezk11_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "para que anden en mis ordenanzas, y guarden mis juicios y los cumplan, y ellos serán mi pueblo, y yo seré su Dios."
+        },
+        {
+            "id": "ezk11_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Mas a aquellos cuyo corazón anda tras el deseo de sus cosas detestables y de sus abominaciones, yo haré que recaiga su camino sobre sus cabezas, dice el Señor Jehová."
+        },
+        {
+            "id": "ezk11_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Después alzaron los querubines sus alas, y las ruedas en pos de ellos; y la gloria del Dios de Israel estaba encima sobre ellos."
+        },
+        {
+            "id": "ezk11_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y la gloria de Jehová se fue de en medio de la ciudad, y se puso sobre el monte que está al oriente de la ciudad."
+        },
+        {
+            "id": "ezk11_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Luego me levantó el Espíritu, y me volvió a llevar en visión del Espíritu de Dios a la tierra de los caldeos, a los cautivos. Y se fue de mí la visión que había visto."
+        },
+        {
+            "id": "ezk11_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y hablé a los cautivos todas las cosas que Jehová me había mostrado."
+        }
+    ]
+}

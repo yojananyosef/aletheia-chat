@@ -1,0 +1,223 @@
+{
+    "book": "Ezequiel",
+    "chapter": 34,
+    "title": "Ezequiel 34",
+    "messages": [
+        {
+            "id": "ezk34_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vino a mí palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "ezk34_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Hijo de hombre, profetiza contra los pastores de Israel; profetiza, y diles a los pastores: Así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk34_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "¡Ay de los pastores de Israel, que se apacientan a sí mismos! ¿No deben los pastores apacentar los rebaños?"
+        },
+        {
+            "id": "ezk34_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Coméis la grosura, y os vestís de la lana; la engordada degolláis, pero no apacentáis las ovejas."
+        },
+        {
+            "id": "ezk34_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "No fortalecisteis las débiles, ni curasteis la enferma; no vendasteis la perniquebrada, no hicisteis volver la descarriada, ni buscasteis la perdida; sino que os habéis enseñoreado de ellas con dureza y con violencia;"
+        },
+        {
+            "id": "ezk34_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y ellas fueron dispersadas por falta de pastor; y fueron para ser comidas de toda bestia del campo, y fueron dispersadas."
+        },
+        {
+            "id": "ezk34_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Y anduvieron perdidas mis ovejas por todos los montes, y en todo collado alto; y por toda la faz de la tierra fueron dispersadas mis ovejas, y no hubo quien las buscase ni preguntase por ellas."
+        },
+        {
+            "id": "ezk34_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Por tanto, pastores, oíd palabra de Jehová:"
+        },
+        {
+            "id": "ezk34_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Vivo yo, dice Jehová el Señor, que por cuanto mi rebaño ha venido a ser por presa, y por falta de pastor mis ovejas han venido a ser por comida a todas las fieras del campo; y mis pastores no buscaron mis ovejas, sino que los pastores se apacentaron a sí mismos, y no apacentaron mis ovejas;"
+        },
+        {
+            "id": "ezk34_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Por tanto, oh pastores, oíd palabra de Jehová:"
+        },
+        {
+            "id": "ezk34_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk34_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "He aquí, yo estoy contra los pastores; y requeriré mis ovejas de su mano, y les haré dejar de apacentar las ovejas; ni los pastores se apacentarán más a sí mismos; pues yo libraré mis ovejas de sus bocas, y no les serán más por comida."
+        },
+        {
+            "id": "ezk34_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk34_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "He aquí, yo mismo iré a buscar mis ovejas, y las reconoceré."
+        },
+        {
+            "id": "ezk34_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Como reconoce su rebaño el pastor el día que está en medio de sus ovejas esparcidas, así reconoceré mis ovejas, y las libraré de todos los lugares en que fueron esparcidas el día del nublado y de la oscuridad."
+        },
+        {
+            "id": "ezk34_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y yo las sacaré de los pueblos, y las juntaré de las tierras; y las traeré a su propia tierra, y las apacentaré en los montes de Israel por las riberas, y en todos los lugares habitados del país."
+        },
+        {
+            "id": "ezk34_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "En buenos pastos las apacentaré, y en los altos montes de Israel estará su aprisco; allí dormirán en buen redil, y en delicados pastos serán apacentadas sobre los montes de Israel."
+        },
+        {
+            "id": "ezk34_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Yo apacentaré mis ovejas, y yo les haré descansar, dice Jehová el Señor."
+        },
+        {
+            "id": "ezk34_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Yo buscaré la perdida, y haré volver la descarriada, y vendaré la perniquebrada, y fortaleceré a la enferma. Mas destruiré a la engordada y a la fuerte. Yo las apacentaré con justicia."
+        },
+        {
+            "id": "ezk34_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas vosotras, ovejas mías, así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk34_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "He aquí yo juzgo entre oveja y oveja, entre carneros y machos cabríos."
+        },
+        {
+            "id": "ezk34_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "¿Os es poco que comáis los buenos pastos, sino que holláis con vuestros pies lo que de vuestros pastos queda; y que después de beber las aguas profundas, enturbiáis además con vuestros pies las que quedan?"
+        },
+        {
+            "id": "ezk34_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y mis ovejas comen lo hollado de vuestros pies, y beben lo que con vuestros pies habéis enturbiado."
+        },
+        {
+            "id": "ezk34_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Por tanto, así les dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk34_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "He aquí, yo, yo juzgaré entre la oveja engordada y la oveja flaca,"
+        },
+        {
+            "id": "ezk34_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "por cuanto empujasteis con el costado y con el hombro, y acorneasteis con vuestros cuernos a todas las débiles, hasta que las esparcisteis lejos."
+        },
+        {
+            "id": "ezk34_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Yo salvaré a mis ovejas, y nunca más serán por rapiña; y juzgaré entre oveja y oveja."
+        },
+        {
+            "id": "ezk34_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y levantaré sobre ellas a un pastor, y él las apacentará; a mi siervo David; él las apacentará, y él será su pastor."
+        },
+        {
+            "id": "ezk34_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Yo Jehová seré su Dios, y mi siervo David será príncipe en medio de ellos. Yo Jehová he hablado."
+        },
+        {
+            "id": "ezk34_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y estableceré con ellos pacto de paz, y haré cesar de la tierra las malas bestias; y habitarán en el desierto seguramente, y dormirán en los bosques."
+        },
+        {
+            "id": "ezk34_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Y haré a ellos y a los alrededores de mi collado una bendición; y haré descender la lluvia en su tiempo, lluvias de bendición serán."
+        },
+        {
+            "id": "ezk34_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Y el árbol del campo dará su fruto, y la tierra dará su fruto, y estarán a salvo sobre su tierra; y sabrán que yo soy Jehová, cuando yo haya quebrado las coyundas de su yugo, y los haya librado de mano de los que se sirven de ellos."
+        },
+        {
+            "id": "ezk34_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "Y no serán más por presa a las naciones, ni las fieras de la tierra los devorarán; sino que habitarán seguros, y no habrá quien los espante."
+        },
+        {
+            "id": "ezk34_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "Y levantaré para ellos una planta de renombre, y no serán ya más consumidos de hambre en la tierra, ni ya más serán avergonzados por las naciones."
+        },
+        {
+            "id": "ezk34_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Y sabrán que yo Jehová su Dios soy con ellos, y ellos son mi pueblo, la casa de Israel, dice Jehová el Señor."
+        },
+        {
+            "id": "ezk34_31",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Y vosotras, ovejas mías, ovejas de mi prado, hombres sois, y yo vuestro Dios, dice Jehová el Señor."
+        }
+    ]
+}

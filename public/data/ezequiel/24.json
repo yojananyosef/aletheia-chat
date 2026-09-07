@@ -1,0 +1,205 @@
+{
+    "book": "Ezequiel",
+    "chapter": 24,
+    "title": "Ezequiel 24",
+    "messages": [
+        {
+            "id": "ezk24_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vino a mí palabra de Jehová en el noveno año, en el mes décimo, a los diez del mes, diciendo:"
+        },
+        {
+            "id": "ezk24_2",
+            "speaker": "Ezequiel",
+            "verse": 2,
+            "text": "Hijo de hombre, escríbete la fecha de este día; el rey de Babilonia se puso contra Jerusalén este mismo día."
+        },
+        {
+            "id": "ezk24_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y pronuncia una parábola a la casa rebelde, y diles: Así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk24_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Pon una olla, ponla, y echa también agua en ella;"
+        },
+        {
+            "id": "ezk24_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "junta sus piezas de carne en ella; todas buenas piezas, pierna y espalda; llénala de huesos escogidos."
+        },
+        {
+            "id": "ezk24_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Toma una oveja escogida; y también enciende los huesos debajo de ella; haz que hierva bien; cuece también sus huesos dentro de ella."
+        },
+        {
+            "id": "ezk24_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pues así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk24_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "¡Ay de la ciudad sanguinaria, de la olla enmohecida, y cuyo moho no salió de ella! Por sus piezas, por sus piezas sácala; no caiga suerte sobre ella."
+        },
+        {
+            "id": "ezk24_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Porque su sangre está en medio de ella; sobre una roca alisada la derramó; no la derramó sobre la tierra para que fuese cubierta con polvo."
+        },
+        {
+            "id": "ezk24_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Habiendo, pues, hecho subir la ira para hacer venganza, yo pondré su sangre sobre la roca alisada, para que no sea cubierta."
+        },
+        {
+            "id": "ezk24_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por tanto, así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk24_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¡Ay de la ciudad sanguinaria! Pues también haré yo grande la hoguera,"
+        },
+        {
+            "id": "ezk24_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "multiplicando la leña, encendiendo el fuego, para consumir la carne y hacer la salsa; y los huesos serán quemados."
+        },
+        {
+            "id": "ezk24_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Asentando después la olla vacía sobre sus brasas, para que se caldee, y se queme su fondo, y se funda en ella su suciedad, y se consuma su herrumbre."
+        },
+        {
+            "id": "ezk24_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Se fatigó con mentiras, y no salió de ella su mucha herrumbre. Sólo en fuego será su herrumbre consumida."
+        },
+        {
+            "id": "ezk24_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "En tu suciedad perversa padecerás; porque te limpié, y tú no te limpiaste de tu suciedad; nunca más te limpiarás, hasta que yo haga que mi ira repose sobre ti."
+        },
+        {
+            "id": "ezk24_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Yo Jehová he hablado; vendrá, y lo haré. No me volveré atrás, ni tendré misericordia, ni me arrepentiré; según tus caminos y tus obras te juzgarán, dice Jehová el Señor."
+        },
+        {
+            "id": "ezk24_15a",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y vino a mí palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "ezk24_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Hijo de hombre, he aquí que yo te quito de golpe el deleite de tus ojos; no endeches, ni llores, ni corran tus lágrimas."
+        },
+        {
+            "id": "ezk24_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Reprime el suspirar, no hagas luto de mortuorios; ata tu mitra sobre ti, y pon tus zapatos en tus pies, y no te cubras con rebozo, ni comas pan de hombres."
+        },
+        {
+            "id": "ezk24_18",
+            "speaker": "Ezequiel",
+            "verse": 18,
+            "text": "Y hablé al pueblo por la mañana, y a la tarde murió mi esposa; y a la mañana hice como me fue mandado."
+        },
+        {
+            "id": "ezk24_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y me dijo el pueblo:"
+        },
+        {
+            "id": "ezk24_19b",
+            "speaker": "Pueblo",
+            "verse": 19,
+            "text": "¿No nos enseñarás qué significan para nosotros estas cosas que tú haces?"
+        },
+        {
+            "id": "ezk24_20a",
+            "speaker": "Pueblo",
+            "verse": 20,
+            "text": "Y yo les dije:"
+        },
+        {
+            "id": "ezk24_20b",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "La palabra de Jehová vino a mí, diciendo:"
+        },
+        {
+            "id": "ezk24_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Di a la casa de Israel: Así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk24_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "He aquí yo profano mi santuario, la gloria de vuestra fortaleza, el deseo de vuestros ojos, y el deleite de vuestra alma; vuestros hijos y vuestras hijas que dejasteis caerán a espada."
+        },
+        {
+            "id": "ezk24_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y haréis de la manera que yo hice: no os cubriréis con rebozo, ni comeréis pan de hombres;"
+        },
+        {
+            "id": "ezk24_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y vuestras mitras estarán sobre vuestras cabezas, y vuestros zapatos en vuestros pies; no endecharéis ni lloraréis, sino que os consumiréis a causa de vuestras maldades, y gemiréis unos con otros."
+        },
+        {
+            "id": "ezk24_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Ezequiel, pues, os será por señal; según todas las cosas que él hizo, haréis; cuando esto suceda, entonces sabréis que yo soy Jehová el Señor."
+        },
+        {
+            "id": "ezk24_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y tú, hijo de hombre, el día que yo quite de ellos su fortaleza, el gozo de su gloria, el deleite de sus ojos, y el anhelo de sus almas, sus hijos y sus hijas,"
+        },
+        {
+            "id": "ezk24_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "ese día vendrá a ti uno que haya escapado para traer la noticia."
+        },
+        {
+            "id": "ezk24_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "En aquel día se abrirá tu boca para hablar con el que haya escapado, y hablarás, y no estarás más mudo; y les serás por señal, y sabrán que yo soy Jehová."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "book": "Ezequiel",
+    "chapter": 15,
+    "title": "Ezequiel 15",
+    "messages": [
+        {
+            "id": "ezk15_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vino a mí palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "ezk15_2",
+            "speaker": "Ezequiel",
+            "verse": 2,
+            "text": "Hijo de hombre, ¿qué es el árbol de la vid más que todo árbol? ¿Qué es el sarmiento entre los árboles del bosque?"
+        },
+        {
+            "id": "ezk15_3",
+            "speaker": "Ezequiel",
+            "verse": 3,
+            "text": "¿Tomarán de él madera para hacer alguna obra? ¿Tomarán de él una estaca para colgar de ella algún vaso?"
+        },
+        {
+            "id": "ezk15_4",
+            "speaker": "Ezequiel",
+            "verse": 4,
+            "text": "He aquí, que es puesto en el fuego para ser consumido; sus dos extremos consumió el fuego, y la parte del medio se quemó; ¿servirá para obra alguna?"
+        },
+        {
+            "id": "ezk15_5",
+            "speaker": "Ezequiel",
+            "verse": 5,
+            "text": "He aquí que cuando estaba entero no era para obra alguna: ¿cuánto menos después que el fuego lo hubiere consumido, y fuere quemado? ¿Servirá más para obra alguna?"
+        },
+        {
+            "id": "ezk15_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por tanto, así dice Jehová el Señor:"
+        },
+        {
+            "id": "ezk15_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Como el árbol de la vid entre los árboles del bosque, el cual di al fuego para que lo consuma, así haré a los moradores de Jerusalén."
+        },
+        {
+            "id": "ezk15_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y pondré mi rostro contra ellos; de un fuego saldrán, y otro fuego los consumirá; y sabréis que yo soy Jehová, cuando pusiere mi rostro contra ellos."
+        },
+        {
+            "id": "ezk15_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y tornaré la tierra en asolamiento, por cuanto cometieron prevaricación, dice Jehová el Señor."
+        }
+    ]
+}
