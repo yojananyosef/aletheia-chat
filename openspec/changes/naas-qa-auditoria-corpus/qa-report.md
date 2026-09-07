@@ -32,12 +32,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | jeremias | 1715 | 269 | 0 | 0 |
 | lamentaciones | 163 | 162 | 0 | 0 |
 | ezequiel | 1504 | 410 | 0 | 0 |
+| daniel | 421 | 305 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **31435** | **9569** | **0** | **0** |
+| **total** | **31856** | **9874** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -144,6 +145,19 @@ de la caña de medir que guía el tour (40:4b, 40:45b, 41:4b, 41:22b, 42:13b, 46
 pregunta 24:19b y mofa 33:30b (esta última correcta en el dry); **Mensajero** = el fugitivo
 que anuncia la caída de Jerusalén (33:21b). 21 correcciones sobre el dry (falsos Pueblo en
 3:11b, falsos Benaía/Hombres en 11:13b/15b).
+
+### Daniel — integración nueva (2026-09-06)
+Libro desbloqueado (421 mensajes, 12 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Libro
+bicéfalo. **Caps 1-6** (narrativa de corte en 3ª persona): **Narrador** por defecto; escenas
+con **Nabucodonosor** (sueños 2/4, horno 3, edictos 3:28-29), **Caldeos** (los sabios 2-3),
+**Sadrac** (los tres jóvenes ante el horno, primer-nombrado), **Arioc** (2:25b), **Eunuco**
+(1:10b), **Belsasar** (5:7/13-16), **Reina** (5:10-12), **Darío** (6:16/20/25-27), **Príncipes**
+(los conspiradores 6 y consejeros 3:24d), **Daniel** (ruegos 1:11-13, alabanza 2:20-23,
+interpretaciones 2:28-45/4:19-27/5:17-28, foso 6:21-22). **Caps 7-12** (visiones en 1ª
+persona): **Daniel** por defecto; **Ángel** = el intérprete de la visión (7:17-27), los santos
+(8:13-14) y el varón de lino con su discurso (10-11 entero, 12:1-4/6b/9b); **Gabriel** = donde
+el texto lo nombra (8:17-26, 9:22-27); **Dios** = la voz del cielo (4:31b-32) y la voz que
+ordena a Gabriel (8:16b). 229 correcciones sobre el dry (casi todo estaba en Narrador/Dios).
 
 ## Triaje (estado del tasks.md)
 
