@@ -1,0 +1,421 @@
+{
+    "book": "Lamentaciones",
+    "chapter": 3,
+    "title": "Lamentaciones 3",
+    "messages": [
+        {
+            "id": "lam3_1",
+            "speaker": "Jeremías",
+            "verse": 1,
+            "text": "Yo soy el hombre que ha visto aflicción por la vara de su enojo."
+        },
+        {
+            "id": "lam3_2",
+            "speaker": "Jeremías",
+            "verse": 2,
+            "text": "Me guió y me llevó en tinieblas, y no en luz."
+        },
+        {
+            "id": "lam3_3",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "Ciertamente contra mí volvió y revolvió su mano todo el día."
+        },
+        {
+            "id": "lam3_4",
+            "speaker": "Jeremías",
+            "verse": 4,
+            "text": "Hizo envejecer mi carne y mi piel; quebrantó mis huesos."
+        },
+        {
+            "id": "lam3_5",
+            "speaker": "Jeremías",
+            "verse": 5,
+            "text": "Edificó contra mí, y me cercó de tósigo y de trabajo."
+        },
+        {
+            "id": "lam3_6",
+            "speaker": "Jeremías",
+            "verse": 6,
+            "text": "Me asentó en oscuridades, como los ya muertos de mucho tiempo."
+        },
+        {
+            "id": "lam3_7",
+            "speaker": "Jeremías",
+            "verse": 7,
+            "text": "Me cercó por todos lados, y no puedo salir; ha hecho pesadas mis cadenas."
+        },
+        {
+            "id": "lam3_8",
+            "speaker": "Jeremías",
+            "verse": 8,
+            "text": "Aun cuando clamé y di voces, cerró los oídos a mi oración."
+        },
+        {
+            "id": "lam3_9",
+            "speaker": "Jeremías",
+            "verse": 9,
+            "text": "Cercó mis caminos con piedra tajada, torció mis senderos."
+        },
+        {
+            "id": "lam3_10",
+            "speaker": "Jeremías",
+            "verse": 10,
+            "text": "Como oso que acecha fue para mí, como león en escondrijos."
+        },
+        {
+            "id": "lam3_11",
+            "speaker": "Jeremías",
+            "verse": 11,
+            "text": "Torció mis caminos, y me despedazó; me dejó asolado."
+        },
+        {
+            "id": "lam3_12",
+            "speaker": "Jeremías",
+            "verse": 12,
+            "text": "Su arco entesó, y me puso como blanco a la saeta."
+        },
+        {
+            "id": "lam3_13",
+            "speaker": "Jeremías",
+            "verse": 13,
+            "text": "Hizo entrar en mis entrañas las saetas de su aljaba."
+        },
+        {
+            "id": "lam3_14",
+            "speaker": "Jeremías",
+            "verse": 14,
+            "text": "Fui escarnio a todo mi pueblo, canción de ellos todos los días."
+        },
+        {
+            "id": "lam3_15",
+            "speaker": "Jeremías",
+            "verse": 15,
+            "text": "Me hartó de amarguras, me embriagó de ajenjos."
+        },
+        {
+            "id": "lam3_16",
+            "speaker": "Jeremías",
+            "verse": 16,
+            "text": "Me quebró los dientes con cascajo, me cubrió de ceniza."
+        },
+        {
+            "id": "lam3_17",
+            "speaker": "Jeremías",
+            "verse": 17,
+            "text": "Y mi alma se alejó de la paz, me olvidé del bien."
+        },
+        {
+            "id": "lam3_18a",
+            "speaker": "Jeremías",
+            "verse": 18,
+            "text": "Y dije:"
+        },
+        {
+            "id": "lam3_18b",
+            "speaker": "Jeremías",
+            "verse": 18,
+            "text": "Perecieron mis fuerzas, y mi esperanza de Jehová."
+        },
+        {
+            "id": "lam3_19",
+            "speaker": "Jeremías",
+            "verse": 19,
+            "text": "Acuérdate de mi aflicción y de mi abatimiento, del ajenjo y de la hiel."
+        },
+        {
+            "id": "lam3_20",
+            "speaker": "Jeremías",
+            "verse": 20,
+            "text": "Mi alma aún lo recuerda, y se humilla dentro de mí."
+        },
+        {
+            "id": "lam3_21",
+            "speaker": "Jeremías",
+            "verse": 21,
+            "text": "Esto traigo a mi memoria, por lo cual tengo esperanza."
+        },
+        {
+            "id": "lam3_22",
+            "speaker": "Jeremías",
+            "verse": 22,
+            "text": "Es por la misericordia de Jehová que no hemos sido consumidos, porque nunca decayeron sus misericordias."
+        },
+        {
+            "id": "lam3_23",
+            "speaker": "Jeremías",
+            "verse": 23,
+            "text": "Nuevas son cada mañana; grande es tu fidelidad."
+        },
+        {
+            "id": "lam3_24",
+            "speaker": "Jeremías",
+            "verse": 24,
+            "text": "Mi porción es Jehová, dijo mi alma; por tanto en Él esperaré."
+        },
+        {
+            "id": "lam3_25",
+            "speaker": "Jeremías",
+            "verse": 25,
+            "text": "Bueno es Jehová a los que en Él esperan, al alma que le busca."
+        },
+        {
+            "id": "lam3_26",
+            "speaker": "Jeremías",
+            "verse": 26,
+            "text": "Bueno es esperar en silencio la salvación de Jehová."
+        },
+        {
+            "id": "lam3_27",
+            "speaker": "Jeremías",
+            "verse": 27,
+            "text": "Bueno le es al hombre, llevar el yugo desde su juventud."
+        },
+        {
+            "id": "lam3_28",
+            "speaker": "Jeremías",
+            "verse": 28,
+            "text": "Que se siente solo, y calle, porque es Él quien se lo impuso."
+        },
+        {
+            "id": "lam3_29",
+            "speaker": "Jeremías",
+            "verse": 29,
+            "text": "Ponga su boca en el polvo, por si aún hay esperanza."
+        },
+        {
+            "id": "lam3_30",
+            "speaker": "Jeremías",
+            "verse": 30,
+            "text": "Dé la mejilla al que le hiere; y sea colmado de afrenta."
+        },
+        {
+            "id": "lam3_31",
+            "speaker": "Jeremías",
+            "verse": 31,
+            "text": "Porque el Señor no desecha para siempre;"
+        },
+        {
+            "id": "lam3_32",
+            "speaker": "Jeremías",
+            "verse": 32,
+            "text": "antes bien, si aflige, también se compadece según la multitud de sus misericordias."
+        },
+        {
+            "id": "lam3_33",
+            "speaker": "Jeremías",
+            "verse": 33,
+            "text": "Porque no aflige ni acongoja de su corazón a los hijos de los hombres."
+        },
+        {
+            "id": "lam3_34",
+            "speaker": "Jeremías",
+            "verse": 34,
+            "text": "Desmenuzar bajo de sus pies a todos los encarcelados de la tierra,"
+        },
+        {
+            "id": "lam3_35",
+            "speaker": "Jeremías",
+            "verse": 35,
+            "text": "hacer apartar el derecho del hombre ante la presencia del Altísimo,"
+        },
+        {
+            "id": "lam3_36",
+            "speaker": "Jeremías",
+            "verse": 36,
+            "text": "trastornar al hombre en su causa, el Señor no lo aprueba."
+        },
+        {
+            "id": "lam3_37",
+            "speaker": "Jeremías",
+            "verse": 37,
+            "text": "¿Quién será aquel que diga, que vino algo que el Señor no mandó?"
+        },
+        {
+            "id": "lam3_38",
+            "speaker": "Jeremías",
+            "verse": 38,
+            "text": "¿De la boca del Altísimo no sale lo malo y lo bueno?"
+        },
+        {
+            "id": "lam3_39",
+            "speaker": "Jeremías",
+            "verse": 39,
+            "text": "¿Por qué murmura el hombre viviente, el hombre en su pecado?"
+        },
+        {
+            "id": "lam3_40",
+            "speaker": "Jeremías",
+            "verse": 40,
+            "text": "Escudriñemos nuestros caminos, y busquemos, y volvámonos a Jehová."
+        },
+        {
+            "id": "lam3_41",
+            "speaker": "Jeremías",
+            "verse": 41,
+            "text": "Levantemos nuestros corazones con las manos a Dios en los cielos."
+        },
+        {
+            "id": "lam3_42",
+            "speaker": "Jeremías",
+            "verse": 42,
+            "text": "Nosotros nos hemos rebelado, y fuimos desleales; tú no perdonaste."
+        },
+        {
+            "id": "lam3_43",
+            "speaker": "Jeremías",
+            "verse": 43,
+            "text": "Desplegaste la ira, y nos perseguiste; mataste, no perdonaste."
+        },
+        {
+            "id": "lam3_44",
+            "speaker": "Jeremías",
+            "verse": 44,
+            "text": "Te cubriste de nube, para que no pasase la oración nuestra."
+        },
+        {
+            "id": "lam3_45",
+            "speaker": "Jeremías",
+            "verse": 45,
+            "text": "Nos has vuelto escoria y abominación en medio de los pueblos."
+        },
+        {
+            "id": "lam3_46",
+            "speaker": "Jeremías",
+            "verse": 46,
+            "text": "Todos nuestros enemigos abrieron contra nosotros su boca."
+        },
+        {
+            "id": "lam3_47",
+            "speaker": "Jeremías",
+            "verse": 47,
+            "text": "Temor y lazo nos han sobrevenido, asolamiento y quebranto."
+        },
+        {
+            "id": "lam3_48",
+            "speaker": "Jeremías",
+            "verse": 48,
+            "text": "Ríos de aguas derraman mis ojos, por el quebrantamiento de la hija de mi pueblo."
+        },
+        {
+            "id": "lam3_49",
+            "speaker": "Jeremías",
+            "verse": 49,
+            "text": "Mis ojos destilan, y no cesan, porque no hay alivio,"
+        },
+        {
+            "id": "lam3_50",
+            "speaker": "Jeremías",
+            "verse": 50,
+            "text": "hasta que Jehová mire y vea desde los cielos."
+        },
+        {
+            "id": "lam3_51",
+            "speaker": "Jeremías",
+            "verse": 51,
+            "text": "Mis ojos contristaron mi corazón, por todas las hijas de mi ciudad."
+        },
+        {
+            "id": "lam3_52",
+            "speaker": "Jeremías",
+            "verse": 52,
+            "text": "Mis enemigos me dieron caza como a ave, sin haber por qué."
+        },
+        {
+            "id": "lam3_53",
+            "speaker": "Jeremías",
+            "verse": 53,
+            "text": "Ataron mi vida en mazmorra, pusieron piedra sobre mí."
+        },
+        {
+            "id": "lam3_54a",
+            "speaker": "Jeremías",
+            "verse": 54,
+            "text": "Aguas cubrieron mi cabeza; yo dije:"
+        },
+        {
+            "id": "lam3_54b",
+            "speaker": "Jeremías",
+            "verse": 54,
+            "text": "Muerto soy."
+        },
+        {
+            "id": "lam3_55",
+            "speaker": "Jeremías",
+            "verse": 55,
+            "text": "Invoqué tu nombre, oh Jehová, desde la cárcel profunda."
+        },
+        {
+            "id": "lam3_56",
+            "speaker": "Jeremías",
+            "verse": 56,
+            "text": "Oíste mi voz; no escondas tu oído a mi suspiro, a mi clamor."
+        },
+        {
+            "id": "lam3_57a",
+            "speaker": "Jeremías",
+            "verse": 57,
+            "text": "Te acercaste el día que te invoqué: dijiste:"
+        },
+        {
+            "id": "lam3_57b",
+            "speaker": "Dios",
+            "verse": 57,
+            "text": "No temas."
+        },
+        {
+            "id": "lam3_58",
+            "speaker": "Jeremías",
+            "verse": 58,
+            "text": "Abogaste, Señor, la causa de mi alma; redimiste mi vida."
+        },
+        {
+            "id": "lam3_59",
+            "speaker": "Jeremías",
+            "verse": 59,
+            "text": "Tú has visto, oh Jehová, mi agravio; defiende mi causa."
+        },
+        {
+            "id": "lam3_60",
+            "speaker": "Jeremías",
+            "verse": 60,
+            "text": "Tú has visto toda su venganza; todos sus pensamientos contra mí."
+        },
+        {
+            "id": "lam3_61",
+            "speaker": "Jeremías",
+            "verse": 61,
+            "text": "Tú has oído el oprobio de ellos, oh Jehová, todas sus maquinaciones contra mí;"
+        },
+        {
+            "id": "lam3_62",
+            "speaker": "Jeremías",
+            "verse": 62,
+            "text": "Los dichos de los que contra mí se levantaron, y su designio contra mí todo el día."
+        },
+        {
+            "id": "lam3_63",
+            "speaker": "Jeremías",
+            "verse": 63,
+            "text": "Mira su sentarse, y su levantarse; yo soy su canción."
+        },
+        {
+            "id": "lam3_64",
+            "speaker": "Jeremías",
+            "verse": 64,
+            "text": "Dales el pago, oh Jehová, según la obra de sus manos."
+        },
+        {
+            "id": "lam3_65",
+            "speaker": "Jeremías",
+            "verse": 65,
+            "text": "Dales dureza de corazón, tu maldición caiga sobre ellos."
+        },
+        {
+            "id": "lam3_66",
+            "speaker": "Jeremías",
+            "verse": 66,
+            "text": "Persíguelos en tu furor, y quebrántalos de debajo de los cielos, oh Jehová."
+        }
+    ]
+}

@@ -29,7 +29,7 @@ export type CanonicalSpeaker =
     | 'Satán' | 'Elifaz' | 'Bildad' | 'Zofar' | 'Eliú' | 'Esposa' | 'Mensajero'
     | 'Predicador' | 'Amado' | 'Amada' | 'Sabiduría' | 'Agur' | 'Madre de Lemuel'
     | 'Mujer insensata' | 'Hijas de Jerusalén' | 'Serafines' | 'Baruc' | 'Hananías'
-    | 'Ebed-melec'
+    | 'Ebed-melec' | 'Jerusalén' | 'Enemigos'
     | 'Isaías' | 'Jeremías' | 'Ezequiel' | 'Daniel'
     | 'Oseas' | 'Joel' | 'Amós' | 'Abdías' | 'Jonás' | 'Miqueas'
     | 'Nahum' | 'Habacuc' | 'Sofonías' | 'Hageo' | 'Zacarías' | 'Malaquías'

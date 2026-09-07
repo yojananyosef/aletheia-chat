@@ -1,0 +1,139 @@
+{
+    "book": "Lamentaciones",
+    "chapter": 5,
+    "title": "Lamentaciones 5",
+    "messages": [
+        {
+            "id": "lam5_1",
+            "speaker": "Pueblo",
+            "verse": 1,
+            "text": "Acuérdate, oh Jehová, de lo que nos ha sucedido: Ve y mira nuestro oprobio."
+        },
+        {
+            "id": "lam5_2",
+            "speaker": "Pueblo",
+            "verse": 2,
+            "text": "Nuestra heredad se ha pasado a extraños, nuestras casas a forasteros."
+        },
+        {
+            "id": "lam5_3",
+            "speaker": "Pueblo",
+            "verse": 3,
+            "text": "Huérfanos somos sin padre, nuestras madres son como viudas."
+        },
+        {
+            "id": "lam5_4",
+            "speaker": "Pueblo",
+            "verse": 4,
+            "text": "Nuestra agua bebemos por dinero; nuestra leña compramos por precio."
+        },
+        {
+            "id": "lam5_5",
+            "speaker": "Pueblo",
+            "verse": 5,
+            "text": "Persecución padecemos sobre nuestra cerviz; nos fatigamos, y no hay para nosotros reposo."
+        },
+        {
+            "id": "lam5_6",
+            "speaker": "Pueblo",
+            "verse": 6,
+            "text": "Al egipcio y al asirio extendimos la mano, para saciarnos de pan."
+        },
+        {
+            "id": "lam5_7",
+            "speaker": "Pueblo",
+            "verse": 7,
+            "text": "Nuestros padres pecaron, y han muerto; y nosotros llevamos su castigo."
+        },
+        {
+            "id": "lam5_8",
+            "speaker": "Pueblo",
+            "verse": 8,
+            "text": "Siervos se enseñorearon de nosotros; no hay quien de su mano nos libre."
+        },
+        {
+            "id": "lam5_9",
+            "speaker": "Pueblo",
+            "verse": 9,
+            "text": "Con peligro de nuestras vidas traíamos nuestro pan a causa de la espada del desierto."
+        },
+        {
+            "id": "lam5_10",
+            "speaker": "Pueblo",
+            "verse": 10,
+            "text": "Nuestra piel se ennegreció como un horno a causa del ardor del hambre."
+        },
+        {
+            "id": "lam5_11",
+            "speaker": "Pueblo",
+            "verse": 11,
+            "text": "Violaron a las mujeres en Sión, a las vírgenes en las ciudades de Judá."
+        },
+        {
+            "id": "lam5_12",
+            "speaker": "Pueblo",
+            "verse": 12,
+            "text": "Príncipes han sido colgados por su mano; no respetaron el rostro de los viejos."
+        },
+        {
+            "id": "lam5_13",
+            "speaker": "Pueblo",
+            "verse": 13,
+            "text": "Llevaron los jóvenes a moler, y los muchachos desfallecieron bajo el peso de la leña."
+        },
+        {
+            "id": "lam5_14",
+            "speaker": "Pueblo",
+            "verse": 14,
+            "text": "Los ancianos cesaron de la puerta, los jóvenes de sus canciones."
+        },
+        {
+            "id": "lam5_15",
+            "speaker": "Pueblo",
+            "verse": 15,
+            "text": "Cesó el gozo de nuestro corazón; nuestra danza se cambió en luto."
+        },
+        {
+            "id": "lam5_16",
+            "speaker": "Pueblo",
+            "verse": 16,
+            "text": "Cayó la corona de nuestra cabeza: ¡Ay ahora de nosotros! porque pecamos."
+        },
+        {
+            "id": "lam5_17",
+            "speaker": "Pueblo",
+            "verse": 17,
+            "text": "Por esto fue entristecido nuestro corazón, por esto se entenebrecieron nuestros ojos:"
+        },
+        {
+            "id": "lam5_18",
+            "speaker": "Pueblo",
+            "verse": 18,
+            "text": "Por el monte de Sión que está asolado; zorras andan por él."
+        },
+        {
+            "id": "lam5_19",
+            "speaker": "Pueblo",
+            "verse": 19,
+            "text": "Mas tú, Jehová, permanecerás para siempre: Tu trono de generación en generación."
+        },
+        {
+            "id": "lam5_20",
+            "speaker": "Pueblo",
+            "verse": 20,
+            "text": "¿Por qué te olvidarás para siempre de nosotros, y nos dejarás por largos días?"
+        },
+        {
+            "id": "lam5_21",
+            "speaker": "Pueblo",
+            "verse": 21,
+            "text": "Vuélvenos, oh Jehová, a ti, y nos volveremos: Renueva nuestros días como al principio."
+        },
+        {
+            "id": "lam5_22",
+            "speaker": "Pueblo",
+            "verse": 22,
+            "text": "Porque nos has desechado; en gran manera te has airado contra nosotros."
+        }
+    ]
+}
