@@ -74,7 +74,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     // --- PROFETAS MENORES ---
     { id: 'oseas', name: 'Oseas', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], category: 'Profetas Menores', description: 'El amor infalible de Dios.', participants: ['Dios', 'Narrador', 'Oseas', 'Efraín', 'Pueblo'] },
     { id: 'joel', name: 'Joel', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'El día del Señor y la promesa del Espíritu.', participants: ['Dios', 'Narrador', 'Joel', 'Sacerdotes'] },
-    { id: 'amos', name: 'Amós', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Justicia social y juicio.', participants: ['Amós'] },
+    { id: 'amos', name: 'Amós', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9], category: 'Profetas Menores', description: 'Justicia social y juicio.', participants: ['Dios', 'Narrador', 'Amós', 'Amasías'] },
     { id: 'abdias', name: 'Abdías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Juicio contra Edom.', participants: ['Abdías'] },
     { id: 'jonas', name: 'Jonás', availableChapters: [1, 2, 3, 4], category: 'Profetas Menores', description: 'La misericordia de Dios hacia las naciones.', participants: ['Dios', 'Narrador', 'Jonás', 'Marineros', 'Rey de Nínive'] },
     { id: 'miqueas', name: 'Miqueas', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Requerimientos de Dios y nacimiento en Belén.', participants: ['Miqueas'] },

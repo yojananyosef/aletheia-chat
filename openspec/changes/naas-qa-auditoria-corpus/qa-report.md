@@ -35,12 +35,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | daniel | 421 | 305 | 0 | 0 |
 | oseas | 210 | 178 | 0 | 0 |
 | joel | 77 | 53 | 0 | 0 |
+| amos | 190 | 54 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **32143** | **10105** | **0** | **0** |
+| **total** | **32333** | **10159** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -184,6 +185,18 @@ corazón"). **2:17**: la oración de los sacerdotes entre el pórtico y el altar
 (el dry inventó 'Alguaciles'). **2:18-32**: la respuesta divina ("He aquí yo os enviaré
 trigo... derramaré mi Espíritu sobre toda carne"). **Cap 3**: el juicio en el valle de Josafat
 y la restauración, todo en 1ª persona divina. 26 correcciones sobre el dry.
+
+### Amós — integración nueva (2026-09-06)
+Libro desbloqueado (190 mensajes, 9 caps; barrido 0 sospechosos/0 ambiguos/0 duros). **Caps
+1-6**: oráculos divinos dominantes (el dry ya separaba bien los "Así dice Jehová"); corrección
+del título (1:2b → Amós) y del yo divino del juicio (4:2-13 → Dios, el dry los tenía en
+Narrador). La elegía 5:1-2 y los ayes 6:1-7 → Amós (conversión). **Caps 7-8** (visiones en 1ª
+persona): **Amós** por defecto — relato y sus respuestas al interrogatorio divino (7:2b/5b/8d,
+8:2d); **Dios** en las preguntas y veredictos (7:8b/f, 8:2b/f, 7:9). **7:10-17**: escena de
+**Amasías** (voz nueva): su denuncia al rey (7:10b), su orden de marcha (7:12b-13) y su orden
+citada por Amós en el rebuke (7:16b); la cita "así ha dicho Amós" (7:11b) vuelve a Amós como
+citado con nombre; la orden de profetizar (7:15b) y el oráculo contra Amasías (7:17b) → Dios.
+**Cap 9**: juicio y restauración en 1ª persona divina (9:2-5, 9:8-15 → Dios). 34 correcciones.
 
 ## Triaje (estado del tasks.md)
 
