@@ -19,6 +19,7 @@ next-env.d.ts
 !.vscode/extensions.json
 .idea
 .DS_Store
+.commandcode
 *.suo
 *.ntvs*
 *.njsproj

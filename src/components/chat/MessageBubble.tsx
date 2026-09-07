@@ -31,8 +31,8 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
 
     if (message.isSectionTitle) {
         return (
-            <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} className="text-center my-12">
-                <Surface dataAida="attention" dataCta="primary" className="inline-block px-6 py-2 text-xs font-black uppercase tracking-widest">
+            <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} className="text-center my-12 overflow-visible">
+                <Surface dataAida="attention" dataCta="primary" className="inline-block px-6 py-2 text-xs font-black uppercase tracking-widest overflow-visible">
                     {message.text}
                 </Surface>
             </motion.div>
@@ -44,7 +44,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
             <motion.div
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
-                className="flex justify-center"
+                className="flex justify-center overflow-visible"
                 onClick={handleInteraction}
                 onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handleInteraction(); } }}
                 role="button"
@@ -52,7 +52,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                 aria-pressed={isLiked}
                 aria-label={`Versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
             >
-                <div className="group cursor-pointer max-w-2xl bg-[#EAEAEA] border-2 border-dashed border-[#0A0A0A] p-6 text-center relative font-medium text-gray-800 transition-colors hover:bg-white active:bg-white shadow-[4px_4px_0_rgba(0,0,0,0.05)]">
+                <div className="group cursor-pointer max-w-2xl bg-[#EAEAEA] border-2 border-dashed border-[#0A0A0A] p-6 text-center relative font-medium text-gray-800 transition-colors hover:bg-white active:bg-white shadow-[4px_4px_0_rgba(0,0,0,0.05)] overflow-visible">
                     <span className="text-[10px] font-black text-gray-400 block mb-2 uppercase tracking-widest">v.{message.verse} NARRADOR</span>
                     {message.text}
                     <LikeBadge isLiked={isLiked} position="bottom-right" />
@@ -67,9 +67,9 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
             <motion.div
                 initial={{ opacity: 0, x: 20 }}
                 animate={{ opacity: 1, x: 0 }}
-                className="flex flex-col items-end w-full"
+                className="flex flex-col items-end w-full overflow-visible"
             >
-                <div className="flex items-end gap-2 sm:gap-3 max-w-[92%] sm:max-w-[85%] flex-row-reverse">
+                <div className="flex items-end gap-2 sm:gap-3 max-w-[92%] sm:max-w-[85%] flex-row-reverse overflow-visible">
                     <Avatar
                         letter="🐍"
                         color="bg-[#1A0A0A]"
@@ -83,7 +83,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                         tabIndex={0}
                         aria-pressed={isLiked}
                         aria-label={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
-                        className="p-5 md:p-7 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400"
+                        className="p-5 md:p-7 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400 transition-all duration-150 ease-out hover:-translate-y-0.5 active:translate-y-0"
                     >
                         <div className="flex justify-between gap-8 mb-2">
                             <span className="text-[10px] font-black uppercase tracking-tight text-red-400">
@@ -105,9 +105,9 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
         <motion.div
             initial={{ opacity: 0, x: isGod ? -20 : 20 }}
             animate={{ opacity: 1, x: 0 }}
-            className={`flex flex-col ${isGod ? 'items-start' : 'items-end'} w-full`}
+            className={`flex flex-col ${isGod ? 'items-start' : 'items-end'} w-full overflow-visible`}
         >
-            <div className={`flex items-end gap-2 sm:gap-3 max-w-[92%] sm:max-w-[85%] ${isGod ? 'flex-row' : 'flex-row-reverse'}`}>
+            <div className={`flex items-end gap-2 sm:gap-3 max-w-[92%] sm:max-w-[85%] overflow-visible ${isGod ? 'flex-row' : 'flex-row-reverse'}`}>
                 <Avatar
                     letter={message.speaker?.[0] || '?'}
                     color={isGod ? "bg-[#FFD600]" : actorColor}
@@ -145,7 +145,7 @@ const LikeBadge: React.FC<{ isLiked: boolean, position: 'bottom-right' | 'bottom
                 initial={{ scale: 0, rotate: -45 }}
                 animate={{ scale: 1, rotate: 0 }}
                 exit={{ scale: 0, rotate: 45 }}
-                className={`absolute -bottom-3 ${position === 'bottom-right' ? '-right-3' : '-left-3'} bg-red-500 text-white rounded-full p-2 border-2 border-black shadow-[2px_2px_0_#0A0A0A] z-10`}
+                className={`absolute -bottom-3 ${position === 'bottom-right' ? '-right-3' : '-left-3'} bg-red-500 text-white rounded-full p-2 border-2 border-black shadow-[2px_2px_0_#0A0A0A] z-20 pointer-events-none select-none`}
             >
                 <Heart className="w-4 h-4 fill-current shadow-lg" />
             </motion.div>

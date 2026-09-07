@@ -43,10 +43,10 @@ h6 {
   @apply transition-all duration-150 ease-out hover:-translate-y-0.5 active:translate-y-0 active:shadow-none;
 }
 
-/* Feed escalable (Fase 2): el navegador salta el render fuera de pantalla. */
+/* Feed de chat: permitimos overflow visible para no recortar sombras (neo-brutalist),
+   badges flotantes (LikeBadge) ni transformaciones en hover (-translate-y-0.5). */
 .chat-feed > * {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 120px;
+  overflow: visible;
 }
 
 /* Native Mobile Polish */
