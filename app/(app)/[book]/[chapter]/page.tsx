@@ -1,30 +1,10 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { readdirSync } from 'node:fs';
-import { join } from 'node:path';
 import { BIBLE_BOOKS } from '../../../../src/constants/books';
+import { chaptersFromFs } from '../../../../src/core/services/catalogFs';
 import { ChatView } from '../../../../src/views/ChatView';
 
 export const dynamicParams = false;
-
-/**
- * Capítulos con JSON real en public/data (fuente de verdad para SSG).
- * Fallback a BIBLE_BOOKS si el FS no es legible (p. ej. ciertos sandboxes).
- */
-function chaptersFromFs(): { book: string; chapter: string }[] {
-    try {
-        const dataDir = join(process.cwd(), 'public', 'data');
-        return readdirSync(dataDir, { withFileTypes: true })
-            .filter((d) => d.isDirectory())
-            .flatMap((dir) =>
-                readdirSync(join(dataDir, dir.name))
-                    .filter((f) => /^\d+\.json$/.test(f))
-                    .map((f) => ({ book: dir.name, chapter: f.replace(/\.json$/, '') }))
-            );
-    } catch {
-        return [];
-    }
-}
 
 export function generateStaticParams() {
     const fromFs = chaptersFromFs();
@@ -42,9 +22,23 @@ export async function generateMetadata(
 ): Promise<Metadata> {
     const { book, chapter } = await params;
     const config = BIBLE_BOOKS.find((b) => b.id === book);
+    const title = `${config?.name ?? 'Capítulo'} ${chapter}`;
+    // El title.template del root layout añade «| Aletheia Chat».
     return {
-        title: config ? `${config.name} ${chapter} · Aletheia Chat 📖` : 'Aletheia Chat 📖',
+        title: config ? title : 'Capítulo no encontrado',
         description: config?.description,
+        alternates: {
+            canonical: `/${book}/${chapter}`,
+        },
+        openGraph: {
+            type: 'website',
+            locale: 'es_ES',
+            url: `/${book}/${chapter}`,
+            siteName: 'Aletheia Chat',
+            title,
+            description: config?.description,
+            images: [{ url: '/opengraph-image.png', width: 1200, height: 630, alt: 'Aletheia Chat' }],
+        },
     };
 }
 

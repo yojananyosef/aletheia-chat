@@ -2,9 +2,11 @@ import { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
     return {
+        id: '/',
         name: 'Aletheia Chat',
         short_name: 'Aletheia Chat',
         description: 'Experiencia bíblica conversacional e inmersiva',
+        lang: 'es',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
