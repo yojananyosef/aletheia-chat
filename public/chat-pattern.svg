@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+  <!-- Motas del dominio para el muro del chat: estilo línea, tile 480x480.
+       Color/opacity calibrados para ser casi subliminales sobre papel #F7F4ED. -->
+  <defs>
+    <g id="m-burbuja"><rect x="-14" y="-10" width="26" height="16" rx="5"/><path d="M-8 6 L-8 13 L-1 6"/></g>
+    <g id="m-libro"><path d="M0 -8 C4 -11 10 -11 13 -8 V6 C10 3 4 3 0 6 Z"/><path d="M0 -8 C-4 -11 -10 -11 -13 -8 V6 C-10 3 -4 3 0 6 Z"/><path d="M0 -8 V6"/></g>
+    <g id="m-cruz"><path d="M0 -12 V12 M-8 -4 H8"/></g>
+    <g id="m-paloma"><path d="M-12 2 C-6 -6 4 -8 9 -3 L16 -6 C13 -1 12 3 6 6 C0 9 -7 7 -12 2 Z"/><path d="M-2 -2 C1 -7 6 -8 9 -3"/></g>
+    <g id="m-pez"><path d="M-12 0 C-7 -7 3 -7 8 0 C3 7 -7 7 -12 0 Z"/><path d="M8 0 L15 -6 M8 0 L15 6"/></g>
+    <g id="m-corazon"><path d="M0 10 C-8 3 -11 -2 -8 -6 C-5 -9 -1 -8 0 -5 C1 -8 5 -9 8 -6 C11 -2 8 3 0 10 Z"/></g>
+    <g id="m-destello"><path d="M0 -12 L3 -3 L12 0 L3 3 L0 12 L-3 3 L-12 0 L-3 -3 Z"/></g>
+    <g id="m-tabla"><rect x="-9" y="-12" width="18" height="24" rx="4"/><path d="M-4 -6 H4 M-4 0 H4 M-4 6 H4"/></g>
+    <g id="m-caliz"><path d="M-9 -12 H9 C9 -4 5 0 0 0 C-5 0 -9 -4 -9 -12 Z"/><path d="M0 0 V9 M-7 9 H7"/></g>
+    <g id="m-llama"><path d="M0 -13 C5 -6 8 -3 8 3 A8 8 0 0 1 -8 3 C-8 -3 -5 -6 0 -13 Z"/></g>
+    <g id="m-olivo"><path d="M-12 10 C-2 4 6 -4 12 -12"/><path d="M2 -2 C6 -2 9 1 9 5"/><path d="M-4 4 C0 4 3 7 3 11"/></g>
+    <g id="m-arcoiris"><path d="M-12 8 A12 12 0 0 1 12 8 M-7 8 A7 7 0 0 1 7 8 M-2 8 A2 2 0 0 1 2 8"/></g>
+    <g id="m-lampara"><path d="M-10 6 H10 C10 1 6 -2 0 -2 C-6 -2 -10 1 -10 6 Z"/><path d="M10 6 L15 2 M0 -2 V-9 C3 -13 6 -11 5 -8"/></g>
+    <g id="m-arca"><path d="M-13 2 H13 C11 8 6 11 0 11 C-6 11 -11 8 -13 2 Z"/><path d="M-6 2 V-6 H6 V2 M-3 -6 V-10 H3 V-6"/></g>
+    <g id="m-ancla"><circle cx="0" cy="-9" r="3"/><path d="M0 -6 V10 M-6 -2 H6 M0 10 C-6 10 -10 6 -11 1 M0 10 C6 10 10 6 11 1"/></g>
+    <g id="m-trigo"><path d="M0 12 V-12"/><path d="M0 -4 C-5 -4 -7 -7 -7 -12 C-2 -12 0 -9 0 -4 Z"/><path d="M0 -4 C5 -4 7 -7 7 -12 C2 -12 0 -9 0 -4 Z"/><path d="M0 4 C-5 4 -7 1 -7 -4"/><path d="M0 4 C5 4 7 1 7 -4"/></g>
+  </defs>
+
+  <g fill="none" stroke="#0A0A0A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.06">
+    <use href="#m-destello" transform="translate(60 70) rotate(15)"/>
+    <use href="#m-libro" transform="translate(170 62) rotate(-8)"/>
+    <use href="#m-cruz" transform="translate(290 78)"/>
+    <use href="#m-paloma" transform="translate(405 64) rotate(5)"/>
+    <use href="#m-pez" transform="translate(110 180) rotate(-6)"/>
+    <use href="#m-corazon" transform="translate(240 172) rotate(-10)"/>
+    <use href="#m-burbuja" transform="translate(370 186) rotate(-4)"/>
+    <use href="#m-arcoiris" transform="translate(442 276)"/>
+    <use href="#m-caliz" transform="translate(62 300) rotate(6)"/>
+    <use href="#m-llama" transform="translate(180 296) rotate(-8)"/>
+    <use href="#m-tabla" transform="translate(300 308) rotate(3)"/>
+    <use href="#m-olivo" transform="translate(414 302) rotate(-12)"/>
+    <use href="#m-ancla" transform="translate(120 412) rotate(5)"/>
+    <use href="#m-lampara" transform="translate(250 404) rotate(-6)"/>
+    <use href="#m-arca" transform="translate(372 416) rotate(4)"/>
+    <use href="#m-trigo" transform="translate(448 410) rotate(-10)"/>
+    <use href="#m-destello" transform="translate(28 190) rotate(-20) scale(0.8)"/>
+    <use href="#m-corazon" transform="translate(452 92) rotate(12) scale(0.8)"/>
+    <use href="#m-burbuja" transform="translate(24 428) rotate(8) scale(0.9)"/>
+    <use href="#m-cruz" transform="translate(206 440) rotate(-5) scale(0.8)"/>
+  </g>
+</svg>

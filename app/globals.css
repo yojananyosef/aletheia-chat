@@ -43,6 +43,14 @@ h6 {
   @apply transition-all duration-150 ease-out hover:-translate-y-0.5 active:translate-y-0 active:shadow-none;
 }
 
+/* Muro del feed: papel cálido con motas del dominio (burbuja, libro, pez, paloma...),
+   casi subliminales para que la lectura sobre las burbujas siga siendo la protagonista. */
+.chat-feed {
+  background-color: #F7F4ED;
+  background-image: url('/chat-pattern.svg');
+  background-size: 480px 480px;
+}
+
 /* Feed de chat: permitimos overflow visible para no recortar sombras (neo-brutalist),
    badges flotantes (LikeBadge) ni transformaciones en hover (-translate-y-0.5). */
 .chat-feed > * {
