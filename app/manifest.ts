@@ -2,8 +2,8 @@ import { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
     return {
-        name: 'Biblia Chat Neo-AIDA',
-        short_name: 'Biblia Chat',
+        name: 'Aletheia Chat',
+        short_name: 'Aletheia Chat',
         description: 'Experiencia bíblica inmersiva y accesible',
         start_url: '/',
         display: 'standalone',

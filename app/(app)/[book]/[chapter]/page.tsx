@@ -43,7 +43,7 @@ export async function generateMetadata(
     const { book, chapter } = await params;
     const config = BIBLE_BOOKS.find((b) => b.id === book);
     return {
-        title: config ? `${config.name} ${chapter} · Biblia Chat 📖` : 'Biblia Chat 📖',
+        title: config ? `${config.name} ${chapter} · Aletheia Chat 📖` : 'Aletheia Chat 📖',
         description: config?.description,
     };
 }

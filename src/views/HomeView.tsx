@@ -48,7 +48,7 @@ export const HomeView: React.FC = () => {
                     <div className="safe-top" />
                     <div className="px-6 py-4 flex items-center justify-between">
                         <div className="flex flex-col text-left">
-                            <h1 className="text-2xl sm:text-3xl font-black uppercase tracking-tighter leading-none italic">BIBLIA CHAT</h1>
+                            <h1 className="text-2xl sm:text-3xl font-black uppercase tracking-tighter leading-none italic">ALETHEIA CHAT</h1>
                             <span className="text-[9px] sm:text-[10px] font-black uppercase tracking-widest mt-1 opacity-100">Neo-AIDA Accessible System</span>
                         </div>
                         <div className="flex gap-3">

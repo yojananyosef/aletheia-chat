@@ -15,12 +15,12 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-    title: 'BIBLIA CHAT 📖',
+    title: 'Aletheia Chat 📖',
     description: 'Experiencia bíblica inmersiva Neo-AIDA',
     appleWebApp: {
         capable: true,
         statusBarStyle: 'default',
-        title: 'Biblia Chat',
+        title: 'Aletheia Chat',
     },
     formatDetection: {
         telephone: false,
