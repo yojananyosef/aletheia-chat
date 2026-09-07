@@ -1,0 +1,338 @@
+[
+  {
+    "verse": 1,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Sedequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Sedequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "a",
+    "speaker": "Sedequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Sedequías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "a",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Jeremías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 26,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 37,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 39,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 41,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 42,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 42,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 43,
+    "subId": "a",
+    "speaker": "Narrador",
+    "confidence": 0.85
+  },
+  {
+    "verse": 43,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.9
+  }
+]

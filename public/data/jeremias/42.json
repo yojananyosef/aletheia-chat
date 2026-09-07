@@ -1,0 +1,199 @@
+{
+    "book": "Jeremías",
+    "chapter": 42,
+    "title": "Jeremías 42",
+    "messages": [
+        {
+            "id": "jer42_1",
+            "speaker": "Jeremías",
+            "verse": 1,
+            "text": "Y vinieron todos los capitanes de la gente de guerra, y Johanán, hijo de Carea, y Jezanías, hijo de Osaías, y todo el pueblo desde el menor hasta el mayor,"
+        },
+        {
+            "id": "jer42_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijeron al profeta Jeremías:"
+        },
+        {
+            "id": "jer42_2b",
+            "speaker": "Pueblo",
+            "verse": 2,
+            "text": "Sea acepta nuestra súplica delante de ti, y ora por nosotros a Jehová tu Dios, por todo este remanente (pues de muchos hemos quedado unos pocos, como nos ven tus ojos),"
+        },
+        {
+            "id": "jer42_3",
+            "speaker": "Pueblo",
+            "verse": 3,
+            "text": "para que Jehová tu Dios nos enseñe camino por donde vayamos, y lo que hemos de hacer."
+        },
+        {
+            "id": "jer42_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y el profeta Jeremías les dijo:"
+        },
+        {
+            "id": "jer42_4b",
+            "speaker": "Jeremías",
+            "verse": 4,
+            "text": "Ya he oído. He aquí que voy a orar a Jehová vuestro Dios, como habéis dicho; y será que todo lo que Jehová os respondiere, os lo declararé; no os reservaré palabra."
+        },
+        {
+            "id": "jer42_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ellos dijeron a Jeremías:"
+        },
+        {
+            "id": "jer42_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Jehová sea testigo entre nosotros de la verdad y de la lealtad, si no hiciéremos conforme a todo aquello para lo cual Jehová tu Dios te enviare a nosotros."
+        },
+        {
+            "id": "jer42_6",
+            "speaker": "Jeremías",
+            "verse": 6,
+            "text": "Sea bueno, o sea malo, a la voz de Jehová nuestro Dios, al cual te enviamos, obedeceremos; para que, obedeciendo a la voz de Jehová nuestro Dios, tengamos bien."
+        },
+        {
+            "id": "jer42_7",
+            "speaker": "Jeremías",
+            "verse": 7,
+            "text": "Y aconteció que al cabo de diez días vino palabra de Jehová a Jeremías."
+        },
+        {
+            "id": "jer42_8",
+            "speaker": "Jeremías",
+            "verse": 8,
+            "text": "Y llamó a Johanán, hijo de Carea, y a todos los capitanes de la gente de guerra que con él estaban, y a todo el pueblo desde el menor hasta el mayor;"
+        },
+        {
+            "id": "jer42_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "jer42_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Así dice Jehová, Dios de Israel, al cual me enviasteis para presentar vuestras súplicas delante de Él:"
+        },
+        {
+            "id": "jer42_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Si os quedareis quietos en esta tierra, os edificaré y no os destruiré; os plantaré, y no os arrancaré: porque arrepentido estoy del mal que os he hecho."
+        },
+        {
+            "id": "jer42_11a",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "No temáis de la presencia del rey de Babilonia, del cual tenéis temor; no temáis de su presencia, dice Jehová, porque con vosotros estoy yo para salvaros y libraros de su mano:"
+        },
+        {
+            "id": "jer42_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y os daré misericordias, y tendrá misericordia de vosotros, y os hará volver a vuestra tierra."
+        },
+        {
+            "id": "jer42_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas si dijereis:"
+        },
+        {
+            "id": "jer42_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "No moraremos en esta tierra, no obedeciendo así a la voz de Jehová vuestro Dios,"
+        },
+        {
+            "id": "jer42_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "jer42_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "No, antes nos entraremos en tierra de Egipto, en la cual no veremos guerra, ni oiremos sonido de trompeta, ni tendremos hambre de pan, y allá moraremos;"
+        },
+        {
+            "id": "jer42_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Ahora por eso, oíd la palabra de Jehová, remanente de Judá: Así dice Jehová de los ejércitos, Dios de Israel:"
+        },
+        {
+            "id": "jer42_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Si vosotros volviereis vuestros rostros para entrar en Egipto, y entrareis para peregrinar allá,"
+        },
+        {
+            "id": "jer42_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "entonces sucederá que la espada que teméis, os alcanzará allí en tierra de Egipto, y el hambre de que tenéis temor, allá en Egipto se os pegará; y allí moriréis."
+        },
+        {
+            "id": "jer42_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Será pues, que todos los hombres que tornaren sus rostros para entrarse en Egipto, para peregrinar allí, morirán a espada, de hambre y de pestilencia: no habrá de ellos quien quede vivo, ni quien escape delante del mal que traeré yo sobre ellos."
+        },
+        {
+            "id": "jer42_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque así dice Jehová de los ejércitos, Dios de Israel:"
+        },
+        {
+            "id": "jer42_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Como se derramó mi enojo y mi ira sobre los moradores de Jerusalén, así se derramará mi ira sobre vosotros, cuando entrareis en Egipto; y seréis por juramento y por espanto, y por maldición y por afrenta; y no veréis más este lugar."
+        },
+        {
+            "id": "jer42_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Jehová habló sobre vosotros, oh remanente de Judá:"
+        },
+        {
+            "id": "jer42_19b",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "No entréis en Egipto: sabed por cierto que os aviso hoy."
+        },
+        {
+            "id": "jer42_20a",
+            "speaker": "Jeremías",
+            "verse": 20,
+            "text": "¿Por qué hicisteis errar vuestras almas? Porque vosotros me enviasteis a Jehová vuestro Dios, diciendo:"
+        },
+        {
+            "id": "jer42_20b",
+            "speaker": "Jeremías",
+            "verse": 20,
+            "text": "Ora por nosotros a Jehová nuestro Dios; y conforme a todas las cosas que Jehová nuestro Dios dijere, háznoslo saber así, y lo pondremos por obra."
+        },
+        {
+            "id": "jer42_21",
+            "speaker": "Jeremías",
+            "verse": 21,
+            "text": "Y os lo he denunciado hoy, y no habéis obedecido a la voz de Jehová vuestro Dios, ni a todas las cosas por las cuales me envió a vosotros."
+        },
+        {
+            "id": "jer42_22",
+            "speaker": "Jeremías",
+            "verse": 22,
+            "text": "Ahora, pues, sabed de cierto que moriréis a espada, de hambre y de pestilencia, en el lugar donde deseasteis entrar para peregrinar allí."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "book": "Jeremías",
+    "chapter": 24,
+    "title": "Jeremías 24",
+    "messages": [
+        {
+            "id": "jer24_1",
+            "speaker": "Jeremías",
+            "verse": 1,
+            "text": "Y Jehová me mostró dos cestas de higos puestas delante del templo de Jehová, después que Nabucodonosor, rey de Babilonia, había llevado cautivos a Jeconías, hijo de Joacim, rey de Judá, y a los príncipes de Judá, y a los artesanos y herreros de Jerusalén, y los había llevado a Babilonia."
+        },
+        {
+            "id": "jer24_2",
+            "speaker": "Jeremías",
+            "verse": 2,
+            "text": "Una cesta tenía higos muy buenos, como brevas; y la otra cesta tenía higos muy malos, que no se podían comer de malos."
+        },
+        {
+            "id": "jer24_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "jer24_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "¿Qué ves tú, Jeremías?"
+        },
+        {
+            "id": "jer24_3c",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "Y dije:"
+        },
+        {
+            "id": "jer24_3d",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "Higos, higos buenos, muy buenos; y malos, muy malos, que de malos no se pueden comer."
+        },
+        {
+            "id": "jer24_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y vino a mí palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "jer24_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así dice Jehová Dios de Israel:"
+        },
+        {
+            "id": "jer24_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Como a estos buenos higos, así consideraré a los transportados de Judá a los cuales eché de este lugar a tierra de caldeos, para su bien."
+        },
+        {
+            "id": "jer24_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Porque pondré mis ojos sobre ellos para bien, y los volveré a esta tierra; y los edificaré, y no los destruiré: los plantaré, y no los arrancaré."
+        },
+        {
+            "id": "jer24_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y les daré corazón para que me conozcan, porque yo soy Jehová; y ellos serán mi pueblo, y yo seré su Dios; porque se volverán a mí de todo su corazón."
+        },
+        {
+            "id": "jer24_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y como los malos higos, que de malos no se pueden comer, ciertamente así dice Jehová:"
+        },
+        {
+            "id": "jer24_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "De la misma manera daré a Sedequías rey de Judá, y a sus príncipes, y al remanente de Jerusalén que queda en esta tierra, y a los que moran en la tierra de Egipto."
+        },
+        {
+            "id": "jer24_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y los daré por escarnio y por mal a todos los reinos de la tierra; por infamia, por ejemplo, por refrán y por maldición a todos los lugares adonde yo los arrojaré."
+        },
+        {
+            "id": "jer24_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y enviaré sobre ellos espada, hambre y pestilencia, hasta que sean exterminados de la tierra que les di a ellos y a sus padres."
+        }
+    ]
+}

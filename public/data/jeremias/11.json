@@ -1,0 +1,205 @@
+{
+    "book": "Jeremías",
+    "chapter": 11,
+    "title": "Jeremías 11",
+    "messages": [
+        {
+            "id": "jer11_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Palabra de Jehová, que vino a Jeremías, diciendo:"
+        },
+        {
+            "id": "jer11_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Oíd las palabras de este pacto, y hablad a todo varón de Judá, y a todo morador de Jerusalén."
+        },
+        {
+            "id": "jer11_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y les dirás tú: Así dice Jehová Dios de Israel:"
+        },
+        {
+            "id": "jer11_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Maldito el varón que no obedeciere las palabras de este pacto,"
+        },
+        {
+            "id": "jer11_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "El cual mandé a vuestros padres el día que los saqué de la tierra de Egipto, del horno de hierro, diciéndoles:"
+        },
+        {
+            "id": "jer11_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Obedeced mi voz, y haced conforme a todo lo que os mando, y vosotros seréis mi pueblo, y yo seré vuestro Dios;"
+        },
+        {
+            "id": "jer11_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Para que confirme el juramento que hice a vuestros padres, que les daría la tierra que fluye leche y miel, como en este día. Y respondí, y dije:"
+        },
+        {
+            "id": "jer11_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Amén, oh Jehová."
+        },
+        {
+            "id": "jer11_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y Jehová me dijo:"
+        },
+        {
+            "id": "jer11_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Pregona todas estas palabras en las ciudades de Judá y en las calles de Jerusalén, diciendo: Oíd las palabras de este pacto, y ponedlas por obra."
+        },
+        {
+            "id": "jer11_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque solemnemente protesté a vuestros padres el día que los hice subir de la tierra de Egipto hasta el día de hoy, madrugando, protestando y diciendo:"
+        },
+        {
+            "id": "jer11_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Oíd mi voz."
+        },
+        {
+            "id": "jer11_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Pero no obedecieron, ni inclinaron su oído, antes se fueron cada uno tras la imaginación de su malvado corazón; por tanto, traeré sobre ellos todas las palabras de este pacto, el cual mandé que cumpliesen, y no lo cumplieron."
+        },
+        {
+            "id": "jer11_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "jer11_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Conspiración se ha hallado entre los varones de Judá, y entre los moradores de Jerusalén."
+        },
+        {
+            "id": "jer11_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Se han vuelto a las maldades de sus primeros padres, los cuales no quisieron escuchar mis palabras, antes se fueron tras dioses ajenos para servirles; la casa de Israel y la casa de Judá quebrantaron mi pacto, el cual había yo concertado con sus padres."
+        },
+        {
+            "id": "jer11_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por tanto, así dice Jehová:"
+        },
+        {
+            "id": "jer11_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "He aquí yo traigo sobre ellos mal del que no podrán escapar; y clamarán a mí, y no los oiré."
+        },
+        {
+            "id": "jer11_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "E irán las ciudades de Judá y los moradores de Jerusalén, y clamarán a los dioses a quienes queman ellos incienso, los cuales no los podrán salvar en el tiempo de su mal."
+        },
+        {
+            "id": "jer11_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Porque según el número de tus ciudades fueron tus dioses, oh Judá; y según el número de tus calles, oh Jerusalén, pusisteis los altares de ignominia, altares para ofrecer incienso a Baal."
+        },
+        {
+            "id": "jer11_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Tú pues, no ores por este pueblo, ni levantes por ellos clamor ni oración; porque yo no oiré el día que en su aflicción a mí clamen."
+        },
+        {
+            "id": "jer11_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "¿Qué tiene que hacer mi amada en mi casa, habiendo hecho tantas abominaciones? Y las carnes santas se pasarán de ti, porque en tu maldad te gloriaste."
+        },
+        {
+            "id": "jer11_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Olivo verde, hermoso en fruto y en parecer, llamó Jehová tu nombre. A la voz de gran palabra hizo encender fuego sobre él, y quebraron sus ramas."
+        },
+        {
+            "id": "jer11_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Pues Jehová de los ejércitos, que te plantó, ha pronunciado mal contra ti, a causa de la maldad de la casa de Israel y de la casa de Judá, que hicieron contra sí mismos, provocándome a ira al ofrecer incienso a Baal."
+        },
+        {
+            "id": "jer11_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y Jehová me lo hizo saber, y lo entendí: Entonces me hiciste ver sus obras."
+        },
+        {
+            "id": "jer11_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y yo era como cordero inocente que es llevado al matadero, pues no entendía que maquinaban designios contra mí, diciendo:"
+        },
+        {
+            "id": "jer11_19b",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Destruyamos el árbol con su fruto, y cortémoslo de la tierra de los vivientes, y no haya más memoria de su nombre."
+        },
+        {
+            "id": "jer11_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Mas, oh Jehová de los ejércitos, que juzgas justicia, que escudriñas la mente y el corazón, vea yo tu venganza de ellos; porque a ti he descubierto mi causa."
+        },
+        {
+            "id": "jer11_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Por tanto, así dice Jehová acerca de los varones de Anatot, que buscan tu vida, diciendo:"
+        },
+        {
+            "id": "jer11_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "No profetices en nombre de Jehová, y no morirás a nuestras manos."
+        },
+        {
+            "id": "jer11_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Así, pues, dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "jer11_22b",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "He aquí que yo los castigaré; los jóvenes morirán a espada; sus hijos y sus hijas morirán de hambre;"
+        },
+        {
+            "id": "jer11_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y no quedará remanente de ellos; porque yo traeré mal sobre los varones de Anatot, el año de su visitación."
+        }
+    ]
+}

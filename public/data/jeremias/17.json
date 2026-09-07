@@ -1,0 +1,193 @@
+{
+    "book": "Jeremías",
+    "chapter": 17,
+    "title": "Jeremías 17",
+    "messages": [
+        {
+            "id": "jer17_1",
+            "speaker": "Jeremías",
+            "verse": 1,
+            "text": "El pecado de Judá escrito está con cincel de hierro y con punta de diamante; esculpido está en la tabla de su corazón, y en los lados de vuestros altares;"
+        },
+        {
+            "id": "jer17_2",
+            "speaker": "Jeremías",
+            "verse": 2,
+            "text": "cuando sus hijos se acuerdan de sus altares y de sus imágenes de Asera, junto a los árboles verdes y en los collados altos."
+        },
+        {
+            "id": "jer17_3",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "¡Oh mi montaña! tu hacienda en el campo y todos tus tesoros daré a saqueo, por el pecado de tus lugares altos en todos tus términos."
+        },
+        {
+            "id": "jer17_4",
+            "speaker": "Jeremías",
+            "verse": 4,
+            "text": "Y habrá en ti cesación de tu heredad, la cual yo te di, y te haré servir a tus enemigos en tierra que no conociste; porque fuego habéis encendido en mi furor, para siempre arderá."
+        },
+        {
+            "id": "jer17_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "jer17_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Maldito el varón que confía en el hombre, y pone carne por su brazo, y su corazón se aparta de Jehová."
+        },
+        {
+            "id": "jer17_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Pues será como la retama en el desierto, y no verá cuando viniere el bien; sino que morará en los sequedales en el desierto, en tierra despoblada y deshabitada."
+        },
+        {
+            "id": "jer17_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Bendito el varón que confía en Jehova, y cuya esperanza es Jehová."
+        },
+        {
+            "id": "jer17_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Porque él será como el árbol plantado junto a las aguas, que junto a la corriente echará sus raíces, y no verá cuando viniere el calor, sino que su hoja estará verde; y en el año de sequía no se fatigará, ni dejará de hacer fruto."
+        },
+        {
+            "id": "jer17_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Engañoso es el corazón más que todas las cosas, y perverso; ¿quién lo conocerá?"
+        },
+        {
+            "id": "jer17_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Yo Jehová, que escudriño el corazón, que pruebo los riñones, para dar a cada uno según su camino, según el fruto de sus obras."
+        },
+        {
+            "id": "jer17_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Como la perdiz que cubre los huevos pero no los incuba, es el que acumula riquezas, y no con justicia; en la mitad de sus días las dejará, y en su postrimería será insensato."
+        },
+        {
+            "id": "jer17_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Trono de gloria, excelso desde el principio, es el lugar de nuestro santuario."
+        },
+        {
+            "id": "jer17_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "¡Oh Jehová, esperanza de Israel! todos los que te dejan, serán avergonzados; y los que de mí se apartan, serán escritos en el polvo; porque dejaron el manantial de aguas vivas, a Jehová."
+        },
+        {
+            "id": "jer17_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Sáname, oh Jehová, y seré sano; sálvame, y seré salvo; porque tú eres mi alabanza."
+        },
+        {
+            "id": "jer17_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "He aquí que ellos me dicen:"
+        },
+        {
+            "id": "jer17_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "¿Dónde está la palabra de Jehová? Venga ahora."
+        },
+        {
+            "id": "jer17_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Mas yo no me entrometí a ser pastor en pos de ti, ni deseé día de calamidad, tú lo sabes. Lo que de mi boca ha salido, fue en tu presencia."
+        },
+        {
+            "id": "jer17_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "No me seas tú por espanto, pues tú eres mi esperanza en el día malo."
+        },
+        {
+            "id": "jer17_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Avergüéncense los que me persiguen, y no me avergüence yo; asómbrense ellos, y yo no me asombre: trae sobre ellos día malo, y quebrántalos con doble quebrantamiento."
+        },
+        {
+            "id": "jer17_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Así me ha dicho Jehová:"
+        },
+        {
+            "id": "jer17_19b",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Ve, y ponte a la puerta de los hijos del pueblo, por la cual entran y salen los reyes de Judá, y a todas las puertas de Jerusalén,"
+        },
+        {
+            "id": "jer17_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "y diles: Oíd la palabra de Jehová, reyes de Judá, y todo Judá, y todos los moradores de Jerusalén que entráis por estas puertas."
+        },
+        {
+            "id": "jer17_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "jer17_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Guardaos por vuestras vidas, y no traigáis carga en el día del sábado, para meter por las puertas de Jerusalén;"
+        },
+        {
+            "id": "jer17_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Ni saquéis carga de vuestras casas en el día del sábado, ni hagáis obra alguna: mas santificad el día del sábado, como mandé a vuestros padres;"
+        },
+        {
+            "id": "jer17_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Mas ellos no oyeron, ni inclinaron su oído, antes endurecieron su cerviz, para no oír, ni recibir corrección."
+        },
+        {
+            "id": "jer17_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Pero sucederá, si vosotros me obedeciereis, dice Jehová, no metiendo carga por las puertas de esta ciudad en el día del sábado, sino que santificareis el día del sábado, no haciendo en él ninguna obra,"
+        },
+        {
+            "id": "jer17_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "que entrarán por las puertas de esta ciudad, en carros y en caballos, los reyes y los príncipes que se sientan sobre el trono de David, ellos y sus príncipes, los varones de Judá, y los moradores de Jerusalén: y esta ciudad será habitada para siempre."
+        },
+        {
+            "id": "jer17_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Y vendrán de las ciudades de Judá, y de los alrededores de Jerusalén, y de tierra de Benjamín, de las llanuras, de los montes, y del Neguev, trayendo holocausto y sacrificio, y ofrenda e incienso, y trayendo sacrificio de alabanza a la casa de Jehová."
+        },
+        {
+            "id": "jer17_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Mas si no me oyereis para santificar el día del sábado, y para no traer carga ni meterla por las puertas de Jerusalén en día de sábado, yo haré encender fuego en sus puertas, y consumirá los palacios de Jerusalén, y no se apagará."
+        }
+    ]
+}

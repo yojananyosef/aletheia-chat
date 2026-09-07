@@ -1,0 +1,319 @@
+{
+    "book": "Jeremías",
+    "chapter": 23,
+    "title": "Jeremías 23",
+    "messages": [
+        {
+            "id": "jer23_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "¡Ay de los pastores que destruyen y dispersan las ovejas de mi rebaño! dice Jehová."
+        },
+        {
+            "id": "jer23_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Por tanto, así dice Jehová, el Dios de Israel, a los pastores que apacientan mi pueblo:"
+        },
+        {
+            "id": "jer23_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Vosotros dispersasteis mis ovejas, y las espantasteis, y no las habéis visitado: he aquí yo visito sobre vosotros la maldad de vuestras obras, dice Jehová."
+        },
+        {
+            "id": "jer23_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y yo recogeré el remanente de mis ovejas de todas las tierras adonde las eché, y las haré volver a sus moradas; y crecerán, y se multiplicarán."
+        },
+        {
+            "id": "jer23_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y pondré sobre ellas pastores que las apacienten; y no temerán más, ni se asombrarán, ni serán menoscabadas, dice Jehová."
+        },
+        {
+            "id": "jer23_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "He aquí que vienen días, dice Jehová, en los cuales levantaré a David un Renuevo justo, y un Rey reinará y prosperará, y hará juicio y justicia en la tierra."
+        },
+        {
+            "id": "jer23_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "En sus días será salvo Judá, e Israel habitará seguro; y éste es su nombre por el cual será llamado:"
+        },
+        {
+            "id": "jer23_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "JEHOVÁ, JUSTICIA NUESTRA."
+        },
+        {
+            "id": "jer23_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por tanto, he aquí que vienen días, dice Jehová, cuando no dirán más:"
+        },
+        {
+            "id": "jer23_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Vive Jehová que hizo subir a los hijos de Israel de la tierra de Egipto;"
+        },
+        {
+            "id": "jer23_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Sino: Vive Jehová que hizo subir y trajo la simiente de la casa de Israel de tierra del norte, y de todas las tierras adonde los había yo echado; y habitarán en su tierra."
+        },
+        {
+            "id": "jer23_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "A causa de los profetas mi corazón está quebrantado dentro de mí, todos mis huesos tiemblan; estuve como hombre borracho, y como hombre a quien dominó el vino, delante de Jehová y delante de las palabras de su santidad."
+        },
+        {
+            "id": "jer23_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Porque la tierra está llena de adúlteros; porque a causa del juramento la tierra está de luto; los pastizales del desierto se secaron; la carrera de ellos es mala, y su fortaleza no es recta."
+        },
+        {
+            "id": "jer23_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Porque tanto el profeta como el sacerdote son fingidos; aun en mi casa hallé su maldad, dice Jehová."
+        },
+        {
+            "id": "jer23_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Por tanto, como resbaladeros en oscuridad les será su camino; serán empujados, y caerán en él; porque yo traeré mal sobre ellos, año de su castigo, dice Jehová."
+        },
+        {
+            "id": "jer23_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y en los profetas de Samaria he visto desatinos; profetizaban en Baal, e hicieron errar a mi pueblo Israel."
+        },
+        {
+            "id": "jer23_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y en los profetas de Jerusalén he visto torpezas; cometían adulterios, y andaban en mentiras, y esforzaban las manos de los malos, para que ninguno se convirtiese de su maldad; me fueron todos ellos como Sodoma, y sus moradores como Gomorra."
+        },
+        {
+            "id": "jer23_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Por tanto, así dice Jehová de los ejércitos contra aquellos profetas:"
+        },
+        {
+            "id": "jer23_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "He aquí que yo les hago comer ajenjos, y les haré beber aguas de hiel; porque de los profetas de Jerusalén salió la hipocresía sobre toda la tierra."
+        },
+        {
+            "id": "jer23_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "jer23_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "No escuchéis las palabras de los profetas que os profetizan: os hacen vanos; hablan visión de su corazón, no de la boca de Jehová."
+        },
+        {
+            "id": "jer23_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Dicen atrevidamente a los que me irritan:"
+        },
+        {
+            "id": "jer23_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Jehová dijo: Paz tendréis; y a cualquiera que anda tras la imaginación de su corazón, dijeron: No vendrá mal sobre vosotros."
+        },
+        {
+            "id": "jer23_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Porque ¿quién estuvo en el secreto de Jehová, y vio, y oyó su palabra? ¿quién estuvo atento a su palabra, y la oyó?"
+        },
+        {
+            "id": "jer23_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "He aquí que la tempestad de Jehová saldrá con furor; impetuosa tempestad descargará sobre la cabeza de los malos."
+        },
+        {
+            "id": "jer23_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "No se apartará el furor de Jehová, hasta tanto que haya hecho, y hasta tanto que haya cumplido los pensamientos de su corazón: en lo postrero de los días lo entenderéis cumplidamente."
+        },
+        {
+            "id": "jer23_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Yo no envié aquellos profetas, pero ellos corrían; yo no les hablé, mas ellos profetizaban."
+        },
+        {
+            "id": "jer23_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Pero si ellos hubieran estado en mi secreto, habrían hecho oír mis palabras a mi pueblo; y lo habrían hecho volver de su mal camino y de la maldad de sus obras."
+        },
+        {
+            "id": "jer23_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "¿Acaso soy yo Dios sólo de cerca, dice Jehová, y no Dios desde muy lejos?"
+        },
+        {
+            "id": "jer23_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "¿Se ocultará alguno, dice Jehová, en escondrijos que yo no lo vea? ¿No lleno yo, dice Jehová, el cielo y la tierra?"
+        },
+        {
+            "id": "jer23_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Yo he oído lo que aquellos profetas dijeron, profetizando mentira en mi nombre, diciendo:"
+        },
+        {
+            "id": "jer23_25b",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Soñé, soñé."
+        },
+        {
+            "id": "jer23_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "¿Hasta cuándo será esto en el corazón de los profetas que profetizan mentira, y que profetizan el engaño de su corazón?"
+        },
+        {
+            "id": "jer23_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Que tratan que mi pueblo se olvide de mi nombre con los sueños que cada uno cuenta a su compañero, de la manera que sus padres se olvidaron de mi nombre por Baal."
+        },
+        {
+            "id": "jer23_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "El profeta que tuviere sueño, cuente el sueño; y el que tuviere mi palabra, cuente mi palabra verdadera. ¿Qué tiene que ver la paja con el trigo? dice Jehová."
+        },
+        {
+            "id": "jer23_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "¿No es mi palabra como fuego, dice Jehová, y como martillo que quebranta la piedra?"
+        },
+        {
+            "id": "jer23_30",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Por tanto, he aquí yo contra los profetas, dice Jehová, que hurtan mis palabras cada uno de su compañero."
+        },
+        {
+            "id": "jer23_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "He aquí yo contra los profetas, dice Jehová, que endulzan sus lenguas, y dicen:"
+        },
+        {
+            "id": "jer23_31b",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "Él ha dicho."
+        },
+        {
+            "id": "jer23_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "He aquí yo contra los que profetizan sueños mentirosos, dice Jehová, y los cuentan y hacen errar a mi pueblo con sus mentiras y sus lisonjas, y yo no los envié, ni les mandé; por tanto, no son de provecho a este pueblo, dice Jehová."
+        },
+        {
+            "id": "jer23_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y cuando te preguntare este pueblo, o el profeta, o el sacerdote, diciendo:"
+        },
+        {
+            "id": "jer23_33b",
+            "speaker": "Dios",
+            "verse": 33,
+            "text": "¿Cuál es la carga de Jehová? les dirás: ¿Cuál carga? Os dejaré, dice Jehová."
+        },
+        {
+            "id": "jer23_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y al profeta, al sacerdote o al pueblo que dijere:"
+        },
+        {
+            "id": "jer23_34b",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "Carga de Jehová; yo enviaré castigo sobre tal hombre y sobre su casa."
+        },
+        {
+            "id": "jer23_35",
+            "speaker": "Dios",
+            "verse": 35,
+            "text": "Así diréis cada cual a su compañero, y cada cual a su hermano: ¿Qué ha respondido Jehová, y qué habló Jehová?"
+        },
+        {
+            "id": "jer23_36a",
+            "speaker": "Pueblo",
+            "verse": 36,
+            "text": "Y nunca más os vendrá a la memoria decir:"
+        },
+        {
+            "id": "jer23_36b",
+            "speaker": "Dios",
+            "verse": 36,
+            "text": "Carga de Jehová: porque la palabra de cada uno le será por carga; pues pervertisteis las palabras del Dios viviente, de Jehová de los ejércitos, Dios nuestro."
+        },
+        {
+            "id": "jer23_37",
+            "speaker": "Dios",
+            "verse": 37,
+            "text": "Así dirás al profeta: ¿Qué te respondió Jehová, y qué habló Jehová?"
+        },
+        {
+            "id": "jer23_38a",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Mas si dijereis:"
+        },
+        {
+            "id": "jer23_38b",
+            "speaker": "Pueblo",
+            "verse": 38,
+            "text": "Carga de Jehová; por eso Jehová dice así: Porque dijisteis esta palabra: Carga de Jehová, habiendo enviado a deciros: No digáis: Carga de Jehová:"
+        },
+        {
+            "id": "jer23_39",
+            "speaker": "Pueblo",
+            "verse": 39,
+            "text": "Por tanto, he aquí que yo os echaré en olvido, y os echaré de mi presencia junto con la ciudad que os di a vosotros y a vuestros padres;"
+        },
+        {
+            "id": "jer23_40",
+            "speaker": "Pueblo",
+            "verse": 40,
+            "text": "y pondré sobre vosotros afrenta perpetua, y eterna confusión que nunca borrará el olvido."
+        }
+    ]
+}

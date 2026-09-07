@@ -1,0 +1,205 @@
+{
+    "book": "Jeremías",
+    "chapter": 9,
+    "title": "Jeremías 9",
+    "messages": [
+        {
+            "id": "jer9_1",
+            "speaker": "Pueblo",
+            "verse": 1,
+            "text": "¡Oh si mi cabeza se hiciese aguas, y mis ojos fuentes de lágrimas, para que llore día y noche los muertos de la hija de mi pueblo!"
+        },
+        {
+            "id": "jer9_2",
+            "speaker": "Pueblo",
+            "verse": 2,
+            "text": "¡Oh quién me diese en el desierto un mesón de caminantes, para que dejase a mi pueblo, y de ellos me apartase! Porque todos ellos son adúlteros, congregación de prevaricadores."
+        },
+        {
+            "id": "jer9_3",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "Tensan su lengua como su arco, para lanzar mentiras; pero no son valientes para la verdad en la tierra; porque de mal en mal procedieron, y me han desconocido, dice Jehová."
+        },
+        {
+            "id": "jer9_4",
+            "speaker": "Jeremías",
+            "verse": 4,
+            "text": "Guárdese cada uno de su compañero, y en ningún hermano tenga confianza: porque todo hermano engaña con falacia, y todo compañero anda con calumniadores."
+        },
+        {
+            "id": "jer9_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cada uno engaña a su compañero, y no habla verdad:"
+        },
+        {
+            "id": "jer9_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "enseñaron su lengua a hablar mentira y se ocupan de hacer perversamente."
+        },
+        {
+            "id": "jer9_6",
+            "speaker": "Jeremías",
+            "verse": 6,
+            "text": "Tu morada es en medio de engaño; de muy engañadores no quisieron conocerme, dice Jehová."
+        },
+        {
+            "id": "jer9_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por tanto, así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "jer9_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "He aquí que yo los fundiré, y los probaré; porque ¿cómo he de hacer por la hija de mi pueblo?"
+        },
+        {
+            "id": "jer9_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Saeta afilada es la lengua de ellos; engaño habla; con su boca habla paz con su amigo, pero dentro de sí pone sus asechanzas."
+        },
+        {
+            "id": "jer9_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿No habré de castigarles por estas cosas? dice Jehová. ¿No ha de vengarse mi alma de una gente como ésta?"
+        },
+        {
+            "id": "jer9_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Sobre los montes levantaré lloro y lamentación, y llanto sobre los pastos del desierto; porque desolados fueron hasta no quedar quien pase, ni oyeron bramido de ganado; desde las aves del cielo hasta las bestias de la tierra huyeron, y se fueron."
+        },
+        {
+            "id": "jer9_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y convertiré a Jerusalén en un montón de ruinas, en guarida de dragones; y de las ciudades de Judá haré asolamiento, que no quede morador."
+        },
+        {
+            "id": "jer9_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "¿Quién es varón sabio que entienda esto? ¿Y a quién habló la boca de Jehová, para que pueda declararlo? ¿Por qué causa la tierra ha perecido, ha sido asolada como desierto, que no hay quien pase?"
+        },
+        {
+            "id": "jer9_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dijo Jehová:"
+        },
+        {
+            "id": "jer9_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Porque dejaron mi ley, la cual di delante de ellos, y no obedecieron a mi voz, ni caminaron conforme a ella;"
+        },
+        {
+            "id": "jer9_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "antes se fueron tras la imaginación de su corazón, y en pos de los Baales que les enseñaron sus padres."
+        },
+        {
+            "id": "jer9_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Por tanto así dice Jehová de los ejércitos, Dios de Israel:"
+        },
+        {
+            "id": "jer9_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "He aquí que a este pueblo yo les daré a comer ajenjo, y les daré a beber aguas de hiel."
+        },
+        {
+            "id": "jer9_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y los esparciré entre gentes que ni ellos ni sus padres conocieron; y enviaré espada en pos de ellos, hasta que yo los acabe."
+        },
+        {
+            "id": "jer9_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "jer9_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Considerad, y llamad plañideras que vengan; y enviad por las mujeres hábiles, que vengan;"
+        },
+        {
+            "id": "jer9_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "que se den prisa y hagan lamento sobre nosotros, para que nuestros ojos derramen lágrimas, y nuestros párpados destilen aguas."
+        },
+        {
+            "id": "jer9_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Porque voz de endecha fue oída de Sión: ¡Cómo hemos sido destruidos! en gran manera hemos sido confundidos. ¿Por qué dejamos la tierra? ¿Por qué nos han echado de sí nuestras moradas?"
+        },
+        {
+            "id": "jer9_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Oíd pues, oh mujeres, palabra de Jehová, y vuestro oído reciba la palabra de su boca; y enseñad endechas a vuestras hijas, y cada una a su amiga, lamentación."
+        },
+        {
+            "id": "jer9_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Porque la muerte ha subido por nuestras ventanas, ha entrado en nuestros palacios; para talar a los niños de las calles y a los jóvenes de las plazas."
+        },
+        {
+            "id": "jer9_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Habla:"
+        },
+        {
+            "id": "jer9_22b",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Así dice Jehová: Los cuerpos de los hombres muertos caerán como estiércol sobre la faz del campo, y como manojo tras el segador, que no hay quien lo recoja."
+        },
+        {
+            "id": "jer9_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "jer9_23b",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "No se alabe el sabio en su sabiduría, ni en su valentía se alabe el valiente, ni el rico se alabe en su riqueza."
+        },
+        {
+            "id": "jer9_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Mas el que se hubiere de alabar, alábese en esto, en entenderme y en conocerme, que yo soy Jehová, que hago misericordia, juicio y justicia en la tierra; porque en estas cosas me complazco, dice Jehová."
+        },
+        {
+            "id": "jer9_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "He aquí que vienen días, dice Jehová, y visitaré sobre todo circuncidado, y sobre todo incircunciso:"
+        },
+        {
+            "id": "jer9_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "A Egipto y a Judá, a Edom, a los hijos de Amón y de Moab, y a todos los arrinconados en el postrer rincón, que moran en el desierto; porque todas las naciones son incircuncisas, y toda la casa de Israel es incircuncisa de corazón."
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "book": "Jeremías",
+    "chapter": 16,
+    "title": "Jeremías 16",
+    "messages": [
+        {
+            "id": "jer16_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vino a mí palabra de Jehová, diciendo:"
+        },
+        {
+            "id": "jer16_2",
+            "speaker": "Jeremías",
+            "verse": 2,
+            "text": "No tomarás esposa para ti, ni tendrás hijos ni hijas en este lugar."
+        },
+        {
+            "id": "jer16_3",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "Porque así dice Jehová acerca de los hijos y de las hijas que nacieren en este lugar, y de sus madres que los dieren a luz, y de los padres que los engendraren en esta tierra."
+        },
+        {
+            "id": "jer16_4",
+            "speaker": "Jeremías",
+            "verse": 4,
+            "text": "De dolorosas enfermedades morirán; no serán plañidos ni sepultados; serán como estiércol sobre la faz de la tierra; y con espada y con hambre serán consumidos, y sus cuerpos servirán de comida para las aves del cielo y para las bestias de la tierra."
+        },
+        {
+            "id": "jer16_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque así dice Jehová:"
+        },
+        {
+            "id": "jer16_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "No entres en casa de luto, ni vayas a lamentar, ni los consueles: porque yo he quitado mi paz de este pueblo, dice Jehová, mi misericordia y piedades."
+        },
+        {
+            "id": "jer16_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Morirán grandes y pequeños en esta tierra; no serán sepultados, ni los plañirán, ni se sajarán ni se raparán por ellos;"
+        },
+        {
+            "id": "jer16_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "ni partirán pan de luto por ellos, para consolarles de sus muertos; ni les darán a beber vaso de consolaciones por su padre o por su madre."
+        },
+        {
+            "id": "jer16_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Asimismo no entres en casa de convite, para sentarte con ellos a comer o a beber."
+        },
+        {
+            "id": "jer16_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque así dice Jehová de los ejércitos, Dios de Israel:"
+        },
+        {
+            "id": "jer16_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "He aquí que yo haré cesar en este lugar, delante de vuestros ojos y en vuestros días, toda voz de gozo y toda voz de alegría, toda voz de desposado y toda voz de desposada."
+        },
+        {
+            "id": "jer16_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y acontecerá que cuando anunciares a este pueblo todas estas cosas, te dirán ellos: ¿Por qué habló Jehová sobre nosotros este mal tan grande? ¿O cuál es nuestra maldad, o qué pecado es el nuestro, que hemos cometido contra Jehová nuestro Dios?"
+        },
+        {
+            "id": "jer16_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Entonces les dirás: Porque vuestros padres me dejaron, dice Jehová, y anduvieron en pos de dioses ajenos, y los sirvieron, y a ellos se encorvaron, y me dejaron a mí, y no guardaron mi ley;"
+        },
+        {
+            "id": "jer16_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y vosotros habéis hecho peor que vuestros padres; porque he aquí que vosotros camináis cada uno tras la imaginación de su malvado corazón, no oyéndome a mí."
+        },
+        {
+            "id": "jer16_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Por tanto, yo os arrojaré de esta tierra a una tierra que ni vosotros ni vuestros padres habéis conocido, y allá serviréis a dioses ajenos de día y de noche; porque no os mostraré clemencia."
+        },
+        {
+            "id": "jer16_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Por tanto, he aquí vienen días, dice Jehová, en que no se dirá más:"
+        },
+        {
+            "id": "jer16_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Vive Jehová, que hizo subir a los hijos de Israel de tierra de Egipto;"
+        },
+        {
+            "id": "jer16_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "sino: Vive Jehová, que hizo subir a los hijos de Israel de la tierra del norte, y de todas las tierras a donde los había arrojado: y los volveré a su tierra, la cual di a sus padres."
+        },
+        {
+            "id": "jer16_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "He aquí que yo envío muchos pescadores, dice Jehová, y los pescarán; y después enviaré muchos cazadores, y los cazarán de todo monte, y de todo collado, y de las cavernas de los peñascos."
+        },
+        {
+            "id": "jer16_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Porque mis ojos están sobre todos sus caminos, los cuales no se me ocultaron, ni su maldad se esconde de la presencia de mis ojos."
+        },
+        {
+            "id": "jer16_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Mas primero pagaré al doble su iniquidad y su pecado; porque contaminaron mi tierra con los cuerpos muertos de sus abominaciones, y de sus abominaciones llenaron mi heredad."
+        },
+        {
+            "id": "jer16_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Oh Jehová, fortaleza mía, y fuerza mía, y refugio mío en el tiempo de la aflicción; a ti vendrán gentes desde los extremos de la tierra, y dirán: Ciertamente mentira poseyeron nuestros padres, vanidad, y no hay en ellos provecho."
+        },
+        {
+            "id": "jer16_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "¿Ha de hacer el hombre dioses para sí? Mas ellos no son dioses."
+        },
+        {
+            "id": "jer16_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Por tanto, he aquí les enseñaré esta vez, les enseñaré mi mano y mi poder, y sabrán que mi nombre es Jehová."
+        }
+    ]
+}

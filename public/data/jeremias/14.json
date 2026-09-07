@@ -1,0 +1,181 @@
+{
+    "book": "Jeremías",
+    "chapter": 14,
+    "title": "Jeremías 14",
+    "messages": [
+        {
+            "id": "jer14_1",
+            "speaker": "Jeremías",
+            "verse": 1,
+            "text": "Palabra de Jehová que fue dada a Jeremías, con motivo de la sequía."
+        },
+        {
+            "id": "jer14_2",
+            "speaker": "Jeremías",
+            "verse": 2,
+            "text": "Se enlutó Judá, y sus puertas languidecen; se oscurecieron hasta los suelos, y subió el clamor de Jerusalén."
+        },
+        {
+            "id": "jer14_3",
+            "speaker": "Jeremías",
+            "verse": 3,
+            "text": "Y sus nobles enviaron a sus criados por agua; vinieron a las lagunas, y no hallaron agua; se volvieron con sus vasos vacíos; se avergonzaron, se confundieron, y cubrieron sus cabezas."
+        },
+        {
+            "id": "jer14_4",
+            "speaker": "Jeremías",
+            "verse": 4,
+            "text": "Porque se resquebrajó la tierra por falta de lluvia en el país; los labradores, de vergüenza, cubrieron sus cabezas."
+        },
+        {
+            "id": "jer14_5",
+            "speaker": "Jeremías",
+            "verse": 5,
+            "text": "Y aun las ciervas en los campos parían, y abandonaban la cría, porque no había hierba."
+        },
+        {
+            "id": "jer14_6",
+            "speaker": "Jeremías",
+            "verse": 6,
+            "text": "Y los asnos monteses se ponían en los altos, aspiraban el viento como los dragones; sus ojos se ofuscaron, porque no había hierba."
+        },
+        {
+            "id": "jer14_7",
+            "speaker": "Jeremías",
+            "verse": 7,
+            "text": "Aunque nuestras iniquidades testifican contra nosotros, oh Jehová, obra por amor de tu nombre; porque muchas son nuestras rebeliones, contra ti hemos pecado."
+        },
+        {
+            "id": "jer14_8",
+            "speaker": "Jeremías",
+            "verse": 8,
+            "text": "Oh esperanza de Israel, Guardador suyo en el tiempo de la aflicción, ¿por qué has de ser como forastero en la tierra, y como caminante que se aparta para pasar la noche?"
+        },
+        {
+            "id": "jer14_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Por qué has de ser como hombre atónito, y como valiente que no puede librar? Mas tú estás entre nosotros, oh Jehová, y sobre nosotros es invocado tu nombre; no nos desampares."
+        },
+        {
+            "id": "jer14_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Así dice Jehová a este pueblo:"
+        },
+        {
+            "id": "jer14_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¡Cómo les ha gustado vagar! No han refrenado sus pies; por tanto, Jehová no los acepta; se acordará ahora de la maldad de ellos y castigará sus pecados."
+        },
+        {
+            "id": "jer14_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "jer14_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "No ruegues por este pueblo para bien."
+        },
+        {
+            "id": "jer14_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Cuando ayunen, yo no oiré su clamor, y cuando ofrecieren holocausto y ofrenda, no lo aceptaré; sino que los consumiré con espada, y con hambre, y con pestilencia."
+        },
+        {
+            "id": "jer14_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y yo dije:"
+        },
+        {
+            "id": "jer14_13b",
+            "speaker": "Jeremías",
+            "verse": 13,
+            "text": "¡Ah, Señor Jehová!"
+        },
+        {
+            "id": "jer14_13c",
+            "speaker": "Jeremías",
+            "verse": 13,
+            "text": "He aquí que los profetas les dicen:"
+        },
+        {
+            "id": "jer14_13d",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "No veréis espada, ni habrá hambre en vosotros, sino que en este lugar os daré paz verdadera."
+        },
+        {
+            "id": "jer14_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Me dijo entonces Jehová:"
+        },
+        {
+            "id": "jer14_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Los profetas profetizan mentiras en mi nombre: Yo no los envié, ni les mandé, ni les hablé; os profetizan visión mentirosa, adivinación y vanidad, y el engaño de su corazón."
+        },
+        {
+            "id": "jer14_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Por tanto, así dice Jehová sobre los profetas que profetizan en mi nombre, los cuales yo no envié, y que dicen:"
+        },
+        {
+            "id": "jer14_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "No habrá ni espada ni hambre en esta tierra: Con espada y con hambre serán consumidos esos profetas."
+        },
+        {
+            "id": "jer14_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y el pueblo a quien profetizan, echado será en las calles de Jerusalén por hambre y por espada; y no habrá quien los entierre, a ellos, a sus esposas, a sus hijos, a sus hijas; y sobre ellos derramaré su maldad."
+        },
+        {
+            "id": "jer14_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Les dirás, pues, esta palabra: Derramen mis ojos lágrimas noche y día, y no cesen; porque de gran quebranto es quebrantada la virgen hija de mi pueblo, de muy grave herida."
+        },
+        {
+            "id": "jer14_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Si salgo al campo, he aquí muertos a espada; y si entro en la ciudad, he aquí enfermos de hambre; porque tanto el profeta como el sacerdote andan vagando en una tierra que no conocen."
+        },
+        {
+            "id": "jer14_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "¿Has desechado enteramente a Judá? ¿Ha aborrecido tu alma a Sión? ¿Por qué nos hiciste herir sin que haya curación para nosotros? Esperamos paz, y no hubo bien; tiempo de sanidad, y he aquí turbación."
+        },
+        {
+            "id": "jer14_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Reconocemos, oh Jehová, nuestra impiedad, la iniquidad de nuestros padres: porque contra ti hemos pecado."
+        },
+        {
+            "id": "jer14_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Por amor a tu nombre no nos deseches, ni deshonres el trono de tu gloria: acuérdate, no anules tu pacto con nosotros."
+        },
+        {
+            "id": "jer14_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "¿Hay entre las vanidades de las naciones quien haga llover? ¿Y darán los cielos lluvias? ¿No eres tú, oh Jehová, nuestro Dios? En ti, pues, esperamos; pues tú hiciste todas estas cosas."
+        }
+    ]
+}

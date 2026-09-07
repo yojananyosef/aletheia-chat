@@ -1,0 +1,49 @@
+{
+    "book": "Jeremías",
+    "chapter": 45,
+    "title": "Jeremías 45",
+    "messages": [
+        {
+            "id": "jer45_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Palabra que habló el profeta Jeremías a Baruc, hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, en el año cuarto de Joacim, hijo de Josías, rey de Judá, diciendo:"
+        },
+        {
+            "id": "jer45_2a",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Así dice Jehová, Dios de Israel, a ti, oh Baruc:"
+        },
+        {
+            "id": "jer45_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Tú dijiste:"
+        },
+        {
+            "id": "jer45_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "¡Ay de mí ahora! Porque Jehová ha añadido tristeza a mi dolor; fatigado estoy de mi gemir y no hallo descanso."
+        },
+        {
+            "id": "jer45_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Así le dirás: Así dice Jehová:"
+        },
+        {
+            "id": "jer45_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "He aquí que yo destruyo lo que edifiqué, y arranco lo que planté, y toda esta tierra."
+        },
+        {
+            "id": "jer45_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "¿Y tú buscas para ti grandes cosas? No las busques; porque he aquí que yo traigo mal sobre toda carne, dice Jehová, y a ti te daré tu vida por despojo en todos los lugares adonde vayas."
+        }
+    ]
+}

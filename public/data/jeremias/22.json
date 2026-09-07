@@ -1,0 +1,247 @@
+{
+    "book": "Jeremías",
+    "chapter": 22,
+    "title": "Jeremías 22",
+    "messages": [
+        {
+            "id": "jer22_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "jer22_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Desciende a la casa del rey de Judá, y habla allí esta palabra,"
+        },
+        {
+            "id": "jer22_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "y di: Oye palabra de Jehová, oh rey de Judá que estás sentado sobre el trono de David, tú, y tus criados, y tu pueblo que entran por estas puertas."
+        },
+        {
+            "id": "jer22_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "jer22_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Haced juicio y justicia, y librad al oprimido de mano del opresor, y no engañéis, ni robéis al extranjero, ni al huérfano, ni a la viuda, ni derraméis sangre inocente en este lugar."
+        },
+        {
+            "id": "jer22_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Porque si en verdad observareis esta palabra, los reyes que en lugar de David se sientan sobre su trono, entrarán montados en carros y en caballos por las puertas de esta casa, ellos, y sus siervos, y su pueblo."
+        },
+        {
+            "id": "jer22_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Pero si no observareis estas palabras, por mí he jurado, dice Jehová, que esta casa será desierta."
+        },
+        {
+            "id": "jer22_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque así dice Jehová sobre la casa del rey de Judá:"
+        },
+        {
+            "id": "jer22_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Como Galaad eres tú para mí, y como cabeza del Líbano; sin embargo te convertiré en un desierto, como ciudades deshabitadas."
+        },
+        {
+            "id": "jer22_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y designaré contra ti destructores, cada uno con sus armas; y cortarán tus cedros escogidos, y los echarán en el fuego."
+        },
+        {
+            "id": "jer22_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y muchas gentes pasarán junto a esta ciudad, y dirán cada uno a su compañero: ¿Por qué ha hecho así Jehová a esta grande ciudad?"
+        },
+        {
+            "id": "jer22_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y dirán: Porque dejaron el pacto de Jehová su Dios, y adoraron dioses ajenos, y les sirvieron."
+        },
+        {
+            "id": "jer22_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "No lloréis al muerto, ni hagáis duelo por él; llorad amargamente por el que se va; porque no volverá jamás, ni verá la tierra donde nació."
+        },
+        {
+            "id": "jer22_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque así dice Jehová acerca de Salum, hijo de Josías, rey de Judá, que reinó en lugar de su padre Josías, y que salió de este lugar:"
+        },
+        {
+            "id": "jer22_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "No volverá acá más;"
+        },
+        {
+            "id": "jer22_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "antes morirá en el lugar adonde lo llevaron cautivo, y no verá más esta tierra."
+        },
+        {
+            "id": "jer22_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "¡Ay del que edifica su casa y no en justicia, y sus salas y no en juicio, sirviéndose de su prójimo de balde, y no dándole el salario de su trabajo!"
+        },
+        {
+            "id": "jer22_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Que dice:"
+        },
+        {
+            "id": "jer22_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Edificaré para mí casa espaciosa, y airosas salas; y le abre ventanas, y la cubre de cedro, y la pinta de bermellón."
+        },
+        {
+            "id": "jer22_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "¿Reinarás porque te rodeas de cedro? ¿No comió y bebió tu padre, e hizo juicio y justicia, y entonces le fue bien?"
+        },
+        {
+            "id": "jer22_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Él juzgó la causa del afligido y del menesteroso, y entonces estuvo bien. ¿No es esto conocerme a mí? dice Jehová."
+        },
+        {
+            "id": "jer22_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Mas tus ojos y tu corazón no son sino para tu avaricia, y para derramar la sangre inocente, y para opresión, y para hacer agravio."
+        },
+        {
+            "id": "jer22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Por tanto, así dice Jehová, de Joacim, hijo de Josías, rey de Judá:"
+        },
+        {
+            "id": "jer22_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "No lo llorarán, diciendo: ¡Ay hermano mío! o ¡Ay hermana!"
+        },
+        {
+            "id": "jer22_18c",
+            "speaker": "Jeremías",
+            "verse": 18,
+            "text": "Ni lo lamentarán, diciendo:"
+        },
+        {
+            "id": "jer22_18d",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "¡Ay señor! o ¡Ay su grandeza!"
+        },
+        {
+            "id": "jer22_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "En sepultura de asno será enterrado, arrastrándole y echándole fuera de las puertas de Jerusalén."
+        },
+        {
+            "id": "jer22_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Sube al Líbano, y clama, y en Basán da tu voz, y grita hacia todas partes; porque todos tus amantes son destruidos."
+        },
+        {
+            "id": "jer22_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Te hablé en tu prosperidad; pero dijiste:"
+        },
+        {
+            "id": "jer22_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "No oiré. Éste ha sido tu proceder desde tu juventud, que nunca oíste mi voz."
+        },
+        {
+            "id": "jer22_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "A todos tus pastores arrasará el viento, y tus amantes irán en cautiverio; entonces te avergonzarás y te confundirás a causa de toda tu maldad."
+        },
+        {
+            "id": "jer22_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Habitaste en el Líbano, hiciste tu nido en los cedros: ¡Cómo gemirás cuando te vinieren dolores, dolores como de mujer que está de parto!"
+        },
+        {
+            "id": "jer22_24",
+            "speaker": "Dios",
+            "verse": 24,
+            "text": "Vivo yo, dice Jehová, que si Conías, hijo de Joacim, rey de Judá fuese anillo en mi mano derecha, aun de allí te arrancaría."
+        },
+        {
+            "id": "jer22_25",
+            "speaker": "Dios",
+            "verse": 25,
+            "text": "Y te entregaré en mano de los que buscan tu vida, y en mano de aquellos cuya vista temes; sí, en mano de Nabucodonosor, rey de Babilonia, y en mano de los caldeos."
+        },
+        {
+            "id": "jer22_26",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Y te arrojaré a ti, y a tu madre que te dio a luz, a tierra extraña en donde no nacisteis; y allá moriréis."
+        },
+        {
+            "id": "jer22_27",
+            "speaker": "Dios",
+            "verse": 27,
+            "text": "Y a la tierra a la cual con el alma anhelan volver, a ella no volverán."
+        },
+        {
+            "id": "jer22_28",
+            "speaker": "Dios",
+            "verse": 28,
+            "text": "¿Es este hombre Conías un ídolo vil quebrado? ¿Es vaso con quien nadie se deleita? ¿Por qué fueron arrojados, él y su generación, y echados a una tierra que no habían conocido?"
+        },
+        {
+            "id": "jer22_29",
+            "speaker": "Dios",
+            "verse": 29,
+            "text": "¡Tierra, tierra, tierra! oye palabra de Jehová."
+        },
+        {
+            "id": "jer22_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "jer22_30b",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Escribid que este hombre será privado de descendencia, hombre que no prosperará en todos los días de su vida; porque ninguno de su simiente prosperará para sentarse sobre el trono de David, y gobernar sobre Judá."
+        }
+    ]
+}
