@@ -1,0 +1,97 @@
+{
+    "book": "Miqueas",
+    "chapter": 3,
+    "title": "Miqueas 3",
+    "messages": [
+        {
+            "id": "mic3_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y dije:"
+        },
+        {
+            "id": "mic3_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Oíd ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenece a vosotros saber el derecho?"
+        },
+        {
+            "id": "mic3_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "A vosotros que aborrecéis lo bueno y amáis lo malo, que les arrancáis su piel y su carne de sobre sus huesos;"
+        },
+        {
+            "id": "mic3_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "que coméis asimismo la carne de mi pueblo, y les desolláis su piel de sobre ellos y les quebráis sus huesos, y los hacéis pedazos como para la olla, y como carne en caldero."
+        },
+        {
+            "id": "mic3_4",
+            "speaker": "Miqueas",
+            "verse": 4,
+            "text": "Entonces clamarán a Jehová y no les responderá; antes esconderá de ellos su rostro en aquel tiempo, por cuanto hicieron malvadas obras."
+        },
+        {
+            "id": "mic3_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así dice Jehová acerca de los profetas que hacen errar a mi pueblo, que muerden con sus dientes, y claman:"
+        },
+        {
+            "id": "mic3_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Paz, y contra el que no les da de comer, declaran guerra."
+        },
+        {
+            "id": "mic3_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Por tanto, noche será para vosotros, no tendréis visión; os será oscuridad, de manera que no adivinéis, y sobre los profetas se pondrá el sol, y el día se oscurecerá sobre ellos."
+        },
+        {
+            "id": "mic3_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y los videntes serán avergonzados, y confundidos los adivinos; y todos ellos cubrirán sus labios, porque no hay respuesta de Dios."
+        },
+        {
+            "id": "mic3_8",
+            "speaker": "Miqueas",
+            "verse": 8,
+            "text": "Mas yo estoy lleno de poder del Espíritu de Jehová, y de juicio, y de fortaleza, para denunciar a Jacob su rebelión, y a Israel su pecado."
+        },
+        {
+            "id": "mic3_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Oíd ahora esto, cabezas de la casa de Jacob, y capitanes de la casa de Israel, que abomináis el juicio, y pervertís todo el derecho;"
+        },
+        {
+            "id": "mic3_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Que edificáis a Sión con sangre, y a Jerusalén con injusticia;"
+        },
+        {
+            "id": "mic3_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Sus cabezas juzgan por cohecho, y sus sacerdotes enseñan por precio, y sus profetas adivinan por dinero; y se apoyan en Jehová diciendo:"
+        },
+        {
+            "id": "mic3_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "¿No está Jehová entre nosotros? No vendrá mal sobre nosotros."
+        },
+        {
+            "id": "mic3_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Por tanto, a causa de vosotros Sión será arada como un campo, y Jerusalén vendrá a ser un montón de ruinas, y el monte de la casa como las cumbres del bosque."
+        }
+    ]
+}
