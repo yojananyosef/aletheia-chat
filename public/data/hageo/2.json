@@ -1,0 +1,193 @@
+{
+    "book": "Hageo",
+    "chapter": 2,
+    "title": "Hageo 2",
+    "messages": [
+        {
+            "id": "hag2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el mes séptimo, a los veintiún días del mes, vino palabra de Jehová por medio del profeta Hageo, diciendo:"
+        },
+        {
+            "id": "hag2_2a",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Habla ahora a Zorobabel, hijo de Salatiel, gobernador de Judá, y a Josué, hijo de Josadac, el sumo sacerdote, y al resto del pueblo, diciendo:"
+        },
+        {
+            "id": "hag2_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "¿Quién ha quedado entre vosotros que haya visto esta casa en su primera gloria? ¿Y cómo la veis ahora? ¿No es ella como nada delante de vuestros ojos?"
+        },
+        {
+            "id": "hag2_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Pues ahora, Zorobabel, esfuérzate, dice Jehová; esfuérzate también, Josué, hijo de Josadac, el sumo sacerdote; y esforzaos, pueblo todo de la tierra, dice Jehová, y trabajad; porque yo estoy con vosotros, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "hag2_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Según el pacto que hice con vosotros cuando salisteis de Egipto, así mi Espíritu estará en medio de vosotros: no temáis."
+        },
+        {
+            "id": "hag2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "hag2_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "De aquí a poco aún yo haré temblar los cielos y la tierra, y el mar y la tierra seca;"
+        },
+        {
+            "id": "hag2_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "y haré temblar a todas las naciones, y vendrá el Deseado de todas las naciones; y llenaré de gloria esta casa, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "hag2_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Mía es la plata, y mío es el oro, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "hag2_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "La gloria de esta casa postrera será mayor que la de la primera, dice Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "hag2_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El día veinticuatro del noveno mes, en el segundo año de Darío, vino palabra de Jehová por medio del profeta Hageo, diciendo:"
+        },
+        {
+            "id": "hag2_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así dice Jehová de los ejércitos:"
+        },
+        {
+            "id": "hag2_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Pregunta ahora a los sacerdotes acerca de la ley, diciendo:"
+        },
+        {
+            "id": "hag2_12a",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Si llevare alguno las carnes santificadas en el extremo de su vestidura, y con el extremo de ella tocare pan, o vianda, o vino, o aceite, o cualquier otra comida, ¿será santificada? Y respondieron los sacerdotes, y dijeron:"
+        },
+        {
+            "id": "hag2_12b",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "No."
+        },
+        {
+            "id": "hag2_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y dijo Hageo:"
+        },
+        {
+            "id": "hag2_13b",
+            "speaker": "Hageo",
+            "verse": 13,
+            "text": "Si un inmundo a causa de cuerpo muerto tocare alguna cosa de éstas, ¿será inmunda?"
+        },
+        {
+            "id": "hag2_13c",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y respondieron los sacerdotes, y dijeron:"
+        },
+        {
+            "id": "hag2_13d",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Inmunda será."
+        },
+        {
+            "id": "hag2_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y respondió Hageo y dijo:"
+        },
+        {
+            "id": "hag2_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Así es este pueblo y esta nación delante de mí, dice Jehová; y asimismo toda obra de sus manos; y lo que aquí ofrecen inmundo es."
+        },
+        {
+            "id": "hag2_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Ahora, pues, Considerad esto en vuestro corazón desde este día en adelante, antes que pongáis piedra sobre piedra en el templo de Jehová."
+        },
+        {
+            "id": "hag2_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Antes que fuesen estas cosas, venían al montón de veinte, y había diez; venían al lagar para sacar cincuenta cántaros del lagar, y había veinte."
+        },
+        {
+            "id": "hag2_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Os herí con viento solano, y con tizoncillo, y con granizo en toda obra de vuestras manos; mas no os convertisteis a mí, dice Jehová."
+        },
+        {
+            "id": "hag2_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Considerad, pues, ahora en vuestro corazón desde este día en adelante, desde el día veinticuatro del noveno mes, desde el día que se echó el cimiento del templo de Jehová; Consideradlo."
+        },
+        {
+            "id": "hag2_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "¿Todavía está la semilla en el granero? Si bien, la vid, la higuera, el granado y el árbol del olivo no han florecido todavía; mas desde este día os daré bendición."
+        },
+        {
+            "id": "hag2_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y vino otra vez palabra de Jehová a Hageo, el día veinticuatro del mes, diciendo:"
+        },
+        {
+            "id": "hag2_21a",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Habla a Zorobabel, gobernador de Judá, diciendo:"
+        },
+        {
+            "id": "hag2_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Yo haré temblar los cielos y la tierra;"
+        },
+        {
+            "id": "hag2_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "y trastornaré el trono de los reinos, y destruiré la fuerza del reino de las naciones; y trastornaré el carro, y los que en él suben; y vendrán abajo los caballos y los que en ellos montan, cada cual por la espada de su hermano."
+        },
+        {
+            "id": "hag2_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "En aquel día, dice Jehová de los ejércitos, te tomaré, oh Zorobabel, hijo de Salatiel, siervo mío, dice Jehová, y te pondré como anillo de sellar; porque yo te escogí, dice Jehová de los ejércitos."
+        }
+    ]
+}
