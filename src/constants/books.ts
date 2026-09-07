@@ -80,7 +80,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'miqueas', name: 'Miqueas', availableChapters: [1, 2, 3, 4, 5, 6, 7], category: 'Profetas Menores', description: 'Requerimientos de Dios y nacimiento en Belén.', participants: ['Dios', 'Narrador', 'Miqueas'] },
     { id: 'nahum', name: 'Nahum', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'Caída de Nínive.', participants: ['Dios', 'Narrador', 'Nahum'] },
     { id: 'habacuc', name: 'Habacuc', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'Diálogo con Dios sobre la injusticia.', participants: ['Dios', 'Narrador', 'Habacuc'] },
-    { id: 'sofonias', name: 'Sofonías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Juicio y restauración.', participants: ['Sofonías'] },
+    { id: 'sofonias', name: 'Sofonías', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'Juicio y restauración.', participants: ['Dios', 'Narrador', 'Sofonías'] },
     { id: 'hageo', name: 'Hageo', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Exhortación a reconstruir el templo.', participants: ['Hageo'] },
     { id: 'zacarias', name: 'Zacarías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Visiones del Mesías y el triunfo de Dios.', participants: ['Zacarías'] },
     { id: 'malaquias', name: 'Malaquías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'El mensajero del Señor.', participants: ['Malaquías'] },
