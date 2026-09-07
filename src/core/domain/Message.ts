@@ -30,7 +30,7 @@ export type CanonicalSpeaker =
     | 'Predicador' | 'Amado' | 'Amada' | 'Sabiduría' | 'Agur' | 'Madre de Lemuel'
     | 'Mujer insensata' | 'Hijas de Jerusalén' | 'Serafines' | 'Baruc' | 'Hananías'
     | 'Ebed-melec' | 'Jerusalén' | 'Enemigos' | 'Nabucodonosor' | 'Belsasar'
-    | 'Caldeos' | 'Sadrac' | 'Arioc' | 'Eunuco' | 'Gabriel'
+    | 'Caldeos' | 'Sadrac' | 'Arioc' | 'Eunuco' | 'Gabriel' | 'Efraín'
     | 'Isaías' | 'Jeremías' | 'Ezequiel' | 'Daniel'
     | 'Oseas' | 'Joel' | 'Amós' | 'Abdías' | 'Jonás' | 'Miqueas'
     | 'Nahum' | 'Habacuc' | 'Sofonías' | 'Hageo' | 'Zacarías' | 'Malaquías'

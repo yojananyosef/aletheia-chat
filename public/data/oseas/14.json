@@ -1,0 +1,67 @@
+{
+    "book": "Oseas",
+    "chapter": 14,
+    "title": "Oseas 14",
+    "messages": [
+        {
+            "id": "hos14_1",
+            "speaker": "Oseas",
+            "verse": 1,
+            "text": "Vuelve, oh Israel, a Jehová tu Dios; pues por tu pecado has caído."
+        },
+        {
+            "id": "hos14_2a",
+            "speaker": "Oseas",
+            "verse": 2,
+            "text": "Tomad con vosotros palabras, y volved a Jehová, y decidle:"
+        },
+        {
+            "id": "hos14_2b",
+            "speaker": "Pueblo",
+            "verse": 2,
+            "text": "Quita toda iniquidad, y acéptanos con gracia, y daremos becerros de nuestros labios."
+        },
+        {
+            "id": "hos14_3",
+            "speaker": "Pueblo",
+            "verse": 3,
+            "text": "No nos librará Asiria; no montaremos sobre caballos, ni nunca más diremos a la obra de nuestras manos: Vosotros sois nuestros dioses; porque en ti el huérfano alcanzará misericordia."
+        },
+        {
+            "id": "hos14_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Yo sanaré su rebelión, los amaré de pura gracia; porque mi ira se apartó de ellos."
+        },
+        {
+            "id": "hos14_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Yo seré a Israel como rocío; él florecerá como lirio, y extenderá sus raíces como el Líbano."
+        },
+        {
+            "id": "hos14_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Se extenderán sus ramas, y será su gloria como la del olivo, y su fragancia como el Líbano."
+        },
+        {
+            "id": "hos14_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Volverán, y se sentarán bajo su sombra; serán vivificados como trigo, y florecerán como la vid; su olor será como el del vino del Líbano."
+        },
+        {
+            "id": "hos14_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Efraín dirá: ¿Qué más tendré ya con los ídolos? Yo lo oiré, y miraré; yo seré a él como el ciprés verde; de mí será hallado tu fruto."
+        },
+        {
+            "id": "hos14_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "¿Quién es sabio para que entienda esto, y prudente para que lo sepa? Porque los caminos de Jehová son rectos, y los justos andarán por ellos; mas los rebeldes tropezarán en ellos."
+        }
+    ]
+}

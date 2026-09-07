@@ -1,0 +1,97 @@
+{
+    "book": "Oseas",
+    "chapter": 8,
+    "title": "Oseas 8",
+    "messages": [
+        {
+            "id": "hos8_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Pon a tu boca trompeta. Vendrá como águila contra la casa de Jehová, porque traspasaron mi pacto y se rebelaron contra mi ley."
+        },
+        {
+            "id": "hos8_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Israel clamará a mí:"
+        },
+        {
+            "id": "hos8_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Dios mío, te conocemos."
+        },
+        {
+            "id": "hos8_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Israel ha rechazado el bien; el enemigo lo perseguirá."
+        },
+        {
+            "id": "hos8_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Ellos hicieron reyes, mas no de parte mía; constituyeron príncipes, mas yo no lo supe: de su plata y de su oro hicieron ídolos para sí, para ser talados."
+        },
+        {
+            "id": "hos8_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Tu becerro, oh Samaria, te hizo alejar; se encendió mi enojo contra ellos, hasta que no pudieron alcanzar inocencia."
+        },
+        {
+            "id": "hos8_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Porque de Israel es, y artífice lo hizo; que no es Dios; por lo que en pedazos será deshecho el becerro de Samaria."
+        },
+        {
+            "id": "hos8_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Porque sembraron viento, torbellino segarán; no tendrán mies, y la espiga no dará harina; y si la diere, extraños la tragarán."
+        },
+        {
+            "id": "hos8_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Será devorado Israel; ahora serán entre los gentiles como vaso en que no hay placer."
+        },
+        {
+            "id": "hos8_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Porque ellos subieron a Asiria, como asno montés por sí solo: Efraín con salario alquiló amantes."
+        },
+        {
+            "id": "hos8_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Aunque alquilen entre las naciones, ahora los juntaré; y serán afligidos un poco por la carga del rey y de los príncipes."
+        },
+        {
+            "id": "hos8_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Porque Efraín multiplicó altares para pecar, altares para pecar tendrá."
+        },
+        {
+            "id": "hos8_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Yo escribí para él cosas grandes de mi ley, pero fueron tenidas como cosa extraña."
+        },
+        {
+            "id": "hos8_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Para los sacrificios de mis ofrendas sacrificaron carne, y se la comieron, pero no los aceptó Jehová; ahora se acordará de su iniquidad y visitará su pecado; ellos volverán a Egipto."
+        },
+        {
+            "id": "hos8_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Israel se ha olvidado de su Hacedor y ha edificado templos; y Judá ha multiplicado ciudades fortificadas; pero yo enviaré fuego a sus ciudades, el cual devorará sus palacios."
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "book": "Oseas",
+    "chapter": 2,
+    "title": "Oseas 2",
+    "messages": [
+        {
+            "id": "hos2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Decid a vuestros hermanos, Ammi, y a vuestras hermanas, Ruhama:"
+        },
+        {
+            "id": "hos2_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Contended con vuestra madre, contended, porque ella no es mi esposa, ni yo soy su marido; quite, pues, de su rostro sus prostituciones, y sus adulterios de entre sus pechos;"
+        },
+        {
+            "id": "hos2_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "no sea que yo la despoje y desnude, y la deje como el día en que nació, y la ponga como un desierto, y la deje como tierra seca y la mate de sed."
+        },
+        {
+            "id": "hos2_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y no tendré misericordia de sus hijos, porque son hijos de prostitución."
+        },
+        {
+            "id": "hos2_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque su madre se prostituyó; la que los engendró se deshonró; porque dijo:"
+        },
+        {
+            "id": "hos2_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Iré tras mis amantes, que me dan mi pan y mi agua, mi lana y mi lino, mi aceite y mi bebida."
+        },
+        {
+            "id": "hos2_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Por tanto, he aquí yo voy a cercar con espinos su camino, y le pondré vallado para que no encuentre sus senderos."
+        },
+        {
+            "id": "hos2_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y seguirá a sus amantes, y no los alcanzará; los buscará, y no los hallará. Entonces dirá: Iré y me volveré a mi primer marido, porque mejor me iba entonces que ahora."
+        },
+        {
+            "id": "hos2_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y ella no reconoció que yo le daba el trigo, el vino y el aceite, y que les multipliqué la plata y el oro que ofrecían a Baal."
+        },
+        {
+            "id": "hos2_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Por tanto yo volveré, y tomaré mi trigo a su tiempo, y mi vino a su sazón, y quitaré mi lana y mi lino que le había dado para cubrir su desnudez."
+        },
+        {
+            "id": "hos2_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y ahora descubriré yo su locura delante de los ojos de sus amantes, y nadie la librará de mi mano."
+        },
+        {
+            "id": "hos2_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y haré cesar todo su gozo, sus fiestas, sus nuevas lunas y sus sábados, y todas sus festividades."
+        },
+        {
+            "id": "hos2_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y haré talar sus vides y sus higueras, de las cuales ha dicho:"
+        },
+        {
+            "id": "hos2_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Mi pago son, que me han dado mis amantes. Y las reduciré a un matorral, y las comerán las bestias del campo."
+        },
+        {
+            "id": "hos2_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y visitaré sobre ella los tiempos de los Baales, a los cuales incensaba, y se adornaba de sus zarcillos y de sus joyeles, y se iba tras sus amantes olvidándose de mí, dice Jehová."
+        },
+        {
+            "id": "hos2_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Pero he aquí, yo la atraeré, y la llevaré al desierto, y hablaré a su corazón."
+        },
+        {
+            "id": "hos2_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y le daré sus viñas desde allí, y el valle de Acor por puerta de esperanza; y allí cantará como en los tiempos de su juventud, y como en el día de su subida de la tierra de Egipto."
+        },
+        {
+            "id": "hos2_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Y será que en aquel tiempo, dice Jehová, me llamarás Ishi, y nunca más me llamarás Baali."
+        },
+        {
+            "id": "hos2_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Porque quitaré de su boca los nombres de los Baales, y nunca más serán mencionados por sus nombres."
+        },
+        {
+            "id": "hos2_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Y en aquel tiempo haré por ellos un pacto con las bestias del campo, con las aves del cielo y con los reptiles de la tierra; y quebraré arco y espada y la batalla de la tierra, y los haré dormir seguros."
+        },
+        {
+            "id": "hos2_19",
+            "speaker": "Dios",
+            "verse": 19,
+            "text": "Y te desposaré conmigo para siempre; te desposaré conmigo en justicia, y juicio, en compasión, y en misericordias."
+        },
+        {
+            "id": "hos2_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Y te desposaré conmigo en fe, y conocerás a Jehová."
+        },
+        {
+            "id": "hos2_21",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Y será que en aquel tiempo responderé, dice Jehová, yo responderé a los cielos, y ellos responderán a la tierra;"
+        },
+        {
+            "id": "hos2_22",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "Y la tierra responderá al trigo, y al vino, y al aceite, y ellos responderán a Jezreel."
+        },
+        {
+            "id": "hos2_23",
+            "speaker": "Dios",
+            "verse": 23,
+            "text": "Y la sembraré para mí en la tierra, y tendré misericordia de la que no ha obtenido misericordia; y diré al que no era mi pueblo: Tú eres mi pueblo, y él dirá: Tú eres mi Dios."
+        }
+    ]
+}
