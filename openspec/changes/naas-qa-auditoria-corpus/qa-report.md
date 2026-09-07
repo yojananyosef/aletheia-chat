@@ -29,12 +29,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | eclesiastes | 232 | 225 | 0 | 0 |
 | cantares | 121 | 116 | 0 | 0 |
 | isaias | 1462 | 843 | 0 | 0 |
+| jeremias | 1715 | 269 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **28053** | **8728** | **0** | **0** |
+| **total** | **29768** | **8997** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -104,6 +105,20 @@ Asuero de ester), **Ezequías** (oración 37:16-20; escritura 38:10-20; 39:3d/4d
 (7:12b), **Serafines** (6:3b/7b), **Mujeres** (4:1b). 138 correcciones sobre el dry (falsos
 Dios en citas de terceros: 6:5b/8d/11b Isaías, 8:2/16-18, 10:8b-14, 14:8b/13b/16b, 24:16b,
 28:15b, 21:9b, 57:10b, 63:11b; 37:36-38 Narrador; 38:5a Dios).
+
+### Jeremías — integración nueva (2026-09-06)
+Libro desbloqueado (1715 mensajes, 52 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Hereda
+la doctrina de Isaías: **Jeremías** = la voz del profeta por defecto (transmisión, lamentos
+20:7-18, oración 32:17-25, su defensa 26:12-15 y 37:18-20); **Dios** = citas tras marco dividido
+y su continuación (dominante en 1-29 y 46-51), carta de la cautividad 29:4-32, oráculos 28:13a/
+32:7a, citas dentro del bloque divino; **Narrador** = superscripción 1:1-3 y las escenas
+históricas 26-45 y 52 (toda la crónica del sitio, Narrador). Escenas con voces: **Sedequías**
+(32:3-5, 37:3/17, 38:5/10/14-24), **Hananías** (su falsa profecía 28:2-4/11), **Baruc**
+(36:18b), **Ebed-melec** (38:9/12), **Príncipes** (36:14-19, 38:4, 40:14-15), **Sacerdotes**
+(26:8-11), **Ancianos** (26:18-19 citando a Micaías), **Pueblo** (42:2-3, 44:16-19), **Azarías**
+(43:2-3), **Gedalías** (40:9-10, 40:16b), **Capitán** (37:13b, 40:2b-5b), **Hombres** (41:8b).
+142 correcciones sobre el dry (réplicas de Jeremías 1:6b/11d/13d, 4:10b, 14:13b, 20:9b, 24:3d;
+lamentos 20:7-18; narraciones 34:6-11, 37:15-16, 51:59-60, 28:5/10/17).
 
 ## Triaje (estado del tasks.md)
 
