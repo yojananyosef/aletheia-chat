@@ -30,12 +30,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | cantares | 121 | 116 | 0 | 0 |
 | isaias | 1462 | 843 | 0 | 0 |
 | jeremias | 1715 | 269 | 0 | 0 |
+| lamentaciones | 163 | 162 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **29768** | **8997** | **0** | **0** |
+| **total** | **29931** | **9159** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -119,6 +120,16 @@ históricas 26-45 y 52 (toda la crónica del sitio, Narrador). Escenas con voces
 (43:2-3), **Gedalías** (40:9-10, 40:16b), **Capitán** (37:13b, 40:2b-5b), **Hombres** (41:8b).
 142 correcciones sobre el dry (réplicas de Jeremías 1:6b/11d/13d, 4:10b, 14:13b, 20:9b, 24:3d;
 lamentos 20:7-18; narraciones 34:6-11, 37:15-16, 51:59-60, 28:5/10/17).
+
+### Lamentaciones — integración nueva (2026-09-06)
+Libro desbloqueado (163 mensajes, 5 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Poesía de
+duelo sin marcos narrativos: mapa doctrinal a mano. **Jeremías** = la voz del poeta por defecto
+(descripción de la ruina 1:1-11 y 2:1-19, el varón de aflicción cap. 3 entero, oráculo contra
+Edom y consuelo a Sión 4:21-22); **Jerusalén** = la ciudad personificada en 1ª persona
+(1:12-16, 1:18-22, súplica 2:20-22); **Pueblo** = la comunidad del remanente que reza el cap.
+5 entero; **Dios** = única cita divina "No temas" (3:57b, el citado de "dijiste"); voces de
+escena: **Niños** (2:12b), **Sacerdotes** (4:15b), **Enemigos** (la burla 2:15b/16b). 24
+correcciones sobre el dry (los 12 falsos Dios incluidos).
 
 ## Triaje (estado del tasks.md)
 
