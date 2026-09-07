@@ -72,7 +72,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'daniel', name: 'Daniel', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], category: 'Profetas Mayores', description: 'Fidelidad en Babilonia y visiones del fin.', participants: ['Dios', 'Narrador', 'Daniel', 'Nabucodonosor', 'Belsasar', 'Darío', 'Arioc', 'Caldeos', 'Príncipes', 'Sadrac', 'Reina', 'Eunuco', 'Ángel', 'Gabriel'] },
 
     // --- PROFETAS MENORES ---
-    { id: 'oseas', name: 'Oseas', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'El amor infalible de Dios.', participants: ['Oseas'] },
+    { id: 'oseas', name: 'Oseas', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], category: 'Profetas Menores', description: 'El amor infalible de Dios.', participants: ['Dios', 'Narrador', 'Oseas', 'Efraín', 'Pueblo'] },
     { id: 'joel', name: 'Joel', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'El día del Señor y la promesa del Espíritu.', participants: ['Joel'] },
     { id: 'amos', name: 'Amós', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Justicia social y juicio.', participants: ['Amós'] },
     { id: 'abdias', name: 'Abdías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Juicio contra Edom.', participants: ['Abdías'] },

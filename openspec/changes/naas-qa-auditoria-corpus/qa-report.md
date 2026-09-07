@@ -33,12 +33,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | lamentaciones | 163 | 162 | 0 | 0 |
 | ezequiel | 1504 | 410 | 0 | 0 |
 | daniel | 421 | 305 | 0 | 0 |
+| oseas | 210 | 178 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **31856** | **9874** | **0** | **0** |
+| **total** | **32066** | **10052** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -158,6 +159,20 @@ persona): **Daniel** por defecto; **Ángel** = el intérprete de la visión (7:1
 (8:13-14) y el varón de lino con su discurso (10-11 entero, 12:1-4/6b/9b); **Gabriel** = donde
 el texto lo nombra (8:17-26, 9:22-27); **Dios** = la voz del cielo (4:31b-32) y la voz que
 ordena a Gabriel (8:16b). 229 correcciones sobre el dry (casi todo estaba en Narrador/Dios).
+
+### Oseas — integración nueva (2026-09-06)
+Libro desbloqueado (210 mensajes, 14 caps; barrido 0 sospechosos/0 ambiguos/0 duros). **Caps
+1-3** (biografía simbólica de Gomer): las órdenes divinas de nombrar a los hijos ya llegan
+como Dios por los splits; 1:3/1:8 corregidas a Narrador (narración de los nacimientos) y
+3:2/3:3b a Oseas (su compra e instrucciones, 1ª persona). **Cap 2**: el pleito y las nuevas
+bodas en 1ª persona divina (2:2-4, 2:6-11, 2:13-23); citas de la esposa sin nombre (2:5b,
+2:12b) en Dios como relator del bloque. **Caps 4-14** (oráculos): discurso divino dominante —
+Dios por defecto; **Oseas** solo donde habla él: exordio en 3ª persona (4:1-3), lamento sobre
+el profeta (9:7-9), intercesión (9:14, 9:17), exhortación final (14:1-2a); **Pueblo** = la
+oración penitencial que Oseas pone en boca de Israel (14:2b-3); **Efraín** = la personificación
+nombrada en el marco "Y dijo Efraín:" (12:8b, patrón Jerusalén de Lamentaciones). Citas breves
+sin nombre (8:2b, 10:3, 13:10b) en Dios como relator. 181 correcciones sobre el dry (el dry
+tenía 185/210 en Narrador).
 
 ## Triaje (estado del tasks.md)
 
