@@ -77,7 +77,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'amos', name: 'Amós', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9], category: 'Profetas Menores', description: 'Justicia social y juicio.', participants: ['Dios', 'Narrador', 'Amós', 'Amasías'] },
     { id: 'abdias', name: 'Abdías', availableChapters: [1], category: 'Profetas Menores', description: 'Juicio contra Edom.', participants: ['Dios', 'Narrador'] },
     { id: 'jonas', name: 'Jonás', availableChapters: [1, 2, 3, 4], category: 'Profetas Menores', description: 'La misericordia de Dios hacia las naciones.', participants: ['Dios', 'Narrador', 'Jonás', 'Marineros', 'Rey de Nínive'] },
-    { id: 'miqueas', name: 'Miqueas', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Requerimientos de Dios y nacimiento en Belén.', participants: ['Miqueas'] },
+    { id: 'miqueas', name: 'Miqueas', availableChapters: [1, 2, 3, 4, 5, 6, 7], category: 'Profetas Menores', description: 'Requerimientos de Dios y nacimiento en Belén.', participants: ['Dios', 'Narrador', 'Miqueas'] },
     { id: 'nahum', name: 'Nahum', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Caída de Nínive.', participants: ['Nahum'] },
     { id: 'habacuc', name: 'Habacuc', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Diálogo con Dios sobre la injusticia.', participants: ['Habacuc'] },
     { id: 'sofonias', name: 'Sofonías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'Juicio y restauración.', participants: ['Sofonías'] },

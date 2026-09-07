@@ -37,12 +37,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | joel | 77 | 53 | 0 | 0 |
 | amos | 190 | 54 | 0 | 0 |
 | abdias | 23 | 1 | 0 | 0 |
+| miqueas | 114 | 62 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **32356** | **10160** | **0** | **0** |
+| **total** | **32470** | **10222** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -205,6 +206,17 @@ oráculo divino contra Edom: 1:1a Narrador (título+marco) y 1:1b-21 Dios en 1ª
 (te he hecho pequeño; por la injuria contra tu hermano Jacob; el día de Jehová está cercano;
 en el monte de Sión habrá liberación; el reino será de Jehová). Un matiz corregido: 1:3a es
 acusación divina (el dry lo dejaba como marco Narrador). 1 corrección.
+
+### Miqueas — integración nueva (2026-09-06)
+Libro desbloqueado (114 mensajes, 7 caps; barrido 0 sospechosos/0 ambiguos/0 duros). **Dios**
+domina los juicios: la caída de Samaria (1:6-7), las opresiones (2:3b-13 con el refrán y la
+orden "no profetizéis" como citas en relator), el proceso a las cabezas (3:1b-7, 3:9-12), la
+exaltación de Sión (4:6-13 con el intento de las naciones como cita en relator), el oráculo
+de **Belén** (5:2 "de ti me ha de salir el que será Señor en Israel"), el yo divino del
+cap 5:10-15 y el pleito entero (6:1b-16, con la pregunta del pueblo 6:6-7 en relator y la
+respuesta 6:8). **Miqueas** (conversión + fixes): exordio (1:2-5), lamento por las ciudades
+(1:8-16), "Mas yo estoy lleno de poder del Espíritu de Jehová" (3:8), los ayes y la confesión
+de Sión (5:1/3-9, 7:1-14) y el himno final (7:18-20). 15 correcciones.
 
 ## Triaje (estado del tasks.md)
 
