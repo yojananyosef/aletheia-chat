@@ -1,0 +1,127 @@
+{
+    "book": "Amós",
+    "chapter": 2,
+    "title": "Amós 2",
+    "messages": [
+        {
+            "id": "amo2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo2_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Por tres pecados de Moab, y por el cuarto, no revocaré su castigo; porque quemó los huesos del rey de Idumea hasta calcinarlos."
+        },
+        {
+            "id": "amo2_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Y meteré fuego en Moab, y consumirá los palacios de Queriot; y morirá Moab en alboroto, en estrépito y sonido de trompeta."
+        },
+        {
+            "id": "amo2_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y quitaré el juez de en medio de él, y mataré con él a todos sus príncipes, dice Jehová."
+        },
+        {
+            "id": "amo2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo2_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Por tres pecados de Judá, y por el cuarto, no revocaré su castigo; porque despreciaron la ley de Jehová, y no guardaron sus ordenanzas; y los hicieron errar sus mentiras, en pos de las cuales anduvieron sus padres."
+        },
+        {
+            "id": "amo2_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Meteré por tanto fuego en Judá, el cual consumirá los palacios de Jerusalén."
+        },
+        {
+            "id": "amo2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo2_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Por tres pecados de Israel, y por el cuarto, no revocaré su castigo; porque vendieron por dinero al justo, y al pobre por un par de zapatos:"
+        },
+        {
+            "id": "amo2_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Que codician aun el polvo de la tierra sobre la cabeza de los pobres, y tuercen el camino de los humildes; y el hombre y su padre entran a la misma joven, profanando mi santo nombre."
+        },
+        {
+            "id": "amo2_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y sobre las ropas empeñadas se acuestan junto a cualquier altar; y beben el vino de los condenados en la casa de sus dioses."
+        },
+        {
+            "id": "amo2_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y yo destruí delante de ellos al amorreo, cuya altura era como la altura de los cedros, y fuerte como un alcornoque; y destruí su fruto arriba, y sus raíces abajo."
+        },
+        {
+            "id": "amo2_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y yo os hice a vosotros subir de la tierra de Egipto, y os traje por el desierto cuarenta años, para que poseyeseis la tierra del amorreo."
+        },
+        {
+            "id": "amo2_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Y levanté de vuestros hijos para profetas, y de vuestros jóvenes para que fuesen nazareos. ¿No es esto así, dice Jehová, hijos de Israel?"
+        },
+        {
+            "id": "amo2_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas vosotros disteis de beber vino a los nazareos; y a los profetas mandasteis, diciendo:"
+        },
+        {
+            "id": "amo2_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "No profeticéis."
+        },
+        {
+            "id": "amo2_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Pues he aquí, yo os apretaré en vuestro lugar, como se aprieta el carro lleno de gavillas;"
+        },
+        {
+            "id": "amo2_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "y la huida perecerá del ligero, y al fuerte no le ayudará su fuerza, ni el valiente librará su vida;"
+        },
+        {
+            "id": "amo2_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "y el que toma el arco no resistirá, ni escapará el ligero de pies, ni el que cabalga en caballo salvará su vida."
+        },
+        {
+            "id": "amo2_16",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "El esforzado entre los valientes huirá desnudo aquel día, dice Jehová."
+        }
+    ]
+}

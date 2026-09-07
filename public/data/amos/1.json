@@ -1,0 +1,133 @@
+{
+    "book": "Amós",
+    "chapter": 1,
+    "title": "Amós 1",
+    "messages": [
+        {
+            "id": "amo1_1",
+            "speaker": "Amós",
+            "verse": 1,
+            "text": "Las palabras de Amós, que fue entre los pastores de Tecoa, las cuales vio acerca de Israel en días de Uzías, rey de Judá, y en días de Jeroboam, hijo de Joás, rey de Israel, dos años antes del terremoto."
+        },
+        {
+            "id": "amo1_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "amo1_2b",
+            "speaker": "Amós",
+            "verse": 2,
+            "text": "Jehová rugirá desde Sión, y dará su voz desde Jerusalén; y las habitaciones de los pastores se enlutarán, y se secará la cumbre del Carmelo."
+        },
+        {
+            "id": "amo1_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo1_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Por tres pecados de Damasco, y por el cuarto, no revocaré su castigo; porque trillaron a Galaad con trillos de hierro."
+        },
+        {
+            "id": "amo1_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Y meteré fuego en la casa de Hazael, y consumirá los palacios de Benadad."
+        },
+        {
+            "id": "amo1_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y quebraré la barra de Damasco, y cortaré a los moradores del valle de Avén, y al que empuña el cetro de Bet-edén; y el pueblo de Aram será trasportado a Kir, dice Jehová."
+        },
+        {
+            "id": "amo1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo1_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Por tres pecados de Gaza, y por el cuarto, no revocaré su castigo; porque llevó cautiva toda la cautividad, para entregarlos a Edom."
+        },
+        {
+            "id": "amo1_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Y meteré fuego en el muro de Gaza, y quemará sus palacios."
+        },
+        {
+            "id": "amo1_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y cortaré a los moradores de Asdod, y al que empuña el cetro de Ascalón; y volveré mi mano contra Ecrón y el remanente de los filisteos perecerá, dice Jehová el Señor."
+        },
+        {
+            "id": "amo1_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo1_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Por tres pecados de Tiro, y por el cuarto, no revocaré su castigo; porque entregaron la cautividad entera a Edom, y no se acordaron del pacto de hermanos."
+        },
+        {
+            "id": "amo1_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y meteré fuego en el muro de Tiro, y consumirá sus palacios."
+        },
+        {
+            "id": "amo1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo1_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Por tres pecados de Edom, y por el cuarto, no revocaré su castigo; porque persiguió a espada a su hermano, y desechó la misericordia; y con su furor siempre le ha destrozado, y perpetuamente ha guardado el enojo."
+        },
+        {
+            "id": "amo1_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y meteré fuego en Temán, y consumirá los palacios de Bosra."
+        },
+        {
+            "id": "amo1_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo1_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Por tres pecados de los hijos de Amón, y por el cuarto, no revocaré su castigo; porque para ensanchar su término abrieron a las mujeres de Galaad que estaban encintas."
+        },
+        {
+            "id": "amo1_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Y encenderé fuego en el muro de Rabá, y consumirá sus palacios con estruendo en el día de la batalla, con tempestad en día tempestuoso;"
+        },
+        {
+            "id": "amo1_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "y su rey irá en cautiverio, él y todos sus príncipes, dice Jehová."
+        }
+    ]
+}

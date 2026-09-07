@@ -1,0 +1,115 @@
+{
+    "book": "Amós",
+    "chapter": 3,
+    "title": "Amós 3",
+    "messages": [
+        {
+            "id": "amo3_1a",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Oíd esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto. Dice así:"
+        },
+        {
+            "id": "amo3_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "A vosotros solamente he conocido de todas las familias de la tierra; por tanto visitaré contra vosotros todas vuestras maldades."
+        },
+        {
+            "id": "amo3_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "¿Andarán dos juntos, si no estuvieren de acuerdo?"
+        },
+        {
+            "id": "amo3_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "¿Rugirá el león en la selva sin haber presa? ¿Dará el leoncillo su rugido desde su guarida, sin haber apresado algo?"
+        },
+        {
+            "id": "amo3_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "¿Caerá el ave en el lazo en la tierra, sin haber cazador? ¿Se alzará el lazo de la tierra, si no se ha atrapado nada?"
+        },
+        {
+            "id": "amo3_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "¿Se tocará la trompeta en la ciudad, y no se alborotará el pueblo? ¿Habrá algún mal en la ciudad, el cual Jehová no haya hecho?"
+        },
+        {
+            "id": "amo3_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Porque no hará nada el Señor Jehová, sin que revele su secreto a sus siervos los profetas."
+        },
+        {
+            "id": "amo3_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Rugiendo el león, ¿quién no temerá? Hablando Jehová el Señor, ¿quién no profetizará?"
+        },
+        {
+            "id": "amo3_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Haced pregonar sobre los palacios de Asdod, y sobre los palacios de tierra de Egipto, y decid:"
+        },
+        {
+            "id": "amo3_9b",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Reuníos sobre los montes de Samaria, y ved muchas opresiones en medio de ella, y violencias en medio de ella."
+        },
+        {
+            "id": "amo3_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y no saben hacer lo recto, dice Jehová, atesorando rapiñas y despojos en sus palacios."
+        },
+        {
+            "id": "amo3_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por tanto, así dice Jehová el Señor:"
+        },
+        {
+            "id": "amo3_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Un enemigo vendrá aún por todos lados de la tierra, y derribará de ti tu fortaleza, y tus palacios serán saqueados."
+        },
+        {
+            "id": "amo3_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Así dice Jehová:"
+        },
+        {
+            "id": "amo3_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "De la manera que el pastor libra de la boca del león dos piernas, o la punta de una oreja, así escaparán los hijos de Israel que moran en Samaria en el rincón de una cama, y al lado de un lecho."
+        },
+        {
+            "id": "amo3_13a",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Oíd y testificad en la casa de Jacob, dice el Señor Jehová, el Dios de los ejércitos:"
+        },
+        {
+            "id": "amo3_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Que el día que visite las rebeliones de Israel sobre él, visitaré también sobre los altares de Betel; y serán cortados los cuernos del altar, y caerán a tierra."
+        },
+        {
+            "id": "amo3_15",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Y heriré la casa de invierno con la casa de verano, y las casas de marfil perecerán; y las grandes casas serán destruidas, dice Jehová."
+        }
+    ]
+}

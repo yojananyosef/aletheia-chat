@@ -1,0 +1,193 @@
+{
+    "book": "Amós",
+    "chapter": 7,
+    "title": "Amós 7",
+    "messages": [
+        {
+            "id": "amo7_1",
+            "speaker": "Amós",
+            "verse": 1,
+            "text": "Así me ha mostrado el Señor Jehová; y he aquí, Él criaba langostas al principio que comenzaba a crecer el heno tardío; y he aquí, era el heno tardío después de las siegas del rey."
+        },
+        {
+            "id": "amo7_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y aconteció que cuando acabaron de comer la hierba de la tierra, yo dije:"
+        },
+        {
+            "id": "amo7_2b",
+            "speaker": "Amós",
+            "verse": 2,
+            "text": "Señor Jehová, perdona, te ruego; ¿quién levantará a Jacob? Porque es pequeño."
+        },
+        {
+            "id": "amo7_3",
+            "speaker": "Amós",
+            "verse": 3,
+            "text": "Se arrepintió Jehová de esto: No será así, dice Jehová."
+        },
+        {
+            "id": "amo7_4",
+            "speaker": "Amós",
+            "verse": 4,
+            "text": "El Señor Jehová me mostró así; y he aquí, llamaba para juzgar por fuego el Señor Jehová; y consumió un gran abismo, y consumió una parte de la tierra."
+        },
+        {
+            "id": "amo7_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y dije:"
+        },
+        {
+            "id": "amo7_5b",
+            "speaker": "Amós",
+            "verse": 5,
+            "text": "Señor Jehová, cesa ahora; ¿quién levantará a Jacob? Porque es pequeño."
+        },
+        {
+            "id": "amo7_6",
+            "speaker": "Amós",
+            "verse": 6,
+            "text": "Se arrepintió Jehová de esto: No será esto tampoco, dijo el Señor Jehová."
+        },
+        {
+            "id": "amo7_7",
+            "speaker": "Amós",
+            "verse": 7,
+            "text": "Me enseñó así: He aquí, el Señor estaba sobre un muro hecho a plomo, y en su mano una plomada de albañil."
+        },
+        {
+            "id": "amo7_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Jehová entonces me dijo:"
+        },
+        {
+            "id": "amo7_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "¿Qué ves, Amós?"
+        },
+        {
+            "id": "amo7_8c",
+            "speaker": "Amós",
+            "verse": 8,
+            "text": "Y dije:"
+        },
+        {
+            "id": "amo7_8d",
+            "speaker": "Amós",
+            "verse": 8,
+            "text": "Una plomada de albañil."
+        },
+        {
+            "id": "amo7_8e",
+            "speaker": "Amós",
+            "verse": 8,
+            "text": "Y el Señor dijo:"
+        },
+        {
+            "id": "amo7_8f",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "He aquí, yo pongo plomada de albañil en medio de mi pueblo Israel: No le pasaré más:"
+        },
+        {
+            "id": "amo7_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y los altares de Isaac serán destruidos, y los santuarios de Israel serán asolados; y me levantaré con espada sobre la casa de Jeroboam."
+        },
+        {
+            "id": "amo7_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces Amasías, sacerdote de Betel, envió a decir a Jeroboam, rey de Israel:"
+        },
+        {
+            "id": "amo7_10b",
+            "speaker": "Amasías",
+            "verse": 10,
+            "text": "Amós ha conspirado contra ti en medio de la casa de Israel; la tierra no puede soportar todas sus palabras."
+        },
+        {
+            "id": "amo7_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque así ha dicho Amós:"
+        },
+        {
+            "id": "amo7_11b",
+            "speaker": "Amós",
+            "verse": 11,
+            "text": "Jeroboam morirá a espada, e Israel pasará de su tierra en cautiverio."
+        },
+        {
+            "id": "amo7_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y Amasías dijo a Amós:"
+        },
+        {
+            "id": "amo7_12b",
+            "speaker": "Amasías",
+            "verse": 12,
+            "text": "Vidente, vete, y huye a tierra de Judá, y come allá tu pan, y profetiza allí:"
+        },
+        {
+            "id": "amo7_13",
+            "speaker": "Amasías",
+            "verse": 13,
+            "text": "Y no profetices más en Betel, porque es santuario del rey, y cabecera del reino."
+        },
+        {
+            "id": "amo7_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces respondió Amós, y dijo a Amasías:"
+        },
+        {
+            "id": "amo7_14b",
+            "speaker": "Amós",
+            "verse": 14,
+            "text": "Yo no era profeta, ni hijo de profeta, sino que era boyero y recogía higos silvestres."
+        },
+        {
+            "id": "amo7_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y Jehová me tomó de detrás del ganado, y me dijo Jehová:"
+        },
+        {
+            "id": "amo7_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Ve, y profetiza a mi pueblo Israel."
+        },
+        {
+            "id": "amo7_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Ahora, pues, oye palabra de Jehová. Tú dices:"
+        },
+        {
+            "id": "amo7_16b",
+            "speaker": "Amasías",
+            "verse": 16,
+            "text": "No profetices contra Israel, ni hables contra la casa de Isaac."
+        },
+        {
+            "id": "amo7_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Por tanto, así dice Jehová:"
+        },
+        {
+            "id": "amo7_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Tu esposa será ramera en la ciudad, y tus hijos y tus hijas caerán a espada, y tu tierra será repartida a cordel; y tú morirás en tierra inmunda, e Israel será llevado cautivo lejos de su tierra."
+        }
+    ]
+}

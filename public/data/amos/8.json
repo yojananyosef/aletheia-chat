@@ -1,0 +1,133 @@
+{
+    "book": "Amós",
+    "chapter": 8,
+    "title": "Amós 8",
+    "messages": [
+        {
+            "id": "amo8_1",
+            "speaker": "Amós",
+            "verse": 1,
+            "text": "Así me ha mostrado Jehová; y he aquí un canastillo de fruta de verano."
+        },
+        {
+            "id": "amo8_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "amo8_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "¿Qué ves, Amós?"
+        },
+        {
+            "id": "amo8_2c",
+            "speaker": "Amós",
+            "verse": 2,
+            "text": "Y dije:"
+        },
+        {
+            "id": "amo8_2d",
+            "speaker": "Amós",
+            "verse": 2,
+            "text": "Un canastillo de fruta de verano."
+        },
+        {
+            "id": "amo8_2e",
+            "speaker": "Amós",
+            "verse": 2,
+            "text": "Y me dijo Jehová:"
+        },
+        {
+            "id": "amo8_2f",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Ha venido el fin sobre mi pueblo Israel; no le pasaré más."
+        },
+        {
+            "id": "amo8_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y los cantores del templo aullarán en aquel día, dice Jehová el Señor; muchos serán los cuerpos muertos; en todo lugar serán echados en silencio."
+        },
+        {
+            "id": "amo8_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Oíd esto, los que devoráis a los menesterosos, y arruináis a los pobres de la tierra,"
+        },
+        {
+            "id": "amo8_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "amo8_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "¿Cuándo pasará la luna nueva, para que vendamos el grano; y el sábado, para que abramos los alfolíes del trigo, para que achiquemos la medida, y aumentemos el precio, y falseemos con engaño la balanza;"
+        },
+        {
+            "id": "amo8_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "para comprar a los pobres por dinero, y a los necesitados por un par de zapatos, y para vender los desechos del trigo?"
+        },
+        {
+            "id": "amo8_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Jehová juró por la gloria de Jacob: Ciertamente yo no me olvidaré de ninguna de sus obras."
+        },
+        {
+            "id": "amo8_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "¿No se estremecerá por esto la tierra? ¿No llorará todo aquel que habite en ella? Y subirá toda como un río, y será arrojada, y se hundirá como el río de Egipto."
+        },
+        {
+            "id": "amo8_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Y acontecerá en aquel día, dice el Señor Jehová, que haré que se ponga el sol al mediodía, y la tierra cubriré de tinieblas en el día claro."
+        },
+        {
+            "id": "amo8_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Y tornaré vuestras fiestas en lloro, y todos vuestros cantares en endechas; y pondré cilicio sobre todo lomo, y calvicie sobre toda cabeza; y haré que sea como duelo por hijo único, y su postrimería como día de amargura."
+        },
+        {
+            "id": "amo8_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "He aquí vienen días, dice el Señor Jehová, en los cuales enviaré hambre a la tierra, no hambre de pan, ni sed de agua, sino de oír la palabra de Jehová."
+        },
+        {
+            "id": "amo8_12",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "E irán errantes de mar a mar: desde el norte hasta el oriente discurrirán buscando palabra de Jehová, y no la hallarán."
+        },
+        {
+            "id": "amo8_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "En aquel tiempo las doncellas hermosas y los jóvenes desmayarán de sed."
+        },
+        {
+            "id": "amo8_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Los que juran por el pecado de Samaria, y dicen:"
+        },
+        {
+            "id": "amo8_14b",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Vive tu dios, oh Dan: y: Vive el camino de Beerseba, caerán, y nunca más se levantarán."
+        }
+    ]
+}
