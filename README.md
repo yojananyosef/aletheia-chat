@@ -32,8 +32,8 @@ capítulo para compartir y indexar.
 Requisitos: Node 22+ y pnpm (ver `mise.toml`).
 
 ```bash
-git clone https://github.com/yojananyosef/bible-app-naas.git
-cd bible-app-naas
+git clone https://github.com/yojananyosef/aletheia-chat.git
+cd aletheia-chat
 pnpm install
 pnpm dev        # http://localhost:3000
 ```
