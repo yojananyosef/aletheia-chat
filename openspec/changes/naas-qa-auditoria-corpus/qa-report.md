@@ -34,12 +34,13 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | ezequiel | 1504 | 410 | 0 | 0 |
 | daniel | 421 | 305 | 0 | 0 |
 | oseas | 210 | 178 | 0 | 0 |
+| joel | 77 | 53 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **32066** | **10052** | **0** | **0** |
+| **total** | **32143** | **10105** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -173,6 +174,16 @@ oración penitencial que Oseas pone en boca de Israel (14:2b-3); **Efraín** = l
 nombrada en el marco "Y dijo Efraín:" (12:8b, patrón Jerusalén de Lamentaciones). Citas breves
 sin nombre (8:2b, 10:3, 13:10b) en Dios como relator. 181 correcciones sobre el dry (el dry
 tenía 185/210 en Narrador).
+
+### Joel — integración nueva (2026-09-06)
+Libro desbloqueado (77 mensajes, 3 caps; barrido 0 sospechosos/0 ambiguos/0 duros). **Caps
+1-2:10**: la voz del profeta (conversión Narrador→Joel) describe la plaga de langostas y llama
+al duelo; sus gemidos al cielo corregidos a Joel (1:15-16, 1:19b, 2:11 — el dry los tenía en
+Dios). **2:12-16**: la llamada divina a la conversión ("Convertíos a mí con todo vuestro
+corazón"). **2:17**: la oración de los sacerdotes entre el pórtico y el altar → **Sacerdotes**
+(el dry inventó 'Alguaciles'). **2:18-32**: la respuesta divina ("He aquí yo os enviaré
+trigo... derramaré mi Espíritu sobre toda carne"). **Cap 3**: el juicio en el valle de Josafat
+y la restauración, todo en 1ª persona divina. 26 correcciones sobre el dry.
 
 ## Triaje (estado del tasks.md)
 
