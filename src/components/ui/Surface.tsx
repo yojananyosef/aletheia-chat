@@ -30,6 +30,9 @@ export const Surface: React.FC<SurfaceProps> = ({
 }) => {
     const isPrimary = dataCta === 'primary';
     const interactive = !!(onClick || onDoubleClick || onTouchStart);
+    // Si el llamador trae su propia sombra (p. ej. offset 4px de las burbujas), no inyectamos
+    // la nuestra: dos shadow-[...] en el mismo elemento compiten en cascada y degradan el borde.
+    const hasOwnShadow = className.includes('shadow-');
 
     return (
         <div
@@ -49,10 +52,10 @@ export const Surface: React.FC<SurfaceProps> = ({
             data-cta={dataCta}
             aria-label={ariaLabel}
             className={`
-                border-2 border-[#0A0A0A] 
+                border-2 border-[#0A0A0A]
                 transition-all duration-150 ease-out
                 ${isPrimary ? 'bg-[#FFD600]' : active ? 'bg-gray-100' : className.includes('bg-') ? '' : 'bg-white'}
-                ${interactive ? `cursor-pointer ${elevation ? 'hover:-translate-y-0.5 shadow-[3px_3px_0_#0A0A0A]' : 'hover:bg-gray-50'} active:translate-y-0 active:shadow-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black` : ''}
+                ${interactive ? `cursor-pointer ${elevation ? `hover:-translate-y-0.5 ${hasOwnShadow ? '' : 'shadow-[3px_3px_0_#0A0A0A]'}` : 'hover:bg-gray-50'} active:translate-y-0 ${hasOwnShadow ? '' : 'active:shadow-none'} focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black` : ''}
                 ${className}
             `}
         >

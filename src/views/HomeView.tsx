@@ -49,7 +49,7 @@ export const HomeView: React.FC = () => {
                     <div className="px-6 py-4 flex items-center justify-between">
                         <div className="flex flex-col text-left">
                             <h1 className="text-2xl sm:text-3xl font-black uppercase tracking-tighter leading-none italic">ALETHEIA CHAT</h1>
-                            <span className="text-[9px] sm:text-[10px] font-black uppercase tracking-widest mt-1 opacity-100">Neo-AIDA Accessible System</span>
+                            <span className="text-[9px] sm:text-[10px] font-black uppercase tracking-widest mt-1 opacity-100">Lectura bíblica conversacional</span>
                         </div>
                         <div className="flex gap-3">
                                 <Surface
@@ -86,7 +86,7 @@ export const HomeView: React.FC = () => {
                                                 </button>
                                                 <div className="border-t-2 border-black/10 my-1"></div>
                                                 <div className="p-3">
-                                                    <div className="text-[9px] font-black uppercase tracking-[0.2em] mb-3 text-gray-500 border-b border-black/5 pb-1">Identidad Espiritual Neo-AIDA</div>
+                                                    <div className="text-[9px] font-black uppercase tracking-[0.2em] mb-3 text-gray-500 border-b border-black/5 pb-1">Identidad Espiritual</div>
 
                                                     <div className="bg-white border-4 border-black p-5 relative overflow-hidden">
                                                         <div className="flex gap-4 items-center mb-6">

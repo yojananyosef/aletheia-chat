@@ -61,7 +61,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
         );
     }
 
-    // ── Serpiente: inversa de Dios — solid, matte, NAAS style ──
+    // ── Serpiente: inversa de Dios — solid, matte ──
     if (isSerpent) {
         return (
             <motion.div
@@ -83,7 +83,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                         tabIndex={0}
                         aria-pressed={isLiked}
                         aria-label={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
-                        className="p-4 md:p-6 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400"
+                        className="p-5 md:p-7 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400"
                     >
                         <div className="flex justify-between gap-8 mb-2">
                             <span className="text-[10px] font-black uppercase tracking-tight text-red-400">
@@ -117,7 +117,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                     onClick={handleInteraction}
                     pressed={isLiked}
                     ariaLabel={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
-                    className={`p-4 md:p-6 relative border-2 border-black shadow-[4px_4px_0_#0A0A0A] overflow-visible ${isGod
+                    className={`p-5 md:p-7 relative border-2 border-black shadow-[4px_4px_0_#0A0A0A] overflow-visible ${isGod
                         ? 'bg-white rounded-r-2xl rounded-tl-2xl'
                         : `${actorColor} rounded-l-2xl rounded-tr-2xl`
                         }`}
