@@ -1,67 +1,84 @@
-# Bible Chat NAAS 📖✨
+# Aletheia Chat
 
-Una aplicación de lectura bíblica inmersiva diseñada bajo el sistema **Neo-AIDA Accessible System (NAAS)**. Esta app transforma la lectura tradicional en una experiencia de chat interactiva, fluida y visualmente impactante.
+<p align="center">
+  <img src="public/logo.svg" width="112" alt="Logo de Aletheia Chat: burbuja de chat amarilla con libro abierto">
+</p>
 
-## 🚀 Características Premium
+Lectura bíblica conversacional: cada capítulo se lee como una conversación en tiempo real
+entre sus protagonistas. Diseñada mobile-first, instalable como PWA y con rutas reales por
+capítulo para compartir y indexar.
 
-- **Experiencia Inmersiva de Chat:** Lee la Biblia como si estuvieras en una conversación en tiempo real con sus protagonistas.
-- **Rutas reales por capítulo:** Deep-linking (`/genesis/1`), back-button del navegador y metadata por libro/capítulo (App Router).
-- **Diseño Adaptativo Extremo:** Optimizado para todo tipo de pantallas, desde móviles hasta monitores 4K Cinema.
-- **Sistema NAAS v3.4:** Interfaz de alto contraste, tipografía premium (Space Grotesk) y jerarquía visual matemática.
-- **Lectura Adaptativa Humana:** Los mensajes avanzan a un ritmo de lectura natural, calculando el tiempo según la longitud del texto.
-- **Efectos de Sonido:** Micro-interacciones auditivas (pop) para una mayor inmersión.
-- **Navegación Inteligente:** Selector de libros dinámico y pausas estratégicas en títulos de sección.
-- **Likes Interactivos:** Doble toque estilo Instagram para marcar tus versículos favoritos con un corazón dinámico.
-- **Persistencia versionada:** Progreso, favoritos y ajustes en `localStorage` con claves `naas:v1:*`, validación Zod y migración automática desde versiones anteriores.
+## ✨ Características
 
-## 🛠️ Stack Tecnológico
+- **Lectura tipo chat:** la narración del Narrador avanza sola a un ritmo de lectura natural; Dios y los personajes **pausan** y esperan tu toque (con preview y botón de envío).
+- **Rutas reales por capítulo:** deep-linking (`/genesis/1`), back-button y metadata por libro/capítulo; prerenderizado estático de los 1.018 capítulos publicados con 404 para combinaciones inválidas.
+- **Favoritos:** doble toque (o doble Enter) sobre una burbuja para marcar versículos con ❤️.
+- **Progreso:** reanuda donde dejaste cada capítulo y recuerda el último capítulo visitado por libro.
+- **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
+- **Sonido e inmersión:** micro-interacción `pop` por mensaje (silenciable) y velocidades Zen / Norm / Fast.
+- **PWA instalable:** manifest standalone, iconos propios y tema amarillo `#FFD600`.
+
+## 🛠️ Stack
 
 - **Framework:** Next.js 16 (App Router) + React 19 + TypeScript
-- **Arquitectura:** Screaming Architecture (Dominio Aislado) + Clean Code / Principios SOLID
+- **Arquitectura:** Screaming Architecture (dominio aislado en `src/`) + Clean Code
 - **Estilos:** Tailwind CSS 4 (config CSS-first con `@theme`) + `next/font`
-- **Animaciones:** Motion (ex Framer Motion)
-- **Iconos:** Lucide React
+- **Animaciones:** Motion (ex Framer Motion) · **Iconos:** Lucide React
 - **Validación:** Zod (datos de capítulos y persistencia)
 - **QA:** ESLint 9 (flat config) + Vitest + Testing Library + Playwright
 
-## 📦 Instalación y Desarrollo
+## 📦 Inicio rápido
 
 Requisitos: Node 22+ y pnpm (ver `mise.toml`).
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/yojananyosef/bible-app-naas.git
-   ```
+```bash
+git clone https://github.com/yojananyosef/bible-app-naas.git
+cd bible-app-naas
+pnpm install
+pnpm dev        # http://localhost:3000
+```
 
-2. Instala las dependencias:
-   ```bash
-   pnpm install
-   ```
+Verificación completa:
 
-3. Inicia el servidor de desarrollo:
-   ```bash
-   pnpm dev
-   ```
-   (Abre http://localhost:3000)
-
-4. Verificación completa:
-   ```bash
-   pnpm lint        # ESLint
-   pnpm test        # Vitest (unit)
-   pnpm build       # Build de producción
-   pnpm test:e2e    # Playwright (e2e, arranca pnpm dev)
-   ```
+```bash
+pnpm lint                 # ESLint
+npx tsc --noEmit          # Tipos
+NODE_ENV=test pnpm test   # Vitest (con NODE_ENV=test: si el shell exporta production, React rompe en tests)
+pnpm build                # Build de producción
+pnpm test:e2e             # Playwright (arranca pnpm dev)
+node --test scripts/attribute-speakers/run.test.mjs   # Regresión del pipeline del corpus
+```
 
 ## 🗺️ Rutas
 
 | Ruta | Descripción |
 |------|-------------|
 | `/` | Home: catálogo de libros, búsqueda y favoritos |
-| `/[book]/[chapter]` | Chat de lectura (ej. `/genesis/1`, `/exodus/4`) — prerenderizado con `generateStaticParams`, 404 para combinaciones inválidas |
+| `/[book]/[chapter]` | Chat de lectura (ej. `/genesis/1`) — prerenderizado con `generateStaticParams`, 404 para combinaciones inválidas |
 
-## 📂 Estructura de Datos
+## 🏗️ Arquitectura
 
-Los capítulos se almacenan en formato JSON en `public/data/[libro]/[capitulo].json` con la siguiente estructura:
+- `app/` solo routing (layout, `manifest.ts`, `robots.ts`, `sitemap.ts`, iconos, route group `(app)/`).
+- `src/` contiene el dominio: `views/`, `components/`, `hooks/`, `context/`, `core/` (`domain/Message.ts` es la fuente de verdad de hablantes y reglas de avance) y `constants/books.ts` (manifiesto del canon: 66 libros, 43 desbloqueados).
+- `scripts/attribute-speakers/`: pipeline que genera el corpus (heurística de hablantes + revisión LLM de ambiguos + QA).
+- `scripts/brand/`: iconos derivados de un único SVG maestro (`public/logo.svg`).
+
+## 🔍 SEO, PWA y despliegue
+
+- **Metadata completa:** `metadataBase`, `title.template` (`«Génesis 1 | Aletheia Chat»`), OpenGraph y Twitter card con `app/opengraph-image.png`, y canonical por página.
+- **Descubribilidad:** `app/robots.ts` + `app/sitemap.ts` (home + todos los capítulos publicados) generados en build desde el catálogo.
+- **Iconos:** `app/icon.svg`, `app/favicon.ico`, `app/apple-icon.png` e iconos PWA 192/512 derivados de `public/logo.svg` con:
+
+  ```bash
+  ./scripts/brand/build-icons.sh   # requiere librsvg (rsvg-convert) e ImageMagick
+  ```
+
+- **Despliegue (Vercel):** define `NEXT_PUBLIC_SITE_URL` con el dominio final para que canonical, OpenGraph y sitemap emitan URLs absolutas correctas (por defecto: `https://aletheiachat.johan.cl`).
+- **Caché y seguridad:** `next.config.js` sirve `public/data/**` con `Cache-Control` (`max-age=3600`, `stale-while-revalidate=86400`) y añade `nosniff`, `Referrer-Policy` y `X-Frame-Options`.
+
+## 📂 Estructura de datos
+
+Los capítulos viven en `public/data/[libro]/[capitulo].json`:
 
 ```json
 {
@@ -94,6 +111,9 @@ El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
 > Revisa sus licencias antes de publicar el corpus. RV1909 es dominio público y es la
 > opción segura si redistribuyes la app con datos incluidos. Ver `scripts/attribute-speakers/README.md`.
 
+Estado del corpus: **43 / 66 libros publicados** (1.018 capítulos). Pendiente el Nuevo
+Testamento completo (23 libros, 171 capítulos) más los desbloqueos en `books.ts`.
+
 ## 💾 Persistencia (localStorage)
 
 | Clave | Contenido |
@@ -103,13 +123,17 @@ El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
 | `naas:v1:lastChapter:{book}` | Último capítulo visitado por libro |
 | `naas:v1:progress:{book}:{chapter}` | Índice de mensaje para reanudar lectura |
 
-Las claves legacy (`bible_favorites`, `isMuted`, `readingSpeedMultiplier`, `lastChapter_*`, `chatProgress_*`) se migran automáticamente la primera vez que se leen.
+> Las claves conservan el prefijo histórico `naas:v1:*` como identificador interno de
+> almacenamiento; la marca visible de la app es **Aletheia Chat**. Las claves legacy
+> (`bible_favorites`, `isMuted`, `readingSpeedMultiplier`, `lastChapter_*`, `chatProgress_*`)
+> se migran automáticamente la primera vez que se leen.
 
-## 🎨 Principios de Diseño
+## 🎨 Diseño
 
-- **AIDA:** Attention (Header/Title), Interest (Chat Feed), Desire (Interactivity), Action (Section Buttons).
-- **Contraste:** Uso de negro puro `#0A0A0A` sobre fondo `#FAFAFA` para máxima legibilidad.
-- **Acentos:** El color "Divine Yellow" `#FFD600` para resaltar a Dios y acciones principales.
+- Alto contraste: negro `#0A0A0A` sobre blanco `#FAFAFA` con acento "Divine Yellow" `#FFD600`.
+- Tipografía Space Grotesk (identidad) + Inter (lectura), self-hosted con `next/font`.
+- Sombras offset y bordes duros, optimizado de móvil a 4K.
 
 ---
+
 Desarrollado con ❤️ para una experiencia bíblica moderna.
