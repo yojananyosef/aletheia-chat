@@ -22,7 +22,7 @@
 - [x] 3.2 25/25 ambiguos GEN1-3+EXO1-4 revisados en `reviewed/*.json` y fusionados (solo cambian los que el default erraba).
 
 ## 4. Integración
-- [ ] 4.1 `generateStaticParams` + `availableChapters` desde FS; `books.ts` como fallback.
+- [x] 4.1 (hecho en tanda routing, quedaba stale) `generateStaticParams` lee FS con fallback `BIBLE_BOOKS`; helper compartido en `src/core/services/catalogFs.ts`.
 - [x] 4.2 Ingesta inicial Génesis 1-3 + Éxodo 1-4 regenerados desde SpaRVG con speakers nuevos (pausas Dios verificadas en e2e).
-- [ ] 4.3 README aviso licencia SpaRVG/Platense + fallback RV1909.
+- [x] 4.3 Aviso de licencias SpaRVG/Platense + fallback RV1909 en README (sección «Fuentes bíblicas y licencias»).
 - [x] 4.4 `pnpm lint test build` + e2e 6/6 verde.

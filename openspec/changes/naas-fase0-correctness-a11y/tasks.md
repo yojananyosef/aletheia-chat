@@ -3,7 +3,7 @@
 ## 1. Correctness
 - [x] 1.1 `app/(app)/[book]/[chapter]/page.tsx`: `key={`${book}:${chapterNumber}`}` en `<ChatView>` (remount; bloque render-time queda como fallback documentado para tests).
 - [x] 1.2 `ChatView`: `onMessageNext` con `useCallback([playPop])`; auto-avance con `timeoutId + clearTimeout`, sin `setState` tras unmount.
-- [ ] 1.3 `UIStateContext`: `value` con `useMemo`; `PersistentStateContext.subscribe`: refcount + `typeof window` guard.
+- [x] 1.3 (cerrado como resuelto en fase1, quedaba stale) `UIStateContext` ya usa `useMemo` y `PersistentStateContext` usa `useSyncExternalStore` con snapshot SSR + listener `storage` (la cache a nivel de módulo cumple el rol del refcount).
 - [ ] 1.4 Tests: navegación entre capítulos no mezcla; re-render no reinicia timer (fake timers).
 
 ## 2. A11y
