@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Aletheia Chat">
+  <!-- Fondo -->
+  <rect width="512" height="512" rx="112" fill="#0A0A0A"/>
+  <!-- Burbuja de chat -->
+  <path fill="#FFD600" d="M256 108c-98 0-176 62-176 138 0 44 26 83 66 108l-18 62c-2 7 5 13 11 9l72-42c14 3 29 5 45 5 98 0 176-62 176-142S354 108 256 108z"/>
+  <!-- Libro abierto -->
+  <path fill="#0A0A0A" d="M247 196c-20-13-52-18-82-11-4 1-7 4-7 9v104c0 6 6 10 12 8 26-6 53-1 70 11 3 2 7 2 10 0V199c0-1-1-2-3-3z"/>
+  <path fill="#0A0A0A" d="M265 196c20-13 52-18 82-11 4 1 7 4 7 9v104c0 6-6 10-12 8-26-6-53-1-70 11-3 2-7 2-10 0V199c0-1 1-2 3-3z"/>
+  <!-- Destello de verdad (aletheia) -->
+  <path fill="#FFFFFF" d="M256 147l7 21 21 7-21 7-7 21-7-21-21-7 21-7z"/>
+</svg>
