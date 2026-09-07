@@ -1,0 +1,277 @@
+{
+    "book": "Daniel",
+    "chapter": 4,
+    "title": "Daniel 4",
+    "messages": [
+        {
+            "id": "dan4_1",
+            "speaker": "Nabucodonosor",
+            "verse": 1,
+            "text": "Nabucodonosor rey, a todos los pueblos, naciones y lenguas que moran en toda la tierra: Paz os sea multiplicada:"
+        },
+        {
+            "id": "dan4_2",
+            "speaker": "Nabucodonosor",
+            "verse": 2,
+            "text": "Me ha parecido bien publicar las señales y milagros que el Dios Altísimo ha hecho conmigo."
+        },
+        {
+            "id": "dan4_3",
+            "speaker": "Nabucodonosor",
+            "verse": 3,
+            "text": "¡Cuán grandes son sus señales, y cuán poderosas sus maravillas! Su reino, reino sempiterno, y su señorío de generación en generación."
+        },
+        {
+            "id": "dan4_4",
+            "speaker": "Nabucodonosor",
+            "verse": 4,
+            "text": "Yo Nabucodonosor estaba tranquilo en mi casa, y próspero en mi palacio."
+        },
+        {
+            "id": "dan4_5",
+            "speaker": "Nabucodonosor",
+            "verse": 5,
+            "text": "Vi un sueño que me espantó, y las imaginaciones y visiones de mi cabeza me turbaron en mi cama."
+        },
+        {
+            "id": "dan4_6",
+            "speaker": "Nabucodonosor",
+            "verse": 6,
+            "text": "Por lo cual yo di mandamiento para hacer venir delante de mí a todos los sabios de Babilonia, a fin de que me hiciesen saber la interpretación del sueño."
+        },
+        {
+            "id": "dan4_7",
+            "speaker": "Nabucodonosor",
+            "verse": 7,
+            "text": "Y vinieron magos, astrólogos, caldeos, y adivinos; y dije el sueño delante de ellos, mas ellos no me dieron a conocer su interpretación;"
+        },
+        {
+            "id": "dan4_8a",
+            "speaker": "Nabucodonosor",
+            "verse": 8,
+            "text": "Hasta que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, diciendo:"
+        },
+        {
+            "id": "dan4_9",
+            "speaker": "Nabucodonosor",
+            "verse": 9,
+            "text": "Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, dime las visiones de mi sueño que he visto, y su interpretación."
+        },
+        {
+            "id": "dan4_10",
+            "speaker": "Nabucodonosor",
+            "verse": 10,
+            "text": "Éstas son las visiones de mi cabeza cuando estaba en mi cama: Me parecía que veía un árbol en medio de la tierra, cuya altura era grande."
+        },
+        {
+            "id": "dan4_11",
+            "speaker": "Nabucodonosor",
+            "verse": 11,
+            "text": "Crecía este árbol, y se hacía fuerte, y su altura llegaba hasta el cielo, y su vista hasta el cabo de toda la tierra."
+        },
+        {
+            "id": "dan4_12",
+            "speaker": "Nabucodonosor",
+            "verse": 12,
+            "text": "Su follaje era hermoso, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían a la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y se mantenía de él toda carne."
+        },
+        {
+            "id": "dan4_13",
+            "speaker": "Nabucodonosor",
+            "verse": 13,
+            "text": "Veía en las visiones de mi cabeza estando en mi cama, y he aquí que un vigilante y santo descendía del cielo."
+        },
+        {
+            "id": "dan4_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y clamaba fuertemente y decía así:"
+        },
+        {
+            "id": "dan4_14b",
+            "speaker": "Ángel",
+            "verse": 14,
+            "text": "Derribad el árbol, y cortad sus ramas, quitadle su follaje y desparramad su fruto: váyanse las bestias que están debajo de él, y las aves de sus ramas."
+        },
+        {
+            "id": "dan4_15",
+            "speaker": "Ángel",
+            "verse": 15,
+            "text": "Mas la cepa de sus raíces dejaréis en la tierra, y con atadura de hierro y de bronce entre la hierba del campo; y sea mojado con el rocío del cielo, y su parte con las bestias en la hierba de la tierra."
+        },
+        {
+            "id": "dan4_16",
+            "speaker": "Ángel",
+            "verse": 16,
+            "text": "Sea mudado su corazón de hombre, y le sea dado corazón de bestia, y pasen sobre él siete tiempos."
+        },
+        {
+            "id": "dan4_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "La sentencia es por decreto de los vigilantes, y por dicho de los santos la demanda:"
+        },
+        {
+            "id": "dan4_17b",
+            "speaker": "Ángel",
+            "verse": 17,
+            "text": "para que conozcan los vivientes que el Altísimo señorea en el reino de los hombres, y que a quien Él quiere lo da, y constituye sobre él al más bajo de los hombres."
+        },
+        {
+            "id": "dan4_18",
+            "speaker": "Nabucodonosor",
+            "verse": 18,
+            "text": "Yo el rey Nabucodonosor he visto este sueño. Tú, pues, Beltsasar, dirás la interpretación de él, porque todos los sabios de mi reino no han podido mostrarme su interpretación; mas tú puedes, porque hay en ti espíritu de los dioses santos."
+        },
+        {
+            "id": "dan4_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces Daniel, cuyo nombre era Beltsasar, estuvo atónito por una hora, y sus pensamientos lo espantaban: El rey habló, y dijo:"
+        },
+        {
+            "id": "dan4_19b",
+            "speaker": "Nabucodonosor",
+            "verse": 19,
+            "text": "Beltsasar, no te espante el sueño ni su interpretación."
+        },
+        {
+            "id": "dan4_19c",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Respondió Beltsasar, y dijo:"
+        },
+        {
+            "id": "dan4_19d",
+            "speaker": "Daniel",
+            "verse": 19,
+            "text": "Señor mío, el sueño sea para los que te aborrecen, y su interpretación para tus enemigos."
+        },
+        {
+            "id": "dan4_20",
+            "speaker": "Daniel",
+            "verse": 20,
+            "text": "El árbol que viste, que crecía y se hacía fuerte, y que su altura llegaba hasta el cielo, y era visible a toda la tierra;"
+        },
+        {
+            "id": "dan4_21",
+            "speaker": "Daniel",
+            "verse": 21,
+            "text": "y cuyo follaje era hermoso, y su fruto en abundancia, y que para todos había mantenimiento en él; debajo del cual moraban las bestias del campo, y en sus ramas habitaban las aves del cielo,"
+        },
+        {
+            "id": "dan4_22",
+            "speaker": "Daniel",
+            "verse": 22,
+            "text": "eres tú mismo, oh rey, que creciste, y te hiciste fuerte, pues creció tu grandeza, y ha llegado hasta el cielo, y tu señorío hasta el cabo de la tierra."
+        },
+        {
+            "id": "dan4_23a",
+            "speaker": "Daniel",
+            "verse": 23,
+            "text": "Y en cuanto a lo que vio el rey, un vigilante y santo que descendía del cielo, y decía:"
+        },
+        {
+            "id": "dan4_23b",
+            "speaker": "Ángel",
+            "verse": 23,
+            "text": "Cortad el árbol y destruidlo; mas la cepa de sus raíces dejaréis en la tierra, y con atadura de hierro y de bronce en la hierba del campo; y sea mojado con el rocío del cielo, y su parte sea con las bestias del campo, hasta que pasen sobre él siete tiempos;"
+        },
+        {
+            "id": "dan4_24",
+            "speaker": "Daniel",
+            "verse": 24,
+            "text": "ésta es la interpretación, oh rey, y la sentencia del Altísimo, que ha venido sobre el rey mi señor:"
+        },
+        {
+            "id": "dan4_25",
+            "speaker": "Daniel",
+            "verse": 25,
+            "text": "Que te echarán de entre los hombres, y con las bestias del campo será tu morada, y te harán comer hierba del campo, como a los bueyes, y con rocío del cielo serás bañado; y siete tiempos pasarán sobre ti, hasta que entiendas que el Altísimo señorea en el reino de los hombres, y que a quien Él quiere lo da."
+        },
+        {
+            "id": "dan4_26",
+            "speaker": "Daniel",
+            "verse": 26,
+            "text": "Y lo que dijeron, que dejasen en la tierra la cepa de las raíces del mismo árbol, significa que tu reino te quedará firme, luego que reconozcas que el señorío es de los cielos."
+        },
+        {
+            "id": "dan4_27",
+            "speaker": "Daniel",
+            "verse": 27,
+            "text": "Por tanto, oh rey, acepta mi consejo, y rompe con tus pecados haciendo justicia, y con tus iniquidades, mostrando misericordia para con los pobres; que tal vez será eso una prolongación de tu tranquilidad."
+        },
+        {
+            "id": "dan4_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Todo esto vino sobre el rey Nabucodonosor."
+        },
+        {
+            "id": "dan4_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Al cabo de doce meses, paseando en el palacio del reino de Babilonia,"
+        },
+        {
+            "id": "dan4_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Habló el rey, y dijo:"
+        },
+        {
+            "id": "dan4_30b",
+            "speaker": "Nabucodonosor",
+            "verse": 30,
+            "text": "¿No es ésta la gran Babilonia, que yo edifiqué para casa del reino, con la fuerza de mi poder, y para gloria de mi grandeza?"
+        },
+        {
+            "id": "dan4_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Aún estaba la palabra en la boca del rey, cuando descendió una voz del cielo, diciendo:"
+        },
+        {
+            "id": "dan4_31b",
+            "speaker": "Dios",
+            "verse": 31,
+            "text": "A ti se te dice, rey Nabucodonosor; el reino es traspasado de ti:"
+        },
+        {
+            "id": "dan4_32",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "Y de entre los hombres te echan, y con las bestias del campo será tu morada, y como a los bueyes te apacentarán: y siete tiempos pasarán sobre ti, hasta que reconozcas que el Altísimo señorea en el reino de los hombres, y que a quien Él quiere lo da."
+        },
+        {
+            "id": "dan4_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "En la misma hora se cumplió la palabra sobre Nabucodonosor, y fue echado de entre los hombres; y comía hierba como los bueyes, y su cuerpo se bañaba con el rocío del cielo, hasta que su pelo creció como las plumas de águila, y sus uñas como de aves."
+        },
+        {
+            "id": "dan4_34",
+            "speaker": "Nabucodonosor",
+            "verse": 34,
+            "text": "Mas al fin del tiempo yo Nabucodonosor alcé mis ojos al cielo, y mi sentido me fue vuelto; y bendije al Altísimo, y alabé y glorifiqué al que vive para siempre; porque su señorío es eterno, y su reino por todas las edades."
+        },
+        {
+            "id": "dan4_35",
+            "speaker": "Nabucodonosor",
+            "verse": 35,
+            "text": "Y todos los moradores de la tierra son estimados como nada; y Él hace según su voluntad en el ejército del cielo, y en los habitantes de la tierra, y no hay quien estorbe su mano, y le diga: ¿Qué haces?"
+        },
+        {
+            "id": "dan4_36",
+            "speaker": "Nabucodonosor",
+            "verse": 36,
+            "text": "En el mismo tiempo mi sentido me fue vuelto, y la majestad de mi reino, mi dignidad y mi grandeza volvieron a mí, y mis gobernadores y mis grandes me buscaron; y fui restituido a mi reino, y mayor grandeza me fue añadida."
+        },
+        {
+            "id": "dan4_37",
+            "speaker": "Nabucodonosor",
+            "verse": 37,
+            "text": "Ahora yo Nabucodonosor alabo, engrandezco y glorifico al Rey del cielo, porque todas sus obras son verdad, y sus caminos juicio; y humillar puede a los que andan con soberbia."
+        }
+    ]
+}

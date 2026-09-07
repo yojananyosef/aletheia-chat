@@ -1,0 +1,164 @@
+[
+  {
+    "verse": 1,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "a",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "a",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "a",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "c",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "d",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "a",
+    "speaker": "Daniel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,139 @@
+{
+    "book": "Daniel",
+    "chapter": 1,
+    "title": "Daniel 1",
+    "messages": [
+        {
+            "id": "dan1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el año tercero del reinado de Joacim, rey de Judá, vino Nabucodonosor, rey de Babilonia a Jerusalén y la sitió."
+        },
+        {
+            "id": "dan1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y el Señor entregó en sus manos a Joacim, rey de Judá, y parte de los vasos de la casa de Dios, y los trajo a tierra de Sinar, a la casa de su dios; y metió los vasos en la casa del tesoro de su dios."
+        },
+        {
+            "id": "dan1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo el rey a Aspenaz, príncipe de sus eunucos, que trajese de los hijos de Israel, del linaje real de los príncipes,"
+        },
+        {
+            "id": "dan1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "muchachos en quienes no hubiese tacha alguna, y de buen parecer, e instruidos en toda sabiduría, y sabios en ciencia, y de buen entendimiento, e idóneos para estar en el palacio del rey; y que les enseñase las letras y la lengua de los caldeos."
+        },
+        {
+            "id": "dan1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el rey les señaló una porción para cada día de la comida del rey y del vino que él bebía; y que los criase tres años, para que al fin de ellos estuviesen delante del rey."
+        },
+        {
+            "id": "dan1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y estaban entre ellos, de los hijos de Judá, Daniel, Ananías, Misael y Azarías;"
+        },
+        {
+            "id": "dan1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "a los cuales el príncipe de los eunucos puso nombres. A Daniel llamó Beltsasar; y a Ananías, Sadrac; y a Misael, Mesac; y a Azarías, Abed-nego."
+        },
+        {
+            "id": "dan1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y Daniel propuso en su corazón no contaminarse con la porción de la comida del rey, ni con el vino que él bebía; pidió, por tanto, al príncipe de los eunucos que se le permitiese no contaminarse."
+        },
+        {
+            "id": "dan1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Dios puso a Daniel en gracia y en buena voluntad con el príncipe de los eunucos;"
+        },
+        {
+            "id": "dan1_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dijo el príncipe de los eunucos a Daniel:"
+        },
+        {
+            "id": "dan1_10b",
+            "speaker": "Eunuco",
+            "verse": 10,
+            "text": "Tengo temor de mi señor el rey, que señaló vuestra comida y vuestra bebida; pues luego que él vea vuestros rostros más demacrados que los de los muchachos que son semejantes a vosotros, condenaréis para con el rey mi cabeza."
+        },
+        {
+            "id": "dan1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces dijo Daniel a Melsar, que estaba puesto por el príncipe de los eunucos sobre Daniel, Ananías, Misael y Azarías:"
+        },
+        {
+            "id": "dan1_12",
+            "speaker": "Daniel",
+            "verse": 12,
+            "text": "Prueba, te ruego, con tus siervos por diez días, y que nos den legumbres a comer, y agua a beber."
+        },
+        {
+            "id": "dan1_13",
+            "speaker": "Daniel",
+            "verse": 13,
+            "text": "Parezcan luego delante de ti nuestros rostros, y los rostros de los muchachos que comen de la porción de la comida del rey; y según lo que vieres, harás con tus siervos."
+        },
+        {
+            "id": "dan1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Consintió, pues, con ellos en esto, y probó con ellos diez días."
+        },
+        {
+            "id": "dan1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y al cabo de los diez días pareció el rostro de ellos mejor y más robusto que el de los otros muchachos que comían de la porción de la comida del rey."
+        },
+        {
+            "id": "dan1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Así fue que Melsar tomaba la porción de la comida de ellos, y el vino que habían de beber, y les daba legumbres."
+        },
+        {
+            "id": "dan1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y a estos cuatro muchachos Dios les dio conocimiento e inteligencia en todas las letras y sabiduría; mas Daniel tuvo entendimiento en toda visión y sueños."
+        },
+        {
+            "id": "dan1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pasados, pues, los días al fin de los cuales había dicho el rey que los trajesen, el príncipe de los eunucos los trajo delante de Nabucodonosor."
+        },
+        {
+            "id": "dan1_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y el rey habló con ellos, y de entre todos ellos no se halló ninguno como Daniel, Ananías, Misael y Azarías; y así estuvieron delante del rey."
+        },
+        {
+            "id": "dan1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y en todo asunto de sabiduría e inteligencia que el rey les demandó, los halló diez veces mejores que todos los magos y astrólogos que había en todo su reino."
+        },
+        {
+            "id": "dan1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y continuó Daniel hasta el año primero del rey Ciro."
+        }
+    ]
+}
