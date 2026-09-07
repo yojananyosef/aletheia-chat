@@ -1,0 +1,139 @@
+{
+    "book": "Malaquías",
+    "chapter": 1,
+    "title": "Malaquías 1",
+    "messages": [
+        {
+            "id": "mal1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Carga de la palabra de Jehová a Israel, por medio de Malaquías."
+        },
+        {
+            "id": "mal1_2a",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Yo os he amado, dice Jehová; y dijisteis:"
+        },
+        {
+            "id": "mal1_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "¿En qué nos amaste? ¿No era Esaú hermano de Jacob? dice Jehová. Pero yo amé a Jacob,"
+        },
+        {
+            "id": "mal1_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "y a Esaú aborrecí, y torné sus montes en asolamiento, y su posesión para los dragones del desierto."
+        },
+        {
+            "id": "mal1_4a",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Aunque Edom dijere:"
+        },
+        {
+            "id": "mal1_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Nos hemos empobrecido, pero volveremos y edificaremos lo arruinado; así dice Jehová de los ejércitos: Ellos edificarán, pero yo destruiré; y les llamarán provincia de Impiedad, y pueblo contra quien Jehová se indignó para siempre."
+        },
+        {
+            "id": "mal1_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Y vuestros ojos lo verán, y diréis: Sea Jehová engrandecido sobre la provincia de Israel."
+        },
+        {
+            "id": "mal1_6a",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "El hijo honra a su padre, y el siervo a su señor. Si, pues, soy yo Padre, ¿dónde está mi honra? y si soy Señor, ¿dónde está mi temor? dice Jehová de los ejércitos a vosotros, oh sacerdotes, que menospreciáis mi nombre. Y decís:"
+        },
+        {
+            "id": "mal1_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "¿En qué hemos menospreciado tu nombre?"
+        },
+        {
+            "id": "mal1_7a",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "En que ofrecéis sobre mi altar pan inmundo. Y dijisteis:"
+        },
+        {
+            "id": "mal1_7b",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "¿En qué te hemos deshonrado?"
+        },
+        {
+            "id": "mal1_7c",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "En que decís:"
+        },
+        {
+            "id": "mal1_7d",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "La mesa de Jehová es despreciable."
+        },
+        {
+            "id": "mal1_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Y cuando ofrecéis el animal ciego para el sacrificio, ¿no es malo? asimismo cuando ofrecéis el cojo o el enfermo, ¿no es malo? Ofrécelo, pues, a tu príncipe; ¿acaso se agradará de ti, o le serás acepto? dice Jehová de los ejércitos."
+        },
+        {
+            "id": "mal1_9",
+            "speaker": "Dios",
+            "verse": 9,
+            "text": "Ahora pues, os pido, rogad que Dios tenga piedad de nosotros (esto de vuestra mano vino). ¿Le seréis agradables? dice Jehová de los ejércitos."
+        },
+        {
+            "id": "mal1_10",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "¿Quién también hay de vosotros que cierre las puertas o alumbre mi altar de balde? Yo no recibo contentamiento en vosotros, dice Jehová de los ejércitos, ni de vuestra mano aceptaré ofrenda."
+        },
+        {
+            "id": "mal1_11",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Porque desde donde el sol nace hasta donde se pone, será grande mi nombre entre los gentiles; y en todo lugar se ofrecerá incienso a mi nombre, y ofrenda limpia; porque mi nombre será grande entre las naciones, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "mal1_12a",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Y vosotros lo habéis profanado cuando decís:"
+        },
+        {
+            "id": "mal1_12b",
+            "speaker": "Dios",
+            "verse": 12,
+            "text": "Inmunda es la mesa de Jehová; y cuando hablan que su alimento es despreciable."
+        },
+        {
+            "id": "mal1_13a",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Además dijisteis:"
+        },
+        {
+            "id": "mal1_13b",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "¡Oh qué fastidio! y lo despreciasteis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré eso de vuestra mano? dice Jehová."
+        },
+        {
+            "id": "mal1_14",
+            "speaker": "Dios",
+            "verse": 14,
+            "text": "Maldito el engañador, que tiene macho en su rebaño, y promete, y sacrifica lo dañado a Jehová; porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es temible entre las naciones."
+        }
+    ]
+}

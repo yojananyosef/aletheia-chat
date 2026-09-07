@@ -1,0 +1,43 @@
+{
+    "book": "Malaquías",
+    "chapter": 4,
+    "title": "Malaquías 4",
+    "messages": [
+        {
+            "id": "mal4_1",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Porque he aquí, viene el día ardiente como un horno; y todos los soberbios, y todos los que hacen maldad, serán estopa; y aquel día vendrá y los abrasará, dice Jehová de los ejércitos, el cual no les dejará ni raíz ni rama."
+        },
+        {
+            "id": "mal4_2",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "Mas para vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salvación; y saldréis, y saltaréis como becerros de la manada."
+        },
+        {
+            "id": "mal4_3",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Y hollaréis a los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día en que yo haré esto, dice Jehová de los ejércitos."
+        },
+        {
+            "id": "mal4_4",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel."
+        },
+        {
+            "id": "mal4_5",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "He aquí, yo os envío a Elías el profeta, antes que venga el día de Jehová grande y terrible."
+        },
+        {
+            "id": "mal4_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Él convertirá el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres; no sea que yo venga y hiera la tierra con maldición."
+        }
+    ]
+}

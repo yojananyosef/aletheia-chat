@@ -1,6 +1,6 @@
-# qa-report.md — barrido 2026-09-06 (tras backfill Job/Exodo + Juan completo)
+# qa-report.md — barrido 2026-09-07 (AT completo: 6 profetas menores restantes)
 
-Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libros · 25.306 mensajes.
+Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 43 libros · 33.048 mensajes.
 
 ## Resumen por libro
 
@@ -38,12 +38,18 @@ Generado con `node scripts/attribute-speakers/qa-sweep.mjs` · exit 0 · 24 libr
 | amos | 190 | 54 | 0 | 0 |
 | abdias | 23 | 1 | 0 | 0 |
 | miqueas | 114 | 62 | 0 | 0 |
+| nahum | 48 | 42 | 0 | 0 |
+| habacuc | 58 | 36 | 0 | 0 |
+| sofonias | 58 | 35 | 0 | 0 |
+| hageo | 50 | 10 | 0 | 0 |
+| zacarias | 296 | 157 | 0 | 0 |
+| malaquias | 68 | 40 | 0 | 0 |
 | jonas | 68 | 26 | 0 | 0 |
 | mateo | 1464 | 320 | 0 | 0 |
 | marcos | 952 | 215 | 0 | 0 |
 | lucas | 1576 | 472 | 0 | 0 |
 | juan | 1303 | 226 | 0 | 0 |
-| **total** | **32470** | **10222** | **0** | **0** |
+| **total** | **33048** | **10542** | **0** | **0** |
 
 `revisado` = divergencia dry↔aplicado respaldada por `reviewed/`. `sospechoso` = sin respaldo.
 `ambiguo-sin-revisar` = ambiguos del dry actual publicados con el default y sin entrada `reviewed/`.
@@ -52,7 +58,7 @@ Integridad: **0** capitulo-faltante · 0 capitulo-extra · 0 texto-perdido · 0 
 
 ## Sospechosos por cluster (aplicado ← dry, sin respaldo reviewed/)
 
-**NINGUNO — barrido limpio (2026-09-06): 0 sospechosos en los 24 libros.**
+**NINGUNO — barrido limpio (2026-09-07): 0 sospechosos en los 43 libros.**
 
 Histórico del barrido: 1.971 → 704 (evangelios 4.2) → 332 (numeros/genesis) → 91 (josue/
 jueces/lev/deut/exodus) → **0** (cola menor + salmos). Advertencias de deriva-fuente: 135
@@ -217,6 +223,71 @@ cap 5:10-15 y el pleito entero (6:1b-16, con la pregunta del pueblo 6:6-7 en rel
 respuesta 6:8). **Miqueas** (conversión + fixes): exordio (1:2-5), lamento por las ciudades
 (1:8-16), "Mas yo estoy lleno de poder del Espíritu de Jehová" (3:8), los ayes y la confesión
 de Sión (5:1/3-9, 7:1-14) y el himno final (7:18-20). 15 correcciones.
+
+### Nahum — integración nueva (2026-09-07)
+Libro desbloqueado (48 mensajes, 3 caps; barrido 0 sospechosos/0 ambiguos/0 duros). Oráculo
+contra Nínive: **Nahum** = la voz de la visión (exordio himnario sobre Jehová en 3ª persona
+1:2-11, la batalla que ve en 1ª persona del visionario 2:1-12, el ay 3:1-4 y la elegía final
+3:8-19 — precedente Amós 5:1-2/6:1-7 y las visiones de Daniel 7-12); **Dios** = las citas
+divinas explícitas y su continuación en 1ª persona (1:12b-15 tras "Así dice Jehová",
+2:13 tras "dice Jehová de los ejércitos", 3:5-7 tras la misma fórmula); **Narrador** =
+título (1:1) y marco (1:12a). 42 correcciones sobre el dry (el dry dejaba casi todo en
+Narrador; 1:9 "¿Qué tramáis contra Jehová?" era un falso Dios del regex jehova-solo → Nahum).
+
+### Habacuc — integración nueva (2026-09-07)
+Libro desbloqueado (58 mensajes, 3 caps; barrido limpio). Libro dialógico: **Habacuc** = las
+quejas (1:2-4, 1:12-17), su espera en la atalaya (2:1) y la oración-himno entera (3:2-19,
+con 3:8 corregido de Dios a Habacuc: él interroga "¿Se airó Jehová contra los ríos?" dentro
+del himno); **Dios** = las respuestas (1:5-11 con "yo levanto a los caldeos", la visión
+entera 2:2b-20 con los cinco ayes — el refrán de las naciones 2:7-8 y la cita al ídolo
+2:19a-b quedan en relator divino); **Narrador** = título (1:1), marco de la respuesta
+(2:2a) y título de la oración (3:1). 36 correcciones.
+
+### Sofonías — integración nueva (2026-09-07)
+Libro desbloqueado (58 mensajes, 3 caps; barrido limpio). **Dios** = el oráculo del día de
+Jehová (1:2-18, 1ª persona "destruiré/extenderé mi mano/haré visitación", con la cita de los
+incrédulos 1:12b en relator divino — corregida del falso 'Hombres' del dry), los juicios
+contra las naciones (2:4-15, con la fanfarronada de Nínive 2:15a-b en relator) y la
+restauración entera (3:6-20, desde "Hice derribar naciones" hasta el regreso de la
+cautividad); **Sofonías** = la exhortación del remanente (2:1-3 "quizá seréis guardados",
+precedente Oseas 14:1-2a) y el ay contra Jerusalén (3:1-5, precedente Amós 6:1-7);
+**Narrador** = título y genealogía (1:1). 35 correcciones.
+
+### Hageo — integración nueva (2026-09-07)
+Libro desbloqueado (50 mensajes, 2 caps; barrido limpio). Libro de marcos: **Narrador** =
+la cronología y los marcos "vino palabra de Jehová... diciendo:" (1:1a/2a/3a, 2:1a/10a/20a,
+fórmulas 1:5a/7a, 2:11a) y la respuesta del pueblo (1:12, 1:14-15); **Dios** = los oráculos
+(1:4-11, 2:6b-9, 2:11b-12a, 2:14b-19, 2:21b-23), las comisiones con contenido "Habla a..."
+(2:2a, 2:21a — precedente Ezequiel) y la promesa "Yo estoy con vosotros" (1:13b, corregida
+del falso Mensajero del dry); interrogatorio legal: la pregunta dictada tras "diciendo:"
+(2:12a) en Dios, la segunda pregunta en escena → **Hageo** (2:13b, tras "Y dijo Hageo:") y
+las respuestas de los sacerdotes (2:12b, 13d) reportadas en Narrador. 10 correcciones.
+
+### Zacarías — integración nueva (2026-09-07)
+Libro desbloqueado (296 mensajes, 14 caps; barrido limpio). Libro tricéfalo. **Caps 1-6**
+(visiones nocturnas): **Zacarías** = la voz del visionario por defecto (narración en 1ª
+persona de lo que ve: 1:8, 1:13, 1:18, 1:20, 2:1/3, 3:1/3, 4:1/3, 5:1/7/9, 6:1-3/6) y sus
+preguntas al intérprete ("¿Qué son éstos, Señor mío?"); **Ángel** = el intérprete que
+hablaba con él (1:9d, 1:19d, 3:4b-5b, 4:2b/5b/13b/14b, 5:2b/3b/5b/6d/6f/8b/11b, 6:5b/7b/8b)
+— voz añadida al vocabulario del libro (patrón triage cubeta a); **Dios** = lo que el texto
+atribuye expresamente (el primer oráculo 1:2-6, las citas "Así dice Jehová": 1:14b-17,
+3:7b-10, 4:6b-10, 6:9b-13b/15, el cap 8 entero). **Caps 7-8** (disputa del ayuno): la
+delegación reportada en Narrador (7:1-3, su pregunta 7:3b en relator), oráculos divinos
+7:4-14 (comisión "Habla a..." → Dios) y 8 completo. **Caps 9-14** (cargas): **Dios** por
+defecto (9:2-17, 10, 12:2-14, 13, 14 — con las dramatizaciones 13:5-6 en relator divino);
+**Zacarías** = la alegoría del pastor (11:1-3 y sus actos 11:7-14: los dos cayados, el
+salario de treinta piezas) con los mandatos divinos (11:4b-6b, 13b, 15b-17); **Narrador** =
+títulos (9:1, 12:1a). 157 correcciones.
+
+### Malaquías — integración nueva (2026-09-07)
+Libro desbloqueado (68 mensajes, 4 caps; barrido limpio). Un único pleito divino de
+disputas (precedente Abdías): **Dios** por defecto — las seis disputas con su estructura
+"Yo os he amado... y dijisteis: ¿En qué nos amaste?" (las réplicas del pueblo quedan en
+relator divino, precedente Miqueas 6:6-7; 1:4b incluye la fanfarronada de Edom corregida
+del falso 'Edom' del dry), el mandato a los sacerdotes (2:1-9), el pleito del divorcio
+(2:10-16), el mensajero del pacto (3:1-6), los diezmos (3:7-12), el libro de memoria
+(3:13-18) y el día de Jehová (4:1-6, "Acordaos... yo os envío a Elías"); **Narrador** =
+título (1:1). 40 correcciones sobre el dry (el dry dejaba caps 2 y 4 en Narrador).
 
 ## Triaje (estado del tasks.md)
 

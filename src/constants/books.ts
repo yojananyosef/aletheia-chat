@@ -83,7 +83,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'sofonias', name: 'Sofonías', availableChapters: [1, 2, 3], category: 'Profetas Menores', description: 'Juicio y restauración.', participants: ['Dios', 'Narrador', 'Sofonías'] },
     { id: 'hageo', name: 'Hageo', availableChapters: [1, 2], category: 'Profetas Menores', description: 'Exhortación a reconstruir el templo.', participants: ['Dios', 'Narrador', 'Hageo'] },
     { id: 'zacarias', name: 'Zacarías', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], category: 'Profetas Menores', description: 'Visiones del Mesías y el triunfo de Dios.', participants: ['Dios', 'Narrador', 'Zacarías', 'Ángel'] },
-    { id: 'malaquias', name: 'Malaquías', availableChapters: [], isLocked: true, category: 'Profetas Menores', description: 'El mensajero del Señor.', participants: ['Malaquías'] },
+    { id: 'malaquias', name: 'Malaquías', availableChapters: [1, 2, 3, 4], category: 'Profetas Menores', description: 'El mensajero del Señor.', participants: ['Dios', 'Narrador'] },
 
     // --- EVANGELIOS ---
     {
