@@ -1,0 +1,104 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 2,
+    "subId": "d",
+    "speaker": "Discípulos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 3,
+    "subId": "d",
+    "speaker": "Discípulos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Demonio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Demetrio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Demetrio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Demetrio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Escribano",
+    "confidence": 0.95
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Escribano",
+    "confidence": 0.95
+  },
+  {
+    "verse": 37,
+    "subId": "",
+    "speaker": "Escribano",
+    "confidence": 0.95
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Escribano",
+    "confidence": 0.95
+  },
+  {
+    "verse": 39,
+    "subId": "",
+    "speaker": "Escribano",
+    "confidence": 0.95
+  },
+  {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Escribano",
+    "confidence": 0.95
+  }
+]

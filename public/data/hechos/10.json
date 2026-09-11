@@ -1,0 +1,420 @@
+{
+    "book": "Hechos",
+    "chapter": 10,
+    "title": "Hechos 10",
+    "messages": [
+        {
+            "id": "act10_sec1_b003",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Visión del centurión Cornelio de Cesarea",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y había un varón en Cesarea llamado Cornelio, centurión de la compañía llamada la Italiana,"
+        },
+        {
+            "id": "act10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "piadoso y temeroso de Dios con toda su casa, que daba muchas limosnas al pueblo y oraba a Dios siempre."
+        },
+        {
+            "id": "act10_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Éste vio claramente en visión, como a la hora novena del día, al Ángel de Dios que entraba a donde él estaba y le decía:"
+        },
+        {
+            "id": "act10_3b",
+            "speaker": "Ángel",
+            "verse": 3,
+            "text": "Cornelio."
+        },
+        {
+            "id": "act10_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y mirándole, tuvo miedo, y dijo:"
+        },
+        {
+            "id": "act10_4b",
+            "speaker": "Cornelio",
+            "verse": 4,
+            "text": "¿Qué es, Señor?"
+        },
+        {
+            "id": "act10_4c",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "act10_4d",
+            "speaker": "Ángel",
+            "verse": 4,
+            "text": "Tus oraciones y tus limosnas han subido como un memorial delante de Dios."
+        },
+        {
+            "id": "act10_5",
+            "speaker": "Ángel",
+            "verse": 5,
+            "text": "Envía, pues, ahora hombres a Jope, y haz venir a Simón, que tiene por sobrenombre Pedro."
+        },
+        {
+            "id": "act10_6",
+            "speaker": "Ángel",
+            "verse": 6,
+            "text": "Éste posa en casa de cierto Simón, curtidor, que tiene su casa junto al mar; él te dirá lo que debes hacer."
+        },
+        {
+            "id": "act10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando se fue el Ángel que habló con Cornelio, éste llamó dos de sus criados, y a un devoto soldado de los que continuamente le asistían;"
+        },
+        {
+            "id": "act10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "a los cuales, después de contarles todo, los envió a Jope."
+        },
+        {
+            "id": "act10_sec9_19b0",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Visión de Pedro en Joppe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y al día siguiente, yendo ellos de camino, y llegando cerca de la ciudad, Pedro subió a la azotea a orar, cerca de la hora sexta;"
+        },
+        {
+            "id": "act10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y le vino una gran hambre, y quiso comer; pero mientras ellos preparaban, le sobrevino un éxtasis;"
+        },
+        {
+            "id": "act10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y vio el cielo abierto, y un vaso que descendía hacia él, como un gran lienzo atado de los cuatro cabos, y era bajado a la tierra;"
+        },
+        {
+            "id": "act10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "en el cual había de toda clase de cuadrúpedos terrestres, y fieras, y reptiles, y aves del cielo."
+        },
+        {
+            "id": "act10_13",
+            "speaker": "Dios",
+            "verse": 13,
+            "text": "Y le vino una voz: Levántate, Pedro, mata y come."
+        },
+        {
+            "id": "act10_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Entonces Pedro dijo:"
+        },
+        {
+            "id": "act10_14b",
+            "speaker": "Pedro",
+            "verse": 14,
+            "text": "Señor, no; porque ninguna cosa común o inmunda he comido jamás."
+        },
+        {
+            "id": "act10_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y le habló la voz la segunda vez:"
+        },
+        {
+            "id": "act10_15b",
+            "speaker": "Dios",
+            "verse": 15,
+            "text": "Lo que Dios limpió, no lo llames tú común."
+        },
+        {
+            "id": "act10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y esto fue hecho tres veces; y el vaso volvió a ser recogido en el cielo."
+        },
+        {
+            "id": "act10_sec17_1eb3",
+            "speaker": "Sistema",
+            "verse": 17,
+            "text": "Llegada de los mensajeros de Cornelio",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y mientras Pedro dudaba dentro de sí qué sería la visión que había visto, he aquí, los hombres que habían sido enviados por Cornelio, que, preguntando por la casa de Simón, llegaron a la puerta."
+        },
+        {
+            "id": "act10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y llamando, preguntaron si Simón que tenía por sobrenombre Pedro, posaba allí."
+        },
+        {
+            "id": "act10_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y mientras Pedro pensaba en la visión, el Espíritu le dijo:"
+        },
+        {
+            "id": "act10_19b",
+            "speaker": "Espíritu Santo",
+            "verse": 19,
+            "text": "He aquí, tres hombres te buscan."
+        },
+        {
+            "id": "act10_20",
+            "speaker": "Espíritu Santo",
+            "verse": 20,
+            "text": "Levántate, pues, y desciende, y no dudes de ir con ellos; porque yo los he enviado."
+        },
+        {
+            "id": "act10_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Pedro, descendiendo a los hombres que le eran enviados por Cornelio, dijo:"
+        },
+        {
+            "id": "act10_21b",
+            "speaker": "Pedro",
+            "verse": 21,
+            "text": "He aquí, yo soy el que buscáis; ¿cuál es la causa por la que habéis venido?"
+        },
+        {
+            "id": "act10_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "act10_22b",
+            "speaker": "Mensajero",
+            "verse": 22,
+            "text": "Cornelio, el centurión, varón justo y temeroso de Dios, y de buen testimonio en toda la nación de los judíos, fue avisado de Dios por un santo Ángel, de hacerte venir a su casa, y oír de ti palabras."
+        },
+        {
+            "id": "act10_sec23_f26f",
+            "speaker": "Sistema",
+            "verse": 23,
+            "text": "Pedro en Cesárea",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act10_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Entonces los invitó a entrar y los hospedó. Y al día siguiente Pedro se fue con ellos; y lo acompañaron algunos de los hermanos de Jope."
+        },
+        {
+            "id": "act10_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y al otro día entraron en Cesarea. Y Cornelio los estaba esperando, habiendo convocado a sus parientes y amigos más íntimos."
+        },
+        {
+            "id": "act10_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y cuando Pedro entraba, Cornelio salió a recibirle; y postrándose a sus pies, le adoró."
+        },
+        {
+            "id": "act10_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Mas Pedro le levantó, diciendo:"
+        },
+        {
+            "id": "act10_26b",
+            "speaker": "Pedro",
+            "verse": 26,
+            "text": "Levántate; yo mismo también soy hombre."
+        },
+        {
+            "id": "act10_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y hablando con él, entró, y halló a muchos que se habían reunido."
+        },
+        {
+            "id": "act10_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "act10_28b",
+            "speaker": "Pedro",
+            "verse": 28,
+            "text": "Vosotros sabéis que es abominable a un varón judío juntarse o acercarse a extranjero; pero Dios me ha mostrado que a ningún hombre llame común o inmundo;"
+        },
+        {
+            "id": "act10_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Por lo cual, al ser llamado, vine sin objetar. Así que pregunto:"
+        },
+        {
+            "id": "act10_29b",
+            "speaker": "Pedro",
+            "verse": 29,
+            "text": "¿Por qué causa me habéis hecho venir?"
+        },
+        {
+            "id": "act10_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces Cornelio dijo:"
+        },
+        {
+            "id": "act10_30b",
+            "speaker": "Cornelio",
+            "verse": 30,
+            "text": "Hace cuatro días que a esta hora yo estaba en ayuno; y a la hora novena yo oraba en mi casa, y he aquí un varón se puso delante de mí en vestidura resplandeciente,"
+        },
+        {
+            "id": "act10_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "act10_31b",
+            "speaker": "Ángel",
+            "verse": 31,
+            "text": "Cornelio, tu oración es oída, y tus limosnas han venido en memoria delante de Dios."
+        },
+        {
+            "id": "act10_32",
+            "speaker": "Cornelio",
+            "verse": 32,
+            "text": "Envía, pues, a Jope, y haz venir a un Simón, que tiene por sobrenombre Pedro; éste posa en casa de Simón, curtidor, junto al mar; el cual cuando venga, te hablará."
+        },
+        {
+            "id": "act10_33",
+            "speaker": "Cornelio",
+            "verse": 33,
+            "text": "Así que en seguida envié por ti; y tú has hecho bien en venir. Ahora, pues, todos nosotros estamos aquí en la presencia de Dios, para oír todo lo que Dios te ha encomendado."
+        },
+        {
+            "id": "act10_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces Pedro, abriendo su boca, dijo:"
+        },
+        {
+            "id": "act10_34b",
+            "speaker": "Pedro",
+            "verse": 34,
+            "text": "A la verdad entiendo que Dios no hace acepción de personas;"
+        },
+        {
+            "id": "act10_35",
+            "speaker": "Pedro",
+            "verse": 35,
+            "text": "sino que en toda nación, del que le teme y hace justicia, Él se agrada."
+        },
+        {
+            "id": "act10_36",
+            "speaker": "Pedro",
+            "verse": 36,
+            "text": "La palabra que Dios envió a los hijos de Israel, predicando la paz por Jesucristo; Éste es Señor de todos."
+        },
+        {
+            "id": "act10_37",
+            "speaker": "Pedro",
+            "verse": 37,
+            "text": "Palabra que, vosotros sabéis, fue publicada por toda Judea; comenzando desde Galilea después del bautismo que Juan predicó,"
+        },
+        {
+            "id": "act10_38",
+            "speaker": "Pedro",
+            "verse": 38,
+            "text": "cómo Dios ungió a Jesús de Nazaret con el Espíritu Santo y con poder; el cual anduvo haciendo el bien, y sanando a todos los oprimidos del diablo; porque Dios estaba con Él."
+        },
+        {
+            "id": "act10_39",
+            "speaker": "Pedro",
+            "verse": 39,
+            "text": "Y nosotros somos testigos de todas las cosas que hizo en la tierra de Judea y en Jerusalén; al cual mataron colgándole en un madero."
+        },
+        {
+            "id": "act10_40",
+            "speaker": "Pedro",
+            "verse": 40,
+            "text": "A Éste Dios resucitó al tercer día, y lo manifestó abiertamente,"
+        },
+        {
+            "id": "act10_41",
+            "speaker": "Pedro",
+            "verse": 41,
+            "text": "no a todo el pueblo, sino a los testigos que Dios antes había escogido, a nosotros que comimos y bebimos con Él después que resucitó de los muertos."
+        },
+        {
+            "id": "act10_42",
+            "speaker": "Pedro",
+            "verse": 42,
+            "text": "Y nos mandó que predicásemos al pueblo, y testificásemos que Él es el que Dios ha puesto por Juez de vivos y muertos."
+        },
+        {
+            "id": "act10_43",
+            "speaker": "Pedro",
+            "verse": 43,
+            "text": "De Éste dan testimonio todos los profetas, de que todos los que en Él creyeren, recibirán perdón de pecados por su nombre."
+        },
+        {
+            "id": "act10_sec44_053a",
+            "speaker": "Sistema",
+            "verse": 44,
+            "text": "Bautismo de Cornelio",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act10_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Mientras aún hablaba Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían la palabra."
+        },
+        {
+            "id": "act10_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y los creyentes de la circuncisión, que habían venido con Pedro, estaban asombrados de que también sobre los gentiles se derramase el don del Espíritu Santo."
+        },
+        {
+            "id": "act10_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Porque los oían hablar en lenguas y magnificar a Dios. Entonces respondió Pedro:"
+        },
+        {
+            "id": "act10_47",
+            "speaker": "Pedro",
+            "verse": 47,
+            "text": "¿Puede alguno impedir el agua, para que no sean bautizados éstos que han recibido el Espíritu Santo también como nosotros?"
+        },
+        {
+            "id": "act10_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y les mandó que fueran bautizados en el nombre del Señor. Entonces le rogaron que se quedase por algunos días."
+        }
+    ]
+}

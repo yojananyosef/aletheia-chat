@@ -1,0 +1,238 @@
+{
+    "book": "Hechos",
+    "chapter": 12,
+    "title": "Hechos 12",
+    "messages": [
+        {
+            "id": "act12_sec1_5447",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Martirio de Santiago y prisión de Pedro",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act12_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y en el mismo tiempo el rey Herodes echó mano a algunos de la iglesia para maltratarlos."
+        },
+        {
+            "id": "act12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y mató a espada a Jacobo, hermano de Juan."
+        },
+        {
+            "id": "act12_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y viendo que había agradado a los judíos, procedió para prender también a Pedro. Eran entonces los días de los panes sin levadura."
+        },
+        {
+            "id": "act12_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y habiéndole prendido, le puso en la cárcel, entregándole a cuatro cuadrillas de soldados para que le guardasen; queriendo sacarle al pueblo después de la pascua."
+        },
+        {
+            "id": "act12_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así que, Pedro era guardado en la cárcel; pero la iglesia hacía sin cesar oración a Dios por él."
+        },
+        {
+            "id": "act12_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y cuando Herodes había de sacarle, aquella misma noche estaba Pedro durmiendo entre dos soldados, sujeto con dos cadenas, y los guardas delante de la puerta guardaban la cárcel."
+        },
+        {
+            "id": "act12_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y he aquí, el ángel del Señor vino, y una luz resplandeció en la cárcel; y golpeando a Pedro en el costado, le despertó, diciendo:"
+        },
+        {
+            "id": "act12_7b",
+            "speaker": "Ángel",
+            "verse": 7,
+            "text": "Levántate pronto. Y las cadenas se le cayeron de las manos."
+        },
+        {
+            "id": "act12_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y le dijo el ángel:"
+        },
+        {
+            "id": "act12_8b",
+            "speaker": "Ángel",
+            "verse": 8,
+            "text": "Cíñete, y átate tus sandalias. Y lo hizo así."
+        },
+        {
+            "id": "act12_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "act12_8d",
+            "speaker": "Ángel",
+            "verse": 8,
+            "text": "Envuélvete en tu manto, y sígueme."
+        },
+        {
+            "id": "act12_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y saliendo, le seguía; y no sabía que era verdad lo que hacía el ángel, sino que pensaba que veía visión."
+        },
+        {
+            "id": "act12_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y cuando pasaron la primera y la segunda guardia, llegaron a la puerta de hierro que conduce a la ciudad, la cual se les abrió por sí misma; y salieron y pasaron una calle, y en seguida el ángel se apartó de él."
+        },
+        {
+            "id": "act12_sec11_b9eb",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "Pedro se retira a otra parte",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act12_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Entonces Pedro, volviendo en sí, dijo:"
+        },
+        {
+            "id": "act12_11b",
+            "speaker": "Pedro",
+            "verse": 11,
+            "text": "Ahora entiendo en verdad que el Señor ha enviado su ángel, y me ha librado de la mano de Herodes, y de todo lo que el pueblo de los judíos esperaba."
+        },
+        {
+            "id": "act12_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y habiendo considerado esto, llegó a casa de María la madre de Juan, el que tenía por sobrenombre Marcos, donde muchos estaban reunidos orando."
+        },
+        {
+            "id": "act12_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y tocando Pedro a la puerta del patio, salió a escuchar una muchacha, llamada Rode,"
+        },
+        {
+            "id": "act12_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "la cual, cuando reconoció la voz de Pedro, de gozo no abrió la puerta, sino que corrió adentro, y dio la nueva de que Pedro estaba a la puerta."
+        },
+        {
+            "id": "act12_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "act12_15b",
+            "speaker": "Discípulos",
+            "verse": 15,
+            "text": "Estás loca. Pero ella afirmaba que así era."
+        },
+        {
+            "id": "act12_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces ellos decían:"
+        },
+        {
+            "id": "act12_15d",
+            "speaker": "Discípulos",
+            "verse": 15,
+            "text": "Es su ángel."
+        },
+        {
+            "id": "act12_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas Pedro persistía en llamar; y cuando abrieron, le vieron, y se quedaron maravillados."
+        },
+        {
+            "id": "act12_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pero él, haciéndoles con la mano señal de que callasen, les contó cómo el Señor le había sacado de la cárcel. Y dijo:"
+        },
+        {
+            "id": "act12_17b",
+            "speaker": "Pedro",
+            "verse": 17,
+            "text": "Haced saber esto a Jacobo y a los hermanos. Y salió, y se fue a otro lugar."
+        },
+        {
+            "id": "act12_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y luego que fue de día, hubo no poco alboroto entre los soldados sobre qué había sido de Pedro."
+        },
+        {
+            "id": "act12_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y cuando Herodes le buscó y no le halló, habiendo interrogado a los guardas, ordenó que éstos fueran llevados a la muerte. Y él descendió de Judea a Cesarea, y se quedó allí."
+        },
+        {
+            "id": "act12_sec20_51df",
+            "speaker": "Sistema",
+            "verse": 20,
+            "text": "Fin espantoso del perseguidor",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act12_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y Herodes estaba enojado contra los de Tiro y de Sidón; pero ellos vinieron de acuerdo ante él, y habiendo persuadido a Blasto, que era camarero del rey, pedían paz; porque el territorio de ellos era abastecido por el del rey."
+        },
+        {
+            "id": "act12_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y un día señalado, Herodes vestido de ropa real, se sentó en su trono, y les arengó."
+        },
+        {
+            "id": "act12_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y el pueblo aclamaba, diciendo:"
+        },
+        {
+            "id": "act12_22b",
+            "speaker": "Pueblo",
+            "verse": 22,
+            "text": "¡Voz de un dios, y no de hombre!"
+        },
+        {
+            "id": "act12_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y al instante el ángel del Señor le hirió, por cuanto no dio la gloria a Dios; y expiró comido de gusanos."
+        },
+        {
+            "id": "act12_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Mas la palabra de Dios crecía y se multiplicaba."
+        },
+        {
+            "id": "act12_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y Bernabé y Saulo, habiendo cumplido su ministerio, regresaron de Jerusalén llevando consigo a Juan, el que tenía por sobrenombre Marcos."
+        }
+    ]
+}

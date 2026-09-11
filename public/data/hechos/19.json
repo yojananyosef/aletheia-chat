@@ -1,0 +1,358 @@
+{
+    "book": "Hechos",
+    "chapter": 19,
+    "title": "Hechos 19",
+    "messages": [
+        {
+            "id": "act19_sec1_90be",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Misión en Éfeso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act19_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que mientras Apolos estaba en Corinto, Pablo, habiendo pasado por las regiones superiores, vino a Éfeso, y hallando a ciertos discípulos,"
+        },
+        {
+            "id": "act19_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Les dijo:"
+        },
+        {
+            "id": "act19_2b",
+            "speaker": "Pablo",
+            "verse": 2,
+            "text": "¿Recibisteis el Espíritu Santo cuando creísteis?"
+        },
+        {
+            "id": "act19_2c",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y ellos le dijeron:"
+        },
+        {
+            "id": "act19_2d",
+            "speaker": "Discípulos",
+            "verse": 2,
+            "text": "Ni siquiera hemos oído que hay Espíritu Santo."
+        },
+        {
+            "id": "act19_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Entonces les dijo:"
+        },
+        {
+            "id": "act19_3b",
+            "speaker": "Pablo",
+            "verse": 3,
+            "text": "¿En qué, pues, fuisteis bautizados?"
+        },
+        {
+            "id": "act19_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y ellos dijeron:"
+        },
+        {
+            "id": "act19_3d",
+            "speaker": "Discípulos",
+            "verse": 3,
+            "text": "En el bautismo de Juan."
+        },
+        {
+            "id": "act19_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y Pablo les dijo:"
+        },
+        {
+            "id": "act19_4b",
+            "speaker": "Pablo",
+            "verse": 4,
+            "text": "Juan bautizó con el bautismo de arrepentimiento, diciendo al pueblo que creyesen en Aquél que vendría después de él, esto es, en Cristo Jesús."
+        },
+        {
+            "id": "act19_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Cuando oyeron esto, fueron bautizados en el nombre del Señor Jesús."
+        },
+        {
+            "id": "act19_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y habiéndoles impuesto Pablo las manos, vino sobre ellos el Espíritu Santo; y hablaban en lenguas, y profetizaban."
+        },
+        {
+            "id": "act19_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y eran por todos unos doce varones."
+        },
+        {
+            "id": "act19_sec8_3bef",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Pablo se separa de los judíos y hace muchos milagros",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act19_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y entrando en la sinagoga, habló con denuedo por espacio de tres meses, disputando y persuadiendo acerca del reino de Dios."
+        },
+        {
+            "id": "act19_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero cuando algunos se endurecieron y no creyeron, sino que maldijeron el Camino delante de la multitud, él se apartó de ellos y apartó a los discípulos, disputando cada día en la escuela de un tal Tyrano."
+        },
+        {
+            "id": "act19_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y esto fue hecho por espacio de dos años; de manera que todos los que habitaban en Asia, judíos y griegos, oyeron la palabra del Señor Jesús."
+        },
+        {
+            "id": "act19_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y hacía Dios milagros incomparables por mano de Pablo;"
+        },
+        {
+            "id": "act19_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "de tal manera que aun los pañuelos o delantales de su cuerpo eran llevados a los enfermos, y las enfermedades se iban de ellos, y los malos espíritus salían de ellos."
+        },
+        {
+            "id": "act19_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Pero algunos de los judíos, vagabundos exorcistas, intentaron invocar el nombre del Señor Jesús sobre los que tenían espíritus malos, diciendo:"
+        },
+        {
+            "id": "act19_13b",
+            "speaker": "Judíos",
+            "verse": 13,
+            "text": "Os conjuramos por Jesús, el que Pablo predica."
+        },
+        {
+            "id": "act19_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y había siete hijos de un tal Sceva, judío, príncipe de los sacerdotes, que hacían esto."
+        },
+        {
+            "id": "act19_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y respondiendo el espíritu malo, dijo:"
+        },
+        {
+            "id": "act19_15b",
+            "speaker": "Demonio",
+            "verse": 15,
+            "text": "A Jesús conozco, y sé quién es Pablo; pero vosotros, ¿quiénes sois?"
+        },
+        {
+            "id": "act19_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y el hombre en quien estaba el espíritu malo saltó sobre ellos, y dominándolos, prevaleció contra ellos, de tal manera que huyeron de aquella casa, desnudos y heridos."
+        },
+        {
+            "id": "act19_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y esto fue notorio a todos los que habitaban en Éfeso, así judíos como griegos; y cayó temor sobre todos ellos, y el nombre del Señor Jesús era magnificado."
+        },
+        {
+            "id": "act19_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y muchos de los que habían creído venían, confesando, y dando cuenta de sus hechos."
+        },
+        {
+            "id": "act19_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Asimismo muchos de los que habían practicado la magia, trajeron sus libros, y los quemaron delante de todos; y contando el precio de ellos, se halló ser cincuenta mil piezas de plata."
+        },
+        {
+            "id": "act19_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Así crecía poderosamente la palabra del Señor, y prevalecía."
+        },
+        {
+            "id": "act19_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y pasadas estas cosas, Pablo se propuso en espíritu ir a Jerusalén después de recorrer Macedonia y Acaya, diciendo:"
+        },
+        {
+            "id": "act19_21b",
+            "speaker": "Pablo",
+            "verse": 21,
+            "text": "Después que haya estado allí, me será necesario ver también a Roma."
+        },
+        {
+            "id": "act19_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y enviando a Macedonia a dos de los que le ayudaban, Timoteo y Erasto, él se quedó por algún tiempo en Asia."
+        },
+        {
+            "id": "act19_sec23_62dc",
+            "speaker": "Sistema",
+            "verse": 23,
+            "text": "Tumulto en Éfeso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act19_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y en aquel tiempo hubo un alboroto no pequeño acerca del Camino."
+        },
+        {
+            "id": "act19_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque un platero llamado Demetrio, que hacía de plata templecillos de Diana, daba a los artífices no poca ganancia;"
+        },
+        {
+            "id": "act19_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "A los cuales, reunidos con los obreros del mismo oficio, dijo:"
+        },
+        {
+            "id": "act19_25b",
+            "speaker": "Demetrio",
+            "verse": 25,
+            "text": "Varones, sabéis que de este oficio obtenemos nuestra riqueza;"
+        },
+        {
+            "id": "act19_26",
+            "speaker": "Demetrio",
+            "verse": 26,
+            "text": "y veis y oís que este Pablo, no solamente en Éfeso, sino en casi toda Asia, ha persuadido y apartado a muchas gentes, diciendo que no son dioses los que se hacen con las manos."
+        },
+        {
+            "id": "act19_27",
+            "speaker": "Demetrio",
+            "verse": 27,
+            "text": "Y no solamente hay peligro de que este negocio se nos deshaga, sino también que el templo de la gran diosa Diana sea despreciado, y venga a ser destruida su majestad, la cual adora toda Asia y el mundo."
+        },
+        {
+            "id": "act19_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y oyendo esto, se llenaron de ira, y gritaron, diciendo:"
+        },
+        {
+            "id": "act19_28b",
+            "speaker": "Multitud",
+            "verse": 28,
+            "text": "¡Grande es Diana de los efesios!"
+        },
+        {
+            "id": "act19_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y toda la ciudad se llenó de confusión; y arrebatando a Gayo y a Aristarco, macedonios, compañeros de Pablo, a una se abalanzaron al teatro."
+        },
+        {
+            "id": "act19_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y queriendo Pablo salir al pueblo, los discípulos no le dejaron."
+        },
+        {
+            "id": "act19_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "También algunos de los principales de Asia, que eran sus amigos, enviaron a él rogándole que no se presentase en el teatro."
+        },
+        {
+            "id": "act19_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Unos, pues, gritaban una cosa, y otros otra; porque la concurrencia estaba confusa, y la mayoría de ellos no sabían por qué se habían reunido."
+        },
+        {
+            "id": "act19_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y sacaron de entre la multitud a Alejandro, empujándole los judíos. Entonces Alejandro, haciendo señal con la mano, quería hablar en su defensa ante el pueblo."
+        },
+        {
+            "id": "act19_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Pero cuando supieron que era judío, todos a una voz gritaron casi por dos horas:"
+        },
+        {
+            "id": "act19_34b",
+            "speaker": "Multitud",
+            "verse": 34,
+            "text": "¡Grande es Diana de los efesios!"
+        },
+        {
+            "id": "act19_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Entonces el escribano, cuando hubo apaciguado a la multitud, dijo:"
+        },
+        {
+            "id": "act19_35b",
+            "speaker": "Escribano",
+            "verse": 35,
+            "text": "Varones efesios ¿qué hombre hay que no sepa que la ciudad de los efesios es adoradora de la gran diosa Diana, y de la imagen caída de Júpiter?"
+        },
+        {
+            "id": "act19_36",
+            "speaker": "Escribano",
+            "verse": 36,
+            "text": "Y ya que esto no puede ser contradicho, conviene que os apacigüéis, y que nada hagáis precipitadamente;"
+        },
+        {
+            "id": "act19_37",
+            "speaker": "Escribano",
+            "verse": 37,
+            "text": "pues habéis traído a estos hombres, sin ser sacrílegos, ni blasfemadores de vuestra diosa."
+        },
+        {
+            "id": "act19_38",
+            "speaker": "Escribano",
+            "verse": 38,
+            "text": "Que si Demetrio y los artífices que están con él tienen pleito contra alguno, audiencias se hacen, y procónsules hay; acúsense unos a otros."
+        },
+        {
+            "id": "act19_39",
+            "speaker": "Escribano",
+            "verse": 39,
+            "text": "Y si demandáis alguna otra cosa, en legítima asamblea se puede decidir."
+        },
+        {
+            "id": "act19_40",
+            "speaker": "Escribano",
+            "verse": 40,
+            "text": "Porque estamos en peligro de ser acusados de sedición por esto de hoy, no habiendo ninguna causa por la cual podamos dar razón de este concurso."
+        },
+        {
+            "id": "act19_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y habiendo dicho esto, despidió la asamblea."
+        }
+    ]
+}

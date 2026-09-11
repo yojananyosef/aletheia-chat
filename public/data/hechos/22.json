@@ -1,0 +1,327 @@
+{
+    "book": "Hechos",
+    "chapter": 22,
+    "title": "Hechos 22",
+    "messages": [
+        {
+            "id": "act22_sec1_24b9",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Pablo se defiende ante el pueblo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act22_1",
+            "speaker": "Pablo",
+            "verse": 1,
+            "text": "Varones hermanos y padres, oíd mi defensa que hago ahora ante vosotros."
+        },
+        {
+            "id": "act22_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y cuando oyeron que les hablaba en lengua hebrea, guardaron más silencio. Y les dijo:"
+        },
+        {
+            "id": "act22_3",
+            "speaker": "Pablo",
+            "verse": 3,
+            "text": "Yo de cierto soy hombre judío, nacido en Tarso de Cilicia, pero criado en esta ciudad, educado a los pies de Gamaliel, estrictamente conforme a la ley de nuestros padres, siendo celoso de Dios, como hoy lo sois todos vosotros."
+        },
+        {
+            "id": "act22_4",
+            "speaker": "Pablo",
+            "verse": 4,
+            "text": "Y perseguí este Camino hasta la muerte, prendiendo y entregando en cárceles así hombres como mujeres;"
+        },
+        {
+            "id": "act22_5",
+            "speaker": "Pablo",
+            "verse": 5,
+            "text": "como también el sumo sacerdote me es testigo, y todos los ancianos; de los cuales también recibí cartas para con los hermanos; e iba a Damasco para traer presos a Jerusalén a los que estuviesen allí, para que fuesen castigados."
+        },
+        {
+            "id": "act22_6",
+            "speaker": "Pablo",
+            "verse": 6,
+            "text": "Y aconteció que cuando hacía mi jornada, y llegaba cerca de Damasco, como a mediodía, repentinamente resplandeció del cielo una gran luz que me rodeó;"
+        },
+        {
+            "id": "act22_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y caí al suelo, y oí una voz que me decía:"
+        },
+        {
+            "id": "act22_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "Saulo, Saulo, ¿por qué me persigues?"
+        },
+        {
+            "id": "act22_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Yo entonces respondí:"
+        },
+        {
+            "id": "act22_8b",
+            "speaker": "Pablo",
+            "verse": 8,
+            "text": "¿Quién eres, Señor?"
+        },
+        {
+            "id": "act22_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "act22_8d",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Yo soy Jesús de Nazaret, a quién tú persigues."
+        },
+        {
+            "id": "act22_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los que estaban conmigo vieron a la verdad la luz, y se espantaron; mas no oyeron la voz del que hablaba conmigo."
+        },
+        {
+            "id": "act22_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y dije:"
+        },
+        {
+            "id": "act22_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "¿Qué haré, Señor?"
+        },
+        {
+            "id": "act22_10c",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el Señor me dijo:"
+        },
+        {
+            "id": "act22_10d",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Levántate y ve a Damasco, y allí se te dirá todo lo que está ordenado que hagas."
+        },
+        {
+            "id": "act22_11",
+            "speaker": "Pablo",
+            "verse": 11,
+            "text": "Y como yo no podía ver a causa de la gloria de aquella luz, llevado de la mano por los que estaban conmigo, vine a Damasco."
+        },
+        {
+            "id": "act22_12",
+            "speaker": "Pablo",
+            "verse": 12,
+            "text": "Entonces un Ananías, varón piadoso conforme a la ley, que tenía buen testimonio de todos los judíos que moraban allí,"
+        },
+        {
+            "id": "act22_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Vino a mí, y acercándose, me dijo:"
+        },
+        {
+            "id": "act22_13b",
+            "speaker": "Ananías",
+            "verse": 13,
+            "text": "Hermano Saulo, recibe la vista. Y yo en aquella hora le miré."
+        },
+        {
+            "id": "act22_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "act22_14b",
+            "speaker": "Ananías",
+            "verse": 14,
+            "text": "El Dios de nuestros padres te ha escogido, para que conozcas su voluntad, y veas al Justo, y oigas la voz de su boca."
+        },
+        {
+            "id": "act22_15",
+            "speaker": "Ananías",
+            "verse": 15,
+            "text": "Porque serás testigo suyo ante todos los hombres de lo que has visto y oído."
+        },
+        {
+            "id": "act22_16",
+            "speaker": "Ananías",
+            "verse": 16,
+            "text": "Ahora, pues, ¿por qué te detienes? Levántate y sé bautizado; y lava tus pecados invocando el nombre del Señor."
+        },
+        {
+            "id": "act22_17",
+            "speaker": "Pablo",
+            "verse": 17,
+            "text": "Y me aconteció, que vuelto a Jerusalén, mientras oraba en el templo, fui arrebatado en éxtasis."
+        },
+        {
+            "id": "act22_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y le vi que me decía:"
+        },
+        {
+            "id": "act22_18b",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Date prisa, y sal cuanto antes de Jerusalén; porque no recibirán tu testimonio acerca de mí."
+        },
+        {
+            "id": "act22_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y yo dije:"
+        },
+        {
+            "id": "act22_19b",
+            "speaker": "Pablo",
+            "verse": 19,
+            "text": "Señor, ellos saben que yo encarcelaba, y azotaba por las sinagogas a los que creían en ti;"
+        },
+        {
+            "id": "act22_20",
+            "speaker": "Pablo",
+            "verse": 20,
+            "text": "y cuando se derramaba la sangre de Esteban tu mártir, yo también estaba presente, y consentía en su muerte, y guardaba las ropas de los que le mataban."
+        },
+        {
+            "id": "act22_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "act22_21b",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Ve, porque yo te enviaré lejos, a los gentiles."
+        },
+        {
+            "id": "act22_sec22_605b",
+            "speaker": "Sistema",
+            "verse": 22,
+            "text": "Nuevo tumulto del pueblo contra Pablo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act22_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y le oyeron hasta esta palabra; entonces alzaron la voz, diciendo:"
+        },
+        {
+            "id": "act22_22b",
+            "speaker": "Multitud",
+            "verse": 22,
+            "text": "Quita de la tierra a tal hombre, porque no conviene que viva."
+        },
+        {
+            "id": "act22_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y como ellos daban voces y arrojaban sus ropas y echaban polvo al aire,"
+        },
+        {
+            "id": "act22_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "el tribuno mandó que le llevasen a la fortaleza, y ordenó que fuese interrogado con azotes, para saber por qué causa clamaban así contra él."
+        },
+        {
+            "id": "act22_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y cuando le ataron con correas, Pablo dijo al centurión que estaba presente:"
+        },
+        {
+            "id": "act22_25b",
+            "speaker": "Pablo",
+            "verse": 25,
+            "text": "¿Os es lícito azotar a un hombre romano sin ser condenado?"
+        },
+        {
+            "id": "act22_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y cuando el centurión oyó esto, fue y dio aviso al tribuno, diciendo:"
+        },
+        {
+            "id": "act22_26b",
+            "speaker": "Centurión",
+            "verse": 26,
+            "text": "Mira bien qué vas a hacer; porque este hombre es romano."
+        },
+        {
+            "id": "act22_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Entonces vino el tribuno y le dijo:"
+        },
+        {
+            "id": "act22_27b",
+            "speaker": "Tribuno",
+            "verse": 27,
+            "text": "Dime, ¿eres tú romano?"
+        },
+        {
+            "id": "act22_27c",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Él dijo:"
+        },
+        {
+            "id": "act22_27d",
+            "speaker": "Pablo",
+            "verse": 27,
+            "text": "Sí."
+        },
+        {
+            "id": "act22_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y respondió el tribuno:"
+        },
+        {
+            "id": "act22_28b",
+            "speaker": "Tribuno",
+            "verse": 28,
+            "text": "Yo con grande suma alcancé esta ciudadanía."
+        },
+        {
+            "id": "act22_28c",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Entonces Pablo dijo:"
+        },
+        {
+            "id": "act22_28d",
+            "speaker": "Pablo",
+            "verse": 28,
+            "text": "Pero yo la tengo de nacimiento."
+        },
+        {
+            "id": "act22_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Así que, en seguida se apartaron de él los que le iban a interrogar; y el tribuno, al saber que era romano, también tuvo temor por haberle atado."
+        },
+        {
+            "id": "act22_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y al día siguiente, queriendo saber de cierto la causa por la que era acusado de los judíos, le soltó de las cadenas, y mandó venir a los príncipes de los sacerdotes y a todo su concilio; y sacando a Pablo, le presentó delante de ellos."
+        }
+    ]
+}

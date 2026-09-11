@@ -1,6 +1,6 @@
 # attribute-speakers — ingesta híbrida Gateway → NAAS
 
-Fuente: `/home/j/proyectos/alethia-gateway/public/data/bibles/{SpaRVG,SpaPlatense}/*.json`
+Fuente: `/home/Johan/orca/aletheia-gateway/public/data/bibles/{SpaRVG,SpaPlatense}/*.json`
 (`verse = {number, text[, headings, footnotes]}` — sin speaker).
 Salida: `public/data/<slug>/<cap>.json` formato NAAS (`{book, chapter, title, messages[]}`).
 

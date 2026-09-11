@@ -1,0 +1,92 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 5,
+    "subId": "b",
+    "speaker": "Saulo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 5,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Saulo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 6,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 10,
+    "subId": "d",
+    "speaker": "Ananías",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Ananías",
+    "confidence": 0.95
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Ananías",
+    "confidence": 0.95
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Ananías",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  }
+]

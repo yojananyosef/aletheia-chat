@@ -1,0 +1,329 @@
+{
+    "book": "Hechos",
+    "chapter": 27,
+    "title": "Hechos 27",
+    "messages": [
+        {
+            "id": "act27_sec1_d47a",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Viaje a Roma",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act27_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cuando fue determinado que habíamos de navegar para Italia, entregaron a Pablo y a algunos otros presos a un centurión llamado Julio, de la compañía Augusta."
+        },
+        {
+            "id": "act27_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y embarcándonos en una nave adrumentina, queriendo navegar junto a las costas de Asia, zarpamos, estando con nosotros Aristarco, macedonio de Tesalónica."
+        },
+        {
+            "id": "act27_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y al otro día llegamos a Sidón; y Julio, tratando humanamente a Pablo, le permitió que fuese a sus amigos, para ser asistido por ellos."
+        },
+        {
+            "id": "act27_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y haciéndonos a la vela desde allí, navegamos a sotavento de Chipre, porque los vientos eran contrarios."
+        },
+        {
+            "id": "act27_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y habiendo pasado el mar de Cilicia y Panfilia, arribamos a Mira, ciudad de Licia."
+        },
+        {
+            "id": "act27_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y hallando allí el centurión una nave de Alejandría que navegaba a Italia, nos embarcó en ella."
+        },
+        {
+            "id": "act27_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y navegando muchos días despacio, y habiendo apenas llegado delante de Gnido, no dejándonos el viento, navegamos a sotavento de Creta, junto a Salmón."
+        },
+        {
+            "id": "act27_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y costeándola difícilmente, llegamos a un lugar que llaman Buenos Puertos, cerca del cual estaba la ciudad de Lasea."
+        },
+        {
+            "id": "act27_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y pasado mucho tiempo, y siendo ya peligrosa la navegación, habiendo ya pasado el ayuno, Pablo les amonestaba,"
+        },
+        {
+            "id": "act27_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Diciéndoles:"
+        },
+        {
+            "id": "act27_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "Varones, veo que con perjuicio y mucho daño habrá de ser la navegación, no sólo del cargamento y de la nave, sino también de nuestras vidas."
+        },
+        {
+            "id": "act27_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pero el centurión creía más al piloto y al patrón de la nave, que a lo que Pablo decía."
+        },
+        {
+            "id": "act27_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y porque el puerto era incómodo para invernar, la mayoría acordaron zarpar también de allí, por si pudiesen arribar a Fenice, que es un puerto de Creta que mira hacia el nordeste y sudeste, e invernar allí."
+        },
+        {
+            "id": "act27_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y soplando una suave brisa del sur, pareciéndoles que ya tenían lo que deseaban, izando velas, iban costeando Creta."
+        },
+        {
+            "id": "act27_sec14_5ef0",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "Tempestad en el mar",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act27_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pero no mucho después se levantó en su contra un viento tempestuoso, que se llama Euroclidón."
+        },
+        {
+            "id": "act27_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y siendo arrebatada la nave, y no pudiendo resistir contra el viento, resignados, dejamos la nave a la deriva."
+        },
+        {
+            "id": "act27_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y corriendo a sotavento de una pequeña isla que se llama Clauda, apenas pudimos salvar el esquife;"
+        },
+        {
+            "id": "act27_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "el cual subido a bordo, usaban de refuerzos, ciñendo la nave; y teniendo temor de que diesen en la Sirte, arriando velas, quedaron a la deriva."
+        },
+        {
+            "id": "act27_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y siendo azotados por una vehemente tempestad, al día siguiente alijaron la nave;"
+        },
+        {
+            "id": "act27_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y al tercer día nosotros con nuestras manos arrojamos los aparejos de la nave."
+        },
+        {
+            "id": "act27_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y no apareciendo ni sol ni estrellas por muchos días, siendo azotados por una tempestad no pequeña, ya habíamos perdido toda esperanza de salvarnos."
+        },
+        {
+            "id": "act27_sec21_0771",
+            "speaker": "Sistema",
+            "verse": 21,
+            "text": "Pablo conforta a los compañeros",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act27_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Entonces Pablo, como hacía ya mucho que no comíamos, puesto en pie en medio de ellos, dijo:"
+        },
+        {
+            "id": "act27_21b",
+            "speaker": "Pablo",
+            "verse": 21,
+            "text": "Señores, debían por cierto haberme oído, y no haber zarpado de Creta, para recibir este daño y pérdida."
+        },
+        {
+            "id": "act27_22",
+            "speaker": "Pablo",
+            "verse": 22,
+            "text": "Pero ahora os exhorto a que tengáis buen ánimo; porque no habrá ninguna pérdida de vida entre vosotros, sino solamente de la nave."
+        },
+        {
+            "id": "act27_23",
+            "speaker": "Pablo",
+            "verse": 23,
+            "text": "Pues esta noche ha estado conmigo el Ángel del Dios de quien soy y a quien sirvo,"
+        },
+        {
+            "id": "act27_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "act27_24b",
+            "speaker": "Ángel",
+            "verse": 24,
+            "text": "Pablo, no temas; es necesario que comparezcas ante César; y he aquí, Dios te ha dado todos los que navegan contigo."
+        },
+        {
+            "id": "act27_25",
+            "speaker": "Pablo",
+            "verse": 25,
+            "text": "Por tanto, oh varones, tened buen ánimo; porque yo confío en Dios que será así como se me ha dicho."
+        },
+        {
+            "id": "act27_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Si bien, es necesario que demos en una isla."
+        },
+        {
+            "id": "act27_sec27_6343",
+            "speaker": "Sistema",
+            "verse": 27,
+            "text": "Naufragio",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act27_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y venida la decimocuarta noche, y siendo llevados a la deriva por el mar Adriático, los marineros a la media noche presintieron que estaban cerca de alguna tierra;"
+        },
+        {
+            "id": "act27_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "y echando la sonda, hallaron veinte brazas, y pasando un poco más adelante, volviendo a echar la sonda, hallaron quince brazas."
+        },
+        {
+            "id": "act27_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Y temiendo dar en escollos, echaron cuatro anclas de la popa; y ansiaban que se hiciese de día."
+        },
+        {
+            "id": "act27_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Entonces como los marineros estaban por huir de la nave, habiendo echado el esquife al mar, aparentando como que querían largar las anclas de proa,"
+        },
+        {
+            "id": "act27_31a",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Pablo dijo al centurión y a los soldados:"
+        },
+        {
+            "id": "act27_31b",
+            "speaker": "Pablo",
+            "verse": 31,
+            "text": "Si éstos no permanecen en la nave, vosotros no podéis salvaros."
+        },
+        {
+            "id": "act27_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Entonces los soldados cortaron las cuerdas del esquife y dejaron que se perdiera."
+        },
+        {
+            "id": "act27_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Y cuando comenzaba a amanecer, Pablo exhortaba a todos que comiesen, diciendo:"
+        },
+        {
+            "id": "act27_33b",
+            "speaker": "Pablo",
+            "verse": 33,
+            "text": "Éste es el decimocuarto día que veláis y permanecéis en ayunas, sin comer nada."
+        },
+        {
+            "id": "act27_34",
+            "speaker": "Pablo",
+            "verse": 34,
+            "text": "Por tanto, os ruego que comáis por vuestra salud; pues ni aun un cabello de la cabeza de ninguno de vosotros perecerá."
+        },
+        {
+            "id": "act27_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y habiendo dicho esto, tomó el pan y dio gracias a Dios en presencia de todos, y partiéndolo, comenzó a comer."
+        },
+        {
+            "id": "act27_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Entonces todos, teniendo ya mejor ánimo, comieron también."
+        },
+        {
+            "id": "act27_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y era el total de los que estábamos en la nave doscientas setenta y seis almas."
+        },
+        {
+            "id": "act27_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Y ya saciados de comida, aligeraron la nave, echando el trigo al mar."
+        },
+        {
+            "id": "act27_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y cuando se hizo de día, no reconocían la tierra; mas veían una bahía que tenía playa, en la cual acordaron encallar, si pudiesen, la nave."
+        },
+        {
+            "id": "act27_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y alzando las anclas, se dejaron al mar; y soltando las amarras del timón y alzando al viento la vela de proa, se dirigieron hacia la playa."
+        },
+        {
+            "id": "act27_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Mas dando en un lugar de dos mares, hicieron encallar la nave; y la proa, hincada, quedó inmóvil, y la popa se abría con la violencia de las olas."
+        },
+        {
+            "id": "act27_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Entonces los soldados acordaron matar a los presos, para que ninguno se fugase nadando."
+        },
+        {
+            "id": "act27_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Pero el centurión, queriendo salvar a Pablo, estorbó este acuerdo, y mandó que los que pudiesen nadar, fuesen los primeros en echarse al mar, y saliesen a tierra;"
+        },
+        {
+            "id": "act27_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "y los demás, parte en tablas, parte en cosas de la nave. Y así aconteció que todos se salvaron saliendo a tierra."
+        }
+    ]
+}

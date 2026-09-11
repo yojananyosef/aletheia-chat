@@ -1,0 +1,326 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Sumo sacerdote",
+    "confidence": 0.8
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 26,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 33,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 34,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 38,
+    "subId": "a",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 39,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 40,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 41,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 44,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 45,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 46,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 47,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 48,
+    "subId": "a",
+    "speaker": "Esteban",
+    "confidence": 0.9
+  },
+  {
+    "verse": 49,
+    "subId": "a",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 49,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 50,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 51,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 52,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 53,
+    "subId": "",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 56,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 59,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  },
+  {
+    "verse": 60,
+    "subId": "b",
+    "speaker": "Esteban",
+    "confidence": 0.95
+  }
+]

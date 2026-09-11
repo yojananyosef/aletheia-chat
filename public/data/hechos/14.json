@@ -1,0 +1,214 @@
+{
+    "book": "Hechos",
+    "chapter": 14,
+    "title": "Hechos 14",
+    "messages": [
+        {
+            "id": "act14_sec1_4515",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "En Iconio",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act14_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció en Iconio que entraron juntos en la sinagoga de los judíos, y hablaron de tal manera que creyó una gran multitud así de judíos, como de griegos."
+        },
+        {
+            "id": "act14_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Pero los judíos que fueron incrédulos, incitaron y corrompieron los ánimos de los gentiles contra los hermanos."
+        },
+        {
+            "id": "act14_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Con todo eso, ellos se detuvieron allí mucho tiempo, hablando con denuedo en el Señor, el cual daba testimonio a la palabra de su gracia, concediendo que señales y milagros fuesen hechos por las manos de ellos."
+        },
+        {
+            "id": "act14_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pero la gente de la ciudad estaba dividida; y unos estaban con los judíos, y otros con los apóstoles."
+        },
+        {
+            "id": "act14_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando los judíos y los gentiles, juntamente con sus príncipes, se arrojaron para afrentarlos y apedrearlos,"
+        },
+        {
+            "id": "act14_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "entendiéndolo ellos, huyeron a Listra y Derbe, ciudades de Licaonia, y por toda la tierra de alrededor."
+        },
+        {
+            "id": "act14_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y allí predicaban el evangelio."
+        },
+        {
+            "id": "act14_sec8_f674",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "En Listra y Derbe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act14_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y en Listra se hallaba sentado cierto hombre, imposibilitado de sus pies, cojo desde el vientre de su madre, que jamás había andado."
+        },
+        {
+            "id": "act14_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Éste oyó hablar a Pablo; el cual, fijando sus ojos en él, y viendo que tenía fe para ser sanado,"
+        },
+        {
+            "id": "act14_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Dijo a gran voz:"
+        },
+        {
+            "id": "act14_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "Levántate derecho sobre tus pies. Y él saltó, y anduvo."
+        },
+        {
+            "id": "act14_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando la gente vio lo que Pablo había hecho, alzó su voz, diciendo en lengua licaónica:"
+        },
+        {
+            "id": "act14_11b",
+            "speaker": "Multitud",
+            "verse": 11,
+            "text": "Los dioses en semejanza de hombres han descendido a nosotros."
+        },
+        {
+            "id": "act14_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y a Bernabé llamaban Júpiter, y a Pablo, Mercurio, porque éste era el que llevaba la palabra."
+        },
+        {
+            "id": "act14_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces el sacerdote de Júpiter, que estaba delante de la ciudad de ellos, trayendo toros y guirnaldas delante de las puertas, quería ofrecer sacrificio con el pueblo."
+        },
+        {
+            "id": "act14_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y cuando lo oyeron los apóstoles Bernabé y Pablo, rasgando sus ropas, corrieron hacia la multitud, dando voces,"
+        },
+        {
+            "id": "act14_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "act14_15b",
+            "speaker": "Pablo",
+            "verse": 15,
+            "text": "Varones, ¿por qué hacéis esto? Nosotros también somos hombres semejantes a vosotros, y os predicamos que de estas vanidades os convirtáis al Dios vivo, que hizo el cielo y la tierra, y el mar, y todo cuanto en ellos hay."
+        },
+        {
+            "id": "act14_16",
+            "speaker": "Pablo",
+            "verse": 16,
+            "text": "El cual en las edades pasadas dejó a todas las gentes andar en sus propios caminos;"
+        },
+        {
+            "id": "act14_17",
+            "speaker": "Pablo",
+            "verse": 17,
+            "text": "si bien no se dejó a sí mismo sin testimonio, haciendo bien, dándonos lluvias del cielo y tiempos fructíferos, llenando de sustento y de alegría nuestros corazones."
+        },
+        {
+            "id": "act14_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y diciendo estas cosas, apenas hicieron desistir al pueblo, para que no les ofreciesen sacrificio."
+        },
+        {
+            "id": "act14_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Entonces vinieron ciertos judíos de Antioquía y de Iconio, que persuadieron a la multitud, y habiendo apedreado a Pablo, le arrastraron fuera de la ciudad, pensando que estaba muerto."
+        },
+        {
+            "id": "act14_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas rodeándole los discípulos, se levantó y entró en la ciudad, y al siguiente día, partió con Bernabé para Derbe."
+        },
+        {
+            "id": "act14_sec21_ba03",
+            "speaker": "Sistema",
+            "verse": 21,
+            "text": "Fin del primer viaje apostólico",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act14_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y habiendo predicado el evangelio a aquella ciudad, y después de enseñar a muchos, volvieron a Listra, y a Iconio, y a Antioquía,"
+        },
+        {
+            "id": "act14_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "confirmando el alma de los discípulos, exhortándoles a que permaneciesen en la fe; y diciéndoles que es necesario que a través de muchas tribulaciones entremos en el reino de Dios"
+        },
+        {
+            "id": "act14_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y cuando les ordenaron ancianos en cada iglesia, habiendo orado con ayunos, los encomendaron al Señor en quien habían creído."
+        },
+        {
+            "id": "act14_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y habiendo pasado por Pisidia vinieron a Panfilia."
+        },
+        {
+            "id": "act14_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y después de predicar la palabra en Perge, descendieron a Atalia."
+        },
+        {
+            "id": "act14_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y de allí navegaron a Antioquía, donde habían sido encomendados a la gracia de Dios para la obra que habían cumplido."
+        },
+        {
+            "id": "act14_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y habiendo llegado, reuniendo la iglesia, relataron todo lo que había hecho Dios con ellos, y de cómo había abierto la puerta de la fe a los gentiles."
+        },
+        {
+            "id": "act14_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y se quedaron allí mucho tiempo con los discípulos."
+        }
+    ]
+}

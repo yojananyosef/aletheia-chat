@@ -1,0 +1,92 @@
+[
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Príncipes",
+    "confidence": 0.75
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Príncipes",
+    "confidence": 0.75
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Príncipes",
+    "confidence": 0.8
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.8
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.85
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  }
+]

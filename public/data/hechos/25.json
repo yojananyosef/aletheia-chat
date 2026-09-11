@@ -1,0 +1,237 @@
+{
+    "book": "Hechos",
+    "chapter": 25,
+    "title": "Hechos 25",
+    "messages": [
+        {
+            "id": "act25_sec1_0731",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Pablo ante Festo. Apelación al César",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act25_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Festo, pues, entrado en la provincia, tres días después subió de Cesarea a Jerusalén."
+        },
+        {
+            "id": "act25_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Entonces el sumo sacerdote y los principales de los judíos se presentaron ante él contra Pablo; y le rogaron,"
+        },
+        {
+            "id": "act25_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "pidiendo favor contra él, que le hiciese traer a Jerusalén, poniendo ellos asechanza para matarle en el camino."
+        },
+        {
+            "id": "act25_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pero Festo respondió que Pablo estuviese guardado en Cesarea, y que él mismo iría allá en breve."
+        },
+        {
+            "id": "act25_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Los que de vosotros puedan, dijo, desciendan conmigo, y si hay algún crimen en este varón, acúsenle."
+        },
+        {
+            "id": "act25_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y deteniéndose entre ellos más de diez días, descendió a Cesarea; y el día siguiente se sentó en el tribunal, y mandó que trajesen a Pablo."
+        },
+        {
+            "id": "act25_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y cuando éste llegó, le rodearon los judíos que habían venido de Jerusalén, presentando contra Pablo muchas y graves acusaciones, las cuales no podían probar;"
+        },
+        {
+            "id": "act25_8",
+            "speaker": "Pablo",
+            "verse": 8,
+            "text": "alegando él en su defensa: Ni contra la ley de los judíos, ni contra el templo, ni contra César he pecado en nada."
+        },
+        {
+            "id": "act25_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero Festo, queriendo congraciarse con los judíos, respondió a Pablo, y dijo:"
+        },
+        {
+            "id": "act25_9b",
+            "speaker": "Festo",
+            "verse": 9,
+            "text": "¿Quieres subir a Jerusalén, y allá ser juzgado de estas cosas delante de mí?"
+        },
+        {
+            "id": "act25_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y Pablo dijo:"
+        },
+        {
+            "id": "act25_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "Ante el tribunal de César estoy, donde debo ser juzgado. A los judíos no les he hecho ningún agravio, como tú sabes muy bien."
+        },
+        {
+            "id": "act25_11",
+            "speaker": "Pablo",
+            "verse": 11,
+            "text": "Porque si algún agravio, o alguna cosa digna de muerte he hecho, no rehúso morir; pero si nada hay de las cosas de que éstos me acusan, nadie puede entregarme a ellos. A César apelo."
+        },
+        {
+            "id": "act25_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces Festo, habiendo hablado con el consejo, respondió:"
+        },
+        {
+            "id": "act25_12b",
+            "speaker": "Festo",
+            "verse": 12,
+            "text": "A César has apelado; a César irás."
+        },
+        {
+            "id": "act25_sec13_5d2a",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Festo consulta al rey Agripa",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act25_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y pasados algunos días, el rey Agripa y Bernice vinieron a Cesarea a saludar a Festo."
+        },
+        {
+            "id": "act25_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y como estuvieron allí muchos días, Festo declaró al rey la causa de Pablo, diciendo:"
+        },
+        {
+            "id": "act25_14b",
+            "speaker": "Festo",
+            "verse": 14,
+            "text": "Un hombre ha sido dejado preso por Félix,"
+        },
+        {
+            "id": "act25_15",
+            "speaker": "Festo",
+            "verse": 15,
+            "text": "acerca del cual, cuando estuve en Jerusalén, comparecieron ante mí los príncipes de los sacerdotes y los ancianos de los judíos, pidiendo juicio contra él."
+        },
+        {
+            "id": "act25_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "A los cuales respondí:"
+        },
+        {
+            "id": "act25_16b",
+            "speaker": "Festo",
+            "verse": 16,
+            "text": "No es costumbre de los romanos entregar alguno a la muerte antes que el acusado tenga presentes a sus acusadores, y tenga oportunidad de defenderse de la acusación."
+        },
+        {
+            "id": "act25_17",
+            "speaker": "Festo",
+            "verse": 17,
+            "text": "Así que, habiendo venido ellos juntos acá, sin ninguna dilación, al día siguiente, sentado en el tribunal, mandé traer al hombre."
+        },
+        {
+            "id": "act25_18",
+            "speaker": "Festo",
+            "verse": 18,
+            "text": "Y estando presentes los acusadores, ningún cargo presentaron de los que yo suponía,"
+        },
+        {
+            "id": "act25_19",
+            "speaker": "Festo",
+            "verse": 19,
+            "text": "sino que tenían contra él ciertas cuestiones acerca de su superstición, y de un cierto Jesús, ya muerto, el cual Pablo afirmaba estar vivo."
+        },
+        {
+            "id": "act25_20",
+            "speaker": "Festo",
+            "verse": 20,
+            "text": "Y yo, dudando en cuestión semejante, le pregunté si quería ir a Jerusalén y allá ser juzgado de estas cosas."
+        },
+        {
+            "id": "act25_21",
+            "speaker": "Festo",
+            "verse": 21,
+            "text": "Pero como Pablo apeló para ser reservado para la audiencia de Augusto, mandé que le guardasen hasta que le enviara a César."
+        },
+        {
+            "id": "act25_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces Agripa dijo a Festo:"
+        },
+        {
+            "id": "act25_22b",
+            "speaker": "Agripa",
+            "verse": 22,
+            "text": "Yo también quisiera oír a ese hombre."
+        },
+        {
+            "id": "act25_22c",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "act25_22d",
+            "speaker": "Festo",
+            "verse": 22,
+            "text": "Mañana le oirás."
+        },
+        {
+            "id": "act25_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y al otro día, viniendo Agripa y Bernice con mucha pompa, y entrando en la audiencia con los tribunos y principales hombres de la ciudad, por mandato de Festo fue traído Pablo."
+        },
+        {
+            "id": "act25_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Entonces Festo dijo:"
+        },
+        {
+            "id": "act25_24b",
+            "speaker": "Festo",
+            "verse": 24,
+            "text": "Rey Agripa, y todos los varones aquí presentes con nosotros; veis a este hombre, del cual toda la multitud de los judíos me ha demandado en Jerusalén y aquí, dando voces que no debe vivir más;"
+        },
+        {
+            "id": "act25_25",
+            "speaker": "Festo",
+            "verse": 25,
+            "text": "pero yo, hallando que ninguna cosa digna de muerte ha hecho, y como él mismo apeló a Augusto, he determinado enviarle a él."
+        },
+        {
+            "id": "act25_26",
+            "speaker": "Festo",
+            "verse": 26,
+            "text": "Del cual no tengo cosa cierta que escribir a mi señor; por lo que le he traído ante vosotros, y mayormente ante ti, oh rey Agripa, para que después de examinarle, tenga yo qué escribir."
+        },
+        {
+            "id": "act25_27",
+            "speaker": "Festo",
+            "verse": 27,
+            "text": "Porque me parece fuera de razón enviar un preso, y no informar de los cargos que haya en su contra."
+        }
+    ]
+}

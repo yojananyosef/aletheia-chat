@@ -1,0 +1,56 @@
+[
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Hombre",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Lidia",
+    "confidence": 0.95
+  },
+  {
+    "verse": 17,
+    "subId": "b",
+    "speaker": "Adivina",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Hombres",
+    "confidence": 0.75
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Hombres",
+    "confidence": 0.8
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Carcelero",
+    "confidence": 0.95
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Alguaciles",
+    "confidence": 0.8
+  }
+]

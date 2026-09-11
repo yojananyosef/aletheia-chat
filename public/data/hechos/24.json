@@ -1,0 +1,213 @@
+{
+    "book": "Hechos",
+    "chapter": 24,
+    "title": "Hechos 24",
+    "messages": [
+        {
+            "id": "act24_sec1_92c6",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Ante el gobernador Félix",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act24_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y cinco días después el sumo sacerdote Ananías, descendió con algunos de los ancianos y un cierto orador llamado Tértulo, y comparecieron ante el gobernador contra Pablo."
+        },
+        {
+            "id": "act24_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y cuando éste fue llamado, Tértulo comenzó a acusarle, diciendo:"
+        },
+        {
+            "id": "act24_2b",
+            "speaker": "Tértulo",
+            "verse": 2,
+            "text": "Debido a ti gozamos de gran quietud, y muchas cosas son bien gobernadas en la nación por tu providencia;"
+        },
+        {
+            "id": "act24_3",
+            "speaker": "Tértulo",
+            "verse": 3,
+            "text": "en todo tiempo y en todo lugar lo recibimos con toda gratitud, oh excelentísimo Félix."
+        },
+        {
+            "id": "act24_4",
+            "speaker": "Tértulo",
+            "verse": 4,
+            "text": "Pero por no serte muy tedioso, te ruego que nos oigas brevemente conforme a tu gentileza."
+        },
+        {
+            "id": "act24_5",
+            "speaker": "Tértulo",
+            "verse": 5,
+            "text": "Pues hemos hallado que este hombre es pestilencial, y levantador de sediciones entre todos los judíos por todo el mundo, y cabecilla de la secta de los nazarenos."
+        },
+        {
+            "id": "act24_6",
+            "speaker": "Tértulo",
+            "verse": 6,
+            "text": "Quien también intentó profanar el templo; y prendiéndole, le quisimos juzgar conforme a nuestra ley."
+        },
+        {
+            "id": "act24_7",
+            "speaker": "Tértulo",
+            "verse": 7,
+            "text": "Pero interviniendo el tribuno Lisias, con gran violencia le quitó de nuestras manos,"
+        },
+        {
+            "id": "act24_8",
+            "speaker": "Tértulo",
+            "verse": 8,
+            "text": "mandando a sus acusadores que viniesen a ti. Tú mismo, al interrogarle, podrás enterarte de todas estas cosas de que le acusamos."
+        },
+        {
+            "id": "act24_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y asentían también los judíos, diciendo ser así estas cosas."
+        },
+        {
+            "id": "act24_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y habiéndole hecho señal el gobernador para que hablase, Pablo respondió:"
+        },
+        {
+            "id": "act24_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "Porque sé que desde hace muchos años eres juez de esta nación, de buen ánimo haré mi defensa."
+        },
+        {
+            "id": "act24_11",
+            "speaker": "Pablo",
+            "verse": 11,
+            "text": "Porque tú puedes verificar que no hace más de doce días yo subí a adorar a Jerusalén;"
+        },
+        {
+            "id": "act24_12",
+            "speaker": "Pablo",
+            "verse": 12,
+            "text": "y no me hallaron en el templo disputando con alguno, ni alborotando al pueblo, ni en las sinagogas, ni en la ciudad;"
+        },
+        {
+            "id": "act24_13",
+            "speaker": "Pablo",
+            "verse": 13,
+            "text": "ni pueden probar las cosas de que ahora me acusan."
+        },
+        {
+            "id": "act24_14",
+            "speaker": "Pablo",
+            "verse": 14,
+            "text": "Pero te confieso esto, que conforme al Camino que ellos llaman herejía, así sirvo al Dios de mis padres, creyendo todas las cosas que en la ley y en los profetas están escritas;"
+        },
+        {
+            "id": "act24_15",
+            "speaker": "Pablo",
+            "verse": 15,
+            "text": "teniendo esperanza en Dios que ha de haber resurrección de los muertos, así de justos como de injustos, la cual también ellos esperan."
+        },
+        {
+            "id": "act24_16",
+            "speaker": "Pablo",
+            "verse": 16,
+            "text": "Y por esto yo procuro tener siempre una conciencia sin ofensa ante Dios y ante los hombres."
+        },
+        {
+            "id": "act24_17",
+            "speaker": "Pablo",
+            "verse": 17,
+            "text": "Mas pasados muchos años, vine a hacer limosnas a mi nación, y ofrendas."
+        },
+        {
+            "id": "act24_18",
+            "speaker": "Pablo",
+            "verse": 18,
+            "text": "Y en esto, unos judíos de Asia me hallaron purificado en el templo no con multitud ni con alboroto;"
+        },
+        {
+            "id": "act24_19",
+            "speaker": "Pablo",
+            "verse": 19,
+            "text": "los cuales debían haber comparecido ante ti, y acusar, si contra mí tenían algo."
+        },
+        {
+            "id": "act24_20",
+            "speaker": "Pablo",
+            "verse": 20,
+            "text": "O digan estos mismos si hallaron en mí alguna cosa mal hecha, cuando comparecí ante el concilio,"
+        },
+        {
+            "id": "act24_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "A no ser por aquella voz, que clamé estando entre ellos:"
+        },
+        {
+            "id": "act24_21b",
+            "speaker": "Pablo",
+            "verse": 21,
+            "text": "Acerca de la resurrección de los muertos soy juzgado hoy por vosotros."
+        },
+        {
+            "id": "act24_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Entonces Félix, oídas estas cosas, teniendo mejor conocimiento de este Camino, les puso dilación, diciendo:"
+        },
+        {
+            "id": "act24_22b",
+            "speaker": "Félix",
+            "verse": 22,
+            "text": "Cuando descendiere el tribuno Lisias acabaré de conocer de vuestro asunto."
+        },
+        {
+            "id": "act24_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y mandó al centurión que se guardase a Pablo, y que tuviese libertades; y que no impidiesen a ninguno de los suyos servirle o venir a él."
+        },
+        {
+            "id": "act24_sec24_453e",
+            "speaker": "Sistema",
+            "verse": 24,
+            "text": "Félix conversa con Pablo sobre la fe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act24_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y algunos días después, viniendo Félix con Drusila, su esposa, la cual era judía, llamó a Pablo, y le oyó acerca de la fe en Cristo."
+        },
+        {
+            "id": "act24_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y disertando él de la justicia, del dominio propio y del juicio venidero, Félix, se espantó, y dijo:"
+        },
+        {
+            "id": "act24_25b",
+            "speaker": "Félix",
+            "verse": 25,
+            "text": "Vete ahora, y cuando tenga oportunidad te llamaré."
+        },
+        {
+            "id": "act24_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Esperando también con esto, que de parte de Pablo le sería dado dinero para que le soltase; por lo cual, haciéndole venir muchas veces, hablaba con él."
+        },
+        {
+            "id": "act24_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Pero al cabo de dos años recibió Félix por sucesor a Porcio Festo; y queriendo Félix congraciarse con los judíos, dejó preso a Pablo."
+        }
+    ]
+}

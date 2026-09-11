@@ -3,7 +3,7 @@
 ## ADDED Requirements
 
 ### Requirement: Fuente y mapeo
-Pipeline SHALL leer `/home/j/proyectos/alethia-gateway/public/data/bibles/SpaRVG/*.json` (primario)
+Pipeline SHALL leer `/home/Johan/orca/aletheia-gateway/public/data/bibles/SpaRVG/*.json` (primario)
 y `SpaPlatense/*.json` (deuterocanónicos + `headings` semilla). SHALL mapear códigos
 `GEN→genesis, EXO→exodus...` vía `BibleBooks.ts` gateway y emitir `public/data/<slug>/<cap>.json`.
 

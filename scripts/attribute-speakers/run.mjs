@@ -3,7 +3,7 @@
  * attribute-speakers / run.mjs — Paso 1 heurístico (determinista, sin red).
  *
  * Lee un capítulo gateway (SpaRVG/SpaPlatense):
- *   /home/j/proyectos/alethia-gateway/public/data/bibles/<Version>/<CODE>.json
+ *   /home/Johan/orca/aletheia-gateway/public/data/bibles/<Version>/<CODE>.json
  * y emite mensajes NAAS [{id, speaker, verse, text, isSectionTitle?}] + diagnóstico
  * [{verse, subId, speaker, confidence, rule, ambiguous}].
  *
@@ -26,7 +26,7 @@ import { fileURLToPath } from 'node:url';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, '..', '..');
-const GATEWAY = '/home/j/proyectos/alethia-gateway/public/data/bibles';
+const GATEWAY = '/home/Johan/orca/aletheia-gateway/public/data/bibles';
 
 /** Slug bible-app-naas -> código gateway (SpaRVG/RV1909/Platense comparten códigos). */
 export const CODE_BY_SLUG = {

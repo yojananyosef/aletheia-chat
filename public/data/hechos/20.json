@@ -1,0 +1,274 @@
+{
+    "book": "Hechos",
+    "chapter": 20,
+    "title": "Hechos 20",
+    "messages": [
+        {
+            "id": "act20_sec1_3610",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Viaje a Macedonia y Grecia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act20_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y después que cesó el alboroto, Pablo llamó a los discípulos, y abrazándoles, se despidió, y partió para ir a Macedonia."
+        },
+        {
+            "id": "act20_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y habiendo recorrido aquellas regiones, después de exhortarles con abundancia de palabras, vino a Grecia."
+        },
+        {
+            "id": "act20_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y estuvo allí tres meses. Y cuando los judíos le pusieron acechanza, estando él por navegar a Siria, decidió regresarse por Macedonia."
+        },
+        {
+            "id": "act20_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y le acompañaron hasta Asia, Sópater de Berea, y de los tesalonicenses, Aristarco y Segundo, y Gayo de Derbe, y Timoteo; y de Asia, Tíquico y Trófimo."
+        },
+        {
+            "id": "act20_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Éstos, habiéndose adelantado, nos esperaron en Troas."
+        },
+        {
+            "id": "act20_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y nosotros, pasados los días de los panes sin levadura, navegamos de Filipos, y en cinco días vinimos a ellos a Troas, donde estuvimos siete días."
+        },
+        {
+            "id": "act20_sec7_7afe",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "Pablo resucita a Eutico",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act20_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y el primer día de la semana, reuniéndose los discípulos para partir el pan, Pablo les predicaba; y habiendo de partir al día siguiente, alargó su discurso hasta la media noche."
+        },
+        {
+            "id": "act20_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y había muchas lámparas en el aposento alto donde estaban reunidos."
+        },
+        {
+            "id": "act20_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y un joven llamado Eutico, que estaba sentado en una ventana, cayó en un sueño profundo; y como Pablo predicaba largamente, se quedó dormido y cayó del tercer piso abajo, y fue levantado muerto."
+        },
+        {
+            "id": "act20_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Entonces descendió Pablo y se derribó sobre él, y abrazándole, dijo:"
+        },
+        {
+            "id": "act20_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "No os turbéis, que su vida está en él."
+        },
+        {
+            "id": "act20_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando subió otra vez, y hubo partido el pan y comido, habló largamente hasta el alba, y así partió."
+        },
+        {
+            "id": "act20_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y trajeron al joven vivo, y fueron consolados no poco."
+        },
+        {
+            "id": "act20_sec13_582c",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "En Mileto",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act20_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y nosotros, adelantándonos a tomar la nave, navegamos a Asón, para recoger allí a Pablo; pues él así lo había determinado, queriendo él ir por tierra."
+        },
+        {
+            "id": "act20_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y cuando se encontró con nosotros en Asón, tomándolo a bordo, vinimos a Mitilene."
+        },
+        {
+            "id": "act20_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y navegando de allí, al día siguiente llegamos delante de Quíos, y al otro día tomamos puerto en Samos; y habiendo reposado en Trogilio, al día siguiente llegamos a Mileto."
+        },
+        {
+            "id": "act20_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque Pablo había determinado navegar adelante de Éfeso, por no detenerse en Asia; pues se apresuraba para, si le fuese posible, estar en Jerusalén el día de Pentecostés."
+        },
+        {
+            "id": "act20_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y desde Mileto envió a Éfeso, e hizo llamar a los ancianos de la iglesia."
+        },
+        {
+            "id": "act20_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y cuando vinieron a él, les dijo:"
+        },
+        {
+            "id": "act20_18b",
+            "speaker": "Pablo",
+            "verse": 18,
+            "text": "Vosotros sabéis cómo me he conducido entre vosotros todo el tiempo, desde el primer día que entré en Asia;"
+        },
+        {
+            "id": "act20_19",
+            "speaker": "Pablo",
+            "verse": 19,
+            "text": "sirviendo al Señor con toda humildad, y con muchas lágrimas, y pruebas que me han venido por las asechanzas de los judíos;"
+        },
+        {
+            "id": "act20_20",
+            "speaker": "Pablo",
+            "verse": 20,
+            "text": "y cómo nada que os fuese útil he rehuido de anunciaros y enseñaros, públicamente y por las casas,"
+        },
+        {
+            "id": "act20_21",
+            "speaker": "Pablo",
+            "verse": 21,
+            "text": "testificando a los judíos y a los griegos arrepentimiento para con Dios, y la fe en nuestro Señor Jesucristo."
+        },
+        {
+            "id": "act20_22",
+            "speaker": "Pablo",
+            "verse": 22,
+            "text": "Y he aquí, ahora, ligado yo en espíritu, voy a Jerusalén, sin saber lo que allá me ha de acontecer;"
+        },
+        {
+            "id": "act20_23",
+            "speaker": "Pablo",
+            "verse": 23,
+            "text": "salvo que el Espíritu Santo por todas las ciudades me da testimonio, diciendo que prisiones y tribulaciones me esperan."
+        },
+        {
+            "id": "act20_24",
+            "speaker": "Pablo",
+            "verse": 24,
+            "text": "Pero de ninguna cosa hago caso, ni estimo mi vida preciosa para mí mismo; con tal que acabe mi carrera con gozo, y el ministerio que recibí del Señor Jesús, para dar testimonio del evangelio de la gracia de Dios."
+        },
+        {
+            "id": "act20_25",
+            "speaker": "Pablo",
+            "verse": 25,
+            "text": "Y ahora, he aquí, yo sé que ninguno de vosotros, entre quienes he pasado predicando el reino de Dios, verá más mi rostro."
+        },
+        {
+            "id": "act20_26",
+            "speaker": "Pablo",
+            "verse": 26,
+            "text": "Por tanto, yo os protesto en el día de hoy, que estoy limpio de la sangre de todos;"
+        },
+        {
+            "id": "act20_27",
+            "speaker": "Pablo",
+            "verse": 27,
+            "text": "porque no he rehuido anunciaros todo el consejo de Dios."
+        },
+        {
+            "id": "act20_28",
+            "speaker": "Pablo",
+            "verse": 28,
+            "text": "Por tanto, mirad por vosotros, y por todo el rebaño en que el Espíritu Santo os ha puesto por obispos, para apacentar la iglesia de Dios, la cual Él compró con su propia sangre."
+        },
+        {
+            "id": "act20_29",
+            "speaker": "Pablo",
+            "verse": 29,
+            "text": "Porque yo sé esto, que después de mi partida entrarán en medio de vosotros lobos rapaces, que no perdonarán al rebaño."
+        },
+        {
+            "id": "act20_30",
+            "speaker": "Pablo",
+            "verse": 30,
+            "text": "Y de vosotros mismos se levantarán hombres que hablen cosas perversas, para llevar discípulos tras sí."
+        },
+        {
+            "id": "act20_31",
+            "speaker": "Pablo",
+            "verse": 31,
+            "text": "Por tanto, velad, acordándoos que por tres años, de noche y de día, no he cesado de amonestar con lágrimas a cada uno."
+        },
+        {
+            "id": "act20_32",
+            "speaker": "Pablo",
+            "verse": 32,
+            "text": "Y ahora, hermanos, os encomiendo a Dios y a la palabra de su gracia, la cual es poderosa para sobreedificaros, y daros herencia con todos los santificados."
+        },
+        {
+            "id": "act20_33",
+            "speaker": "Pablo",
+            "verse": 33,
+            "text": "No he codiciado plata, u oro, o vestidura de nadie."
+        },
+        {
+            "id": "act20_34",
+            "speaker": "Pablo",
+            "verse": 34,
+            "text": "Antes vosotros sabéis que para lo que me ha sido necesario, y para los que están conmigo, estas manos me han servido."
+        },
+        {
+            "id": "act20_35a",
+            "speaker": "Pablo",
+            "verse": 35,
+            "text": "En todo os he enseñado que trabajando así, es necesario sobrellevar a los débiles, y recordar las palabras del Señor Jesús, que dijo:"
+        },
+        {
+            "id": "act20_35b",
+            "speaker": "Jesús",
+            "verse": 35,
+            "text": "Más bienaventurado es dar que recibir."
+        },
+        {
+            "id": "act20_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Y habiendo dicho estas cosas, se puso de rodillas, y oró con todos ellos."
+        },
+        {
+            "id": "act20_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Entonces hubo gran llanto de todos; y echándose sobre el cuello de Pablo, le besaban,"
+        },
+        {
+            "id": "act20_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "entristeciéndose sobre todo por las palabras que había dicho, de que ya no volverían a ver su rostro. Y le acompañaron hasta el barco."
+        }
+    ]
+}

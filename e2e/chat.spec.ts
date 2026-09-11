@@ -14,6 +14,12 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /hechos/1 carga el capítulo (libro NT integrado)', async ({ page }) => {
+        await page.goto('/hechos/1');
+        await expect(page.getByRole('heading', { name: /Hechos/ })).toBeVisible();
+        await expect(page.getByRole('button', { name: /prólogo/i })).toBeVisible();
+    });
+
     test('deep-link a ruta inválida devuelve 404', async ({ page }) => {
         const response = await page.goto('/genesis/99');
         expect(response?.status()).toBe(404);

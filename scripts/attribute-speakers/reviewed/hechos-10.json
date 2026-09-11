@@ -1,0 +1,182 @@
+[
+  {
+    "verse": 3,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Cornelio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 4,
+    "subId": "d",
+    "speaker": "Ángel",
+    "confidence": 0.95
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.95
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.95
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Dios",
+    "confidence": 0.8
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.95
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Espíritu Santo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Espíritu Santo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Mensajero",
+    "confidence": 0.85
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Cornelio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Ángel",
+    "confidence": 0.8
+  },
+  {
+    "verse": 32,
+    "subId": "",
+    "speaker": "Cornelio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 33,
+    "subId": "",
+    "speaker": "Cornelio",
+    "confidence": 0.95
+  },
+  {
+    "verse": 35,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 36,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 37,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 39,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 40,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 41,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 42,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 43,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 47,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  }
+]

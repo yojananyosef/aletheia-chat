@@ -1,0 +1,98 @@
+[
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Filósofos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 18,
+    "subId": "d",
+    "speaker": "Filósofos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Filósofos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Filósofos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 31,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  }
+]

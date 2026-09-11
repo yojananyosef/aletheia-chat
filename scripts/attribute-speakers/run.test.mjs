@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 import { attributeChapter } from './run.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-const GATEWAY = '/home/j/proyectos/alethia-gateway/public/data/bibles';
+const GATEWAY = '/home/Johan/orca/aletheia-gateway/public/data/bibles';
 const patterns = JSON.parse(readFileSync(join(HERE, 'patterns.es.json'), 'utf8'));
 const participants = JSON.parse(readFileSync(join(HERE, 'participants.json'), 'utf8'));
 
@@ -293,5 +293,41 @@ describe('attribute-speakers (heurística)', () => {
     const marineros = jon.messages.find(m => m.verse === 6 && /dormil/.test(m.text));
     assert.ok(marineros, 'burbuja de Marineros JON 1:6 existe');
     assert.equal(marineros.speaker, 'Marineros');
+  });
+
+  it('ACT voces: Pedro 2:14 y carryover 2:15, oráculo de Joel 2:17b a Dios', () => {
+    const a2 = run('hechos', 'ACT', 2);
+    assert.equal(speakerOf(a2.messages, 14, 'b'), 'Pedro');
+    assert.equal(speakerOf(a2.messages, 15, ''), 'Pedro');
+    assert.equal(speakerOf(a2.messages, 17, 'b'), 'Dios');
+  });
+
+  it('ACT voces: Ángel 8:26 y 12:7, Felipe 8:30, Pueblo 12:22, Centurión 22:26', () => {
+    const a8 = run('hechos', 'ACT', 8);
+    assert.equal(speakerOf(a8.messages, 26, 'b'), 'Ángel');
+    assert.equal(speakerOf(a8.messages, 30, 'b'), 'Felipe');
+    const a12 = run('hechos', 'ACT', 12);
+    assert.equal(speakerOf(a12.messages, 7, 'b'), 'Ángel');
+    assert.equal(speakerOf(a12.messages, 22, 'b'), 'Pueblo');
+    const a22 = run('hechos', 'ACT', 22);
+    assert.equal(speakerOf(a22.messages, 26, 'b'), 'Centurión');
+  });
+
+  it('ACT Pablo sayer-VSO: 16:28b, 17:22b, 19:21b, 22:25b, 26:29b, 28:17b', () => {
+    for (const [cap, verse, sub] of [[16, 28, 'b'], [17, 22, 'b'], [19, 21, 'b'], [22, 25, 'b'], [26, 29, 'b'], [28, 17, 'b']]) {
+      const { messages } = run('hechos', 'ACT', cap);
+      assert.equal(speakerOf(messages, verse, sub), 'Pablo', `ACT ${cap}:${verse} Pablo`);
+    }
+  });
+
+  it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
+    const a1 = run('hechos', 'ACT', 1);
+    assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos
+    const a9 = run('hechos', 'ACT', 9);
+    assert.equal(speakerOf(a9.messages, 4, 'b'), 'Dios'); // revisado a Jesús
+    const a26 = run('hechos', 'ACT', 26);
+    assert.equal(speakerOf(a26.messages, 1, 'b'), 'Dios'); // revisado a Agripa
+    const a3 = run('hechos', 'ACT', 3);
+    assert.ok(a3.messages.some(m => m.id.startsWith('act3_')), 'ids con prefijo act');
   });
 });

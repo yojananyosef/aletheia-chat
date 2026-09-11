@@ -1,0 +1,347 @@
+{
+    "book": "Hechos",
+    "chapter": 5,
+    "title": "Hechos 5",
+    "messages": [
+        {
+            "id": "act5_sec1_d25d",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Ananías y Safira",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pero un varón llamado Ananías, con Safira su esposa, vendió una heredad,"
+        },
+        {
+            "id": "act5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y retuvo parte del precio, sabiéndolo también su esposa; y trayendo una parte, la puso a los pies de los apóstoles."
+        },
+        {
+            "id": "act5_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y dijo Pedro:"
+        },
+        {
+            "id": "act5_3b",
+            "speaker": "Pedro",
+            "verse": 3,
+            "text": "Ananías, ¿por qué ha llenado Satanás tu corazón para que mintieses al Espíritu Santo, y te quedases con parte del precio de la heredad?"
+        },
+        {
+            "id": "act5_4",
+            "speaker": "Pedro",
+            "verse": 4,
+            "text": "Reteniéndola, ¿no se te quedaba a ti? y vendida, ¿no estaba en tu poder? ¿Por qué pusiste esto en tu corazón? No has mentido a los hombres, sino a Dios."
+        },
+        {
+            "id": "act5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Entonces Ananías, oyendo estas palabras, cayó y expiró. Y vino gran temor sobre todos los que lo oyeron."
+        },
+        {
+            "id": "act5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y levantándose los jóvenes, lo envolvieron, y sacándolo, lo sepultaron."
+        },
+        {
+            "id": "act5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y pasado un lapso como de tres horas, entró también su esposa, no sabiendo lo que había acontecido."
+        },
+        {
+            "id": "act5_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Entonces Pedro le dijo:"
+        },
+        {
+            "id": "act5_8b",
+            "speaker": "Pedro",
+            "verse": 8,
+            "text": "Dime, ¿vendisteis en tanto la heredad?"
+        },
+        {
+            "id": "act5_8c",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ella dijo:"
+        },
+        {
+            "id": "act5_8d",
+            "speaker": "Safira",
+            "verse": 8,
+            "text": "Sí, en tanto."
+        },
+        {
+            "id": "act5_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y Pedro le dijo:"
+        },
+        {
+            "id": "act5_9b",
+            "speaker": "Pedro",
+            "verse": 9,
+            "text": "¿Por qué os pusisteis de acuerdo para tentar al Espíritu del Señor? He aquí a la puerta los pies de los que han sepultado a tu marido, y te sacarán a ti."
+        },
+        {
+            "id": "act5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y al instante cayó a los pies de él, y expiró; y entrando los jóvenes, la hallaron muerta; y la sacaron, y la sepultaron junto a su marido."
+        },
+        {
+            "id": "act5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y vino gran temor sobre toda la iglesia, y sobre todos los que oyeron estas cosas."
+        },
+        {
+            "id": "act5_sec12_c632",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Milagros de los apóstoles",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y por mano de los apóstoles eran hechos muchos milagros y prodigios en el pueblo; y estaban todos unánimes en el pórtico de Salomón."
+        },
+        {
+            "id": "act5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y de los demás, ninguno osaba juntarse con ellos; pero el pueblo los alababa grandemente."
+        },
+        {
+            "id": "act5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y más creyentes se añadían al Señor, multitudes, así de hombres como de mujeres;"
+        },
+        {
+            "id": "act5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "tanto que sacaban los enfermos a las calles, y los ponían en camas y lechos, para que al pasar Pedro, a lo menos su sombra cayese sobre alguno de ellos."
+        },
+        {
+            "id": "act5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y aun de las ciudades vecinas muchos venían a Jerusalén, trayendo enfermos y atormentados de espíritus inmundos; y todos eran sanados."
+        },
+        {
+            "id": "act5_sec17_4339",
+            "speaker": "Sistema",
+            "verse": 17,
+            "text": "Nueva persecución",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Entonces se levantó el sumo sacerdote y todos los que estaban con él, que es la secta de los saduceos, y se llenaron de celos;"
+        },
+        {
+            "id": "act5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "y echaron mano a los apóstoles y los pusieron en la cárcel pública."
+        },
+        {
+            "id": "act5_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas el ángel del Señor abrió de noche las puertas de la cárcel, y sacándolos, dijo:"
+        },
+        {
+            "id": "act5_20",
+            "speaker": "Ángel",
+            "verse": 20,
+            "text": "Id, y puestos en pie en el templo, hablad al pueblo todas las palabras de esta vida."
+        },
+        {
+            "id": "act5_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y habiendo oído esto, entraron de mañana en el templo, y enseñaban. Entre tanto, vinieron el sumo sacerdote y los que estaban con él, y convocaron al concilio y a todos los ancianos de los hijos de Israel, y enviaron a la cárcel para que fuesen traídos."
+        },
+        {
+            "id": "act5_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Pero cuando llegaron los oficiales, y no los hallaron en la cárcel, volvieron y dieron aviso,"
+        },
+        {
+            "id": "act5_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "act5_23b",
+            "speaker": "Oficiales",
+            "verse": 23,
+            "text": "De cierto, la cárcel hemos hallado cerrada con toda seguridad, y los guardas afuera de pie ante las puertas; pero cuando abrimos, a nadie hallamos dentro."
+        },
+        {
+            "id": "act5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y cuando oyeron estas palabras el sumo sacerdote y el magistrado del templo y los príncipes de los sacerdotes, dudaban en qué vendría a parar aquello."
+        },
+        {
+            "id": "act5_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y viniendo uno, les dio la noticia, diciendo:"
+        },
+        {
+            "id": "act5_25b",
+            "speaker": "Hombre",
+            "verse": 25,
+            "text": "He aquí, los varones que echasteis en la cárcel están en el templo, y enseñan al pueblo."
+        },
+        {
+            "id": "act5_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces fue el magistrado con los oficiales, y los trajo sin violencia; porque temían ser apedreados por el pueblo."
+        },
+        {
+            "id": "act5_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y cuando los trajeron, los presentaron ante el concilio, y el sumo sacerdote les preguntó,"
+        },
+        {
+            "id": "act5_28a",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "act5_28b",
+            "speaker": "Sumo sacerdote",
+            "verse": 28,
+            "text": "¿No os ordenamos rigurosamente, que no enseñaseis en este nombre? Y he aquí, habéis llenado a Jerusalén con vuestra doctrina, y queréis echar sobre nosotros la sangre de este hombre."
+        },
+        {
+            "id": "act5_29a",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Respondiendo Pedro y los apóstoles, dijeron:"
+        },
+        {
+            "id": "act5_29b",
+            "speaker": "Pedro",
+            "verse": 29,
+            "text": "Es necesario obedecer a Dios antes que a los hombres."
+        },
+        {
+            "id": "act5_30",
+            "speaker": "Pedro",
+            "verse": 30,
+            "text": "El Dios de nuestros padres resucitó a Jesús, al cual vosotros matasteis colgándole en un madero."
+        },
+        {
+            "id": "act5_31",
+            "speaker": "Pedro",
+            "verse": 31,
+            "text": "A Éste, Dios ha exaltado con su diestra por Príncipe y Salvador, para dar a Israel arrepentimiento y perdón de pecados."
+        },
+        {
+            "id": "act5_32",
+            "speaker": "Pedro",
+            "verse": 32,
+            "text": "Y nosotros somos testigos suyos de estas cosas, y también el Espíritu Santo, el cual ha dado Dios a los que le obedecen."
+        },
+        {
+            "id": "act5_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Ellos, oyendo esto, se enfurecieron, y tomaron consejo para matarlos."
+        },
+        {
+            "id": "act5_sec34_51f7",
+            "speaker": "Sistema",
+            "verse": 34,
+            "text": "Discurso de Gamaliel",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act5_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Entonces levantándose en el concilio un fariseo llamado Gamaliel, doctor de la ley, honorable ante todo el pueblo, mandó que hiciesen sacar por un momento a los apóstoles,"
+        },
+        {
+            "id": "act5_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y les dijo:"
+        },
+        {
+            "id": "act5_35b",
+            "speaker": "Gamaliel",
+            "verse": 35,
+            "text": "Varones israelitas, mirad por vosotros lo que vais a hacer acerca de estos hombres."
+        },
+        {
+            "id": "act5_36",
+            "speaker": "Gamaliel",
+            "verse": 36,
+            "text": "Porque antes de estos días se levantó Teudas, diciendo que era alguien; al que se agregó un número de como cuatrocientos hombres; el cual fue muerto, y todos los que le obedecían fueron dispersados y reducidos a nada."
+        },
+        {
+            "id": "act5_37",
+            "speaker": "Gamaliel",
+            "verse": 37,
+            "text": "Después de éste, se levantó Judas el galileo, en los días del empadronamiento, y llevó en pos de sí a mucho pueblo. Éste también pereció; y todos los que le obedecían fueron dispersados."
+        },
+        {
+            "id": "act5_38",
+            "speaker": "Gamaliel",
+            "verse": 38,
+            "text": "Y ahora os digo: Apartaos de estos hombres, y dejadlos; porque si este consejo o esta obra es de los hombres, se desvanecerá;"
+        },
+        {
+            "id": "act5_39",
+            "speaker": "Gamaliel",
+            "verse": 39,
+            "text": "pero si es de Dios, no la podréis deshacer; no seáis tal vez hallados luchando contra Dios."
+        },
+        {
+            "id": "act5_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y convinieron con él; y llamando a los apóstoles, después de azotarlos, les intimaron que no hablasen en el nombre de Jesús, y los dejaron libres."
+        },
+        {
+            "id": "act5_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Y ellos partieron de la presencia del concilio, gozosos de haber sido tenidos por dignos de padecer afrenta por su Nombre."
+        },
+        {
+            "id": "act5_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y todos los días, en el templo y por las casas, no cesaban de enseñar y predicar a Jesucristo."
+        }
+    ]
+}

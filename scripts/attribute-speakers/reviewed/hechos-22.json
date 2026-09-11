@@ -1,0 +1,152 @@
+[
+  {
+    "verse": 1,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 7,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 8,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 10,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Ananías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Ananías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Ananías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Ananías",
+    "confidence": 0.9
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
+    "subId": "b",
+    "speaker": "Tribuno",
+    "confidence": 0.95
+  },
+  {
+    "verse": 27,
+    "subId": "d",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Tribuno",
+    "confidence": 0.95
+  }
+]

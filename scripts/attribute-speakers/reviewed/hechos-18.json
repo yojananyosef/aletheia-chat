@@ -1,0 +1,44 @@
+[
+  {
+    "verse": 6,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Galión",
+    "confidence": 0.95
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Galión",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  }
+]

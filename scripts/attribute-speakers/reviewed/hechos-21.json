@@ -1,0 +1,86 @@
+[
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Agabo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Discípulos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Jacobo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Jacobo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Jacobo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Jacobo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 24,
+    "subId": "",
+    "speaker": "Jacobo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Jacobo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Judíos",
+    "confidence": 0.8
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.8
+  },
+  {
+    "verse": 37,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 37,
+    "subId": "d",
+    "speaker": "Tribuno",
+    "confidence": 0.95
+  },
+  {
+    "verse": 38,
+    "subId": "",
+    "speaker": "Tribuno",
+    "confidence": 0.95
+  }
+]

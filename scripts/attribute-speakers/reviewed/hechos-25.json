@@ -1,0 +1,110 @@
+[
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.85
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 12,
+    "subId": "b",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Agripa",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "d",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 25,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Festo",
+    "confidence": 0.95
+  }
+]

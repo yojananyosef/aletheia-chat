@@ -1,0 +1,116 @@
+[
+  {
+    "verse": 4,
+    "subId": "b",
+    "speaker": "Oficiales",
+    "confidence": 0.8
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Narrador",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "b",
+    "speaker": "Escribas",
+    "confidence": 0.8
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Judíos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 18,
+    "subId": "b",
+    "speaker": "Centurión",
+    "confidence": 0.9
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Tribuno",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "b",
+    "speaker": "Joven",
+    "confidence": 0.9
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Joven",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "b",
+    "speaker": "Tribuno",
+    "confidence": 0.95
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Tribuno",
+    "confidence": 0.9
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Tribuno",
+    "confidence": 0.9
+  },
+  {
+    "verse": 28,
+    "subId": "",
+    "speaker": "Tribuno",
+    "confidence": 0.9
+  },
+  {
+    "verse": 29,
+    "subId": "",
+    "speaker": "Tribuno",
+    "confidence": 0.9
+  },
+  {
+    "verse": 30,
+    "subId": "",
+    "speaker": "Tribuno",
+    "confidence": 0.9
+  },
+  {
+    "verse": 35,
+    "subId": "b",
+    "speaker": "Félix",
+    "confidence": 0.95
+  }
+]

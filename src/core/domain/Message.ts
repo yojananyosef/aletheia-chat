@@ -68,7 +68,11 @@ export type CanonicalSpeaker =
     | 'Jonadab' | 'Husai' | 'Ahitofel' | 'Betsabé' | 'Urías' | 'Mefiboset'
     | 'Siba' | 'Simeí' | 'Barzilai' | 'Ahimaas' | 'Arauna' | 'Sadoc'
     | 'Abiatar' | 'Itai' | 'Amasa' | 'Seba' | 'Mujer de Tecoa' | 'Mujer sabia'
-    | 'Etíope' | 'Recab' | 'Baana' | 'Rizpa' | 'Jabes' | 'Siervos' | 'Jóvenes';
+    | 'Etíope' | 'Recab' | 'Baana' | 'Rizpa' | 'Jabes' | 'Siervos' | 'Jóvenes'
+    | 'Esteban' | 'Saulo' | 'Jacobo' | 'Ananías' | 'Safira' | 'Gamaliel' | 'Simón'
+    | 'Cornelio' | 'Lidia' | 'Agabo' | 'Tértulo' | 'Félix' | 'Festo' | 'Agripa'
+    | 'Galión' | 'Demetrio' | 'Tribuno' | 'Escribano' | 'Filósofos' | 'Carcelero'
+    | 'Adivina';
 
 export type Speaker = CanonicalSpeaker | (string & {});
 

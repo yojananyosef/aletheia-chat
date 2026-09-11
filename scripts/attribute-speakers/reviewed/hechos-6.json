@@ -1,0 +1,32 @@
+[
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Discípulos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 11,
+    "subId": "b",
+    "speaker": "Testigos",
+    "confidence": 0.85
+  },
+  {
+    "verse": 13,
+    "subId": "b",
+    "speaker": "Testigos",
+    "confidence": 0.9
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Testigos",
+    "confidence": 0.9
+  }
+]

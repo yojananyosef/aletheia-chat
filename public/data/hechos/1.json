@@ -1,0 +1,229 @@
+{
+    "book": "Hechos",
+    "chapter": 1,
+    "title": "Hechos 1",
+    "messages": [
+        {
+            "id": "act1_sec1_a8f5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "PRÓLOGO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "En el primer tratado, oh Teófilo, he hablado de todas las cosas que Jesús comenzó a hacer y a enseñar,"
+        },
+        {
+            "id": "act1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los apóstoles que Él había escogido;"
+        },
+        {
+            "id": "act1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "a quienes también, después de haber padecido, se presentó vivo con muchas pruebas indubitables, siendo visto de ellos por cuarenta días, y hablándoles acerca del reino de Dios."
+        },
+        {
+            "id": "act1_sec4_8aca",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "I. LA IGLESIA EN JERUSALÉN",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act1_sec4_2200",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "Últimos avisos de Jesús",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y estando reunido con ellos, les mandó que no se fuesen de Jerusalén, sino que esperasen la promesa del Padre, la cual, les dijo, oísteis de mí."
+        },
+        {
+            "id": "act1_5",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Porque Juan a la verdad bautizó en agua, mas vosotros seréis bautizados con el Espíritu Santo no muchos días después de estos."
+        },
+        {
+            "id": "act1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Entonces los que se habían reunido le preguntaron, diciendo:"
+        },
+        {
+            "id": "act1_6b",
+            "speaker": "Discípulos",
+            "verse": 6,
+            "text": "Señor, ¿restaurarás el reino a Israel en este tiempo?"
+        },
+        {
+            "id": "act1_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Él les dijo:"
+        },
+        {
+            "id": "act1_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "No toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad;"
+        },
+        {
+            "id": "act1_8",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "pero recibiréis poder cuando haya venido sobre vosotros el Espíritu Santo; y me seréis testigos, a la vez, en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra."
+        },
+        {
+            "id": "act1_sec9_58ec",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Ascensión del Señor",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y habiendo dicho estas cosas, viéndolo ellos, fue alzado; y una nube lo recibió y lo encubrió de sus ojos."
+        },
+        {
+            "id": "act1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y estando ellos con los ojos puestos en el cielo, entre tanto que Él se iba, he aquí dos varones en vestiduras blancas se pusieron junto a ellos;"
+        },
+        {
+            "id": "act1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Los cuales también les dijeron:"
+        },
+        {
+            "id": "act1_11b",
+            "speaker": "Ángeles",
+            "verse": 11,
+            "text": "Varones galileos, ¿qué estáis mirando al cielo? Este mismo Jesús que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al cielo."
+        },
+        {
+            "id": "act1_sec12_26eb",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "En el Cenáculo de Jerusalén",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces se volvieron a Jerusalén desde el monte que se llama del Olivar, el cual está cerca de Jerusalén camino de un sábado."
+        },
+        {
+            "id": "act1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y entrados, subieron al aposento alto, donde moraban Pedro y Jacobo, y Juan y Andrés, Felipe y Tomás, Bartolomé y Mateo, Jacobo hijo de Alfeo, y Simón Zelotes, y Judas hermano de Jacobo."
+        },
+        {
+            "id": "act1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Todos éstos perseveraban unánimes en oración y ruego, con las mujeres, y con María la madre de Jesús, y con sus hermanos."
+        },
+        {
+            "id": "act1_sec15_3272",
+            "speaker": "Sistema",
+            "verse": 15,
+            "text": "Elección del apóstol Matías",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act1_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y en aquellos días Pedro se levantó en medio de los discípulos (el número de las personas allí reunidas, era como de ciento veinte), y dijo:"
+        },
+        {
+            "id": "act1_16",
+            "speaker": "Pedro",
+            "verse": 16,
+            "text": "Varones hermanos, era necesario que se cumpliese la Escritura la cual el Espíritu Santo habló antes por boca de David acerca de Judas, que fue guía de los que prendieron a Jesús."
+        },
+        {
+            "id": "act1_17",
+            "speaker": "Pedro",
+            "verse": 17,
+            "text": "Porque él era contado con nosotros y tuvo parte en este ministerio."
+        },
+        {
+            "id": "act1_18",
+            "speaker": "Pedro",
+            "verse": 18,
+            "text": "Éste, pues, adquirió un campo con el salario de su iniquidad, y cayendo rostro abajo, se reventó por la mitad, y todas sus entrañas se derramaron."
+        },
+        {
+            "id": "act1_19",
+            "speaker": "Pedro",
+            "verse": 19,
+            "text": "Y fue notorio a todos los moradores de Jerusalén; de tal manera que aquel campo es llamado en su propia lengua, Acéldama, que significa, campo de sangre."
+        },
+        {
+            "id": "act1_20",
+            "speaker": "Pedro",
+            "verse": 20,
+            "text": "Porque está escrito en el libro de los Salmos: Sea hecha desierta su habitación, y no haya quien more en ella; y: Tome otro su obispado."
+        },
+        {
+            "id": "act1_21",
+            "speaker": "Pedro",
+            "verse": 21,
+            "text": "Por tanto, es necesario que de estos hombres que han estado junto con nosotros todo el tiempo que el Señor Jesús entraba y salía entre nosotros,"
+        },
+        {
+            "id": "act1_22",
+            "speaker": "Pedro",
+            "verse": 22,
+            "text": "comenzando desde el bautismo de Juan hasta el día que fue recibido arriba de entre nosotros, uno sea hecho testigo con nosotros de su resurrección."
+        },
+        {
+            "id": "act1_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y señalaron a dos; a José, llamado Barsabás, que tenía por sobrenombre Justo, y a Matías."
+        },
+        {
+            "id": "act1_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y orando, dijeron:"
+        },
+        {
+            "id": "act1_24b",
+            "speaker": "Discípulos",
+            "verse": 24,
+            "text": "Tú, Señor, que conoces los corazones de todos, muestra cuál de estos dos has escogido"
+        },
+        {
+            "id": "act1_25",
+            "speaker": "Discípulos",
+            "verse": 25,
+            "text": "para que tome el oficio de este ministerio y apostolado, del cual cayó Judas por transgresión, para irse a su propio lugar."
+        },
+        {
+            "id": "act1_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y les echaron suertes, y la suerte cayó sobre Matías; y fue contado con los once apóstoles."
+        }
+    ]
+}

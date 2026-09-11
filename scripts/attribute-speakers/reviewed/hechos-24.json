@@ -1,0 +1,122 @@
+[
+  {
+    "verse": 2,
+    "subId": "b",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Tértulo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 14,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.8
+  },
+  {
+    "verse": 15,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 22,
+    "subId": "b",
+    "speaker": "Félix",
+    "confidence": 0.95
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Félix",
+    "confidence": 0.95
+  }
+]

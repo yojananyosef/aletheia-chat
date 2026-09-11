@@ -1,0 +1,428 @@
+{
+    "book": "Hechos",
+    "chapter": 13,
+    "title": "Hechos 13",
+    "messages": [
+        {
+            "id": "act13_sec1_bf6c",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "III. LA IGLESIA EN EL MUNDO GRECO-ROMANO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_sec1_0a99",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "A. PRIMER VIAJE DE SAN PABLO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_sec1_8ac1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Pablo y Bernabé son escogidos para la misión entre los gentiles",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Había entonces en la iglesia que estaba en Antioquía ciertos profetas y maestros; Bernabé, y Simón el que se llamaba Niger, y Lucio cireneo, y Manahén, que había sido criado con Herodes el tetrarca, y Saulo."
+        },
+        {
+            "id": "act13_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Ministrando éstos al Señor, y ayunando, dijo el Espíritu Santo:"
+        },
+        {
+            "id": "act13_2b",
+            "speaker": "Espíritu Santo",
+            "verse": 2,
+            "text": "Separadme a Bernabé y a Saulo para la obra para la cual los he llamado."
+        },
+        {
+            "id": "act13_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y habiendo ayunado y orado, les impusieron las manos, y los enviaron."
+        },
+        {
+            "id": "act13_sec4_0fa8",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "Pablo y Elimas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Así que ellos, enviados por el Espíritu Santo, descendieron a Seleucia; y de allí navegaron a Chipre."
+        },
+        {
+            "id": "act13_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y llegados a Salamina, predicaban la palabra de Dios en las sinagogas de los judíos; y tenían también a Juan en el ministerio."
+        },
+        {
+            "id": "act13_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y habiendo atravesado la isla hasta Pafos, hallaron a un hombre hechicero, falso profeta, judío, llamado Barjesús;"
+        },
+        {
+            "id": "act13_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "el cual estaba con el procónsul Sergio Paulo, varón prudente. Éste, llamando a Bernabé y a Saulo, deseaba oír la palabra de Dios."
+        },
+        {
+            "id": "act13_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas les resistía Elimas, el hechicero (que así se interpreta su nombre), procurando apartar de la fe al procónsul."
+        },
+        {
+            "id": "act13_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces Saulo, que también es Pablo, lleno del Espíritu Santo, fijando sus ojos en él,"
+        },
+        {
+            "id": "act13_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Dijo:"
+        },
+        {
+            "id": "act13_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "Oh, lleno de todo engaño y de toda maldad, hijo del diablo, enemigo de toda justicia: ¿No cesarás de torcer los caminos rectos del Señor?"
+        },
+        {
+            "id": "act13_11",
+            "speaker": "Pablo",
+            "verse": 11,
+            "text": "Ahora pues, he aquí la mano del Señor es contra ti, y serás ciego, y no verás el sol por un tiempo. Y al instante cayeron sobre él oscuridad y tinieblas; y andando alrededor, buscaba quién le condujese de la mano."
+        },
+        {
+            "id": "act13_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Entonces el procónsul, viendo lo que había sido hecho, creyó, maravillado de la doctrina del Señor."
+        },
+        {
+            "id": "act13_sec13_a918",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Pablo y Bernabé en Antioquía de Pisidia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y zarpando de Pafos, Pablo y sus compañeros arribaron a Perge de Panfilia. Y Juan, apartándose de ellos, se regresó a Jerusalén."
+        },
+        {
+            "id": "act13_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y ellos pasando de Perge, llegaron a Antioquía de Pisidia, y entrando en la sinagoga un día de sábado, se sentaron."
+        },
+        {
+            "id": "act13_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y después de la lectura de la ley y de los profetas, los príncipes de la sinagoga enviaron a ellos, diciendo:"
+        },
+        {
+            "id": "act13_15b",
+            "speaker": "Príncipes",
+            "verse": 15,
+            "text": "Varones hermanos, si tenéis alguna palabra de exhortación para el pueblo, hablad."
+        },
+        {
+            "id": "act13_sec16_bc9e",
+            "speaker": "Sistema",
+            "verse": 16,
+            "text": "Discurso de San Pablo en Antioquía de Pisidia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Entonces Pablo, levantándose, hecha señal de silencio con la mano, dijo:"
+        },
+        {
+            "id": "act13_16b",
+            "speaker": "Pablo",
+            "verse": 16,
+            "text": "Varones israelitas, y los que teméis a Dios, oíd:"
+        },
+        {
+            "id": "act13_17",
+            "speaker": "Pablo",
+            "verse": 17,
+            "text": "El Dios de este pueblo de Israel escogió a nuestros padres, y enalteció al pueblo, siendo ellos extranjeros en la tierra de Egipto, y con brazo levantado los sacó de ella."
+        },
+        {
+            "id": "act13_18",
+            "speaker": "Pablo",
+            "verse": 18,
+            "text": "Y por un tiempo como de cuarenta años soportó sus costumbres en el desierto;"
+        },
+        {
+            "id": "act13_19",
+            "speaker": "Pablo",
+            "verse": 19,
+            "text": "y habiendo destruido siete naciones en la tierra de Canaán, les repartió por herencia sus tierras."
+        },
+        {
+            "id": "act13_20",
+            "speaker": "Pablo",
+            "verse": 20,
+            "text": "Y después de esto, como por cuatrocientos cincuenta años, les dio jueces hasta el profeta Samuel."
+        },
+        {
+            "id": "act13_21",
+            "speaker": "Pablo",
+            "verse": 21,
+            "text": "Luego demandaron rey; y Dios les dio a Saúl, hijo de Cis, varón de la tribu de Benjamín, por cuarenta años."
+        },
+        {
+            "id": "act13_22a",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y quitado éste, les levantó por rey a David, del cual dio también testimonio, diciendo:"
+        },
+        {
+            "id": "act13_22b",
+            "speaker": "Dios",
+            "verse": 22,
+            "text": "He hallado a David, hijo de Isaí, varón conforme a mi corazón, el cual hará toda mi voluntad."
+        },
+        {
+            "id": "act13_23",
+            "speaker": "Pablo",
+            "verse": 23,
+            "text": "De la simiente de éste, conforme a la promesa, Dios levantó a Jesús por Salvador a Israel;"
+        },
+        {
+            "id": "act13_24",
+            "speaker": "Pablo",
+            "verse": 24,
+            "text": "predicando Juan, antes de su venida, el bautismo de arrepentimiento a todo el pueblo de Israel."
+        },
+        {
+            "id": "act13_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y cuando Juan terminaba su carrera, dijo:"
+        },
+        {
+            "id": "act13_25b",
+            "speaker": "Pablo",
+            "verse": 25,
+            "text": "¿Quién pensáis que soy yo? No soy yo Él. Mas, he aquí, viene tras mí uno de quien no soy digno de desatar el calzado de sus pies."
+        },
+        {
+            "id": "act13_26",
+            "speaker": "Pablo",
+            "verse": 26,
+            "text": "Varones hermanos, hijos del linaje de Abraham, y los que entre vosotros temen a Dios, a vosotros es enviada la palabra de esta salvación."
+        },
+        {
+            "id": "act13_27",
+            "speaker": "Pablo",
+            "verse": 27,
+            "text": "Pues los que habitaban en Jerusalén, y sus príncipes, no conociendo a Éste, ni las palabras de los profetas que se leen todos los sábados, al condenarle, las cumplieron."
+        },
+        {
+            "id": "act13_28",
+            "speaker": "Pablo",
+            "verse": 28,
+            "text": "Y aunque no hallaron en Él causa de muerte, pidieron a Pilato que se le matase."
+        },
+        {
+            "id": "act13_29",
+            "speaker": "Pablo",
+            "verse": 29,
+            "text": "Y habiendo cumplido todas las cosas que de Él estaban escritas, quitándole del madero, le pusieron en el sepulcro."
+        },
+        {
+            "id": "act13_30",
+            "speaker": "Pablo",
+            "verse": 30,
+            "text": "Pero Dios le resucitó de los muertos."
+        },
+        {
+            "id": "act13_31",
+            "speaker": "Pablo",
+            "verse": 31,
+            "text": "Y Él fue visto muchos días por los que habían subido juntamente con Él de Galilea a Jerusalén, los cuales son sus testigos al pueblo."
+        },
+        {
+            "id": "act13_32",
+            "speaker": "Pablo",
+            "verse": 32,
+            "text": "Y nosotros os anunciamos el evangelio de aquella promesa que fue hecha a los padres,"
+        },
+        {
+            "id": "act13_33",
+            "speaker": "Pablo",
+            "verse": 33,
+            "text": "la cual Dios ha cumplido a los hijos de ellos, a nosotros; resucitando a Jesús; como también en el salmo segundo está escrito: Mi Hijo eres tú, yo te he engendrado hoy."
+        },
+        {
+            "id": "act13_34a",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y que le resucitó de los muertos para nunca más volver a corrupción, lo dijo así:"
+        },
+        {
+            "id": "act13_34b",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "Os daré las misericordias fieles de David."
+        },
+        {
+            "id": "act13_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Por eso dice también en otro salmo:"
+        },
+        {
+            "id": "act13_35b",
+            "speaker": "Pablo",
+            "verse": 35,
+            "text": "No permitirás que tu Santo vea corrupción."
+        },
+        {
+            "id": "act13_36",
+            "speaker": "Pablo",
+            "verse": 36,
+            "text": "Porque a la verdad David, habiendo servido a su propia generación por la voluntad de Dios, durmió, y fue reunido con sus padres, y vio corrupción."
+        },
+        {
+            "id": "act13_37",
+            "speaker": "Pablo",
+            "verse": 37,
+            "text": "Mas Aquél a quien Dios resucitó, no vio corrupción."
+        },
+        {
+            "id": "act13_38",
+            "speaker": "Pablo",
+            "verse": 38,
+            "text": "Os sea, pues, notorio, varones hermanos, que por Éste os es predicado el perdón de pecados,"
+        },
+        {
+            "id": "act13_39",
+            "speaker": "Pablo",
+            "verse": 39,
+            "text": "y por Él, todos los que creen, son justificados de todas las cosas que no pudieron ser justificados por la ley de Moisés."
+        },
+        {
+            "id": "act13_40a",
+            "speaker": "Pablo",
+            "verse": 40,
+            "text": "Mirad, pues, que no venga sobre vosotros lo que está dicho en los profetas:"
+        },
+        {
+            "id": "act13_41",
+            "speaker": "Dios",
+            "verse": 41,
+            "text": "Mirad, oh menospreciadores, y asombraos, y pereced: Porque yo hago una obra en vuestros días, obra que no creeréis, aunque alguien os la contare."
+        },
+        {
+            "id": "act13_sec42_8ab9",
+            "speaker": "Sistema",
+            "verse": 42,
+            "text": "Efectos del discurso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act13_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Y cuando los judíos salieron de la sinagoga, los gentiles les rogaron que el sábado siguiente les predicasen estas palabras."
+        },
+        {
+            "id": "act13_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "Y despedida la congregación, muchos de los judíos y de los religiosos prosélitos siguieron a Pablo y a Bernabé; quienes hablándoles, les persuadían a que permaneciesen en la gracia de Dios."
+        },
+        {
+            "id": "act13_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "Y el sábado siguiente se reunió casi toda la ciudad para oír la palabra de Dios."
+        },
+        {
+            "id": "act13_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Pero cuando los judíos vieron las multitudes, se llenaron de celos, y se oponían a lo que Pablo decía, contradiciendo y blasfemando."
+        },
+        {
+            "id": "act13_46a",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Entonces Pablo y Bernabé, tomando denuedo, dijeron:"
+        },
+        {
+            "id": "act13_46b",
+            "speaker": "Pablo",
+            "verse": 46,
+            "text": "A vosotros a la verdad era necesario que se os hablase primero la palabra de Dios; mas ya que la desecháis, y os juzgáis indignos de la vida eterna, he aquí, nos volvemos a los gentiles."
+        },
+        {
+            "id": "act13_47a",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "Porque así nos ha mandado el Señor, diciendo:"
+        },
+        {
+            "id": "act13_47b",
+            "speaker": "Jesús",
+            "verse": 47,
+            "text": "Te he puesto por luz de los gentiles, para que seas por salvación hasta lo último de la tierra."
+        },
+        {
+            "id": "act13_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Y los gentiles oyendo esto, se regocijaban y glorificaban la palabra del Señor; y creyeron todos los que estaban ordenados para vida eterna."
+        },
+        {
+            "id": "act13_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y la palabra del Señor era publicada por toda aquella región."
+        },
+        {
+            "id": "act13_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Mas los judíos instigaron a mujeres piadosas y honorables, y a los principales de la ciudad, y levantaron persecución contra Pablo y Bernabé, y los echaron de sus términos."
+        },
+        {
+            "id": "act13_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "Ellos entonces sacudiendo contra ellos el polvo de sus pies, se fueron a Iconio."
+        },
+        {
+            "id": "act13_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "Y los discípulos estaban llenos de gozo y del Espíritu Santo."
+        }
+    ]
+}

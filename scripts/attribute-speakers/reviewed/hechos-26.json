@@ -1,0 +1,188 @@
+[
+  {
+    "verse": 1,
+    "subId": "b",
+    "speaker": "Agripa",
+    "confidence": 0.95
+  },
+  {
+    "verse": 2,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 5,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 6,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 7,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 8,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 9,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 10,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 11,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 12,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 13,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 14,
+    "subId": "b",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 15,
+    "subId": "d",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 16,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 17,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 18,
+    "subId": "",
+    "speaker": "Jesús",
+    "confidence": 0.95
+  },
+  {
+    "verse": 19,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 20,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Festo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 25,
+    "subId": "b",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 26,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 28,
+    "subId": "b",
+    "speaker": "Agripa",
+    "confidence": 0.95
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Príncipes",
+    "confidence": 0.75
+  },
+  {
+    "verse": 32,
+    "subId": "b",
+    "speaker": "Agripa",
+    "confidence": 0.95
+  }
+]

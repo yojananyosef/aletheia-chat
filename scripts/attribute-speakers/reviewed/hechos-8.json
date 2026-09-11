@@ -1,0 +1,80 @@
+[
+  {
+    "verse": 10,
+    "subId": "b",
+    "speaker": "Multitud",
+    "confidence": 0.85
+  },
+  {
+    "verse": 19,
+    "subId": "b",
+    "speaker": "Simón",
+    "confidence": 0.95
+  },
+  {
+    "verse": 21,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 22,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Pedro",
+    "confidence": 0.95
+  },
+  {
+    "verse": 24,
+    "subId": "b",
+    "speaker": "Simón",
+    "confidence": 0.95
+  },
+  {
+    "verse": 27,
+    "subId": "",
+    "speaker": "Ángel",
+    "confidence": 0.8
+  },
+  {
+    "verse": 29,
+    "subId": "b",
+    "speaker": "Espíritu Santo",
+    "confidence": 0.95
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Felipe",
+    "confidence": 0.95
+  },
+  {
+    "verse": 31,
+    "subId": "b",
+    "speaker": "Eunuco",
+    "confidence": 0.9
+  },
+  {
+    "verse": 34,
+    "subId": "b",
+    "speaker": "Eunuco",
+    "confidence": 0.95
+  },
+  {
+    "verse": 36,
+    "subId": "b",
+    "speaker": "Eunuco",
+    "confidence": 0.95
+  },
+  {
+    "verse": 37,
+    "subId": "d",
+    "speaker": "Eunuco",
+    "confidence": 0.95
+  }
+]

@@ -11,7 +11,7 @@ capítulo para compartir y indexar.
 ## ✨ Características
 
 - **Lectura tipo chat:** la narración del Narrador avanza sola a un ritmo de lectura natural; Dios y los personajes **pausan** y esperan tu toque (con preview y botón de envío).
-- **Rutas reales por capítulo:** deep-linking (`/genesis/1`), back-button y metadata por libro/capítulo; prerenderizado estático de los 1.018 capítulos publicados con 404 para combinaciones inválidas.
+- **Rutas reales por capítulo:** deep-linking (`/genesis/1`), back-button y metadata por libro/capítulo; prerenderizado estático de los 1.046 capítulos publicados con 404 para combinaciones inválidas.
 - **Favoritos:** doble toque (o doble Enter) sobre una burbuja para marcar versículos con ❤️.
 - **Progreso:** reanuda donde dejaste cada capítulo y recuerda el último capítulo visitado por libro.
 - **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
@@ -99,7 +99,7 @@ Los capítulos viven en `public/data/[libro]/[capitulo].json`:
 ## 📜 Fuentes bíblicas y licencias
 
 El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
-`/home/j/proyectos/alethia-gateway/public/data/bibles/`:
+`/home/Johan/orca/aletheia-gateway/public/data/bibles/`:
 
 | Fuente | Libros | Uso |
 |--------|--------|-----|
@@ -111,8 +111,8 @@ El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
 > Revisa sus licencias antes de publicar el corpus. RV1909 es dominio público y es la
 > opción segura si redistribuyes la app con datos incluidos. Ver `scripts/attribute-speakers/README.md`.
 
-Estado del corpus: **43 / 66 libros publicados** (1.018 capítulos). Pendiente el Nuevo
-Testamento completo (23 libros, 171 capítulos) más los desbloqueos en `books.ts`.
+Estado del corpus: **44 / 66 libros publicados** (1.046 capítulos). Pendiente el resto del
+Nuevo Testamento (22 libros, 143 capítulos) más los desbloqueos en `books.ts`.
 
 ## 💾 Persistencia (localStorage)
 

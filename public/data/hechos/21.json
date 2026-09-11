@@ -1,0 +1,342 @@
+{
+    "book": "Hechos",
+    "chapter": 21,
+    "title": "Hechos 21",
+    "messages": [
+        {
+            "id": "act21_sec1_892e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "De Mileto a Tiro",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act21_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y aconteció que después de separarnos de ellos, zarpamos y vinimos camino directo a Cos, y al día siguiente a Rodas, y de allí a Pátara."
+        },
+        {
+            "id": "act21_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y hallando un barco que pasaba a Fenicia, nos embarcamos, y zarpamos."
+        },
+        {
+            "id": "act21_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y cuando avistamos a Chipre, dejándola a mano izquierda, navegamos a Siria, y arribamos a Tiro; porque el barco había de descargar allí su cargamento."
+        },
+        {
+            "id": "act21_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y hallando discípulos, nos quedamos allí siete días; y ellos decían a Pablo por el Espíritu, que no subiese a Jerusalén."
+        },
+        {
+            "id": "act21_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y cuando cumplimos aquellos días, partimos, y nos encaminaron todos, con sus esposas e hijos, hasta fuera de la ciudad; y puestos de rodillas en la ribera, oramos."
+        },
+        {
+            "id": "act21_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y abrazándonos unos a otros, subimos al barco, y ellos se volvieron a sus casas."
+        },
+        {
+            "id": "act21_sec7_8087",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "De Tiro a Jerusalén",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act21_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y nosotros, cumplida la navegación, vinimos de Tiro a Tolemaida; y habiendo saludado a los hermanos, nos quedamos con ellos un día."
+        },
+        {
+            "id": "act21_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y al día siguiente, partiendo Pablo y los que con él estábamos, vinimos a Cesarea; y entrando en casa de Felipe el evangelista, que era uno de los siete, posamos con él."
+        },
+        {
+            "id": "act21_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y éste tenía cuatro hijas vírgenes que profetizaban."
+        },
+        {
+            "id": "act21_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y deteniéndonos allí por muchos días, descendió de Judea un profeta llamado Agabo."
+        },
+        {
+            "id": "act21_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y cuando él vino a nosotros, tomó el cinto de Pablo, y atándose los pies y las manos, dijo:"
+        },
+        {
+            "id": "act21_11b",
+            "speaker": "Agabo",
+            "verse": 11,
+            "text": "Esto dice el Espíritu Santo: Así atarán los judíos en Jerusalén al varón de quien es este cinto, y le entregarán en manos de los gentiles."
+        },
+        {
+            "id": "act21_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando oímos esto, le rogamos nosotros y los de aquel lugar, que no subiese a Jerusalén."
+        },
+        {
+            "id": "act21_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Entonces Pablo respondió:"
+        },
+        {
+            "id": "act21_13b",
+            "speaker": "Pablo",
+            "verse": 13,
+            "text": "¿Qué hacéis llorando y quebrantándome el corazón? Porque yo estoy dispuesto no sólo a ser atado, sino aun a morir en Jerusalén por el nombre del Señor Jesús."
+        },
+        {
+            "id": "act21_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y como no le pudimos persuadir, desistimos, diciendo:"
+        },
+        {
+            "id": "act21_14b",
+            "speaker": "Discípulos",
+            "verse": 14,
+            "text": "Hágase la voluntad del Señor."
+        },
+        {
+            "id": "act21_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y después de estos días, tomando nuestro bagaje, subimos a Jerusalén."
+        },
+        {
+            "id": "act21_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y vinieron también con nosotros de Cesarea algunos de los discípulos, trayendo consigo a un Mnasón, de Chipre, un discípulo antiguo, con quien nos hospedaríamos."
+        },
+        {
+            "id": "act21_sec17_0ca6",
+            "speaker": "Sistema",
+            "verse": 17,
+            "text": "Acogida en Jerusalén",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act21_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y cuando llegamos a Jerusalén, los hermanos nos recibieron con gozo."
+        },
+        {
+            "id": "act21_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y al día siguiente Pablo entró con nosotros a ver a Jacobo, y todos los ancianos estaban presentes;"
+        },
+        {
+            "id": "act21_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y después de saludarlos, les contó una por una las cosas que Dios había hecho entre los gentiles por su ministerio."
+        },
+        {
+            "id": "act21_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y cuando ellos lo oyeron, glorificaron al Señor, y le dijeron:"
+        },
+        {
+            "id": "act21_20b",
+            "speaker": "Jacobo",
+            "verse": 20,
+            "text": "Ya ves, hermano, cuántos millares de judíos hay que han creído; y todos son celosos de la ley."
+        },
+        {
+            "id": "act21_21",
+            "speaker": "Jacobo",
+            "verse": 21,
+            "text": "Y están informados acerca de ti, que enseñas a todos los judíos que están entre los gentiles a apartarse de Moisés, diciéndoles que no deben circuncidar a sus hijos, ni andar según las costumbres."
+        },
+        {
+            "id": "act21_22",
+            "speaker": "Jacobo",
+            "verse": 22,
+            "text": "¿Qué hay, pues? La multitud se reunirá de cierto; porque oirán que has venido."
+        },
+        {
+            "id": "act21_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Haz, pues, esto que te decimos:"
+        },
+        {
+            "id": "act21_23b",
+            "speaker": "Jacobo",
+            "verse": 23,
+            "text": "Hay entre nosotros cuatro hombres que tienen voto sobre sí:"
+        },
+        {
+            "id": "act21_24",
+            "speaker": "Jacobo",
+            "verse": 24,
+            "text": "Tómalos contigo, y purifícate con ellos, y paga con ellos para que rasuren sus cabezas; y todos entenderán que no hay nada de lo que fueron informados acerca de ti; sino que tú también andas ordenadamente, y guardas la ley."
+        },
+        {
+            "id": "act21_25",
+            "speaker": "Jacobo",
+            "verse": 25,
+            "text": "Pero en cuanto a los gentiles que han creído, nosotros hemos escrito y acordado que no guarden nada de esto; solamente que se abstengan de lo que fue sacrificado a los ídolos, y de sangre, y de estrangulado y de fornicación."
+        },
+        {
+            "id": "act21_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Entonces Pablo tomó consigo aquellos hombres, y al día siguiente, habiéndose purificado con ellos, entró en el templo para anunciar el cumplimiento de los días de la purificación, hasta que una ofrenda fuese ofrecida por cada uno de ellos."
+        },
+        {
+            "id": "act21_sec27_c138",
+            "speaker": "Sistema",
+            "verse": 27,
+            "text": "E. CAUTIVIDAD DE SAN PABLO EN CESAREA Y ROMA",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act21_sec27_2718",
+            "speaker": "Sistema",
+            "verse": 27,
+            "text": "Tumulto del pueblo contra Pablo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act21_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y cuando estaban por cumplirse los siete días, los judíos de Asia, al verle en el templo, alborotaron a todo el pueblo y le echaron mano,"
+        },
+        {
+            "id": "act21_28",
+            "speaker": "Judíos",
+            "verse": 28,
+            "text": "dando voces: ¡Varones israelitas, ayudad! Éste es el hombre que por todas partes enseña a todos contra el pueblo, y la ley, y este lugar; y además ha metido a griegos en el templo, y ha profanado este santo lugar."
+        },
+        {
+            "id": "act21_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "(Porque antes habían visto con él en la ciudad a Trófimo, efesio, al cual pensaban que Pablo había metido en el templo.)"
+        },
+        {
+            "id": "act21_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Así que toda la ciudad se agitó, y se agolpó el pueblo; y tomando a Pablo, lo arrastraron fuera del templo, y en seguida cerraron las puertas."
+        },
+        {
+            "id": "act21_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Y cuando iban a matarle, fue dado aviso al tribuno de la compañía, que toda la ciudad de Jerusalén estaba alborotada."
+        },
+        {
+            "id": "act21_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Éste, de inmediato tomó soldados y centuriones, y bajó corriendo hacia ellos. Y cuando ellos vieron al tribuno y a los soldados, cesaron de golpear a Pablo."
+        },
+        {
+            "id": "act21_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces llegando el tribuno, le prendió, y le mandó atar con dos cadenas; y preguntó quién era, y qué había hecho."
+        },
+        {
+            "id": "act21_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Pero entre la multitud, unos gritaban una cosa, y otros otra; y como no podía entender nada de cierto a causa del alboroto, le mandó llevar a la fortaleza."
+        },
+        {
+            "id": "act21_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Y cuando llegó a las gradas, aconteció que fue llevado en vilo por los soldados a causa de la violencia del pueblo;"
+        },
+        {
+            "id": "act21_36a",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Porque la multitud del pueblo venía detrás, gritando:"
+        },
+        {
+            "id": "act21_36b",
+            "speaker": "Multitud",
+            "verse": 36,
+            "text": "¡Fuera con él!"
+        },
+        {
+            "id": "act21_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y cuando estaban por meter a Pablo en la fortaleza, dijo al tribuno:"
+        },
+        {
+            "id": "act21_37b",
+            "speaker": "Pablo",
+            "verse": 37,
+            "text": "¿Me permites decirte algo?"
+        },
+        {
+            "id": "act21_37c",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "act21_37d",
+            "speaker": "Tribuno",
+            "verse": 37,
+            "text": "¿Sabes griego?"
+        },
+        {
+            "id": "act21_38",
+            "speaker": "Tribuno",
+            "verse": 38,
+            "text": "¿No eres tú aquel egipcio que levantaste una sedición antes de estos días, y sacaste al desierto cuatro mil hombres sicarios?"
+        },
+        {
+            "id": "act21_39a",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Entonces Pablo le dijo:"
+        },
+        {
+            "id": "act21_39b",
+            "speaker": "Pablo",
+            "verse": 39,
+            "text": "Yo de cierto soy hombre judío, de Tarso, ciudadano de una ciudad no insignificante de Cilicia; y te ruego que me permitas hablar al pueblo."
+        },
+        {
+            "id": "act21_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Y cuando él se lo permitió, Pablo estando en pie en las gradas, hizo señal con la mano al pueblo, y hecho gran silencio, habló en lengua hebrea, diciendo:"
+        }
+    ]
+}

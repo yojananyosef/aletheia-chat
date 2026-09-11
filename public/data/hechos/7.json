@@ -1,0 +1,471 @@
+{
+    "book": "Hechos",
+    "chapter": 7,
+    "title": "Hechos 7",
+    "messages": [
+        {
+            "id": "act7_sec1_5402",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Discurso de San Esteban ante el Sinedrio",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act7_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Entonces el sumo sacerdote dijo:"
+        },
+        {
+            "id": "act7_1b",
+            "speaker": "Sumo sacerdote",
+            "verse": 1,
+            "text": "¿Es esto así?"
+        },
+        {
+            "id": "act7_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y él dijo:"
+        },
+        {
+            "id": "act7_2b",
+            "speaker": "Esteban",
+            "verse": 2,
+            "text": "Varones hermanos y padres, oíd: El Dios de gloria apareció a nuestro padre Abraham, estando en Mesopotamia, antes que morase en Harán,"
+        },
+        {
+            "id": "act7_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y le dijo:"
+        },
+        {
+            "id": "act7_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "Sal de tu tierra y de tu parentela, y ven a la tierra que te mostraré."
+        },
+        {
+            "id": "act7_4",
+            "speaker": "Sumo sacerdote",
+            "verse": 4,
+            "text": "Entonces salió de la tierra de los caldeos, y habitó en Harán: y de allí, muerto su padre, Él le trasladó a esta tierra, en la cual vosotros habitáis ahora."
+        },
+        {
+            "id": "act7_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y no le dio herencia en ella, ni siquiera para asentar un pie; mas le prometió que se la daría en posesión a él, y a su simiente después de él, cuando él aún no tenía hijo."
+        },
+        {
+            "id": "act7_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y le dijo Dios así:"
+        },
+        {
+            "id": "act7_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Que su simiente sería extranjera en tierra ajena, y que los reducirían a servidumbre y los maltratarían por cuatrocientos años."
+        },
+        {
+            "id": "act7_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "Mas yo juzgaré, dijo Dios, a la nación a la cual serán siervos; y después de esto saldrán y me servirán en este lugar."
+        },
+        {
+            "id": "act7_8",
+            "speaker": "Esteban",
+            "verse": 8,
+            "text": "Y le dio el pacto de la circuncisión; y así Abraham engendró a Isaac y le circuncidó al octavo día; e Isaac a Jacob, y Jacob a los doce patriarcas."
+        },
+        {
+            "id": "act7_9",
+            "speaker": "Esteban",
+            "verse": 9,
+            "text": "Y los patriarcas, movidos de envidia, vendieron a José para Egipto; pero Dios era con él,"
+        },
+        {
+            "id": "act7_10",
+            "speaker": "Esteban",
+            "verse": 10,
+            "text": "y le libró de todas sus aflicciones, y le dio gracia y sabiduría en la presencia de Faraón, rey de Egipto, el cual le puso por gobernador sobre Egipto y sobre toda su casa."
+        },
+        {
+            "id": "act7_11",
+            "speaker": "Esteban",
+            "verse": 11,
+            "text": "Vino entonces hambre en toda la tierra de Egipto y de Canaán, y grande aflicción; y nuestros padres no hallaban alimentos."
+        },
+        {
+            "id": "act7_12",
+            "speaker": "Esteban",
+            "verse": 12,
+            "text": "Y cuando Jacob oyó que había trigo en Egipto, envió a nuestros padres la primera vez."
+        },
+        {
+            "id": "act7_13",
+            "speaker": "Esteban",
+            "verse": 13,
+            "text": "Y en la segunda, José se dio a conocer a sus hermanos, y el linaje de José fue dado a conocer a Faraón."
+        },
+        {
+            "id": "act7_14",
+            "speaker": "Esteban",
+            "verse": 14,
+            "text": "Y enviando José, hizo venir a su padre Jacob, y a toda su parentela, en número de setenta y cinco almas."
+        },
+        {
+            "id": "act7_15",
+            "speaker": "Esteban",
+            "verse": 15,
+            "text": "Así descendió Jacob a Egipto, donde murió él y nuestros padres;"
+        },
+        {
+            "id": "act7_16",
+            "speaker": "Esteban",
+            "verse": 16,
+            "text": "y fueron trasladados a Siquem, y puestos en el sepulcro que compró Abraham a precio de dinero de los hijos de Hamor de Siquem."
+        },
+        {
+            "id": "act7_17",
+            "speaker": "Esteban",
+            "verse": 17,
+            "text": "Pero cuando se acercaba el tiempo de la promesa que Dios había jurado a Abraham, el pueblo creció y se multiplicó en Egipto,"
+        },
+        {
+            "id": "act7_18",
+            "speaker": "Esteban",
+            "verse": 18,
+            "text": "hasta que se levantó otro rey que no conocía a José."
+        },
+        {
+            "id": "act7_19",
+            "speaker": "Esteban",
+            "verse": 19,
+            "text": "Éste, usando de astucia con nuestro linaje, maltrató a nuestros padres, echando a la muerte a sus niños para que no viviesen."
+        },
+        {
+            "id": "act7_20",
+            "speaker": "Esteban",
+            "verse": 20,
+            "text": "En aquel mismo tiempo nació Moisés, y fue hermoso a Dios; y fue criado tres meses en casa de su padre."
+        },
+        {
+            "id": "act7_21",
+            "speaker": "Esteban",
+            "verse": 21,
+            "text": "Pero siendo expuesto a la muerte, la hija de Faraón le tomó, y le crió como a hijo suyo."
+        },
+        {
+            "id": "act7_22",
+            "speaker": "Esteban",
+            "verse": 22,
+            "text": "Y Moisés fue instruido en toda la sabiduría de los egipcios; y era poderoso en palabras y en hechos."
+        },
+        {
+            "id": "act7_23",
+            "speaker": "Esteban",
+            "verse": 23,
+            "text": "Y cuando cumplió la edad de cuarenta años, le vino a su corazón el visitar a sus hermanos, los hijos de Israel."
+        },
+        {
+            "id": "act7_24",
+            "speaker": "Esteban",
+            "verse": 24,
+            "text": "Y viendo a uno que era maltratado, lo defendió, y matando al egipcio, vengó al oprimido."
+        },
+        {
+            "id": "act7_25",
+            "speaker": "Esteban",
+            "verse": 25,
+            "text": "Y él pensaba que sus hermanos entendían que Dios les había de dar libertad por su mano; pero ellos no lo habían entendido."
+        },
+        {
+            "id": "act7_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y al día siguiente, riñendo ellos, se les mostró, y los ponía en paz, diciendo:"
+        },
+        {
+            "id": "act7_26b",
+            "speaker": "Esteban",
+            "verse": 26,
+            "text": "Varones, hermanos sois, ¿por qué os maltratáis el uno al otro?"
+        },
+        {
+            "id": "act7_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Entonces el que maltrataba a su prójimo, le empujó, diciendo:"
+        },
+        {
+            "id": "act7_27b",
+            "speaker": "Esteban",
+            "verse": 27,
+            "text": "¿Quién te ha puesto por príncipe y juez sobre nosotros?"
+        },
+        {
+            "id": "act7_28",
+            "speaker": "Esteban",
+            "verse": 28,
+            "text": "¿Quieres tú matarme, como mataste ayer al egipcio?"
+        },
+        {
+            "id": "act7_29",
+            "speaker": "Esteban",
+            "verse": 29,
+            "text": "Al oír esta palabra, Moisés huyó, y se hizo extranjero en tierra de Madián, donde engendró dos hijos."
+        },
+        {
+            "id": "act7_30",
+            "speaker": "Esteban",
+            "verse": 30,
+            "text": "Y pasados cuarenta años, el Ángel del Señor le apareció en el desierto del monte Sinaí, en una llama de fuego en una zarza."
+        },
+        {
+            "id": "act7_31",
+            "speaker": "Esteban",
+            "verse": 31,
+            "text": "Y mirándolo Moisés, se maravilló de la visión; y acercándose para observar, vino a él la voz del Señor,"
+        },
+        {
+            "id": "act7_32a",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "act7_32b",
+            "speaker": "Dios",
+            "verse": 32,
+            "text": "Yo soy el Dios de tus padres, el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob. Y Moisés, temblando, no se atrevía a mirar."
+        },
+        {
+            "id": "act7_33a",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Entonces le dijo el Señor:"
+        },
+        {
+            "id": "act7_33b",
+            "speaker": "Dios",
+            "verse": 33,
+            "text": "Quita los zapatos de tus pies, porque el lugar en que estás tierra santa es."
+        },
+        {
+            "id": "act7_34",
+            "speaker": "Dios",
+            "verse": 34,
+            "text": "Ciertamente, he visto la aflicción de mi pueblo que está en Egipto, y he oído su gemido, y he descendido para librarlos. Ahora, pues, ven, te enviaré a Egipto."
+        },
+        {
+            "id": "act7_35a",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "A este Moisés, al cual habían rechazado, diciendo:"
+        },
+        {
+            "id": "act7_35b",
+            "speaker": "Esteban",
+            "verse": 35,
+            "text": "¿Quién te ha puesto por príncipe y juez?, a éste envió Dios por príncipe y libertador por mano del Ángel que le apareció en la zarza."
+        },
+        {
+            "id": "act7_36",
+            "speaker": "Esteban",
+            "verse": 36,
+            "text": "Éste los sacó, habiendo hecho prodigios y señales en la tierra de Egipto, y en el Mar Rojo, y en el desierto por cuarenta años."
+        },
+        {
+            "id": "act7_37a",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Éste es aquel Moisés, el cual dijo a los hijos de Israel:"
+        },
+        {
+            "id": "act7_37b",
+            "speaker": "Esteban",
+            "verse": 37,
+            "text": "Profeta os levantará el Señor Dios vuestro de entre vuestros hermanos, como yo; a Él oiréis."
+        },
+        {
+            "id": "act7_38a",
+            "speaker": "Esteban",
+            "verse": 38,
+            "text": "Éste es aquél que estuvo en la iglesia en el desierto con el Ángel que le hablaba en el monte Sinaí, y con nuestros padres; y recibió los oráculos de vida para dárnoslos:"
+        },
+        {
+            "id": "act7_39",
+            "speaker": "Esteban",
+            "verse": 39,
+            "text": "Al cual nuestros padres no quisieron obedecer; antes le desecharon, y en sus corazones se volvieron a Egipto,"
+        },
+        {
+            "id": "act7_40a",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "Diciendo a Aarón:"
+        },
+        {
+            "id": "act7_40b",
+            "speaker": "Esteban",
+            "verse": 40,
+            "text": "Haznos dioses que vayan delante de nosotros; porque a este Moisés, que nos sacó de tierra de Egipto, no sabemos qué le haya acontecido."
+        },
+        {
+            "id": "act7_41",
+            "speaker": "Esteban",
+            "verse": 41,
+            "text": "Y en aquellos días hicieron un becerro, y ofrecieron sacrificio al ídolo, y se regocijaron en la obra de sus manos."
+        },
+        {
+            "id": "act7_42",
+            "speaker": "Esteban",
+            "verse": 42,
+            "text": "Entonces Dios se apartó, y los entregó a que sirviesen al ejército del cielo; como está escrito en el libro de los profetas: ¿Acaso me ofrecisteis víctimas y sacrificios en el desierto por cuarenta años, oh casa de Israel?"
+        },
+        {
+            "id": "act7_43",
+            "speaker": "Dios",
+            "verse": 43,
+            "text": "Antes, trajisteis el tabernáculo de Moloc, y la estrella de vuestro dios Remfan: Figuras que os hicisteis para adorarlas: Os transportaré, pues, más allá de Babilonia."
+        },
+        {
+            "id": "act7_44",
+            "speaker": "Esteban",
+            "verse": 44,
+            "text": "Nuestros padres tuvieron el tabernáculo del testimonio en el desierto, tal como Él lo había ordenado cuando dijo a Moisés que lo hiciese según el modelo que había visto."
+        },
+        {
+            "id": "act7_45",
+            "speaker": "Esteban",
+            "verse": 45,
+            "text": "El cual también nuestros padres introdujeron con Jesús en la posesión de los gentiles, a los cuales Dios echó de la presencia de nuestros padres, hasta los días de David;"
+        },
+        {
+            "id": "act7_46",
+            "speaker": "Esteban",
+            "verse": 46,
+            "text": "el cual halló gracia delante de Dios, y pidió hacer tabernáculo para el Dios de Jacob."
+        },
+        {
+            "id": "act7_47",
+            "speaker": "Esteban",
+            "verse": 47,
+            "text": "Mas Salomón le edificó casa."
+        },
+        {
+            "id": "act7_48a",
+            "speaker": "Esteban",
+            "verse": 48,
+            "text": "Si bien el Altísimo no habita en templos hechos de mano; como el profeta dice:"
+        },
+        {
+            "id": "act7_49a",
+            "speaker": "Dios",
+            "verse": 49,
+            "text": "El cielo es mi trono, y la tierra es el estrado de mis pies. ¿Qué casa me edificaréis? dice el Señor:"
+        },
+        {
+            "id": "act7_49b",
+            "speaker": "Dios",
+            "verse": 49,
+            "text": "¿O cuál es el lugar de mi reposo?"
+        },
+        {
+            "id": "act7_50",
+            "speaker": "Dios",
+            "verse": 50,
+            "text": "¿No hizo mi mano todas estas cosas?"
+        },
+        {
+            "id": "act7_51",
+            "speaker": "Esteban",
+            "verse": 51,
+            "text": "Duros de cerviz, e incircuncisos de corazón y de oídos, vosotros resistís siempre al Espíritu Santo; como vuestros padres, así también vosotros."
+        },
+        {
+            "id": "act7_52",
+            "speaker": "Esteban",
+            "verse": 52,
+            "text": "¿A cuál de los profetas no persiguieron vuestros padres? Y mataron a los que antes anunciaron la venida del Justo, del cual vosotros ahora habéis sido entregadores y matadores;"
+        },
+        {
+            "id": "act7_53",
+            "speaker": "Esteban",
+            "verse": 53,
+            "text": "que recibisteis la ley por disposición de ángeles, y no la guardasteis."
+        },
+        {
+            "id": "act7_sec54_60fb",
+            "speaker": "Sistema",
+            "verse": 54,
+            "text": "Martirio de Esteban",
+            "isSectionTitle": true
+        },
+        {
+            "id": "act7_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y cuando oyeron estas cosas, se enfurecieron en sus corazones, y crujían los dientes contra él."
+        },
+        {
+            "id": "act7_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "Más él, lleno del Espíritu Santo, puestos los ojos en el cielo, vio la gloria de Dios, y a Jesús en pie a la diestra de Dios,"
+        },
+        {
+            "id": "act7_56a",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "Y dijo:"
+        },
+        {
+            "id": "act7_56b",
+            "speaker": "Esteban",
+            "verse": 56,
+            "text": "He aquí, veo los cielos abiertos, y al Hijo del Hombre en pie a la diestra de Dios."
+        },
+        {
+            "id": "act7_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Entonces dando grandes voces, y tapándose sus oídos, arremetieron a una contra él."
+        },
+        {
+            "id": "act7_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Y echándole fuera de la ciudad, le apedrearon; y los testigos pusieron sus vestiduras a los pies de un joven que se llamaba Saulo."
+        },
+        {
+            "id": "act7_59a",
+            "speaker": "Narrador",
+            "verse": 59,
+            "text": "Y apedrearon a Esteban, mientras él invocaba a Dios y decía:"
+        },
+        {
+            "id": "act7_59b",
+            "speaker": "Esteban",
+            "verse": 59,
+            "text": "Señor Jesús, recibe mi espíritu."
+        },
+        {
+            "id": "act7_60a",
+            "speaker": "Narrador",
+            "verse": 60,
+            "text": "Y arrodillándose, clamó a gran voz:"
+        },
+        {
+            "id": "act7_60b",
+            "speaker": "Esteban",
+            "verse": 60,
+            "text": "Señor, no les tomes en cuenta este pecado. Y habiendo dicho esto, durmió."
+        }
+    ]
+}

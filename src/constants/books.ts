@@ -112,7 +112,12 @@ export const BIBLE_BOOKS: BookInfo[] = [
     },
 
     // --- HISTORIA NT ---
-    { id: 'hechos', name: 'Hechos', availableChapters: [], isLocked: true, category: 'Historia', description: 'El nacimiento y expansión de la iglesia.', participants: ['Pedro', 'Pablo', 'Espíritu Santo'] },
+    {
+        id: 'hechos', name: 'Hechos',
+        availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28],
+        category: 'Historia', description: 'El nacimiento y expansión de la iglesia.',
+        participants: ['Dios', 'Narrador', 'Sistema', 'Jesús', 'Espíritu Santo', 'Ángel', 'Ángeles', 'Pedro', 'Pablo', 'Saulo', 'Esteban', 'Felipe', 'Jacobo', 'Ananías', 'Safira', 'Gamaliel', 'Simón', 'Cornelio', 'Lidia', 'Agabo', 'Tértulo', 'Félix', 'Festo', 'Agripa', 'Galión', 'Demetrio', 'Sumo sacerdote', 'Tribuno', 'Centurión', 'Escribano', 'Escribas', 'Príncipes', 'Oficiales', 'Alguaciles', 'Mensajero', 'Discípulos', 'Multitud', 'Pueblo', 'Judíos', 'Filósofos', 'Testigos', 'Hombres', 'Hombre', 'Joven', 'Eunuco', 'Demonio', 'Carcelero', 'Adivina']
+    },
 
     // --- EPÍSTOLAS DE PABLO ---
     { id: 'romanos', name: 'Romanos', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'La justicia de Dios por medio de la fe.', participants: ['Pablo'] },
