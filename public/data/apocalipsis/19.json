@@ -1,0 +1,214 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 19,
+    "title": "Apocalipsis 19",
+    "messages": [
+        {
+            "id": "rev19_sec1_bc1d",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Aleluya en el cielo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev19_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y después de estas cosas oí una gran voz de gran multitud en el cielo, que decía:"
+        },
+        {
+            "id": "rev19_1b",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¡Aleluya! Salvación y honra y gloria y poder al Señor nuestro Dios."
+        },
+        {
+            "id": "rev19_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque sus juicios son justos y verdaderos; porque Él ha juzgado a la gran ramera, que ha corrompido la tierra con su fornicación, y ha vengado la sangre de sus siervos de la mano de ella."
+        },
+        {
+            "id": "rev19_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y otra vez dijeron:"
+        },
+        {
+            "id": "rev19_3b",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "¡Aleluya! Y su humo subió para siempre jamás."
+        },
+        {
+            "id": "rev19_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y los veinticuatro ancianos y los cuatro seres vivientes se postraron en tierra, y adoraron a Dios que estaba sentado sobre el trono, diciendo:"
+        },
+        {
+            "id": "rev19_4b",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Amén: Aleluya."
+        },
+        {
+            "id": "rev19_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y salió una voz del trono, que decía:"
+        },
+        {
+            "id": "rev19_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Load a nuestro Dios todos sus siervos, y los que le teméis, así pequeños como grandes."
+        },
+        {
+            "id": "rev19_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y oí como la voz de una gran multitud, y como el estruendo de muchas aguas, y como la voz de grandes truenos, diciendo:"
+        },
+        {
+            "id": "rev19_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "¡Aleluya, porque reina el Señor Dios Todopoderoso!"
+        },
+        {
+            "id": "rev19_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Gocémonos y alegrémonos y démosle gloria; porque han venido las bodas del Cordero, y su esposa se ha aparejado."
+        },
+        {
+            "id": "rev19_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y a ella se le ha concedido que se vista de lino fino, limpio y resplandeciente; porque el lino fino es la justicia de los santos."
+        },
+        {
+            "id": "rev19_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y él me dijo:"
+        },
+        {
+            "id": "rev19_9b",
+            "speaker": "Ángeles",
+            "verse": 9,
+            "text": "Escribe: Bienaventurados los que son llamados a la cena de las bodas del Cordero."
+        },
+        {
+            "id": "rev19_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "rev19_9d",
+            "speaker": "Ángeles",
+            "verse": 9,
+            "text": "Éstas son palabras verdaderas de Dios."
+        },
+        {
+            "id": "rev19_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y yo me postré a sus pies para adorarle. Y él me dijo:"
+        },
+        {
+            "id": "rev19_10b",
+            "speaker": "Ángeles",
+            "verse": 10,
+            "text": "Mira, no lo hagas; yo soy consiervo tuyo, y de tus hermanos que tienen el testimonio de Jesús. Adora a Dios; porque el testimonio de Jesús es el espíritu de la profecía."
+        },
+        {
+            "id": "rev19_sec11_c9b2",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "CRISTO REY",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev19_sec11_586a",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "El triunfo de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev19_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y vi el cielo abierto; y he aquí un caballo blanco, y el que estaba sentado sobre él, era llamado Fiel y Verdadero, y en justicia juzga y pelea."
+        },
+        {
+            "id": "rev19_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y sus ojos eran como llama de fuego, y había en su cabeza muchas coronas; y tenía un nombre escrito que ninguno conocía sino Él mismo."
+        },
+        {
+            "id": "rev19_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y estaba vestido de una ropa teñida en sangre; y su nombre es llamado EL VERBO DE DIOS."
+        },
+        {
+            "id": "rev19_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y los ejércitos que están en el cielo le seguían en caballos blancos, vestidos de lino fino, blanco y limpio."
+        },
+        {
+            "id": "rev19_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y de su boca sale una espada aguda, para herir con ella a las naciones; y Él las regirá con vara de hierro; y Él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso."
+        },
+        {
+            "id": "rev19_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y en su vestidura y en su muslo tiene escrito este nombre: REY DE REYES Y SEÑOR DE SEÑORES."
+        },
+        {
+            "id": "rev19_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y vi a un ángel que estaba en pie en el sol, y clamó a gran voz, diciendo a todas las aves que volaban por medio del cielo:"
+        },
+        {
+            "id": "rev19_17b",
+            "speaker": "Ángeles",
+            "verse": 17,
+            "text": "Venid, y congregaos a la cena del gran Dios,"
+        },
+        {
+            "id": "rev19_18",
+            "speaker": "Ángeles",
+            "verse": 18,
+            "text": "para que comáis carnes de reyes, y carnes de capitanes, y carnes de fuertes, y carnes de caballos, y de los que están sentados sobre ellos; y carnes de todos, libres y siervos, pequeños y grandes."
+        },
+        {
+            "id": "rev19_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y vi a la bestia, a los reyes de la tierra y a sus ejércitos, reunidos para hacer guerra contra el que estaba sentado sobre el caballo, y contra su ejército."
+        },
+        {
+            "id": "rev19_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y la bestia fue apresada, y con ella el falso profeta que había hecho los milagros delante de ella, con los cuales había engañado a los que recibieron la marca de la bestia, y habían adorado su imagen. Estos dos fueron lanzados vivos dentro de un lago de fuego ardiendo con azufre."
+        },
+        {
+            "id": "rev19_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y los demás fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo, y todas las aves fueron saciadas de las carnes de ellos."
+        }
+    ]
+}

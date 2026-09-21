@@ -1,0 +1,216 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 2,
+    "title": "Apocalipsis 2",
+    "messages": [
+        {
+            "id": "rev2_sec1_5802",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "LAS SIETE CARTAS",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev2_sec1_7984",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Carta a la iglesia de Éfeso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev2_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Escribe al ángel de la iglesia de ÉFESO: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice estas cosas:"
+        },
+        {
+            "id": "rev2_2",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "Yo conozco tus obras, y tu trabajo, y tu paciencia; y que no puedes soportar a los malos, y has probado a los que se dicen ser apóstoles y no lo son, y los has hallado mentirosos;"
+        },
+        {
+            "id": "rev2_3",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "y has sufrido, y tienes paciencia, y has trabajado por mi nombre, y no has desfallecido."
+        },
+        {
+            "id": "rev2_4",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Pero tengo contra ti, que has dejado tu primer amor."
+        },
+        {
+            "id": "rev2_5",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré pronto a ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido."
+        },
+        {
+            "id": "rev2_6",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "Pero tienes esto, que aborreces las obras de los nicolaítas, las cuales yo también aborrezco."
+        },
+        {
+            "id": "rev2_7",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, le daré a comer del árbol de la vida, el cual está en medio del paraíso de Dios."
+        },
+        {
+            "id": "rev2_sec8_b085",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "A la iglesia de Esmirna",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev2_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y escribe al ángel de la iglesia en ESMIRNA: El primero y el postrero, que estuvo muerto y vive, dice estas cosas:"
+        },
+        {
+            "id": "rev2_9",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "Yo conozco tus obras, y tu tribulación, y tu pobreza (pero tú eres rico), y la blasfemia de los que se dicen ser judíos, y no lo son, mas son sinagoga de Satanás."
+        },
+        {
+            "id": "rev2_10",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "No tengas ningún temor de las cosas que has de padecer. He aquí, el diablo echará a algunos de vosotros a la cárcel, para que seáis probados; y tendréis tribulación de diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida."
+        },
+        {
+            "id": "rev2_11",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. El que venciere no recibirá daño de la muerte segunda."
+        },
+        {
+            "id": "rev2_sec12_f4ea",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "A la iglesia de Pérgamo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev2_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y escribe al ángel de la iglesia en PÉRGAMO: El que tiene la espada aguda de dos filos, dice estas cosas:"
+        },
+        {
+            "id": "rev2_13",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "Yo conozco tus obras, y dónde moras, donde está la silla de Satanás; y retienes mi nombre, y no has negado mi fe, ni aun en los días en que Antipas fue mi fiel mártir, el cual fue muerto entre vosotros, donde Satanás mora."
+        },
+        {
+            "id": "rev2_14",
+            "speaker": "Jesús",
+            "verse": 14,
+            "text": "Pero tengo unas pocas cosas contra ti; que tú tienes ahí a los que retienen la doctrina de Balaam, el cual enseñaba a Balac a poner tropiezo delante de los hijos de Israel, a comer de cosas sacrificadas a los ídolos, y a cometer fornicación."
+        },
+        {
+            "id": "rev2_15",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Así también tú tienes a los que retienen la doctrina de los nicolaítas, la cual yo aborrezco."
+        },
+        {
+            "id": "rev2_16",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Arrepiéntete, porque si no, vendré pronto a ti, y pelearé contra ellos con la espada de mi boca."
+        },
+        {
+            "id": "rev2_17",
+            "speaker": "Jesús",
+            "verse": 17,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, daré a comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita un nombre nuevo escrito, el cual ninguno conoce sino aquel que lo recibe."
+        },
+        {
+            "id": "rev2_sec18_5016",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "A la iglesia de Tiatira",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev2_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y escribe al ángel de la iglesia en TIATIRA: El Hijo de Dios, que tiene sus ojos como llama de fuego, y sus pies semejantes al latón fino, dice estas cosas:"
+        },
+        {
+            "id": "rev2_19",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Yo conozco tus obras, y caridad, y servicio, y fe, y tu paciencia, y que tus obras postreras son más que las primeras."
+        },
+        {
+            "id": "rev2_20",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "Pero tengo unas pocas cosas contra ti; porque permites a esa mujer Jezabel, que se dice profetisa, enseñar y seducir a mis siervos a fornicar y a comer cosas sacrificadas a los ídolos."
+        },
+        {
+            "id": "rev2_21",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Y le he dado tiempo para que se arrepienta de su fornicación; y no se ha arrepentido."
+        },
+        {
+            "id": "rev2_22",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "He aquí, yo la arrojaré en cama, y a los que adulteran con ella, en muy grande tribulación, si no se arrepienten de sus obras."
+        },
+        {
+            "id": "rev2_23",
+            "speaker": "Jesús",
+            "verse": 23,
+            "text": "Y heriré a sus hijos con muerte; y todas las iglesias sabrán que yo soy el que escudriño los riñones y los corazones; y daré a cada uno de vosotros según sus obras."
+        },
+        {
+            "id": "rev2_24",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Pero a vosotros digo, y a los demás en Tiatira, a cuantos no tienen esta doctrina, y no han conocido lo que ellos llaman las profundidades de Satanás. No pondré sobre vosotros otra carga."
+        },
+        {
+            "id": "rev2_25",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Pero lo que tenéis, retenedlo hasta que yo venga."
+        },
+        {
+            "id": "rev2_26",
+            "speaker": "Jesús",
+            "verse": 26,
+            "text": "Y al que venciere y guardare mis obras hasta el fin, yo le daré potestad sobre las naciones;"
+        },
+        {
+            "id": "rev2_27",
+            "speaker": "Jesús",
+            "verse": 27,
+            "text": "y las regirá con vara de hierro, y serán quebradas como vaso de alfarero; como también yo he recibido de mi Padre;"
+        },
+        {
+            "id": "rev2_28",
+            "speaker": "Jesús",
+            "verse": 28,
+            "text": "y le daré la estrella de la mañana."
+        },
+        {
+            "id": "rev2_29",
+            "speaker": "Jesús",
+            "verse": 29,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias."
+        }
+    ]
+}

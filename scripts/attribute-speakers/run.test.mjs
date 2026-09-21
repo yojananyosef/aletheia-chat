@@ -483,6 +483,21 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(jd.messages.some(m => m.id.startsWith('jud1_')), 'ids con prefijo jud');
     });
 
+    it('REV Cristo en cartas (2-3), oráculos a Dios, ángeles a Ángeles; id rev', () => {
+        const r1 = run('apocalipsis', 'REV', 1);
+        assert.equal(speakerOf(r1.messages, 11, 'b'), 'Dios'); // revisado a Jesús (voz trompeta)
+        assert.equal(speakerOf(r1.messages, 17, 'b'), 'Dios'); // revisado a Jesús ("estuve muerto")
+        const r2 = run('apocalipsis', 'REV', 2);
+        assert.equal(speakerOf(r2.messages, 2, ''), 'Narrador'); // carta Éfeso a Jesús
+        const r4 = run('apocalipsis', 'REV', 4);
+        assert.equal(speakerOf(r4.messages, 8, 'b'), 'Dios'); // revisado a Narrador (trisagio)
+        const r7 = run('apocalipsis', 'REV', 7);
+        assert.equal(speakerOf(r7.messages, 14, 'b'), 'Dios'); // revisado a Juan ("tú lo sabes")
+        const r22 = run('apocalipsis', 'REV', 22);
+        assert.equal(speakerOf(r22.messages, 20, 'b'), 'Dios'); // revisado a Jesús ("vengo en breve")
+        assert.ok(r1.messages.some(m => m.id.startsWith('rev1_')), 'ids con prefijo rev');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

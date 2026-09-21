@@ -1,0 +1,82 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 15,
+    "title": "Apocalipsis 15",
+    "messages": [
+        {
+            "id": "rev15_sec1_ccfc",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "LAS SIETE ÚLTIMAS PLAGAS — LAS SIETE COPAS",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev15_sec1_5766",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Himno de los vencedores de la bestia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vi en el cielo otra señal, grande y admirable; siete ángeles que tenían las siete plagas postreras; porque en ellas es consumada la ira de Dios."
+        },
+        {
+            "id": "rev15_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y vi como un mar de vidrio mezclado con fuego; y los que habían alcanzado la victoria sobre la bestia, y sobre su imagen, y sobre su marca, y sobre el número de su nombre, en pie sobre el mar de vidrio, teniendo las arpas de Dios."
+        },
+        {
+            "id": "rev15_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y cantan el cántico de Moisés siervo de Dios, y el cántico del Cordero, diciendo:"
+        },
+        {
+            "id": "rev15_3b",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Grandes y maravillosas son tus obras, Señor Dios Todopoderoso; justos y verdaderos son tus caminos, Rey de los santos."
+        },
+        {
+            "id": "rev15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "¿Quién no te temerá, oh Señor, y glorificará tu nombre? pues sólo tú eres santo; por lo cual todas las naciones vendrán, y adorarán delante de ti, porque tus juicios se han manifestado."
+        },
+        {
+            "id": "rev15_sec5_c772",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "Entrega de las copas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y después de estas cosas miré, y he aquí el templo del tabernáculo del testimonio fue abierto en el cielo;"
+        },
+        {
+            "id": "rev15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y salieron del templo los siete ángeles, que tenían las siete plagas, vestidos de un lino puro y resplandeciente, y ceñidos alrededor del pecho con cintos de oro."
+        },
+        {
+            "id": "rev15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y uno de los cuatro seres vivientes dio a los siete ángeles siete copas de oro, llenas de la ira de Dios, que vive por siempre jamás."
+        },
+        {
+            "id": "rev15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y el templo se llenó con el humo de la gloria de Dios, y de su poder; y nadie podía entrar en el templo, hasta que fuesen consumadas las siete plagas de los siete ángeles."
+        }
+    ]
+}

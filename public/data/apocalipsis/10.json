@@ -1,0 +1,111 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 10,
+    "title": "Apocalipsis 10",
+    "messages": [
+        {
+            "id": "rev10_sec1_a8d4",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "El libro profético",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vi otro ángel fuerte descender del cielo, envuelto en una nube, y un arco iris sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego."
+        },
+        {
+            "id": "rev10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y tenía en su mano un librito abierto; y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra;"
+        },
+        {
+            "id": "rev10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y clamó con gran voz, como cuando un león ruge; y cuando hubo clamado, siete truenos emitieron sus voces."
+        },
+        {
+            "id": "rev10_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y cuando los siete truenos hubieron emitido sus voces, yo iba a escribir; y oí una voz del cielo que me decía:"
+        },
+        {
+            "id": "rev10_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Sella las cosas que los siete truenos han dicho, y no las escribas."
+        },
+        {
+            "id": "rev10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el ángel que vi en pie sobre el mar y sobre la tierra, levantó su mano al cielo,"
+        },
+        {
+            "id": "rev10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y juró por el que vive para siempre jamás, que creó el cielo y las cosas que están en él, y la tierra y las cosas que están en ella, y el mar y las cosas que están en él, que el tiempo no sería más."
+        },
+        {
+            "id": "rev10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero en los días de la voz del séptimo ángel, cuando él comience a tocar la trompeta, el misterio de Dios será consumado, como Él lo anunció a sus siervos los profetas."
+        },
+        {
+            "id": "rev10_sec8_572d",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "El apóstol come el libro",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev10_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y la voz que oí del cielo habló otra vez conmigo, y dijo:"
+        },
+        {
+            "id": "rev10_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Ve y toma el librito que está abierto en la mano del ángel que está en pie sobre el mar y sobre la tierra."
+        },
+        {
+            "id": "rev10_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y fui al ángel, y le dije:"
+        },
+        {
+            "id": "rev10_9b",
+            "speaker": "Ángeles",
+            "verse": 9,
+            "text": "Dame el librito; y él me dijo: Toma, y cómetelo; y te amargará tu vientre, pero en tu boca será dulce como la miel."
+        },
+        {
+            "id": "rev10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y tomé el librito de la mano del ángel, y lo comí; y en mi boca fue dulce como la miel; y cuando lo hube comido, amargó mi vientre."
+        },
+        {
+            "id": "rev10_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y él me dijo:"
+        },
+        {
+            "id": "rev10_11b",
+            "speaker": "Ángeles",
+            "verse": 11,
+            "text": "Es necesario que profetices otra vez ante muchos pueblos, y naciones, y lenguas, y reyes."
+        }
+    ]
+}

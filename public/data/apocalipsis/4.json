@@ -1,0 +1,99 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 4,
+    "title": "Apocalipsis 4",
+    "messages": [
+        {
+            "id": "rev4_sec1_2674",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "LOS SIETE SELLOS",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev4_sec1_f8f1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "El trono de Dios",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev4_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Después de estas cosas miré, y he aquí una puerta abierta en el cielo; y la primera voz que oí, era como de trompeta que hablaba conmigo, diciendo:"
+        },
+        {
+            "id": "rev4_1b",
+            "speaker": "Jesús",
+            "verse": 1,
+            "text": "Sube acá, y yo te mostraré las cosas que han de ser después de éstas."
+        },
+        {
+            "id": "rev4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y al instante estaba yo en el Espíritu; y he aquí, un trono que estaba puesto en el cielo, y uno sentado sobre el trono."
+        },
+        {
+            "id": "rev4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y el que estaba sentado, era al parecer semejante al jaspe y a la piedra de sardonia; y había alrededor del trono un arco iris, semejante en aspecto a la esmeralda."
+        },
+        {
+            "id": "rev4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y alrededor del trono había veinticuatro sillas; y vi sobre las sillas veinticuatro ancianos sentados, vestidos de ropas blancas; y tenían sobre sus cabezas coronas de oro."
+        },
+        {
+            "id": "rev4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y del trono salían relámpagos y truenos y voces; y delante del trono ardían siete lámparas de fuego, las cuales son los siete Espíritus de Dios."
+        },
+        {
+            "id": "rev4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y delante del trono había un mar de vidrio semejante al cristal; y en medio del trono, y alrededor del trono, cuatro seres vivientes llenos de ojos delante y detrás."
+        },
+        {
+            "id": "rev4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y el primer ser viviente era semejante a un león; y el segundo ser viviente era semejante a un becerro; y el tercer ser viviente tenía la cara como de hombre; y el cuarto ser viviente era semejante a un águila volando."
+        },
+        {
+            "id": "rev4_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y los cuatro seres vivientes tenían cada uno seis alas alrededor, y por dentro estaban llenos de ojos; y no reposaban día y noche, diciendo:"
+        },
+        {
+            "id": "rev4_8b",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Santo, santo, santo, Señor Dios Todopoderoso, que era, y que es, y que ha de venir."
+        },
+        {
+            "id": "rev4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cuando aquellos seres vivientes dan gloria y honra y gracias al que está sentado en el trono, al que vive para siempre jamás,"
+        },
+        {
+            "id": "rev4_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Los veinticuatro ancianos se postran delante del que está sentado en el trono, y adoran al que vive para siempre jamás, y echan sus coronas delante del trono, diciendo:"
+        },
+        {
+            "id": "rev4_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Señor, digno eres de recibir la gloria y la honra y el poder; porque tú creaste todas las cosas, y por tu placer existen y fueron creadas."
+        }
+    ]
+}

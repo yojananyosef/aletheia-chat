@@ -1,0 +1,135 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 5,
+    "title": "Apocalipsis 5",
+    "messages": [
+        {
+            "id": "rev5_sec1_da69",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "El libro de los siete sellos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vi en la mano derecha del que estaba sentado sobre el trono un libro escrito por dentro y por atrás, sellado con siete sellos."
+        },
+        {
+            "id": "rev5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y vi a un ángel fuerte proclamando en alta voz: ¿Quién es digno de abrir el libro, y de desatar sus sellos?"
+        },
+        {
+            "id": "rev5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y ninguno, ni en el cielo ni en la tierra ni debajo de la tierra, podía abrir el libro, ni aun mirarlo."
+        },
+        {
+            "id": "rev5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y yo lloraba mucho, porque ninguno fue hallado digno de abrir el libro, ni de leerlo, ni de mirarlo."
+        },
+        {
+            "id": "rev5_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y uno de los ancianos me dijo:"
+        },
+        {
+            "id": "rev5_5b",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "No llores; he aquí el León de la tribu de Judá, la raíz de David, que ha vencido para abrir el libro y desatar sus siete sellos."
+        },
+        {
+            "id": "rev5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y miré; y, he aquí, en medio del trono y de los cuatro seres vivientes, y en medio de los ancianos, estaba en pie un Cordero como inmolado, que tenía siete cuernos y siete ojos, que son los siete Espíritus de Dios enviados a toda la tierra."
+        },
+        {
+            "id": "rev5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y Él vino, y tomó el libro de la mano derecha de Aquél que estaba sentado en el trono."
+        },
+        {
+            "id": "rev5_sec8_0afd",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Adoración del Cordero",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y cuando hubo tomado el libro, los cuatro seres vivientes y los veinticuatro ancianos se postraron delante del Cordero, teniendo cada uno arpas, y tazones de oro llenos de perfumes, que son las oraciones de los santos."
+        },
+        {
+            "id": "rev5_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y cantaban un cántico nuevo, diciendo:"
+        },
+        {
+            "id": "rev5_9b",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Digno eres de tomar el libro y de abrir sus sellos; porque tú fuiste inmolado, y nos has redimido para Dios con tu sangre, de todo linaje y lengua y pueblo y nación;"
+        },
+        {
+            "id": "rev5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y nos has hecho para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra."
+        },
+        {
+            "id": "rev5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y miré, y oí la voz de muchos ángeles alrededor del trono, y de los seres vivientes, y de los ancianos; y el número de ellos era millones de millones,"
+        },
+        {
+            "id": "rev5_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Que decían en alta voz:"
+        },
+        {
+            "id": "rev5_12b",
+            "speaker": "Ángeles",
+            "verse": 12,
+            "text": "El Cordero que fue inmolado es digno de recibir el poder, las riquezas, la sabiduría, la fortaleza, el honor, la gloria y la alabanza."
+        },
+        {
+            "id": "rev5_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y oí a toda criatura que está en el cielo, y sobre la tierra, y debajo de la tierra, y que está en el mar, y todas las cosas que en ellos hay, diciendo:"
+        },
+        {
+            "id": "rev5_13b",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Al que está sentado en el trono, y al Cordero, sea la alabanza, y la honra, y la gloria y el poder, por siempre jamás."
+        },
+        {
+            "id": "rev5_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y los cuatro seres vivientes decían:"
+        },
+        {
+            "id": "rev5_14b",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Amén. Y los veinticuatro ancianos se postraron y adoraron al que vive por siempre jamás."
+        }
+    ]
+}

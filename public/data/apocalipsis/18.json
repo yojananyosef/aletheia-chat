@@ -1,0 +1,227 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 18,
+    "title": "Apocalipsis 18",
+    "messages": [
+        {
+            "id": "rev18_sec1_ae71",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Anuncio del castigo de Babilonia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev18_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y después de estas cosas vi otro ángel descender del cielo teniendo gran poder; y la tierra fue alumbrada de su gloria."
+        },
+        {
+            "id": "rev18_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y clamó fuertemente en alta voz, diciendo:"
+        },
+        {
+            "id": "rev18_2b",
+            "speaker": "Ángeles",
+            "verse": 2,
+            "text": "¡Caída es, caída es Babilonia la grande! Y es hecha habitación de demonios, y guarida de todo espíritu inmundo, y albergue de toda ave inmunda y aborrecible."
+        },
+        {
+            "id": "rev18_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque todas las naciones han bebido del vino del furor de su fornicación; y los reyes de la tierra han fornicado con ella, y los mercaderes de la tierra se han enriquecido de la abundancia de sus deleites."
+        },
+        {
+            "id": "rev18_sec4_b9b9",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "La caída de Babilonia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev18_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y oí otra voz del cielo, que decía:"
+        },
+        {
+            "id": "rev18_4b",
+            "speaker": "Dios",
+            "verse": 4,
+            "text": "Salid de ella, pueblo mío, para que no seáis partícipes de sus pecados, y para que no recibáis de sus plagas;"
+        },
+        {
+            "id": "rev18_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "porque sus pecados han llegado hasta el cielo, y Dios se ha acordado de las maldades de ella."
+        },
+        {
+            "id": "rev18_6",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Dadle como ella os ha dado, y pagadle al doble según sus obras; en la copa que ella os preparó, preparadle el doble."
+        },
+        {
+            "id": "rev18_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Cuanto ella se ha glorificado, y ha vivido en deleites, tanto dadle de tormento y llanto; porque dice en su corazón:"
+        },
+        {
+            "id": "rev18_7b",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Yo estoy sentada como reina, y no soy viuda, y no veré llanto."
+        },
+        {
+            "id": "rev18_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por lo cual en un día vendrán sus plagas, muerte, llanto y hambre, y será quemada con fuego; porque poderoso es el Señor Dios que la juzga."
+        },
+        {
+            "id": "rev18_sec9_c6b2",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Lamentaciones de los aliados y mercaderes",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev18_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y llorarán y se lamentarán sobre ella los reyes de la tierra, los cuales han fornicado con ella, y han vivido en deleites, cuando ellos vieren el humo de su incendio,"
+        },
+        {
+            "id": "rev18_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Parándose lejos por el temor de su tormento, diciendo:"
+        },
+        {
+            "id": "rev18_10b",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "¡Ay, ay, de la gran ciudad de Babilonia, la ciudad poderosa; porque en una hora vino tu juicio!"
+        },
+        {
+            "id": "rev18_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y los mercaderes de la tierra llorarán y se lamentarán sobre ella, porque ninguno compra más sus mercaderías;"
+        },
+        {
+            "id": "rev18_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "mercadería de oro, y plata, y piedras preciosas, y perlas, y lino fino, y púrpura, y seda, y escarlata, y toda madera olorosa, y todo artículo de marfil, y todo artículo de madera preciosa, y de bronce, y de hierro, y de mármol;"
+        },
+        {
+            "id": "rev18_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "y canela, y aromas, y ungüentos, e incienso, y vino, y aceite; y flor de harina y trigo, y bestias, y ovejas; y caballos, y carros, y esclavos, y almas de hombres."
+        },
+        {
+            "id": "rev18_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y los frutos codiciados de tu alma se han ido de ti; y todas las cosas suntuosas y espléndidas se han ido de ti, y nunca más las hallarás."
+        },
+        {
+            "id": "rev18_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Los mercaderes de estas cosas, que se han enriquecido por ella, se pararán lejos por el temor de su tormento, llorando y lamentando,"
+        },
+        {
+            "id": "rev18_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "rev18_16b",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "¡Ay, ay, de aquella gran ciudad, que estaba vestida de lino fino y de púrpura y de escarlata, y adornada con oro y piedras preciosas y perlas!"
+        },
+        {
+            "id": "rev18_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque en una hora ha sido desolada tanta riqueza. Y todo timonel, y todos los que navegan en barcos, y marineros, y todos los que trabajan en el mar, se pararon lejos;"
+        },
+        {
+            "id": "rev18_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y viendo el humo de su incendio, dieron voces, diciendo:"
+        },
+        {
+            "id": "rev18_18b",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "¿Qué ciudad era semejante a esta gran ciudad?"
+        },
+        {
+            "id": "rev18_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y echaron polvo sobre sus cabezas; y dieron voces, llorando y lamentando, diciendo:"
+        },
+        {
+            "id": "rev18_19b",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "¡Ay, ay, de aquella gran ciudad, en la cual todos los que tenían navíos en el mar se habían enriquecido de sus riquezas; porque en una hora ha sido desolada!"
+        },
+        {
+            "id": "rev18_20",
+            "speaker": "Dios",
+            "verse": 20,
+            "text": "Alégrate sobre ella, cielo, y vosotros, santos apóstoles y profetas; porque Dios os ha vengado en ella."
+        },
+        {
+            "id": "rev18_sec21_94c0",
+            "speaker": "Sistema",
+            "verse": 21,
+            "text": "El juicio definitivo sobre Babilonia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev18_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y un ángel fuerte tomó una piedra como una gran piedra de molino, y la arrojó en el mar, diciendo:"
+        },
+        {
+            "id": "rev18_21b",
+            "speaker": "Ángeles",
+            "verse": 21,
+            "text": "Con esta violencia será derribada Babilonia, aquella gran ciudad, y nunca más será hallada."
+        },
+        {
+            "id": "rev18_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y voz de arpistas, y de músicos, y de flautistas, y de trompetistas, no se oirá más en ti; y ningún artífice de cualquier oficio, no se hallará más en ti; y el ruido de la piedra de molino no se oirá más en ti."
+        },
+        {
+            "id": "rev18_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y luz de candelero no alumbrará más en ti; y voz de desposado y de desposada no se oirá más en ti; porque tus mercaderes eran los magnates de la tierra; porque por tus hechicerías fueron engañadas todas las naciones."
+        },
+        {
+            "id": "rev18_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y en ella fue hallada la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra."
+        }
+    ]
+}

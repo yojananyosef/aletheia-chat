@@ -1,0 +1,226 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 21,
+    "title": "Apocalipsis 21",
+    "messages": [
+        {
+            "id": "rev21_sec1_f912",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "DIOS EN MEDIO DE SU PUEBLO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev21_sec1_13e8",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cielo nuevo y nueva tierra",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev21_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra habían pasado, y el mar no existía ya más."
+        },
+        {
+            "id": "rev21_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y yo Juan vi la santa ciudad, la nueva Jerusalén, que descendía del cielo, de Dios, dispuesta como una novia ataviada para su marido."
+        },
+        {
+            "id": "rev21_3a",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y oí una gran voz del cielo que decía:"
+        },
+        {
+            "id": "rev21_3b",
+            "speaker": "Dios",
+            "verse": 3,
+            "text": "He aquí el tabernáculo de Dios con los hombres, y Él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos, y será su Dios."
+        },
+        {
+            "id": "rev21_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron."
+        },
+        {
+            "id": "rev21_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y el que estaba sentado en el trono dijo:"
+        },
+        {
+            "id": "rev21_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "He aquí, yo hago nuevas todas las cosas."
+        },
+        {
+            "id": "rev21_5c",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "rev21_5d",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Escribe; porque estas palabras son fieles y verdaderas.>"
+        },
+        {
+            "id": "rev21_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y me dijo:"
+        },
+        {
+            "id": "rev21_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Hecho es. Yo soy el Alfa y la Omega, el principio y el fin. Al que tuviere sed, yo le daré de la fuente del agua de vida gratuitamente."
+        },
+        {
+            "id": "rev21_7",
+            "speaker": "Dios",
+            "verse": 7,
+            "text": "El que venciere, heredará todas las cosas; y yo seré su Dios, y él será mi hijo."
+        },
+        {
+            "id": "rev21_8",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "Pero los temerosos e incrédulos, los abominables y homicidas, los fornicarios y hechiceros, los idólatras, y todos los mentirosos, tendrán su parte en el lago que arde con fuego y azufre, que es la muerte segunda."
+        },
+        {
+            "id": "rev21_sec9_a6e9",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "La nueva Jerusalén",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev21_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vino a mí uno de los siete ángeles que tenían las siete copas llenas de las siete plagas postreras, y habló conmigo, diciendo:"
+        },
+        {
+            "id": "rev21_9b",
+            "speaker": "Ángeles",
+            "verse": 9,
+            "text": "Ven acá, yo te mostraré la desposada, la esposa del Cordero."
+        },
+        {
+            "id": "rev21_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y me llevó en el Espíritu a un monte grande y alto, y me mostró la gran ciudad santa de Jerusalén, que descendía del cielo de Dios,"
+        },
+        {
+            "id": "rev21_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "teniendo la gloria de Dios; y su luz era semejante a una piedra preciosísima, como piedra de jaspe, diáfana como el cristal."
+        },
+        {
+            "id": "rev21_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y tenía un muro grande y alto, y tenía doce puertas; y a las puertas, doce ángeles, y nombres escritos en ellas, que son los nombres de las doce tribus de los hijos de Israel."
+        },
+        {
+            "id": "rev21_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Al oriente tres puertas; al norte tres puertas; al sur tres puertas; al poniente tres puertas."
+        },
+        {
+            "id": "rev21_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y el muro de la ciudad tenía doce fundamentos, y en ellos los nombres de los doce apóstoles del Cordero."
+        },
+        {
+            "id": "rev21_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y el que hablaba conmigo, tenía una caña de oro para medir la ciudad, y sus puertas, y su muro."
+        },
+        {
+            "id": "rev21_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y la ciudad está situada y puesta en cuadro, y su longitud es tanta como su anchura; y él midió la ciudad con la caña, doce mil estadios: La longitud y la altura y la anchura de ella son iguales."
+        },
+        {
+            "id": "rev21_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y midió su muro, ciento cuarenta y cuatro codos de medida de hombre, la cual es de ángel."
+        },
+        {
+            "id": "rev21_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y el material de su muro era de jaspe; y la ciudad era de oro puro, semejante al vidrio limpio;"
+        },
+        {
+            "id": "rev21_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y los fundamentos del muro de la ciudad estaban adornados de toda piedra preciosa. El primer fundamento era jaspe; el segundo, zafiro; el tercero, calcedonia; el cuarto, esmeralda;"
+        },
+        {
+            "id": "rev21_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "el quinto, ónice; el sexto, sardio; el séptimo, crisólito; el octavo, berilo; el noveno, topacio; el décimo, crisopraso; el undécimo, jacinto; el duodécimo, amatista."
+        },
+        {
+            "id": "rev21_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y las doce puertas eran doce perlas; cada una de las puertas era de una perla. Y la plaza de la ciudad era de oro puro, como vidrio transparente."
+        },
+        {
+            "id": "rev21_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y no vi templo en ella; porque el Señor Dios Todopoderoso y el Cordero son el templo de ella."
+        },
+        {
+            "id": "rev21_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y la ciudad no tenía necesidad de sol ni de luna para que resplandezcan en ella; porque la gloria de Dios la iluminaba, y el Cordero es su luz."
+        },
+        {
+            "id": "rev21_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y las naciones de los que hubieren sido salvos andarán en la luz de ella; y los reyes de la tierra traerán su gloria y honor a ella."
+        },
+        {
+            "id": "rev21_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y sus puertas nunca serán cerradas de día, pues allí no habrá noche."
+        },
+        {
+            "id": "rev21_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y traerán la gloria y la honra de las naciones a ella."
+        },
+        {
+            "id": "rev21_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y no entrará en ella ninguna cosa inmunda, o que hace abominación o mentira; sino sólo aquellos que están escritos en el libro de la vida del Cordero."
+        }
+    ]
+}

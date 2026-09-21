@@ -18,6 +18,13 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /apocalipsis/1 carga el capítulo (profecía integrada)', async ({ page }) => {
+        await page.goto('/apocalipsis/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await expect(page.getByRole('heading', { name: /Apocalipsis/ })).toBeVisible();
+        await expect(page.getByRole('button', { name: /prólogo/i })).toBeVisible({ timeout: 20_000 });
+    });
+
     test('deep-link a /judas/1 carga el capítulo (epístola integrada)', async ({ page }) => {
         await page.goto('/judas/1');
         await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });

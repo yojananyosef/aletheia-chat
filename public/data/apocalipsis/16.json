@@ -1,0 +1,178 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 16,
+    "title": "Apocalipsis 16",
+    "messages": [
+        {
+            "id": "rev16_sec1_eb5c",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Las seis primeras copas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev16_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y oí una gran voz que decía desde el templo a los siete ángeles:"
+        },
+        {
+            "id": "rev16_1b",
+            "speaker": "Dios",
+            "verse": 1,
+            "text": "Id, y derramad las copas de la ira de Dios sobre la tierra."
+        },
+        {
+            "id": "rev16_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y fue el primero, y derramó su copa sobre la tierra; y vino una pestilente y maligna úlcera sobre los hombres que tenían la marca de la bestia y que adoraban su imagen."
+        },
+        {
+            "id": "rev16_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y el segundo ángel derramó su copa sobre el mar, y éste se convirtió en sangre como de muerto; y murió todo ser viviente en el mar."
+        },
+        {
+            "id": "rev16_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y el tercer ángel derramó su copa sobre los ríos, y sobre las fuentes de las aguas, y se tornaron en sangre."
+        },
+        {
+            "id": "rev16_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y oí al ángel de las aguas, que decía:"
+        },
+        {
+            "id": "rev16_5b",
+            "speaker": "Ángeles",
+            "verse": 5,
+            "text": "Justo eres tú, oh Señor, que eres y que eras, y serás, porque has juzgado así."
+        },
+        {
+            "id": "rev16_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por cuanto ellos derramaron la sangre de santos y de profetas, y tú les has dado a beber sangre; pues lo merecen."
+        },
+        {
+            "id": "rev16_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y oí a otro que desde el altar decía:"
+        },
+        {
+            "id": "rev16_7b",
+            "speaker": "Ángeles",
+            "verse": 7,
+            "text": "Ciertamente, Señor Dios Todopoderoso, tus juicios son verdaderos y justos."
+        },
+        {
+            "id": "rev16_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y el cuarto ángel derramó su copa sobre el sol; y le fue dado quemar a los hombres con fuego."
+        },
+        {
+            "id": "rev16_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y los hombres se quemaron con el gran calor, y blasfemaron el nombre de Dios, que tiene potestad sobre estas plagas, y no se arrepintieron para darle gloria."
+        },
+        {
+            "id": "rev16_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y el quinto ángel derramó su copa sobre la silla de la bestia; y su reino se cubrió de tinieblas, y se mordían sus lenguas de dolor;"
+        },
+        {
+            "id": "rev16_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y blasfemaron contra el Dios del cielo por causa de sus dolores, y por sus plagas, y no se arrepintieron de sus obras."
+        },
+        {
+            "id": "rev16_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y el sexto ángel derramó su copa sobre el gran río Éufrates; y el agua de éste se secó, para que fuese preparado el camino de los reyes del oriente."
+        },
+        {
+            "id": "rev16_sec13_a497",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Las ranas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev16_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y vi salir de la boca del dragón, y de la boca de la bestia, y de la boca del falso profeta, tres espíritus inmundos a manera de ranas;"
+        },
+        {
+            "id": "rev16_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "porque son espíritus de demonios, haciendo milagros, que van a los reyes de la tierra y a todo el mundo, para congregarlos para la batalla de aquel gran día del Dios Todopoderoso."
+        },
+        {
+            "id": "rev16_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "He aquí, yo vengo como ladrón. Bienaventurado el que vela, y guarda sus vestiduras, para que no ande desnudo, y vean su vergüenza."
+        },
+        {
+            "id": "rev16_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y los congregó en el lugar que en hebreo es llamado Armagedón."
+        },
+        {
+            "id": "rev16_sec17_0c36",
+            "speaker": "Sistema",
+            "verse": 17,
+            "text": "La séptima copa",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev16_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y el séptimo ángel derramó su copa por el aire; y salió una gran voz del templo del cielo, del trono, diciendo:"
+        },
+        {
+            "id": "rev16_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "¡Hecho está!"
+        },
+        {
+            "id": "rev16_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y hubo voces, y relámpagos y truenos; y hubo un gran temblor, un terremoto tan grande, cual no hubo jamás desde que los hombres han estado sobre la tierra."
+        },
+        {
+            "id": "rev16_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y la gran ciudad fue partida en tres partes, y las ciudades de las naciones cayeron; y la gran Babilonia vino en memoria delante de Dios, para darle el cáliz del vino del furor de su ira."
+        },
+        {
+            "id": "rev16_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y toda isla huyó, y los montes no fueron hallados."
+        },
+        {
+            "id": "rev16_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y cayó del cielo sobre los hombres un grande granizo como del peso de un talento; y los hombres blasfemaron a Dios por la plaga del granizo; porque su plaga fue muy grande."
+        }
+    ]
+}

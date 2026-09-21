@@ -1,0 +1,172 @@
+{
+    "book": "Apocalipsis",
+    "chapter": 3,
+    "title": "Apocalipsis 3",
+    "messages": [
+        {
+            "id": "rev3_sec1_1ffd",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "A la iglesia de Sardes",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev3_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y escribe al ángel de la iglesia en SARDIS: El que tiene los siete Espíritus de Dios, y las siete estrellas, dice estas cosas:"
+        },
+        {
+            "id": "rev3_1b",
+            "speaker": "Jesús",
+            "verse": 1,
+            "text": "Yo conozco tus obras, que tienes nombre de que vives, y estás muerto."
+        },
+        {
+            "id": "rev3_2",
+            "speaker": "Jesús",
+            "verse": 2,
+            "text": "Sé vigilante, y afirma las otras cosas que están para morir; porque no he hallado tus obras perfectas delante de Dios."
+        },
+        {
+            "id": "rev3_3",
+            "speaker": "Jesús",
+            "verse": 3,
+            "text": "Acuérdate, pues, de lo que has recibido y oído, y guárdalo, y arrepiéntete. Pues si no velares, vendré sobre ti como ladrón, y no sabrás a qué hora vendré sobre ti."
+        },
+        {
+            "id": "rev3_4",
+            "speaker": "Jesús",
+            "verse": 4,
+            "text": "Pero aun tienes unas pocas personas en Sardis que no han contaminado sus vestiduras; y andarán conmigo en vestiduras blancas; porque son dignas."
+        },
+        {
+            "id": "rev3_5",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "El que venciere será vestido de vestiduras blancas; y no borraré su nombre del libro de la vida, y confesaré su nombre delante de mi Padre, y delante de sus ángeles."
+        },
+        {
+            "id": "rev3_6",
+            "speaker": "Jesús",
+            "verse": 6,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias."
+        },
+        {
+            "id": "rev3_sec7_2926",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "A la iglesia de Filadelfia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y escribe al ángel de la iglesia en FILADELFIA: El Santo, el Verdadero, el que tiene la llave de David, el que abre y ninguno cierra, y cierra y ninguno abre, dice estas cosas:"
+        },
+        {
+            "id": "rev3_8",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Yo conozco tus obras: he aquí, he dado una puerta abierta delante de ti, la cual ninguno puede cerrar; porque aún tienes un poco de fuerza, y has guardado mi palabra, y no has negado mi nombre."
+        },
+        {
+            "id": "rev3_9",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "He aquí, yo entrego de la sinagoga de Satanás a los que se dicen ser judíos y no lo son, sino que mienten; he aquí, yo haré que vengan y adoren delante de tus pies, y que reconozcan que yo te he amado."
+        },
+        {
+            "id": "rev3_10",
+            "speaker": "Jesús",
+            "verse": 10,
+            "text": "Por cuanto has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la prueba que ha de venir sobre todo el mundo, para probar a los que moran sobre la tierra."
+        },
+        {
+            "id": "rev3_11",
+            "speaker": "Jesús",
+            "verse": 11,
+            "text": "He aquí, yo vengo pronto; retén lo que tienes, para que ninguno tome tu corona."
+        },
+        {
+            "id": "rev3_12",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá de allí; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalén, la cual desciende del cielo, de mi Dios, y mi nombre nuevo."
+        },
+        {
+            "id": "rev3_13",
+            "speaker": "Jesús",
+            "verse": 13,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias."
+        },
+        {
+            "id": "rev3_sec14_28f9",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "A la iglesia de Laodicea",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rev3_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y escribe al ángel de la iglesia de los LAODICENSES: Estas cosas dice el Amén, el testigo fiel y verdadero, el principio de la creación de Dios:"
+        },
+        {
+            "id": "rev3_15",
+            "speaker": "Jesús",
+            "verse": 15,
+            "text": "Yo conozco tus obras, que ni eres frío, ni caliente. ¡Quisiera que fueses frío o caliente!"
+        },
+        {
+            "id": "rev3_16",
+            "speaker": "Jesús",
+            "verse": 16,
+            "text": "Mas porque eres tibio, y no frío ni caliente, te vomitaré de mi boca."
+        },
+        {
+            "id": "rev3_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque tú dices:"
+        },
+        {
+            "id": "rev3_17b",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Yo soy rico, y estoy enriquecido, y no tengo necesidad de nada; y no conoces que tú eres un desventurado, y miserable, y pobre, y ciego, y desnudo."
+        },
+        {
+            "id": "rev3_18",
+            "speaker": "Jesús",
+            "verse": 18,
+            "text": "Yo te aconsejo que de mí compres oro refinado en fuego, para que seas rico, y vestiduras blancas para que te vistas y no se descubra la vergüenza de tu desnudez; y unge tus ojos con colirio, para que veas."
+        },
+        {
+            "id": "rev3_19",
+            "speaker": "Jesús",
+            "verse": 19,
+            "text": "Yo reprendo y castigo a todos los que amo; sé, pues, celoso, y arrepiéntete."
+        },
+        {
+            "id": "rev3_20",
+            "speaker": "Jesús",
+            "verse": 20,
+            "text": "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo."
+        },
+        {
+            "id": "rev3_21",
+            "speaker": "Jesús",
+            "verse": 21,
+            "text": "Al que venciere, yo le daré que se siente conmigo en mi trono; así como también yo he vencido, y me he sentado con mi Padre en su trono."
+        },
+        {
+            "id": "rev3_22",
+            "speaker": "Jesús",
+            "verse": 22,
+            "text": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias."
+        }
+    ]
+}
