@@ -1,0 +1,191 @@
+{
+    "book": "2 Timoteo",
+    "chapter": 2,
+    "title": "2 Timoteo 2",
+    "messages": [
+        {
+            "id": "2ti2_sec1_d5a3",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Perseverancia en el ministerio apostólico",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Tú, pues, hijo mío, esfuérzate en la gracia que es en Cristo Jesús."
+        },
+        {
+            "id": "2ti2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y lo que has oído de mí ante muchos testigos, esto encarga a hombres fieles que sean idóneos para enseñar también a otros."
+        },
+        {
+            "id": "2ti2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Tú, pues, sufre aflicciones como fiel soldado de Jesucristo."
+        },
+        {
+            "id": "2ti2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Ninguno que milita se enreda en los negocios de esta vida; a fin de agradar a aquel que lo escogió por soldado."
+        },
+        {
+            "id": "2ti2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y aun también el que lucha como atleta, no es coronado si no lucha legítimamente."
+        },
+        {
+            "id": "2ti2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "El labrador que trabaja, debe ser el primero en participar de los frutos."
+        },
+        {
+            "id": "2ti2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Considera lo que digo; y el Señor te dé entendimiento en todo."
+        },
+        {
+            "id": "2ti2_sec8_6088",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "El ejemplo de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Acuérdate que Jesucristo, de la simiente de David, resucitó de los muertos conforme a mi evangelio;"
+        },
+        {
+            "id": "2ti2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "por el cual sufro aflicciones, hasta prisiones a modo de malhechor; mas la palabra de Dios no está presa."
+        },
+        {
+            "id": "2ti2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Por tanto, todo lo sufro por amor a los escogidos, para que ellos también obtengan la salvación que es en Cristo Jesús con gloria eterna."
+        },
+        {
+            "id": "2ti2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Palabra fiel es ésta: Que si somos muertos con Él, también viviremos con Él:"
+        },
+        {
+            "id": "2ti2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Si sufrimos, también reinaremos con Él; si lo negáremos, Él también nos negará:"
+        },
+        {
+            "id": "2ti2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Si fuéremos infieles, Él permanece fiel; Él no puede negarse a sí mismo."
+        },
+        {
+            "id": "2ti2_sec14_ea65",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "Advertencia contra los herejes",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Recuérdales esto, y exhórtales delante del Señor a que no contiendan sobre palabras, lo cual para nada aprovecha, antes perjudica a los oyentes."
+        },
+        {
+            "id": "2ti2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Estudia con diligencia para presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que traza bien la palabra de verdad."
+        },
+        {
+            "id": "2ti2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas evita profanas y vanas palabrerías; porque irán en aumento para mayor impiedad."
+        },
+        {
+            "id": "2ti2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y la palabra de ellos carcomerá como gangrena; de los cuales son Himeneo y Fileto;"
+        },
+        {
+            "id": "2ti2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "que se han descaminado de la verdad, diciendo que la resurrección ya pasó, y trastornan la fe de algunos."
+        },
+        {
+            "id": "2ti2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas el fundamento de Dios está firme, teniendo este sello: Conoce el Señor a los que son suyos; y: Apártese de iniquidad todo aquel que invoca el nombre de Cristo."
+        },
+        {
+            "id": "2ti2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Pero en una casa grande, no sólo hay vasos de oro y de plata, sino también de madera y de barro; y asimismo unos para honra, y otros para deshonra."
+        },
+        {
+            "id": "2ti2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Así que, si alguno se limpiare de estas cosas, será vaso para honra, santificado y útil para los usos del Señor, y preparado para toda buena obra."
+        },
+        {
+            "id": "2ti2_sec22_dc41",
+            "speaker": "Sistema",
+            "verse": 22,
+            "text": "Reglas pastorales",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Huye también de las concupiscencias juveniles; y sigue la justicia, la fe, la caridad, la paz, con los que invocan al Señor de corazón puro."
+        },
+        {
+            "id": "2ti2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Pero evita las cuestiones necias e insensatas, sabiendo que engendran contiendas."
+        },
+        {
+            "id": "2ti2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Porque el siervo del Señor no debe ser contencioso, sino afable para con todos, apto para enseñar, sufrido;"
+        },
+        {
+            "id": "2ti2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "que con mansedumbre corrija a los que se oponen; si quizá Dios les dé que se arrepientan para conocer la verdad,"
+        },
+        {
+            "id": "2ti2_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "y se zafen del lazo del diablo, en que están cautivos por él, a su voluntad."
+        }
+    ]
+}

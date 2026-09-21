@@ -405,6 +405,14 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(t5.messages.some(m => m.id.startsWith('1ti5_')), 'ids con prefijo 1ti');
     });
 
+    it('2TI sello narrado: 2:19-20 Narrador, 0 ambiguos; id 2ti', () => {
+        const t2 = run('2timoteo', '2TI', 2);
+        for (const v of [19, 20]) {
+            assert.equal(speakerOf(t2.messages, v, ''), 'Narrador', `2TI 2:${v} Narrador`);
+        }
+        assert.ok(t2.messages.some(m => m.id.startsWith('2ti2_')), 'ids con prefijo 2ti');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

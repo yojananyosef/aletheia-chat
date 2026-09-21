@@ -1,0 +1,130 @@
+{
+    "book": "2 Timoteo",
+    "chapter": 3,
+    "title": "2 Timoteo 3",
+    "messages": [
+        {
+            "id": "2ti3_sec1_3823",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Corrupción en los últimos tiempos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Sabe también esto; que en los postreros días vendrán tiempos peligrosos."
+        },
+        {
+            "id": "2ti3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque habrá hombres amadores de sí mismos, avaros, vanagloriosos, soberbios, blasfemos, desobedientes a sus padres, malagradecidos, sin santidad,"
+        },
+        {
+            "id": "2ti3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "sin afecto natural, desleales, calumniadores, incontinentes, crueles, aborrecedores de los que son buenos,"
+        },
+        {
+            "id": "2ti3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "traidores, impulsivos, vanidosos, amadores de placeres más que amadores de Dios;"
+        },
+        {
+            "id": "2ti3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "teniendo apariencia de piedad, mas negando la eficacia de ella; a éstos evita."
+        },
+        {
+            "id": "2ti3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque de éstos son los que se entran por las casas, y llevan cautivas las mujercillas cargadas de pecados, llevadas de diversas concupiscencias,"
+        },
+        {
+            "id": "2ti3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "que siempre están aprendiendo, y nunca pueden llegar al conocimiento de la verdad."
+        },
+        {
+            "id": "2ti3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y de la manera que Janes y Jambres resistieron a Moisés, así también éstos resisten a la verdad; hombres corruptos de entendimiento, réprobos en cuanto a la fe."
+        },
+        {
+            "id": "2ti3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mas no llegarán muy lejos; porque su insensatez será manifiesta a todos, como también lo fue la de aquéllos."
+        },
+        {
+            "id": "2ti3_sec10_715a",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "El ejemplo del apóstol",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pero tú has conocido mi doctrina, conducta, propósito, fe, longanimidad, caridad, paciencia,"
+        },
+        {
+            "id": "2ti3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "persecuciones, aflicciones, como las que me sobrevinieron en Antioquía, en Iconio, en Listra, persecuciones que he sufrido; pero de todas ellas me ha librado el Señor."
+        },
+        {
+            "id": "2ti3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y también todos los que quieren vivir piadosamente en Cristo Jesús, padecerán persecución."
+        },
+        {
+            "id": "2ti3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas los malos hombres y los engañadores irán de mal en peor, engañando y siendo engañados."
+        },
+        {
+            "id": "2ti3_sec14_c61b",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "Recomienda el estudio de la Sagrada Escritura",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2ti3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pero persiste tú en lo que has aprendido y te persuadiste, sabiendo de quién has aprendido;"
+        },
+        {
+            "id": "2ti3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "y que desde la niñez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación por la fe que es en Cristo Jesús."
+        },
+        {
+            "id": "2ti3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Toda Escritura es dada por inspiración de Dios, y es útil para enseñar, para redargüir, para corregir, para instruir en justicia,"
+        },
+        {
+            "id": "2ti3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "para que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra."
+        }
+    ]
+}
