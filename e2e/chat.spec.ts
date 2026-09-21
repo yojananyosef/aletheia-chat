@@ -18,6 +18,13 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /filipenses/1 carga el capítulo (epístola integrada)', async ({ page }) => {
+        await page.goto('/filipenses/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await expect(page.getByRole('heading', { name: /Filipenses/ })).toBeVisible();
+        await expect(page.getByRole('button', { name: /salutación/i })).toBeVisible();
+    });
+
     test('deep-link a /efesios/1 carga el capítulo (epístola integrada)', async ({ page }) => {
         await page.goto('/efesios/1');
         await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });

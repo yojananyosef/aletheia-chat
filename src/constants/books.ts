@@ -125,7 +125,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: '2corintios', name: '2 Corintios', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], category: 'Epístolas de Pablo', description: 'Defensa del ministerio apostólico.', participants: ['Dios', 'Narrador', 'Sistema', 'Pablo'] },
     { id: 'galatas', name: 'Gálatas', availableChapters: [1, 2, 3, 4, 5, 6], category: 'Epístolas de Pablo', description: 'Libertad en Cristo y contra el legalismo.', participants: ['Dios', 'Narrador', 'Sistema', 'Pablo'] },
     { id: 'efesios', name: 'Efesios', availableChapters: [1, 2, 3, 4, 5, 6], category: 'Epístolas de Pablo', description: 'La riqueza espiritual en Cristo y la armadura de Dios.', participants: ['Narrador', 'Sistema', 'Pablo'] },
-    { id: 'filipenses', name: 'Filipenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Gozo en medio del sufrimiento.', participants: ['Pablo'] },
+    { id: 'filipenses', name: 'Filipenses', availableChapters: [1, 2, 3, 4], category: 'Epístolas de Pablo', description: 'Gozo en medio del sufrimiento.', participants: ['Narrador', 'Sistema', 'Pablo'] },
     { id: 'colosenses', name: 'Colosenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'La preeminencia de Cristo.', participants: ['Pablo'] },
     { id: '1tesalonicenses', name: '1 Tesalonicenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'La venida del Señor.', participants: ['Pablo'] },
     { id: '2tesalonicenses', name: '2 Tesalonicenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Perseverancia ante el fin.', participants: ['Pablo'] },

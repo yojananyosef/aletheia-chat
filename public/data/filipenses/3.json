@@ -1,0 +1,147 @@
+{
+    "book": "Filipenses",
+    "chapter": 3,
+    "title": "Filipenses 3",
+    "messages": [
+        {
+            "id": "php3_sec1_115b",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La gran ambición de San Parlo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Finalmente, hermanos míos, regocijaos en el Señor. A la verdad, el escribiros las mismas cosas a mí no me es gravoso, y para vosotros es seguro."
+        },
+        {
+            "id": "php3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Guardaos de los perros, guardaos de los malos obreros, guardaos de la concisión."
+        },
+        {
+            "id": "php3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque nosotros somos la circuncisión, los que en espíritu adoramos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne."
+        },
+        {
+            "id": "php3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Aunque yo tengo también de qué confiar en la carne, si alguno piensa que tiene de qué confiar en la carne, yo más;"
+        },
+        {
+            "id": "php3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, hebreo de hebreos, en cuanto a la ley, fariseo;"
+        },
+        {
+            "id": "php3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "en cuanto a celo, perseguidor de la iglesia; en cuanto a la justicia que es en la ley, irreprensible."
+        },
+        {
+            "id": "php3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor a Cristo."
+        },
+        {
+            "id": "php3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y ciertamente, aun estimo todas las cosas como pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor, por el cual lo he perdido todo, y lo tengo por estiércol, para ganar a Cristo,"
+        },
+        {
+            "id": "php3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "y ser hallado en Él, no teniendo mi propia justicia, que es de la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+        },
+        {
+            "id": "php3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "a fin de conocerle, y el poder de su resurrección, y la participación de sus padecimientos, en conformidad a su muerte;"
+        },
+        {
+            "id": "php3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "si en alguna manera llegase a la resurrección de los muertos."
+        },
+        {
+            "id": "php3_sec12_cd71",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Maravillas de nuestra esperanza",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "No que lo haya ya alcanzado, ni que ya sea perfecto, mas prosigo para ver si alcanzo aquello para lo cual también fui alcanzado por Cristo Jesús."
+        },
+        {
+            "id": "php3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Hermanos, yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está adelante,"
+        },
+        {
+            "id": "php3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "prosigo al blanco, al premio del supremo llamamiento de Dios en Cristo Jesús."
+        },
+        {
+            "id": "php3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Así que, todos los que somos perfectos, esto mismo sintamos; y si otra cosa sentís, esto también os lo revelará Dios."
+        },
+        {
+            "id": "php3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Pero en aquello a que hemos llegado, andemos por una misma regla, sintamos una misma cosa."
+        },
+        {
+            "id": "php3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Hermanos, seguid mi ejemplo, y señalad a los que así anduvieren, como nos tenéis por ejemplo."
+        },
+        {
+            "id": "php3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque muchos andan, de los cuales os he dicho muchas veces, y aun ahora lo digo llorando, que son enemigos de la cruz de Cristo;"
+        },
+        {
+            "id": "php3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "cuyo fin será destrucción, cuyo dios es su vientre, y cuya gloria es su vergüenza, que sólo piensan en lo terrenal."
+        },
+        {
+            "id": "php3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas nuestra ciudadanía está en el cielo, de donde también esperamos al Salvador, el Señor Jesucristo;"
+        },
+        {
+            "id": "php3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "el cual transformará nuestro cuerpo vil, para que sea semejante a su cuerpo glorioso, según el poder con el cual puede también sujetar a sí todas las cosas."
+        }
+    ]
+}

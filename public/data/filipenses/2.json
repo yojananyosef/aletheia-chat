@@ -1,0 +1,208 @@
+{
+    "book": "Filipenses",
+    "chapter": 2,
+    "title": "Filipenses 2",
+    "messages": [
+        {
+            "id": "php2_sec1_4396",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La imitación de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Por tanto, si hay alguna consolación en Cristo, si algún refrigerio de amor, si alguna comunión del Espíritu, si algún afecto entrañable y misericordias,"
+        },
+        {
+            "id": "php2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "completad mi gozo, que sintáis lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa."
+        },
+        {
+            "id": "php2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Nada hagáis por contienda o vanagloria; antes bien con humildad, estimándoos unos a otros como superiores a sí mismos,"
+        },
+        {
+            "id": "php2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "no mirando cada uno a lo suyo propio, sino cada cual también por lo de los demás."
+        },
+        {
+            "id": "php2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús;"
+        },
+        {
+            "id": "php2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "el cual, siendo en forma de Dios, no tuvo por usurpación el ser igual a Dios;"
+        },
+        {
+            "id": "php2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "sino que se despojó a sí mismo, tomando forma de siervo, hecho semejante a los hombres;"
+        },
+        {
+            "id": "php2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "y hallado en la condición de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz."
+        },
+        {
+            "id": "php2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por lo cual Dios también le exaltó hasta lo sumo, y le dio un nombre que es sobre todo nombre;"
+        },
+        {
+            "id": "php2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "para que al nombre de Jesús, se doble toda rodilla; de los que están en el cielo, y en la tierra, y debajo de la tierra,"
+        },
+        {
+            "id": "php2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y toda lengua confiese que Jesucristo es el Señor, para la gloria de Dios Padre."
+        },
+        {
+            "id": "php2_sec12_2986",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Es Dios quien da el querer y el obrar",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por tanto, amados míos, como siempre habéis obedecido, no como en mi presencia solamente, sino mucho más ahora en mi ausencia, ocupaos en vuestra salvación, con temor y temblor,"
+        },
+        {
+            "id": "php2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "porque es Dios el que en vosotros obra así el querer como el hacer, por su buena voluntad."
+        },
+        {
+            "id": "php2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Haced todo sin murmuraciones ni contiendas,"
+        },
+        {
+            "id": "php2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "para que seáis irreprensibles y sencillos, hijos de Dios, sin mancha, en medio de una generación torcida y perversa, en la cual resplandecéis como luminares en el mundo;"
+        },
+        {
+            "id": "php2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "reteniendo la palabra de vida, para que en el día de Cristo yo pueda gloriarme de que no he corrido en vano, ni en vano he trabajado."
+        },
+        {
+            "id": "php2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y aunque sea ofrecido sobre el sacrificio y servicio de vuestra fe, me gozo y regocijo con todos vosotros."
+        },
+        {
+            "id": "php2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y asimismo gozaos también vosotros, y regocijaos conmigo."
+        },
+        {
+            "id": "php2_sec19_60e6",
+            "speaker": "Sistema",
+            "verse": 19,
+            "text": "Pablo recomienda a dos compañeros",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas espero en el Señor Jesús enviaros pronto a Timoteo, para que yo también esté de buen ánimo, al saber vuestro estado;"
+        },
+        {
+            "id": "php2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "porque a ninguno tengo del mismo ánimo, que sinceramente se interese por vosotros."
+        },
+        {
+            "id": "php2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Porque todos buscan lo suyo propio, no lo que es de Cristo Jesús."
+        },
+        {
+            "id": "php2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas vosotros conocéis su probidad, que como hijo a padre, ha servido conmigo en el evangelio."
+        },
+        {
+            "id": "php2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Así que a éste espero enviaros, tan pronto vea cómo van las cosas conmigo,"
+        },
+        {
+            "id": "php2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "y confío en el Señor que yo también iré pronto a vosotros."
+        },
+        {
+            "id": "php2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Mas consideré necesario enviaros a Epafrodito, mi hermano y colaborador y compañero de milicia, mas vuestro mensajero, y ministrador de mis necesidades,"
+        },
+        {
+            "id": "php2_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "porque él tenía gran deseo de veros a todos vosotros, y estaba muy apesadumbrado porque habíais oído que estuvo enfermo."
+        },
+        {
+            "id": "php2_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Pues en verdad estuvo enfermo, cercano a la muerte; mas Dios tuvo misericordia de él, y no sólo de él, sino también de mí, para que yo no tuviese tristeza sobre tristeza."
+        },
+        {
+            "id": "php2_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Así que le envío con mayor diligencia, para que al verle otra vez, os regocijéis, y yo esté con menos tristeza."
+        },
+        {
+            "id": "php2_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Recibidle, pues, en el Señor, con todo regocijo; y tened en estima a los que son como él;"
+        },
+        {
+            "id": "php2_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "porque por la obra de Cristo estuvo cercano a la muerte, exponiendo su vida para suplir lo que os faltaba en vuestro servicio hacia mi."
+        }
+    ]
+}

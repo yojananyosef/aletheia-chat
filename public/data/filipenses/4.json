@@ -1,0 +1,159 @@
+{
+    "book": "Filipenses",
+    "chapter": 4,
+    "title": "Filipenses 4",
+    "messages": [
+        {
+            "id": "php4_sec1_57ec",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Paz y alegría espiritual",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados."
+        },
+        {
+            "id": "php4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "A Euodias ruego, y ruego a Sintique, que sean de un mismo sentir en el Señor."
+        },
+        {
+            "id": "php4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y te ruego también a ti, fiel compañero, ayuda a aquellas mujeres que trabajaron juntamente conmigo en el evangelio, con Clemente también, y los otros de mis colaboradores, cuyos nombres están en el libro de la vida."
+        },
+        {
+            "id": "php4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Regocijaos en el Señor siempre: Otra vez digo: Regocijaos."
+        },
+        {
+            "id": "php4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Vuestra modestia sea conocida de todos los hombres. El Señor está cerca."
+        },
+        {
+            "id": "php4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y súplica, con acción de gracias."
+        },
+        {
+            "id": "php4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestras mentes en Cristo Jesús."
+        },
+        {
+            "id": "php4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre, si hay virtud alguna, si alguna alabanza, en esto pensad."
+        },
+        {
+            "id": "php4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz será con vosotros."
+        },
+        {
+            "id": "php4_sec10_200a",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "Alegría por la generosidad de los filipenses",
+            "isSectionTitle": true
+        },
+        {
+            "id": "php4_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mas en gran manera me regocijé en el Señor de que ya al fin ha reflorecido vuestro cuidado de mí, de lo cual también estabais solícitos, pero os faltaba la oportunidad."
+        },
+        {
+            "id": "php4_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "No lo digo porque tenga escasez; pues he aprendido a contentarme, cualquiera que sea mi situación."
+        },
+        {
+            "id": "php4_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Sé tener escasez, y sé tener abundancia; en todo y por todo estoy enseñado, así para hartura, como para hambre; para tener abundancia, como para padecer necesidad."
+        },
+        {
+            "id": "php4_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Todo lo puedo en Cristo que me fortalece."
+        },
+        {
+            "id": "php4_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Sin embargo, bien hicisteis al comunicar conmigo en mi aflicción."
+        },
+        {
+            "id": "php4_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y sabéis también vosotros, oh filipenses, que al principio del evangelio, cuando partí de Macedonia, ninguna iglesia comunicó conmigo en el asunto de dar y recibir, sino vosotros solos,"
+        },
+        {
+            "id": "php4_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "pues aun a Tesalónica me enviasteis lo necesario una y otra vez."
+        },
+        {
+            "id": "php4_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "No es que busque dádivas, sino que busco fruto que abunde a vuestra cuenta."
+        },
+        {
+            "id": "php4_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pero todo lo he recibido, y tengo abundancia; estoy lleno, habiendo recibido de Epafrodito lo que enviasteis; perfume de dulce fragancia, sacrificio acepto, agradable a Dios."
+        },
+        {
+            "id": "php4_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mi Dios, pues, suplirá todo lo que os falte, conforme a sus riquezas en gloria en Cristo Jesús."
+        },
+        {
+            "id": "php4_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y al Dios y Padre nuestro sea gloria por siempre jamás. Amén."
+        },
+        {
+            "id": "php4_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Saludad a todos los santos en Cristo Jesús. Los hermanos que están conmigo os saludan."
+        },
+        {
+            "id": "php4_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Todos los santos os saludan, y mayormente los que son de la casa de César."
+        },
+        {
+            "id": "php4_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
+        }
+    ]
+}

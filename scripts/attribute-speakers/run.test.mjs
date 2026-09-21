@@ -369,6 +369,14 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(e4.messages.some(m => m.id.startsWith('eph4_')), 'ids con prefijo eph');
     });
 
+    it('PHP himno Carmen Christi narrado: 2:5-11 Narrador, 0 ambiguos; id php', () => {
+        const p2 = run('filipenses', 'PHP', 2);
+        for (const v of [5, 6, 8, 11]) {
+            assert.equal(speakerOf(p2.messages, v, ''), 'Narrador', `PHP 2:${v} Narrador`);
+        }
+        assert.ok(p2.messages.some(m => m.id.startsWith('php2_')), 'ids con prefijo php');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos
