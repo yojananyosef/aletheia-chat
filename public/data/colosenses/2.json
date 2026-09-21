@@ -1,0 +1,166 @@
+{
+    "book": "Colosenses",
+    "chapter": 2,
+    "title": "Colosenses 2",
+    "messages": [
+        {
+            "id": "col2_sec1_55b1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Advertencia contra la sabiduría humana",
+            "isSectionTitle": true
+        },
+        {
+            "id": "col2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Mas quiero que sepáis cuán grande lucha sostengo por vosotros, y por los que están en Laodicea, y por todos los que nunca han visto mi rostro en la carne;"
+        },
+        {
+            "id": "col2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "para que sean consolados sus corazones, unidos en amor, hasta alcanzar todas las riquezas de la plena seguridad del entendimiento; a fin de conocer el misterio de Dios, y del Padre, y de Cristo,"
+        },
+        {
+            "id": "col2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "en quien están escondidos todos los tesoros de sabiduría y conocimiento."
+        },
+        {
+            "id": "col2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y esto digo para que nadie os engañe con palabras persuasivas."
+        },
+        {
+            "id": "col2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque aunque esté ausente en la carne, no obstante en espíritu estoy con vosotros, gozándome y mirando vuestro orden y la firmeza de vuestra fe en Cristo."
+        },
+        {
+            "id": "col2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en Él;"
+        },
+        {
+            "id": "col2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "arraigados y sobreedificados en Él, y confirmados en la fe, así como habéis sido enseñados, abundando en ella con acciones de gracias."
+        },
+        {
+            "id": "col2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mirad que nadie os engañe por medio de filosofías y vanas sutilezas, según las tradiciones de los hombres, conforme a los rudimentos del mundo, y no según Cristo."
+        },
+        {
+            "id": "col2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque en Él habita corporalmente toda la plenitud de la Deidad,"
+        },
+        {
+            "id": "col2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y vosotros estáis completos en Él, el cual es la cabeza de todo principado y potestad."
+        },
+        {
+            "id": "col2_sec11_5365",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "En el bautismo morimos y resucitamos con Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "col2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "En quien también sois circuncidados de circuncisión no hecha de mano, en el despojamiento del cuerpo del pecado de la carne, en la circuncisión de Cristo."
+        },
+        {
+            "id": "col2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Sepultados con Él en el bautismo, en el cual también sois resucitados con Él, mediante la fe en el poder de Dios que le levantó de los muertos."
+        },
+        {
+            "id": "col2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con Él; perdonándoos todos los pecados,"
+        },
+        {
+            "id": "col2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "cancelando el manuscrito de las ordenanzas que había contra nosotros, que nos era contrario, quitándolo de en medio y clavándolo en la cruz;"
+        },
+        {
+            "id": "col2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "y despojando a los principados y a las potestades, los exhibió públicamente, triunfando sobre ellos en sí mismo."
+        },
+        {
+            "id": "col2_sec16_ecc9",
+            "speaker": "Sistema",
+            "verse": 16,
+            "text": "Falso ascetismo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "col2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Por tanto, nadie os juzgue en comida o en bebida, o respecto a días de fiesta o de luna nueva, o de sábados;"
+        },
+        {
+            "id": "col2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "que son la sombra de lo por venir; mas el cuerpo es de Cristo."
+        },
+        {
+            "id": "col2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Nadie os prive de vuestra recompensa, afectando humildad y adoración a los ángeles, entremetiéndose en lo que no ha visto, vanamente hinchado por su propia mente carnal,"
+        },
+        {
+            "id": "col2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y no asiéndose de la cabeza, de la cual todo el cuerpo, nutrido y enlazado por las coyunturas y los ligamentos, crece con el crecimiento de Dios."
+        },
+        {
+            "id": "col2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Si habéis muerto con Cristo en cuanto a los rudimentos del mundo, ¿por qué, entonces, como si vivieseis en el mundo, os sometéis a ordenanzas"
+        },
+        {
+            "id": "col2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "tales como: No toques, no gustes, no manejes"
+        },
+        {
+            "id": "col2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "(todas las cuales habrán de perecer con el uso), según mandamientos y doctrinas de hombres?"
+        },
+        {
+            "id": "col2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Tales cosas tienen a la verdad cierta apariencia de sabiduría en adoración voluntaria, en humildad, y en duro trato del cuerpo, pero no tienen ningún valor para la satisfacción de la carne."
+        }
+    ]
+}

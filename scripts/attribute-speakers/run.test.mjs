@@ -377,6 +377,12 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(p2.messages.some(m => m.id.startsWith('php2_')), 'ids con prefijo php');
     });
 
+    it('COL orden pastoral a Pablo: 4:17b Arquipo; id col', () => {
+        const c4 = run('colosenses', 'COL', 4);
+        assert.equal(speakerOf(c4.messages, 17, 'b'), 'Dios'); // revisado a Pablo (orden pastoral relayada)
+        assert.ok(c4.messages.some(m => m.id.startsWith('col4_')), 'ids con prefijo col');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos
