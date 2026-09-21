@@ -1,0 +1,117 @@
+{
+    "book": "1 Corintios",
+    "chapter": 2,
+    "title": "1 Corintios 2",
+    "messages": [
+        {
+            "id": "1co2_sec1_c261",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "San Pablo no predica sino a Cristo, y este crucificado",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así que, hermanos, cuando fui a vosotros para predicaros el testimonio de Dios, no fui con excelencia de palabras o de sabiduría."
+        },
+        {
+            "id": "1co2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Pues me propuse no saber otra cosa entre vosotros, sino a Jesucristo, y a Éste crucificado."
+        },
+        {
+            "id": "1co2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y estuve con vosotros en flaqueza, y mucho temor y temblor;"
+        },
+        {
+            "id": "1co2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "y mi palabra y mi predicación no fue con palabras persuasivas de humana sabiduría, sino con demostración del Espíritu y de poder;"
+        },
+        {
+            "id": "1co2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "para que vuestra fe no esté fundada en la sabiduría de los hombres, sino en el poder de Dios."
+        },
+        {
+            "id": "1co2_sec6_59bb",
+            "speaker": "Sistema",
+            "verse": 6,
+            "text": "La verdadera sabiduría es sobrenatural",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero hablamos sabiduría entre perfectos; y sabiduría, no de este mundo, ni de los príncipes de este mundo, que se desvanece."
+        },
+        {
+            "id": "1co2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Mas hablamos sabiduría de Dios en misterio, la sabiduría encubierta, la cual Dios predestinó antes de los siglos para nuestra gloria;"
+        },
+        {
+            "id": "1co2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "la que ninguno de los príncipes de este mundo conoció; porque si la hubieran conocido, nunca hubieran crucificado al Señor de gloria."
+        },
+        {
+            "id": "1co2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Antes, como está escrito: Ojo no ha visto, ni oído ha escuchado, ni han subido en corazón de hombre, las cosas que Dios ha preparado para los que le aman."
+        },
+        {
+            "id": "1co2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pero Dios nos las reveló a nosotros por su Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios."
+        },
+        {
+            "id": "1co2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoce las cosas de Dios, sino el Espíritu de Dios."
+        },
+        {
+            "id": "1co2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que conozcamos lo que Dios nos ha dado;"
+        },
+        {
+            "id": "1co2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "lo cual también hablamos, no con palabras que enseña la humana sabiduría, sino con las que enseña el Espíritu Santo, acomodando lo espiritual a lo espiritual."
+        },
+        {
+            "id": "1co2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura; y no las puede entender, porque se han de discernir espiritualmente."
+        },
+        {
+            "id": "1co2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pero el que es espiritual juzga todas las cosas; mas él no es juzgado por nadie."
+        },
+        {
+            "id": "1co2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque ¿quién conoció la mente del Señor, para que le instruyese? Mas nosotros tenemos la mente de Cristo."
+        }
+    ]
+}

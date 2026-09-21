@@ -1,0 +1,410 @@
+{
+    "book": "1 Corintios",
+    "chapter": 15,
+    "title": "1 Corintios 15",
+    "messages": [
+        {
+            "id": "1co15_sec1_e066",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "E. LA RESURRECCIÓN DE LOS MUERTOS",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_sec1_bac0",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "El hecho de la resurrección de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Además os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual estáis firmes;"
+        },
+        {
+            "id": "1co15_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "por el cual asimismo sois salvos, si retenéis la palabra que os he predicado, si no habéis creído en vano."
+        },
+        {
+            "id": "1co15_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque primeramente os he entregado lo que asimismo recibí: Que Cristo murió por nuestros pecados conforme a las Escrituras;"
+        },
+        {
+            "id": "1co15_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras;"
+        },
+        {
+            "id": "1co15_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "y que fue visto por Cefas, y después por los doce."
+        },
+        {
+            "id": "1co15_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y después, fue visto por más de quinientos hermanos a la vez; de los cuales muchos viven aún, y otros ya duermen."
+        },
+        {
+            "id": "1co15_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Después fue visto por Jacobo; luego por todos los apóstoles."
+        },
+        {
+            "id": "1co15_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y al último de todos, como por un nacido a destiempo, Él fue visto también por mí."
+        },
+        {
+            "id": "1co15_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí la iglesia de Dios."
+        },
+        {
+            "id": "1co15_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Mas por la gracia de Dios soy lo que soy; y su gracia no ha sido en vano para conmigo; antes he trabajado más que todos ellos; pero no yo, sino la gracia de Dios que ha sido conmigo."
+        },
+        {
+            "id": "1co15_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así que, ya sea yo o ellos, así predicamos, y así habéis creído."
+        },
+        {
+            "id": "1co15_sec12_3326",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "La resurrección de Cristo es prenda de la nuestra",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y si se predica que Cristo resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos?"
+        },
+        {
+            "id": "1co15_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque si no hay resurrección de muertos, tampoco Cristo resucitó."
+        },
+        {
+            "id": "1co15_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y si Cristo no resucitó, vana es entonces nuestra predicación, vana es también vuestra fe."
+        },
+        {
+            "id": "1co15_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y además somos hallados falsos testigos de Dios; porque hemos testificado de Dios, que Él resucitó a Cristo; al cual no resucitó, si en verdad los muertos no resucitan."
+        },
+        {
+            "id": "1co15_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque si los muertos no resucitan, tampoco Cristo resucitó."
+        },
+        {
+            "id": "1co15_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y si Cristo no resucitó, vana es vuestra fe; aún estáis en vuestros pecados."
+        },
+        {
+            "id": "1co15_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Entonces también los que durmieron en Cristo perecieron."
+        },
+        {
+            "id": "1co15_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Si sólo en esta vida esperamos en Cristo, somos los más miserables de todos los hombres."
+        },
+        {
+            "id": "1co15_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho."
+        },
+        {
+            "id": "1co15_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos."
+        },
+        {
+            "id": "1co15_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Porque así como en Adán todos mueren, así también en Cristo todos serán vivificados."
+        },
+        {
+            "id": "1co15_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Pero cada uno en su debido orden: Cristo las primicias; luego los que son de Cristo, en su venida."
+        },
+        {
+            "id": "1co15_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Luego vendrá el fin; cuando haya entregado el reino al Dios y Padre, cuando haya abatido todo dominio y toda autoridad y poder."
+        },
+        {
+            "id": "1co15_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Porque es menester que Él reine, hasta que haya puesto a todos sus enemigos debajo de sus pies."
+        },
+        {
+            "id": "1co15_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Y el postrer enemigo que será destruido es la muerte."
+        },
+        {
+            "id": "1co15_27a",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Porque todas las cosas sujetó debajo de sus pies. Pero cuando dice:"
+        },
+        {
+            "id": "1co15_27b",
+            "speaker": "Pablo",
+            "verse": 27,
+            "text": "Todas las cosas son sujetadas a Él, claramente se exceptúa a Aquél que sujetó a Él todas las cosas."
+        },
+        {
+            "id": "1co15_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y cuando todas las cosas le estén sujetas, entonces también el Hijo mismo se sujetará a Aquél que sujetó a Él todas las cosas, para que Dios sea todo en todos."
+        },
+        {
+            "id": "1co15_sec29_adca",
+            "speaker": "Sistema",
+            "verse": 29,
+            "text": "¿Qué sería si no hubiera resurrección?",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué, pues, se bautizan por los muertos?"
+        },
+        {
+            "id": "1co15_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "¿Y por qué nosotros peligramos a toda hora?"
+        },
+        {
+            "id": "1co15_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Os aseguro por la gloria que de vosotros tengo en Cristo Jesús Señor nuestro, que cada día muero."
+        },
+        {
+            "id": "1co15_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Si como hombre batallé en Éfeso contra bestias, ¿qué me aprovecha? Si los muertos no resucitan, comamos y bebamos, que mañana moriremos."
+        },
+        {
+            "id": "1co15_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "No os engañéis; las malas conversaciones corrompen las buenas costumbres."
+        },
+        {
+            "id": "1co15_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Despertad a justicia, y no pequéis; porque algunos no conocen a Dios; para vergüenza vuestra lo digo."
+        },
+        {
+            "id": "1co15_sec35_4b17",
+            "speaker": "Sistema",
+            "verse": 35,
+            "text": "Naturaleza de los cuerpos resucitados",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Pero dirá alguno: ¿Cómo resucitarán los muertos? ¿Con qué cuerpo vendrán?"
+        },
+        {
+            "id": "1co15_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Necio, lo que tú siembras no revive, si antes no muere."
+        },
+        {
+            "id": "1co15_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Y lo que siembras, no siembras el cuerpo que ha de ser, sino el grano desnudo, ya sea de trigo o de otro grano;"
+        },
+        {
+            "id": "1co15_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "pero Dios le da el cuerpo como Él quiere, y a cada semilla su propio cuerpo."
+        },
+        {
+            "id": "1co15_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "No toda carne es la misma carne; pues una carne es la de los hombres, y otra carne la de los animales, y otra la de los peces, y otra la de las aves."
+        },
+        {
+            "id": "1co15_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "También hay cuerpos celestiales, y cuerpos terrenales; pero una es la gloria de los celestiales, y otra la de los terrenales."
+        },
+        {
+            "id": "1co15_41",
+            "speaker": "Narrador",
+            "verse": 41,
+            "text": "Una es la gloria del sol, y otra la gloria de la luna, y otra la gloria de las estrellas; porque una estrella es diferente de otra estrella en gloria."
+        },
+        {
+            "id": "1co15_42",
+            "speaker": "Narrador",
+            "verse": 42,
+            "text": "Así también es la resurrección de los muertos. Se siembra en corrupción, se levantará en incorrupción;"
+        },
+        {
+            "id": "1co15_43",
+            "speaker": "Narrador",
+            "verse": 43,
+            "text": "se siembra en deshonra, se levantará en gloria; se siembra en flaqueza, se levantará en poder;"
+        },
+        {
+            "id": "1co15_44",
+            "speaker": "Narrador",
+            "verse": 44,
+            "text": "se siembra cuerpo natural, resucitará cuerpo espiritual. Hay cuerpo natural, y hay cuerpo espiritual."
+        },
+        {
+            "id": "1co15_45",
+            "speaker": "Narrador",
+            "verse": 45,
+            "text": "Y así está escrito: El primer hombre Adán fue hecho un alma viviente; el postrer Adán, un espíritu vivificante."
+        },
+        {
+            "id": "1co15_46",
+            "speaker": "Narrador",
+            "verse": 46,
+            "text": "Mas lo espiritual no es primero, sino lo natural; luego lo espiritual."
+        },
+        {
+            "id": "1co15_47",
+            "speaker": "Narrador",
+            "verse": 47,
+            "text": "El primer hombre, es de la tierra, terrenal; el segundo hombre que es el Señor, es del cielo."
+        },
+        {
+            "id": "1co15_48",
+            "speaker": "Narrador",
+            "verse": 48,
+            "text": "Cual el terrenal, tales también los terrenales; y cual el celestial, tales también los celestiales."
+        },
+        {
+            "id": "1co15_49",
+            "speaker": "Narrador",
+            "verse": 49,
+            "text": "Y así como hemos llevado la imagen del terrenal, llevaremos también la imagen del celestial."
+        },
+        {
+            "id": "1co15_sec50_7e48",
+            "speaker": "Sistema",
+            "verse": 50,
+            "text": "Misterio consolador",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_50",
+            "speaker": "Narrador",
+            "verse": 50,
+            "text": "Mas esto digo, hermanos; que la carne y la sangre no pueden heredar el reino de Dios; ni la corrupción hereda la incorrupción."
+        },
+        {
+            "id": "1co15_51",
+            "speaker": "Narrador",
+            "verse": 51,
+            "text": "He aquí, os digo un misterio: No todos dormiremos, pero todos seremos transformados."
+        },
+        {
+            "id": "1co15_52",
+            "speaker": "Narrador",
+            "verse": 52,
+            "text": "En un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados."
+        },
+        {
+            "id": "1co15_53",
+            "speaker": "Narrador",
+            "verse": 53,
+            "text": "Porque es necesario que esto corruptible se vista de incorrupción, y esto mortal se vista de inmortalidad."
+        },
+        {
+            "id": "1co15_sec54_8a68",
+            "speaker": "Sistema",
+            "verse": 54,
+            "text": "Demos gracias a Cristo por su triunfo sobre la muerte",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co15_54",
+            "speaker": "Narrador",
+            "verse": 54,
+            "text": "Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte en victoria."
+        },
+        {
+            "id": "1co15_55",
+            "speaker": "Narrador",
+            "verse": 55,
+            "text": "¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?"
+        },
+        {
+            "id": "1co15_56",
+            "speaker": "Narrador",
+            "verse": 56,
+            "text": "El aguijón de la muerte es el pecado, y el poder del pecado es la ley."
+        },
+        {
+            "id": "1co15_57",
+            "speaker": "Narrador",
+            "verse": 57,
+            "text": "Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo."
+        },
+        {
+            "id": "1co15_58",
+            "speaker": "Narrador",
+            "verse": 58,
+            "text": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano."
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "book": "1 Corintios",
+    "chapter": 5,
+    "title": "1 Corintios 5",
+    "messages": [
+        {
+            "id": "1co5_sec1_5b85",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Excomunión de un incestuoso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Se oye por todas partes que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los gentiles; tanto que alguno tiene la esposa de su padre."
+        },
+        {
+            "id": "1co5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y vosotros estáis envanecidos, en vez de haberos entristecido, para que el que cometió tal acción fuese quitado de entre vosotros."
+        },
+        {
+            "id": "1co5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque yo ciertamente, como ausente en cuerpo, mas presente en espíritu, ya he juzgado como si estuviera presente al que tal acción ha cometido."
+        },
+        {
+            "id": "1co5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "En el nombre de nuestro Señor Jesucristo, congregados vosotros y mi espíritu, con el poder de nuestro Señor Jesucristo,"
+        },
+        {
+            "id": "1co5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "el tal sea entregado a Satanás para la destrucción de la carne, para que el espíritu sea salvo en el día del Señor Jesús."
+        },
+        {
+            "id": "1co5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "No es buena vuestra jactancia. ¿No sabéis que un poco de levadura leuda toda la masa?"
+        },
+        {
+            "id": "1co5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, como sois sin levadura; porque Cristo, nuestra pascua, ya fue sacrificado por nosotros."
+        },
+        {
+            "id": "1co5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Así que celebremos la fiesta, no con la vieja levadura, ni con la levadura de malicia y de maldad, sino con panes sin levadura, de sinceridad y de verdad."
+        },
+        {
+            "id": "1co5_sec9_60ee",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Los escandalosos que se llaman hermanos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Os he escrito por carta, que no os asociéis con los fornicarios;"
+        },
+        {
+            "id": "1co5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "mas no del todo con los fornicarios de este mundo, o con los avaros, o con los ladrones, o con los idólatras; pues entonces os sería necesario salir del mundo."
+        },
+        {
+            "id": "1co5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas ahora os he escrito, que no os asociéis con ninguno que, llamándose hermano, sea fornicario, o avaro, o idólatra, o maldiciente, o borracho, o ladrón, con el tal ni aun comáis."
+        },
+        {
+            "id": "1co5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque ¿qué me va a mí en juzgar a los que están fuera? ¿No juzgáis vosotros a los que están dentro?"
+        },
+        {
+            "id": "1co5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque a los que están fuera, Dios juzgará. Quitad, pues, a ese perverso de entre vosotros."
+        }
+    ]
+}

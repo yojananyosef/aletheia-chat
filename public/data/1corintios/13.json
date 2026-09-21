@@ -1,0 +1,92 @@
+{
+    "book": "1 Corintios",
+    "chapter": 13,
+    "title": "1 Corintios 13",
+    "messages": [
+        {
+            "id": "1co13_sec1_e300",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Tratado de la caridad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co13_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Si yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo a ser como metal que resuena, o címbalo que retiñe."
+        },
+        {
+            "id": "1co13_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y si tuviese el don de profecía, y entendiese todos los misterios y toda ciencia; y si tuviese toda la fe, de tal manera que trasladase los montes, y no tengo caridad, nada soy."
+        },
+        {
+            "id": "1co13_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y si repartiese todos mis bienes para dar de comer a los pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve."
+        },
+        {
+            "id": "1co13_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "La caridad es sufrida, es benigna; La caridad no tiene envidia, la caridad no es jactanciosa, no se envanece;"
+        },
+        {
+            "id": "1co13_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "no hace nada indebido, no busca lo suyo, no se irrita, no piensa el mal;"
+        },
+        {
+            "id": "1co13_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "no se goza en la injusticia, mas se goza en la verdad;"
+        },
+        {
+            "id": "1co13_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+        },
+        {
+            "id": "1co13_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "La caridad nunca deja de ser; mas las profecías se acabarán, y cesarán las lenguas, y la ciencia acabará."
+        },
+        {
+            "id": "1co13_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque en parte conocemos, y en parte profetizamos;"
+        },
+        {
+            "id": "1co13_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "mas cuando venga lo que es perfecto, entonces lo que es en parte se acabará."
+        },
+        {
+            "id": "1co13_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Cuando yo era niño, hablaba como niño, pensaba como niño, juzgaba como niño, mas cuando ya fui hombre hecho, dejé lo que era de niño."
+        },
+        {
+            "id": "1co13_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara; ahora conozco en parte; mas entonces conoceré como soy conocido."
+        },
+        {
+            "id": "1co13_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y ahora permanecen la fe, la esperanza y la caridad, estas tres; pero la mayor de ellas es la caridad."
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "book": "1 Corintios",
+    "chapter": 3,
+    "title": "1 Corintios 3",
+    "messages": [
+        {
+            "id": "1co3_sec1_5b67",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Discordias y bandos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo."
+        },
+        {
+            "id": "1co3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Os di a beber leche, y no carne; porque aún no podíais digerirla, ni aún ahora podéis;"
+        },
+        {
+            "id": "1co3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "porque aún sois carnales; pues habiendo entre vosotros celos, y contiendas, y divisiones, ¿no sois carnales, y andáis como hombres?"
+        },
+        {
+            "id": "1co3_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque cuando uno dice:"
+        },
+        {
+            "id": "1co3_4b",
+            "speaker": "Pablo",
+            "verse": 4,
+            "text": "Yo soy de Pablo; y otro: Yo de Apolos; ¿no sois carnales?"
+        },
+        {
+            "id": "1co3_5",
+            "speaker": "Pablo",
+            "verse": 5,
+            "text": "¿Qué, pues, es Pablo, y qué es Apolos? Sino ministros por los cuales habéis creído, y eso según lo que a cada uno ha concedido el Señor."
+        },
+        {
+            "id": "1co3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios."
+        },
+        {
+            "id": "1co3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento."
+        },
+        {
+            "id": "1co3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y el que planta y el que riega son una misma cosa; aunque cada uno recibirá su recompensa conforme a su labor."
+        },
+        {
+            "id": "1co3_sec9_47ce",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Responsabilidad de los predicadores",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque nosotros, colaboradores somos de Dios; y vosotros sois labranza de Dios, edificio de Dios."
+        },
+        {
+            "id": "1co3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Conforme a la gracia de Dios que me es dada, yo como perito arquitecto puse el fundamento, y otro edifica encima; pero cada uno mire cómo sobreedifica."
+        },
+        {
+            "id": "1co3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque nadie puede poner otro fundamento que el que está puesto, el cual es Jesucristo."
+        },
+        {
+            "id": "1co3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y si alguno edificare sobre este fundamento oro, plata, piedras preciosas, madera, heno, hojarasca;"
+        },
+        {
+            "id": "1co3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "la obra de cada uno se hará manifiesta; porque el día la declarará; porque por el fuego será revelada; y la obra de cada uno cuál sea, el fuego la probará."
+        },
+        {
+            "id": "1co3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Si permaneciere la obra de alguno que sobreedificó, recibirá recompensa."
+        },
+        {
+            "id": "1co3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Si la obra de alguno fuere quemada, sufrirá pérdida; si bien él mismo será salvo, aunque así como por fuego."
+        },
+        {
+            "id": "1co3_16",
+            "speaker": "Pablo",
+            "verse": 16,
+            "text": "¿No sabéis que sois templo de Dios, y que el Espíritu de Dios mora en vosotros?"
+        },
+        {
+            "id": "1co3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Si alguno destruye el templo de Dios, Dios le destruirá a él; porque el templo de Dios, el cual sois vosotros, santo es."
+        },
+        {
+            "id": "1co3_sec18_aaa7",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "La sabiduría del mundo es locura ante Dios",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Nadie se engañe a sí mismo; si alguno entre vosotros se cree ser sabio en este mundo, hágase ignorante, para que llegue a ser sabio."
+        },
+        {
+            "id": "1co3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque la sabiduría de este mundo insensatez es para con Dios; pues escrito está: Él prende a los sabios en la astucia de ellos."
+        },
+        {
+            "id": "1co3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y otra vez: El Señor conoce los pensamientos de los sabios, que son vanos."
+        },
+        {
+            "id": "1co3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Así que, ninguno se gloríe en los hombres; porque todo es vuestro,"
+        },
+        {
+            "id": "1co3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "sea Pablo, sea Apolos, sea Cefas, sea el mundo, sea la vida, sea la muerte, sea lo presente, sea lo por venir; todo es vuestro,"
+        },
+        {
+            "id": "1co3_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "y vosotros sois de Cristo, y Cristo de Dios."
+        }
+    ]
+}

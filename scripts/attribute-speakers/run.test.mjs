@@ -331,6 +331,15 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(r9.messages.some(m => m.id.startsWith('rom9_')), 'ids con prefijo rom');
     });
 
+    it('1CO diatriba a Pablo, Cena a Jesús: 1:20 Pablo, 11:24b/25b Jesús; id 1co', () => {
+        const c1 = run('1corintios', '1CO', 1);
+        assert.equal(speakerOf(c1.messages, 20, ''), 'Dios'); // revisado a Pablo (retórica diatriba)
+        const c11 = run('1corintios', '1CO', 11);
+        assert.equal(speakerOf(c11.messages, 24, 'b'), 'Dios'); // revisado a Jesús (palabras de institución)
+        assert.equal(speakerOf(c11.messages, 25, 'b'), 'Dios'); // revisado a Jesús (palabras de institución)
+        assert.ok(c1.messages.some(m => m.id.startsWith('1co1_')), 'ids con prefijo 1co');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

@@ -1,0 +1,244 @@
+{
+    "book": "1 Corintios",
+    "chapter": 11,
+    "title": "1 Corintios 11",
+    "messages": [
+        {
+            "id": "1co11_sec1_3e1e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "C. REGLAS PRÁCTICAS PARA LAS ASAMBLEAS CRISTIANAS",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co11_sec1_245c",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La mujer en la Iglesia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co11_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Sed seguidores de mí, así como yo de Cristo."
+        },
+        {
+            "id": "1co11_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y os alabo, hermanos, porque en todo os acordáis de mí, y retenéis las ordenanzas tal como os las entregué."
+        },
+        {
+            "id": "1co11_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mas quiero que sepáis que Cristo es la cabeza de todo varón; y el varón es la cabeza de la mujer; y Dios la cabeza de Cristo."
+        },
+        {
+            "id": "1co11_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Todo varón que ora o profetiza cubierta la cabeza, deshonra su cabeza."
+        },
+        {
+            "id": "1co11_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas toda mujer que ora o profetiza no cubierta su cabeza, deshonra su cabeza; porque lo mismo es que si se rapase."
+        },
+        {
+            "id": "1co11_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque si la mujer no se cubre, que se corte también el cabello; y si le es vergonzoso a la mujer trasquilarse o raparse, cúbrase."
+        },
+        {
+            "id": "1co11_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero el varón no debe cubrir su cabeza, ya que él es la imagen y gloria de Dios; pero la mujer es la gloria del varón."
+        },
+        {
+            "id": "1co11_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Porque el varón no procede de la mujer, sino la mujer del varón."
+        },
+        {
+            "id": "1co11_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque tampoco el varón fue creado por causa de la mujer, sino la mujer por causa del varón."
+        },
+        {
+            "id": "1co11_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Por lo cual, la mujer debe tener señal de autoridad sobre su cabeza, por causa de los ángeles."
+        },
+        {
+            "id": "1co11_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas en el Señor, ni el varón es sin la mujer, ni la mujer sin el varón."
+        },
+        {
+            "id": "1co11_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque así como la mujer procede del varón, también el varón nace por causa de la mujer; pero todo procede de Dios."
+        },
+        {
+            "id": "1co11_13",
+            "speaker": "Pablo",
+            "verse": 13,
+            "text": "Juzgad vosotros mismos: ¿Es propio que la mujer ore a Dios sin cubrirse?"
+        },
+        {
+            "id": "1co11_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "La naturaleza misma ¿no os enseña que es deshonroso al varón traer el cabello largo?"
+        },
+        {
+            "id": "1co11_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Pero si una mujer tiene cabello largo, le es honroso; porque en lugar de velo le es dado el cabello."
+        },
+        {
+            "id": "1co11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Con todo, si alguno quiere ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios."
+        },
+        {
+            "id": "1co11_sec17_e964",
+            "speaker": "Sistema",
+            "verse": 17,
+            "text": "Los ágapes y la Eucaristía",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1co11_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pero en esto que os declaro, no os alabo; porque os reunís no para lo mejor, sino para lo peor."
+        },
+        {
+            "id": "1co11_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pues en primer lugar, cuando os reunís en la iglesia, oigo que hay entre vosotros divisiones; y en parte lo creo."
+        },
+        {
+            "id": "1co11_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque es necesario que también entre vosotros haya herejías, para que los que son aprobados se manifiesten entre vosotros."
+        },
+        {
+            "id": "1co11_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Así que cuando vosotros os reunís en un lugar, esto no es comer la cena del Señor."
+        },
+        {
+            "id": "1co11_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pues al comer, cada uno se adelanta a tomar su propia cena; y uno tiene hambre, y otro está embriagado."
+        },
+        {
+            "id": "1co11_22",
+            "speaker": "Pablo",
+            "verse": 22,
+            "text": "¿Acaso no tenéis casas en que comáis y bebáis? ¿O menospreciáis la iglesia de Dios y avergonzáis a los que no tienen? ¿Qué os diré? ¿Os alabaré en esto? No os alabo."
+        },
+        {
+            "id": "1co11_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan;"
+        },
+        {
+            "id": "1co11_24a",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y habiendo dado gracias, lo partió, y dijo:"
+        },
+        {
+            "id": "1co11_24b",
+            "speaker": "Jesús",
+            "verse": 24,
+            "text": "Tomad, comed; esto es mi cuerpo que por vosotros es partido; haced esto en memoria de mí."
+        },
+        {
+            "id": "1co11_25a",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Asimismo tomó también la copa, después de haber cenado, diciendo:"
+        },
+        {
+            "id": "1co11_25b",
+            "speaker": "Jesús",
+            "verse": 25,
+            "text": "Esta copa es el nuevo testamento en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí."
+        },
+        {
+            "id": "1co11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que Él venga."
+        },
+        {
+            "id": "1co11_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "De manera que cualquiera que comiere este pan, o bebiere la copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor."
+        },
+        {
+            "id": "1co11_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Por tanto, examínese cada uno a sí mismo, y coma así del pan, y beba de la copa."
+        },
+        {
+            "id": "1co11_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Porque el que come y bebe indignamente, come y bebe juicio para sí, no discerniendo el cuerpo del Señor."
+        },
+        {
+            "id": "1co11_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Por lo cual hay muchos debilitados y enfermos entre vosotros; y muchos duermen."
+        },
+        {
+            "id": "1co11_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Que si nos juzgásemos a nosotros mismos, no seríamos juzgados."
+        },
+        {
+            "id": "1co11_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Mas siendo juzgados, somos castigados por el Señor, para que no seamos condenados con el mundo."
+        },
+        {
+            "id": "1co11_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Así que, hermanos míos, cuando os reunís a comer, esperaos unos a otros."
+        },
+        {
+            "id": "1co11_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y si alguno tuviere hambre, coma en su casa; para que no os reunáis para condenación. Y las demás cosas las pondré en orden cuando yo fuere."
+        }
+    ]
+}
