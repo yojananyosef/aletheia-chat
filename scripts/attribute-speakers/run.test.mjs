@@ -471,6 +471,18 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(j2.messages.some(m => m.id.startsWith('1jn2_')), 'ids con prefijo 1jn');
     });
 
+    it('2JN/3JN/JUD citas al relator; id 2jn/3jn/jud', () => {
+        const j2 = run('2juan', '2JN', 1);
+        assert.equal(speakerOf(j2.messages, 11, 'b'), 'Dios'); // revisado a Narrador (cita saludo)
+        const j3 = run('3juan', '3JN', 1);
+        assert.ok(j3.messages.some(m => m.id.startsWith('3jn1_')), 'ids con prefijo 3jn');
+        const jd = run('judas', 'JUD', 1);
+        assert.equal(speakerOf(jd.messages, 9, 'b'), 'Moisés'); // revisado a Narrador (Miguel)
+        assert.equal(speakerOf(jd.messages, 14, 'b'), 'Adán'); // revisado a Narrador (Enoc)
+        assert.equal(speakerOf(jd.messages, 18, 'b'), 'Dios'); // revisado a Narrador (cita apóstoles)
+        assert.ok(jd.messages.some(m => m.id.startsWith('jud1_')), 'ids con prefijo jud');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

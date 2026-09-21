@@ -1,0 +1,105 @@
+{
+    "book": "2 Juan",
+    "chapter": 1,
+    "title": "2 Juan 1",
+    "messages": [
+        {
+            "id": "2jn1_sec1_2de1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Exhortación a perseverar en la fe y en la caridad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2jn1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad; y no sólo yo, sino también todos los que han conocido la verdad,"
+        },
+        {
+            "id": "2jn1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "por causa de la verdad que mora en nosotros, y estará para siempre con nosotros."
+        },
+        {
+            "id": "2jn1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Gracia sea con vosotros, misericordia y paz, de Dios Padre y del Señor Jesucristo, Hijo del Padre, en verdad y en amor."
+        },
+        {
+            "id": "2jn1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mucho me regocijé porque he hallado de tus hijos, que andan en la verdad, tal como nosotros hemos recibido el mandamiento del Padre."
+        },
+        {
+            "id": "2jn1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y ahora te ruego, señora, no como escribiéndote un mandamiento nuevo, sino aquel que hemos tenido desde el principio, que nos amemos unos a otros."
+        },
+        {
+            "id": "2jn1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Y este es el amor, que andemos según sus mandamientos. Este es el mandamiento: Que andéis en él, como vosotros habéis oído desde el principio."
+        },
+        {
+            "id": "2jn1_sec7_df5a",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "Contra los falsos doctores",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2jn1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque muchos engañadores han entrado en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. El que tal hace es engañador y anticristo."
+        },
+        {
+            "id": "2jn1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mirad por vosotros mismos, para que no perdamos aquello por lo que hemos trabajado, sino que recibamos galardón completo."
+        },
+        {
+            "id": "2jn1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Cualquiera que se rebela, y no persevera en la doctrina de Cristo, no tiene a Dios; el que persevera en la doctrina de Cristo, el tal tiene al Padre y al Hijo."
+        },
+        {
+            "id": "2jn1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Si alguno viene a vosotros y no trae esta doctrina, no lo recibáis en vuestra casa, ni le digáis: Bienvenido."
+        },
+        {
+            "id": "2jn1_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque el que le dice:"
+        },
+        {
+            "id": "2jn1_11b",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Bienvenido, participa de sus malas obras."
+        },
+        {
+            "id": "2jn1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Aunque tengo muchas cosas que escribiros, no he querido hacerlo por medio de papel y tinta; pues espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea cumplido."
+        },
+        {
+            "id": "2jn1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Los hijos de tu hermana elegida te saludan. Amén."
+        }
+    ]
+}

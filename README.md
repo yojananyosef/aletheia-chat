@@ -59,7 +59,7 @@ node --test scripts/attribute-speakers/run.test.mjs   # Regresión del pipeline 
 ## 🏗️ Arquitectura
 
 - `app/` solo routing (layout, `manifest.ts`, `robots.ts`, `sitemap.ts`, iconos, route group `(app)/`).
-- `src/` contiene el dominio: `views/`, `components/`, `hooks/`, `context/`, `core/` (`domain/Message.ts` es la fuente de verdad de hablantes y reglas de avance) y `constants/books.ts` (manifiesto del canon: 66 libros, 62 desbloqueados).
+- `src/` contiene el dominio: `views/`, `components/`, `hooks/`, `context/`, `core/` (`domain/Message.ts` es la fuente de verdad de hablantes y reglas de avance) y `constants/books.ts` (manifiesto del canon: 66 libros, 65 desbloqueados).
 - `scripts/attribute-speakers/`: pipeline que genera el corpus (heurística de hablantes + revisión LLM de ambiguos + QA).
 - `scripts/brand/`: iconos derivados de un único SVG maestro (`public/logo.svg`).
 
@@ -111,8 +111,8 @@ El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
 > Revisa sus licencias antes de publicar el corpus. RV1909 es dominio público y es la
 > opción segura si redistribuyes la app con datos incluidos. Ver `scripts/attribute-speakers/README.md`.
 
-Estado del corpus: **62 / 66 libros publicados** (1.164 capítulos). Pendiente el resto del
-Nuevo Testamento (4 libros, 25 capítulos) más los desbloqueos en `books.ts`.
+Estado del corpus: **65 / 66 libros publicados** (1.167 capítulos). Pendiente
+Apocalipsis (22 capítulos) más el desbloqueo en `books.ts`.
 
 ## 💾 Persistencia (localStorage)
 
