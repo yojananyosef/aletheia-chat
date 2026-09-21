@@ -452,6 +452,15 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(p4.messages.some(m => m.id.startsWith('1pe4_')), 'ids con prefijo 1pe');
     });
 
+    it('2PE transfiguración a Dios, testimonio al relator; burla al relator; id 2pe', () => {
+        const p1 = run('2pedro', '2PE', 1);
+        assert.equal(speakerOf(p1.messages, 17, 'b'), 'Dios'); // voz del cielo: oráculo genuino
+        assert.equal(speakerOf(p1.messages, 18, ''), 'Dios'); // revisado a Narrador (testimonio "oímos")
+        const p3 = run('2pedro', '2PE', 3);
+        assert.equal(speakerOf(p3.messages, 4, 'b'), 'Dios'); // revisado a Narrador (cita de burladores)
+        assert.ok(p1.messages.some(m => m.id.startsWith('2pe1_')), 'ids con prefijo 2pe');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

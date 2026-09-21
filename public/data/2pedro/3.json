@@ -1,0 +1,135 @@
+{
+    "book": "2 Pedro",
+    "chapter": 3,
+    "title": "2 Pedro 3",
+    "messages": [
+        {
+            "id": "2pe3_sec1_7739",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "San Pedro insiste sobre la Parusía y la consumación del siglo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2pe3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Carísimos, esta segunda carta escribo ahora a vosotros; en la cual despierto vuestro sincero entendimiento, por recordatorio;"
+        },
+        {
+            "id": "2pe3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y del mandamiento de nosotros los apóstoles del Señor y Salvador;"
+        },
+        {
+            "id": "2pe3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "sabiendo primero esto, que en los postreros días vendrán burladores, andando según sus propias concupiscencias,"
+        },
+        {
+            "id": "2pe3_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y diciendo:"
+        },
+        {
+            "id": "2pe3_4b",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "¿Dónde está la promesa de su venida? Porque desde que los padres durmieron, todas las cosas permanecen así como estaban desde el principio de la creación."
+        },
+        {
+            "id": "2pe3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque ellos ignoran voluntariamente esto; que por la palabra de Dios fueron creados los cielos en el tiempo antiguo, y la tierra, que por agua y en agua está asentada;"
+        },
+        {
+            "id": "2pe3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "por lo cual el mundo de entonces pereció anegado en agua."
+        },
+        {
+            "id": "2pe3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Pero los cielos que son ahora, y la tierra, son reservados por la misma palabra, guardados para el fuego en el día del juicio y de la perdición de los hombres impíos."
+        },
+        {
+            "id": "2pe3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas, amados, no ignoréis esto: Que un día delante del Señor es como mil años, y mil años como un día."
+        },
+        {
+            "id": "2pe3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos vengan al arrepentimiento."
+        },
+        {
+            "id": "2pe3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Pero el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella hay serán quemadas."
+        },
+        {
+            "id": "2pe3_sec11_5d0b",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "Debemos aguardar el día del Señor",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2pe3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Puesto que todas estas cosas han de ser deshechas, ¿cómo no debéis vosotros de conduciros en santa y piadosa manera de vivir?"
+        },
+        {
+            "id": "2pe3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Esperando y apresurándoos para la venida del día de Dios, en el cual los cielos, siendo encendidos, serán deshechos, y los elementos siendo quemados, se fundirán."
+        },
+        {
+            "id": "2pe3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Pero nosotros esperamos según su promesa, cielos nuevos y tierra nueva, en los cuales mora la justicia."
+        },
+        {
+            "id": "2pe3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Por lo cual, amados, estando en espera de estas cosas, procurad con diligencia que seáis hallados de Él en paz, sin mácula y sin reprensión."
+        },
+        {
+            "id": "2pe3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y considerad la paciencia de nuestro Señor por salvación; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito,"
+        },
+        {
+            "id": "2pe3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "como también en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos e inconstantes tuercen, como también las otras Escrituras, para su propia perdición."
+        },
+        {
+            "id": "2pe3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Así que vosotros, amados, sabiéndolo de antemano, guardaos, no sea que siendo desviados con el error de los inicuos, caigáis de vuestra firmeza."
+        },
+        {
+            "id": "2pe3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mas creced en la gracia y en el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea gloria ahora y para siempre. Amén."
+        }
+    ]
+}

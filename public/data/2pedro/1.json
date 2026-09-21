@@ -1,0 +1,167 @@
+{
+    "book": "2 Pedro",
+    "chapter": 1,
+    "title": "2 Pedro 1",
+    "messages": [
+        {
+            "id": "2pe1_sec1_28d4",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salutación apostólica",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2pe1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Simón Pedro, siervo y apóstol de Jesucristo, a los que habéis alcanzado fe igualmente preciosa con nosotros, por la justicia de nuestro Dios y Salvador Jesucristo."
+        },
+        {
+            "id": "2pe1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Gracia y paz os sean multiplicadas en el conocimiento de Dios, y de Jesús nuestro Señor."
+        },
+        {
+            "id": "2pe1_sec3_c330",
+            "speaker": "Sistema",
+            "verse": 3,
+            "text": "La vida ejemplar del cristiano",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2pe1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Como todas las cosas que pertenecen a la vida y a la piedad nos han sido dadas por su divino poder, mediante el conocimiento de Aquél que nos ha llamado a gloria y virtud;"
+        },
+        {
+            "id": "2pe1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "por medio de las cuales nos ha dado preciosas y grandísimas promesas, para que por ellas fueseis hechos participantes de la naturaleza divina, habiendo huido de la corrupción que hay en el mundo por la concupiscencia."
+        },
+        {
+            "id": "2pe1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Vosotros también, poniendo toda diligencia en esto mismo, añadid a vuestra fe, virtud, y a la virtud, conocimiento;"
+        },
+        {
+            "id": "2pe1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y al conocimiento, templanza, y a la templanza, paciencia, y a la paciencia, piedad;"
+        },
+        {
+            "id": "2pe1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "y a la piedad, amor fraternal, y al amor fraternal, caridad."
+        },
+        {
+            "id": "2pe1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Porque si en vosotros hay estas cosas, y abundan, no os dejarán estar ociosos, ni estériles en cuanto al conocimiento de nuestro Señor Jesucristo."
+        },
+        {
+            "id": "2pe1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero el que no tiene estas cosas tiene la vista muy corta, es ciego, y se ha olvidado que fue purificado de sus antiguos pecados."
+        },
+        {
+            "id": "2pe1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Por lo cual, hermanos, procurad tanto más hacer firme vuestro llamamiento y elección; porque haciendo estas cosas, no caeréis jamás."
+        },
+        {
+            "id": "2pe1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo."
+        },
+        {
+            "id": "2pe1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por esto, yo no dejaré de recordaros siempre estas cosas, aunque vosotros las sepáis, y estéis afirmados en la verdad presente."
+        },
+        {
+            "id": "2pe1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque tengo por justo, en tanto que estoy en este tabernáculo, el incitaros con amonestación;"
+        },
+        {
+            "id": "2pe1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "sabiendo que en breve debo dejar mi tabernáculo, como nuestro Señor Jesucristo me ha declarado."
+        },
+        {
+            "id": "2pe1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "También yo procuraré con diligencia, que después de mi muerte, vosotros podáis en todo momento tener memoria de estas cosas."
+        },
+        {
+            "id": "2pe1_sec16_93a2",
+            "speaker": "Sistema",
+            "verse": 16,
+            "text": "La Parusía del Señor",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2pe1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque no os hemos dado a conocer el poder y la venida de nuestro Señor Jesucristo, siguiendo fábulas artificiosas; sino como habiendo visto con nuestros propios ojos su majestad."
+        },
+        {
+            "id": "2pe1_17a",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque Él recibió de Dios Padre honor y gloria, cuando le fue enviada desde la magnífica gloria una gran voz que decía:"
+        },
+        {
+            "id": "2pe1_17b",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Éste es mi Hijo amado, en el cual tengo contentamiento."
+        },
+        {
+            "id": "2pe1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y nosotros oímos esta voz enviada del cielo, cuando estábamos con Él en el monte santo."
+        },
+        {
+            "id": "2pe1_sec19_5f1a",
+            "speaker": "Sistema",
+            "verse": 19,
+            "text": "El testimonio de los profetas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2pe1_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Tenemos además la palabra profética más segura, a la cual hacéis bien de estar atentos como a una lámpara que alumbra en lugar oscuro hasta que el día esclarezca, y la estrella de la mañana salga en vuestros corazones;"
+        },
+        {
+            "id": "2pe1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada;"
+        },
+        {
+            "id": "2pe1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "porque la profecía no vino en tiempo pasado por la voluntad del hombre; sino que los santos hombres de Dios hablaron siendo guiados por el Espíritu Santo."
+        }
+    ]
+}
