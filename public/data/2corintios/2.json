@@ -1,0 +1,130 @@
+{
+    "book": "2 Corintios",
+    "chapter": 2,
+    "title": "2 Corintios 2",
+    "messages": [
+        {
+            "id": "2co2_sec1_cb46",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Objeto de esta carta",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Esto, pues, determiné para conmigo, no venir otra vez a vosotros con tristeza."
+        },
+        {
+            "id": "2co2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque si yo os contristo, ¿quién será luego el que me alegrará, sino aquel a quien yo contristare?"
+        },
+        {
+            "id": "2co2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y esto mismo os escribí, para que cuando viniere no tenga tristeza de aquellos de quienes me debiera alegrar; confiando en vosotros todos que mi gozo es el de todos vosotros."
+        },
+        {
+            "id": "2co2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque por la mucha tribulación y angustia del corazón os escribí con muchas lágrimas; no para que fueseis contristados, sino para que supieseis cuán grande amor tengo para con vosotros."
+        },
+        {
+            "id": "2co2_sec5_b38c",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "El apóstol perdona al incestuoso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Que si alguno ha causado tristeza, no me ha entristecido a mí sino en parte; para no sobrecargaros a todos vosotros."
+        },
+        {
+            "id": "2co2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Bástele al tal el castigo que le fue impuesto por muchos;"
+        },
+        {
+            "id": "2co2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "así que, al contrario, vosotros más bien debierais perdonarle y consolarle, para que el tal no sea consumido de demasiada tristeza."
+        },
+        {
+            "id": "2co2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por lo cual os ruego que confirméis vuestro amor para con él."
+        },
+        {
+            "id": "2co2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque también por este fin os escribí, para saber la prueba de si vosotros sois obedientes en todo."
+        },
+        {
+            "id": "2co2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y al que vosotros perdonareis algo, yo también; porque si algo he perdonado, a quien lo he perdonado, por vosotros lo he hecho en la persona de Cristo;"
+        },
+        {
+            "id": "2co2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "para que no nos gane Satanás; pues no ignoramos sus maquinaciones."
+        },
+        {
+            "id": "2co2_sec12_d38e",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Solicitud paternal",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y cuando vine a Troas para predicar el evangelio de Cristo, y una puerta me fue abierta en el Señor,"
+        },
+        {
+            "id": "2co2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "no tuve reposo en mi espíritu, por no haber hallado a Tito mi hermano; mas despidiéndome de ellos, partí para Macedonia."
+        },
+        {
+            "id": "2co2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas a Dios gracias, el cual hace que siempre triunfemos en Cristo, y manifiesta la fragancia de su conocimiento por nosotros en todo lugar."
+        },
+        {
+            "id": "2co2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Porque para Dios somos de Cristo grata fragancia en los que son salvos, y en los que se pierden;"
+        },
+        {
+            "id": "2co2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "a éstos ciertamente olor de muerte para muerte; y a aquéllos fragancia de vida para vida. Y para estas cosas, ¿quién es suficiente?"
+        },
+        {
+            "id": "2co2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque no somos como muchos que adulteran la palabra de Dios; antes con sinceridad, como de parte de Dios, delante de Dios hablamos en Cristo."
+        }
+    ]
+}

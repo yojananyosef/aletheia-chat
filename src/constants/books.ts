@@ -122,7 +122,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     // --- EPÍSTOLAS DE PABLO ---
     { id: 'romanos', name: 'Romanos', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], category: 'Epístolas de Pablo', description: 'La justicia de Dios por medio de la fe.', participants: ['Dios', 'Narrador', 'Sistema', 'Pablo'] },
     { id: '1corintios', name: '1 Corintios', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], category: 'Epístolas de Pablo', description: 'Instrucciones para una iglesia en crisis.', participants: ['Dios', 'Narrador', 'Sistema', 'Pablo', 'Jesús'] },
-    { id: '2corintios', name: '2 Corintios', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Defensa del ministerio apostólico.', participants: ['Pablo'] },
+    { id: '2corintios', name: '2 Corintios', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], category: 'Epístolas de Pablo', description: 'Defensa del ministerio apostólico.', participants: ['Dios', 'Narrador', 'Sistema', 'Pablo'] },
     { id: 'galatas', name: 'Gálatas', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Libertad en Cristo y contra el legalismo.', participants: ['Pablo'] },
     { id: 'efesios', name: 'Efesios', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'La riqueza espiritual en Cristo y la armadura de Dios.', participants: ['Pablo'] },
     { id: 'filipenses', name: 'Filipenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Gozo en medio del sufrimiento.', participants: ['Pablo'] },

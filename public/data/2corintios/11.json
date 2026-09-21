@@ -1,0 +1,226 @@
+{
+    "book": "2 Corintios",
+    "chapter": 11,
+    "title": "2 Corintios 11",
+    "messages": [
+        {
+            "id": "2co11_sec1_44cc",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Ironía con los falsos apóstoles",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co11_1",
+            "speaker": "Pablo",
+            "verse": 1,
+            "text": "¡Quiera Dios que toleraseis un poco mi locura! En verdad, toleradme."
+        },
+        {
+            "id": "2co11_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque os celo con celo de Dios; porque os he desposado a un esposo, para presentaros como una virgen pura a Cristo."
+        },
+        {
+            "id": "2co11_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Mas temo que en alguna manera, como la serpiente engañó a Eva con su astucia, así sean corrompidas vuestras mentes, de la simplicidad que es en Cristo."
+        },
+        {
+            "id": "2co11_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque si alguno viene y predica otro Jesús que el que os hemos predicado, o recibís otro espíritu del que habéis recibido, u otro evangelio del que habéis aceptado, bien lo toleráis."
+        },
+        {
+            "id": "2co11_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas yo pienso que en nada he sido inferior a aquellos grandes apóstoles."
+        },
+        {
+            "id": "2co11_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque aunque soy rudo en la palabra, no así en el conocimiento; y en todo hemos sido enteramente manifiestos entre vosotros."
+        },
+        {
+            "id": "2co11_sec7_2331",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "A nadie fui gravoso",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co11_7",
+            "speaker": "Pablo",
+            "verse": 7,
+            "text": "¿Acaso pequé humillándome a mí mismo (para que vosotros fueseis ensalzados), porque os he predicado el evangelio de Dios de balde?"
+        },
+        {
+            "id": "2co11_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "He despojado a otras iglesias, tomando salario de ellas, para serviros a vosotros."
+        },
+        {
+            "id": "2co11_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y estando con vosotros y teniendo necesidad, a ninguno fui carga; porque lo que me faltaba, lo suplieron los hermanos que vinieron de Macedonia; y en todo me guardé de seros carga, y me guardaré."
+        },
+        {
+            "id": "2co11_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Como la verdad de Cristo está en mí; nadie me impedirá esta gloria en las regiones de Acaya."
+        },
+        {
+            "id": "2co11_11",
+            "speaker": "Pablo",
+            "verse": 11,
+            "text": "¿Por qué? ¿Porque no os amo? Dios lo sabe."
+        },
+        {
+            "id": "2co11_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas lo que hago, haré aún, para cortar la ocasión de aquellos que la desean, a fin de que en aquello que se glorían, sean hallados semejantes a nosotros."
+        },
+        {
+            "id": "2co11_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque éstos son falsos apóstoles, obreros fraudulentos, disfrazándose como apóstoles de Cristo."
+        },
+        {
+            "id": "2co11_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y no es de maravillarse, porque el mismo Satanás se disfraza como ángel de luz."
+        },
+        {
+            "id": "2co11_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Así que, no es gran cosa si también sus ministros se disfrazan como ministros de justicia; cuyo fin será conforme a sus obras."
+        },
+        {
+            "id": "2co11_sec16_1a0e",
+            "speaker": "Sistema",
+            "verse": 16,
+            "text": "El apóstol se compara con sus adversarios",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Otra vez digo: Que nadie me tenga por loco; de otra manera, recibidme aun como a loco, para que me gloríe yo un poquito."
+        },
+        {
+            "id": "2co11_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Lo que hablo, no lo hablo según el Señor, sino como en locura, con esta confianza de gloria."
+        },
+        {
+            "id": "2co11_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Puesto que muchos se glorían según la carne, también yo me gloriaré."
+        },
+        {
+            "id": "2co11_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque de buena gana toleráis a los necios, siendo vosotros sabios:"
+        },
+        {
+            "id": "2co11_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque toleráis si alguno os pone en servidumbre, si alguno os devora, si alguno toma de vosotros, si alguno se ensalza, si alguno os hiere en la cara."
+        },
+        {
+            "id": "2co11_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Lo digo en cuanto a la afrenta, como si nosotros hubiésemos sido débiles. Pero en lo que otro tuviere osadía (hablo con locura), también yo tengo osadía."
+        },
+        {
+            "id": "2co11_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "¿Son hebreos? Yo también. ¿Son israelitas? Yo también. ¿Son simiente de Abraham? También yo."
+        },
+        {
+            "id": "2co11_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "¿Son ministros de Cristo? (como poco sabio hablo) Yo más; en trabajos más abundante; en azotes sin medida; en cárceles más; en peligros de muerte muchas veces."
+        },
+        {
+            "id": "2co11_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "De los judíos cinco veces he recibido cuarenta azotes menos uno."
+        },
+        {
+            "id": "2co11_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Tres veces fui azotado con varas; una vez apedreado; tres veces padecí naufragio; una noche y un día estuve en las profundidades;"
+        },
+        {
+            "id": "2co11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "en jornadas muchas veces; peligros de ríos, peligros de ladrones, peligros de los de mi nación, peligros entre los gentiles, peligros en la ciudad, peligros en el desierto, peligros en el mar, peligros entre falsos hermanos;"
+        },
+        {
+            "id": "2co11_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "en trabajo y fatiga, en muchas vigilias, en hambre y sed, en muchos ayunos, en frío y en desnudez."
+        },
+        {
+            "id": "2co11_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Además de esto, lo que sobre mí se agolpa cada día, la carga de todas las iglesias."
+        },
+        {
+            "id": "2co11_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "¿Quién enferma, y yo no enfermo? ¿A quién se le hace caer, y yo no me enfurezco?"
+        },
+        {
+            "id": "2co11_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Si es necesario gloriarme, me gloriaré en mis flaquezas."
+        },
+        {
+            "id": "2co11_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "El Dios y Padre de nuestro Señor Jesucristo, que es bendito por siempre, sabe que no miento."
+        },
+        {
+            "id": "2co11_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "En Damasco, el gobernador bajo el rey Aretas guardaba la ciudad de los damascenos para prenderme;"
+        },
+        {
+            "id": "2co11_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "y fui descolgado del muro en un canasto por una ventana, y escapé de sus manos."
+        }
+    ]
+}

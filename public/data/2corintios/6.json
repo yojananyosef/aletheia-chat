@@ -1,0 +1,141 @@
+{
+    "book": "2 Corintios",
+    "chapter": 6,
+    "title": "2 Corintios 6",
+    "messages": [
+        {
+            "id": "2co6_sec1_3712",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cuadro de la vida apostólica",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así, pues, nosotros, como sus colaboradores, os exhortamos también a que no recibáis en vano la gracia de Dios."
+        },
+        {
+            "id": "2co6_2a",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque dice:"
+        },
+        {
+            "id": "2co6_2b",
+            "speaker": "Dios",
+            "verse": 2,
+            "text": "En tiempo aceptable te he oído, y en día de salvación te he socorrido. He aquí ahora el tiempo aceptable, he aquí ahora el día de salvación."
+        },
+        {
+            "id": "2co6_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "No dando a nadie ninguna ocasión de tropiezo, para que el ministerio no sea vituperado;"
+        },
+        {
+            "id": "2co6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "antes, aprobándonos en todo como ministros de Dios, en mucha paciencia, en tribulaciones, en necesidades, en angustias;"
+        },
+        {
+            "id": "2co6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "en azotes, en cárceles, en tumultos, en trabajos, en vigilias, en ayunos;"
+        },
+        {
+            "id": "2co6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "en pureza, en ciencia, en longanimidad, en bondad, en el Espíritu Santo, en amor no fingido;"
+        },
+        {
+            "id": "2co6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "en palabra de verdad, en poder de Dios, con armas de justicia a derecha e izquierda;"
+        },
+        {
+            "id": "2co6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "por honra y por deshonra, por mala fama, y por buena fama; como engañadores, pero veraces;"
+        },
+        {
+            "id": "2co6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "como desconocidos, pero bien conocidos; como moribundos, mas he aquí vivimos; como castigados, mas no muertos;"
+        },
+        {
+            "id": "2co6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "como entristecidos, mas siempre gozosos; como pobres, mas enriqueciendo a muchos; como no teniendo nada, mas poseyéndolo todo."
+        },
+        {
+            "id": "2co6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Nuestra boca está abierta a vosotros, oh corintios; nuestro corazón se ha ensanchado."
+        },
+        {
+            "id": "2co6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "No estáis estrechos en nosotros, mas estáis estrechos en vuestras propias entrañas."
+        },
+        {
+            "id": "2co6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Pues, para corresponder del mismo modo (como a hijos hablo), ensanchaos también vosotros."
+        },
+        {
+            "id": "2co6_sec14_89ca",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "Prevención sobre los paganos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "No os unáis en yugo desigual con los incrédulos; porque ¿qué compañerismo tiene la justicia con la injusticia? ¿Y qué comunión la luz con las tinieblas?"
+        },
+        {
+            "id": "2co6_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "¿Y qué concordia Cristo con Belial? ¿O qué parte el creyente con el incrédulo?"
+        },
+        {
+            "id": "2co6_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "¿Y qué concierto tiene el templo de Dios con los ídolos? Porque vosotros sois el templo del Dios viviente, como Dios dijo:"
+        },
+        {
+            "id": "2co6_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Habitaré y andaré entre ellos; y seré su Dios, y ellos serán mi pueblo."
+        },
+        {
+            "id": "2co6_17",
+            "speaker": "Dios",
+            "verse": 17,
+            "text": "Por lo cual salid de en medio de ellos, y apartaos, dice el Señor, y no toquéis lo inmundo; y yo os recibiré,"
+        },
+        {
+            "id": "2co6_18",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "y seré Padre a vosotros, y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso."
+        }
+    ]
+}

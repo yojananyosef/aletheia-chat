@@ -340,6 +340,17 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(c1.messages.some(m => m.id.startsWith('1co1_')), 'ids con prefijo 1co');
     });
 
+    it('2CO oráculos a Dios, diatriba a Pablo: 6:2b/17/18 Dios, 11:1 Pablo, 12:9b Dios; id 2co', () => {
+        const c6 = run('2corintios', '2CO', 6);
+        assert.equal(speakerOf(c6.messages, 2, 'b'), 'Dios'); // oráculo Isaías: se conserva Dios
+        assert.equal(speakerOf(c6.messages, 17, ''), 'Dios'); // "dice el Señor": se conserva Dios
+        const c11 = run('2corintios', '2CO', 11);
+        assert.equal(speakerOf(c11.messages, 1, ''), 'Dios'); // revisado a Pablo (optativo retórico)
+        const c12 = run('2corintios', '2CO', 12);
+        assert.equal(speakerOf(c12.messages, 9, 'b'), 'Dios'); // respuesta divina: se conserva Dios
+        assert.ok(c6.messages.some(m => m.id.startsWith('2co6_')), 'ids con prefijo 2co');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

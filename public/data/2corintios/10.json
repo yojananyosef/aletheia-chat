@@ -1,0 +1,142 @@
+{
+    "book": "2 Corintios",
+    "chapter": 10,
+    "title": "2 Corintios 10",
+    "messages": [
+        {
+            "id": "2co10_sec1_177a",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "III. EL APÓSTOL Y SUS ADVERSARIOS",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co10_sec1_2241",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La energía apostólica es “para edificación”",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Y yo, Pablo mismo, os ruego por la mansedumbre y bondad de Cristo; yo que estando presente soy humilde entre vosotros, mas ausente soy osado para con vosotros;"
+        },
+        {
+            "id": "2co10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "ruego, pues, que cuando estuviere presente, no tenga que ser atrevido con la confianza con que pienso ser osado contra algunos, que nos tienen como si anduviésemos según la carne."
+        },
+        {
+            "id": "2co10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pues aunque andamos en la carne, no militamos según la carne;"
+        },
+        {
+            "id": "2co10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "porque las armas de nuestra milicia no son carnales, sino poderosas en Dios para la destrucción de fortalezas;"
+        },
+        {
+            "id": "2co10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "derribando argumentos y toda altivez que se levanta contra el conocimiento de Dios, y trayendo cautivo todo pensamiento a la obediencia de Cristo;"
+        },
+        {
+            "id": "2co10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "y estando prestos para castigar toda desobediencia, cuando vuestra obediencia fuere perfecta."
+        },
+        {
+            "id": "2co10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "¿Miráis las cosas según la apariencia? Si alguno está confiado en sí mismo que es de Cristo, esto también piense por sí mismo, que como él es de Cristo, así también nosotros somos de Cristo."
+        },
+        {
+            "id": "2co10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Porque aunque me gloríe algo más de nuestra autoridad, la cual el Señor nos dio para edificación y no para vuestra destrucción, no me avergonzaré;"
+        },
+        {
+            "id": "2co10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "para que no parezca como que os quiero amedrentar por cartas."
+        },
+        {
+            "id": "2co10_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque a la verdad, dicen:"
+        },
+        {
+            "id": "2co10_10b",
+            "speaker": "Pablo",
+            "verse": 10,
+            "text": "Sus cartas son gravosas y fuertes; mas su presencia corporal es débil, y su palabra es menospreciable."
+        },
+        {
+            "id": "2co10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Esto piense el tal, que como somos en la palabra por carta estando ausentes, tales seremos también de hecho estando presentes."
+        },
+        {
+            "id": "2co10_sec12_4196",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Comunicación de bienes espirituales",
+            "isSectionTitle": true
+        },
+        {
+            "id": "2co10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque no osamos contarnos, o compararnos con algunos que se alaban a sí mismos; mas ellos, midiéndose a sí mismos por sí mismos, y comparándose consigo mismos, no son sabios."
+        },
+        {
+            "id": "2co10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas nosotros, no nos gloriaremos desmedidamente, sino conforme a la medida de la regla que Dios nos dio por medida, para llegar aun hasta vosotros."
+        },
+        {
+            "id": "2co10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque no nos extendemos más de nuestra medida, como si no alcanzásemos hasta vosotros; porque también hasta vosotros hemos llegado con el evangelio de Cristo."
+        },
+        {
+            "id": "2co10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "No gloriándonos desmedidamente en trabajos ajenos; mas teniendo esperanza de que cuando vuestra fe crezca, seremos mucho más engrandecidos entre vosotros, conforme a nuestra regla."
+        },
+        {
+            "id": "2co10_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Para predicar el evangelio en las regiones más allá de vosotros, sin entrar en el campo de otro para gloriarnos en lo que ya estaba preparado."
+        },
+        {
+            "id": "2co10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas el que se gloría, gloríese en el Señor."
+        },
+        {
+            "id": "2co10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque no el que se alaba a sí mismo, es aprobado; sino el que el Señor alaba."
+        }
+    ]
+}
