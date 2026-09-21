@@ -29,7 +29,7 @@ export const TypingIndicator: React.FC<TypingIndicatorProps> = ({ speaker, isGod
                     ? 'rounded-r-xl rounded-tl-xl'
                     : 'bg-[#EAEAEA] rounded-l-xl rounded-tr-xl'
                 }`}>
-                <span className={`text-[10px] md:text-xs font-black uppercase tracking-wider mb-2 ${isSerpent ? 'text-red-400/90' : 'text-gray-400'}`}>
+                <span className={`text-[10px] md:text-xs font-black uppercase tracking-wider mb-2 ${isSerpent ? 'text-red-400/90' : 'text-gray-600'}`}>
                     {speaker} ESTÁ ESCRIBIENDO...
                 </span>
                 <div className="flex gap-1.5 h-3 items-center">

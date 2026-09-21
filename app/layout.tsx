@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter, Space_Grotesk } from 'next/font/google';
 import { SITE_URL } from '../src/constants/site';
+import { SkipLink } from '../src/components/SkipLink';
 import './globals.css';
 
 const inter = Inter({
@@ -67,6 +68,7 @@ export default function RootLayout({
                 <link rel="preload" href="/sounds/pop.mp3" as="audio" type="audio/mpeg" />
             </head>
             <body className="h-full overflow-hidden bg-white text-[#0A0A0A] antialiased touch-manipulation">
+                <SkipLink />
                 <div id="root" className="h-full overflow-hidden">{children}</div>
             </body>
         </html>

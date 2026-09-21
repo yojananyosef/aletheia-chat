@@ -38,7 +38,7 @@ export const InputBar: React.FC<InputBarProps> = (props) => {
                                     : 'bg-[#FAFAFA] border-black text-gray-800 active:bg-gray-50'
                                     }`}
                             >
-                                <span className={`text-[9px] font-black uppercase tracking-widest leading-none mb-1 ${props.nextMessage?.speaker === 'Serpiente' ? 'text-red-400' : 'text-gray-400'}`}>{props.nextMessage?.speaker}</span>
+                                <span className={`text-[9px] font-black uppercase tracking-widest leading-none mb-1 ${props.nextMessage?.speaker === 'Serpiente' ? 'text-red-400' : 'text-gray-600'}`}>{props.nextMessage?.speaker}</span>
                                 <span className={`truncate block leading-tight text-sm sm:text-base ${props.nextMessage?.speaker === 'Serpiente' ? 'italic' : ''}`}>{props.nextMessage?.text}</span>
                             </button>
                             <button
@@ -50,7 +50,7 @@ export const InputBar: React.FC<InputBarProps> = (props) => {
                             </button>
                         </>
                     ) : (
-                        <div className={`flex-1 h-full flex items-center justify-center font-black uppercase tracking-[0.2em] italic animate-pulse text-[9px] md:text-sm ${props.nextMessage?.speaker === 'Serpiente' ? 'text-red-500' : 'text-gray-400'
+                        <div className={`flex-1 h-full flex items-center justify-center font-black uppercase tracking-[0.2em] italic animate-pulse text-[9px] md:text-sm ${props.nextMessage?.speaker === 'Serpiente' ? 'text-red-500' : 'text-gray-600'
                             }`}>
                             {props.nextMessage?.speaker} ESCRIBIENDO...
                         </div>

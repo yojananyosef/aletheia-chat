@@ -53,7 +53,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                 aria-label={`Versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
             >
                 <div className="group cursor-pointer max-w-2xl bg-[#EAEAEA] border-2 border-dashed border-[#0A0A0A] p-6 text-center relative font-medium text-gray-800 transition-colors hover:bg-white active:bg-white shadow-[4px_4px_0_rgba(0,0,0,0.05)] overflow-visible">
-                    <span className="text-[10px] font-black text-gray-400 block mb-2 uppercase tracking-widest">v.{message.verse} NARRADOR</span>
+                    <span className="text-[10px] font-black text-gray-600 block mb-2 uppercase tracking-widest">v.{message.verse} NARRADOR</span>
                     {message.text}
                     <LikeBadge isLiked={isLiked} position="bottom-right" />
                 </div>
@@ -123,10 +123,10 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                         }`}
                 >
                     <div className="flex justify-between gap-8 mb-2">
-                        <span className={`text-[10px] font-black uppercase tracking-tight ${isGod ? 'text-black' : 'text-gray-500'}`}>
+                        <span className={`text-[10px] font-black uppercase tracking-tight ${isGod ? 'text-black' : 'text-gray-600'}`}>
                             {message.speaker}
                         </span>
-                        <span className="text-[10px] font-bold text-gray-400">v.{message.verse}</span>
+                        <span className="text-[10px] font-bold text-gray-600">v.{message.verse}</span>
                     </div>
                     <p className={`text-base md:text-xl lg:text-3xl ${isGod ? 'font-black text-black leading-tight' : 'font-medium text-gray-700'}`}>
                         {message.text}

@@ -19,7 +19,7 @@ export default function Error({
         <div className="h-full w-full flex flex-col items-center justify-center py-20 px-6 text-center">
             <TriangleAlert className="w-10 h-10 mb-4 text-red-600" />
             <p className="font-black uppercase text-sm tracking-widest mb-2">No se pudo abrir esta revelación</p>
-            <p className="text-xs text-gray-500 mb-8 max-w-md">
+            <p className="text-xs text-gray-600 mb-8 max-w-md">
                 El capítulo no existe o su contenido es inválido. Vuelve a intentarlo o regresa a la selección.
             </p>
             <div className="flex gap-3">

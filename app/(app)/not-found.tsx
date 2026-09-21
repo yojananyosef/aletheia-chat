@@ -6,7 +6,7 @@ export default function NotFound() {
         <div className="h-full w-full flex flex-col items-center justify-center py-20 px-6 text-center">
             <BookX className="w-10 h-10 mb-4 opacity-40" />
             <p className="font-black uppercase text-sm tracking-widest mb-2">Capítulo no encontrado</p>
-            <p className="text-xs text-gray-500 mb-8 max-w-md">
+            <p className="text-xs text-gray-600 mb-8 max-w-md">
                 Este libro o capítulo aún no forma parte del canon disponible.
             </p>
             <Link

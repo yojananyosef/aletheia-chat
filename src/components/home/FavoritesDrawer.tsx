@@ -58,7 +58,7 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({ isOpen, onClos
                                                         <BookOpen className="w-3 h-3 text-[#FFD600]" />
                                                         <span className="text-[10px] font-black uppercase tracking-widest">{fav.bookName} • CAP {fav.chapter}</span>
                                                     </div>
-                                                    <div className="text-[9px] font-bold text-gray-400">Speaker: {fav.speaker} • Versículo {fav.verse}</div>
+                                                    <div className="text-[9px] font-bold text-gray-600">Speaker: {fav.speaker} • Versículo {fav.verse}</div>
                                                 </div>
                                                 <button
                                                     onClick={() => onToggleLike(fav)}

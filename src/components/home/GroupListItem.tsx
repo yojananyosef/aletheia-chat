@@ -22,12 +22,12 @@ export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter,
             <div className="flex-1 min-w-0">
                 <div className="flex justify-between items-center mb-1">
                     <h2 className="text-lg md:text-xl font-black uppercase tracking-tighter leading-none">{book.name}</h2>
-                    <span className="text-[10px] font-bold text-gray-400">
+                    <span className="text-[10px] font-bold text-gray-600">
                         {isLocked ? 'Próximamente' : `Cap ${lastChapter}`}
                     </span>
                 </div>
                 <div className="flex items-center justify-between">
-                    <p className="text-sm text-gray-400 font-medium truncate leading-tight pr-4">
+                    <p className="text-sm text-gray-600 font-medium truncate leading-tight pr-4">
                         {book.description}
                     </p>
                     {isLocked ? (

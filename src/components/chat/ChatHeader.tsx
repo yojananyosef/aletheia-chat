@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import { ArrowLeft, ChevronDown, MoreVertical } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { BookInfo } from '../../types/bible';
@@ -27,6 +27,14 @@ interface ChatHeaderProps {
 
 export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
     useDismissOnEscape(props.isSelectorOpen, props.onCloseSelector);
+
+    // Al cerrar el menú de opciones se devuelve el foco al botón que lo abrió.
+    const optionsBtnRef = useRef<HTMLButtonElement>(null);
+    const wasOptionsOpen = useRef(false);
+    useEffect(() => {
+        if (wasOptionsOpen.current && !props.isOptionsOpen) optionsBtnRef.current?.focus();
+        wasOptionsOpen.current = props.isOptionsOpen;
+    }, [props.isOptionsOpen]);
     return (
         <header className="border-b-4 border-[#0A0A0A] bg-white px-4 py-2 safe-top sticky top-0 z-50 flex items-center justify-between shrink-0 h-auto sm:h-24 md:h-24 transition-all overflow-visible select-none">
             <div className="flex items-center gap-3 min-w-0 h-full py-2">
@@ -38,7 +46,7 @@ export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
                         <h1 className="text-xl md:text-2xl font-black leading-none uppercase truncate">{props.book?.name} • Cap {props.chapter}</h1>
                         <ChevronDown className={`w-5 h-5 transition-transform shrink-0 ${props.isSelectorOpen ? 'rotate-180' : ''}`} strokeWidth={3} />
                     </button>
-                    <span className="text-[10px] md:text-xs font-black text-gray-400 uppercase tracking-[0.2em] block truncate mt-1">{props.subtitle}</span>
+                    <span className="text-[10px] md:text-xs font-black text-gray-600 uppercase tracking-[0.2em] block truncate mt-1">{props.subtitle}</span>
 
                     {/* Selector de Capítulos — positioned below the title */}
                     <AnimatePresence>
@@ -65,8 +73,10 @@ export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
             <div className="flex items-center gap-2 relative">
                 <div className="relative">
                     <button
+                        ref={optionsBtnRef}
                         onClick={props.onToggleOptions}
                         aria-label="Opciones de lectura"
+                        aria-haspopup="dialog"
                         aria-expanded={props.isOptionsOpen}
                         className={`p-2 border-2 border-black transition-all outline-none h-fit shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none ${props.isOptionsOpen ? 'bg-[#FFD600]' : 'hover:bg-gray-100'}`}
                     >

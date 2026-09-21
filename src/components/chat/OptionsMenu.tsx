@@ -27,6 +27,8 @@ export const OptionsMenu: React.FC<OptionsMenuProps> = ({
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     exit={{ opacity: 0, y: 10, scale: 0.95 }}
                     transition={{ duration: 0.15, ease: "easeOut" }}
+                    role="dialog"
+                    aria-label="Ajustes de Revelación"
                     className="absolute top-[120%] right-0 w-72 bg-white border-2 border-black shadow-[6px_6px_0_#0A0A0A] z-[100] overflow-hidden"
                 >
                     {/* Header del Menú */}
@@ -37,7 +39,7 @@ export const OptionsMenu: React.FC<OptionsMenuProps> = ({
 
                     <div className="p-2 flex flex-col gap-1">
                         {/* Opción: Info del Grupo */}
-                        <MenuButton onClick={onShowInfo} icon={<Info className="w-4 h-4" />}>
+                        <MenuButton onClick={onShowInfo} icon={<Info className="w-4 h-4" />} autoFocus>
                             Información del Grupo
                         </MenuButton>
 
@@ -53,7 +55,7 @@ export const OptionsMenu: React.FC<OptionsMenuProps> = ({
 
                         {/* Selector de Velocidad */}
                         <div className="mt-2 mb-1 border-t-2 border-black pt-3 px-1">
-                            <span className="text-[9px] font-black text-gray-400 block mb-3 tracking-widest uppercase flex items-center gap-2">
+                            <span className="text-[9px] font-black text-gray-600 block mb-3 tracking-widest uppercase flex items-center gap-2">
                                 <Zap className="w-3 h-3" /> Motor de Lectura
                             </span>
                             <div className="grid grid-cols-3 gap-2">
@@ -67,7 +69,7 @@ export const OptionsMenu: React.FC<OptionsMenuProps> = ({
                                                 flex flex-col items-center justify-center p-2 border-2 transition-all font-black text-[9px] uppercase tracking-tighter
                                                 ${currentSpeed === s.multiplier
                                                     ? 'bg-[#FFD600] border-black shadow-[2px_2px_0_#0A0A0A] -translate-y-0.5'
-                                                    : 'border-transparent hover:border-black bg-gray-50 text-gray-400'
+                                                    : 'border-transparent hover:border-black bg-gray-50 text-gray-600'
                                                 }
                                             `}
                                         >
@@ -95,9 +97,10 @@ export const OptionsMenu: React.FC<OptionsMenuProps> = ({
     );
 };
 
-const MenuButton: React.FC<{ onClick: () => void, icon: React.ReactNode, children: React.ReactNode }> = ({ onClick, icon, children }) => (
+const MenuButton: React.FC<{ onClick: () => void, icon: React.ReactNode, children: React.ReactNode, autoFocus?: boolean }> = ({ onClick, icon, children, autoFocus }) => (
     <button
         onClick={onClick}
+        autoFocus={autoFocus}
         className="w-full p-3 flex items-center gap-4 hover:bg-gray-100 font-black text-[11px] uppercase tracking-wider transition-colors active:bg-[#FFD600] border-2 border-transparent hover:border-black"
     >
         <span className="shrink-0">{icon}</span>

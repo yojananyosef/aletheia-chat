@@ -60,7 +60,7 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
 
                             <div className="w-full text-left space-y-6">
                                 <div>
-                                    <span className="text-[10px] font-black text-gray-400 uppercase tracking-widest block mb-4 border-b-2 border-gray-100 pb-2 flex items-center gap-2">
+                                    <span className="text-[10px] font-black text-gray-600 uppercase tracking-widest block mb-4 border-b-2 border-gray-100 pb-2 flex items-center gap-2">
                                         <Users className="w-4 h-4 text-black" /> Miembros del Grupo
                                     </span>
                                     <div className="flex flex-wrap gap-2">

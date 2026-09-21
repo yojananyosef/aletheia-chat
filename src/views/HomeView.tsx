@@ -43,7 +43,7 @@ export const HomeView: React.FC = () => {
 
     return (
         <div className="h-full w-full bg-white overflow-hidden">
-            <main data-viewport-scope="home" className="w-full flex flex-col h-full overflow-hidden font-sans">
+            <main id="contenido" tabIndex={-1} data-viewport-scope="home" className="w-full flex flex-col h-full overflow-hidden font-sans">
                 <header data-aida="attention" className="border-b-4 border-black bg-[#FFD600] shrink-0 relative z-50 select-none">
                     <div className="safe-top" />
                     <div className="px-6 py-4 flex items-center justify-between">
@@ -86,7 +86,7 @@ export const HomeView: React.FC = () => {
                                                 </button>
                                                 <div className="border-t-2 border-black/10 my-1"></div>
                                                 <div className="p-3">
-                                                    <div className="text-[9px] font-black uppercase tracking-[0.2em] mb-3 text-gray-500 border-b border-black/5 pb-1">Identidad Espiritual</div>
+                                                    <div className="text-[9px] font-black uppercase tracking-[0.2em] mb-3 text-gray-600 border-b border-black/5 pb-1">Identidad Espiritual</div>
 
                                                     <div className="bg-white border-4 border-black p-5 relative overflow-hidden">
                                                         <div className="flex gap-4 items-center mb-6">
@@ -98,13 +98,13 @@ export const HomeView: React.FC = () => {
                                                             </div>
                                                             <div className="flex flex-col min-w-0 flex-1">
                                                                 <div className="text-[18px] font-black uppercase italic tracking-tighter leading-tight mb-0.5 break-words">{userLevel.title}</div>
-                                                                <div className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.2em]">{userLevel.rank}</div>
+                                                                <div className="text-[10px] font-bold text-gray-600 uppercase tracking-[0.2em]">{userLevel.rank}</div>
                                                             </div>
                                                         </div>
 
                                                         <div className="space-y-3">
                                                             <div className="flex justify-between items-end">
-                                                                <span className="text-[9px] font-black uppercase tracking-[0.15em] text-gray-400">Estado de Sincronización</span>
+                                                                <span className="text-[9px] font-black uppercase tracking-[0.15em] text-gray-600">Estado de Sincronización</span>
                                                                 <span className="bg-black text-[#FFD600] px-2 py-0.5 text-[10px] font-black italic shadow-[2px_2px_0_rgba(0,0,0,0.1)]">{Math.floor(userLevel.progress)}%</span>
                                                             </div>
                                                             <div className="h-6 border-4 border-black bg-gray-100 p-1 shadow-[inset_0_2px_4px_rgba(0,0,0,0.15)]">
@@ -117,13 +117,13 @@ export const HomeView: React.FC = () => {
                                                             <div className="flex justify-between items-start pt-1">
                                                                 <div className="flex flex-col">
                                                                     <div className="text-[12px] font-black uppercase italic leading-none">{favorites.length}</div>
-                                                                    <div className="text-[8px] font-bold text-gray-400 uppercase tracking-widest mt-1">
+                                                                    <div className="text-[8px] font-bold text-gray-600 uppercase tracking-widest mt-1">
                                                                         {favorites.length === 1 ? 'Versículo' : 'Versículos'}
                                                                     </div>
                                                                 </div>
                                                                 {userLevel.nextTitle && (
                                                                     <div className="text-right">
-                                                                        <div className="text-[8px] text-gray-400 font-black uppercase leading-none mb-1">Siguiente Consagración</div>
+                                                                        <div className="text-[8px] text-gray-600 font-black uppercase leading-none mb-1">Siguiente Consagración</div>
                                                                         <div className="text-[11px] font-black uppercase italic text-black tracking-tight">{userLevel.nextTitle}</div>
                                                                     </div>
                                                                 )}
@@ -174,7 +174,7 @@ export const HomeView: React.FC = () => {
                 </header>
 
                 <section data-aida="interest" className="flex-1 overflow-y-auto bg-white no-scrollbar">
-                    <div className="italic py-3 text-center text-[9px] text-gray-400 font-bold uppercase tracking-widest bg-gray-50 border-b-2 border-gray-100">
+                    <div className="italic py-3 text-center text-[9px] text-gray-600 font-bold uppercase tracking-widest bg-gray-50 border-b-2 border-gray-100">
                         Canal de Revelación Activo
                     </div>
                     <div className="pb-24">

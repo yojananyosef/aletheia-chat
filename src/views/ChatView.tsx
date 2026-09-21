@@ -115,7 +115,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
 
     return (
         <div className="h-full w-full bg-white overflow-hidden font-sans">
-            <main data-viewport-scope="chat" className="w-full flex flex-col h-full relative overflow-hidden">
+            <main id="contenido" tabIndex={-1} data-viewport-scope="chat" className="w-full flex flex-col h-full relative overflow-hidden">
                 <ChatHeader
                     book={bookConfig} chapter={chapter} subtitle={subtitle}
                     onBack={() => router.push('/')}
@@ -128,7 +128,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
                     onCloseOptions={() => setShowOptions(false)}
                 />
 
-                <section ref={scrollRef} data-testid="chat-feed" className="chat-feed flex-1 overflow-y-auto p-4 md:p-8 lg:p-12 space-y-10 sm:space-y-12 scroll-smooth pb-32 no-scrollbar">
+                <section ref={scrollRef} data-testid="chat-feed" role="log" aria-live="polite" aria-atomic="false" aria-label="Mensajes del capítulo" className="chat-feed flex-1 overflow-y-auto p-4 md:p-8 lg:p-12 space-y-10 sm:space-y-12 scroll-smooth pb-32 no-scrollbar">
                     {error ? (
                         <div className="py-20 flex flex-col items-center opacity-40 italic">
                             <RefreshCw className="w-10 h-10 mb-4 animate-spin" />
