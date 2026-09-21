@@ -10,6 +10,18 @@ export interface UseBibleChatProps {
     isActive: boolean;
     loadChapterService: (bookId: string, chapter: number) => Promise<ValidChapterData>;
     onMessageUpdate?: (msg: Message) => void;
+    /**
+     * Datos prerenderizados en el server (page → ChatView). Si vienen para el
+     * capítulo actual se evita el `fetch` y el feed arranca sin flash de carga.
+     * El progreso guardado se aplica igual en un efecto (sin mismatch de hidratación).
+     */
+    initialData?: ValidChapterData;
+}
+
+/** Índice inicial: -1 si el primer mensaje pausa (título / Dios / personaje), 0 si fluye. */
+function startIndexFor(messages: Message[]): number {
+    const firstMsg = messages[0];
+    return firstMsg && firstMsg.requiresManualAdvance() ? -1 : 0;
 }
 
 export const useBibleChat = ({
@@ -18,10 +30,11 @@ export const useBibleChat = ({
     speed,
     isActive,
     loadChapterService,
-    onMessageUpdate
+    onMessageUpdate,
+    initialData
 }: UseBibleChatProps) => {
-    const [data, setData] = useState<ValidChapterData | null>(null);
-    const [currentIndex, setCurrentIndex] = useState(-1);
+    const [data, setData] = useState<ValidChapterData | null>(initialData ?? null);
+    const [currentIndex, setCurrentIndex] = useState(initialData ? startIndexFor(initialData.messages) : -1);
     const [isAdvancing, setIsAdvancing] = useState(false);
     const [error, setError] = useState<string | null>(null);
 
@@ -32,8 +45,8 @@ export const useBibleChat = ({
     const [loadedKey, setLoadedKey] = useState(chapterKey);
     if (loadedKey !== chapterKey) {
         setLoadedKey(chapterKey);
-        setData(null);
-        setCurrentIndex(-1);
+        setData(initialData ?? null);
+        setCurrentIndex(initialData ? startIndexFor(initialData.messages) : -1);
         setIsAdvancing(false);
         setError(null);
     }
@@ -45,9 +58,24 @@ export const useBibleChat = ({
         }
     }, [book, chapter, currentIndex]);
 
-    // Initial Fetch — runs when book or chapter changes
+    // Initial load — runs when book or chapter changes.
+    // Con initialData (SSR) se omite el fetch; el progreso guardado se aplica
+    // post-hidratación igual que en la vía fetch (async: sin mismatch con el HTML).
     useEffect(() => {
         let cancelled = false;
+
+        if (initialData) {
+            Promise.resolve().then(() => {
+                if (cancelled) return;
+                const savedProgress = StorageService.getProgress(book, chapter);
+                if (savedProgress !== null && savedProgress >= 0 && savedProgress < initialData.messages.length) {
+                    setCurrentIndex(savedProgress);
+                }
+            });
+            return () => {
+                cancelled = true;
+            };
+        }
 
         loadChapterService(book, chapter)
             .then(json => {
@@ -74,7 +102,7 @@ export const useBibleChat = ({
         return () => {
             cancelled = true;
         };
-    }, [book, chapter, loadChapterService]);
+    }, [book, chapter, loadChapterService, initialData]);
 
     const visibleMessages = data ? data.messages.slice(0, currentIndex + 1) : [];
     const nextMessage = data && (currentIndex + 1 < data.messages.length) ? data.messages[currentIndex + 1] : null;

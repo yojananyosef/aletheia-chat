@@ -8,6 +8,10 @@ test.describe('Chat', () => {
         });
 
         await page.goto('/genesis/1');
+        // El <h1> SEO prerenderizado convive con el del header hasta hidratar;
+        // el strict-mode no reintenta con 2 matches, así que se espera primero
+        // a que el gate lo desmonte y quede un solo heading.
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
         await expect(page.getByRole('heading', { name: /Génesis/ })).toBeVisible();
         await expect(page.getByRole('button', { name: /creación/i }).first()).toBeVisible();
 
@@ -16,6 +20,7 @@ test.describe('Chat', () => {
 
     test('deep-link a /hechos/1 carga el capítulo (libro NT integrado)', async ({ page }) => {
         await page.goto('/hechos/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
         await expect(page.getByRole('heading', { name: /Hechos/ })).toBeVisible();
         await expect(page.getByRole('button', { name: /prólogo/i })).toBeVisible();
     });

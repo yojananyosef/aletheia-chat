@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useRef, useEffect, useState, useCallback } from 'react';
+import React, { useRef, useEffect, useState, useCallback, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { RefreshCw, ShieldCheck, MessageSquare, ArrowDown } from 'lucide-react';
 import { AnimatePresence } from 'motion/react';
@@ -20,15 +20,25 @@ import { TypingIndicator } from '../components/chat/TypingIndicator';
 import { InputBar } from '../components/chat/InputBar';
 import { GroupInfoDrawer } from '../components/chat/GroupInfoDrawer';
 import { Message } from '../core/domain/Message';
+import type { ValidatedChapterData } from '../core/validation/bibleSchemas';
 
 interface ChatViewProps {
     bookId: string;
     chapter: number;
+    /** Capítulo prerenderizado en el server (page): evita el fetch y el flash de carga. */
+    initialData?: ValidatedChapterData;
 }
 
-export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
+export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData }) => {
     const router = useRouter();
     const [isNavigating, setIsNavigating] = useState(false);
+
+    const initialChapter = useMemo(
+        () => initialData
+            ? { ...initialData, messages: initialData.messages.map((m) => new Message(m)) }
+            : undefined,
+        [initialData]
+    );
 
     const { isMuted, setIsMuted, readingSpeed, setReadingSpeed } = useSettings();
     const { playPop } = useAudio(isMuted);
@@ -59,7 +69,8 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter }) => {
         speed: readingSpeed,
         isActive: true,
         loadChapterService: BibleDataService.loadChapter,
-        onMessageUpdate: onMessageNext
+        onMessageUpdate: onMessageNext,
+        initialData: initialChapter
     });
 
     const scrollRef = useRef<HTMLDivElement>(null);

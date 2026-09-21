@@ -155,4 +155,38 @@ describe('useBibleChat', () => {
             expect(result.current.error).toBe('El capítulo 1 no pudo ser cargado.');
         });
     });
+
+    it('con initialData (SSR) no llama al servicio y arranca sin espera', () => {
+        const initialData = buildChapter();
+        const { result } = renderHook(() => useBibleChat({
+            book: 'genesis',
+            chapter: 1,
+            speed: 0.002,
+            isActive: true,
+            loadChapterService,
+            initialData,
+        }));
+
+        expect(loadChapterService).not.toHaveBeenCalled();
+        expect(result.current.data).not.toBeNull();
+        // El primer mensaje es título → pausa en -1, igual que la vía fetch
+        expect(result.current.currentIndex).toBe(-1);
+        expect(result.current.visibleMessages).toHaveLength(0);
+        expect(result.current.canAdvanceManually).toBe(true);
+    });
+
+    it('con initialData reanuda desde el progreso guardado', async () => {
+        window.localStorage.setItem('naas:v1:progress:genesis:1', '2');
+        const { result } = renderHook(() => useBibleChat({
+            book: 'genesis',
+            chapter: 1,
+            speed: 0.002,
+            isActive: true,
+            loadChapterService,
+            initialData: buildChapter(),
+        }));
+
+        await waitFor(() => expect(result.current.currentIndex).toBe(2));
+        expect(loadChapterService).not.toHaveBeenCalled();
+    });
 });

@@ -2,6 +2,9 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { BIBLE_BOOKS } from '../../../../src/constants/books';
 import { chaptersFromFs } from '../../../../src/core/services/catalogFs';
+import { loadChapterStatic } from '../../../../src/core/services/bibleServer';
+import { ChapterPrerender } from '../../../../src/components/chat/ChapterPrerender';
+import { ChapterPrerenderGate } from '../../../../src/components/chat/ChapterPrerenderGate';
 import { ChatView } from '../../../../src/views/ChatView';
 
 export const dynamicParams = false;
@@ -57,5 +60,23 @@ export default async function BookChapterPage(
         notFound();
     }
 
-    return <ChatView key={`${book}:${chapterNumber}`} bookId={book} chapter={chapterNumber} />;
+    // Texto bíblico en el HTML prerenderizado (SEO / sin JS). Si el FS no es
+    // legible (sandbox), la isla client lo carga por fetch como antes.
+    const staticChapter = loadChapterStatic(book, chapterNumber);
+
+    return (
+        <>
+            {staticChapter && (
+                <ChapterPrerenderGate>
+                    <ChapterPrerender data={staticChapter} bookName={config.name} />
+                </ChapterPrerenderGate>
+            )}
+            <ChatView
+                key={`${book}:${chapterNumber}`}
+                bookId={book}
+                chapter={chapterNumber}
+                initialData={staticChapter ?? undefined}
+            />
+        </>
+    );
 }
