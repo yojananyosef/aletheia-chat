@@ -18,6 +18,13 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /2tesalonicenses/1 carga el capítulo (epístola integrada)', async ({ page }) => {
+        await page.goto('/2tesalonicenses/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await expect(page.getByRole('heading', { name: /Tesalonicenses/ })).toBeVisible();
+        await expect(page.getByRole('button', { name: /saludo/i })).toBeVisible();
+    });
+
     test('deep-link a /1tesalonicenses/1 carga el capítulo (epístola integrada)', async ({ page }) => {
         await page.goto('/1tesalonicenses/1');
         await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });

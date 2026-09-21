@@ -391,6 +391,14 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(t4.messages.some(m => m.id.startsWith('1th4_')), 'ids con prefijo 1th');
     });
 
+    it('2TH inicuo narrado: 2:3-8 Narrador, 0 ambiguos; id 2th', () => {
+        const t2 = run('2tesalonicenses', '2TH', 2);
+        for (const v of [3, 4, 8]) {
+            assert.equal(speakerOf(t2.messages, v, ''), 'Narrador', `2TH 2:${v} Narrador`);
+        }
+        assert.ok(t2.messages.some(m => m.id.startsWith('2th2_')), 'ids con prefijo 2th');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos
