@@ -129,7 +129,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'colosenses', name: 'Colosenses', availableChapters: [1, 2, 3, 4], category: 'Epístolas de Pablo', description: 'La preeminencia de Cristo.', participants: ['Narrador', 'Sistema', 'Pablo'] },
     { id: '1tesalonicenses', name: '1 Tesalonicenses', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas de Pablo', description: 'La venida del Señor.', participants: ['Narrador', 'Sistema', 'Pablo'] },
     { id: '2tesalonicenses', name: '2 Tesalonicenses', availableChapters: [1, 2, 3], category: 'Epístolas de Pablo', description: 'Perseverancia ante el fin.', participants: ['Narrador', 'Sistema', 'Pablo'] },
-    { id: '1timoteo', name: '1 Timoteo', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Consejos para un joven pastor.', participants: ['Pablo', 'Timoteo'] },
+    { id: '1timoteo', name: '1 Timoteo', availableChapters: [1, 2, 3, 4, 5, 6], category: 'Epístolas de Pablo', description: 'Consejos para un joven pastor.', participants: ['Narrador', 'Sistema', 'Pablo', 'Timoteo'] },
     { id: '2timoteo', name: '2 Timoteo', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Últimas palabras de Pablo.', participants: ['Pablo', 'Timoteo'] },
     { id: 'tito', name: 'Tito', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Organización de la iglesia en Creta.', participants: ['Pablo'] },
     { id: 'filemon', name: 'Filemón', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Súplica por un esclavo fugitivo.', participants: ['Pablo'] },

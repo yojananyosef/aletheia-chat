@@ -399,6 +399,12 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(t2.messages.some(m => m.id.startsWith('2th2_')), 'ids con prefijo 2th');
     });
 
+    it('1TI doble cita a Pablo: 5:18b Deut+Lc con marco; id 1ti', () => {
+        const t5 = run('1timoteo', '1TI', 5);
+        assert.equal(speakerOf(t5.messages, 18, 'b'), 'Dios'); // revisado a Pablo (citas 3a persona)
+        assert.ok(t5.messages.some(m => m.id.startsWith('1ti5_')), 'ids con prefijo 1ti');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

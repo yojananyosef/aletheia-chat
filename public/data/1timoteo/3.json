@@ -1,0 +1,124 @@
+{
+    "book": "1 Timoteo",
+    "chapter": 3,
+    "title": "1 Timoteo 3",
+    "messages": [
+        {
+            "id": "1ti3_sec1_6ab6",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Cómo han de ser los obispos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1ti3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Palabra fiel: Si alguno anhela obispado, buena obra desea."
+        },
+        {
+            "id": "1ti3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Pero es necesario que el obispo sea irreprensible, marido de una sola esposa, vigilante, templado, decoroso, hospedador, apto para enseñar;"
+        },
+        {
+            "id": "1ti3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "no dado al vino, no rencilloso, no codicioso de ganancias deshonestas, sino moderado, apacible, ajeno de avaricia;"
+        },
+        {
+            "id": "1ti3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "que gobierne bien su propia casa, que tenga sus hijos en sujeción con toda honestidad"
+        },
+        {
+            "id": "1ti3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "(Porque el que no sabe gobernar su propia casa, ¿cómo cuidará de la iglesia de Dios?)."
+        },
+        {
+            "id": "1ti3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "No un neófito, no sea que envaneciéndose caiga en condenación del diablo."
+        },
+        {
+            "id": "1ti3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "También es necesario que tenga buen testimonio de los de afuera, para que no caiga en descrédito y en lazo del diablo."
+        },
+        {
+            "id": "1ti3_sec8_8edf",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Diáconos y diaconisas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1ti3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Los diáconos asimismo deben ser honestos, sin doblez, no dados a mucho vino, no amadores de ganancias deshonestas;"
+        },
+        {
+            "id": "1ti3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "que tengan el misterio de la fe con limpia conciencia."
+        },
+        {
+            "id": "1ti3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y éstos también sean primero puestos a prueba; y luego ejerzan el diaconado, si fueren irreprensibles."
+        },
+        {
+            "id": "1ti3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Sus esposas asimismo sean honestas, no calumniadoras, sino sobrias, fieles en todo."
+        },
+        {
+            "id": "1ti3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Los diáconos sean maridos de una sola esposa, que gobiernen bien sus hijos y sus casas."
+        },
+        {
+            "id": "1ti3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque los que ejercen bien el diaconado, adquieren para sí un grado honroso, y mucha confianza en la fe que es en Cristo Jesús."
+        },
+        {
+            "id": "1ti3_sec14_4344",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "El misterio de la piedad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1ti3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Esto te escribo, con la esperanza que vendré pronto a ti,"
+        },
+        {
+            "id": "1ti3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "para que si tardo, sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, columna y apoyo de la verdad."
+        },
+        {
+            "id": "1ti3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Y sin contradicción, grande es el misterio de la piedad: Dios fue manifestado en carne; justificado en el Espíritu; visto de los ángeles; predicado a los gentiles; creído en el mundo; recibido arriba en gloria."
+        }
+    ]
+}

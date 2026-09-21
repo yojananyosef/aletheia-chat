@@ -1,0 +1,184 @@
+{
+    "book": "1 Timoteo",
+    "chapter": 5,
+    "title": "1 Timoteo 5",
+    "messages": [
+        {
+            "id": "1ti5_sec1_e656",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Del trato con los ancianos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1ti5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "No reprendas al anciano, sino exhórtale como a padre; a los más jóvenes, como a hermanos;"
+        },
+        {
+            "id": "1ti5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "a las ancianas, como a madres; a las jovencitas, como a hermanas, con toda pureza."
+        },
+        {
+            "id": "1ti5_sec3_b2bc",
+            "speaker": "Sistema",
+            "verse": 3,
+            "text": "Las viudas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1ti5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Honra a las viudas que en verdad son viudas."
+        },
+        {
+            "id": "1ti5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Pero si alguna viuda tuviere hijos, o nietos, aprendan éstos primero a ser piadosos en casa, y a recompensar a sus padres; porque esto es bueno y agradable delante de Dios."
+        },
+        {
+            "id": "1ti5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y la que en verdad es viuda y sola, confíe en Dios, y permanezca en súplicas y oraciones noche y día."
+        },
+        {
+            "id": "1ti5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas la que vive en placeres, viviendo está muerta."
+        },
+        {
+            "id": "1ti5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Manda también estas cosas, para que sean irreprensibles."
+        },
+        {
+            "id": "1ti5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo."
+        },
+        {
+            "id": "1ti5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Sea puesta en la lista, la viuda no menor de sesenta años, que haya sido esposa de un solo marido."
+        },
+        {
+            "id": "1ti5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Que tenga testimonio de buenas obras; si crió hijos; si ha ejercitado la hospitalidad; si ha lavado los pies de los santos; si ha socorrido a los afligidos; si ha seguido toda buena obra."
+        },
+        {
+            "id": "1ti5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pero viudas más jóvenes no admitas; porque cuando, atraídas de sus concupiscencias, se rebelan contra Cristo, quieren casarse,"
+        },
+        {
+            "id": "1ti5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "incurriendo en condenación, por haber abandonado la primera fe."
+        },
+        {
+            "id": "1ti5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y así también aprenden a ser ociosas, andando de casa en casa; y no solamente ociosas, sino también chismosas e indiscretas, hablando cosas que no debieran."
+        },
+        {
+            "id": "1ti5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Quiero, pues, que las mujeres jóvenes se casen, engendren hijos, gobiernen su casa; que ninguna ocasión den al adversario para decir mal."
+        },
+        {
+            "id": "1ti5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Porque ya algunas han vuelto atrás en pos de Satanás."
+        },
+        {
+            "id": "1ti5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Si alguno, o alguna de los creyentes tiene viudas, manténgalas, y no sea gravada la iglesia; a fin de que pueda ayudar a las que en verdad son viudas."
+        },
+        {
+            "id": "1ti5_sec17_ef0e",
+            "speaker": "Sistema",
+            "verse": 17,
+            "text": "¿Cómo proceder con los presbíteros?",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1ti5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Los ancianos que gobiernan bien, sean tenidos por dignos de doble honor; mayormente los que trabajan en predicar y en enseñar."
+        },
+        {
+            "id": "1ti5_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque la Escritura dice:"
+        },
+        {
+            "id": "1ti5_18b",
+            "speaker": "Pablo",
+            "verse": 18,
+            "text": "No pondrás bozal al buey que trilla. Y: Digno es el obrero de su jornal."
+        },
+        {
+            "id": "1ti5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Contra un anciano no recibas acusación sino ante dos o tres testigos."
+        },
+        {
+            "id": "1ti5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "A los que pecaren, repréndelos delante de todos, para que los otros también teman."
+        },
+        {
+            "id": "1ti5_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Te exhorto delante de Dios y del Señor Jesucristo, y de sus ángeles escogidos, a que guardes estas cosas sin prejuicios, que nada hagas con parcialidad."
+        },
+        {
+            "id": "1ti5_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "No impongas con ligereza las manos a ninguno, ni participes en pecados ajenos; consérvate puro."
+        },
+        {
+            "id": "1ti5_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Ya no bebas agua, sino usa de un poco de vino por causa de tu estómago y de tus frecuentes enfermedades."
+        },
+        {
+            "id": "1ti5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Los pecados de algunos hombres se manifiestan antes que vengan ellos a juicio; mas a otros les vienen después."
+        },
+        {
+            "id": "1ti5_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Asimismo también las buenas obras de algunos, de antemano son manifiestas; y las que son de otra manera, no pueden ocultarse."
+        }
+    ]
+}
