@@ -426,6 +426,17 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(f1.messages.some(m => m.id.startsWith('phm1_')), 'ids con prefijo phm');
     });
 
+    it('HEB catena a Dios, Cristo a Jesús: 1:8b/13b Dios, 2:12b/10:9b Jesús; id heb', () => {
+        const h1 = run('hebreos', 'HEB', 1);
+        assert.equal(speakerOf(h1.messages, 8, 'b'), 'Dios'); // catena al Hijo: se conserva Dios
+        assert.equal(speakerOf(h1.messages, 13, 'b'), 'Dios'); // "Siéntate a mi diestra": se conserva Dios
+        const h2 = run('hebreos', 'HEB', 2);
+        assert.equal(speakerOf(h2.messages, 12, 'b'), 'Dios'); // revisado a Jesús (Sal 22 en 1a persona)
+        const h10 = run('hebreos', 'HEB', 10);
+        assert.equal(speakerOf(h10.messages, 9, 'b'), 'Dios'); // revisado a Jesús (Sal 40 en 1a persona)
+        assert.ok(h1.messages.some(m => m.id.startsWith('heb1_')), 'ids con prefijo heb');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

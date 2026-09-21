@@ -1,0 +1,221 @@
+{
+    "book": "Hebreos",
+    "chapter": 12,
+    "title": "Hebreos 12",
+    "messages": [
+        {
+            "id": "heb12_sec1_6867",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Jesús, autor y consumador de nuestra fe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb12_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Por tanto, nosotros también, teniendo en derredor nuestro tan grande nube de testigos, despojémonos de todo peso, y del pecado que nos asedia, y corramos con paciencia la carrera que tenemos por delante,"
+        },
+        {
+            "id": "heb12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "puestos los ojos en Jesús, el autor y consumador de la fe, el cual, por el gozo puesto delante de Él sufrió la cruz, menospreciando la vergüenza, y se sentó a la diestra del trono de Dios."
+        },
+        {
+            "id": "heb12_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Considerad, pues, a Aquél que sufrió tal contradicción de pecadores contra sí mismo, para que no os fatiguéis ni desmayen vuestras almas."
+        },
+        {
+            "id": "heb12_sec4_45b2",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "El sentido de las pruebas",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb12_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque aún no habéis resistido hasta la sangre, combatiendo contra el pecado."
+        },
+        {
+            "id": "heb12_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Y habéis ya olvidado la exhortación que como a hijos se os dirige? Hijo mío, no menosprecies la corrección del Señor, ni desmayes cuando eres de Él reprendido."
+        },
+        {
+            "id": "heb12_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque el Señor al que ama castiga, y azota a todo el que recibe por hijo."
+        },
+        {
+            "id": "heb12_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Si soportáis el castigo, Dios os trata como a hijos; porque ¿qué hijo es aquel a quien el padre no castiga?"
+        },
+        {
+            "id": "heb12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Pero si estáis sin castigo, del cual todos son hechos partícipes, entonces sois bastardos, y no hijos."
+        },
+        {
+            "id": "heb12_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por otra parte, tuvimos a los padres de nuestra carne que nos disciplinaban, y los reverenciábamos. ¿Por qué no obedeceremos mucho mejor al Padre de los espíritus, y viviremos?"
+        },
+        {
+            "id": "heb12_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Y aquéllos, a la verdad, por pocos días nos castigaban como a ellos les parecía, mas Éste para lo que nos es provechoso, a fin de que participemos de su santidad."
+        },
+        {
+            "id": "heb12_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "A la verdad ningún castigo al presente parece ser causa de gozo, sino de tristeza; pero después da fruto apacible de justicia a los que por él son ejercitados."
+        },
+        {
+            "id": "heb12_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por lo cual alzad las manos caídas y las rodillas paralizadas;"
+        },
+        {
+            "id": "heb12_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "y haced sendas derechas para vuestros pies, para que lo cojo no se salga del camino, antes sea sanado."
+        },
+        {
+            "id": "heb12_sec14_afa2",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "Paz y santidad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb12_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor."
+        },
+        {
+            "id": "heb12_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mirando bien que ninguno se aparte de la gracia de Dios; no sea que brotando alguna raíz de amargura, os perturbe, y por ella muchos sean contaminados;"
+        },
+        {
+            "id": "heb12_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "que ninguno sea fornicario, o profano, como Esaú, que por un bocado vendió su primogenitura."
+        },
+        {
+            "id": "heb12_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque ya sabéis que aun después, deseando heredar la bendición, fue rechazado, y no halló lugar de arrepentimiento, aunque la procuró con lágrimas."
+        },
+        {
+            "id": "heb12_sec18_a248",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "Del monte Sinaí al monte Sión",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb12_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque no os habéis acercado al monte que se podía tocar, que ardía con fuego, y al turbión, y a la oscuridad, y a la tempestad,"
+        },
+        {
+            "id": "heb12_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y al sonido de la trompeta, y a la voz que les hablaba, la cual los que la oyeron rogaron que no se les hablase más;"
+        },
+        {
+            "id": "heb12_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "porque no podían soportar lo que se mandaba: Si aun una bestia tocare al monte, será apedreada, o pasada con dardo."
+        },
+        {
+            "id": "heb12_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y tan terrible era lo que se veía, que Moisés dijo:"
+        },
+        {
+            "id": "heb12_21b",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Estoy espantado y temblando;"
+        },
+        {
+            "id": "heb12_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "sino que os habéis acercado al monte de Sión, y a la ciudad del Dios vivo, la Jerusalén celestial, y a una compañía innumerable de ángeles,"
+        },
+        {
+            "id": "heb12_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "a la congregación general e iglesia de los primogénitos que están inscritos en el cielo, y a Dios el Juez de todos, y a los espíritus de los justos hechos perfectos,"
+        },
+        {
+            "id": "heb12_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "y a Jesús el Mediador del nuevo pacto, y a la sangre del rociamiento que habla mejor que la de Abel."
+        },
+        {
+            "id": "heb12_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Mirad que no desechéis al que habla. Porque si no escaparon aquellos que desecharon al que hablaba en la tierra, mucho menos nosotros, si desecháramos al que habla desde el cielo."
+        },
+        {
+            "id": "heb12_26a",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "La voz del cual conmovió entonces la tierra; pero ahora ha prometido, diciendo:"
+        },
+        {
+            "id": "heb12_26b",
+            "speaker": "Dios",
+            "verse": 26,
+            "text": "Aun una vez, y yo conmoveré no solamente la tierra, sino también el cielo."
+        },
+        {
+            "id": "heb12_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Y esta expresión: Aun una vez, significa la remoción de las cosas movibles, como de cosas hechas, para que permanezcan las que no pueden ser removidas."
+        },
+        {
+            "id": "heb12_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Así que, recibiendo nosotros un reino inconmovible, tengamos gracia, por la cual sirvamos a Dios agradándole con temor y reverencia;"
+        },
+        {
+            "id": "heb12_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "porque nuestro Dios es fuego consumidor."
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "book": "Hebreos",
+    "chapter": 10,
+    "title": "Hebreos 10",
+    "messages": [
+        {
+            "id": "heb10_sec1_28bb",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "El único y verdadero sacrificio",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Porque la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que se ofrecen continuamente cada año, hacer perfectos a los que se acercan."
+        },
+        {
+            "id": "heb10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "De otra manera cesarían de ofrecerse, ya que los adoradores, limpios una vez, no tendrían más conciencia de pecado."
+        },
+        {
+            "id": "heb10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero en estos sacrificios cada año se hace memoria de los pecados."
+        },
+        {
+            "id": "heb10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque la sangre de los toros y de los machos cabríos no puede quitar los pecados."
+        },
+        {
+            "id": "heb10_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por lo cual, entrando en el mundo, dice:"
+        },
+        {
+            "id": "heb10_5b",
+            "speaker": "Jesús",
+            "verse": 5,
+            "text": "Sacrificio y ofrenda no quisiste; Mas me preparaste cuerpo:"
+        },
+        {
+            "id": "heb10_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Holocaustos y sacrificios por el pecado no te agradaron."
+        },
+        {
+            "id": "heb10_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Entonces dije:"
+        },
+        {
+            "id": "heb10_7b",
+            "speaker": "Jesús",
+            "verse": 7,
+            "text": "He aquí que vengo (en la cabecera del libro está escrito de mí) para hacer, oh Dios, tu voluntad."
+        },
+        {
+            "id": "heb10_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Diciendo arriba:"
+        },
+        {
+            "id": "heb10_8b",
+            "speaker": "Jesús",
+            "verse": 8,
+            "text": "Sacrificio y ofrenda, y holocaustos y expiaciones por el pecado no quisiste, ni te agradaron (cuyas cosas se ofrecen según la ley)."
+        },
+        {
+            "id": "heb10_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Entonces dijo:"
+        },
+        {
+            "id": "heb10_9b",
+            "speaker": "Jesús",
+            "verse": 9,
+            "text": "He aquí que vengo para hacer, oh Dios, tu voluntad. Quita lo primero, para establecer lo postrero."
+        },
+        {
+            "id": "heb10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "En esa voluntad nosotros somos santificados, mediante la ofrenda del cuerpo de Jesucristo hecha una sola vez."
+        },
+        {
+            "id": "heb10_sec11_7269",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "Eficacia del sacrificio único",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb10_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y ciertamente todo sacerdote se presenta cada día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados."
+        },
+        {
+            "id": "heb10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Pero Éste, habiendo ofrecido por los pecados un solo sacrificio para siempre, se ha sentado a la diestra de Dios,"
+        },
+        {
+            "id": "heb10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "de aquí en adelante esperando hasta que sus enemigos sean puestos por estrado de sus pies."
+        },
+        {
+            "id": "heb10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque con una sola ofrenda hizo perfectos para siempre a los santificados."
+        },
+        {
+            "id": "heb10_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y el Espíritu Santo también nos da testimonio; porque después que había dicho:"
+        },
+        {
+            "id": "heb10_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Éste es el pacto que haré con ellos: Después de aquellos días, dice el Señor:"
+        },
+        {
+            "id": "heb10_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "Daré mis leyes en sus corazones, y en sus mentes las escribiré;"
+        },
+        {
+            "id": "heb10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "y nunca más me acordaré de sus pecados e iniquidades."
+        },
+        {
+            "id": "heb10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Pues donde hay remisión de éstos, no hay más ofrenda por el pecado."
+        },
+        {
+            "id": "heb10_sec19_95e5",
+            "speaker": "Sistema",
+            "verse": 19,
+            "text": "II. EXHORTACIONES DEDUCIDAS DE LAS ENSEÑANZAS PRECEDENTES",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb10_sec19_cb8a",
+            "speaker": "Sistema",
+            "verse": 19,
+            "text": "Fe y paciencia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb10_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Así que, hermanos, teniendo libertad para entrar en el lugar santísimo por la sangre de Jesús,"
+        },
+        {
+            "id": "heb10_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "por el camino nuevo y vivo que Él nos consagró a través del velo, esto es, por su carne;"
+        },
+        {
+            "id": "heb10_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "y teniendo un gran sacerdote sobre la casa de Dios,"
+        },
+        {
+            "id": "heb10_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "acerquémonos con corazón sincero, en plena certidumbre de fe, purificados los corazones de mala conciencia, y lavados los cuerpos con agua pura."
+        },
+        {
+            "id": "heb10_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Mantengamos firme, sin fluctuar, la profesión de nuestra fe; que fiel es el que prometió;"
+        },
+        {
+            "id": "heb10_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "y considerémonos unos a otros para provocarnos al amor y a las buenas obras;"
+        },
+        {
+            "id": "heb10_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "no dejando nuestra congregación, como algunos tienen por costumbre, sino exhortándonos unos a otros; y tanto más, cuanto veis que aquel día se acerca."
+        },
+        {
+            "id": "heb10_sec26_2f6a",
+            "speaker": "Sistema",
+            "verse": 26,
+            "text": "Castigo de la apostasía",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb10_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Porque si pecáremos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda más sacrificio por el pecado,"
+        },
+        {
+            "id": "heb10_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "sino una horrenda expectación de juicio y hervor de fuego que ha de devorar a los adversarios."
+        },
+        {
+            "id": "heb10_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "El que menospreciare la ley de Moisés, por el testimonio de dos o de tres testigos muere sin ninguna misericordia."
+        },
+        {
+            "id": "heb10_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "¿De cuánto mayor castigo pensáis que será digno, el que pisoteare al Hijo de Dios, y tuviere por inmunda la sangre del pacto en la cual fue santificado, e hiciere afrenta al Espíritu de gracia?"
+        },
+        {
+            "id": "heb10_30a",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Pues conocemos al que dijo:"
+        },
+        {
+            "id": "heb10_30b",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "Mía es la venganza, yo daré el pago,"
+        },
+        {
+            "id": "heb10_30c",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Dice el Señor. Y otra vez:"
+        },
+        {
+            "id": "heb10_30d",
+            "speaker": "Dios",
+            "verse": 30,
+            "text": "El Señor juzgará a su pueblo."
+        },
+        {
+            "id": "heb10_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Horrenda cosa es caer en manos del Dios vivo."
+        },
+        {
+            "id": "heb10_sec32_7af6",
+            "speaker": "Sistema",
+            "verse": 32,
+            "text": "Perseverancia hasta el fin",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb10_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Pero traed a la memoria los días pasados, en los cuales, después de haber sido iluminados, sufristeis gran combate de aflicciones;"
+        },
+        {
+            "id": "heb10_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "por una parte, ciertamente, con vituperios y tribulaciones fuisteis hechos espectáculo; y por otra parte fuisteis hechos compañeros de los que han estado en igual situación."
+        },
+        {
+            "id": "heb10_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "Y os compadecisteis de mí en mis cadenas, y el despojo de vuestros bienes padecisteis con gozo, sabiendo en vosotros que tenéis una mejor y perdurable sustancia en los cielos."
+        },
+        {
+            "id": "heb10_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "No perdáis, pues, vuestra confianza, que tiene grande galardón;"
+        },
+        {
+            "id": "heb10_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "porque la paciencia os es necesaria; para que habiendo hecho la voluntad de Dios, obtengáis la promesa."
+        },
+        {
+            "id": "heb10_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Porque aún un poco de tiempo, y el que ha de venir vendrá, y no tardará."
+        },
+        {
+            "id": "heb10_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "Mas el justo vivirá por fe; y si retrocediere, no agradará a mi alma."
+        },
+        {
+            "id": "heb10_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Pero nosotros no somos de los que retroceden para perdición, sino de los que creen para salvación del alma."
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "book": "Hebreos",
+    "chapter": 2,
+    "title": "Hebreos 2",
+    "messages": [
+        {
+            "id": "heb2_sec1_57c0",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Exhortación a la perseverancia en la fe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Por tanto, es necesario que con más diligencia atendamos a las cosas que hemos oído, no sea que nos deslicemos."
+        },
+        {
+            "id": "heb2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque si la palabra dicha por los ángeles fue firme, y toda transgresión y desobediencia recibió justa retribución,"
+        },
+        {
+            "id": "heb2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "¿cómo escaparemos nosotros, si tuviéremos en poco una salvación tan grande? La cual, habiendo sido publicada primeramente por el Señor, nos fue confirmada por los que le oyeron;"
+        },
+        {
+            "id": "heb2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "testificando Dios juntamente con ellos, con señales y prodigios y diversos milagros, y dones del Espíritu Santo según su voluntad."
+        },
+        {
+            "id": "heb2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque no sujetó a los ángeles el mundo venidero, del cual hablamos;"
+        },
+        {
+            "id": "heb2_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero alguien testificó en cierto lugar, diciendo:"
+        },
+        {
+            "id": "heb2_6b",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "¿Qué es el hombre, para que te acuerdes de él, o el hijo del hombre, para que le visites?"
+        },
+        {
+            "id": "heb2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Le hiciste un poco menor que los ángeles, le coronaste de gloria y de honra, y le pusiste sobre las obras de tus manos."
+        },
+        {
+            "id": "heb2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Todo lo sujetaste bajo sus pies. Porque en cuanto le sujetó todas las cosas, nada dejó que no sea sujeto a Él; mas aún no vemos que todas las cosas le sean sujetas."
+        },
+        {
+            "id": "heb2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero vemos a Jesús coronado de gloria y de honra, el cual fue hecho un poco menor que los ángeles, por el padecimiento de su muerte, para que por la gracia de Dios gustase la muerte por todos."
+        },
+        {
+            "id": "heb2_sec10_330b",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "Jesús “consumado” por los padecimientos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque le era preciso a Aquél por cuya causa son todas las cosas y por quien todas las cosas subsisten, habiendo de llevar a la gloria a muchos hijos, perfeccionar por aflicciones al autor de la salvación de ellos."
+        },
+        {
+            "id": "heb2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque el que santifica y los que son santificados, de uno son todos; por lo cual no se avergüenza de llamarlos hermanos,"
+        },
+        {
+            "id": "heb2_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "heb2_12b",
+            "speaker": "Jesús",
+            "verse": 12,
+            "text": "Anunciaré tu nombre a mis hermanos, en medio de la iglesia te alabaré."
+        },
+        {
+            "id": "heb2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y otra vez: Yo en Él pondré mi confianza. Y otra vez: He aquí, yo y los hijos que Dios me dio."
+        },
+        {
+            "id": "heb2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Así que, por cuanto los hijos participaron de carne y sangre, Él también participó de lo mismo, para destruir por medio de la muerte al que tenía el imperio de la muerte, esto es, al diablo,"
+        },
+        {
+            "id": "heb2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "y librar a los que por el temor de la muerte estaban durante toda la vida sujetos a servidumbre."
+        },
+        {
+            "id": "heb2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque ciertamente no tomó para sí la naturaleza de los ángeles, sino que tomó la de la simiente de Abraham."
+        },
+        {
+            "id": "heb2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Por cuanto le era preciso ser en todo semejante a sus hermanos, para venir a ser misericordioso y fiel Sumo Sacerdote en lo que a Dios se refiere, para expiar los pecados del pueblo."
+        },
+        {
+            "id": "heb2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque en cuanto Él mismo padeció siendo tentado, es poderoso para socorrer a los que son tentados."
+        }
+    ]
+}

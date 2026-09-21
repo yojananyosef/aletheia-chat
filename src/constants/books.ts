@@ -135,7 +135,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'filemon', name: 'Filemón', availableChapters: [1], category: 'Epístolas de Pablo', description: 'Súplica por un esclavo fugitivo.', participants: ['Narrador', 'Sistema', 'Pablo'] },
 
     // --- EPÍSTOLAS GENERALES ---
-    { id: 'hebreos', name: 'Hebreos', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'La superioridad de Cristo.', participants: ['Autor anónimo'] },
+    { id: 'hebreos', name: 'Hebreos', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], category: 'Epístolas Generales', description: 'La superioridad de Cristo.', participants: ['Dios', 'Narrador', 'Sistema', 'Autor anónimo', 'Jesús'] },
     { id: 'santiago', name: 'Santiago', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'La fe que actúa.', participants: ['Santiago'] },
     { id: '1pedro', name: '1 Pedro', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Esperanza en el sufrimiento.', participants: ['Pedro'] },
     { id: '2pedro', name: '2 Pedro', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Contra los falsos maestros.', participants: ['Pedro'] },

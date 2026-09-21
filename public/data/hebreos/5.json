@@ -1,0 +1,124 @@
+{
+    "book": "Hebreos",
+    "chapter": 5,
+    "title": "Hebreos 5",
+    "messages": [
+        {
+            "id": "heb5_sec1_f5eb",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Misión del sumo sacerdote",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Porque todo sumo sacerdote tomado de entre los hombres, es constituido a favor de los hombres en lo que a Dios se refiere, para que presente también ofrendas y sacrificios por los pecados;"
+        },
+        {
+            "id": "heb5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "que pueda compadecerse de los ignorantes y extraviados, puesto que él también está rodeado de flaqueza;"
+        },
+        {
+            "id": "heb5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y por causa de ella debe ofrecer por los pecados, tanto por el pueblo, como también por sí mismo."
+        },
+        {
+            "id": "heb5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y nadie toma para sí esta honra, sino el que es llamado de Dios, como lo fue Aarón."
+        },
+        {
+            "id": "heb5_sec5_5642",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "Cristo, sacerdote según el orden de Melquisedec",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb5_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Así también Cristo no se glorificó a sí mismo haciéndose Sumo Sacerdote, sino el que le dijo:"
+        },
+        {
+            "id": "heb5_5b",
+            "speaker": "Dios",
+            "verse": 5,
+            "text": "Tú eres mi Hijo, yo te he engendrado hoy;"
+        },
+        {
+            "id": "heb5_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Como también dice en otro lugar:"
+        },
+        {
+            "id": "heb5_6b",
+            "speaker": "Dios",
+            "verse": 6,
+            "text": "Tú eres sacerdote para siempre, según el orden de Melquisedec."
+        },
+        {
+            "id": "heb5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "El cual en los días de su carne, habiendo ofrecido ruegos y súplicas con gran clamor y lágrimas al que le podía librar de la muerte, fue oído por su temor reverente."
+        },
+        {
+            "id": "heb5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y aunque era Hijo, por lo que padeció aprendió la obediencia;"
+        },
+        {
+            "id": "heb5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "y habiendo sido hecho perfecto, vino a ser autor de eterna salvación a todos los que le obedecen;"
+        },
+        {
+            "id": "heb5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y fue llamado de Dios Sumo Sacerdote según el orden de Melquisedec."
+        },
+        {
+            "id": "heb5_sec11_a65c",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "Estado imperfecto de los Hebreos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Del cual tenemos mucho que decir, y difícil de describir, por cuanto sois tardos para oír."
+        },
+        {
+            "id": "heb5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque debiendo ser ya maestros, por causa del tiempo, tenéis necesidad de que se os vuelva enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido."
+        },
+        {
+            "id": "heb5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y todo el que participa de la leche es inhábil en la palabra de la justicia, porque es niño;"
+        },
+        {
+            "id": "heb5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "mas el alimento sólido es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y el mal."
+        }
+    ]
+}

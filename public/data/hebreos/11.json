@@ -1,0 +1,288 @@
+{
+    "book": "Hebreos",
+    "chapter": 11,
+    "title": "Hebreos 11",
+    "messages": [
+        {
+            "id": "heb11_sec1_c9bf",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Los grandes ejemplos de fe. Abel, Enoc, Noé",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb11_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Es, pues, la fe, la sustancia de las cosas que se esperan, la demostración de lo que no se ve."
+        },
+        {
+            "id": "heb11_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque por ella alcanzaron buen testimonio los antiguos."
+        },
+        {
+            "id": "heb11_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Por fe entendemos haber sido constituido el universo por la palabra de Dios, de manera que lo que se ve, fue hecho de lo que no se veía."
+        },
+        {
+            "id": "heb11_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Por fe Abel ofreció a Dios más excelente sacrificio que Caín, por lo cual alcanzó testimonio de que era justo, dando Dios testimonio de sus ofrendas; y muerto, aún habla por ella."
+        },
+        {
+            "id": "heb11_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por fe Enoc fue traspuesto para no ver muerte, y no fue hallado, porque lo traspuso Dios. Y antes que fuese traspuesto, tuvo testimonio de haber agradado a Dios."
+        },
+        {
+            "id": "heb11_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que a Dios se acerca, crea que le hay, y que es galardonador de los que le buscan."
+        },
+        {
+            "id": "heb11_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por fe Noé, siendo advertido por Dios de cosas que aún no se veían, con temor preparó el arca en que su casa se salvase; y por esa fe condenó al mundo, y fue hecho heredero de la justicia que es por la fe."
+        },
+        {
+            "id": "heb11_sec8_06c0",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Abrahán y Sara",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb11_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir por herencia; y salió sin saber a dónde iba."
+        },
+        {
+            "id": "heb11_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por fe habitó en la tierra prometida como en tierra ajena, morando en tiendas con Isaac y Jacob, coherederos de la misma promesa:"
+        },
+        {
+            "id": "heb11_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque esperaba la ciudad que tiene fundamentos, cuyo artífice y hacedor es Dios."
+        },
+        {
+            "id": "heb11_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por fe también Sara misma recibió fuerza para concebir simiente; y dio a luz aun fuera del tiempo de la edad, porque creyó ser fiel el que lo había prometido."
+        },
+        {
+            "id": "heb11_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Por lo cual también, de uno, y éste ya casi muerto, salieron como las estrellas del cielo en multitud, y como la arena innumerable que está a la orilla del mar."
+        },
+        {
+            "id": "heb11_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Conforme a la fe murieron todos éstos sin haber recibido las promesas, sino mirándolas de lejos, y creyéndolas, y saludándolas, y confesando que eran extranjeros y peregrinos sobre la tierra."
+        },
+        {
+            "id": "heb11_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque los que esto dicen, claramente dan a entender que buscan una patria."
+        },
+        {
+            "id": "heb11_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Que si hubiesen estado pensando en aquella de donde salieron, ciertamente tenían tiempo para volverse."
+        },
+        {
+            "id": "heb11_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Pero ahora anhelaban una mejor patria, esto es, la celestial; por lo cual Dios no se avergüenza de llamarse Dios de ellos; porque les había preparado una ciudad."
+        },
+        {
+            "id": "heb11_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Por fe Abraham cuando fue probado, ofreció a Isaac, y él que había recibido las promesas, ofreció a su hijo unigénito,"
+        },
+        {
+            "id": "heb11_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Habiéndole sido dicho:"
+        },
+        {
+            "id": "heb11_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "En Isaac te será llamada simiente;"
+        },
+        {
+            "id": "heb11_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "pensando que aun de los muertos es Dios poderoso para levantar; de donde también le volvió a recibir por figura."
+        },
+        {
+            "id": "heb11_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Por fe Isaac bendijo a Jacob y a Esaú acerca de cosas que habían de venir."
+        },
+        {
+            "id": "heb11_sec21_f0a0",
+            "speaker": "Sistema",
+            "verse": 21,
+            "text": "Isaac, Jacob, José",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb11_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Por fe Jacob, al morir, bendijo a cada uno de los hijos de José, y adoró apoyándose sobre el extremo de su bordón."
+        },
+        {
+            "id": "heb11_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Por fe José, al morir, hizo mención del éxodo de los hijos de Israel; y dio mandamiento acerca de sus huesos."
+        },
+        {
+            "id": "heb11_sec23_5af1",
+            "speaker": "Sistema",
+            "verse": 23,
+            "text": "Moisés",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb11_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Por fe Moisés, cuando nació, fue escondido de sus padres por tres meses, porque vieron que era niño hermoso; y no temieron el edicto del rey."
+        },
+        {
+            "id": "heb11_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Por fe Moisés, hecho ya grande, rehusó ser llamado hijo de la hija de Faraón;"
+        },
+        {
+            "id": "heb11_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "escogiendo antes ser afligido con el pueblo de Dios, que gozar de los placeres temporales de pecado."
+        },
+        {
+            "id": "heb11_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Teniendo por mayores riquezas el vituperio de Cristo que los tesoros en Egipto; porque tenía puesta su mirada en el galardón."
+        },
+        {
+            "id": "heb11_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Por fe dejó a Egipto, no temiendo la ira del rey; porque se sostuvo como viendo al Invisible."
+        },
+        {
+            "id": "heb11_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Por fe celebró la pascua y el rociamiento de la sangre, para que el que mataba a los primogénitos no los tocase a ellos."
+        },
+        {
+            "id": "heb11_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Por fe pasaron por el Mar Rojo como por tierra seca; lo cual probando los egipcios, fueron ahogados."
+        },
+        {
+            "id": "heb11_sec30_9e76",
+            "speaker": "Sistema",
+            "verse": 30,
+            "text": "Otros ejemplos de fe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb11_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Por fe cayeron los muros de Jericó después de rodearlos siete días."
+        },
+        {
+            "id": "heb11_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Por fe Rahab la ramera no pereció juntamente con los incrédulos, habiendo recibido a los espías en paz."
+        },
+        {
+            "id": "heb11_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "¿Y qué más digo? Porque el tiempo me faltaría contando de Gedeón, y de Barac, y de Sansón, y de Jefté; así como de David, y de Samuel y de los profetas;"
+        },
+        {
+            "id": "heb11_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "que por fe conquistaron reinos, hicieron justicia, alcanzaron promesas, taparon bocas de leones,"
+        },
+        {
+            "id": "heb11_34",
+            "speaker": "Narrador",
+            "verse": 34,
+            "text": "apagaron fuegos impetuosos, evitaron filo de espada, sacaron fuerzas de flaqueza, fueron hechos fuertes en batallas, hicieron huir ejércitos extranjeros."
+        },
+        {
+            "id": "heb11_35",
+            "speaker": "Narrador",
+            "verse": 35,
+            "text": "Las mujeres recibieron sus muertos por resurrección; mas otros fueron torturados, no aceptando el rescate, a fin de obtener mejor resurrección."
+        },
+        {
+            "id": "heb11_36",
+            "speaker": "Narrador",
+            "verse": 36,
+            "text": "Otros experimentaron vituperios y azotes; y a más de esto cadenas y cárceles."
+        },
+        {
+            "id": "heb11_37",
+            "speaker": "Narrador",
+            "verse": 37,
+            "text": "Fueron apedreados, aserrados, probados, muertos a espada; anduvieron de acá para allá cubiertos de pieles de ovejas y pieles de cabras, pobres, angustiados, maltratados;"
+        },
+        {
+            "id": "heb11_38",
+            "speaker": "Narrador",
+            "verse": 38,
+            "text": "de los cuales el mundo no era digno; errantes por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra."
+        },
+        {
+            "id": "heb11_39",
+            "speaker": "Narrador",
+            "verse": 39,
+            "text": "Y todos éstos, aunque obtuvieron buen testimonio mediante la fe, no recibieron la promesa;"
+        },
+        {
+            "id": "heb11_40",
+            "speaker": "Narrador",
+            "verse": 40,
+            "text": "proveyendo Dios alguna cosa mejor para nosotros, para que no fuesen ellos perfeccionados sin nosotros."
+        }
+    ]
+}

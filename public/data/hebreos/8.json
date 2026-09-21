@@ -1,0 +1,129 @@
+{
+    "book": "Hebreos",
+    "chapter": 8,
+    "title": "Hebreos 8",
+    "messages": [
+        {
+            "id": "heb8_sec1_25b2",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "El Sumo Sacerdote del cielo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb8_1a",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Así que, la suma de lo que hemos dicho es:"
+        },
+        {
+            "id": "heb8_1b",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Tenemos tal Sumo Sacerdote el cual está sentado a la diestra del trono de la Majestad en los cielos;"
+        },
+        {
+            "id": "heb8_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "ministro del santuario, y del verdadero tabernáculo que el Señor levantó, y no el hombre."
+        },
+        {
+            "id": "heb8_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque todo sumo sacerdote es constituido para presentar ofrendas y sacrificios; por lo cual es necesario que también Éste tenga algo que ofrecer."
+        },
+        {
+            "id": "heb8_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque si Él estuviese sobre la tierra, ni siquiera sería sacerdote, habiendo aún sacerdotes que presentan ofrendas según la ley;"
+        },
+        {
+            "id": "heb8_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "los cuales sirven de ejemplo y sombra de las cosas celestiales, como fue advertido por Dios a Moisés cuando estaba por comenzar el tabernáculo: Mira, dice, haz todas las cosas conforme al modelo que te ha sido mostrado en el monte."
+        },
+        {
+            "id": "heb8_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas ahora tanto mejor ministerio es el suyo, por cuanto Él es el mediador de un mejor testamento, que ha sido establecido sobre mejores promesas."
+        },
+        {
+            "id": "heb8_sec7_beaa",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "Superioridad de la nueva alianza",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb8_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque si aquel primer pacto hubiera sido sin falta, no se hubiera procurado lugar para el segundo."
+        },
+        {
+            "id": "heb8_8a",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Porque hallando falta en ellos, dice:"
+        },
+        {
+            "id": "heb8_8b",
+            "speaker": "Dios",
+            "verse": 8,
+            "text": "He aquí vienen días, dice el Señor, cuando estableceré con la casa de Israel y con la casa de Judá un nuevo pacto;"
+        },
+        {
+            "id": "heb8_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "No como el pacto que hice con sus padres el día que los tomé por la mano para sacarlos de la tierra de Egipto: Porque ellos no permanecieron en mi pacto, y yo los desatendí, dice el Señor."
+        },
+        {
+            "id": "heb8_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque éste es el pacto que haré con la casa de Israel, después de aquellos días, dice el Señor:"
+        },
+        {
+            "id": "heb8_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Pondré mis leyes en sus mentes, y sobre sus corazones las escribiré; y seré a ellos por Dios, y ellos me serán a mí por pueblo:"
+        },
+        {
+            "id": "heb8_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y ninguno enseñará a su prójimo, ni ninguno a su hermano, diciendo:"
+        },
+        {
+            "id": "heb8_11b",
+            "speaker": "Dios",
+            "verse": 11,
+            "text": "Conoce al Señor: Porque todos me conocerán, desde el menor de ellos hasta el mayor."
+        },
+        {
+            "id": "heb8_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque seré propicio a sus injusticias, y de sus pecados y de sus iniquidades no me acordaré más."
+        },
+        {
+            "id": "heb8_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Y al decir:"
+        },
+        {
+            "id": "heb8_13b",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Nuevo pacto, da por viejo al primero; y lo que es dado por viejo y se envejece, cerca está a desvanecerse."
+        }
+    ]
+}

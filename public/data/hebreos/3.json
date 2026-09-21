@@ -1,0 +1,159 @@
+{
+    "book": "Hebreos",
+    "chapter": 3,
+    "title": "Hebreos 3",
+    "messages": [
+        {
+            "id": "heb3_sec1_e778",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Preexcelencia de Cristo sobre Moisés",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Por tanto, hermanos santos, participantes del llamamiento celestial, considerad al Apóstol y Sumo Sacerdote de nuestra profesión, Cristo Jesús;"
+        },
+        {
+            "id": "heb3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "el cual fue fiel al que le constituyó, como también lo fue Moisés sobre toda su casa."
+        },
+        {
+            "id": "heb3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque de tanto mayor gloria que Moisés Éste es estimado digno, cuanto tiene mayor dignidad que la casa el que la edificó."
+        },
+        {
+            "id": "heb3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque toda casa es edificada por alguno; mas el que creó todas las cosas es Dios."
+        },
+        {
+            "id": "heb3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y Moisés a la verdad fue fiel sobre toda su casa, como siervo, para testimonio de lo que después se había de decir;"
+        },
+        {
+            "id": "heb3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "pero Cristo, como hijo sobre su casa; la cual casa somos nosotros, si retenemos firme hasta el fin la confianza y la gloria de la esperanza."
+        },
+        {
+            "id": "heb3_sec7_ad7c",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "Advertencia contra la incredulidad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "heb3_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por lo cual, como dice el Espíritu Santo:"
+        },
+        {
+            "id": "heb3_7b",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Si oyereis hoy su voz,"
+        },
+        {
+            "id": "heb3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "no endurezcáis vuestros corazones, como en la provocación, en el día de la tentación en el desierto,"
+        },
+        {
+            "id": "heb3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "donde me tentaron vuestros padres; me probaron, y vieron mis obras cuarenta años."
+        },
+        {
+            "id": "heb3_10a",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "A causa de lo cual me disgusté con aquella generación, y dije:"
+        },
+        {
+            "id": "heb3_10b",
+            "speaker": "Dios",
+            "verse": 10,
+            "text": "Siempre divagan ellos de corazón, y no han conocido mis caminos."
+        },
+        {
+            "id": "heb3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así que, juré yo en mi ira: No entrarán en mi reposo."
+        },
+        {
+            "id": "heb3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mirad, hermanos, que en ninguno de vosotros haya corazón malo de incredulidad para apartarse del Dios vivo;"
+        },
+        {
+            "id": "heb3_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Antes exhortaos los unos a los otros cada día, entre tanto que se dice:"
+        },
+        {
+            "id": "heb3_13b",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Hoy; para que ninguno de vosotros se endurezca por el engaño del pecado."
+        },
+        {
+            "id": "heb3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque somos hechos participantes de Cristo, si retenemos firme hasta el fin el principio de nuestra confianza;"
+        },
+        {
+            "id": "heb3_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entre tanto que se dice:"
+        },
+        {
+            "id": "heb3_15b",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Si oyereis hoy su voz, no endurezcáis vuestros corazones, como en la provocación."
+        },
+        {
+            "id": "heb3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque algunos de los que habían salido de Egipto con Moisés, habiendo oído, provocaron, aunque no todos."
+        },
+        {
+            "id": "heb3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas ¿con quiénes estuvo enojado cuarenta años? ¿No fue con los que pecaron, cuyos cuerpos cayeron en el desierto?"
+        },
+        {
+            "id": "heb3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "¿Y a quiénes juró que no entrarían en su reposo, sino a aquellos que no creyeron?"
+        },
+        {
+            "id": "heb3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y vemos que no pudieron entrar a causa de incredulidad."
+        }
+    ]
+}
