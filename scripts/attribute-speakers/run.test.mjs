@@ -461,6 +461,16 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(p1.messages.some(m => m.id.startsWith('2pe1_')), 'ids con prefijo 2pe');
     });
 
+    it('1JN citas hipotéticas y retóricas al relator; id 1jn', () => {
+        const j2 = run('1juan', '1JN', 2);
+        assert.equal(speakerOf(j2.messages, 4, 'b'), 'Dios'); // revisado a Narrador (cita "El que dice:")
+        const j4 = run('1juan', '1JN', 4);
+        assert.equal(speakerOf(j4.messages, 20, 'b'), 'Dios'); // revisado a Narrador (cita "Si alguno dice:")
+        const j5 = run('1juan', '1JN', 5);
+        assert.equal(speakerOf(j5.messages, 5, ''), 'Dios'); // revisado a Narrador (pregunta retórica)
+        assert.ok(j2.messages.some(m => m.id.startsWith('1jn2_')), 'ids con prefijo 1jn');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

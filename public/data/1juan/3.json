@@ -1,0 +1,165 @@
+{
+    "book": "1 Juan",
+    "chapter": 3,
+    "title": "1 Juan 3",
+    "messages": [
+        {
+            "id": "1jn3_sec1_8cb2",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Somos hijos de Dios",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Mirad cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios; por esto el mundo no nos conoce, porque no le conoció a Él."
+        },
+        {
+            "id": "1jn3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando Él apareciere, seremos semejantes a Él, porque le veremos como Él es."
+        },
+        {
+            "id": "1jn3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y cualquiera que tiene esta esperanza en Él, se purifica a sí mismo, así como Él es puro."
+        },
+        {
+            "id": "1jn3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Cualquiera que comete pecado, traspasa también la ley; pues el pecado es transgresión de la ley."
+        },
+        {
+            "id": "1jn3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y sabéis que Él apareció para quitar nuestros pecados, y no hay pecado en Él."
+        },
+        {
+            "id": "1jn3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Todo aquel que permanece en Él, no peca; todo aquel que peca, no le ha visto, ni le ha conocido."
+        },
+        {
+            "id": "1jn3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Hijitos, nadie os engañe; el que hace justicia, es justo, como también Él es justo."
+        },
+        {
+            "id": "1jn3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "El que hace pecado, es del diablo; porque el diablo peca desde el principio. Para esto apareció el Hijo de Dios, para deshacer las obras del diablo."
+        },
+        {
+            "id": "1jn3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Todo aquel que es nacido de Dios, no peca, porque su simiente permanece en él; y no puede pecar, porque es nacido de Dios."
+        },
+        {
+            "id": "1jn3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "En esto son manifiestos los hijos de Dios, y los hijos del diablo; todo el que no hace justicia, y que no ama a su hermano, no es de Dios."
+        },
+        {
+            "id": "1jn3_sec11_ee03",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "El amor fraternal",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque, éste es el mensaje que habéis oído desde el principio: Que nos amemos unos a otros."
+        },
+        {
+            "id": "1jn3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "No como Caín, que era del maligno, y mató a su hermano. ¿Y por qué causa le mató? Porque sus obras eran malas, y las de su hermano justas."
+        },
+        {
+            "id": "1jn3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Hermanos míos, no os maravilléis si el mundo os aborrece."
+        },
+        {
+            "id": "1jn3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Nosotros sabemos que hemos pasado de muerte a vida, en que amamos a los hermanos. El que no ama a su hermano, permanece en muerte."
+        },
+        {
+            "id": "1jn3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Todo aquel que aborrece a su hermano, es homicida; y sabéis que ningún homicida tiene vida eterna morando en sí."
+        },
+        {
+            "id": "1jn3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "En esto conocemos el amor de Dios, en que Él puso su vida por nosotros; también nosotros debemos poner nuestras vidas por los hermanos."
+        },
+        {
+            "id": "1jn3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Pero el que tiene bienes de este mundo, y ve a su hermano tener necesidad, y le cierra sus entrañas, ¿cómo mora el amor de Dios en él?"
+        },
+        {
+            "id": "1jn3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Hijitos míos, no amemos de palabra ni de lengua, sino de hecho y en verdad."
+        },
+        {
+            "id": "1jn3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y en esto conocemos que somos de la verdad, y aseguraremos nuestros corazones delante de Él."
+        },
+        {
+            "id": "1jn3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque si nuestro corazón nos reprende, mayor es Dios que nuestro corazón, y Él conoce todas las cosas."
+        },
+        {
+            "id": "1jn3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Amados, si nuestro corazón no nos reprende, confianza tenemos para con Dios;"
+        },
+        {
+            "id": "1jn3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "y cualquier cosa que pidamos, la recibiremos de Él, porque guardamos sus mandamientos y hacemos las cosas que son agradables delante de Él."
+        },
+        {
+            "id": "1jn3_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y éste es su mandamiento: Que creamos en el nombre de su Hijo Jesucristo, y nos amemos unos a otros como nos lo ha mandado."
+        },
+        {
+            "id": "1jn3_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y el que guarda sus mandamientos, permanece en Él, y Él en él. Y en esto sabemos que Él permanece en nosotros, por el Espíritu que nos ha dado."
+        }
+    ]
+}

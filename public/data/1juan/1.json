@@ -1,0 +1,81 @@
+{
+    "book": "1 Juan",
+    "chapter": 1,
+    "title": "1 Juan 1",
+    "messages": [
+        {
+            "id": "1jn1_sec1_a98d",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Prólogo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos contemplado y palparon nuestras manos, tocante al Verbo de vida"
+        },
+        {
+            "id": "1jn1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "(porque la vida fue manifestada, y la vimos, y testificamos, y os anunciamos aquella vida eterna, la cual estaba con el Padre, y se nos manifestó)."
+        },
+        {
+            "id": "1jn1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros; y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo."
+        },
+        {
+            "id": "1jn1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y estas cosas os escribimos, para que vuestro gozo sea cumplido."
+        },
+        {
+            "id": "1jn1_sec5_2c25",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "Nadie está sin pecado",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Y éste es el mensaje que oímos de Él, y os anunciamos; que Dios es luz, y en Él no hay ningunas tinieblas."
+        },
+        {
+            "id": "1jn1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Si decimos que tenemos comunión con Él, y andamos en tinieblas, mentimos, y no practicamos la verdad;"
+        },
+        {
+            "id": "1jn1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "mas si andamos en luz, como Él está en luz, tenemos comunión unos con otros, y la sangre de Jesucristo su Hijo nos limpia de todo pecado."
+        },
+        {
+            "id": "1jn1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Si decimos que no tenemos pecado, nos engañamos a nosotros mismos, y la verdad no está en nosotros."
+        },
+        {
+            "id": "1jn1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Si confesamos nuestros pecados, Él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad."
+        },
+        {
+            "id": "1jn1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Si decimos que no hemos pecado, le hacemos a Él mentiroso, y su palabra no está en nosotros."
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "book": "1 Juan",
+    "chapter": 2,
+    "title": "1 Juan 2",
+    "messages": [
+        {
+            "id": "1jn2_sec1_3f41",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Tenemos por abogado a Jesucristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Hijitos míos, estas cosas os escribo para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, a Jesucristo el justo."
+        },
+        {
+            "id": "1jn2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y Él es la propiciación por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo."
+        },
+        {
+            "id": "1jn2_sec3_cd6f",
+            "speaker": "Sistema",
+            "verse": 3,
+            "text": "El que conoce, ama",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y en esto sabemos que nosotros le conocemos, si guardamos sus mandamientos."
+        },
+        {
+            "id": "1jn2_4a",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "El que dice:"
+        },
+        {
+            "id": "1jn2_4b",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Yo le conozco, y no guarda sus mandamientos, el tal es mentiroso, y la verdad no está en él;"
+        },
+        {
+            "id": "1jn2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "pero el que guarda su palabra, verdaderamente el amor de Dios se ha perfeccionado en él; por esto sabemos que estamos en Él."
+        },
+        {
+            "id": "1jn2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "El que dice que permanece en Él, debe andar como Él anduvo."
+        },
+        {
+            "id": "1jn2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Hermanos, no os escribo un mandamiento nuevo, sino el mandamiento antiguo que habéis tenido desde el principio; el mandamiento antiguo es la palabra que habéis oído desde el principio."
+        },
+        {
+            "id": "1jn2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Otra vez, os escribo un mandamiento nuevo, que es verdadero en Él y en vosotros; porque las tinieblas han pasado, y la luz verdadera ya alumbra."
+        },
+        {
+            "id": "1jn2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El que dice que está en luz, y aborrece a su hermano, está todavía en tinieblas."
+        },
+        {
+            "id": "1jn2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El que ama a su hermano, está en luz, y no hay tropiezo en él."
+        },
+        {
+            "id": "1jn2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Pero el que aborrece a su hermano, está en tinieblas, y anda en tinieblas, y no sabe a dónde va; porque las tinieblas le han cegado sus ojos."
+        },
+        {
+            "id": "1jn2_sec12_0a40",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "El amor del mundo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Os escribo a vosotros, hijitos, porque vuestros pecados os son perdonados por su nombre."
+        },
+        {
+            "id": "1jn2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Os escribo a vosotros, padres, porque habéis conocido a Aquél que es desde el principio. Os escribo a vosotros, jóvenes, porque habéis vencido al maligno. Os escribo a vosotros, hijitos, porque habéis conocido al Padre."
+        },
+        {
+            "id": "1jn2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Os he escrito a vosotros, padres, porque habéis conocido al que es desde el principio. Os he escrito a vosotros, jóvenes, porque sois fuertes, y la palabra de Dios mora en vosotros, y habéis vencido al maligno."
+        },
+        {
+            "id": "1jn2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él."
+        },
+        {
+            "id": "1jn2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque todo lo que hay en el mundo, la concupiscencia de la carne, y la concupiscencia de los ojos, y la soberbia de la vida, no es del Padre, sino del mundo."
+        },
+        {
+            "id": "1jn2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Y el mundo pasa, y su concupiscencia; pero el que hace la voluntad de Dios, permanece para siempre."
+        },
+        {
+            "id": "1jn2_sec18_3646",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "El Anticristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Hijitos, ya es el último tiempo; y como vosotros habéis oído que el anticristo ha de venir, así también al presente hay muchos anticristos; por lo cual sabemos que es el último tiempo."
+        },
+        {
+            "id": "1jn2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Salieron de nosotros, pero no eran de nosotros; porque si hubiesen sido de nosotros, habrían permanecido con nosotros; pero salieron para que se manifestase que no todos son de nosotros."
+        },
+        {
+            "id": "1jn2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Mas vosotros tenéis la unción del Santo, y conocéis todas las cosas."
+        },
+        {
+            "id": "1jn2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "No os he escrito porque ignoréis la verdad, sino porque la conocéis, y porque ninguna mentira es de la verdad."
+        },
+        {
+            "id": "1jn2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "¿Quién es mentiroso, sino el que niega que Jesús es el Cristo? Éste es anticristo, que niega al Padre y al Hijo."
+        },
+        {
+            "id": "1jn2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Todo aquel que niega al Hijo, tampoco tiene al Padre. El que confiesa al Hijo tiene también al Padre."
+        },
+        {
+            "id": "1jn2_sec24_acd3",
+            "speaker": "Sistema",
+            "verse": 24,
+            "text": "Permaneced firmes en la doctrina",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Lo que habéis oído desde el principio, permanezca, pues, en vosotros. Si lo que oísteis desde el principio permaneciere en vosotros, también vosotros permaneceréis en el Hijo y en el Padre."
+        },
+        {
+            "id": "1jn2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Y ésta es la promesa que Él nos hizo; la vida eterna."
+        },
+        {
+            "id": "1jn2_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Os he escrito esto acerca de los que os engañan."
+        },
+        {
+            "id": "1jn2_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Pero la unción que vosotros habéis recibido de Él permanece en vosotros, y no tenéis necesidad de que alguien os enseñe; sino que como la unción misma os enseña acerca de todas las cosas, y es verdadera, y no es mentira, y así como os ha enseñado, vosotros permaneceréis en Él."
+        },
+        {
+            "id": "1jn2_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Y ahora, hijitos, permaneced en Él; para que cuando Él apareciere, tengamos confianza, y no seamos avergonzados delante de Él en su venida."
+        },
+        {
+            "id": "1jn2_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Si sabéis que Él es justo, sabed también que todo el que hace justicia es nacido de Él."
+        }
+    ]
+}

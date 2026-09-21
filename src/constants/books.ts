@@ -139,7 +139,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'santiago', name: 'Santiago', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas Generales', description: 'La fe que actúa.', participants: ['Dios', 'Narrador', 'Sistema', 'Santiago'] },
     { id: '1pedro', name: '1 Pedro', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas Generales', description: 'Esperanza en el sufrimiento.', participants: ['Dios', 'Narrador', 'Sistema', 'Pedro'] },
     { id: '2pedro', name: '2 Pedro', availableChapters: [1, 2, 3], category: 'Epístolas Generales', description: 'Contra los falsos maestros.', participants: ['Dios', 'Narrador', 'Sistema', 'Pedro'] },
-    { id: '1juan', name: '1 Juan', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Caminar en la luz y el amor.', participants: ['Juan'] },
+    { id: '1juan', name: '1 Juan', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas Generales', description: 'Caminar en la luz y el amor.', participants: ['Dios', 'Narrador', 'Sistema', 'Juan'] },
     { id: '2juan', name: '2 Juan', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Permanecer en la verdad.', participants: ['Juan'] },
     { id: '3juan', name: '3 Juan', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Hospitalidad cristiana.', participants: ['Juan'] },
     { id: 'judas', name: 'Judas', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Contender por la fe.', participants: ['Judas'] },

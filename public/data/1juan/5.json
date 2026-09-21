@@ -1,0 +1,154 @@
+{
+    "book": "1 Juan",
+    "chapter": 5,
+    "title": "1 Juan 5",
+    "messages": [
+        {
+            "id": "1jn5_sec1_1751",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La fe en Cristo vence al mundo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Todo aquel que cree que Jesús es el Cristo, es nacido de Dios; y todo aquel que ama al que engendró, ama también al que es engendrado por Él."
+        },
+        {
+            "id": "1jn5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "En esto conocemos que amamos a los hijos de Dios, cuando amamos a Dios y guardamos sus mandamientos."
+        },
+        {
+            "id": "1jn5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque éste es el amor de Dios, que guardemos sus mandamientos; y sus mandamientos no son gravosos."
+        },
+        {
+            "id": "1jn5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque todo lo que es nacido de Dios vence al mundo; y ésta es la victoria que ha vencido al mundo, nuestra fe."
+        },
+        {
+            "id": "1jn5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?"
+        },
+        {
+            "id": "1jn5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Éste es el que vino mediante agua y sangre, Jesucristo; no mediante agua solamente, sino mediante agua y sangre. Y el Espíritu es el que da testimonio; porque el Espíritu es la verdad."
+        },
+        {
+            "id": "1jn5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque tres son los que dan testimonio en el cielo, el Padre, el Verbo y el Espíritu Santo; y estos tres son uno."
+        },
+        {
+            "id": "1jn5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y tres son los que dan testimonio en la tierra; el Espíritu, el agua, y la sangre; y estos tres concuerdan en uno."
+        },
+        {
+            "id": "1jn5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Si recibimos el testimonio de los hombres, el testimonio de Dios es mayor; porque éste es el testimonio de Dios que Él ha dado acerca de su Hijo."
+        },
+        {
+            "id": "1jn5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "El que cree en el Hijo de Dios, tiene el testimonio en sí mismo; el que no cree a Dios, le ha hecho mentiroso; porque no ha creído en el testimonio que Dios ha dado de su Hijo."
+        },
+        {
+            "id": "1jn5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y éste es el testimonio: Que Dios nos ha dado vida eterna; y esta vida está en su Hijo."
+        },
+        {
+            "id": "1jn5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios, no tiene la vida."
+        },
+        {
+            "id": "1jn5_sec13_1498",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Confianza en el Padre",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios."
+        },
+        {
+            "id": "1jn5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Y ésta es la confianza que tenemos en Él, que si pedimos alguna cosa conforme a su voluntad, Él nos oye."
+        },
+        {
+            "id": "1jn5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hayamos hecho."
+        },
+        {
+            "id": "1jn5_sec16_34d4",
+            "speaker": "Sistema",
+            "verse": 16,
+            "text": "Exhortaciones finales",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1jn5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Si alguno ve a su hermano cometer pecado no de muerte, pedirá, y Dios le dará vida; digo a los que pecan no de muerte. Hay pecado de muerte, por el cual yo no digo que se pida."
+        },
+        {
+            "id": "1jn5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Toda maldad es pecado; mas hay pecado no de muerte."
+        },
+        {
+            "id": "1jn5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Sabemos que cualquiera que es nacido de Dios, no peca, porque el que es engendrado de Dios, se guarda a sí mismo, y el maligno no le toca."
+        },
+        {
+            "id": "1jn5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Sabemos que somos de Dios, y el mundo entero yace en maldad."
+        },
+        {
+            "id": "1jn5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y sabemos que el Hijo de Dios ha venido, y nos ha dado entendimiento para conocer al que es verdadero; y estamos en el verdadero, en su Hijo Jesucristo. Éste es el verdadero Dios, y la vida eterna."
+        },
+        {
+            "id": "1jn5_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Hijitos, guardaos de los ídolos. Amén."
+        }
+    ]
+}

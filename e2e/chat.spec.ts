@@ -18,6 +18,13 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /1juan/1 carga el capítulo (epístola integrada)', async ({ page }) => {
+        await page.goto('/1juan/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await expect(page.getByRole('heading', { name: /Juan/ })).toBeVisible();
+        await expect(page.getByRole('button', { name: /prólogo/i })).toBeVisible({ timeout: 20_000 });
+    });
+
     test('deep-link a /2pedro/1 carga el capítulo (epístola integrada)', async ({ page }) => {
         await page.goto('/2pedro/1');
         await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
