@@ -351,6 +351,16 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(c6.messages.some(m => m.id.startsWith('2co6_')), 'ids con prefijo 2co');
     });
 
+    it('GAL todo Pablo salvo oráculo Gn 12:3: 3:8b Dios, 3:12b/4:30 Pablo; id gal', () => {
+        const g3 = run('galatas', 'GAL', 3);
+        assert.equal(speakerOf(g3.messages, 8, 'b'), 'Dios'); // promesa Gn 12:3 con marco: se conserva Dios
+        assert.equal(speakerOf(g3.messages, 12, 'b'), 'Dios'); // revisado a Pablo (cita legal 3a persona)
+        const g4 = run('galatas', 'GAL', 4);
+        assert.equal(speakerOf(g4.messages, 6, 'b'), 'Dios'); // revisado a Pablo (clamor Abba, cf. ROM 8:15b)
+        assert.equal(speakerOf(g4.messages, 30, ''), 'Dios'); // revisado a Pablo (cita Sara Gn 21:10b)
+        assert.ok(g3.messages.some(m => m.id.startsWith('gal3_')), 'ids con prefijo gal');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

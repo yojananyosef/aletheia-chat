@@ -1,0 +1,198 @@
+{
+    "book": "Gálatas",
+    "chapter": 1,
+    "title": "Gálatas 1",
+    "messages": [
+        {
+            "id": "gal1_sec1_a8f5",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "PRÓLOGO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal1_sec1_28d4",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salutación apostólica",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pablo, apóstol (no de hombres ni por hombre, sino por Jesucristo, y por Dios el Padre que le resucitó de entre los muertos),"
+        },
+        {
+            "id": "gal1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y todos los hermanos que están conmigo, a las iglesias de Galacia:"
+        },
+        {
+            "id": "gal1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Gracia sea a vosotros, y paz de Dios el Padre y de nuestro Señor Jesucristo,"
+        },
+        {
+            "id": "gal1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "el cual se dio a sí mismo por nuestros pecados para librarnos de este presente mundo malo, conforme a la voluntad de Dios y Padre nuestro;"
+        },
+        {
+            "id": "gal1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "al cual sea gloria por siempre y siempre: Amén."
+        },
+        {
+            "id": "gal1_sec6_f38b",
+            "speaker": "Sistema",
+            "verse": 6,
+            "text": "I. APOLOGÍA DE SU APOSTOLADO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal1_sec6_104a",
+            "speaker": "Sistema",
+            "verse": 6,
+            "text": "Autoridad sobrenatural del Evangelio de San Pablo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal1_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Estoy maravillado de que tan pronto os hayáis traspasado del que os llamó a la gracia de Cristo, a otro evangelio:"
+        },
+        {
+            "id": "gal1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "No que haya otro, sino que hay algunos que os perturban, y quieren pervertir el evangelio de Cristo."
+        },
+        {
+            "id": "gal1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas si aun nosotros, o un ángel del cielo os predicare otro evangelio del que os hemos predicado, sea anatema."
+        },
+        {
+            "id": "gal1_9a",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Como antes hemos dicho, así ahora digo otra vez:"
+        },
+        {
+            "id": "gal1_9b",
+            "speaker": "Pablo",
+            "verse": 9,
+            "text": "Si alguno os predicare otro evangelio del que habéis recibido, sea anatema."
+        },
+        {
+            "id": "gal1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Qué, ¿persuado yo ahora a los hombres, o a Dios? ¿Acaso busco agradar a los hombres? Pues si todavía agradara a los hombres, no sería siervo de Cristo."
+        },
+        {
+            "id": "gal1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas os hago saber, hermanos, que el evangelio predicado por mí, no es según hombre;"
+        },
+        {
+            "id": "gal1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "pues yo ni lo recibí de hombre, ni tampoco me fue enseñado, sino por revelación de Jesucristo."
+        },
+        {
+            "id": "gal1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque ya habéis oído acerca de mi conducta en otro tiempo en el judaísmo, que perseguía sobremanera a la iglesia de Dios, y la asolaba;"
+        },
+        {
+            "id": "gal1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "y que adelantaba en el judaísmo sobre muchos de mis contemporáneos en mi nación, siendo mucho más celoso de las tradiciones de mis padres."
+        },
+        {
+            "id": "gal1_sec15_38b4",
+            "speaker": "Sistema",
+            "verse": 15,
+            "text": "Especial vocación divina del apóstol de los Gentiles",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas cuando agradó a Dios, que me apartó desde el vientre de mi madre, y me llamó por su gracia,"
+        },
+        {
+            "id": "gal1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "revelar a su Hijo en mí, para que yo le predicase entre los gentiles; no consulté en seguida con carne y sangre;"
+        },
+        {
+            "id": "gal1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "ni subí a Jerusalén a los que eran apóstoles antes que yo; sino que fui a Arabia, y volví de nuevo a Damasco."
+        },
+        {
+            "id": "gal1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Después, pasados tres años, subí a Jerusalén a ver a Pedro, y permanecí con él quince días,"
+        },
+        {
+            "id": "gal1_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "mas no vi a ningún otro de los apóstoles, sino a Jacobo el hermano del Señor."
+        },
+        {
+            "id": "gal1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Y en esto que os escribo, he aquí delante de Dios que no miento."
+        },
+        {
+            "id": "gal1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Después fui a las regiones de Siria y de Cilicia,"
+        },
+        {
+            "id": "gal1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "y no era conocido de vista a las iglesias de Judea, que eran en Cristo;"
+        },
+        {
+            "id": "gal1_23a",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Solamente habían oído decir:"
+        },
+        {
+            "id": "gal1_23b",
+            "speaker": "Pablo",
+            "verse": 23,
+            "text": "Aquel que antes nos perseguía, ahora predica la fe que en otro tiempo asolaba."
+        },
+        {
+            "id": "gal1_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y glorificaban a Dios en mí."
+        }
+    ]
+}

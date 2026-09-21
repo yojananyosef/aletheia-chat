@@ -1,0 +1,184 @@
+{
+    "book": "Gálatas",
+    "chapter": 5,
+    "title": "Gálatas 5",
+    "messages": [
+        {
+            "id": "gal5_sec1_eebb",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "III. LA LIBERTAD CRISTIANA",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal5_sec1_f7c3",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Preservar la libertad cristiana",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Estad, pues, firmes en la libertad con que Cristo nos hizo libres; y no os sujetéis de nuevo al yugo de esclavitud."
+        },
+        {
+            "id": "gal5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "He aquí, yo Pablo os digo que si os circuncidáis, de nada os aprovechará Cristo."
+        },
+        {
+            "id": "gal5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y otra vez testifico a todo hombre que se circuncidare, que está obligado a guardar toda la ley."
+        },
+        {
+            "id": "gal5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Cristo ha venido a ser sin efecto para vosotros los que por la ley os justificáis; de la gracia habéis caído."
+        },
+        {
+            "id": "gal5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Mas nosotros por el Espíritu aguardamos la esperanza de la justicia por fe."
+        },
+        {
+            "id": "gal5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Porque en Jesucristo ni la circuncisión vale algo, ni la incircuncisión, sino la fe que obra por amor."
+        },
+        {
+            "id": "gal5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Vosotros corríais bien; ¿quién os estorbó para que no obedezcáis a la verdad?"
+        },
+        {
+            "id": "gal5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Esta persuasión no viene de Aquél que os llama."
+        },
+        {
+            "id": "gal5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Un poco de levadura leuda toda la masa."
+        },
+        {
+            "id": "gal5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Yo confío de vosotros en el Señor, que no pensaréis ninguna otra cosa; mas el que os perturba, llevará el juicio, quienquiera que él sea."
+        },
+        {
+            "id": "gal5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y yo, hermanos, si aún predico la circuncisión, ¿por qué padezco persecución todavía? Entonces ha cesado la ofensa de la cruz."
+        },
+        {
+            "id": "gal5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "¡Oh que fuesen también cortados los que os perturban!"
+        },
+        {
+            "id": "gal5_sec13_dadc",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Libertad, no libertinaje",
+            "isSectionTitle": true
+        },
+        {
+            "id": "gal5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque vosotros, hermanos, a libertad habéis sido llamados; solamente que no uséis la libertad como ocasión para la carne, sino por amor servíos los unos a los otros."
+        },
+        {
+            "id": "gal5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque toda la ley en una palabra se cumple, en ésta: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+            "id": "gal5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mas si os mordéis y devoráis los unos a los otros, mirad que no os consumáis los unos a los otros."
+        },
+        {
+            "id": "gal5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Digo, pues: Andad en el Espíritu; y no satisfagáis la concupiscencia de la carne."
+        },
+        {
+            "id": "gal5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque la carne codicia contra el Espíritu, y el Espíritu contra la carne; y éstos se oponen entre sí, para que no podáis hacer lo que quisiereis."
+        },
+        {
+            "id": "gal5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mas si sois guiados por el Espíritu, no estáis bajo la ley."
+        },
+        {
+            "id": "gal5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y manifiestas son las obras de la carne, que son: Adulterio, fornicación, inmundicia, lascivia,"
+        },
+        {
+            "id": "gal5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "idolatría, hechicerías, enemistades, pleitos, celos, iras, contiendas, disensiones, herejías,"
+        },
+        {
+            "id": "gal5_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "envidias, homicidios, borracheras, desenfrenos, y cosas semejantes a estas; de las cuales os denuncio, como también ya os denuncié, que los que hacen tales cosas, no heredarán el reino de Dios."
+        },
+        {
+            "id": "gal5_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe,"
+        },
+        {
+            "id": "gal5_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "mansedumbre, templanza; contra tales cosas no hay ley."
+        },
+        {
+            "id": "gal5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Pero los que son de Cristo han crucificado la carne con sus pasiones y concupiscencias."
+        },
+        {
+            "id": "gal5_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Si vivimos en el Espíritu, andemos también en el Espíritu."
+        },
+        {
+            "id": "gal5_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "No nos hagamos vanagloriosos, irritándonos unos a otros, envidiándonos unos a otros."
+        }
+    ]
+}
