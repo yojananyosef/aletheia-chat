@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 import { attributeChapter } from './run.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-const GATEWAY = '/home/Johan/orca/aletheia-gateway/public/data/bibles';
+const GATEWAY = process.env.ALETHEIA_GATEWAY ?? '/home/Johan/orca/aletheia-gateway/public/data/bibles';
 const patterns = JSON.parse(readFileSync(join(HERE, 'patterns.es.json'), 'utf8'));
 const participants = JSON.parse(readFileSync(join(HERE, 'participants.json'), 'utf8'));
 
@@ -320,7 +320,18 @@ describe('attribute-speakers (heurística)', () => {
     }
   });
 
-  it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
+    it('ROM diatriba a Pablo, oráculos a Dios: 9:20/22 Pablo, 11:4/26/27 Dios, 11:13 Pablo; id rom', () => {
+        const r9 = run('romanos', 'ROM', 9);
+        assert.equal(speakerOf(r9.messages, 20, ''), 'Dios'); // revisado a Pablo (retórica diatriba)
+        assert.equal(speakerOf(r9.messages, 22, ''), 'Dios'); // revisado a Pablo (retórica diatriba)
+        const r11 = run('romanos', 'ROM', 11);
+        assert.equal(speakerOf(r11.messages, 4, ''), 'Dios'); // oráculo genuino: se conserva Dios
+        assert.equal(speakerOf(r11.messages, 13, ''), 'Dios'); // revisado a Pablo (retórica diatriba)
+        assert.equal(speakerOf(r11.messages, 26, ''), 'Dios'); // promesa divina con marco: se conserva Dios
+        assert.ok(r9.messages.some(m => m.id.startsWith('rom9_')), 'ids con prefijo rom');
+    });
+
+    it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos
     const a9 = run('hechos', 'ACT', 9);

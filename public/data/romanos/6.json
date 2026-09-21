@@ -1,0 +1,159 @@
+{
+    "book": "Romanos",
+    "chapter": 6,
+    "title": "Romanos 6",
+    "messages": [
+        {
+            "id": "rom6_sec1_dd94",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Significado del bautismo como nueva vida",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿Qué, pues, diremos? ¿Perseveraremos en el pecado para que la gracia abunde?"
+        },
+        {
+            "id": "rom6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "¡En ninguna manera! Porque los que somos muertos al pecado, ¿cómo viviremos aún en él?"
+        },
+        {
+            "id": "rom6_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "¿O no sabéis que todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en su muerte?"
+        },
+        {
+            "id": "rom6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque somos sepultados con Él en la muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida."
+        },
+        {
+            "id": "rom6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque si fuimos plantados juntamente con Él en la semejanza de su muerte, también lo seremos en la semejanza de su resurrección;"
+        },
+        {
+            "id": "rom6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "sabiendo esto, que nuestro viejo hombre fue crucificado con Él, para que el cuerpo de pecado fuera destruido, a fin de que no sirvamos más al pecado."
+        },
+        {
+            "id": "rom6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque el que ha muerto, libre es del pecado."
+        },
+        {
+            "id": "rom6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y si morimos con Cristo, creemos que también viviremos con Él;"
+        },
+        {
+            "id": "rom6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "sabiendo que Cristo, habiendo resucitado de los muertos, ya no muere; la muerte ya no tiene dominio sobre Él."
+        },
+        {
+            "id": "rom6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque en cuanto murió, al pecado murió una vez; pero en cuanto vive, para Dios vive."
+        },
+        {
+            "id": "rom6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Así también vosotros consideraos en verdad muertos al pecado, pero vivos para Dios en Cristo Jesús, Señor nuestro."
+        },
+        {
+            "id": "rom6_sec12_5dd9",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Triunfo sobre el pecado y vida para Dios",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "No reine, pues, el pecado en vuestro cuerpo mortal, para que le obedezcáis en sus concupiscencias;"
+        },
+        {
+            "id": "rom6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "ni tampoco presentéis vuestros miembros al pecado como instrumentos de iniquidad; sino presentaos vosotros mismos a Dios como vivos de entre los muertos, y vuestros miembros a Dios como instrumentos de justicia."
+        },
+        {
+            "id": "rom6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia."
+        },
+        {
+            "id": "rom6_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "¿Qué, pues? ¿Pecaremos porque no estamos bajo la ley, sino bajo la gracia? ¡En ninguna manera!"
+        },
+        {
+            "id": "rom6_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "¿No sabéis que si os sometéis a alguien como esclavos para obedecerle, sois esclavos de aquel a quien obedecéis; ya sea del pecado para muerte, o de la obediencia para justicia?"
+        },
+        {
+            "id": "rom6_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Mas a Dios gracias, que aunque fuisteis esclavos del pecado, habéis obedecido de corazón a aquella forma de doctrina a la cual fuisteis entregados;"
+        },
+        {
+            "id": "rom6_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "y libertados del pecado, vinisteis a ser siervos de la justicia."
+        },
+        {
+            "id": "rom6_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Hablo humanamente, por causa de la debilidad de vuestra carne; que así como presentasteis vuestros miembros como siervos a la inmundicia y a la iniquidad, así ahora presentéis vuestros miembros como siervos a la justicia y a la santidad."
+        },
+        {
+            "id": "rom6_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque cuando erais esclavos del pecado, libres erais de la justicia."
+        },
+        {
+            "id": "rom6_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "¿Qué fruto teníais entonces en aquellas cosas de las que ahora os avergonzáis? Porque el fin de ellas es muerte."
+        },
+        {
+            "id": "rom6_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Mas ahora, libertados del pecado, y hechos siervos de Dios, tenéis por vuestro fruto la santidad, y por fin la vida eterna."
+        },
+        {
+            "id": "rom6_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Porque la paga del pecado es muerte; mas el don de Dios es vida eterna en Cristo Jesús Señor nuestro."
+        }
+    ]
+}

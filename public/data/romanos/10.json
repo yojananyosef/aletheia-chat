@@ -1,0 +1,183 @@
+{
+    "book": "Romanos",
+    "chapter": 10,
+    "title": "Romanos 10",
+    "messages": [
+        {
+            "id": "rom10_sec1_4f73",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La justicia de la ley y la justicia de la fe",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom10_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Hermanos, ciertamente el deseo de mi corazón, y mi oración a Dios por Israel, es para su salvación."
+        },
+        {
+            "id": "rom10_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque yo les doy testimonio de que tienen celo de Dios, pero no conforme a ciencia."
+        },
+        {
+            "id": "rom10_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque ignorando la justicia de Dios, y procurando establecer su propia justicia, no se han sujetado a la justicia de Dios."
+        },
+        {
+            "id": "rom10_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque el fin de la ley es Cristo, para justicia a todo aquel que cree."
+        },
+        {
+            "id": "rom10_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque Moisés describe la justicia que es por la ley: El hombre que hiciere aquellas cosas, vivirá por ellas."
+        },
+        {
+            "id": "rom10_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero la justicia que es por la fe dice así:"
+        },
+        {
+            "id": "rom10_6b",
+            "speaker": "Pablo",
+            "verse": 6,
+            "text": "No digas en tu corazón: ¿Quién subirá al cielo? (esto es, para traer abajo a Cristo.)"
+        },
+        {
+            "id": "rom10_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "O, ¿quién descenderá al abismo? (esto es, para volver a subir a Cristo de los muertos.)"
+        },
+        {
+            "id": "rom10_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Mas ¿qué dice? Cerca de ti está la palabra, en tu boca y en tu corazón. Ésta es la palabra de fe la cual predicamos:"
+        },
+        {
+            "id": "rom10_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Que si confesares con tu boca al Señor Jesús, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo."
+        },
+        {
+            "id": "rom10_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque con el corazón se cree para justicia, mas con la boca se hace confesión para salvación."
+        },
+        {
+            "id": "rom10_11a",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque la Escritura dice:"
+        },
+        {
+            "id": "rom10_11b",
+            "speaker": "Pablo",
+            "verse": 11,
+            "text": "Todo aquel que en Él creyere, no será avergonzado."
+        },
+        {
+            "id": "rom10_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque no hay diferencia entre judío y griego; porque el mismo que es Señor de todos, es rico para con todos los que le invocan."
+        },
+        {
+            "id": "rom10_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque todo aquel que invocare el nombre del Señor, será salvo."
+        },
+        {
+            "id": "rom10_sec14_6cd5",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "La incredulidad no tiene disculpa",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom10_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "¿Cómo, pues, invocarán a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique?"
+        },
+        {
+            "id": "rom10_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, que predican el evangelio de los bienes!"
+        },
+        {
+            "id": "rom10_16a",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas no todos obedecieron al evangelio, pues Isaías dice:"
+        },
+        {
+            "id": "rom10_16b",
+            "speaker": "Pablo",
+            "verse": 16,
+            "text": "Señor, ¿quién ha creído a nuestro anuncio?"
+        },
+        {
+            "id": "rom10_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Así que la fe viene por el oír, y el oír, por la palabra de Dios."
+        },
+        {
+            "id": "rom10_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Mas digo: ¿No han oído? Antes bien, por toda la tierra ha salido la voz de ellos, y sus palabras hasta los confines de la tierra."
+        },
+        {
+            "id": "rom10_19a",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Mas digo: ¿No lo sabe Israel? Primeramente Moisés dice:"
+        },
+        {
+            "id": "rom10_19b",
+            "speaker": "Pablo",
+            "verse": 19,
+            "text": "Yo os provocaré a celos con los que no son mi pueblo; Con gente insensata os provocaré a ira."
+        },
+        {
+            "id": "rom10_20a",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "También Isaías dice osadamente:"
+        },
+        {
+            "id": "rom10_20b",
+            "speaker": "Pablo",
+            "verse": 20,
+            "text": "Fui hallado de los que no me buscaban; me manifesté a los que no preguntaban por mí."
+        },
+        {
+            "id": "rom10_21a",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Pero acerca de Israel dice:"
+        },
+        {
+            "id": "rom10_21b",
+            "speaker": "Dios",
+            "verse": 21,
+            "text": "Todo el día extendí mis manos a un pueblo rebelde y contradictor."
+        }
+    ]
+}

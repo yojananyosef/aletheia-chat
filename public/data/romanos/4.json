@@ -1,0 +1,183 @@
+{
+    "book": "Romanos",
+    "chapter": 4,
+    "title": "Romanos 4",
+    "messages": [
+        {
+            "id": "rom4_sec1_e034",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Abrahán justificado por la fe sin las obras de la ley",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿Qué, pues, diremos que halló Abraham, nuestro padre según la carne?"
+        },
+        {
+            "id": "rom4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque si Abraham fue justificado por las obras, tiene de qué gloriarse; pero no delante de Dios."
+        },
+        {
+            "id": "rom4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque ¿qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por justicia."
+        },
+        {
+            "id": "rom4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Ahora bien, al que obra no se le cuenta el salario como gracia, sino como deuda."
+        },
+        {
+            "id": "rom4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Pero al que no obra, pero cree en Aquél que justifica al impío, su fe le es contada por justicia."
+        },
+        {
+            "id": "rom4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Como David también describe la bienaventuranza del hombre a quien Dios atribuye justicia sin las obras,"
+        },
+        {
+            "id": "rom4_7a",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Diciendo:"
+        },
+        {
+            "id": "rom4_7b",
+            "speaker": "Pablo",
+            "verse": 7,
+            "text": "Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos."
+        },
+        {
+            "id": "rom4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Bienaventurado el varón a quien el Señor no imputará pecado."
+        },
+        {
+            "id": "rom4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "¿Es, pues, esta bienaventuranza solamente para los de la circuncisión, o también para los de la incircuncisión? Porque decimos que a Abraham le fue contada la fe por justicia."
+        },
+        {
+            "id": "rom4_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "¿Cómo, pues, le fue contada? ¿Estando él en la circuncisión, o en la incircuncisión? No en la circuncisión, sino en la incircuncisión."
+        },
+        {
+            "id": "rom4_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y recibió la señal de la circuncisión, el sello de la justicia de la fe que tuvo siendo aún incircunciso; para que fuese padre de todos los creyentes no circuncidados; a fin de que también a ellos les sea imputada la justicia;"
+        },
+        {
+            "id": "rom4_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "y padre de la circuncisión, a los que son, no sólo de la circuncisión sino que también siguen las pisadas de la fe que tuvo nuestro padre Abraham antes de ser circuncidado."
+        },
+        {
+            "id": "rom4_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Porque la promesa de que él sería heredero del mundo, no fue dada a Abraham o a su simiente por la ley, sino por la justicia de la fe."
+        },
+        {
+            "id": "rom4_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque si los que son de la ley son los herederos, vana es la fe, y anulada es la promesa."
+        },
+        {
+            "id": "rom4_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Porque la ley produce ira; pero donde no hay ley, tampoco hay transgresión."
+        },
+        {
+            "id": "rom4_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Por tanto, es por la fe, para que sea por gracia; a fin de que la promesa sea firme a toda simiente; no sólo al que es de la ley, sino también al que es de la fe de Abraham, quien es el padre de todos nosotros"
+        },
+        {
+            "id": "rom4_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "(como está escrito: Padre de muchas naciones, te he hecho) delante de Dios, a quien creyó; el cual da vida a los muertos, y llama las cosas que no son, como si fuesen."
+        },
+        {
+            "id": "rom4_sec18_02a6",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "Fe de Abrahán que espera contra toda esperanza",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom4_18a",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "El cual creyó en esperanza contra esperanza, para venir a ser padre de muchas naciones, conforme a lo que le había sido dicho:"
+        },
+        {
+            "id": "rom4_18b",
+            "speaker": "Dios",
+            "verse": 18,
+            "text": "Así será tu simiente."
+        },
+        {
+            "id": "rom4_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Y no se debilitó en la fe, ni consideró su cuerpo ya muerto (siendo ya como de cien años), ni la matriz muerta de Sara."
+        },
+        {
+            "id": "rom4_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en fe, dando gloria a Dios,"
+        },
+        {
+            "id": "rom4_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "plenamente convencido que todo lo que Él había prometido, era también poderoso para hacerlo;"
+        },
+        {
+            "id": "rom4_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "por lo cual también le fue imputado por justicia."
+        },
+        {
+            "id": "rom4_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y que le fue imputado, no fue escrito solamente por causa de él,"
+        },
+        {
+            "id": "rom4_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "sino también por nosotros, a quienes será imputado, esto es, a los que creemos en el que levantó de los muertos a Jesús nuestro Señor;"
+        },
+        {
+            "id": "rom4_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "el cual fue entregado por nuestras transgresiones, y resucitado para nuestra justificación."
+        }
+    ]
+}

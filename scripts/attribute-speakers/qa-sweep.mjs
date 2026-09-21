@@ -22,7 +22,7 @@ import { attributeChapter, CODE_BY_SLUG } from './run.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, '..', '..');
-const GATEWAY = '/home/Johan/orca/aletheia-gateway/public/data/bibles/SpaRVG';
+const GATEWAY = (process.env.ALETHEIA_GATEWAY ?? '/home/Johan/orca/aletheia-gateway/public/data/bibles') + '/SpaRVG';
 const DATA = join(ROOT, 'public', 'data');
 
 const arg = (name) => {

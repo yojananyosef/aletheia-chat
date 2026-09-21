@@ -18,6 +18,13 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /romanos/1 carga el capítulo (epístola integrada)', async ({ page }) => {
+        await page.goto('/romanos/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await expect(page.getByRole('heading', { name: /Romanos/ })).toBeVisible();
+        await expect(page.getByRole('button', { name: /prólogo/i })).toBeVisible();
+    });
+
     test('deep-link a /hechos/1 carga el capítulo (libro NT integrado)', async ({ page }) => {
         await page.goto('/hechos/1');
         await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });

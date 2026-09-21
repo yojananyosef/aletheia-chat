@@ -1,0 +1,154 @@
+{
+    "book": "Romanos",
+    "chapter": 12,
+    "title": "Romanos 12",
+    "messages": [
+        {
+            "id": "rom12_sec1_87ff",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "II. PARTE EXHORTATORIA",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom12_sec1_b09e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Espiritualidad cristiana",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom12_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Por tanto, os ruego hermanos por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro servicio racional."
+        },
+        {
+            "id": "rom12_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Y no os conforméis a este mundo; mas transformaos por la renovación de vuestra mente, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta."
+        },
+        {
+            "id": "rom12_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Digo, pues, por la gracia que me ha sido dada, a cada cual que está entre vosotros, que no tenga más alto concepto de sí, que el que debe tener, sino que piense de sí con mesura, conforme a la medida de la fe que Dios repartió a cada uno."
+        },
+        {
+            "id": "rom12_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque de la manera que en un cuerpo tenemos muchos miembros, mas no todos los miembros tienen la misma función;"
+        },
+        {
+            "id": "rom12_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "así nosotros, siendo muchos, somos un cuerpo en Cristo, y todos miembros los unos de los otros."
+        },
+        {
+            "id": "rom12_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Teniendo, pues, diversidad de dones según la gracia que nos es dada, si profecía, profeticemos conforme a la medida de la fe;"
+        },
+        {
+            "id": "rom12_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "o si ministerio, usémoslo en ministrar; el que enseña, en la enseñanza;"
+        },
+        {
+            "id": "rom12_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "el que exhorta, en la exhortación; el que da, hágalo con sencillez; el que preside, con diligencia; el que hace misericordia, con alegría."
+        },
+        {
+            "id": "rom12_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "El amor sea sin fingimiento. Aborreced lo malo, apegaos a lo bueno."
+        },
+        {
+            "id": "rom12_sec10_6cef",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "Normas de caridad fraterna",
+            "isSectionTitle": true
+        },
+        {
+            "id": "rom12_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Amaos los unos a los otros con amor fraternal, en cuanto a honra, prefiriéndoos los unos a los otros."
+        },
+        {
+            "id": "rom12_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Diligentes, no perezosos; fervientes en espíritu, sirviendo al Señor."
+        },
+        {
+            "id": "rom12_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Gozosos en la esperanza, sufridos en la tribulación, constantes en la oración."
+        },
+        {
+            "id": "rom12_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Compartiendo para las necesidades de los santos; dados a la hospitalidad."
+        },
+        {
+            "id": "rom12_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Bendecid a los que os persiguen; bendecid, y no maldigáis."
+        },
+        {
+            "id": "rom12_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Gozaos con los que se gozan; y llorad con los que lloran."
+        },
+        {
+            "id": "rom12_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Unánimes entre vosotros, no altivos; condescended para con los humildes. No seáis sabios en vuestra propia opinión."
+        },
+        {
+            "id": "rom12_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "No paguéis a nadie mal por mal; procurad lo bueno delante de todos los hombres."
+        },
+        {
+            "id": "rom12_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Si fuere posible, en cuanto esté en vosotros, vivid en paz con todos los hombres."
+        },
+        {
+            "id": "rom12_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Amados, no os venguéis vosotros mismos, antes, dad lugar a la ira; porque escrito está: Mía es la venganza, yo pagaré, dice el Señor."
+        },
+        {
+            "id": "rom12_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Así que si tu enemigo tuviere hambre, dale de comer, y si tuviere sed, dale de beber; pues haciendo esto, ascuas de fuego amontonarás sobre su cabeza."
+        },
+        {
+            "id": "rom12_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "No seas vencido de lo malo, mas vence con el bien el mal."
+        }
+    ]
+}

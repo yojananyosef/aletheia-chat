@@ -26,7 +26,7 @@ import { fileURLToPath } from 'node:url';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, '..', '..');
-const GATEWAY = '/home/Johan/orca/aletheia-gateway/public/data/bibles';
+const GATEWAY = process.env.ALETHEIA_GATEWAY ?? '/home/Johan/orca/aletheia-gateway/public/data/bibles';
 
 /** Slug bible-app-naas -> código gateway (SpaRVG/RV1909/Platense comparten códigos). */
 export const CODE_BY_SLUG = {

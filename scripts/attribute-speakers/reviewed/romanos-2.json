@@ -1,0 +1,20 @@
+[
+  {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 4,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  },
+  {
+    "verse": 23,
+    "subId": "",
+    "speaker": "Pablo",
+    "confidence": 0.9
+  }
+]
