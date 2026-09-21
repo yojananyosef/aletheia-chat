@@ -17,6 +17,7 @@ capítulo para compartir y indexar.
 - **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
 - **Sonido e inmersión:** micro-interacción `pop` por mensaje (silenciable) y velocidades Zen / Norm / Fast.
 - **PWA instalable:** manifest standalone, iconos propios y tema amarillo `#FFD600`.
+- **Lectura offline:** service worker (`public/sw.js`) con cache-first del corpus (`/data/**`) y del app-shell; verificado en `e2e/offline.spec.ts`.
 
 ## 🛠️ Stack
 

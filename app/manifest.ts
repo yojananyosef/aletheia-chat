@@ -7,6 +7,8 @@ export default function manifest(): MetadataRoute.Manifest {
         short_name: 'Aletheia Chat',
         description: 'Experiencia bíblica conversacional e inmersiva',
         lang: 'es',
+        dir: 'ltr',
+        categories: ['books', 'education', 'lifestyle'],
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',

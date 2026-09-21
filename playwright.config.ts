@@ -21,5 +21,7 @@ export default defineConfig({
         url: 'http://localhost:3000',
         reuseExistingServer: !process.env.CI,
         timeout: 120_000,
+        // Activa el service worker en dev para el spec offline (prod lo trae por defecto).
+        env: { NEXT_PUBLIC_SW: '1' },
     },
 });
