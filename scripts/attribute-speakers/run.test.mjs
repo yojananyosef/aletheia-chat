@@ -413,6 +413,12 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(t2.messages.some(m => m.id.startsWith('2ti2_')), 'ids con prefijo 2ti');
     });
 
+    it('TIT cita Epiménides a Pablo: 1:12b profeta-cretense; id tit', () => {
+        const t1 = run('tito', 'TIT', 1);
+        assert.equal(speakerOf(t1.messages, 12, 'b'), 'Profeta'); // revisado a Pablo (cita relayada)
+        assert.ok(t1.messages.some(m => m.id.startsWith('tit1_')), 'ids con prefijo tit');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

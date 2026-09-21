@@ -1,0 +1,111 @@
+{
+    "book": "Tito",
+    "chapter": 2,
+    "title": "Tito 2",
+    "messages": [
+        {
+            "id": "tit2_sec1_54a1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Enseñanzas para cada edad de la vida",
+            "isSectionTitle": true
+        },
+        {
+            "id": "tit2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pero tú habla lo que armoniza con la sana doctrina."
+        },
+        {
+            "id": "tit2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Que los ancianos sean sobrios, honestos, templados, sanos en la fe, en la caridad, en la paciencia."
+        },
+        {
+            "id": "tit2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Las ancianas asimismo, sean de un porte santo, no calumniadoras, no dadas a mucho vino, maestras de honestidad;"
+        },
+        {
+            "id": "tit2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "que enseñen a las mujeres jóvenes a ser prudentes, a que amen a sus maridos, a que amen a sus hijos;"
+        },
+        {
+            "id": "tit2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "a ser discretas, castas, cuidadosas de su casa, buenas, sujetas a sus maridos; para que la palabra de Dios no sea blasfemada."
+        },
+        {
+            "id": "tit2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Exhorta asimismo a los jóvenes a que sean prudentes;"
+        },
+        {
+            "id": "tit2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "presentándote tú en todo como ejemplo de buenas obras; en doctrina, mostrando integridad, honestidad, sinceridad,"
+        },
+        {
+            "id": "tit2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "palabra sana, e irreprochable; para que el adversario se avergüence, y no tenga nada malo que decir de vosotros."
+        },
+        {
+            "id": "tit2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Exhorta a los siervos a ser obedientes a sus amos, y a que les agraden en todo; que no sean respondones;"
+        },
+        {
+            "id": "tit2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "no defraudando, sino mostrando toda buena lealtad; para que en todo adornen la doctrina de Dios nuestro Salvador."
+        },
+        {
+            "id": "tit2_sec11_89de",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "La dichosa esperanza",
+            "isSectionTitle": true
+        },
+        {
+            "id": "tit2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Porque la gracia de Dios que trae salvación se ha manifestado a todos los hombres,"
+        },
+        {
+            "id": "tit2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "enseñándonos que, renunciando a la impiedad y a las concupiscencias mundanas, vivamos en este presente mundo, sobria, justa y piadosamente."
+        },
+        {
+            "id": "tit2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Aguardando aquella esperanza bienaventurada, y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo,"
+        },
+        {
+            "id": "tit2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad, y purificar para sí un pueblo peculiar, celoso de buenas obras."
+        },
+        {
+            "id": "tit2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Estas cosas habla y exhorta, y reprende con toda autoridad. Nadie te menosprecie."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "book": "Tito",
+    "chapter": 1,
+    "title": "Tito 1",
+    "messages": [
+        {
+            "id": "tit1_sec1_28d4",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Salutación apostólica",
+            "isSectionTitle": true
+        },
+        {
+            "id": "tit1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pablo, siervo de Dios, y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento de la verdad que es según la piedad,"
+        },
+        {
+            "id": "tit1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "en la esperanza de la vida eterna, la cual Dios, que no puede mentir, prometió desde antes del principio de los siglos,"
+        },
+        {
+            "id": "tit1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "y manifestó a sus tiempos su palabra por medio de la predicación que me es encomendada por mandamiento de Dios nuestro Salvador,"
+        },
+        {
+            "id": "tit1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "a Tito, mi verdadero hijo en la común fe: Gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo nuestro Salvador."
+        },
+        {
+            "id": "tit1_sec5_79f2",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "Cómo deben ser los presbíteros y obispos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "tit1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y ordenases ancianos en cada ciudad, así como yo te mandé;"
+        },
+        {
+            "id": "tit1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "el que fuere irreprensible, marido de una esposa, que tenga hijos fieles, que no estén acusados de disolución, o rebeldía."
+        },
+        {
+            "id": "tit1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque es necesario que el obispo sea irreprensible, como administrador de Dios; no arrogante, no iracundo, no dado al vino, no pendenciero, no codicioso de ganancias deshonestas;"
+        },
+        {
+            "id": "tit1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "sino hospitalario, amante de lo bueno, sobrio, justo, santo, templado;"
+        },
+        {
+            "id": "tit1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "retenedor de la palabra fiel como le ha sido enseñada, para que también pueda exhortar con sana doctrina, y convencer a los que contradicen."
+        },
+        {
+            "id": "tit1_sec10_3879",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "Contra los charlatanes",
+            "isSectionTitle": true
+        },
+        {
+            "id": "tit1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque hay muchos contumaces, y habladores de vanidad y engañadores, mayormente los que son de la circuncisión,"
+        },
+        {
+            "id": "tit1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "a los cuales es preciso tapar la boca, que trastornan casas enteras, enseñando por ganancia deshonesta lo que no conviene."
+        },
+        {
+            "id": "tit1_12a",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Aun uno de ellos; su propio profeta, dijo:"
+        },
+        {
+            "id": "tit1_12b",
+            "speaker": "Pablo",
+            "verse": 12,
+            "text": "Los cretenses, siempre mentirosos, malas bestias, vientres perezosos."
+        },
+        {
+            "id": "tit1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Este testimonio es verdadero; por tanto, repréndelos duramente, para que sean sanos en la fe,"
+        },
+        {
+            "id": "tit1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "no atendiendo a fábulas judaicas, y a mandamientos de hombres que se apartan de la verdad."
+        },
+        {
+            "id": "tit1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Todas las cosas son puras para los puros; mas para los corrompidos e incrédulos nada es puro; pues aun su mente y su conciencia están corrompidas."
+        },
+        {
+            "id": "tit1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Profesan conocer a Dios, mas con sus hechos lo niegan; siendo abominables y rebeldes, y reprobados para toda buena obra."
+        }
+    ]
+}
