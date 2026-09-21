@@ -361,6 +361,14 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(g3.messages.some(m => m.id.startsWith('gal3_')), 'ids con prefijo gal');
     });
 
+    it('EPH citas con marco a Pablo: 4:8b Sal 68, 5:14b exhortación; id eph', () => {
+        const e4 = run('efesios', 'EPH', 4);
+        assert.equal(speakerOf(e4.messages, 8, 'b'), 'Dios'); // revisado a Pablo (3a persona, cf. ROM 10:11b)
+        const e5 = run('efesios', 'EPH', 5);
+        assert.equal(speakerOf(e5.messages, 14, 'b'), 'Dios'); // revisado a Pablo (exhortación 2a persona)
+        assert.ok(e4.messages.some(m => m.id.startsWith('eph4_')), 'ids con prefijo eph');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

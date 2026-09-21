@@ -1,0 +1,232 @@
+{
+    "book": "Efesios",
+    "chapter": 5,
+    "title": "Efesios 5",
+    "messages": [
+        {
+            "id": "eph5_sec1_1101",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Imitar el amor de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Sed, pues, seguidores de Dios como hijos amados;"
+        },
+        {
+            "id": "eph5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y andad en amor, como también Cristo nos amó, y se entregó a sí mismo por nosotros a Dios, ofrenda y sacrificio de dulce fragancia."
+        },
+        {
+            "id": "eph5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pero fornicación y toda inmundicia, o avaricia, ni aun se nombre entre vosotros como conviene a santos;"
+        },
+        {
+            "id": "eph5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "ni palabras obscenas, ni necedades, ni truhanerías, que no convienen; sino antes bien acciones de gracias."
+        },
+        {
+            "id": "eph5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque sabéis esto, que ningún fornicario, o inmundo, o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios."
+        },
+        {
+            "id": "eph5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Nadie os engañe con palabras vanas; porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia."
+        },
+        {
+            "id": "eph5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "No seáis, pues, partícipes con ellos."
+        },
+        {
+            "id": "eph5_sec8_b5d3",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Como hijos de la luz",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor: Andad como hijos de luz"
+        },
+        {
+            "id": "eph5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "(porque el fruto del Espíritu es en toda bondad, justicia y verdad),"
+        },
+        {
+            "id": "eph5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "aprobando lo que es agradable al Señor,"
+        },
+        {
+            "id": "eph5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y no participéis con las obras infructuosas de las tinieblas, sino antes reprobadlas."
+        },
+        {
+            "id": "eph5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque vergonzoso es aun hablar de lo que ellos hacen en oculto."
+        },
+        {
+            "id": "eph5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Pero todas las cosas que son reprobadas, son hechas manifiestas por la luz, porque lo que manifiesta todo, es la luz."
+        },
+        {
+            "id": "eph5_14a",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Por lo cual dice:"
+        },
+        {
+            "id": "eph5_14b",
+            "speaker": "Pablo",
+            "verse": 14,
+            "text": "Despiértate, tú que duermes, y levántate de los muertos, y te alumbrará Cristo."
+        },
+        {
+            "id": "eph5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mirad, pues, que andéis con diligencia; no como necios, sino como sabios,"
+        },
+        {
+            "id": "eph5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "redimiendo el tiempo, porque los días son malos."
+        },
+        {
+            "id": "eph5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Por tanto, no seáis insensatos, sino entendidos de cuál sea la voluntad del Señor."
+        },
+        {
+            "id": "eph5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y no os embriaguéis con vino, en lo cual hay disolución; mas sed llenos del Espíritu;"
+        },
+        {
+            "id": "eph5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "hablando entre vosotros con salmos, e himnos, y cánticos espirituales, cantando y alabando al Señor en vuestros corazones."
+        },
+        {
+            "id": "eph5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Dando gracias siempre por todas las cosas a Dios y al Padre en el nombre de nuestro Señor Jesucristo."
+        },
+        {
+            "id": "eph5_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Sujetaos los unos a los otros en el temor de Dios."
+        },
+        {
+            "id": "eph5_sec22_5253",
+            "speaker": "Sistema",
+            "verse": 22,
+            "text": "El matrimonio cristiano",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph5_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Las casadas estén sujetas a sus propios maridos, como al Señor."
+        },
+        {
+            "id": "eph5_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Porque el marido es cabeza de la esposa, así como Cristo es cabeza de la iglesia; y Él es el Salvador del cuerpo."
+        },
+        {
+            "id": "eph5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Así que, como la iglesia está sujeta a Cristo, así también las casadas lo estén a sus propios maridos en todo."
+        },
+        {
+            "id": "eph5_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Maridos, amad a vuestras esposas, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella;"
+        },
+        {
+            "id": "eph5_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "para santificarla limpiándola en el lavamiento del agua por la palabra,"
+        },
+        {
+            "id": "eph5_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "para presentársela gloriosa para sí, una iglesia que no tuviese mancha ni arruga, ni cosa semejante; sino que fuese santa y sin mancha."
+        },
+        {
+            "id": "eph5_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "Así los maridos deben amar a sus esposas como a sus propios cuerpos. El que ama a su esposa, a sí mismo se ama."
+        },
+        {
+            "id": "eph5_29",
+            "speaker": "Narrador",
+            "verse": 29,
+            "text": "Porque ninguno aborreció jamás a su propia carne, antes la sustenta y la cuida, como también el Señor a la iglesia;"
+        },
+        {
+            "id": "eph5_30",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "porque somos miembros de su cuerpo, de su carne y de sus huesos."
+        },
+        {
+            "id": "eph5_31",
+            "speaker": "Narrador",
+            "verse": 31,
+            "text": "Por esto, dejará el hombre a su padre y a su madre, y se unirá a su esposa, y los dos serán una sola carne."
+        },
+        {
+            "id": "eph5_32",
+            "speaker": "Narrador",
+            "verse": 32,
+            "text": "Este misterio grande es; mas yo hablo en cuanto a Cristo y a la iglesia."
+        },
+        {
+            "id": "eph5_33",
+            "speaker": "Narrador",
+            "verse": 33,
+            "text": "Por lo demás, cada uno de vosotros en particular, ame también a su esposa como a sí mismo; y la esposa reverencie a su marido."
+        }
+    ]
+}

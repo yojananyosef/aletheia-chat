@@ -1,0 +1,186 @@
+{
+    "book": "Efesios",
+    "chapter": 6,
+    "title": "Efesios 6",
+    "messages": [
+        {
+            "id": "eph6_sec1_fc35",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Hijos y padres",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph6_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Hijos, obedeced en el Señor a vuestros padres; porque esto es justo."
+        },
+        {
+            "id": "eph6_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Honra a tu padre y a tu madre, que es el primer mandamiento con promesa,"
+        },
+        {
+            "id": "eph6_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "para que te vaya bien, y seas de larga vida sobre la tierra."
+        },
+        {
+            "id": "eph6_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Y vosotros padres, no provoquéis a ira a vuestros hijos; sino criadlos en disciplina y amonestación del Señor."
+        },
+        {
+            "id": "eph6_sec5_c088",
+            "speaker": "Sistema",
+            "verse": 5,
+            "text": "Siervos y amos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph6_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Siervos, obedeced a vuestros amos según la carne con temor y temblor, con sencillez de vuestro corazón, como a Cristo."
+        },
+        {
+            "id": "eph6_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "No sirviendo al ojo, como los que agradan a los hombres; sino como siervos de Cristo, haciendo la voluntad de Dios de corazón."
+        },
+        {
+            "id": "eph6_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Sirviendo con buena voluntad, como al Señor, y no a los hombres;"
+        },
+        {
+            "id": "eph6_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "sabiendo que el bien que cada uno hiciere, esto recibirá del Señor, sea siervo o sea libre."
+        },
+        {
+            "id": "eph6_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y vosotros, amos, haced con ellos lo mismo, dejando las amenazas, sabiendo que vuestro Señor también está en el cielo; y para Él no hay acepción de personas."
+        },
+        {
+            "id": "eph6_sec10_4097",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "EPÍLOGO",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph6_sec10_255d",
+            "speaker": "Sistema",
+            "verse": 10,
+            "text": "Las armas del cristiano",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph6_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fortaleza."
+        },
+        {
+            "id": "eph6_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo;"
+        },
+        {
+            "id": "eph6_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este mundo, contra malicias espirituales en las alturas."
+        },
+        {
+            "id": "eph6_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo acabado todo, estar firmes."
+        },
+        {
+            "id": "eph6_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Estad, pues, firmes, ceñidos vuestros lomos de verdad, y vestidos de la coraza de justicia;"
+        },
+        {
+            "id": "eph6_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "y calzados vuestros pies con el apresto del evangelio de paz."
+        },
+        {
+            "id": "eph6_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Sobre todo, tomad el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno;"
+        },
+        {
+            "id": "eph6_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "y tomad el yelmo de la salvación, y la espada del Espíritu, que es la palabra de Dios;"
+        },
+        {
+            "id": "eph6_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "orando en todo tiempo, con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos;"
+        },
+        {
+            "id": "eph6_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "y por mí, para que al abrir mi boca me sea dada palabra para dar a conocer con denuedo el misterio del evangelio;"
+        },
+        {
+            "id": "eph6_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "por el cual soy embajador en cadenas; para que en ellas hable osadamente, como debo hablar."
+        },
+        {
+            "id": "eph6_sec21_7c79",
+            "speaker": "Sistema",
+            "verse": 21,
+            "text": "Noticias personales",
+            "isSectionTitle": true
+        },
+        {
+            "id": "eph6_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Y para que también vosotros sepáis mis asuntos, y lo que hago; todo os lo hará saber Tíquico, hermano amado y fiel ministro en el Señor,"
+        },
+        {
+            "id": "eph6_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "el cual envié a vosotros para esto mismo, para que sepáis lo tocante a nosotros, y que consuele vuestros corazones."
+        },
+        {
+            "id": "eph6_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Paz sea a los hermanos, y amor con fe, de Dios el Padre, y del Señor Jesucristo."
+        },
+        {
+            "id": "eph6_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "La gracia sea con todos los que aman a nuestro Señor Jesucristo en sinceridad. Amén. (A los efesios escrita desde Roma, enviada con Tíquico.)"
+        }
+    ]
+}
