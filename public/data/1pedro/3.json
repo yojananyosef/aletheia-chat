@@ -1,0 +1,160 @@
+{
+    "book": "1 Pedro",
+    "chapter": 3,
+    "title": "1 Pedro 3",
+    "messages": [
+        {
+            "id": "1pe3_sec1_22ac",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La vida conyugal",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Asimismo vosotras, esposas, sujetaos a vuestros propios maridos; para que también los que no creen a la palabra, sean ganados sin palabra por la conducta de sus esposas,"
+        },
+        {
+            "id": "1pe3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "al observar ellos vuestra casta conducta que es en temor."
+        },
+        {
+            "id": "1pe3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Que vuestro adorno no sea exterior, con encrespamiento del cabello y atavío de oro, ni vestidos costosos;"
+        },
+        {
+            "id": "1pe3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "sino el del hombre interior, el del corazón, en incorruptible ornato de espíritu humilde y apacible, lo cual es de grande estima delante de Dios."
+        },
+        {
+            "id": "1pe3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque así también se ataviaban en el tiempo antiguo aquellas santas mujeres que esperaban en Dios, siendo sujetas a sus maridos;"
+        },
+        {
+            "id": "1pe3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "como Sara obedecía a Abraham, llamándole señor; de la cual vosotras sois hechas hijas, haciendo el bien, y no teniendo temor de ninguna amenaza."
+        },
+        {
+            "id": "1pe3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Asimismo, vosotros, maridos, habitad con ellas sabiamente, dando honor a la esposa como a vaso más frágil, y como a coherederas de la gracia de vida; para que vuestras oraciones no sean estorbadas."
+        },
+        {
+            "id": "1pe3_sec8_aefc",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "Exhortaciones generales",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Finalmente, sed todos de un mismo sentir, compasivos, amándoos fraternalmente, misericordiosos, amigables;"
+        },
+        {
+            "id": "1pe3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "no devolviendo mal por mal, ni maldición por maldición, sino por el contrario, bendiciendo; sabiendo que vosotros sois llamados para que heredaseis bendición."
+        },
+        {
+            "id": "1pe3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Porque el que quiera amar la vida, y ver días buenos, refrene su lengua de mal, y sus labios no hablen engaño;"
+        },
+        {
+            "id": "1pe3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "apártese del mal, y haga el bien; busque la paz, y sígala."
+        },
+        {
+            "id": "1pe3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Porque los ojos del Señor están sobre los justos, y sus oídos atentos a sus oraciones: Pero el rostro del Señor está contra aquellos que hacen el mal."
+        },
+        {
+            "id": "1pe3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "¿Y quién es aquel que os podrá dañar, si vosotros seguís el bien?"
+        },
+        {
+            "id": "1pe3_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Mas también si alguna cosa padecéis por la justicia, sois bienaventurados. Por tanto, no os amedrentéis por temor de ellos, ni seáis turbados;"
+        },
+        {
+            "id": "1pe3_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "sino santificad al Señor Dios en vuestros corazones, y estad siempre preparados para responder con mansedumbre y temor a todo el que os demande razón de la esperanza que hay en vosotros;"
+        },
+        {
+            "id": "1pe3_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "teniendo buena conciencia, para que en lo que murmuran de vosotros como de malhechores, sean avergonzados los que calumnian vuestra buena conducta en Cristo."
+        },
+        {
+            "id": "1pe3_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Porque mejor es que padezcáis haciendo el bien, si la voluntad de Dios así lo quiere, que haciendo el mal."
+        },
+        {
+            "id": "1pe3_sec18_a8aa",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "Ejemplo de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe3_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Porque también Cristo padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios, siendo a la verdad muerto en la carne, pero vivificado por el Espíritu;"
+        },
+        {
+            "id": "1pe3_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "en el cual también fue y predicó a los espíritus encarcelados;"
+        },
+        {
+            "id": "1pe3_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "los cuales en tiempo pasado fueron desobedientes, cuando una vez esperaba la paciencia de Dios en los días de Noé, mientras se aparejaba el arca; en la cual pocas, es decir, ocho almas fueron salvadas por agua."
+        },
+        {
+            "id": "1pe3_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "A la figura de lo cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino como testimonio de una buena conciencia delante de Dios) por la resurrección de Jesucristo,"
+        },
+        {
+            "id": "1pe3_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "el cual habiendo subido al cielo, está a la diestra de Dios; estando sujetos a Él, ángeles, autoridades y potestades."
+        }
+    ]
+}

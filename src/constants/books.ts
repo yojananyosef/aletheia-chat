@@ -137,7 +137,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     // --- EPÍSTOLAS GENERALES ---
     { id: 'hebreos', name: 'Hebreos', availableChapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], category: 'Epístolas Generales', description: 'La superioridad de Cristo.', participants: ['Dios', 'Narrador', 'Sistema', 'Autor anónimo', 'Jesús'] },
     { id: 'santiago', name: 'Santiago', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas Generales', description: 'La fe que actúa.', participants: ['Dios', 'Narrador', 'Sistema', 'Santiago'] },
-    { id: '1pedro', name: '1 Pedro', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Esperanza en el sufrimiento.', participants: ['Pedro'] },
+    { id: '1pedro', name: '1 Pedro', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas Generales', description: 'Esperanza en el sufrimiento.', participants: ['Dios', 'Narrador', 'Sistema', 'Pedro'] },
     { id: '2pedro', name: '2 Pedro', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Contra los falsos maestros.', participants: ['Pedro'] },
     { id: '1juan', name: '1 Juan', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Caminar en la luz y el amor.', participants: ['Juan'] },
     { id: '2juan', name: '2 Juan', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Permanecer en la verdad.', participants: ['Juan'] },

@@ -1,0 +1,192 @@
+{
+    "book": "1 Pedro",
+    "chapter": 2,
+    "title": "1 Pedro 2",
+    "messages": [
+        {
+            "id": "1pe2_sec1_b09e",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Espiritualidad cristiana",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe2_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Desechando, pues, toda malicia, y todo engaño, e hipocresía, y envidia, y toda maledicencia,"
+        },
+        {
+            "id": "1pe2_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "desead, como niños recién nacidos, la leche no adulterada de la palabra, para que por ella crezcáis;"
+        },
+        {
+            "id": "1pe2_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "si es que habéis gustado la benignidad del Señor;"
+        },
+        {
+            "id": "1pe2_sec4_88b0",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "Sois sacerdotes y reyes",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe2_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "al cual acercándoos, piedra viva, desechada ciertamente por los hombres, mas escogida y preciosa para Dios."
+        },
+        {
+            "id": "1pe2_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Vosotros también, como piedras vivas, sois edificados como casa espiritual y sacerdocio santo, para ofrecer sacrificios espirituales, agradables a Dios por Jesucristo."
+        },
+        {
+            "id": "1pe2_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por lo cual también contiene la Escritura: He aquí, pongo en Sión la principal piedra del ángulo, escogida, preciosa; Y el que creyere en Él, no será avergonzado."
+        },
+        {
+            "id": "1pe2_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Para vosotros, pues, los que creéis; Él es precioso; mas para los desobedientes, la piedra que los edificadores desecharon; ésta fue hecha la cabeza del ángulo;"
+        },
+        {
+            "id": "1pe2_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Y: Piedra de tropiezo, y roca de escándalo a los que tropiezan en la palabra, siendo desobedientes; para lo cual fueron también ordenados."
+        },
+        {
+            "id": "1pe2_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido; para que anunciéis las virtudes de Aquel que os llamó de las tinieblas a su luz admirable."
+        },
+        {
+            "id": "1pe2_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Vosotros, que en tiempo pasado no erais pueblo, mas ahora sois el pueblo de Dios; que no habíais alcanzado misericordia, pero ahora habéis alcanzado misericordia."
+        },
+        {
+            "id": "1pe2_sec11_ad13",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "El buen ejemplo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe2_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Amados, yo os ruego como a extranjeros y peregrinos, que os abstengáis de las concupiscencias carnales que batallan contra el alma;"
+        },
+        {
+            "id": "1pe2_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "manteniendo vuestra honesta manera de vivir entre los gentiles; para que, en lo que ellos murmuran de vosotros como de malhechores, al ver vuestras buenas obras, glorifiquen a Dios en el día de la visitación."
+        },
+        {
+            "id": "1pe2_sec13_0fd5",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Obediencia a las autoridades",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe2_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Sujetaos a toda ordenación humana por causa del Señor; ya sea al rey, como a superior,"
+        },
+        {
+            "id": "1pe2_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "ya a los gobernadores, como por Él enviados para castigo de los malhechores y alabanza de los que hacen bien."
+        },
+        {
+            "id": "1pe2_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Porque ésta es la voluntad de Dios; que haciendo el bien, hagáis callar la ignorancia de los hombres vanos."
+        },
+        {
+            "id": "1pe2_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Como libres, mas no usando la libertad para cobertura de malicia, sino como siervos de Dios."
+        },
+        {
+            "id": "1pe2_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Honrad a todos. Amad la hermandad. Temed a Dios. Honrad al rey."
+        },
+        {
+            "id": "1pe2_sec18_35c2",
+            "speaker": "Sistema",
+            "verse": 18,
+            "text": "Servir, a imitación de Cristo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1pe2_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Siervos, sujetaos con todo temor a vuestros amos; no solamente a los buenos y amables, sino también a los que son severos."
+        },
+        {
+            "id": "1pe2_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Porque esto es loable, si alguno a causa de la conciencia delante de Dios, sufre molestias padeciendo injustamente."
+        },
+        {
+            "id": "1pe2_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Porque ¿qué gloria es, si pecando vosotros sois abofeteados, y lo sufrís? Pero si haciendo bien sois afligidos, y lo sufrís, esto ciertamente es agradable delante de Dios."
+        },
+        {
+            "id": "1pe2_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Porque para esto fuisteis llamados; pues que también Cristo padeció por nosotros, dejándonos ejemplo, para que vosotros sigáis sus pisadas:"
+        },
+        {
+            "id": "1pe2_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "El cual no hizo pecado; ni fue hallado engaño en su boca:"
+        },
+        {
+            "id": "1pe2_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Quien cuando le maldecían no respondía con maldición; cuando padecía, no amenazaba, sino que se encomendaba a Aquél que juzga justamente:"
+        },
+        {
+            "id": "1pe2_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Quien llevó Él mismo nuestros pecados en su cuerpo sobre el madero, para que nosotros, siendo muertos a los pecados, vivamos a la justicia; por las heridas del cual habéis sido sanados."
+        },
+        {
+            "id": "1pe2_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Porque vosotros erais como ovejas descarriadas; mas ahora habéis vuelto al Pastor y Obispo de vuestras almas."
+        }
+    ]
+}
