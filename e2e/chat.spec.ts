@@ -18,6 +18,14 @@ test.describe('Chat', () => {
         expect(consoleErrors.filter((e) => e.toLowerCase().includes('hydrat'))).toEqual([]);
     });
 
+    test('deep-link a /filemon/1 carga el capítulo (epístola integrada)', async ({ page }) => {
+        await page.goto('/filemon/1');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await expect(page.getByRole('heading', { name: /Filemón/ })).toBeVisible();
+        // El primer título (Elogio, v4) llega tras el auto-avance de v1-v3.
+        await expect(page.getByRole('button', { name: /elogio/i })).toBeVisible({ timeout: 30_000 });
+    });
+
     test('deep-link a /tito/1 carga el capítulo (epístola integrada)', async ({ page }) => {
         await page.goto('/tito/1');
         await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });

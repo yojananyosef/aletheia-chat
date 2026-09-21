@@ -1,0 +1,178 @@
+{
+    "book": "Filemón",
+    "chapter": 1,
+    "title": "Filemón 1",
+    "messages": [
+        {
+            "id": "phm1_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pablo, prisionero de Jesucristo, y nuestro hermano Timoteo, a Filemón, amado, y colaborador nuestro,"
+        },
+        {
+            "id": "phm1_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y a nuestra amada Apia, y a Arquipo, nuestro compañero de milicia, y a la iglesia que está en tu casa."
+        },
+        {
+            "id": "phm1_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Gracia a vosotros, y paz de Dios nuestro Padre y del Señor Jesucristo."
+        },
+        {
+            "id": "phm1_sec4_e46e",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "Elogio de Filemón",
+            "isSectionTitle": true
+        },
+        {
+            "id": "phm1_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Doy gracias a mi Dios, haciendo siempre mención de ti en mis oraciones,"
+        },
+        {
+            "id": "phm1_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "oyendo de tu amor, y de la fe que tienes hacia el Señor Jesús, y para con todos los santos;"
+        },
+        {
+            "id": "phm1_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "para que la comunicación de tu fe sea eficaz en el reconocimiento de todo el bien que está en vosotros en Cristo Jesús."
+        },
+        {
+            "id": "phm1_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque tenemos gran gozo y consolación en tu amor, de que por ti, oh hermano, han sido recreadas las entrañas de los santos."
+        },
+        {
+            "id": "phm1_sec8_98c1",
+            "speaker": "Sistema",
+            "verse": 8,
+            "text": "El apóstol intercede por Onésimo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "phm1_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Por lo cual, aunque tengo mucha resolución en Cristo para mandarte lo que conviene,"
+        },
+        {
+            "id": "phm1_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora además, prisionero de Jesucristo."
+        },
+        {
+            "id": "phm1_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Te ruego por mi hijo Onésimo, a quien engendré en mis prisiones,"
+        },
+        {
+            "id": "phm1_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "el cual en otro tiempo te fue inútil, mas ahora a ti y a mí nos es útil,"
+        },
+        {
+            "id": "phm1_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "el cual vuelvo a enviarte; tú, pues, recíbele como a mis entrañas."
+        },
+        {
+            "id": "phm1_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Yo quería retenerle conmigo, para que en lugar tuyo me sirviese en las prisiones del evangelio;"
+        },
+        {
+            "id": "phm1_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "pero nada quise hacer sin tu consentimiento; para que tu favor no fuese como de necesidad, sino voluntario."
+        },
+        {
+            "id": "phm1_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Porque quizá para esto se apartó de ti por algún tiempo, para que le recibieses para siempre;"
+        },
+        {
+            "id": "phm1_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "no ya como siervo, sino como más que siervo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor."
+        },
+        {
+            "id": "phm1_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Así que, si me tienes por compañero, recíbele como a mí mismo."
+        },
+        {
+            "id": "phm1_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y si en algo te dañó, o te debe, cárgalo a mi cuenta."
+        },
+        {
+            "id": "phm1_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Yo Pablo lo escribí de mi propia mano, yo lo pagaré; por no decirte que aun tú mismo te me debes además."
+        },
+        {
+            "id": "phm1_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "Sí, hermano, góceme yo de ti en el Señor; recrea mis entrañas en el Señor."
+        },
+        {
+            "id": "phm1_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo."
+        },
+        {
+            "id": "phm1_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Y asimismo prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido."
+        },
+        {
+            "id": "phm1_sec23_3379",
+            "speaker": "Sistema",
+            "verse": 23,
+            "text": "Saludos y bendición",
+            "isSectionTitle": true
+        },
+        {
+            "id": "phm1_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Te saludan Epafras, mi compañero en la prisión por Cristo Jesús,"
+        },
+        {
+            "id": "phm1_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Marcos, Aristarco, Demas, Lucas, mis colaboradores."
+        },
+        {
+            "id": "phm1_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén."
+        }
+    ]
+}

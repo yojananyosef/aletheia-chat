@@ -419,6 +419,13 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(t1.messages.some(m => m.id.startsWith('tit1_')), 'ids con prefijo tit');
     });
 
+    it('PHM carta narrada: todo Narrador/Sistema, 0 ambiguos; id phm', () => {
+        const f1 = run('filemon', 'PHM', 1);
+        assert.ok(f1.messages.length > 20, 'PHM 1 tiene mensajes');
+        assert.ok(f1.messages.every(m => ['Narrador', 'Sistema'].includes(m.speaker)), 'solo Narrador/Sistema');
+        assert.ok(f1.messages.some(m => m.id.startsWith('phm1_')), 'ids con prefijo phm');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos
