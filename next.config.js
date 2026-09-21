@@ -4,6 +4,21 @@ const nextConfig = {
     // en onBuildComplete (upstream vercel/next.js#96646). En Vercel se usa su
     // output normal (VERCEL=1 lo pone la plataforma); standalone solo local/Docker.
     output: process.env.VERCEL ? undefined : 'standalone',
+    async redirects() {
+        return [
+            // Slug histórico en inglés → convención es-ES del catálogo.
+            {
+                source: '/revelation/:chapter',
+                destination: '/apocalipsis/:chapter',
+                permanent: true,
+            },
+            {
+                source: '/revelation',
+                destination: '/',
+                permanent: true,
+            },
+        ];
+    },
     async headers() {
         return [
             {

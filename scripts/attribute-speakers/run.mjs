@@ -44,7 +44,7 @@ export const CODE_BY_SLUG = {
   '1tesalonicenses': '1TH', '2tesalonicenses': '2TH', '1timoteo': '1TI',
   '2timoteo': '2TI', tito: 'TIT', filemon: 'PHM', hebreos: 'HEB', santiago: 'JAS',
   '1pedro': '1PE', '2pedro': '2PE', '1juan': '1JN', '2juan': '2JN', '3juan': '3JN',
-  judas: 'JUD', revelation: 'REV',
+  judas: 'JUD', apocalipsis: 'REV',
 };
 // IDs históricos cortos para génesis/éxodo (compat localStorage); resto = código gateway.
 const ABBR_BY_SLUG = { genesis: 'g', exodus: 'e' };

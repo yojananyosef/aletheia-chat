@@ -145,7 +145,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'judas', name: 'Judas', availableChapters: [], isLocked: true, category: 'Epístolas Generales', description: 'Contender por la fe.', participants: ['Judas'] },
 
     // --- PROFECÍA ---
-    { id: 'revelation', name: 'Apocalipsis', availableChapters: [], isLocked: true, category: 'Profecía', description: 'La victoria final de Jesucristo.', participants: ['Jesús', 'Juan', 'Ángeles'] }
+    { id: 'apocalipsis', name: 'Apocalipsis', availableChapters: [], isLocked: true, category: 'Profecía', description: 'La victoria final de Jesucristo.', participants: ['Jesús', 'Juan', 'Ángeles'] }
 ];
 
 /**
