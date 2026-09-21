@@ -1,0 +1,136 @@
+{
+    "book": "1 Tesalonicenses",
+    "chapter": 4,
+    "title": "1 Tesalonicenses 4",
+    "messages": [
+        {
+            "id": "1th4_sec1_2dae",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Somos llamados a la santidad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Además os rogamos hermanos y exhortamos en el Señor Jesús, que de la manera que fuisteis enseñados de nosotros de cómo debéis de conduciros y agradar a Dios, así abundéis más y más."
+        },
+        {
+            "id": "1th4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque ya sabéis qué mandamientos os dimos por el Señor Jesús."
+        },
+        {
+            "id": "1th4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Porque ésta es la voluntad de Dios, vuestra santificación; que os abstengáis de fornicación;"
+        },
+        {
+            "id": "1th4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "que cada uno de vosotros sepa tener su vaso en santificación y honor;"
+        },
+        {
+            "id": "1th4_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "no en pasión de concupiscencia, como los gentiles que no conocen a Dios."
+        },
+        {
+            "id": "1th4_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Que ninguno agravie ni tome ventaja de su hermano, en nada; porque el Señor es vengador de todo esto, como ya os hemos dicho y protestado."
+        },
+        {
+            "id": "1th4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque no nos ha llamado Dios a inmundicia, sino a santificación."
+        },
+        {
+            "id": "1th4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Así que, el que menosprecia, no menosprecia a hombre, sino a Dios, el cual también nos dio su Espíritu Santo."
+        },
+        {
+            "id": "1th4_sec9_da9b",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Amor al prójimo y laboriosidad",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Pero acerca del amor fraternal no tenéis necesidad de que os escriba; porque vosotros mismos habéis aprendido de Dios que os améis unos a otros;"
+        },
+        {
+            "id": "1th4_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "y a la verdad lo hacéis así con todos los hermanos que están por toda Macedonia. Pero os rogamos, hermanos, que abundéis en ello más y más;"
+        },
+        {
+            "id": "1th4_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "y que procuréis tener quietud, y ocuparos en vuestros propios negocios, y trabajar con vuestras manos de la manera que os hemos mandado;"
+        },
+        {
+            "id": "1th4_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "a fin de que andéis honestamente para con los de afuera, y no tengáis necesidad de nada."
+        },
+        {
+            "id": "1th4_sec13_0135",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "Resurrección de entre los muertos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th4_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "Mas no quiero, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza."
+        },
+        {
+            "id": "1th4_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Él a los que durmieron en Jesús."
+        },
+        {
+            "id": "1th4_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Por lo cual, os decimos esto por palabra del Señor; que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no precederemos a los que durmieron."
+        },
+        {
+            "id": "1th4_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Porque el Señor mismo con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero."
+        },
+        {
+            "id": "1th4_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Luego nosotros los que vivimos, los que hayamos quedado, juntamente con ellos seremos arrebatados en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor."
+        },
+        {
+            "id": "1th4_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Por tanto, consolaos unos a otros con estas palabras."
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "book": "1 Tesalonicenses",
+    "chapter": 3,
+    "title": "1 Tesalonicenses 3",
+    "messages": [
+        {
+            "id": "1th3_sec1_4b6d",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "La misión de Timoteo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th3_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Por lo cual, no pudiendo soportarlo más, nos pareció bien, quedarnos solos en Atenas,"
+        },
+        {
+            "id": "1th3_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "y enviamos a Timoteo, nuestro hermano, y ministro de Dios, y colaborador nuestro en el evangelio de Cristo, a confirmaros y exhortaros en cuanto a vuestra fe,"
+        },
+        {
+            "id": "1th3_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "para que nadie se inquiete por estas tribulaciones; porque vosotros sabéis que nosotros estamos puestos para esto."
+        },
+        {
+            "id": "1th3_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Porque aun estando con vosotros, os predecíamos que habíamos de padecer tribulaciones, como ha acontecido y lo sabéis."
+        },
+        {
+            "id": "1th3_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Por lo cual, también yo, no pudiendo esperar más, he enviado a reconocer vuestra fe, no sea que os haya tentado el tentador, y que nuestro trabajo haya sido en vano."
+        },
+        {
+            "id": "1th3_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Pero ahora que Timoteo vino de vosotros a nosotros, y nos trajo las buenas nuevas de vuestra fe y amor, y que siempre tenéis gratos recuerdos de nosotros, deseando vernos, como también nosotros a vosotros;"
+        },
+        {
+            "id": "1th3_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "por ello, hermanos, fuimos confortados de vosotros en toda nuestra aflicción y angustia por vuestra fe;"
+        },
+        {
+            "id": "1th3_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "porque ahora vivimos, si vosotros estáis firmes en el Señor."
+        },
+        {
+            "id": "1th3_sec9_f3d9",
+            "speaker": "Sistema",
+            "verse": 9,
+            "text": "Gratitud a Dios y votos del apóstol",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th3_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Por lo cual, ¿qué acción de gracias podremos dar a Dios por vosotros, por todo el gozo con que nos gozamos a causa de vosotros delante de nuestro Dios,"
+        },
+        {
+            "id": "1th3_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "orando de noche y de día con gran solicitud, que veamos vuestro rostro, y que completemos lo que falta a vuestra fe?"
+        },
+        {
+            "id": "1th3_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Mas el mismo Dios y Padre nuestro, y nuestro Señor Jesucristo, dirija nuestro camino a vosotros."
+        },
+        {
+            "id": "1th3_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y el Señor os haga crecer y abundar en amor unos para con otros y para con todos, como también lo hacemos nosotros para con vosotros;"
+        },
+        {
+            "id": "1th3_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "para que sean afirmados vuestros corazones en santidad, irreprensibles delante de Dios y Padre nuestro, para la venida de nuestro Señor Jesucristo con todos sus santos."
+        }
+    ]
+}

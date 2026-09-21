@@ -1,0 +1,189 @@
+{
+    "book": "1 Tesalonicenses",
+    "chapter": 5,
+    "title": "1 Tesalonicenses 5",
+    "messages": [
+        {
+            "id": "1th5_sec1_dead",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "Exhortación a la vigilancia",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "Pero acerca de los tiempos y de los momentos, no tenéis necesidad, hermanos, de que yo os escriba."
+        },
+        {
+            "id": "1th5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Porque vosotros sabéis perfectamente que el día del Señor vendrá como ladrón en la noche,"
+        },
+        {
+            "id": "1th5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "que cuando digan: Paz y seguridad, entonces vendrá sobre ellos destrucción repentina, como los dolores a la mujer que da a luz; y no escaparán."
+        },
+        {
+            "id": "1th5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Mas vosotros, hermanos, no estáis en tinieblas, para que aquel día os sorprenda como ladrón."
+        },
+        {
+            "id": "1th5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Porque todos vosotros sois hijos de luz, e hijos del día; no somos de la noche, ni de las tinieblas."
+        },
+        {
+            "id": "1th5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Por tanto, no durmamos como los demás; antes velemos y seamos sobrios."
+        },
+        {
+            "id": "1th5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Porque los que duermen, de noche duermen; y los que se embriagan, de noche se embriagan."
+        },
+        {
+            "id": "1th5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Pero nosotros, que somos del día, seamos sobrios, vestidos de la coraza de fe y amor, y de la esperanza de salvación, como un yelmo."
+        },
+        {
+            "id": "1th5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Porque no nos ha puesto Dios para ira, sino para obtener salvación por nuestro Señor Jesucristo;"
+        },
+        {
+            "id": "1th5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "quien murió por nosotros, para que ya sea que velemos, o que durmamos, vivamos juntamente con Él."
+        },
+        {
+            "id": "1th5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Por lo cual, consolaos unos a otros, y edificaos unos a otros, así como lo hacéis."
+        },
+        {
+            "id": "1th5_sec12_9cc9",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Recomendaciones y saludos",
+            "isSectionTitle": true
+        },
+        {
+            "id": "1th5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Y os rogamos, hermanos, que reconozcáis a los que trabajan entre vosotros, y os presiden en el Señor, y os amonestan;"
+        },
+        {
+            "id": "1th5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "y que los tengáis en mucha estima y amor por causa de su obra. Tened paz entre vosotros."
+        },
+        {
+            "id": "1th5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "También os exhortamos, hermanos, que amonestéis a los que andan desordenadamente, que confortéis a los de poco ánimo, que soportéis a los débiles, que seáis pacientes para con todos."
+        },
+        {
+            "id": "1th5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Mirad que ninguno pague a otro mal por mal; antes seguid lo bueno siempre unos para con otros, y para con todos."
+        },
+        {
+            "id": "1th5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Estad siempre gozosos."
+        },
+        {
+            "id": "1th5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Orad sin cesar."
+        },
+        {
+            "id": "1th5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Dad gracias en todo; porque ésta es la voluntad de Dios para con vosotros en Cristo Jesús."
+        },
+        {
+            "id": "1th5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "No apaguéis el Espíritu."
+        },
+        {
+            "id": "1th5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "No menospreciéis las profecías."
+        },
+        {
+            "id": "1th5_21",
+            "speaker": "Narrador",
+            "verse": 21,
+            "text": "Examinadlo todo; retened lo bueno."
+        },
+        {
+            "id": "1th5_22",
+            "speaker": "Narrador",
+            "verse": 22,
+            "text": "Absteneos de toda apariencia de mal."
+        },
+        {
+            "id": "1th5_23",
+            "speaker": "Narrador",
+            "verse": 23,
+            "text": "Y el mismo Dios de paz os santifique enteramente; y que todo vuestro espíritu y alma y cuerpo sean guardados irreprensibles para la venida de nuestro Señor Jesucristo."
+        },
+        {
+            "id": "1th5_24",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Fiel es el que os llama; el cual también lo hará."
+        },
+        {
+            "id": "1th5_25",
+            "speaker": "Narrador",
+            "verse": 25,
+            "text": "Hermanos, orad por nosotros."
+        },
+        {
+            "id": "1th5_26",
+            "speaker": "Narrador",
+            "verse": 26,
+            "text": "Saludad a todos los hermanos con ósculo santo."
+        },
+        {
+            "id": "1th5_27",
+            "speaker": "Narrador",
+            "verse": 27,
+            "text": "Os conjuro por el Señor, que esta carta sea leída a todos los santos hermanos."
+        },
+        {
+            "id": "1th5_28",
+            "speaker": "Narrador",
+            "verse": 28,
+            "text": "La gracia de nuestro Señor Jesucristo sea con vosotros. Amén. La primera epístola a los tesalonicenses fue escrita de Atenas."
+        }
+    ]
+}

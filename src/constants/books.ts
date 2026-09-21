@@ -127,7 +127,7 @@ export const BIBLE_BOOKS: BookInfo[] = [
     { id: 'efesios', name: 'Efesios', availableChapters: [1, 2, 3, 4, 5, 6], category: 'Epístolas de Pablo', description: 'La riqueza espiritual en Cristo y la armadura de Dios.', participants: ['Narrador', 'Sistema', 'Pablo'] },
     { id: 'filipenses', name: 'Filipenses', availableChapters: [1, 2, 3, 4], category: 'Epístolas de Pablo', description: 'Gozo en medio del sufrimiento.', participants: ['Narrador', 'Sistema', 'Pablo'] },
     { id: 'colosenses', name: 'Colosenses', availableChapters: [1, 2, 3, 4], category: 'Epístolas de Pablo', description: 'La preeminencia de Cristo.', participants: ['Narrador', 'Sistema', 'Pablo'] },
-    { id: '1tesalonicenses', name: '1 Tesalonicenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'La venida del Señor.', participants: ['Pablo'] },
+    { id: '1tesalonicenses', name: '1 Tesalonicenses', availableChapters: [1, 2, 3, 4, 5], category: 'Epístolas de Pablo', description: 'La venida del Señor.', participants: ['Narrador', 'Sistema', 'Pablo'] },
     { id: '2tesalonicenses', name: '2 Tesalonicenses', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Perseverancia ante el fin.', participants: ['Pablo'] },
     { id: '1timoteo', name: '1 Timoteo', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Consejos para un joven pastor.', participants: ['Pablo', 'Timoteo'] },
     { id: '2timoteo', name: '2 Timoteo', availableChapters: [], isLocked: true, category: 'Epístolas de Pablo', description: 'Últimas palabras de Pablo.', participants: ['Pablo', 'Timoteo'] },
