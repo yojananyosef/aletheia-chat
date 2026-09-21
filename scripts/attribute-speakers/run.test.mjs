@@ -437,6 +437,15 @@ describe('attribute-speakers (heurística)', () => {
         assert.ok(h1.messages.some(m => m.id.startsWith('heb1_')), 'ids con prefijo heb');
     });
 
+    it('JAS diatriba a Santiago, Decálogo a Dios: 2:5/11b, 4:13b; id jas', () => {
+        const s2 = run('santiago', 'JAS', 2);
+        assert.equal(speakerOf(s2.messages, 5, ''), 'Dios'); // revisado a Santiago (retórica directa)
+        assert.equal(speakerOf(s2.messages, 11, 'b'), 'Dios'); // Decálogo 2a persona: se conserva Dios
+        const s4 = run('santiago', 'JAS', 4);
+        assert.equal(speakerOf(s4.messages, 13, 'b'), 'Dios'); // revisado a Santiago (cita jactancia)
+        assert.ok(s2.messages.some(m => m.id.startsWith('jas2_')), 'ids con prefijo jas');
+    });
+
     it('ACT defaults-Dios ambiguos a revisión: 1:6b, 9:4b, 26:1b; id corto act', () => {
     const a1 = run('hechos', 'ACT', 1);
     assert.equal(speakerOf(a1.messages, 6, 'b'), 'Dios'); // revisado a Discípulos

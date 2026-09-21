@@ -1,0 +1,161 @@
+{
+    "book": "Santiago",
+    "chapter": 4,
+    "title": "Santiago 4",
+    "messages": [
+        {
+            "id": "jas4_sec1_4bd1",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "¿De dónde las guerras?",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas4_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¿De dónde vienen las guerras y los pleitos entre vosotros? ¿No es de vuestras concupiscencias, las cuales combaten en vuestros miembros?"
+        },
+        {
+            "id": "jas4_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar, combatís y guerreáis, y no tenéis porque no pedís."
+        },
+        {
+            "id": "jas4_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites."
+        },
+        {
+            "id": "jas4_sec4_b8c3",
+            "speaker": "Sistema",
+            "verse": 4,
+            "text": "Dios tiene celos del mundo",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas4_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "Adúlteros y adúlteras, ¿no sabéis que la amistad del mundo es enemistad contra Dios? Cualquiera, pues, que quisiere ser amigo del mundo, se constituye enemigo de Dios."
+        },
+        {
+            "id": "jas4_5a",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "¿Pensáis que la Escritura dice en vano:"
+        },
+        {
+            "id": "jas4_5b",
+            "speaker": "Santiago",
+            "verse": 5,
+            "text": "El espíritu que mora en nosotros, codicia para envidia?"
+        },
+        {
+            "id": "jas4_6a",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Mas Él da mayor gracia. Por esto dice:"
+        },
+        {
+            "id": "jas4_6b",
+            "speaker": "Santiago",
+            "verse": 6,
+            "text": "Dios resiste a los soberbios, y da gracia a los humildes."
+        },
+        {
+            "id": "jas4_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Someteos, pues, a Dios. Resistid al diablo, y huirá de vosotros."
+        },
+        {
+            "id": "jas4_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Acercaos a Dios, y Él se acercará a vosotros. Pecadores, limpiad vuestras manos; y vosotros de doble ánimo, purificad vuestros corazones."
+        },
+        {
+            "id": "jas4_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Afligíos, y lamentad, y llorad. Vuestra risa se convierta en lloro, y vuestro gozo en tristeza."
+        },
+        {
+            "id": "jas4_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Humillaos delante del Señor, y Él os exaltará."
+        },
+        {
+            "id": "jas4_sec11_9936",
+            "speaker": "Sistema",
+            "verse": 11,
+            "text": "No juzgar",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas4_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Hermanos, no habléis mal los unos de los otros. El que habla mal de su hermano, y juzga a su hermano, este tal habla mal de la ley, y juzga la ley; pero si tú juzgas a la ley, no eres hacedor de la ley, sino juez."
+        },
+        {
+            "id": "jas4_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Uno es el dador de la ley, que puede salvar y perder, ¿quién eres tú que juzgas a otro?"
+        },
+        {
+            "id": "jas4_sec13_0cb9",
+            "speaker": "Sistema",
+            "verse": 13,
+            "text": "“Si Dios quiere”",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas4_13a",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "¡Vamos ahora! Los que decís:"
+        },
+        {
+            "id": "jas4_13b",
+            "speaker": "Santiago",
+            "verse": 13,
+            "text": "Hoy o mañana iremos a tal ciudad, y estaremos allá un año, compraremos y venderemos, y ganaremos;"
+        },
+        {
+            "id": "jas4_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "cuando no sabéis lo que será mañana. Porque, ¿qué es vuestra vida? Ciertamente es un vapor que aparece por un poco de tiempo, y luego se desvanece."
+        },
+        {
+            "id": "jas4_15a",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "En lugar de lo cual deberíais decir:"
+        },
+        {
+            "id": "jas4_15b",
+            "speaker": "Santiago",
+            "verse": 15,
+            "text": "Si el Señor quisiere, y si viviéremos, haremos esto o aquello."
+        },
+        {
+            "id": "jas4_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Mas ahora os jactáis en vuestras soberbias. Toda jactancia semejante es mala."
+        },
+        {
+            "id": "jas4_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Así que, al que sabe hacer lo bueno, y no lo hace, le es pecado."
+        }
+    ]
+}

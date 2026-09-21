@@ -1,0 +1,155 @@
+{
+    "book": "Santiago",
+    "chapter": 5,
+    "title": "Santiago 5",
+    "messages": [
+        {
+            "id": "jas5_sec1_81cd",
+            "speaker": "Sistema",
+            "verse": 1,
+            "text": "¡Ay de los ricos!",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas5_1",
+            "speaker": "Narrador",
+            "verse": 1,
+            "text": "¡Vamos ahora, ricos! Llorad y aullad por vuestras miserias que os vendrán."
+        },
+        {
+            "id": "jas5_2",
+            "speaker": "Narrador",
+            "verse": 2,
+            "text": "Vuestras riquezas están podridas; y vuestras ropas están comidas de polilla."
+        },
+        {
+            "id": "jas5_3",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Vuestro oro y plata están corroídos, y su óxido testificará contra vosotros, y comerá vuestra carne como fuego. Habéis acumulado tesoro para los días postreros."
+        },
+        {
+            "id": "jas5_4",
+            "speaker": "Narrador",
+            "verse": 4,
+            "text": "He aquí, clama el jornal de los obreros que han segado vuestros campos, el cual por engaño no les ha sido pagado de vosotros; y los clamores de los que habían segado, han entrado en los oídos del Señor de los ejércitos."
+        },
+        {
+            "id": "jas5_5",
+            "speaker": "Narrador",
+            "verse": 5,
+            "text": "Habéis vivido en placeres sobre la tierra, y habéis sido disolutos; habéis engrosado vuestros corazones como en día de matanza."
+        },
+        {
+            "id": "jas5_6",
+            "speaker": "Narrador",
+            "verse": 6,
+            "text": "Habéis condenado y dado muerte al justo; y él no os resiste."
+        },
+        {
+            "id": "jas5_sec7_aaae",
+            "speaker": "Sistema",
+            "verse": 7,
+            "text": "Bienaventurados los pobres",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas5_7",
+            "speaker": "Narrador",
+            "verse": 7,
+            "text": "Por tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo el labrador espera el precioso fruto de la tierra, aguardando con paciencia, hasta que reciba la lluvia temprana y tardía."
+        },
+        {
+            "id": "jas5_8",
+            "speaker": "Narrador",
+            "verse": 8,
+            "text": "Tened paciencia también vosotros; afirmad vuestros corazones; porque la venida del Señor se acerca."
+        },
+        {
+            "id": "jas5_9",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Hermanos, no os quejéis unos contra otros, para que no seáis condenados; he aquí el Juez está a la puerta."
+        },
+        {
+            "id": "jas5_10",
+            "speaker": "Narrador",
+            "verse": 10,
+            "text": "Hermanos míos, tomad por ejemplo de aflicción y de paciencia a los profetas que han hablado en el nombre del Señor."
+        },
+        {
+            "id": "jas5_11",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "He aquí, tenemos por bienaventurados a los que sufren. Habéis oído de la paciencia de Job, y habéis visto el fin del Señor; que el Señor es muy misericordioso y compasivo."
+        },
+        {
+            "id": "jas5_sec12_b838",
+            "speaker": "Sistema",
+            "verse": 12,
+            "text": "Instrucciones",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas5_12",
+            "speaker": "Narrador",
+            "verse": 12,
+            "text": "Mas por sobre todas las cosas, mis hermanos; no juréis, ni por el cielo, ni por la tierra, ni por ningún otro juramento; sino que vuestro sí sea sí, y vuestro no, sea no; para que no caigáis en condenación."
+        },
+        {
+            "id": "jas5_13",
+            "speaker": "Narrador",
+            "verse": 13,
+            "text": "¿Está alguno afligido entre vosotros? Haga oración. ¿Está alguno alegre? Cante salmos."
+        },
+        {
+            "id": "jas5_sec14_c054",
+            "speaker": "Sistema",
+            "verse": 14,
+            "text": "Unción de los enfermos, confesión y oración",
+            "isSectionTitle": true
+        },
+        {
+            "id": "jas5_14",
+            "speaker": "Narrador",
+            "verse": 14,
+            "text": "¿Está alguno enfermo entre vosotros? Llame a los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor."
+        },
+        {
+            "id": "jas5_15",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán perdonados."
+        },
+        {
+            "id": "jas5_16",
+            "speaker": "Narrador",
+            "verse": 16,
+            "text": "Confesaos vuestras faltas unos a otros, y rogad los unos por los otros, para que seáis sanados. La oración eficaz del justo, puede mucho."
+        },
+        {
+            "id": "jas5_17",
+            "speaker": "Narrador",
+            "verse": 17,
+            "text": "Elías era un hombre sujeto a pasiones semejantes a las nuestras, y oró fervientemente que no lloviese, y no llovió sobre la tierra por tres años y seis meses."
+        },
+        {
+            "id": "jas5_18",
+            "speaker": "Narrador",
+            "verse": 18,
+            "text": "Y otra vez oró, y el cielo dio lluvia, y la tierra produjo su fruto."
+        },
+        {
+            "id": "jas5_19",
+            "speaker": "Narrador",
+            "verse": 19,
+            "text": "Hermanos, si alguno de vosotros errare de la verdad, y alguno le convirtiere,"
+        },
+        {
+            "id": "jas5_20",
+            "speaker": "Narrador",
+            "verse": 20,
+            "text": "sepa que el que haga volver al pecador del error de su camino, salvará de muerte un alma, y cubrirá multitud de pecados."
+        }
+    ]
+}
