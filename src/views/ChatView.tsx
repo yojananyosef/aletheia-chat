@@ -58,7 +58,15 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
 
     const onMessageNext = useCallback((msg: Message) => {
         if (!msg.isTitle() && msg.speaker !== 'Narrador') playPop();
-    }, [playPop]);
+        if (!msg.isTitle()) {
+            StorageService.setLastMessage(bookId, {
+                speaker: msg.speaker,
+                text: msg.text,
+                chapter,
+                at: new Date().toISOString(),
+            });
+        }
+    }, [playPop, bookId, chapter]);
 
     const {
         data, currentIndex, isAdvancing, error, visibleMessages,

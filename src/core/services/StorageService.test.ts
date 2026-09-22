@@ -83,3 +83,43 @@ describe('StorageService — último capítulo visitado', () => {
         expect(StorageService.getLastChapter('exodus')).toBe(4);
     });
 });
+
+describe('StorageService — racha de lectura', () => {
+    it('0 sin actividad y 1 al registrar hoy', () => {
+        expect(StorageService.getStreak(new Date('2026-09-22T12:00:00'))).toBe(0);
+        StorageService.recordReadingDay(new Date('2026-09-22T12:00:00'));
+        expect(StorageService.getStreak(new Date('2026-09-22T12:00:00'))).toBe(1);
+    });
+
+    it('racha consecutiva y corte ante huecos', () => {
+        for (const d of ['2026-09-20T12:00:00', '2026-09-21T12:00:00', '2026-09-22T12:00:00']) {
+            StorageService.recordReadingDay(new Date(d));
+        }
+        expect(StorageService.getStreak(new Date('2026-09-22T12:00:00'))).toBe(3);
+        // Sin hoy: cuenta desde ayer; con hueco mayor se corta.
+        expect(StorageService.getStreak(new Date('2026-09-23T12:00:00'))).toBe(3);
+        expect(StorageService.getStreak(new Date('2026-09-25T12:00:00'))).toBe(0);
+    });
+
+    it('idempotente por día', () => {
+        StorageService.recordReadingDay(new Date('2026-09-22T12:00:00'));
+        StorageService.recordReadingDay(new Date('2026-09-22T18:00:00'));
+        expect(JSON.parse(window.localStorage.getItem('naas:v1:activity') ?? '{}').days['2026-09-22']).toBe(true);
+        expect(StorageService.getStreak(new Date('2026-09-22T12:00:00'))).toBe(1);
+    });
+});
+
+describe('StorageService — último mensaje leído', () => {
+    it('roundtrip y null sin datos', () => {
+        expect(StorageService.getLastMessage('genesis')).toBeNull();
+        StorageService.setLastMessage('genesis', { speaker: 'Dios', text: 'Sea la luz.', chapter: 1, at: new Date().toISOString() });
+        expect(StorageService.getLastMessage('genesis')).toMatchObject({ speaker: 'Dios', chapter: 1 });
+    });
+
+    it('rechaza forma inválida y JSON corrupto', () => {
+        StorageService.setLastMessage('genesis', { speaker: 'Dios' } as never);
+        expect(StorageService.getLastMessage('genesis')).toBeNull();
+        window.localStorage.setItem('naas:v1:lastMessage:exodus', '{corrupto');
+        expect(StorageService.getLastMessage('exodus')).toBeNull();
+    });
+});

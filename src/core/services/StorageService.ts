@@ -1,6 +1,7 @@
 import { z } from 'zod';
 import { FavoriteMessageSchema } from '../validation/bibleSchemas';
 import { FavoriteMessage } from '../../types/bible';
+import { computeStreak, toDateKey } from '../../utils/activity';
 
 export interface NaasSettings {
     isMuted: boolean;
@@ -14,6 +15,8 @@ const Keys = {
     settings: `naas:${VERSION}:settings`,
     lastChapter: (bookId: string) => `naas:${VERSION}:lastChapter:${bookId}`,
     progress: (book: string, chapter: number) => `naas:${VERSION}:progress:${book}:${chapter}`,
+    activity: `naas:${VERSION}:activity`,
+    lastMessage: (bookId: string) => `naas:${VERSION}:lastMessage:${bookId}`,
 };
 
 /** Clave única de favoritos (Fase 1: elimina el duplicado en PersistentStateContext). */
@@ -33,6 +36,22 @@ const SettingsSchema = z.object({
     readingSpeed: z.number().positive(),
 });
 const FavoritesSchema = z.array(FavoriteMessageSchema);
+const ActivitySchema = z.object({
+    days: z.record(z.string(), z.literal(true)),
+});
+const LastMessageSchema = z.object({
+    speaker: z.string(),
+    text: z.string(),
+    chapter: z.number(),
+    at: z.string(),
+});
+
+export interface LastMessage {
+    speaker: string;
+    text: string;
+    chapter: number;
+    at: string;
+}
 
 const FAVORITES_FALLBACK: FavoriteMessage[] = [];
 const SETTINGS_FALLBACK: NaasSettings = { isMuted: false, readingSpeed: 1 };
@@ -164,5 +183,40 @@ export class StorageService {
 
     static setLastChapter(bookId: string, chapter: number): void {
         writeRaw(Keys.lastChapter(bookId), String(chapter));
+    }
+
+    /** Marca hoy como día con lectura (racha). Idempotente por día. */
+    static recordReadingDay(at: Date = new Date()): void {
+        const raw = readRaw(Keys.activity);
+        const current = parseJson(raw, ActivitySchema, { days: {} });
+        const days: Record<string, true> = { ...current.days, [toDateKey(at)]: true };
+        // Poda: 90 días bastan para la racha visible.
+        const keys = Object.keys(days).sort();
+        for (const k of keys.slice(0, Math.max(0, keys.length - 90))) delete days[k];
+        writeRaw(Keys.activity, JSON.stringify({ days }));
+    }
+
+    /** Días consecutivos con lectura hasta hoy. */
+    static getStreak(today: Date = new Date()): number {
+        const raw = readRaw(Keys.activity);
+        const { days } = parseJson(raw, ActivitySchema, { days: {} });
+        return computeStreak(days, today);
+    }
+
+    /** Último mensaje mostrado por libro (snippet de la lista de chats). */
+    static setLastMessage(bookId: string, msg: LastMessage): void {
+        const parsed = LastMessageSchema.safeParse(msg);
+        if (parsed.success) writeRaw(Keys.lastMessage(bookId), JSON.stringify(parsed.data));
+    }
+
+    static getLastMessage(bookId: string): LastMessage | null {
+        const raw = readRaw(Keys.lastMessage(bookId));
+        if (raw === null) return null;
+        try {
+            const parsed = LastMessageSchema.safeParse(JSON.parse(raw));
+            return parsed.success ? parsed.data : null;
+        } catch {
+            return null;
+        }
     }
 }

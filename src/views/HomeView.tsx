@@ -1,8 +1,8 @@
 'use client';
 
-import React from 'react';
+import React, { useMemo } from 'react';
 import { useRouter } from 'next/navigation';
-import { Search, MoreVertical, Heart, ShieldCheck, MessageSquare, Users, Book } from 'lucide-react';
+import { Search, MoreVertical, Heart, ShieldCheck } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
 import { useUIState } from '../context/UIStateContext';
@@ -11,6 +11,7 @@ import { useFavoritesToggle } from '../hooks/useFavoritesToggle';
 import { getSpiritualLevel } from '../hooks/useSpiritualLevel';
 import { useBookFilter } from '../hooks/useBookFilter';
 import { useHasMounted } from '../hooks/useHasMounted';
+import { StorageService, type LastMessage } from '../core/services/StorageService';
 import type { FavoriteMessage } from '../core/domain/Message';
 
 import { Surface } from '../components/ui/Surface';
@@ -32,6 +33,14 @@ export const HomeView: React.FC = () => {
     const { toggleFavorite } = useFavoritesToggle();
     const { filteredBooks } = useBookFilter(homeSearchQuery);
     const userLevel = getSpiritualLevel(favorites.length);
+
+    // Snippet por libro (último mensaje leído): solo cliente, se re-lee al montar.
+    const lastMessages = useMemo(() => {
+        const map = new Map<string, LastMessage | null>();
+        if (!hasMounted) return map;
+        for (const b of filteredBooks) map.set(b.id, StorageService.getLastMessage(b.id));
+        return map;
+    }, [hasMounted, filteredBooks]);
 
     const handleSelectBook = (id: string) => {
         router.push(`/${id}/${getInitialChapter(id)}`);
@@ -177,12 +186,13 @@ export const HomeView: React.FC = () => {
                     <div className="italic py-3 text-center text-[9px] text-gray-600 font-bold uppercase tracking-widest bg-gray-50 border-b-2 border-gray-100">
                         Canal de Revelación Activo
                     </div>
-                    <div className="pb-24">
+                    <div className="pb-8">
                         {filteredBooks.map((book) => (
                             <GroupListItem
                                 key={book.id}
                                 book={book}
                                 lastChapter={hasMounted ? getInitialChapter(book.id) : 1}
+                                lastMessage={lastMessages.get(book.id) ?? null}
                                 onSelect={handleSelectBook}
                             />
                         ))}
@@ -194,21 +204,6 @@ export const HomeView: React.FC = () => {
                         )}
                     </div>
                 </section>
-
-                <nav data-aida="action" className="fixed bottom-0 left-0 right-0 sm:absolute border-t-4 border-black bg-white/95 backdrop-blur-md px-6 py-3 pb-safe flex justify-around items-center shrink-0 z-50 select-none">
-                    <button aria-label="Chats" className="flex flex-col items-center gap-1.5 transition-transform active:scale-90">
-                        <MessageSquare className="w-6 h-6" />
-                        <span className="text-[10px] font-black uppercase tracking-tighter">CHATS</span>
-                    </button>
-                    <button aria-label="Community (próximamente)" aria-disabled="true" disabled tabIndex={-1} className="flex flex-col items-center gap-1.5 opacity-20 grayscale">
-                        <Users className="w-6 h-6" />
-                        <span className="text-[10px] font-black uppercase tracking-tighter">COMMUNITY</span>
-                    </button>
-                    <button aria-label="Scriptorium (próximamente)" aria-disabled="true" disabled tabIndex={-1} className="flex flex-col items-center gap-1.5 opacity-20 grayscale">
-                        <Book className="w-6 h-6" />
-                        <span className="text-[10px] font-black uppercase tracking-tighter">SCRIPTORIUM</span>
-                    </button>
-                </nav>
 
                 <FavoritesDrawer
                     isOpen={showFavorites}

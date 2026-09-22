@@ -55,6 +55,7 @@ export const useBibleChat = ({
     useEffect(() => {
         if (currentIndex >= 0) {
             StorageService.setProgress(book, chapter, currentIndex);
+            StorageService.recordReadingDay();
         }
     }, [book, chapter, currentIndex]);
 

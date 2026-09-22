@@ -9,4 +9,27 @@ test.describe('Home', () => {
         // Libro bloqueado no navega
         await expect(page.getByText('Levítico')).toBeVisible();
     });
+
+    test('la fila muestra el último mensaje leído estilo chat', async ({ page }) => {
+        await page.goto('/');
+        await expect(page.getByRole('heading', { name: 'ALETHEIA CHAT' })).toBeVisible();
+        // Libro sin leer: badge Nuevo.
+        const genesisRow = page.getByRole('button', { name: /abrir génesis/i });
+        await expect(genesisRow.getByText('Nuevo')).toBeVisible();
+
+        // Lee en Génesis 1 hasta el primer Narrador (2 títulos + auto-avance).
+        await genesisRow.click();
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        const titleBtn = page.getByRole('button', { name: /creación/i });
+        await titleBtn.click();
+        await titleBtn.click();
+        await expect(page.getByText('En el principio creó Dios el cielo y la tierra.')).toBeVisible({ timeout: 20_000 });
+
+        // De vuelta en home: snippet + hora, sin badge Nuevo.
+        await page.goto('/');
+        const row = page.getByRole('button', { name: /abrir génesis/i });
+        await expect(row.getByText(/narrador: en el principio/i)).toBeVisible();
+        await expect(row.getByText(/ahora|hace \d+ min/i)).toBeVisible();
+        await expect(row.getByText('Nuevo')).toHaveCount(0);
+    });
 });

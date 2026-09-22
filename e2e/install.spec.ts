@@ -16,7 +16,16 @@ test.describe('Instalación PWA', () => {
         await expect(page.getByRole('heading', { name: 'ALETHEIA CHAT' })).toBeVisible();
         await expect(page.getByRole('dialog', { name: /instalar aplicación/i })).toHaveCount(0);
 
-        await page.evaluate(() => window.dispatchEvent(new Event('beforeinstallprompt')));
+        // Reintenta el dispatch hasta que hidrate y el listener esté attached.
+        await expect
+            .poll(
+                async () => {
+                    await page.evaluate(() => window.dispatchEvent(new Event('beforeinstallprompt')));
+                    return page.getByRole('dialog', { name: /instalar aplicación/i }).count();
+                },
+                { timeout: 15_000 },
+            )
+            .toBe(1);
         await expect(page.getByRole('dialog', { name: /instalar aplicación/i })).toBeVisible();
 
         await page.getByRole('button', { name: /descartar instalación/i }).click();
