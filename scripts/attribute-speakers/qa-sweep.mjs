@@ -75,6 +75,7 @@ function loadReviewed(slug) {
 
 const HARD = new Set(['capitulo-faltante', 'capitulo-extra', 'texto-perdido', 'schema', 'id-duplicado', 'vocabulario-invalido']);
 const findings = [];
+const sinFuente = [];
 
 function add(type, slug, cap, detail) {
   findings.push({ type, slug, cap, ...detail });
@@ -88,7 +89,11 @@ function sweepBook(slug, info, participants, canonical) {
   const vocab = new Set([...(participants[slug] ?? participants._default ?? [])]);
   const booksVocab = info.participants;
   const code = CODE_BY_SLUG[slug];
-  const srcBook = code && existsSync(join(GATEWAY, `${code}.json`)) ? JSON.parse(readFileSync(join(GATEWAY, `${code}.json`), 'utf8')) : null;
+  const gatewayFile = code ? join(GATEWAY, `${code}.json`) : null;
+  const srcBook = gatewayFile && existsSync(gatewayFile) ? JSON.parse(readFileSync(gatewayFile, 'utf8')) : null;
+  // Sin fuente gateway no se miden texto-vs-fuente ni deuda dry↔aplicado: se avisa
+  // en el resumen en vez de reportar ceros silenciosos (ver ALETHEIA_GATEWAY).
+  if (!srcBook) sinFuente.push(slug);
   const totals = { msgs: 0, revisado: 0, sospechoso: 0, ambiguoSinRevisar: 0 };
 
   for (const cap of info.availableChapters) {
@@ -190,7 +195,7 @@ for (const [slug, info] of books) {
 }
 
 if (asJson) {
-  process.stdout.write(JSON.stringify({ findings, summary }, null, 2) + '\n');
+  process.stdout.write(JSON.stringify({ findings, summary, sinFuente }, null, 2) + '\n');
 } else {
   for (const s of summary) {
     console.log(`${s.slug.padEnd(14)} ${String(s.msgs).padStart(5)} msgs  revisado=${s.revisado}  sospechoso=${s.sospechoso}  ambiguo-sin-revisar=${s.ambiguoSinRevisar}`);
@@ -212,6 +217,9 @@ if (asJson) {
     }
   }
   const hard = findings.filter(f => HARD.has(f.type)).length;
+  if (sinFuente.length) {
+    console.log(`\n# AVISO: sin fuente gateway (${GATEWAY}): ${sinFuente.join(', ')} — revisado/sospechoso/ambiguo-sin-revisar no medidos ahí (define ALETHEIA_GATEWAY)`);
+  }
   console.log(`\n# ${findings.length} hallazgos (${hard} duros) · ${summary.length} libros · exit ${hard ? 1 : 0}`);
 }
 process.exitCode = findings.some(f => HARD.has(f.type)) ? 1 : 0;

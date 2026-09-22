@@ -21,9 +21,12 @@
       job (990 entradas, 37 caps: ciclos de discurso + discursos del torbellino) y exodus (Éx 3,
       21-23, 26-30). Merge-safe sobre reviewed existente, `--apply --write`, 2ª pasada 0 fusionados,
       2ª pasada del barrido: job 734→0 sospechosos, exodus 376→120.
-- [ ] 3.3 Huecos de deuda `ambiguo-sin-revisar` en capítulos publicados (1.388 total; prioridad
-      numeros 253, job 198, exodus 224, genesis 126, juan 118, lucas 100): adjudicar con el
-      método del triage fase3 y re-corrida del barrido.
+- [x] 3.3 Huecos de deuda `ambiguo-sin-revisar` en capítulos publicados: **RESUELTA (0 en 66/66,
+      verificado 2026-09-22)** — los 1.388 del triage se adjudicaron vía 4.2/4.3 durante la
+      ingesta NT; re-corrida con fuentes gateway (`ALETHEIA_GATEWAY`): 0 duros, 0 sospechosos,
+      0 ambiguo-sin-revisar; 147 `deriva-fuente` (categoría aceptada: 124 sobrescritos de salmos
+      + 23 solo-puntuación, incl. GEN 39:12 documentado). `run.test.mjs` 55/55. Además el sweep
+      ahora avisa (`sinFuente`) cuando falta el gateway en vez de reportar ceros silenciosos.
 
 ## 4. Clusters doctrinales (cubeta b) — decisión explícita antes de tocar
 - [ ] 4.1 Salmos: salmista-Narrador vs oráculo divino genuino (salmos 18, 50, 60, 99, 110 del
