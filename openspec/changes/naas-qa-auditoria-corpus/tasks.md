@@ -29,8 +29,8 @@
       ahora avisa (`sinFuente`) cuando falta el gateway en vez de reportar ceros silenciosos.
 
 ## 4. Clusters doctrinales (cubeta b) — decisión explícita antes de tocar
-- [ ] 4.1 Salmos: salmista-Narrador vs oráculo divino genuino (salmos 18, 50, 60, 99, 110 del
-      triage fase3) — decidir por salmo y registrar la doctrina resultante en la spec `speakers`.
+- [x] 4.1 Salmos: salmista-Narrador vs oráculo divino genuino — **RESUELTA junto a 4.3**
+      (ver entrada 4.1 doctrina de Salmos abajo); se marca done la entrada duplicada.
 - [x] 4.2 Evangelios: doctrina del relator conserva voz — **COMPLETADO (2026-09-06)**, los 4
       evangelios con 0 sospechosos: juan 98→0 (81 fixes), mateo 51→0 (39), lucas 84→0 (57),
       marcos 39→0 (25: discursos 7/8/10/12/13/14, 13:4 Discípulos, 14:71 Pedro, 14:72b cita
@@ -43,7 +43,12 @@
 - [x] 4.1 doctrina de Salmos (encabezados y doctrina propia): **RESUELTA junto a 4.3** —
       salmista-Narrador salvo oráculo genuino con marco explícito (50:16→17-23, 60:6→7-8);
       documentado en qa-report.
-- [ ] 4.4 Casos nuevos que arrojen re-corridas: listar aquí con decisión tomada.
+- [x] 4.4 Casos nuevos que arrojen re-corridas: **re-corrida 2026-09-22 (66 libros, 147
+      deriva-fuente vs 135 aceptadas en qa-report) → 12 casos nuevos, todos ACEPTADOS sin
+      cambios** (misma clase aceptada: puntuación/case en fronteras de corte, `capNarr`
+      intencional; verificados verso a verso contra SpaRVG): ezequiel 8:12, 12:23, 20:49;
+      isaias 39:8, 40:6; jeremias 4:10, 14:13, 15:2, 22:18; hechos 17:18, 26:1;
+      hebreos 10:30. 0 duros, 0 sospechosos, 0 ambiguo-sin-revisar en la misma corrida.
 - [x] 4.5 Deuda ambiguo-sin-revisar (414 → 0, 2026-09-06): 408 confirmaciones del estado
       publicado (aplicado == dry, muestras verificadas) + 6 subIds fantasma documentados con el
       verso entero; 0 conflictos. Método y detalle en qa-report.
