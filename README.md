@@ -17,8 +17,8 @@ capítulo para compartir y indexar.
 - **Progreso:** reanuda donde dejaste cada capítulo y recuerda el último capítulo visitado por libro.
 - **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
 - **Sonido e inmersión:** micro-interacción `pop` por mensaje (silenciable) y velocidades Zen / Norm / Fast.
-- **PWA instalable:** manifest standalone, iconos propios y tema amarillo `#FFD600`.
-- **Lectura offline:** service worker (`public/sw.js`) con cache-first del corpus (`/data/**`) y del app-shell; verificado en `e2e/offline.spec.ts`.
+- **PWA instalable:** manifest standalone, iconos propios (+ maskable) y tema amarillo `#FFD600`; banner de instalación nativo (`InstallPrompt`).
+- **Lectura offline:** service worker (`public/sw.js`) con cache-first del corpus (`/data/**`) y del app-shell; lo visitado se sirve sin red y lo no visitado cae a la página `/offline`; verificado en `e2e/offline.spec.ts`.
 - **Accesibilidad:** feed con `aria-live="polite"` (anuncia mensajes nuevos y typing), skip-link "Saltar al contenido", micro-texto en gris con contraste AA y `OptionsMenu` con semántica de diálogo (foco inicial + retorno); verificado en `e2e/a11y.spec.ts`.
 
 ## 🛠️ Stack

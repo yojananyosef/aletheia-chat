@@ -3,13 +3,13 @@
  * Estrategias:
  * - `/data/**` (corpus de capítulos, inmutable): cache-first.
  * - Navegaciones: network-first con fallback a caché (página visitada) y
- *   último recurso al app-shell `/` cacheado en install.
+ *   último recurso a `/offline` (pre-cacheada en install).
  * - `/_next/static/**`, iconos, sonidos, fuentes: stale-while-revalidate.
  * - Resto mismo-origen: network con fallback a caché.
  *
  * Versionar CACHE_PREFIX ante cambios de estrategia para invalidar todo.
  */
-const CACHE_PREFIX = 'aletheia-v1';
+const CACHE_PREFIX = 'aletheia-v2';
 const STATIC_CACHE = `${CACHE_PREFIX}-static`;
 const DATA_CACHE = `${CACHE_PREFIX}-data`;
 const PAGES_CACHE = `${CACHE_PREFIX}-pages`;
@@ -18,7 +18,7 @@ self.addEventListener('install', (event) => {
     event.waitUntil(
         caches
             .open(PAGES_CACHE)
-            .then((cache) => cache.add('/'))
+            .then((cache) => cache.addAll(['/', '/offline']))
             .then(() => self.skipWaiting()),
     );
 });
@@ -88,7 +88,7 @@ self.addEventListener('fetch', (event) => {
     if (request.mode === 'navigate') {
         event.respondWith(
             networkFirst(request, PAGES_CACHE, () =>
-                caches.open(PAGES_CACHE).then((cache) => cache.match('/')),
+                caches.open(PAGES_CACHE).then((cache) => cache.match('/offline')),
             ),
         );
         return;

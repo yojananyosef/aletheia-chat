@@ -15,6 +15,11 @@ cp "$SRC" app/icon.svg
 rsvg-convert -w 512 -h 512 "$SRC" -o public/icon-512.png
 rsvg-convert -w 192 -h 192 "$SRC" -o public/icon-192.png
 
+# Icono maskable (Android adaptativo): arte al 66% centrado sobre negro pleno
+# (el icono principal es full-bleed y el recorte maskable lo mutilaría).
+rsvg-convert -w 340 -h 340 "$SRC" -o "$TMP/logo-340.png"
+magick -size 512x512 xc:"#0A0A0A" "$TMP/logo-340.png" -gravity center -composite public/maskable-512.png
+
 # Apple touch icon (iOS usa 180x180)
 rsvg-convert -w 180 -h 180 "$SRC" -o app/apple-icon.png
 

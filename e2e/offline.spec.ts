@@ -56,4 +56,31 @@ test.describe('PWA offline', () => {
         expect(chapter.messages.length).toBeGreaterThan(0);
         expect(chapter.title).toBe(onlineTitle);
     });
+
+    test('capítulo no visitado sin red cae a la página offline', async ({ page, context }) => {
+        await page.goto('/');
+        await expect(page.getByRole('heading', { name: 'ALETHEIA CHAT' })).toBeVisible();
+
+        const swReady = await page.evaluate(async () => {
+            if (!('serviceWorker' in navigator)) return false;
+            try {
+                await Promise.race([
+                    navigator.serviceWorker.ready,
+                    new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 15000)),
+                ]);
+                return (await navigator.serviceWorker.getRegistration()) != null;
+            } catch {
+                return false;
+            }
+        });
+        test.skip(!swReady, 'SW no registrado (servidor dev reutilizado sin NEXT_PUBLIC_SW=1)');
+
+        // Levítico 1 nunca se visitó en este contexto: sin red debe servir /offline.
+        await context.setOffline(true);
+        await page.goto('/levitico/1');
+        await expect(page.getByRole('heading', { name: /sin conexión/i })).toBeVisible({
+            timeout: 20_000,
+        });
+        await expect(page.getByRole('link', { name: /volver al inicio/i })).toBeVisible();
+    });
 });
