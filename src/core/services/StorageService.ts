@@ -15,6 +15,7 @@ const Keys = {
     settings: `naas:${VERSION}:settings`,
     lastChapter: (bookId: string) => `naas:${VERSION}:lastChapter:${bookId}`,
     progress: (book: string, chapter: number) => `naas:${VERSION}:progress:${book}:${chapter}`,
+    completed: (book: string, chapter: number) => `naas:${VERSION}:completed:${book}:${chapter}`,
     activity: `naas:${VERSION}:activity`,
     lastMessage: (bookId: string) => `naas:${VERSION}:lastMessage:${bookId}`,
 };
@@ -163,6 +164,15 @@ export class StorageService {
     static clearProgress(book: string, chapter: number): void {
         removeRaw(Keys.progress(book, chapter));
         removeRaw(LegacyKeys.progress(book, chapter));
+    }
+
+    /** Capítulo leído hasta el final (desbloquea el libro siguiente). */
+    static markChapterComplete(book: string, chapter: number): void {
+        writeRaw(Keys.completed(book, chapter), '1');
+    }
+
+    static isChapterComplete(book: string, chapter: number): boolean {
+        return readRaw(Keys.completed(book, chapter)) === '1';
     }
 
     static getLastChapter(bookId: string): number | null {

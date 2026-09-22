@@ -123,3 +123,12 @@ describe('StorageService — último mensaje leído', () => {
         expect(StorageService.getLastMessage('exodus')).toBeNull();
     });
 });
+
+describe('StorageService — capítulos completos', () => {
+    it('marca y consulta', () => {
+        expect(StorageService.isChapterComplete('genesis', 1)).toBe(false);
+        StorageService.markChapterComplete('genesis', 1);
+        expect(StorageService.isChapterComplete('genesis', 1)).toBe(true);
+        expect(StorageService.isChapterComplete('genesis', 2)).toBe(false);
+    });
+});

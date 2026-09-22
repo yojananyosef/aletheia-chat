@@ -9,10 +9,11 @@ interface GroupListItemProps {
     book: BookInfo;
     lastChapter: number;
     lastMessage: LastMessage | null;
+    lockHint?: string;
     onSelect: (id: string) => void;
 }
 
-export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter, lastMessage, onSelect }) => {
+export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter, lastMessage, lockHint, onSelect }) => {
     const { isLocked } = book;
     const isNew = !isLocked && lastMessage === null;
 
@@ -28,7 +29,7 @@ export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter,
                 <div className="flex justify-between items-baseline gap-2 mb-0.5">
                     <h2 className="text-lg md:text-xl font-black uppercase tracking-tighter leading-none truncate">{book.name}</h2>
                     {isLocked ? (
-                        <span className="text-[10px] font-bold text-gray-600 shrink-0">Próximamente</span>
+                        <span className="text-[10px] font-bold text-gray-600 shrink-0">{lockHint ?? 'Próximamente'}</span>
                     ) : lastMessage ? (
                         <span className="text-[10px] font-bold text-gray-600 shrink-0">{timeAgo(lastMessage.at)}</span>
                     ) : null}

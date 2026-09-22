@@ -12,6 +12,8 @@ import { getSpiritualLevel } from '../hooks/useSpiritualLevel';
 import { useBookFilter } from '../hooks/useBookFilter';
 import { useHasMounted } from '../hooks/useHasMounted';
 import { StorageService, type LastMessage } from '../core/services/StorageService';
+import { computeUnlocked } from '../utils/unlock';
+import { BIBLE_BOOKS } from '../constants/books';
 import type { FavoriteMessage } from '../core/domain/Message';
 
 import { Surface } from '../components/ui/Surface';
@@ -41,6 +43,17 @@ export const HomeView: React.FC = () => {
         for (const b of filteredBooks) map.set(b.id, StorageService.getLastMessage(b.id));
         return map;
     }, [hasMounted, filteredBooks]);
+
+    // Desbloqueo progresivo en orden canónico (completar el anterior abre el siguiente).
+    // Se re-lee al montar (volver del chat remonta la página).
+    const unlocked = useMemo(() => {
+        if (!hasMounted) return new Set<string>();
+        return computeUnlocked(
+            BIBLE_BOOKS,
+            (b, c) => StorageService.isChapterComplete(b, c),
+            (b) => StorageService.getLastChapter(b) !== null || StorageService.getLastMessage(b) !== null,
+        );
+    }, [hasMounted]);
 
     const handleSelectBook = (id: string) => {
         router.push(`/${id}/${getInitialChapter(id)}`);
@@ -187,15 +200,21 @@ export const HomeView: React.FC = () => {
                         Canal de Revelación Activo
                     </div>
                     <div className="pb-8">
-                        {filteredBooks.map((book) => (
-                            <GroupListItem
-                                key={book.id}
-                                book={book}
-                                lastChapter={hasMounted ? getInitialChapter(book.id) : 1}
-                                lastMessage={lastMessages.get(book.id) ?? null}
-                                onSelect={handleSelectBook}
-                            />
-                        ))}
+                        {filteredBooks.map((book) => {
+                            const isLocked = hasMounted && !unlocked.has(book.id);
+                            const bookIndex = BIBLE_BOOKS.findIndex((b) => b.id === book.id);
+                            const prevName = bookIndex > 0 ? BIBLE_BOOKS[bookIndex - 1].name : null;
+                            return (
+                                <GroupListItem
+                                    key={book.id}
+                                    book={isLocked ? { ...book, isLocked: true } : book}
+                                    lastChapter={hasMounted ? getInitialChapter(book.id) : 1}
+                                    lastMessage={lastMessages.get(book.id) ?? null}
+                                    lockHint={isLocked && prevName ? `Completa ${prevName}` : undefined}
+                                    onSelect={handleSelectBook}
+                                />
+                            );
+                        })}
                         {filteredBooks.length === 0 && (
                             <div className="py-20 text-center opacity-40">
                                 <div className="text-4xl mb-4">📜</div>

@@ -57,7 +57,11 @@ export const useBibleChat = ({
             StorageService.setProgress(book, chapter, currentIndex);
             StorageService.recordReadingDay();
         }
-    }, [book, chapter, currentIndex]);
+        // Leer hasta el final marca el capítulo completo (desbloquea el libro siguiente).
+        if (data && currentIndex >= 0 && currentIndex >= data.messages.length - 1) {
+            StorageService.markChapterComplete(book, chapter);
+        }
+    }, [book, chapter, currentIndex, data]);
 
     // Initial load — runs when book or chapter changes.
     // Con initialData (SSR) se omite el fetch; el progreso guardado se aplica

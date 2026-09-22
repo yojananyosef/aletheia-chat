@@ -15,6 +15,7 @@ capítulo para compartir y indexar.
 - **Compartir:** botón en el header con Web Share API nativa (móvil) y fallback a copiar-enlace en desktop.
 - **Favoritos:** doble toque (o doble Enter) sobre una burbuja para marcar versículos con ❤️.
 - **Progreso:** reanuda donde dejaste cada capítulo y recuerda el último capítulo visitado por libro.
+- **Desbloqueo progresivo:** los libros se abren al completar el anterior (leerlo entero); lo ya visitado nunca se bloquea y los deep-links siempre funcionan para compartir.
 - **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
 - **Lista estilo chats:** cada libro muestra tu último mensaje leído con hora ("hace 2 h") y badge Nuevo si no lo abriste; la racha de lectura diaria se guarda para stories y perfil.
 - **Sonido e inmersión:** micro-interacción `pop` por mensaje (silenciable) y velocidades Zen / Norm / Fast.
