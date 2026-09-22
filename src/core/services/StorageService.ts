@@ -6,6 +6,7 @@ import { computeStreak, toDateKey } from '../../utils/activity';
 export interface NaasSettings {
     isMuted: boolean;
     readingSpeed: number;
+    theme: 'light' | 'dark';
 }
 
 const VERSION = 'v1';
@@ -35,6 +36,7 @@ const LegacyKeys = {
 const SettingsSchema = z.object({
     isMuted: z.boolean(),
     readingSpeed: z.number().positive(),
+    theme: z.enum(['light', 'dark']).default('light'),
 });
 const FavoritesSchema = z.array(FavoriteMessageSchema);
 const ActivitySchema = z.object({
@@ -55,7 +57,7 @@ export interface LastMessage {
 }
 
 const FAVORITES_FALLBACK: FavoriteMessage[] = [];
-const SETTINGS_FALLBACK: NaasSettings = { isMuted: false, readingSpeed: 1 };
+const SETTINGS_FALLBACK: NaasSettings = { isMuted: false, readingSpeed: 1, theme: 'light' };
 
 function readRaw(key: string): string | null {
     if (typeof window === 'undefined') return null;
@@ -125,7 +127,7 @@ export class StorageService {
         const legacySpeed = readRaw(LegacyKeys.readingSpeed);
         if (legacyMuted === null && legacySpeed === null) return SETTINGS_FALLBACK;
 
-        const migrated: NaasSettings = {
+        const migrated = {
             isMuted: legacyMuted === 'true',
             readingSpeed: Number(legacySpeed) || SETTINGS_FALLBACK.readingSpeed,
         };

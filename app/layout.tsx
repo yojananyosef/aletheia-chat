@@ -67,7 +67,7 @@ export default function RootLayout({
             <head>
                 <link rel="preload" href="/sounds/pop.mp3" as="audio" type="audio/mpeg" />
             </head>
-            <body className="h-full overflow-hidden bg-white text-[#0A0A0A] antialiased touch-manipulation">
+            <body className="h-full overflow-hidden bg-white text-[#0A0A0A] antialiased touch-manipulation dark:bg-[#0A0A0A] dark:text-white">
                 <SkipLink />
                 <div id="root" className="h-full overflow-hidden">{children}</div>
             </body>

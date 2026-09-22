@@ -2,9 +2,9 @@ import Link from 'next/link';
 
 export default function NotFound() {
     return (
-        <div className="h-full w-full flex flex-col items-center justify-center py-20 px-6 text-center">
-            <h1 className="font-black uppercase text-2xl tracking-widest mb-2">Página no encontrada</h1>
-            <p className="text-sm text-gray-600 mb-8 max-w-md">
+        <div className="h-full w-full flex flex-col items-center justify-center py-20 px-6 text-center bg-white dark:bg-[#0A0A0A]">
+            <h1 className="font-black uppercase text-2xl tracking-widest mb-2 dark:text-white">Página no encontrada</h1>
+            <p className="text-sm text-gray-600 mb-8 max-w-md dark:text-gray-300">
                 La página que buscas no existe o ha sido movida.
             </p>
             <Link

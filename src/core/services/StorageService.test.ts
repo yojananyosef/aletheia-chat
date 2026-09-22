@@ -43,13 +43,20 @@ describe('StorageService — favoritos', () => {
 
 describe('StorageService — settings', () => {
     it('devuelve defaults cuando no hay nada guardado', () => {
-        expect(StorageService.getSettings()).toEqual({ isMuted: false, readingSpeed: 1 });
+        expect(StorageService.getSettings()).toEqual({ isMuted: false, readingSpeed: 1, theme: 'light' });
     });
 
     it('migra isMuted y readingSpeedMultiplier legacy', () => {
         window.localStorage.setItem('isMuted', 'true');
         window.localStorage.setItem('readingSpeedMultiplier', '2');
-        expect(StorageService.getSettings()).toEqual({ isMuted: true, readingSpeed: 2 });
+        expect(StorageService.getSettings()).toEqual({ isMuted: true, readingSpeed: 2, theme: 'light' });
+    });
+
+    it('conserva theme guardado y rechaza valor inválido', () => {
+        window.localStorage.setItem('naas:v1:settings', JSON.stringify({ isMuted: false, readingSpeed: 1, theme: 'dark' }));
+        expect(StorageService.getSettings().theme).toBe('dark');
+        window.localStorage.setItem('naas:v1:settings', JSON.stringify({ isMuted: false, readingSpeed: 1, theme: 'neon' }));
+        expect(StorageService.getSettings().theme).toBe('light');
     });
 });
 

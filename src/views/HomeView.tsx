@@ -2,11 +2,12 @@
 
 import React, { useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { Search, MoreVertical, Heart, ShieldCheck } from 'lucide-react';
+import { Search, MoreVertical, Heart, ShieldCheck, CircleUserRound, Sun, Moon } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
 import { useUIState } from '../context/UIStateContext';
 import { usePersistentState } from '../hooks/usePersistentState';
+import { useSettings } from '../hooks/useSettings';
 import { useFavoritesToggle } from '../hooks/useFavoritesToggle';
 import { getSpiritualLevel } from '../hooks/useSpiritualLevel';
 import { useBookFilter } from '../hooks/useBookFilter';
@@ -36,6 +37,7 @@ export const HomeView: React.FC = () => {
 
     const { favorites, getInitialChapter } = usePersistentState();
     const { toggleFavorite } = useFavoritesToggle();
+    const { theme, setTheme } = useSettings();
     const { filteredBooks } = useBookFilter(homeSearchQuery);
     const userLevel = getSpiritualLevel(favorites.length);
     const { stories } = useStories(hasMounted);
@@ -48,6 +50,9 @@ export const HomeView: React.FC = () => {
         for (const b of filteredBooks) map.set(b.id, StorageService.getLastMessage(b.id));
         return map;
     }, [hasMounted, filteredBooks]);
+
+    const isComplete = (bookId: string, chapter: number) =>
+        hasMounted && StorageService.isChapterComplete(bookId, chapter);
 
     // Desbloqueo progresivo en orden canónico (completar el anterior abre el siguiente).
     // Se re-lee al montar (volver del chat remonta la página).
@@ -80,6 +85,13 @@ export const HomeView: React.FC = () => {
                         </div>
                         <div className="flex gap-3">
                                 <Surface
+                                    ariaLabel="Abrir perfil"
+                                    onClick={() => router.push('/perfil')}
+                                className="p-2 rounded-full border-2 transition-colors active:scale-95 bg-white"
+                            >
+                                <CircleUserRound className="w-5 h-5" />
+                            </Surface>
+                                <Surface
                                     ariaLabel={showHomeSearch ? 'Cerrar búsqueda' : 'Buscar libro'}
                                     onClick={() => { setShowHomeSearch(!showHomeSearch); if (showHomeSearch) setHomeSearchQuery(''); }}
                                 className={`p-2 rounded-full border-2 transition-colors active:scale-95 ${showHomeSearch ? 'bg-black text-[#FFD600]' : 'bg-white'}`}
@@ -111,6 +123,28 @@ export const HomeView: React.FC = () => {
                                                 >
                                                     <Heart className="w-4 h-4" /> Mensajes Destacados
                                                 </button>
+                                                <div className="border-t-2 border-black/10 my-1"></div>
+                                                <div className="p-3 flex items-center justify-between gap-2">
+                                                    <span className="text-[9px] font-black uppercase tracking-[0.2em] text-gray-600">Tema</span>
+                                                    <div className="flex border-2 border-black" role="group" aria-label="Tema de la app">
+                                                        <button
+                                                            onClick={() => setTheme('light')}
+                                                            aria-label="Tema claro"
+                                                            aria-pressed={theme === 'light'}
+                                                            className={`p-2 transition-colors ${theme === 'light' ? 'bg-[#FFD600]' : 'bg-white hover:bg-gray-100'}`}
+                                                        >
+                                                            <Sun className="w-4 h-4" strokeWidth={2.5} />
+                                                        </button>
+                                                        <button
+                                                            onClick={() => setTheme('dark')}
+                                                            aria-label="Tema oscuro"
+                                                            aria-pressed={theme === 'dark'}
+                                                            className={`p-2 transition-colors border-l-2 border-black ${theme === 'dark' ? 'bg-black text-[#FFD600]' : 'bg-white hover:bg-gray-100'}`}
+                                                        >
+                                                            <Moon className="w-4 h-4" strokeWidth={2.5} />
+                                                        </button>
+                                                    </div>
+                                                </div>
                                                 <div className="border-t-2 border-black/10 my-1"></div>
                                                 <div className="p-3">
                                                     <div className="text-[9px] font-black uppercase tracking-[0.2em] mb-3 text-gray-600 border-b border-black/5 pb-1">Identidad Espiritual</div>
@@ -200,10 +234,7 @@ export const HomeView: React.FC = () => {
                     </AnimatePresence>
                 </header>
 
-                <section data-aida="interest" className="flex-1 overflow-y-auto bg-white no-scrollbar">
-                    <div className="italic py-3 text-center text-[9px] text-gray-600 font-bold uppercase tracking-widest bg-gray-50 border-b-2 border-gray-100">
-                        Canal de Revelación Activo
-                    </div>
+                <section data-aida="interest" className="flex-1 overflow-y-auto bg-white no-scrollbar dark:bg-[#0A0A0A]">
                     {hasMounted && stories.length > 0 && (
                         <StoriesRow stories={stories} onOpen={setStoryIndex} />
                     )}
@@ -219,6 +250,7 @@ export const HomeView: React.FC = () => {
                                     lastChapter={hasMounted ? getInitialChapter(book.id) : 1}
                                     lastMessage={lastMessages.get(book.id) ?? null}
                                     lockHint={isLocked && prevName ? `Completa ${prevName}` : undefined}
+                                    isComplete={isComplete(book.id, hasMounted ? getInitialChapter(book.id) : 1)}
                                     onSelect={handleSelectBook}
                                 />
                             );

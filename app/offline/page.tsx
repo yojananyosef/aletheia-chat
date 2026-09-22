@@ -10,12 +10,12 @@ export const metadata: Metadata = {
 /** Fallback offline del service worker: página estática, sin JS ni datos. */
 export default function OfflinePage() {
     return (
-        <main className="min-h-full flex flex-col items-center justify-center gap-4 p-8 text-center bg-white font-sans">
-            <div className="bg-black p-4 border-2 border-black shadow-[4px_4px_0_#0A0A0A]">
+        <main className="min-h-full flex flex-col items-center justify-center gap-4 p-8 text-center bg-white font-sans dark:bg-[#0A0A0A]">
+            <div className="bg-black p-4 border-2 border-black shadow-[4px_4px_0_#0A0A0A] dark:border-white">
                 <WifiOff className="w-10 h-10 text-[#FFD600]" strokeWidth={2.5} />
             </div>
-            <h1 className="text-2xl font-black uppercase tracking-tighter">Sin conexión</h1>
-            <p className="text-sm font-medium text-gray-600 max-w-xs">
+            <h1 className="text-2xl font-black uppercase tracking-tighter dark:text-white">Sin conexión</h1>
+            <p className="text-sm font-medium text-gray-600 max-w-xs dark:text-gray-300">
                 Este capítulo aún no está guardado en tu dispositivo. Vuelve al inicio:
                 todo lo que ya visitaste sigue disponible sin internet.
             </p>

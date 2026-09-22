@@ -130,7 +130,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
     const subtitle = lastSectionTitle ? lastSectionTitle.text : (data?.title || '');
 
     return (
-        <div className="h-full w-full bg-white overflow-hidden font-sans">
+        <div className="h-full w-full bg-white overflow-hidden font-sans dark:bg-[#0A0A0A]">
             <main id="contenido" tabIndex={-1} data-viewport-scope="chat" className="w-full flex flex-col h-full relative overflow-hidden">
                 <ChatHeader
                     book={bookConfig} chapter={chapter} subtitle={subtitle}

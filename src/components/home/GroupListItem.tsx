@@ -1,5 +1,5 @@
 import React from 'react';
-import { Lock } from 'lucide-react';
+import { CheckCheck, Lock } from 'lucide-react';
 import { BookInfo } from '../../types/bible';
 import { Surface, Avatar } from '../ui/Surface';
 import { timeAgo } from '../../utils/activity';
@@ -10,10 +10,12 @@ interface GroupListItemProps {
     lastChapter: number;
     lastMessage: LastMessage | null;
     lockHint?: string;
+    /** El capítulo retomado está completo: doble check azul. */
+    isComplete?: boolean;
     onSelect: (id: string) => void;
 }
 
-export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter, lastMessage, lockHint, onSelect }) => {
+export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter, lastMessage, lockHint, isComplete, onSelect }) => {
     const { isLocked } = book;
     const isNew = !isLocked && lastMessage === null;
 
@@ -30,9 +32,19 @@ export const GroupListItem: React.FC<GroupListItemProps> = ({ book, lastChapter,
                     <h2 className="text-lg md:text-xl font-black uppercase tracking-tighter leading-none truncate">{book.name}</h2>
                     {isLocked ? (
                         <span className="text-[10px] font-bold text-gray-600 shrink-0">{lockHint ?? 'Próximamente'}</span>
-                    ) : lastMessage ? (
-                        <span className="text-[10px] font-bold text-gray-600 shrink-0">{timeAgo(lastMessage.at)}</span>
-                    ) : null}
+                    ) : (
+                        <span className="flex items-center gap-1 shrink-0">
+                            {isComplete && (
+                                <>
+                                    <CheckCheck className="w-3.5 h-3.5 text-blue-500" aria-hidden="true" />
+                                    <span className="sr-only">Capítulo completado</span>
+                                </>
+                            )}
+                            {lastMessage && (
+                                <span className="text-[10px] font-bold text-gray-600">{timeAgo(lastMessage.at)}</span>
+                            )}
+                        </span>
+                    )}
                 </div>
                 <div className="flex items-center justify-between gap-2">
                     <p className="text-sm text-gray-600 font-medium truncate leading-tight pr-2">

@@ -19,6 +19,7 @@ capítulo para compartir y indexar.
 - **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
 - **Lista estilo chats:** cada libro muestra tu último mensaje leído con hora ("hace 2 h") y badge Nuevo si no lo abriste; la racha de lectura diaria se guarda para stories y perfil.
 - **Stories:** versículo del día rotativo, racha y favoritos en visor fullscreen (tap avanza, auto-avance, compartir); los libros se desbloquean al completar el anterior.
+- **Perfil y tema:** pantalla `/perfil` con identidad espiritual, racha, capítulos completos y favoritos recientes; modo oscuro manual (escritorio oscuro + tarjetas papel) con doble check azul de visto por capítulo.
 - **Sonido e inmersión:** micro-interacción `pop` por mensaje (silenciable) y velocidades Zen / Norm / Fast.
 - **PWA instalable:** manifest standalone, iconos propios (+ maskable) y tema amarillo `#FFD600`; banner de instalación nativo (`InstallPrompt`).
 - **Lectura offline:** service worker (`public/sw.js`) con cache-first del corpus (`/data/**`) y del app-shell; lo visitado se sirve sin red y lo no visitado cae a la página `/offline`; verificado en `e2e/offline.spec.ts`.
@@ -60,6 +61,7 @@ node --test scripts/attribute-speakers/run.test.mjs   # Regresión del pipeline 
 | Ruta | Descripción |
 |------|-------------|
 | `/` | Home: catálogo de libros, búsqueda y favoritos |
+| `/perfil` | Perfil: racha, stats y favoritos recientes (no indexada) |
 | `/[book]/[chapter]` | Chat de lectura (ej. `/genesis/1`) — prerenderizado con `generateStaticParams`, 404 para combinaciones inválidas |
 
 ## 🏗️ Arquitectura

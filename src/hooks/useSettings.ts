@@ -3,7 +3,7 @@
 import { useCallback, useSyncExternalStore } from 'react';
 import { StorageService, NaasSettings } from '../core/services/StorageService';
 
-const DEFAULT_SETTINGS: NaasSettings = { isMuted: false, readingSpeed: 1 };
+const DEFAULT_SETTINGS: NaasSettings = { isMuted: false, readingSpeed: 1, theme: 'light' };
 
 type SettingsListener = () => void;
 const listeners = new Set<SettingsListener>();
@@ -59,10 +59,16 @@ export const useSettings = () => {
         writeSettings({ ...readSettings(), readingSpeed });
     }, []);
 
+    const setTheme = useCallback((theme: 'light' | 'dark') => {
+        writeSettings({ ...readSettings(), theme });
+    }, []);
+
     return {
         isMuted: settings.isMuted,
         setIsMuted,
         readingSpeed: settings.readingSpeed,
-        setReadingSpeed
+        setReadingSpeed,
+        theme: settings.theme,
+        setTheme
     };
 };

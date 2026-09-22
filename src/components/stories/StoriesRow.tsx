@@ -17,7 +17,7 @@ const ICONS: Record<string, React.ReactNode> = {
 export const StoriesRow: React.FC<StoriesRowProps> = ({ stories, onOpen }) => {
     if (stories.length === 0) return null;
     return (
-        <div className="border-b-2 border-black/10 bg-white px-4 py-3">
+        <div className="border-b-2 border-black/10 bg-white px-4 py-3 dark:bg-[#0A0A0A] dark:border-white/10">
             <div className="flex gap-4 overflow-x-auto no-scrollbar" role="list" aria-label="Historias">
                 {stories.map((s, i) => (
                     <button
