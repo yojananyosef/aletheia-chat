@@ -10,6 +10,8 @@ interface InputBarProps {
     error: string | null;
     onManualNext: () => void;
     onNextChapter: () => void;
+    onPrevChapter: () => void;
+    hasPrev: boolean;
     onGoHome: () => void;
 }
 
@@ -63,12 +65,23 @@ export const InputBar: React.FC<InputBarProps> = (props) => {
                         Regresar a la Selección
                     </button>
                 ) : props.isComplete ? (
-                    <button
-                        onClick={props.onNextChapter}
-                        className="w-full py-4 bg-[#FFD600] border-4 border-black font-black text-base md:text-2xl uppercase shadow-[6px_6px_0_#0A0A0A] flex items-center justify-center active:scale-95 transition-all"
-                    >
-                        <BookOpen className="w-6 h-6 mr-3" /> Siguiente Capítulo
-                    </button>
+                    <div className="w-full flex items-center gap-3">
+                        {props.hasPrev && (
+                            <button
+                                onClick={props.onPrevChapter}
+                                aria-label="Capítulo anterior"
+                                className="py-4 px-4 bg-white border-4 border-black font-black text-base md:text-2xl uppercase shadow-[6px_6px_0_#0A0A0A] flex items-center justify-center active:scale-95 transition-all shrink-0"
+                            >
+                                ← <span className="hidden md:inline ml-2">Anterior</span>
+                            </button>
+                        )}
+                        <button
+                            onClick={props.onNextChapter}
+                            className="flex-1 py-4 bg-[#FFD600] border-4 border-black font-black text-base md:text-2xl uppercase shadow-[6px_6px_0_#0A0A0A] flex items-center justify-center active:scale-95 transition-all"
+                        >
+                            <BookOpen className="w-6 h-6 mr-3" /> Siguiente Capítulo
+                        </button>
+                    </div>
                 ) : null}
             </div>
         </div>

@@ -193,6 +193,19 @@ test.describe('Chat', () => {
         await expect(page).toHaveURL(/\/$/);
     });
 
+    test('capítulo anterior vuelve al capítulo previo y reanuda', async ({ page }) => {
+        // Progreso al final de Génesis 2 → estado completo con botón Anterior.
+        await page.goto('/genesis/2');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await page.evaluate(() => window.localStorage.setItem('naas:v1:progress:genesis:2', '29'));
+        await page.reload();
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+
+        await page.getByRole('button', { name: /capítulo anterior/i }).click();
+        await expect(page).toHaveURL(/\/genesis\/1/);
+        await expect(page.getByRole('heading', { name: /Génesis/ })).toBeVisible();
+    });
+
     test('mensaje de Dios pausa y requiere tap (no auto-avanza)', async ({ page }) => {
         // Velocidad rápida para no esperar los delays de lectura en el test
         await page.goto('/genesis/1');

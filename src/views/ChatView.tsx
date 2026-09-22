@@ -110,6 +110,14 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
         }
     };
 
+    const prevChapter = bookConfig
+        ? bookConfig.availableChapters[bookConfig.availableChapters.indexOf(chapter) - 1]
+        : undefined;
+
+    const handlePrevChapter = () => {
+        if (prevChapter !== undefined) navigateToChapter(prevChapter);
+    };
+
     const lastSectionTitle = visibleMessages.slice().reverse().find(m => m.isTitle());
     const subtitle = lastSectionTitle ? lastSectionTitle.text : (data?.title || '');
 
@@ -185,7 +193,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
                     <InputBar
                         nextMessage={nextMessage} isAdvancing={isAdvancing} isNextUser={canAdvanceManually}
                         isComplete={!nextMessage && (currentIndex >= 0) && !!data && !isNavigating} error={error}
-                        onManualNext={handleManualNext} onNextChapter={handleNextChapter} onGoHome={() => router.push('/')}
+                        onManualNext={handleManualNext} onNextChapter={handleNextChapter} onPrevChapter={handlePrevChapter} hasPrev={prevChapter !== undefined} onGoHome={() => router.push('/')}
                     />
                 </div>
 
