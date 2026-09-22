@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useMemo } from 'react';
+import React, { useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Search, MoreVertical, Heart, ShieldCheck } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
@@ -13,12 +13,15 @@ import { useBookFilter } from '../hooks/useBookFilter';
 import { useHasMounted } from '../hooks/useHasMounted';
 import { StorageService, type LastMessage } from '../core/services/StorageService';
 import { computeUnlocked } from '../utils/unlock';
+import { useStories } from '../hooks/useStories';
 import { BIBLE_BOOKS } from '../constants/books';
 import type { FavoriteMessage } from '../core/domain/Message';
 
 import { Surface } from '../components/ui/Surface';
 import { GroupListItem } from '../components/home/GroupListItem';
 import { FavoritesDrawer } from '../components/home/FavoritesDrawer';
+import { StoriesRow } from '../components/stories/StoriesRow';
+import { StoryViewer } from '../components/stories/StoryViewer';
 
 export const HomeView: React.FC = () => {
     const router = useRouter();
@@ -35,6 +38,8 @@ export const HomeView: React.FC = () => {
     const { toggleFavorite } = useFavoritesToggle();
     const { filteredBooks } = useBookFilter(homeSearchQuery);
     const userLevel = getSpiritualLevel(favorites.length);
+    const { stories } = useStories(hasMounted);
+    const [storyIndex, setStoryIndex] = useState<number | null>(null);
 
     // Snippet por libro (último mensaje leído): solo cliente, se re-lee al montar.
     const lastMessages = useMemo(() => {
@@ -199,6 +204,9 @@ export const HomeView: React.FC = () => {
                     <div className="italic py-3 text-center text-[9px] text-gray-600 font-bold uppercase tracking-widest bg-gray-50 border-b-2 border-gray-100">
                         Canal de Revelación Activo
                     </div>
+                    {hasMounted && stories.length > 0 && (
+                        <StoriesRow stories={stories} onOpen={setStoryIndex} />
+                    )}
                     <div className="pb-8">
                         {filteredBooks.map((book) => {
                             const isLocked = hasMounted && !unlocked.has(book.id);
@@ -230,6 +238,14 @@ export const HomeView: React.FC = () => {
                     favorites={favorites}
                     onToggleLike={handleToggleLike}
                 />
+                {storyIndex !== null && stories[storyIndex] && (
+                    <StoryViewer
+                        stories={stories}
+                        index={storyIndex}
+                        onIndexChange={setStoryIndex}
+                        onClose={() => setStoryIndex(null)}
+                    />
+                )}
             </main>
         </div>
     );
