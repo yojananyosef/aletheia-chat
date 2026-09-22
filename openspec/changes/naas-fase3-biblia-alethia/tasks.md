@@ -15,7 +15,13 @@
 ## 2. Heurística
 - [x] 2.1 `run.mjs --book genesis --chapter 3 --source SpaRVG` parte discurso y asigna speaker; `--dry-run` imprime tabla verso→speaker→rule→confidence (GEN1 0 sayer-ambiguos, GEN3 4 ambiguos con defaults correctos).
 - [x] 2.2 Fixtures `GEN 1, GEN 3, EXO 3` en `run.test.mjs`; `node --test scripts/attribute-speakers/run.test.mjs` 4/4 verde.
-- [ ] 2.3 `--write` emite `public/data/<slug>/<cap>.json` válido `ChapterDataSchema` (pendiente: regenerar Génesis 1-3 + Éxodo 1-4 y validar e2e pausas Dios).
+- [x] 2.3 `--write` emite `public/data/<slug>/<cap>.json` válido `ChapterDataSchema`: **VERIFICADO
+      2026-09-22 en variante segura (sin tocar lo publicado)** — regen de Génesis 1-3 + Éxodo 1-4
+      a `/tmp` con la construcción exacta de `main()`: schema 7/7 OK; diff vs publicado acotado
+      al valor de la revisión humana (24 hablantes adjudicados, 1 texto partido en ÉXO 4:27,
+      resto re-segmentaciones de ids); pausas Dios validadas en e2e sobre lo publicado
+      (`chat.spec.ts`: Génesis 1 existente + Éxodo 3 nuevo). NOTA: no re-ejecutar `--write`
+      sobre `public/data/` — emite heurística cruda y aplastaría `reviewed/` + fixes manuales.
 
 ## 3. LLM review
 - [x] 3.1 `llm-review.mjs` genera cola con cache sha1, valida vocabulario, fusiona con `--apply --write` sobre el JSON existente (conserva títulos/headings).

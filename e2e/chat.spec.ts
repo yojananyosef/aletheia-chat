@@ -214,6 +214,27 @@ test.describe('Chat', () => {
         await expect(page.getByText('Sea la luz; y fue la luz.')).toBeVisible();
     });
 
+    test('Éxodo 3: Dios pausa y requiere tap (no auto-avanza)', async ({ page }) => {
+        // Cobertura 2.3 sobre lo publicado: tras el título (1 tap) los narradores
+        // fluyen en auto y Dios (v2) pide tap sin auto-avance.
+        await page.goto('/exodus/3');
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+        await page.evaluate(() => window.localStorage.setItem('naas:v1:settings', JSON.stringify({ isMuted: true, readingSpeed: 0.25 })));
+        await page.reload();
+        await expect(page.getByTestId('chapter-prerender')).toHaveCount(0, { timeout: 20_000 });
+
+        const titleBtn = page.getByRole('button', { name: /aparición de dios en la zarza/i });
+        await titleBtn.click();
+
+        const sendGod = page.getByRole('button', { name: /enviar mensaje de dios/i });
+        await expect(sendGod).toBeVisible({ timeout: 30_000 });
+        await page.waitForTimeout(2000);
+        await expect(sendGod).toBeVisible();
+
+        await sendGod.click();
+        await expect(page.getByText(/la zarza no se consumía/i)).toBeVisible();
+    });
+
     test('doble-tap en un versículo lo marca como favorito y persiste tras recargar', async ({ page }) => {
         await page.goto('/genesis/1');
 

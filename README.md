@@ -18,6 +18,7 @@ capítulo para compartir y indexar.
 - **Sonido e inmersión:** micro-interacción `pop` por mensaje (silenciable) y velocidades Zen / Norm / Fast.
 - **PWA instalable:** manifest standalone, iconos propios y tema amarillo `#FFD600`.
 - **Lectura offline:** service worker (`public/sw.js`) con cache-first del corpus (`/data/**`) y del app-shell; verificado en `e2e/offline.spec.ts`.
+- **Accesibilidad:** feed con `aria-live="polite"` (anuncia mensajes nuevos y typing), skip-link "Saltar al contenido", micro-texto en gris con contraste AA y `OptionsMenu` con semántica de diálogo (foco inicial + retorno); verificado en `e2e/a11y.spec.ts`.
 
 ## 🛠️ Stack
 
@@ -85,22 +86,35 @@ Los capítulos viven en `public/data/[libro]/[capitulo].json`:
 {
   "book": "Génesis",
   "chapter": 1,
-  "title": "La Creación",
+  "title": "Génesis 1",
   "messages": [
     {
-      "id": "g1_1",
-      "speaker": "Narrador",
+      "id": "g1_sec1_6cba",
+      "speaker": "Sistema",
       "verse": 1,
-      "text": "En el principio, Dios creó los cielos y la tierra."
+      "text": "Creación del cielo y de la tierra.",
+      "isSectionTitle": true
+    },
+    {
+      "id": "g1_3b",
+      "speaker": "Dios",
+      "verse": 3,
+      "text": "Sea la luz; y fue la luz."
     }
   ]
 }
 ```
 
+Los versos partidos en varias burbujas usan sub-ids (`g1_3a`, `g1_3b`); los títulos
+de sección son mensajes `Sistema` con `isSectionTitle: true`.
+
 ## 📜 Fuentes bíblicas y licencias
 
 El corpus de `public/data/` se genera con `scripts/attribute-speakers/` desde
-`/home/Johan/orca/aletheia-gateway/public/data/bibles/`:
+`/home/Johan/orca/aletheia-gateway/public/data/bibles/` (o la ruta que indique
+la variable `ALETHEIA_GATEWAY`, p. ej. otro clon de `aletheia-gateway`):
+sin fuente gateway, `qa-sweep.mjs` verifica integridad y vocabulario pero avisa
+que la deuda dry↔aplicado queda sin medir (`sinFuente`).
 
 | Fuente | Libros | Uso |
 |--------|--------|-----|
