@@ -3,6 +3,7 @@ import { ArrowLeft, ChevronDown, MoreVertical } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { BookInfo } from '../../types/bible';
 import { OptionsMenu } from './OptionsMenu';
+import { ShareButton } from './ShareButton';
 import { useDismissOnEscape } from '../../hooks/useDismissOnEscape';
 
 interface ChatHeaderProps {
@@ -71,6 +72,9 @@ export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
             </div>
 
             <div className="flex items-center gap-2 relative">
+                {props.book && (
+                    <ShareButton bookId={props.book.id} bookName={props.book.name} chapter={props.chapter} />
+                )}
                 <div className="relative">
                     <button
                         ref={optionsBtnRef}

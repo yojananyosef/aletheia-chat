@@ -12,6 +12,7 @@ capítulo para compartir y indexar.
 
 - **Lectura tipo chat:** la narración del Narrador avanza sola a un ritmo de lectura natural; Dios y los personajes **pausan** y esperan tu toque (con preview y botón de envío).
 - **Rutas reales por capítulo:** deep-linking (`/genesis/1`), back-button y metadata por libro/capítulo; prerenderizado estático de los 1.189 capítulos publicados con 404 para combinaciones inválidas.
+- **Compartir:** botón en el header con Web Share API nativa (móvil) y fallback a copiar-enlace en desktop.
 - **Favoritos:** doble toque (o doble Enter) sobre una burbuja para marcar versículos con ❤️.
 - **Progreso:** reanuda donde dejaste cada capítulo y recuerda el último capítulo visitado por libro.
 - **Centro de control:** catálogo con búsqueda (sin tildes: "genesis" encuentra Génesis), favoritos y progresión espiritual por niveles según lo que guardas.
