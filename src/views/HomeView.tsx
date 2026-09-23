@@ -9,7 +9,7 @@ import { useUIState } from '../context/UIStateContext';
 import { usePersistentState } from '../hooks/usePersistentState';
 import { useSettings } from '../hooks/useSettings';
 import { useFavoritesToggle } from '../hooks/useFavoritesToggle';
-import { getSpiritualLevel } from '../hooks/useSpiritualLevel';
+import { computeXP, getLevelByXP } from '../utils/xp';
 import { useBookFilter } from '../hooks/useBookFilter';
 import { useHasMounted } from '../hooks/useHasMounted';
 import { StorageService, type LastMessage } from '../core/services/StorageService';
@@ -39,7 +39,18 @@ export const HomeView: React.FC = () => {
     const { toggleFavorite } = useFavoritesToggle();
     const { theme, setTheme } = useSettings();
     const { filteredBooks } = useBookFilter(homeSearchQuery);
-    const userLevel = getSpiritualLevel(favorites.length);
+    // XP combinada: capítulos + favoritos (topados) + racha.
+    const userXP = useMemo(() => {
+        if (!hasMounted) return 0;
+        let chapters = 0;
+        for (const b of BIBLE_BOOKS) {
+            for (const c of b.availableChapters) {
+                if (StorageService.isChapterComplete(b.id, c)) chapters++;
+            }
+        }
+        return computeXP({ chapters, favorites: favorites.length, streak: StorageService.getStreak() });
+    }, [hasMounted, favorites.length]);
+    const userLevel = getLevelByXP(userXP);
     const { stories } = useStories(hasMounted);
     const [storyIndex, setStoryIndex] = useState<number | null>(null);
 
@@ -177,14 +188,14 @@ export const HomeView: React.FC = () => {
                                                             </div>
                                                             <div className="flex justify-between items-start pt-1">
                                                                 <div className="flex flex-col">
-                                                                    <div className="text-[12px] font-black uppercase leading-none">{favorites.length}</div>
+                                                                    <div className="text-[12px] font-black uppercase leading-none">{userXP}</div>
                                                                     <div className="text-[8px] font-bold text-[#57534E] dark:text-[#A8A29E] uppercase tracking-widest mt-1">
-                                                                        {favorites.length === 1 ? 'Versículo' : 'Versículos'}
+                                                                        XP total
                                                                     </div>
                                                                 </div>
                                                                 {userLevel.nextTitle && (
                                                                     <div className="text-right">
-                                                                        <div className="text-[8px] text-[#57534E] dark:text-[#A8A29E] font-bold uppercase leading-none mb-1">Siguiente Consagración</div>
+                                                                         <div className="text-[8px] text-[#57534E] dark:text-[#A8A29E] font-bold uppercase leading-none mb-1">Siguiente nivel</div>
                                                                         <div className="text-[11px] font-black uppercase tracking-tight">{userLevel.nextTitle}</div>
                                                                     </div>
                                                                 )}
