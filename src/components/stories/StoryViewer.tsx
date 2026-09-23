@@ -59,7 +59,7 @@ export const StoryViewer: React.FC<StoryViewerProps> = ({
                 role="dialog"
                 aria-modal="true"
                 aria-label={`Historia: ${story.title}`}
-                className="relative w-full max-w-md bg-[#FFD600] border-4 border-black shadow-[8px_8px_0_rgba(0,0,0,0.5)] p-6 pt-5 flex flex-col min-h-[60vh]"
+                className="relative w-full max-w-md bg-[#FFD600] text-black border-[3px] border-black shadow-[8px_8px_0_rgba(0,0,0,0.5)] p-6 pt-5 flex flex-col min-h-[60vh]"
             >
                 {/* Progreso por historia */}
                 <div className="flex gap-1.5 mb-5" aria-hidden="true">
@@ -77,9 +77,9 @@ export const StoryViewer: React.FC<StoryViewerProps> = ({
                     ))}
                 </div>
 
-                <p className="text-[10px] font-black uppercase tracking-[0.25em] mb-2">{story.eyebrow}</p>
-                <h2 className="text-2xl font-black uppercase tracking-tighter italic mb-4">{story.title}</h2>
-                <p className="text-lg font-medium leading-snug flex-1">&ldquo;{story.text}&rdquo;</p>
+                <p className="text-[10px] font-bold uppercase tracking-[0.2em] mb-2">{story.eyebrow}</p>
+                <h2 className="text-2xl font-black uppercase tracking-tight mb-4">{story.title}</h2>
+                <p className="text-lg font-medium leading-relaxed flex-1">&ldquo;{story.text}&rdquo;</p>
 
                 <div className="flex items-center justify-between mt-6 relative z-10">
                     <span className="text-[10px] font-black uppercase tracking-widest opacity-60">
@@ -97,7 +97,7 @@ export const StoryViewer: React.FC<StoryViewerProps> = ({
                             onClick={onClose}
                             autoFocus
                             aria-label="Cerrar historias"
-                            className="p-2 border-2 border-black bg-white hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none"
+                            className="p-2 border-2 border-[#141413] dark:border-[#EDE9E1] bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1] hover:bg-black hover:text-[#EDE9E1] dark:hover:bg-[#EDE9E1] dark:hover:text-black transition-all shadow-[2px_2px_0_#141413] dark:shadow-[2px_2px_0_#EDE9E1] active:translate-y-0.5 active:shadow-none"
                         >
                             <X className="w-6 h-6" strokeWidth={3} />
                         </button>

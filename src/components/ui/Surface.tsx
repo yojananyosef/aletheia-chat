@@ -52,10 +52,10 @@ export const Surface: React.FC<SurfaceProps> = ({
             data-cta={dataCta}
             aria-label={ariaLabel}
             className={`
-                border-2 border-[#0A0A0A]
+                rounded-none border-2 border-[#141413] dark:border-white/20
                 transition-all duration-150 ease-out
-                ${isPrimary ? 'bg-[#FFD600]' : active ? 'bg-gray-100' : className.includes('bg-') ? '' : 'bg-white'}
-                ${interactive ? `cursor-pointer ${elevation ? `hover:-translate-y-0.5 ${hasOwnShadow ? '' : 'shadow-[3px_3px_0_#0A0A0A]'}` : 'hover:bg-gray-50'} active:translate-y-0 ${hasOwnShadow ? '' : 'active:shadow-none'} focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black` : ''}
+                ${isPrimary ? 'bg-[#FFD600]' : active ? 'bg-[#EFE9DE] dark:bg-[#252320]' : className.includes('bg-') ? '' : 'bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1]'}
+                ${interactive ? `cursor-pointer ${elevation ? `hover:-translate-y-0.5 ${hasOwnShadow ? '' : 'shadow-[3px_3px_0_#141413] dark:shadow-[3px_3px_0_#000]'}` : 'hover:bg-[#F5F0E8] dark:hover:bg-[#252320]'} active:translate-y-0 ${hasOwnShadow ? '' : 'active:shadow-none'} focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black dark:focus-visible:outline-[#FFD600]` : ''}
                 ${className}
             `}
         >
@@ -68,7 +68,7 @@ export const Avatar: React.FC<{ letter: string; color?: string; size?: 'sm' | 'm
     letter,
     color = "bg-[#FFD600]",
     size = "md",
-    borderColor = "border-[#0A0A0A]"
+    borderColor = "border-[#141413] dark:border-[#EDE9E1]"
 }) => {
     const sizeClasses = {
         sm: "w-8 h-8 text-xs",
@@ -77,7 +77,7 @@ export const Avatar: React.FC<{ letter: string; color?: string; size?: 'sm' | 'm
     };
 
     return (
-        <div className={`${sizeClasses[size]} rounded-full border-2 ${borderColor} shadow-[2px_2px_0_#0A0A0A] ${color} flex items-center justify-center font-black shrink-0`}>
+        <div className={`${sizeClasses[size]} rounded-full border-2 ${borderColor} shadow-[2px_2px_0_#141413] dark:shadow-[2px_2px_0_#000] ${color} flex items-center justify-center font-black shrink-0`}>
             {letter}
         </div>
     );

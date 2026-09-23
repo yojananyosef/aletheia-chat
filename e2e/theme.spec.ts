@@ -12,7 +12,7 @@ test.describe('Tema', () => {
         await expect(page.locator('html.dark')).toHaveCount(1);
 
         const bg = await page.evaluate(() => getComputedStyle(document.body).backgroundColor);
-        expect(bg).toBe('rgb(10, 10, 10)');
+        expect(bg).toBe('rgb(24, 23, 21)');
 
         await page.reload();
         await expect(page.locator('html.dark')).toHaveCount(1);

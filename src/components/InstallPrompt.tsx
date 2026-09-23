@@ -33,7 +33,7 @@ export function InstallPrompt() {
         <div
             role="dialog"
             aria-label="Instalar aplicación"
-            className="fixed bottom-4 left-4 right-4 sm:left-auto sm:right-6 sm:max-w-xs z-[250] bg-black text-white border-2 border-black shadow-[4px_4px_0_rgba(0,0,0,0.3)] p-4 flex items-center gap-3"
+            className="fixed bottom-4 left-4 right-4 sm:left-auto sm:right-6 sm:max-w-xs z-[250] bg-black dark:bg-[#0A0A0A] text-[#EDE9E1] border-2 border-black dark:border-[#EDE9E1] shadow-[5px_5px_0_rgba(0,0,0,0.3)] dark:shadow-[5px_5px_0_#000] p-4 flex items-center gap-3"
         >
             <div className="bg-[#FFD600] p-2 shrink-0" aria-hidden="true">
                 <Download className="w-5 h-5 text-black" strokeWidth={2.5} />

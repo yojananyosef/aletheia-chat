@@ -31,48 +31,48 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
                         role="dialog"
                         aria-modal="true"
                         aria-label={book.name ? `Información del grupo ${book.name}` : 'Información del grupo'}
-                        className="w-full max-w-md bg-white border-4 border-black shadow-[10px_10px_0_#0A0A0A] overflow-hidden flex flex-col relative"
+                        className="w-full max-w-md bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1] border-[3px] border-[#141413] dark:border-[#EDE9E1] shadow-[8px_8px_0_#141413] dark:shadow-[8px_8px_0_#000] overflow-hidden flex flex-col relative"
                     >
                         {/* Header del Panel */}
-                        <div className="bg-[#FFD600] border-b-4 border-black p-6 flex items-center justify-between">
+                        <div className="bg-[#FFD600] text-black border-b-[3px] border-[#141413] dark:border-[#EDE9E1] p-6 flex items-center justify-between">
                             <div className="flex items-center gap-4">
                                 <Users className="w-6 h-6" />
-                                <h3 className="text-xl font-black uppercase tracking-tighter italic">Detalles del Grupo</h3>
+                                <h3 className="text-xl font-black uppercase tracking-tight">Detalles del Grupo</h3>
                             </div>
-                            <button onClick={onClose} autoFocus aria-label="Cerrar información del grupo" className="p-2 border-2 border-black bg-white hover:bg-black hover:text-white transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none">
+                            <button onClick={onClose} autoFocus aria-label="Cerrar información del grupo" className="p-2 border-2 border-black bg-[#FAF9F5] hover:bg-black hover:text-[#EDE9E1] transition-all shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none">
                                 <X className="w-5 h-5" strokeWidth={3} />
                             </button>
                         </div>
 
                         <div className="p-8 flex flex-col items-center text-center">
-                            <Avatar letter={book.name[0]} size="lg" color="bg-white" />
+                            <Avatar letter={book.name[0]} size="lg" color="bg-[#FAF9F5] dark:bg-[#252320]" />
 
                             <div className="mt-8 mb-4">
-                                <h2 className="text-4xl font-black uppercase tracking-tighter leading-none">{book.name}</h2>
+                                <h2 className="text-4xl font-black uppercase tracking-tight leading-none">{book.name}</h2>
                                 <div className="mt-2 inline-block bg-black text-[#FFD600] px-4 py-1 text-[10px] font-black uppercase tracking-[0.3em]">
                                     {book.category}
                                 </div>
                             </div>
 
-                            <p className="text-base font-medium text-gray-800 mb-8 leading-tight italic border-l-4 border-[#FFD600] pl-4 py-2 text-left bg-gray-50">
+                            <p className="text-base font-medium text-[#3D3D3A] dark:text-[#D8D5CD] mb-8 leading-tight italic border-l-4 border-[#FFD600] pl-4 py-2 text-left bg-[#EFE9DE] dark:bg-[#252320]">
                                 &ldquo;{book.description}&rdquo;
                             </p>
 
                             <div className="w-full text-left space-y-6">
                                 <div>
-                                    <span className="text-[10px] font-black text-gray-600 uppercase tracking-widest block mb-4 border-b-2 border-gray-100 pb-2 flex items-center gap-2">
-                                        <Users className="w-4 h-4 text-black" /> Miembros del Grupo
+                                    <span className="text-[10px] font-black text-[#57534E] dark:text-[#A8A29E] uppercase tracking-widest block mb-4 border-b-2 border-[#E6DFD8] dark:border-[#3A3733] pb-2 flex items-center gap-2">
+                                        <Users className="w-4 h-4" /> Miembros del Grupo
                                     </span>
                                     <div className="flex flex-wrap gap-2">
                                         {book.participants.filter(p => p !== 'Narrador').map(p => (
-                                            <div key={p} className="bg-white border-2 border-black px-3 py-1.5 text-xs font-black uppercase shadow-[2px_2px_0_#0A0A0A] hover:-translate-y-0.5 transition-all">
+                                            <div key={p} className="bg-[#FAF9F5] dark:bg-[#252320] border-2 border-[#141413] dark:border-white/20 px-3 py-1.5 text-xs font-black uppercase shadow-[3px_3px_0_#141413] dark:shadow-[3px_3px_0_#000] hover:-translate-y-0.5 transition-all">
                                                 {p}
                                             </div>
                                         ))}
                                     </div>
                                 </div>
 
-                                <div className="bg-black text-white p-4 border-2 border-black">
+                                <div className="bg-black dark:bg-[#0A0A0A] text-[#EDE9E1] p-4 border-2 border-black dark:border-[#EDE9E1]">
                                     <span className="text-[9px] font-black text-[#FFD600] uppercase tracking-[0.2em] block mb-2 flex items-center gap-2">
                                         <ShieldCheck className="w-4 h-4" /> Verificación Canónica
                                     </span>
@@ -85,7 +85,7 @@ export const GroupInfoDrawer: React.FC<GroupInfoDrawerProps> = ({ isOpen, book, 
                             <button
                                 onClick={onClose}
                                 data-cta="primary"
-                                className="w-full mt-10 bg-[#FFD600] border-4 border-black py-5 font-black uppercase tracking-widest hover:-translate-y-1 transition-all duration-150 shadow-[5px_5px_0_#0A0A0A] text-xl active:translate-y-0 active:shadow-none"
+                                className="w-full mt-10 bg-[#FFD600] text-black border-[3px] border-[#141413] dark:border-[#EDE9E1] py-5 font-black uppercase tracking-widest hover:-translate-y-1 transition-all duration-150 shadow-[5px_5px_0_#141413] dark:shadow-[5px_5px_0_#000] text-xl active:translate-y-0 active:shadow-none"
                             >
                                 Reanudar Lectura
                             </button>

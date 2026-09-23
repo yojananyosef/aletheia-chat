@@ -16,7 +16,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
     const isGod = message.speaker === 'Dios';
     const isNarrator = message.speaker === 'Narrador';
     const isSerpent = message.speaker === 'Serpiente';
-    const actorColor = "bg-[#F5F5F5]";
+    const actorColor = "bg-[#EFE9DE] dark:bg-[#252320]";
 
     const handleInteraction = (e?: React.MouseEvent) => {
         const now = Date.now();
@@ -52,8 +52,8 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                 aria-pressed={isLiked}
                 aria-label={`Versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
             >
-                <div className="group cursor-pointer max-w-2xl bg-[#EAEAEA] border-2 border-dashed border-[#0A0A0A] p-6 text-center relative font-medium text-gray-800 transition-colors hover:bg-white active:bg-white shadow-[4px_4px_0_rgba(0,0,0,0.05)] overflow-visible">
-                    <span className="text-[10px] font-black text-gray-600 block mb-2 uppercase tracking-widest">v.{message.verse} NARRADOR</span>
+                <div className="group cursor-pointer max-w-2xl bg-[#EFE9DE] dark:bg-[#1F1E1B] border-2 border-dashed border-[#141413] dark:border-white/25 p-6 text-center relative font-medium text-[#3D3D3A] dark:text-[#D8D5CD] leading-relaxed transition-colors hover:bg-[#FAF9F5] dark:hover:bg-[#252320] active:bg-[#FAF9F5] dark:active:bg-[#252320] shadow-[3px_3px_0_rgba(20,20,19,0.08)] dark:shadow-[3px_3px_0_rgba(0,0,0,0.4)] overflow-visible">
+                    <span className="text-[10px] font-black text-[#57534E] dark:text-[#A8A29E] block mb-2 uppercase tracking-widest">v.{message.verse} NARRADOR</span>
                     {message.text}
                     <LikeBadge isLiked={isLiked} position="bottom-right" />
                 </div>
@@ -83,15 +83,15 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                         tabIndex={0}
                         aria-pressed={isLiked}
                         aria-label={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
-                        className="p-5 md:p-7 relative border-2 border-[#4A0000] rounded-l-2xl rounded-tr-2xl overflow-visible bg-[#1A0A0A] shadow-[4px_4px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400 transition-all duration-150 ease-out hover:-translate-y-0.5 active:translate-y-0"
+                        className="p-5 md:p-7 relative border-2 border-[#4A0000] rounded-l-lg rounded-tr-lg overflow-visible bg-[#1A0A0A] shadow-[5px_5px_0_#4A0000] cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-400 transition-all duration-150 ease-out hover:-translate-y-0.5 active:translate-y-0"
                     >
                         <div className="flex justify-between gap-8 mb-2">
-                            <span className="text-[10px] font-black uppercase tracking-tight text-red-400">
+                            <span className="text-[10px] font-bold uppercase tracking-[0.12em] text-red-400">
                                 {message.speaker}
                             </span>
                             <span className="text-[10px] font-bold text-red-900">v.{message.verse}</span>
                         </div>
-                        <p className="text-base md:text-xl lg:text-3xl font-medium text-red-100 italic">
+                        <p className="text-base md:text-xl lg:text-2xl leading-relaxed font-medium text-red-100 italic">
                             {message.text}
                         </p>
                         <LikeBadge isLiked={isLiked} position="bottom-left" />
@@ -117,18 +117,18 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message, isLiked, 
                     onClick={handleInteraction}
                     pressed={isLiked}
                     ariaLabel={`Mensaje de ${message.speaker}, versículo ${message.verse}. Doble Enter para ${isLiked ? 'quitar de' : 'añadir a'} favoritos`}
-                    className={`p-5 md:p-7 relative border-2 border-black shadow-[4px_4px_0_#0A0A0A] overflow-visible ${isGod
-                        ? 'bg-white rounded-r-2xl rounded-tl-2xl'
-                        : `${actorColor} rounded-l-2xl rounded-tr-2xl`
+                    className={`p-5 md:p-7 relative border-2 border-[#141413] dark:border-white/20 shadow-[5px_5px_0_#141413] dark:shadow-[5px_5px_0_#000] overflow-visible ${isGod
+                        ? 'bg-[#FAF9F5] dark:bg-[#252320] rounded-r-lg rounded-tl-lg'
+                        : `${actorColor} rounded-l-lg rounded-tr-lg`
                         }`}
                 >
                     <div className="flex justify-between gap-8 mb-2">
-                        <span className={`text-[10px] font-black uppercase tracking-tight ${isGod ? 'text-black' : 'text-gray-600'}`}>
+                        <span className={`text-[10px] font-bold uppercase tracking-[0.12em] ${isGod ? 'text-black dark:text-[#FFD600]' : 'text-[#57534E] dark:text-[#A8A29E]'}`}>
                             {message.speaker}
                         </span>
-                        <span className="text-[10px] font-bold text-gray-600">v.{message.verse}</span>
+                        <span className="text-[10px] font-bold text-[#57534E] dark:text-[#A8A29E]">v.{message.verse}</span>
                     </div>
-                    <p className={`text-base md:text-xl lg:text-3xl ${isGod ? 'font-black text-black leading-tight' : 'font-medium text-gray-700'}`}>
+                    <p className={`text-base md:text-xl lg:text-2xl leading-relaxed ${isGod ? 'font-black text-[#141413] dark:text-[#EDE9E1]' : 'font-medium text-[#3D3D3A] dark:text-[#D8D5CD]'}`}>
                         {message.text}
                     </p>
                     <LikeBadge isLiked={isLiked} position={isGod ? "bottom-right" : "bottom-left"} />
@@ -145,7 +145,7 @@ const LikeBadge: React.FC<{ isLiked: boolean, position: 'bottom-right' | 'bottom
                 initial={{ scale: 0, rotate: -45 }}
                 animate={{ scale: 1, rotate: 0 }}
                 exit={{ scale: 0, rotate: 45 }}
-                className={`absolute -bottom-3 ${position === 'bottom-right' ? '-right-3' : '-left-3'} bg-red-500 text-white rounded-full p-2 border-2 border-black shadow-[2px_2px_0_#0A0A0A] z-20 pointer-events-none select-none`}
+                className={`absolute -bottom-3 ${position === 'bottom-right' ? '-right-3' : '-left-3'} bg-red-500 text-[#FAF9F5] rounded-full p-2 border-2 border-[#141413] dark:border-[#EDE9E1] shadow-[2px_2px_0_#141413] dark:shadow-[2px_2px_0_#EDE9E1] z-20 pointer-events-none select-none`}
             >
                 <Heart className="w-4 h-4 fill-current shadow-lg" />
             </motion.div>

@@ -51,7 +51,7 @@ export const ShareButton: React.FC<ShareButtonProps> = ({ bookId, bookName, chap
             onClick={handleShare}
             aria-label={copied ? '¡Enlace copiado!' : 'Compartir capítulo'}
             title={copied ? '¡Enlace copiado!' : 'Compartir capítulo'}
-            className={`p-2 border-2 border-black transition-all outline-none h-fit shadow-[2px_2px_0_#0A0A0A] active:translate-y-0.5 active:shadow-none dark:border-white ${copied ? 'bg-[#FFD600]' : 'hover:bg-gray-100 dark:hover:bg-black'}`}
+            className={`p-2 border-2 border-[#141413] dark:border-[#EDE9E1] bg-[#FAF9F5] dark:bg-[#1F1E1B] transition-all outline-none h-fit shadow-[2px_2px_0_#141413] dark:shadow-[2px_2px_0_#EDE9E1] active:translate-y-0.5 active:shadow-none ${copied ? '!bg-[#FFD600] !text-black' : 'hover:bg-[#F5F0E8] dark:hover:bg-[#252320]'}`}
         >
             {copied
                 ? <Check className="w-6 h-6" strokeWidth={2.5} />

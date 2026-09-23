@@ -130,7 +130,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
     const subtitle = lastSectionTitle ? lastSectionTitle.text : (data?.title || '');
 
     return (
-        <div className="h-full w-full bg-white overflow-hidden font-sans dark:bg-[#0A0A0A]">
+        <div className="h-full w-full bg-[#FAF9F5] dark:bg-[#181715] overflow-hidden font-sans">
             <main id="contenido" tabIndex={-1} data-viewport-scope="chat" className="w-full flex flex-col h-full relative overflow-hidden">
                 <ChatHeader
                     book={bookConfig} chapter={chapter} subtitle={subtitle}
@@ -154,8 +154,8 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
                         <>
                             {chapter === 1 && (
                                 <div className="flex flex-col items-center gap-2 mb-8 opacity-50 px-4">
-                                    <div className="flex items-center gap-2 bg-gray-100 border-2 border-black/10 px-3 py-1 text-[9px] font-black uppercase tracking-widest rounded-full"><ShieldCheck className="w-3 h-3" /> Grupo creado hace eones por el Espíritu Santo</div>
-                                    <div className="flex items-center gap-2 bg-gray-100 border-2 border-black/10 px-3 py-1 text-[9px] font-black uppercase tracking-widest rounded-full"><MessageSquare className="w-3 h-3" /> Has ingresado al grupo de {bookConfig?.name}</div>
+                                    <div className="flex items-center gap-2 bg-[#EFE9DE] dark:bg-[#252320] dark:text-[#EDE9E1] border-2 border-[#E6DFD8] dark:border-white/10 px-3 py-1 text-[9px] font-bold uppercase tracking-[0.12em] rounded-full"><ShieldCheck className="w-3 h-3" /> Grupo creado hace eones por el Espíritu Santo</div>
+                                    <div className="flex items-center gap-2 bg-[#EFE9DE] dark:bg-[#252320] dark:text-[#EDE9E1] border-2 border-[#E6DFD8] dark:border-white/10 px-3 py-1 text-[9px] font-bold uppercase tracking-[0.12em] rounded-full"><MessageSquare className="w-3 h-3" /> Has ingresado al grupo de {bookConfig?.name}</div>
                                 </div>
                             )}
 

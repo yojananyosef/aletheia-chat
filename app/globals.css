@@ -10,6 +10,46 @@
 
 :root {
   --intent-action: #ffd600;
+
+  /* Sistema cálido (ref: johan.cl) — nunca blanco puro en superficies.
+     Neobrutalismo: bordes tinta, sombras duras, acento amarillo. */
+  --paper: #FAF9F5;
+  --paper-soft: #F5F0E8;
+  --paper-card: #EFE9DE;
+  --paper-strong: #E8E0D2;
+  --paper-line: #E6DFD8;
+
+  --ink: #141413;
+  --ink-soft: #3D3D3A;
+  --muted: #57534E;
+  --muted-soft: #6C6A64;
+
+  --line: #141413;
+  --accent: #FFD600;
+
+  /* Disciplina neobrutalista (ref: gateway/timeline):
+     bordes 2px pequeño / 3px estructural, radius 0 en estructura
+     (redondo solo en avatares y badges de estado), sombras 3/5/8 blur 0. */
+  --border-sm: 2px;
+  --border-main: 3px;
+  --shadow-sm: 3px 3px 0 var(--line);
+  --shadow-md: 5px 5px 0 var(--line);
+  --shadow-lg: 8px 8px 0 var(--line);
+}
+
+.dark {
+  --paper: #181715;
+  --paper-soft: #1F1E1B;
+  --paper-card: #252320;
+  --paper-strong: #2E2B27;
+  --paper-line: #3A3733;
+
+  --ink: #EDE9E1;
+  --ink-soft: #D8D5CD;
+  --muted: #A8A29E;
+  --muted-soft: #7D7A72;
+
+  --line: #EDE9E1;
 }
 
 * {
@@ -19,7 +59,9 @@
 
 @layer base {
   body {
-    @apply bg-white font-sans text-[#0A0A0A] antialiased overflow-hidden touch-pan-y;
+    @apply font-sans antialiased overflow-hidden touch-pan-y;
+    background-color: var(--paper);
+    color: var(--ink);
   }
 
   h1,
@@ -28,20 +70,36 @@
   h4,
   h5,
   h6 {
-    @apply font-display tracking-tighter text-[#0A0A0A];
+    @apply font-display tracking-tight;
+    color: var(--ink);
+  }
+
+  ::selection {
+    background: #FFD600;
+    color: #141413;
+  }
+
+  :focus-visible {
+    outline: 3px solid #FFD600;
+    outline-offset: 2px;
   }
 }
 
 @utility naas-border {
-  @apply border-2 border-[#0A0A0A];
+  border-width: 2px;
+  border-color: var(--line);
 }
 
 @utility naas-shadow {
-  @apply shadow-[3px_3px_0_#0A0A0A];
+  box-shadow: 3px 3px 0 var(--line);
+}
+
+@utility naas-shadow-md {
+  box-shadow: 5px 5px 0 var(--line);
 }
 
 @utility naas-shadow-lg {
-  @apply shadow-[6px_6px_0_#0A0A0A];
+  box-shadow: 8px 8px 0 var(--line);
 }
 
 @utility naas-interactive {
@@ -53,6 +111,12 @@
 .chat-feed {
   background-color: #F7F4ED;
   background-image: url('/chat-pattern.svg');
+  background-size: 480px 480px;
+}
+
+.dark .chat-feed {
+  background-color: #181715;
+  background-image: url('/chat-pattern-dark.svg');
   background-size: 480px 480px;
 }
 

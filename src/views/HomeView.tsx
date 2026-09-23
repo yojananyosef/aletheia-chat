@@ -74,27 +74,27 @@ export const HomeView: React.FC = () => {
     };
 
     return (
-        <div className="h-full w-full bg-white overflow-hidden">
+        <div className="h-full w-full bg-[#FAF9F5] dark:bg-[#181715] overflow-hidden">
             <main id="contenido" tabIndex={-1} data-viewport-scope="home" className="w-full flex flex-col h-full overflow-hidden font-sans">
-                <header data-aida="attention" className="border-b-4 border-black bg-[#FFD600] shrink-0 relative z-50 select-none">
+                <header data-aida="attention" className="border-b-[3px] border-[#141413] dark:border-[#EDE9E1] bg-[#FFD600] shrink-0 relative z-50 select-none">
                     <div className="safe-top" />
                     <div className="px-6 py-4 flex items-center justify-between">
                         <div className="flex flex-col text-left">
-                            <h1 className="text-2xl sm:text-3xl font-black uppercase tracking-tighter leading-none italic">ALETHEIA CHAT</h1>
-                            <span className="text-[9px] sm:text-[10px] font-black uppercase tracking-widest mt-1 opacity-100">Lectura bíblica conversacional</span>
+                            <h1 className="text-2xl sm:text-3xl font-black uppercase tracking-tight leading-none">ALETHEIA CHAT</h1>
+                            <span className="text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.14em] mt-1 opacity-100">Lectura bíblica conversacional</span>
                         </div>
                         <div className="flex gap-3">
                                 <Surface
                                     ariaLabel="Abrir perfil"
                                     onClick={() => router.push('/perfil')}
-                                className="p-2 rounded-full border-2 transition-colors active:scale-95 bg-white"
+                                className="p-2 rounded-none border-2 border-[#141413] dark:border-[#EDE9E1] transition-colors active:scale-95 bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1] min-h-[44px] min-w-[44px] grid place-items-center"
                             >
                                 <CircleUserRound className="w-5 h-5" />
                             </Surface>
                                 <Surface
                                     ariaLabel={showHomeSearch ? 'Cerrar búsqueda' : 'Buscar libro'}
                                     onClick={() => { setShowHomeSearch(!showHomeSearch); if (showHomeSearch) setHomeSearchQuery(''); }}
-                                className={`p-2 rounded-full border-2 transition-colors active:scale-95 ${showHomeSearch ? 'bg-black text-[#FFD600]' : 'bg-white'}`}
+                                    className={`p-2 rounded-none border-2 border-[#141413] dark:border-[#EDE9E1] transition-colors active:scale-95 min-h-[44px] min-w-[44px] grid place-items-center ${showHomeSearch ? 'bg-black text-[#FFD600]' : 'bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1]'}`}
                             >
                                 <Search className="w-5 h-5" />
                             </Surface>
@@ -102,7 +102,7 @@ export const HomeView: React.FC = () => {
                                 <Surface
                                     ariaLabel="Abrir centro de control"
                                     onClick={() => setShowHomeOptions(!showHomeOptions)}
-                                    className={`p-2 rounded-full border-2 transition-colors active:scale-95 ${showHomeOptions ? 'bg-black text-[#FFD600]' : 'bg-white'}`}
+                                    className={`p-2 rounded-none border-2 border-[#141413] dark:border-[#EDE9E1] transition-colors active:scale-95 min-h-[44px] min-w-[44px] grid place-items-center ${showHomeOptions ? 'bg-black text-[#FFD600]' : 'bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1]'}`}
                                 >
                                     <MoreVertical className="w-5 h-5" />
                                 </Surface>
@@ -113,25 +113,25 @@ export const HomeView: React.FC = () => {
                                             initial={{ opacity: 0, scale: 0.9, y: 10 }}
                                             animate={{ opacity: 1, scale: 1, y: 0 }}
                                             exit={{ opacity: 0, scale: 0.9, y: 10 }}
-                                            className="absolute top-full right-0 mt-2 w-[85vw] sm:w-80 bg-white border-4 border-black shadow-[6px_6px_0_#0A0A0A] z-[100] select-none"
+                                            className="absolute top-full right-0 mt-2 w-[85vw] sm:w-80 bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1] border-[3px] border-[#141413] dark:border-[#EDE9E1] shadow-[8px_8px_0_#141413] dark:shadow-[8px_8px_0_#000] z-[100] select-none"
                                         >
-                                            <div className="bg-black text-white p-3 text-[10px] font-black uppercase tracking-widest">Centro de Control</div>
+                                            <div className="bg-black dark:bg-[#0A0A0A] text-[#EDE9E1] p-3 text-[10px] font-black uppercase tracking-widest">Centro de Control</div>
                                             <div className="p-1">
                                                 <button
                                                     onClick={() => { setShowFavorites(true); setShowHomeOptions(false); }}
-                                                    className="w-full text-left p-4 hover:bg-[#FFD600] active:bg-[#FFD600] font-black text-[10px] uppercase tracking-wider flex items-center gap-3 transition-colors border-2 border-transparent hover:border-black"
+                                                    className="w-full text-left p-4 hover:bg-[#FFD600] hover:text-black dark:hover:text-black active:bg-[#FFD600] font-black text-[10px] uppercase tracking-wider flex items-center gap-3 transition-colors border-2 border-transparent hover:border-[#141413] dark:hover:border-[#EDE9E1]"
                                                 >
                                                     <Heart className="w-4 h-4" /> Mensajes Destacados
                                                 </button>
-                                                <div className="border-t-2 border-black/10 my-1"></div>
+                                                <div className="border-t-2 border-[#E6DFD8] dark:border-white/10 my-1"></div>
                                                 <div className="p-3 flex items-center justify-between gap-2">
-                                                    <span className="text-[9px] font-black uppercase tracking-[0.2em] text-gray-600">Tema</span>
-                                                    <div className="flex border-2 border-black" role="group" aria-label="Tema de la app">
+                                                    <span className="text-[9px] font-bold uppercase tracking-[0.14em] text-[#57534E] dark:text-[#A8A29E]">Tema</span>
+                                                    <div className="flex border-2 border-[#141413] dark:border-[#EDE9E1]" role="group" aria-label="Tema de la app">
                                                         <button
                                                             onClick={() => setTheme('light')}
                                                             aria-label="Tema claro"
                                                             aria-pressed={theme === 'light'}
-                                                            className={`p-2 transition-colors ${theme === 'light' ? 'bg-[#FFD600]' : 'bg-white hover:bg-gray-100'}`}
+                                                            className={`p-2 transition-colors ${theme === 'light' ? 'bg-[#FFD600] text-black' : 'bg-[#FAF9F5] dark:bg-[#1F1E1B] hover:bg-[#F5F0E8] dark:hover:bg-[#252320]'}`}
                                                         >
                                                             <Sun className="w-4 h-4" strokeWidth={2.5} />
                                                         </button>
@@ -139,53 +139,53 @@ export const HomeView: React.FC = () => {
                                                             onClick={() => setTheme('dark')}
                                                             aria-label="Tema oscuro"
                                                             aria-pressed={theme === 'dark'}
-                                                            className={`p-2 transition-colors border-l-2 border-black ${theme === 'dark' ? 'bg-black text-[#FFD600]' : 'bg-white hover:bg-gray-100'}`}
+                                                            className={`p-2 transition-colors border-l-2 border-[#141413] dark:border-[#EDE9E1] ${theme === 'dark' ? 'bg-black text-[#FFD600]' : 'bg-[#FAF9F5] dark:bg-[#1F1E1B] hover:bg-[#F5F0E8] dark:hover:bg-[#252320]'}`}
                                                         >
                                                             <Moon className="w-4 h-4" strokeWidth={2.5} />
                                                         </button>
                                                     </div>
                                                 </div>
-                                                <div className="border-t-2 border-black/10 my-1"></div>
+                                                <div className="border-t-2 border-[#E6DFD8] dark:border-white/10 my-1"></div>
                                                 <div className="p-3">
-                                                    <div className="text-[9px] font-black uppercase tracking-[0.2em] mb-3 text-gray-600 border-b border-black/5 pb-1">Identidad Espiritual</div>
+                                                    <div className="text-[9px] font-bold uppercase tracking-[0.14em] mb-3 text-[#57534E] dark:text-[#A8A29E] border-b border-[#E6DFD8] dark:border-white/10 pb-1">Identidad Espiritual</div>
 
-                                                    <div className="bg-white border-4 border-black p-5 relative overflow-hidden">
+                                                    <div className="bg-[#FAF9F5] dark:bg-[#252320] border-[3px] border-[#141413] dark:border-[#EDE9E1] p-6 relative overflow-hidden">
                                                         <div className="flex gap-4 items-center mb-6">
                                                             <div
-                                                                className="w-12 h-16 shrink-0 border-4 border-black flex items-center justify-center text-2xl font-black shadow-[4px_4px_0_#000]"
-                                                                style={{ backgroundColor: userLevel.color, color: userLevel.textColor === 'text-white' ? 'white' : 'black' }}
+                                                                className="w-12 h-12 shrink-0 border-[3px] border-[#141413] dark:border-[#EDE9E1] flex items-center justify-center text-2xl font-black shadow-[3px_3px_0_#141413] dark:shadow-[3px_3px_0_#000]"
+                                                                style={{ backgroundColor: userLevel.color, color: userLevel.textColor === 'text-white' ? '#EDE9E1' : '#141413' }}
                                                             >
                                                                 {userLevel.icon}
                                                             </div>
                                                             <div className="flex flex-col min-w-0 flex-1">
-                                                                <div className="text-[18px] font-black uppercase italic tracking-tighter leading-tight mb-0.5 break-words">{userLevel.title}</div>
-                                                                <div className="text-[10px] font-bold text-gray-600 uppercase tracking-[0.2em]">{userLevel.rank}</div>
+                                                                <div className="text-[18px] font-black uppercase tracking-tight leading-tight mb-0.5 break-words">{userLevel.title}</div>
+                                                                <div className="text-[10px] font-bold text-[#57534E] dark:text-[#A8A29E] uppercase tracking-[0.14em]">{userLevel.rank}</div>
                                                             </div>
                                                         </div>
 
                                                         <div className="space-y-3">
                                                             <div className="flex justify-between items-end">
-                                                                <span className="text-[9px] font-black uppercase tracking-[0.15em] text-gray-600">Estado de Sincronización</span>
-                                                                <span className="bg-black text-[#FFD600] px-2 py-0.5 text-[10px] font-black italic shadow-[2px_2px_0_rgba(0,0,0,0.1)]">{Math.floor(userLevel.progress)}%</span>
+                                                                <span className="text-[9px] font-bold uppercase tracking-[0.14em] text-[#57534E] dark:text-[#A8A29E]">Estado de Sincronización</span>
+                                                                <span className="bg-black dark:bg-[#0A0A0A] text-[#FFD600] px-2 py-0.5 text-[10px] font-black shadow-[2px_2px_0_rgba(0,0,0,0.1)]">{Math.floor(userLevel.progress)}%</span>
                                                             </div>
-                                                            <div className="h-6 border-4 border-black bg-gray-100 p-1 shadow-[inset_0_2px_4px_rgba(0,0,0,0.15)]">
+                                                            <div className="h-6 border-[3px] border-[#141413] dark:border-[#EDE9E1] bg-[#EFE9DE] dark:bg-[#0A0A0A] p-1 shadow-[inset_0_2px_4px_rgba(0,0,0,0.15)]">
                                                                 <motion.div
                                                                     initial={{ width: 0 }}
                                                                     animate={{ width: `${userLevel.progress}%` }}
-                                                                    className="h-full bg-black"
+                                                                    className="h-full bg-[#141413] dark:bg-[#FFD600]"
                                                                 />
                                                             </div>
                                                             <div className="flex justify-between items-start pt-1">
                                                                 <div className="flex flex-col">
-                                                                    <div className="text-[12px] font-black uppercase italic leading-none">{favorites.length}</div>
-                                                                    <div className="text-[8px] font-bold text-gray-600 uppercase tracking-widest mt-1">
+                                                                    <div className="text-[12px] font-black uppercase leading-none">{favorites.length}</div>
+                                                                    <div className="text-[8px] font-bold text-[#57534E] dark:text-[#A8A29E] uppercase tracking-widest mt-1">
                                                                         {favorites.length === 1 ? 'Versículo' : 'Versículos'}
                                                                     </div>
                                                                 </div>
                                                                 {userLevel.nextTitle && (
                                                                     <div className="text-right">
-                                                                        <div className="text-[8px] text-gray-600 font-black uppercase leading-none mb-1">Siguiente Consagración</div>
-                                                                        <div className="text-[11px] font-black uppercase italic text-black tracking-tight">{userLevel.nextTitle}</div>
+                                                                        <div className="text-[8px] text-[#57534E] dark:text-[#A8A29E] font-bold uppercase leading-none mb-1">Siguiente Consagración</div>
+                                                                        <div className="text-[11px] font-black uppercase tracking-tight">{userLevel.nextTitle}</div>
                                                                     </div>
                                                                 )}
                                                             </div>
@@ -220,12 +220,12 @@ export const HomeView: React.FC = () => {
                                         onChange={(e) => setHomeSearchQuery(e.target.value)}
                                         placeholder="BUSCAR LIBRO..."
                                         aria-label="Buscar libro"
-                                        className="w-full bg-white border-4 border-black p-3 font-black uppercase tracking-tighter text-lg placeholder:text-gray-300 focus:outline-none shadow-[4px_4px_0_#0A0A0A]"
+                                        className="w-full bg-[#FAF9F5] dark:bg-[#1F1E1B] dark:text-[#EDE9E1] border-[3px] border-[#141413] dark:border-[#EDE9E1] p-3 font-black uppercase tracking-tight text-lg placeholder:text-[#8E8B82] dark:placeholder:text-[#7D7A72] focus:outline-none shadow-[5px_5px_0_#141413] dark:shadow-[5px_5px_0_#000]"
                                     />
                                 </div>
                                 <button
                                     onClick={() => { setShowHomeSearch(false); setHomeSearchQuery(''); }}
-                                    className="bg-black text-white px-4 py-3 border-4 border-black font-black uppercase text-[10px] tracking-widest active:scale-95 transition-transform"
+                                    className="bg-black text-[#EDE9E1] px-4 py-3 border-[3px] border-black dark:border-[#EDE9E1] font-black uppercase text-[10px] tracking-widest active:scale-95 transition-transform"
                                 >
                                     CERRAR
                                 </button>
@@ -234,7 +234,7 @@ export const HomeView: React.FC = () => {
                     </AnimatePresence>
                 </header>
 
-                <section data-aida="interest" className="flex-1 overflow-y-auto bg-white no-scrollbar dark:bg-[#0A0A0A]">
+                <section data-aida="interest" className="flex-1 overflow-y-auto bg-[#FAF9F5] no-scrollbar dark:bg-[#181715] dark:text-[#EDE9E1]">
                     {hasMounted && stories.length > 0 && (
                         <StoriesRow stories={stories} onOpen={setStoryIndex} />
                     )}
