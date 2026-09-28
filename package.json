@@ -14,7 +14,11 @@
     "lint": "eslint .",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "test:corpus": "node scripts/attribute-speakers/qa-sweep-test.mjs",
+    "qa:sweep": "node scripts/attribute-speakers/qa-sweep.mjs",
+    "test:speakers": "node --test scripts/attribute-speakers/run.test.mjs",
+    "verify:layout": "node scripts/verify-drawer.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.38.0",

@@ -1,14 +1,58 @@
 [
   {
+    "verse": 3,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.95,
+    "rule": "manual-split-climax"
+  },
+  {
+    "verse": 9,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.95,
+    "rule": "manual-split-climax"
+  },
+  {
+    "verse": 11,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.95,
+    "rule": "manual-split-climax"
+  },
+  {
     "verse": 15,
-    "subId": "",
+    "subId": "a",
     "speaker": "Dios",
-    "confidence": 0.9
+    "confidence": 0.9,
+    "rule": "manual-split-climax"
+  },
+  {
+    "verse": 15,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.95,
+    "rule": "manual-split-climax"
+  },
+  {
+    "verse": 24,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.95,
+    "rule": "manual-split-climax"
   },
   {
     "verse": 30,
-    "subId": "",
+    "subId": "a",
     "speaker": "Dios",
-    "confidence": 0.85
+    "confidence": 0.85,
+    "rule": "manual-split-climax"
+  },
+  {
+    "verse": 30,
+    "subId": "b",
+    "speaker": "Narrador",
+    "confidence": 0.95,
+    "rule": "manual-split-climax"
   }
 ]

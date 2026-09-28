@@ -5,7 +5,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { attributeChapter } from './run.mjs';
+import { attributeChapter, splitClimax } from './run.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const GATEWAY = process.env.ALETHEIA_GATEWAY ?? '/home/Johan/orca/aletheia-gateway/public/data/bibles';
@@ -24,11 +24,46 @@ function speakerOf(messages, verse, subId) {
   return m.speaker;
 }
 
+describe('split-climax (cola de narración tras discurso directo)', () => {
+  // Sin gateway: cubre la regla que devuelve la voz al narrador cuando la cita
+  // se cierra con la fórmula wayhî-kēn / wayhî ("y fue así", "y fue la luz").
+  it('separa la cola de clímax de la cita', () => {
+    assert.deepEqual(splitClimax('Sea la luz; y fue la luz.'), {
+      quote: 'Sea la luz.', tail: 'y fue la luz.',
+    });
+    const r = splitClimax('Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase lo seco. Y fue así.');
+    assert.equal(r.quote, 'Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase lo seco.');
+    assert.equal(r.tail, 'Y fue así.');
+  });
+
+  it('deja intacta la narración que ocurre DENTRO de la cita', () => {
+    // La coma dentro del discurso no es retorno a la narración.
+    assert.equal(splitClimax('Date prisa, aligera, no te detengas. Y el muchacho de Jonatán tomó las saetas, y vino a su señor.'), null);
+    assert.equal(splitClimax('No te quedes en la fortaleza, vete, y entra en tierra de Judá. Y David se fue, y vino al bosque de Haret.'), null);
+    // Cópula seguida de otra cosa: sigue siendo el hablante.
+    assert.equal(splitClimax('Hijo de hombre, haz a tu vientre que coma, y llena tus entrañas de este rollo que yo te doy. Y lo comí, y fue en mi boca dulce como miel.'), null);
+    assert.equal(splitClimax('El que primero hiriere al jebuseo, será cabeza y jefe. Entonces Joab, hijo de Sarvia, subió el primero, y fue hecho jefe.'), null);
+    // ";" como puntuación interna de un discurso largo.
+    assert.equal(splitClimax('Haya lumbreras en el firmamento de los cielos para separar el día de la noche; y sean por señales, y para las estaciones, y para días y años;'), null);
+  });
+
+  it('descarta la oración narrativa nueva en la misma voz (tope de longitud)', () => {
+    assert.equal(splitClimax('Profeticé, pues, como me fue mandado; y hubo un ruido mientras yo profetizaba, y he aquí un temblor, y los huesos se juntaron cada hueso a su hueso.'), null);
+  });
+
+  it('no parte un segmento sin límite de frase', () => {
+    assert.equal(splitClimax('y fue la luz'), null);
+    assert.equal(splitClimax(''), null);
+  });
+});
+
 describe('attribute-speakers (heurística)', () => {
   it('GEN 1: Dios dice, Narrador narra, 0 ambiguos de sayer', () => {
     const { messages, diagnosis } = run('genesis', 'GEN', 1);
     assert.equal(speakerOf(messages, 3, 'b'), 'Dios');
     assert.equal(speakerOf(messages, 3, 'a'), 'Narrador');
+    // "y fue la luz" es del narrador, no de Dios.
+    assert.equal(speakerOf(messages, 3, 'c'), 'Narrador');
     assert.ok(diagnosis.filter(d => d.ambiguous).length <= 2);
   });
 

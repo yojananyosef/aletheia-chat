@@ -93,6 +93,44 @@ function rxRule(rule, global = false) {
 const DICENDI_RE = rx('\\b(dij[\\p{L}]+|dic[\\p{L}]+|dec[\\p{L}]+|respond[\\p{L}]+|llam[\\p{L}]+|habl[\\p{L}]+|bend[\\p{L}]+|clam[\\p{L}]+|pregunt[\\p{L}]+|contest[\\p{L}]+|replic[\\p{L}]+|exclam[\\p{L}]+|grit[\\p{L}]+|salud[\\p{L}]+)\\b', 'i');
 
 /**
+ * Cola de clímax narrativo: la fórmula con la que la narración retoma el hilo
+ * tras un discurso directo — wayhî-kēn ("y fue así") y wayhî ("y fue la luz"),
+ * sin sujeto explícito en el hebreo.
+ *
+ * Se separa de la narración *dentro* de la cita por la ausencia de sujeto: la
+ * lista de determinante/pronombre tras la cópula es lo que descarta "y vino a su
+ * señor" (1SA 20:38), "y fue en mi boca" (EZK 3:3) y "y fue hecho jefe" (1CR 11:6),
+ * que sí pertenecen al hablante. Validado sobre los 38.217 mensajes del corpus:
+ * sin este corte solo Génesis 1 (v.3/9/11/24) e Isaías 63:8 quedan mal atribuidos.
+ */
+const CLAIMAX_RE = rx('^(?:y|e)\\s+(?:fue|fueron|hubo)\\s+(?:as[íi]|la|el|los|las|un|una|su|sus)', 'i');
+
+/** Tope de longitud de la cola: es una etiqueta ("y fue así"), no una oración. */
+const CLAIMAX_MAX = 45;
+
+/**
+ * Separa la cola de clímax del resto de un segmento de discurso ya cortado por
+ * un "dijo:". Devuelve null si el segmento no la trae.
+ *
+ * Solo corta tras "." o ";" — la coma dentro de una cita es puntuación normal
+ * ("tomó las saetas, y vino a su señor"), nunca retorno a la narración. El tope
+ * de longitud descarta la oración narrativa nueva que sigue en la misma voz
+ * ("y hubo un ruido mientras yo profetizaba, y he aquí un temblor…", EZK 37:7).
+ * Ambas partes se cierran en punto porque la puntuación original (; entre cita y
+ * cola) ya no tiene a nadie que separar.
+ */
+export function splitClimax(segment) {
+  const body = segment.trim().replace(/\.\s*$/, '');
+  const parts = body.split(/(?<=[.;])\s+/);
+  if (parts.length < 2) return null;
+  const tail = parts[parts.length - 1].trim();
+  if (!tail || tail.length > CLAIMAX_MAX || !CLAIMAX_RE.test(tail)) return null;
+  const head = body.slice(0, body.length - tail.length).replace(/[.;]\s*$/, '').trim();
+  if (!head) return null;
+  return { quote: `${head}.`, tail: `${tail}.` };
+}
+
+/**
  * Sujeto del verbo dicendi: PRIMER candidato (el sujeto suele ir primero en español).
  * Si hay ≥2 speakers distintos en el narrador ("la serpiente... que Jehová Dios había hecho...
  * la cual dijo"), se devuelve el primero pero marcado multi:true para forzar revisión LLM —
@@ -281,6 +319,26 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
     if (!text) continue;
     const cuts = findCuts(text, verbStem, splitFlags);
 
+    // Capitaliza narradores que empiezan a mitad de frase ("dijo la mujer:" -> "Dijo la mujer:").
+    const capNarr = (p) => p.replace(/^(\s*[«"“']*)(\p{L})/u, (_, pre, c) => pre + c.toLocaleUpperCase('es'));
+    // Emite un turno de habla, separando antes la cola de clímax final si la
+    // trae. La cola va como Narrador con su propio subId; si no hay cola,
+    // conserva el subId "" del verso sin marco (Jos 1:2-9, EXO 9:4).
+    // Compartido por la vía de cortes y la de carryover para que GEN 1:15 y
+    // GEN 1:30 —continuaciones de discurso sin marco— se partan igual que 3.
+    const pushWithClimax = (verse, speaker, body, confidence, rule, ambiguous) => {
+      const split = splitClimax(body);
+      if (!split) {
+        pushMsg(verse, '', speaker, body);
+        diagnosis.push({ verse, subId: '', speaker, confidence, rule, ambiguous });
+        return;
+      }
+      pushMsg(verse, 'a', speaker, split.quote);
+      diagnosis.push({ verse, subId: 'a', speaker, confidence, rule, ambiguous });
+      pushMsg(verse, 'b', 'Narrador', capNarr(split.tail));
+      diagnosis.push({ verse, subId: 'b', speaker: 'Narrador', confidence: 0.9, rule: 'split-climax', ambiguous: false });
+    };
+
     if (cuts.length) {
       // narr_0 = text[0:e_1]; luego por cada corte k: speech_k = text[e_k:s_{k+1}],
       // narr_k = text[s_{k+1}:e_{k+1}]. El hablante de speech_k sale de narr_{k-1}.
@@ -323,8 +381,6 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         }
       };
       const verseStart = messages.length;
-      // Capitaliza narradores que empiezan a mitad de frase ("dijo la mujer:" -> "Dijo la mujer:").
-      const capNarr = (p) => p.replace(/^(\s*[«"“']*)(\p{L})/u, (_, pre, c) => pre + c.toLocaleUpperCase('es'));
       let prevNarr = emitNarr(capNarr(text.slice(0, cuts[0].end)));
       for (let k = 0; k < cuts.length; k++) {
         let speechEnd = k + 1 < cuts.length ? cuts[k + 1].start : text.length;
@@ -341,7 +397,22 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
             speech = speech.slice(0, cutAt);
           }
         }
-        emitSpeech(speech, prevNarr);
+        // Cola de clímax al final del verso: la narración vuelve a primera línea
+        // ("Sea la luz;" + "y fue la luz"). Va en su propia burbuja de Narrador,
+        // así que NO pasa por emitNarr: su regla de fusión se tragaría una cola
+        // sin verbo dicendi y volvería a pegársela al discurso (GEN 1:3).
+        // Solo tiene sentido en el último segmento del verso.
+        if (k + 1 === cuts.length) {
+          const split = splitClimax(speech);
+          if (split) {
+            emitSpeech(split.quote, prevNarr);
+            const sub = nextSub();
+            pushMsg(verseNum, sub, 'Narrador', capNarr(split.tail));
+            diagnosis.push({ verse: verseNum, subId: sub, speaker: 'Narrador', confidence: 0.9, rule: 'split-climax', ambiguous: false });
+            speech = '';
+          }
+        }
+        if (speech) emitSpeech(speech, prevNarr);
         if (k + 1 < cuts.length) {
           prevNarr = emitNarr(capNarr(carry + text.slice(cuts[k + 1].start, cuts[k + 1].end)));
         }
@@ -399,6 +470,10 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         diagnosis.push({ verse: verseNum, subId: '', speaker: 'Narrador', confidence: 0.55, rule: 'fallback-narrator', ambiguous: false });
       }
     } else {
+      // Sin marco "dijo:", pero el verso puede cerrar con la fórmula de clímax
+      // ("...alumbrar sobre la tierra. Y fue así."). Si el verso NO trae
+      // marca de voz, la cola es del narrador; si sí, es discurso. Se decide
+      // aquí y no en el split para no alterar la semántica del carryover.
       const hit = detectSpeechSpeaker(text, patterns);
       if (hit && valid.has(hit.speaker)) {
         // Verso narrado que menciona a alguien no implica discurso; solo citas en 1ª persona o “dijo a X:” ya cubiertas.
@@ -416,26 +491,22 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         } else if (carried && valid.has(carried) && looksSpeech(text)) {
           // Continuación del discurso abierto por el marco previo (Jos 1:2-9).
           // Sin marcas de discurso se asume interludio narrativo (rompe la voz).
-          pushMsg(verseNum, '', carried, text);
-          diagnosis.push({ verse: verseNum, subId: '', speaker: carried, confidence: 0.6, rule: 'speech-carryover', ambiguous: true });
+          pushWithClimax(verseNum, carried, text, 0.6, 'speech-carryover', true);
         } else if (carried === 'Dios' && valid.has('Dios') && !NARRSTART_RE.test(text)) {
           // En contexto de discurso divino, un verso sin marcas puede ser
           // continuación (Ex 9:4) o interludio narrativo: va a revisión en
           // vez de perderse en silencio. La voz sigue activa. Los arranques
           // de acción ("Y vio Dios...") siguen siendo Narrador en silencio.
-          pushMsg(verseNum, '', 'Dios', text);
-          diagnosis.push({ verse: verseNum, subId: '', speaker: 'Dios', confidence: 0.5, rule: 'speech-carryover-divine', ambiguous: true });
+          pushWithClimax(verseNum, 'Dios', text, 0.5, 'speech-carryover-divine', true);
         } else {
           if (!DICENDI_RE.test(text)) carried = null;
           pushMsg(verseNum, '', 'Narrador', text);
           diagnosis.push({ verse: verseNum, subId: '', speaker: 'Narrador', confidence: 0.55, rule: 'fallback-narrator', ambiguous: false });
         }
       } else if (carried && valid.has(carried) && looksSpeech(text)) {
-        pushMsg(verseNum, '', carried, text);
-        diagnosis.push({ verse: verseNum, subId: '', speaker: carried, confidence: 0.6, rule: 'speech-carryover', ambiguous: true });
+        pushWithClimax(verseNum, carried, text, 0.6, 'speech-carryover', true);
       } else if (carried === 'Dios' && valid.has('Dios') && !NARRSTART_RE.test(text)) {
-        pushMsg(verseNum, '', 'Dios', text);
-        diagnosis.push({ verse: verseNum, subId: '', speaker: 'Dios', confidence: 0.5, rule: 'speech-carryover-divine', ambiguous: true });
+        pushWithClimax(verseNum, 'Dios', text, 0.5, 'speech-carryover-divine', true);
       } else {
         if (!DICENDI_RE.test(text)) carried = null;
         pushMsg(verseNum, '', 'Narrador', text);

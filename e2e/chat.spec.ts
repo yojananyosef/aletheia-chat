@@ -224,7 +224,9 @@ test.describe('Chat', () => {
         await expect(sendGod).toBeVisible();
 
         await sendGod.click();
-        await expect(page.getByText('Sea la luz; y fue la luz.')).toBeVisible();
+        // El versículo 3 se desdobla: la palabra de Dios es solo "Sea la luz." y
+        // "y fue la luz" es narración del narrador (ver e2e/share.spec.ts).
+        await expect(page.getByText('Sea la luz.', { exact: true })).toBeVisible();
     });
 
     test('Éxodo 3: Dios pausa y requiere tap (no auto-avanza)', async ({ page }) => {

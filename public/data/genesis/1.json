@@ -39,7 +39,13 @@
             "id": "g1_3b",
             "speaker": "Dios",
             "verse": 3,
-            "text": "Sea la luz; y fue la luz."
+            "text": "Sea la luz."
+        },
+        {
+            "id": "g1_3c",
+            "speaker": "Narrador",
+            "verse": 3,
+            "text": "Y fue la luz."
         },
         {
             "id": "g1_4",
@@ -87,7 +93,13 @@
             "id": "g1_9b",
             "speaker": "Dios",
             "verse": 9,
-            "text": "Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase lo seco. Y fue así."
+            "text": "Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase lo seco."
+        },
+        {
+            "id": "g1_9c",
+            "speaker": "Narrador",
+            "verse": 9,
+            "text": "Y fue así."
         },
         {
             "id": "g1_10",
@@ -105,7 +117,13 @@
             "id": "g1_11b",
             "speaker": "Dios",
             "verse": 11,
-            "text": "Produzca la tierra hierba verde, hierba que dé semilla; árbol de fruto que dé fruto según su género, que su semilla esté en él, sobre la tierra. Y fue así."
+            "text": "Produzca la tierra hierba verde, hierba que dé semilla; árbol de fruto que dé fruto según su género, que su semilla esté en él, sobre la tierra."
+        },
+        {
+            "id": "g1_11c",
+            "speaker": "Narrador",
+            "verse": 11,
+            "text": "Y fue así."
         },
         {
             "id": "g1_12",
@@ -132,10 +150,16 @@
             "text": "Haya lumbreras en el firmamento de los cielos para separar el día de la noche; y sean por señales, y para las estaciones, y para días y años;"
         },
         {
-            "id": "g1_15",
+            "id": "g1_15a",
             "speaker": "Dios",
             "verse": 15,
-            "text": "y sean por lumbreras en el firmamento de los cielos para alumbrar sobre la tierra. Y fue así."
+            "text": "y sean por lumbreras en el firmamento de los cielos para alumbrar sobre la tierra."
+        },
+        {
+            "id": "g1_15b",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Y fue así."
         },
         {
             "id": "g1_16",
@@ -207,7 +231,13 @@
             "id": "g1_24b",
             "speaker": "Dios",
             "verse": 24,
-            "text": "Produzca la tierra seres vivientes según su género, bestias y reptiles y animales de la tierra según su género. Y fue así."
+            "text": "Produzca la tierra seres vivientes según su género, bestias y reptiles y animales de la tierra según su género."
+        },
+        {
+            "id": "g1_24c",
+            "speaker": "Narrador",
+            "verse": 24,
+            "text": "Y fue así."
         },
         {
             "id": "g1_25",
@@ -265,10 +295,16 @@
             "text": "He aquí que os he dado toda planta que da semilla, que está sobre la faz de toda la tierra; y todo árbol en que hay fruto de árbol que da semilla, os será para comer."
         },
         {
-            "id": "g1_30",
+            "id": "g1_30a",
             "speaker": "Dios",
             "verse": 30,
-            "text": "Y os he dado a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se mueve sobre la tierra en que hay vida; y toda planta verde les será para comer. Y fue así."
+            "text": "Y os he dado a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se mueve sobre la tierra en que hay vida; y toda planta verde les será para comer."
+        },
+        {
+            "id": "g1_30b",
+            "speaker": "Narrador",
+            "verse": 30,
+            "text": "Y fue así."
         },
         {
             "id": "g1_31",
