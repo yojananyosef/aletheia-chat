@@ -109,6 +109,141 @@ const CLAIMAX_RE = rx('^(?:y|e)\\s+(?:fue|fueron|hubo)\\s+(?:as[íi]|la|el|los|l
 const CLAIMAX_MAX = 45;
 
 /**
+ * Cola de narración con PROPOSITO, el segundo subtipo de cola.
+ *
+ * "Ciertamente que cualquiera que matare a Caín, siete veces será castigado.
+ * Entonces Jehová puso señal en Caín, para que no lo matase cualquiera que le
+ * hallara." (GEN 4:15) — la segunda oración no es de Dios.
+ *
+ * En el hebreo (TM) el corte es morphological, no de estilo:
+ *   wayyāśəm YHWH śîmēn ʿal-Qayîn  verbo consecutivo (wayyiqtol), 3ª pretérito
+ *   ləballōt hakkēh-ʾōṯô limṣāʾô  INFINITIVO lə- + propósito
+ *
+ * No hay infinitivo dentro de discurso directo: es estructuralmente imposible
+ * que un hablante termine su turno con "para que no lo matase". Y el wayyiqtol
+ * con 3ª persona preteritada es narración, nunca habla.
+ *
+ * Se exige el patrón COMPLETO (conectivo + sujeto explícito en 3ª + verbo
+ * narrativo + proposito) porque cada pieza por separado es ambigua:
+ *   - GEN 28:4 "para que heredes la tierra... que Dios dio a Abraham" es
+ *     Reporting Clause: Isaac reciting the blessing, el "para que" es de él y
+ *     el sujeto va al final, así que no entra.
+ *   - Los discurso con "para que" en 2ª persona ("para que comáis", LEG 11) no
+ *     traen sujeto de 3ª en el verbo, así que no entran.
+ */
+const NARRATIVE_PURPOSE_RE = rx(
+  '^(?:Entonces|Mas|Pero)\\s+'
+  + '(?:Jehová|Dios|el Señor)\\s+'
+  + '(?:puso|señal\\p{L}+|dio|hizo|estableció|marcó|selló|pintó|colocó|levantó|arrojó|echó|metió)\\b'
+  + '[^.;]*'
+  + '\\bpara que\\b',
+  'i',
+);
+
+/**
+ * Marco-continuación de CITA EMBEBIDA: el turno de un personaje que recita a
+ * Dios sin que el narrador reentre.
+ *
+ * "Y la mujer respondió a la serpiente: Del fruto de los árboles del huerto
+ * podemos comer; PERO del fruto del árbol que está en medio del huerto DIJO
+ * DIOS: No comeréis de él..." (GEN 3:2-3). El v.3 entero es de la mujer; el
+ * "dijo Dios" va dentro de su turno.
+ *
+ * En el hebreo (TM) el v.3 abre vayyōmer ha-ʾiššâ — la MUJER es el sujeto del
+ * verbo — y el v.2 con ha-ʾadam (el hombre): el diálogo alterna.
+ *
+ * La firma que lo separa de un marco "Y dijo Dios:" legítimo es que el marco
+ * NO abre narración fresca: arranca con conectivo adversativo y su sujeto
+ * ("Dios") es el objeto de un verbo de habla, no el sujeto oracional. El
+ * narrador no reaparece; la cita viaja con quien la pronuncia.
+ *
+ * El corpus ya aplicaba bien la regla dos versículos antes (GEN 3:1): la
+ * serpiente dice "¿Conque Dios os ha dicho: No comáis...?" y la cita queda
+ * entera en su burbuja. Sin esto, el mismo texto se rompía en el v.3.
+ *
+ * Se exige además que el turno previo sea de un PERSONAJE: si es Narrador o
+ * Dios, el "pero/mas ... dijo Dios" sí abre narración fresca (PSA 50:16
+ * "Pero al malo dijo Dios:", EZK 34:17 "Mas vosotras, ovejas mías, así dice
+ * Jehová el Señor:").
+ */
+const EMBEDDED_CITE_RE = rx(
+  '^(?:Pero|Mas)\\s+'
+  // Sin sujeto narrativo: la cita a Dios aparece con "dijo/dice" y el sujeto
+  // oracional es Dios, el diente; no hay actor nuevo en escena.
+  + '(?:[^.;:]{0,90}?)\\b(?:dijo|dice|habló)\\s+(?:Jehová\\s+)?(?:Dios|el Señor)\\s*:',
+  'i',
+);
+
+/**
+ * Marco ANIDADO: un segundo verbo dicendi dentro del discurso ya atribuido, con
+ * un SUJETO PROPIO explícito.
+ *
+ * "Y fue hecho saber a Salomón, diciendo: He aquí que Adonías tiene miedo del
+ * rey Salomón; pues se ha asido de los cuernos del altar, DICANDO: Júreme hoy
+ * el rey Salomón..." (1REY 1:51). El primer "diciendo" anuncia un reporte cuyo
+ * autor no se nombra; el segundo cita a Adonías, y su sujeto ("Adonías") está
+ * en el texto, así que SÍ se puede atribuir sin default.
+ *
+ * El sujeto tiene que aparecer ANTES del verbo dicendi, o sea al inicio de la
+ * frase que contiene el "diciendo:". Exigir el punto y coma o el punto antes
+ * del "diciendo" es lo que separa este caso del falso corte por ";" que se
+ * descartó antes: el marco anidado es una oración completa con su propio
+ * sujeto, no una cláusula partida por la mitad.
+ */
+/**
+ * Marco ANIDADO: dentro de un discurso ya atribuido hay un SEGUNDO verbo
+ * dicendi que abre otra cita.
+ *
+ * "Y fue hecho saber a Salomón, diciendo: He aquí que Adonías tiene miedo del
+ * rey Salomón; pues se ha asido de los cuernos del altar, DICENDO: Júreme hoy
+ * el rey Salomón que no matará a espada a su siervo." (1REY 1:51)
+ *
+ * El primer "diciendo" anuncia un reporte SIN autor ("y fue hecho saber"),
+ * que se queda en Narrador. El segundo sí cita a alguien, y ese alguien es
+ * quien pronuncia la frase — pero su nombre no está inmediatamente antes del
+ * verbo (está al principio del reporte), así que la atribución no es mecánica:
+ * se resuelve por el participante nombrado en el discurso y se marca AMBIGUA
+ * para que el review la confirme. No se curate como certeza.
+ *
+ * El tallo cubre las formas de la familia dicendi (diciendo, diciendo, dijo,
+ *habló), igual que el verbStem de patterns.es.json.
+ */
+const NESTED_FRAME_RE = rx('\\b(?:dij\\p{L}+|dic\\p{L}+|habl\\p{L}+|respond\\p{L}+)\\s*:', 'i');
+
+/** Igual que NESTED_FRAME_RE pero GLOBAL, para trocear el discurso y quedarse
+ *  con el texto que sigue al dicendi del marco anidado. */
+const NESTED_FRAME_SPLIT_RE = new RegExp(NESTED_FRAME_RE.source, 'giu');
+
+/**
+ * GUARDAS del marco anidado. Las dos son necesarias y juntas bajan los falsos
+ * positivos de 94 a 0 sobre el corpus publicado.
+ *
+ * (1) La CITA debe ser una oración ajena en 3ª persona, y el PREVIO no puede
+ *     seguir siendo discurso del hablante.
+ *
+ *     Descarta a 1REY 1:17 "Y ella le respondió: Señor mío, tú juraste a tu
+ *     sierva por Jehová tu Dios, diciendo: Ciertamente Salomón tu hijo reinará
+ *     después de mí..." — el "diciendo:" es de Abisalom a su madre; su discurso
+ *     continúa en 2ª y la cita repite su propia promesa.
+ *
+ *     Descarta además los 6 que sobreviven al filtro de persona, donde el
+ *     "head" es relato o más discurso, nunca una cita ajena con sujeto propio:
+ *     1REY 1:51, 1REY 20:39, 2SA 19:26, GEN 3:17, NUM 11:21, ZAC 6:12.
+ *
+ *     La excepción real (1REY 1:51) sí pasa: su "head" es relato puro
+ *     ("...se ha asido de los cuernos del altar") con verbo de acción de un
+ *     participante, y lo encuentra resolveNestedSayer.
+ */
+const NESTED_FIRSTPERSON_RE = rx(
+  '\\b(?:mí|mi|me|conmigo|yo|tú|te|ti|contigo|vosotros|vosotras|nosotros|nos)\\b',
+  'i',
+);
+const NESTED_THIRD_RE = rx(
+  '\\b(?:él|ella|ellos|ellas|su|sus|se|le|les)\\b',
+  'i',
+);
+
+/**
  * Separa la cola de clímax del resto de un segmento de discurso ya cortado por
  * un "dijo:". Devuelve null si el segmento no la trae.
  *
@@ -124,7 +259,11 @@ export function splitClimax(segment) {
   const parts = body.split(/(?<=[.;])\s+/);
   if (parts.length < 2) return null;
   const tail = parts[parts.length - 1].trim();
-  if (!tail || tail.length > CLAIMAX_MAX || !CLAIMAX_RE.test(tail)) return null;
+  if (!tail) return null;
+  const isTail = CLAIMAX_RE.test(tail) && tail.length <= CLAIMAX_MAX
+    ? true
+    : NARRATIVE_PURPOSE_RE.test(tail);
+  if (!isTail) return null;
   const head = body.slice(0, body.length - tail.length).replace(/[.;]\s*$/, '').trim();
   if (!head) return null;
   return { quote: `${head}.`, tail: `${tail}.` };
@@ -215,6 +354,55 @@ function detectSayer(narratorPart, patterns) {
 }
 
 /**
+ * Hablante del marco ANIDADO, cuando el reporte menciona a varios
+ * participantes y detectSayer no puede decidir.
+ *
+ * "He aquí que Adonías tiene miedo del rey Salomón; pues se ha asido de los
+ * cuernos del altar, diciendo: Júreme hoy el rey Salomón..." (1REY 1:51)
+ * menciona a Adonías y a Salomón, así que detectSayer devuelve multi y se
+ * descarta. Pero solo uno ACTÚA: "se ha asido" (agarrar los cuernos) es
+ * unmistakablemente de Adonías; Salomón es el destinatario.
+ *
+ * Se resuelve por el participante que acompaña a un verbo de acción propia en
+ * una construcción de relativo o de sujeto—oración ("que/que ha asido", "que
+ * se asido", "que hizo", "que rushed"). Si no hay ninguno, se cae al primer
+ * candidato de detectSayer aunque sea multi, TODO a revisión: es preferible
+ * proponer un nombre plausible marcado ambiguo que dejar el default-Dios, que
+ * es lo que se venía produciendo.
+ *
+ * La confianza nunca pasa de 0.6: el review confirma o corrige.
+ */
+function resolveNestedSayer(head, patterns, valid) {
+  const base = detectSayer(head, patterns);
+  if (base && valid.has(base.speaker) && !base.multi) return base;
+
+  // Participante + verbo de acción en relativo: "que [sufijo] <acción>".
+  const ACCION = rx(
+    '(?:que\\s+(?:se\\s+)?|lo\\s+|la\\s+)'
+    + '(?:asidi[óo]|asido|agarr[óo]|cogi[óo]|tom[óo]|hizo|hizo|baj[óo]|subi[óo]|levant[óo]|huy[óo]|entr[óo]|sali[óo]|corri[óo]|grit[óo])',
+    'i',
+  );
+  const ACCION_RE = new RegExp(ACCION.source, 'giu');
+  for (const m of head.matchAll(ACCION_RE)) {
+    const s = detectSayer(m[0], patterns);
+    if (s && valid.has(s.speaker) && !s.multi) {
+      return { speaker: s.speaker, confidence: 0.6, rule: `nested-accion-${s.rule}` };
+    }
+    // El verbo de acción no nombra sujeto: buscar el nombre más cercano ANTES.
+    const antes = head.slice(Math.max(0, m.index - 70), m.index);
+    const s2 = detectSayer(antes, patterns);
+    if (s2 && valid.has(s2.speaker)) {
+      return { speaker: s2.speaker, confidence: 0.6, rule: `nested-accion-proximo-${s2.rule}` };
+    }
+  }
+
+  if (base && valid.has(base.speaker)) {
+    return { speaker: base.speaker, confidence: 0.5, rule: `nested-multi-${base.rule}` };
+  }
+  return null;
+}
+
+/**
  * Corte múltiple "verbo dicendi + :": devuelve pares {start,end} (inicio del verbo,
  * fin tras los :) de cada corte válido.
  * Válido = primer corte del verso, o segmento con fin de frase (?!.…) antes de la cola
@@ -234,6 +422,11 @@ export function findCuts(text, verbStem, flags) {
     const end = start + m[0].length;
     const segment = text.slice(lastEnd, end);
     const isFirst = cuts.length === 0;
+    // Solo el punto cierra para el segundo corte en adelante. El ";" NO cuenta:
+    // probarlo parte 1REY 1:51 por la mitad de la cláusula ("...del rey
+    // Salomón;" | "pues se ha asido...") y deja el "diciendo:" del marco
+    // anidado colgando como si fuera un turno. El marco anidado se resuelve
+    // mejor después, con la cita embebida de NESTED_FRAME_RE.
     const hasSentenceEnd = /[?!.…]["”'»)]?\s+\S/.test(segment);
     if (isFirst || hasSentenceEnd) {
       cuts.push({ start, end });
@@ -258,6 +451,11 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
     messages.push({ id: `${abbr}${chapter}_${verse}${subId}`, speaker, verse, text, ...extra });
   };
 
+  // Voz del ÚLTIMO turno de habla del capítulo, para resolver el marco-
+  // continuación de cita embebida (GEN 3:3, donde el v.3 continúa el turno de
+  // la mujer abierta en el v.2). A diferencia de `carried`, no se borra al
+  // cruzar verso: la cita del v.3 depende de que el v.2 hablara.
+  let prevSpeechSpeaker = null;
   // Voz activa heredable: un verso-marco que termina en "...diciendo:" abre un
   // discurso cuya voz continúa en los versos siguientes sin marco (Jos 1:1 ->
   // 1:2-9: "Jehová habló a Josué... diciendo:" + discurso divino puro). Se
@@ -365,6 +563,65 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
       const emitSpeech = (part, narrCtx) => {
         const p = part.trim();
         if (!p || p.length < minSpeechLen) return;
+        // Cita embebida: el marco es continuación del turno de un personaje que
+        // está recitando a Dios (GEN 3:3). El narrador no reentró, así que la
+        // cita es del personaje que la pronuncia, no del citado.
+        if (prevSpeechSpeaker && EMBEDDED_CITE_RE.test(narrCtx)) {
+          const sub = nextSub();
+          pushMsg(verseNum, sub, prevSpeechSpeaker, p);
+          diagnosis.push({
+            verse: verseNum, subId: sub, speaker: prevSpeechSpeaker,
+            confidence: 0.6, rule: 'embedded-cite', ambiguous: true,
+          });
+          lastSpeech = prevSpeechSpeaker;
+          lastSpeechDefault = false;
+          return;
+        }
+        // Marco anidado: el DISCURSO en curso trae un segundo dicendi que abre
+        // otra cita (1REY 1:51). El reporte sin autor que lo precede se queda
+        // en Narrador; la cita va a voz del participante nombrado en él, marcada
+        // AMBIGUA porque el sujeto no está pegado al verbo.
+        const nested = [...p.matchAll(NESTED_FRAME_SPLIT_RE)].pop();
+        if (nested) {
+          // El "diciendo:" se queda al FINAL del reporte del narrador, con
+          // dos puntos y sin tocar la puntuación previa: es el verbo que
+          // introduce la cita y sin él se pierde texto (1REY 1:51).
+          const head = p.slice(0, nested.index).replace(/[.]\s*$/, '').trim();
+          const cita = p.slice(nested.index + nested[0].length).trim();
+          // Guarda 1: la cita es una oración ajena en 3ª, y el "head" es relato
+          // (verbo de acción de un participante), no más discurso del hablante.
+          // Si cualquiera de las dos falla, el "diciendo:" es del hablante
+          // continuando y NO se parte (1REY 1:17, y los 6 relays).
+          const esAjena = NESTED_THIRD_RE.test(cita) && !NESTED_FIRSTPERSON_RE.test(cita);
+          const headEsRelato = !NESTED_FIRSTPERSON_RE.test(head);
+          const s = esAjena && headEsRelato ? resolveNestedSayer(head, patterns, valid) : null;
+          if (s && cita.length >= minSpeechLen) {
+            // El reporte y la cita son dos turnos distintos: el primero es del
+            // Narrador (nadie lo firma), el segundo de quien habla. nextSub()
+            // se llama DOS veces, en orden, para que no colisionen los ids.
+            const subHead = nextSub();
+            const subCita = nextSub();
+            if (head) {
+              // El "diciendo:" cierra el reporte, con los dos puntos que
+              // tenía, para que la recomposición por letras cuadre.
+              pushMsg(verseNum, subHead, 'Narrador', `${capNarr(head)} ${nested[0]}`);
+              diagnosis.push({
+                verse: verseNum, subId: subHead, speaker: 'Narrador',
+                confidence: 0.85, rule: 'nested-frame', ambiguous: false,
+              });
+            }
+            pushMsg(verseNum, subCita, s.speaker, cita);
+            diagnosis.push({
+              verse: verseNum, subId: subCita, speaker: s.speaker,
+              confidence: 0.6, rule: `nested-frame-${s.rule}`, ambiguous: true,
+            });
+            lastSpeech = s.speaker;
+            lastSpeechDefault = true;
+            prevSpeechSpeaker = s.speaker;
+            // Ya se emitió todo: el caller no debe seguir procesando `p`.
+            return true;
+          }
+        }
         // Solo el SUJETO del verbo dicendi (del narrador precedente) atribuye.
         // Sin sujeto explícito -> default Dios ambiguo (el review corrige).
         const sayer = detectSayer(narrCtx, patterns);
@@ -378,6 +635,7 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         if (valid.has(speaker) && speaker !== 'Narrador' && speaker !== 'Sistema') {
           lastSpeech = speaker;
           lastSpeechDefault = !sayer;
+          prevSpeechSpeaker = speaker;
         }
       };
       const verseStart = messages.length;
@@ -388,9 +646,12 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
         // La cola narrativa previa al siguiente verbo ("...egipcio? Entonces Moisés
         // tuvo miedo, y" + "dijo:") pertenece al narrador: se corta en el último
         // fin de frase y el resto viaja con el narrador ("Y dijo la mujer:").
+        // El ";" cierra igual que el punto: en el marco anidado de 1REY 1:51 el
+        // "...del altar, diciendo:" completo debe ir al narrador, no dejar un
+        // "Diciendo:" huérfano de marco.
         let carry = '';
         if (k + 1 < cuts.length) {
-          const ends = [...speech.matchAll(/[?!.…]["”'»)]?(?=\s|$)/gu)];
+          const ends = [...speech.matchAll(/[?!.…;]["”'»)]?(?=\s|$)/gu)];
           if (ends.length) {
             const cutAt = (ends[ends.length - 1].index ?? 0) + ends[ends.length - 1][0].length;
             carry = speech.slice(cutAt).trimStart();
@@ -412,6 +673,8 @@ export function attributeChapter({ verses, headingsByVerse = {}, slug, chapter, 
             speech = '';
           }
         }
+        // emitSpeech devuelve true cuando el turno se emitió por su cuenta
+        // (marco anidado: ya empujó reporte + cita). No hay nada más que hacer.
         if (speech) emitSpeech(speech, prevNarr);
         if (k + 1 < cuts.length) {
           prevNarr = emitNarr(capNarr(carry + text.slice(cuts[k + 1].start, cuts[k + 1].end)));
