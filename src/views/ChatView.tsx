@@ -20,6 +20,7 @@ import { MessageBubble } from '../components/chat/MessageBubble';
 import { TypingIndicator } from '../components/chat/TypingIndicator';
 import { InputBar } from '../components/chat/InputBar';
 import { GroupInfoDrawer } from '../components/chat/GroupInfoDrawer';
+import type { ShareCardMessage } from '../utils/shareCard';
 import { Message } from '../core/domain/Message';
 import type { ValidatedChapterData } from '../core/validation/bibleSchemas';
 
@@ -118,6 +119,14 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
         });
     };
 
+    /** Mensajes ya leídos: lo único que la hoja de compartir deja elegir. */
+    const shareableMessages = useMemo<ShareCardMessage[]>(
+        () => (data?.messages ?? [])
+            .filter((m) => !m.isTitle())
+            .map((m) => ({ id: m.id, speaker: m.speaker, text: m.text, verse: m.verse })),
+        [data],
+    );
+
     const navigateToChapter = (targetChapter: number) => {
         if (targetChapter === chapter) return;
         setIsNavigating(true);
@@ -151,6 +160,7 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
             <main id="contenido" tabIndex={-1} data-viewport-scope="chat" className="w-full flex flex-col h-full relative overflow-hidden">
                 <ChatHeader
                     book={bookConfig} chapter={chapter} subtitle={subtitle}
+                    shareableMessages={shareableMessages}
                     onBack={() => router.push('/')}
                     onToggleSelector={() => setShowSelector(!showSelector)} onCloseSelector={() => setShowSelector(false)} isSelectorOpen={showSelector}
                     onSelectChapter={navigateToChapter}

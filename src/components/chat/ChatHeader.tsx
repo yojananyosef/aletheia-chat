@@ -5,11 +5,14 @@ import { BookInfo } from '../../types/bible';
 import { OptionsMenu } from './OptionsMenu';
 import { ShareButton } from './ShareButton';
 import { useDismissOnEscape } from '../../hooks/useDismissOnEscape';
+import type { ShareCardMessage } from '../../utils/shareCard';
 
 interface ChatHeaderProps {
     book: BookInfo | undefined;
     chapter: number;
     subtitle: string;
+    /** Mensajes ya leídos: alimentan el selector de la hoja de compartir. */
+    shareableMessages: ShareCardMessage[];
     onBack: () => void;
     onToggleSelector: () => void;
     onCloseSelector: () => void;
@@ -73,7 +76,12 @@ export const ChatHeader: React.FC<ChatHeaderProps> = (props) => {
 
             <div className="flex items-center gap-2 relative">
                 {props.book && (
-                    <ShareButton bookId={props.book.id} bookName={props.book.name} chapter={props.chapter} />
+                    <ShareButton
+                        bookId={props.book.id}
+                        bookName={props.book.name}
+                        chapter={props.chapter}
+                        messages={props.shareableMessages}
+                    />
                 )}
                 <div className="relative">
                     <button

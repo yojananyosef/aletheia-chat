@@ -91,6 +91,7 @@ export const StoryViewer: React.FC<StoryViewerProps> = ({
                                 bookId={story.ref.bookId}
                                 bookName={story.ref.bookName}
                                 chapter={story.ref.chapter}
+                                messages={[]}
                             />
                         )}
                         <button
