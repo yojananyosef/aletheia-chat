@@ -139,7 +139,13 @@
             "id": "g4_15b",
             "speaker": "Dios",
             "verse": 15,
-            "text": "Ciertamente que cualquiera que matare a Caín, siete veces será castigado. Entonces Jehová puso señal en Caín, para que no lo matase cualquiera que le hallara."
+            "text": "Ciertamente que cualquiera que matare a Caín, siete veces será castigado."
+        },
+        {
+            "id": "g4_15c",
+            "speaker": "Narrador",
+            "verse": 15,
+            "text": "Entonces Jehová puso señal en Caín, para que no lo matase cualquiera que le hallara."
         },
         {
             "id": "g4_16",

@@ -294,3 +294,65 @@ describe('corpus: citar a Dios no es hablar como Dios', () => {
     assert.deepEqual(culpables, []);
   });
 });
+
+describe('corpus: el propósito con infinitivo cierra el discurso', () => {
+  // Regresión de Génesis 4:15. "Ciertamente que cualquiera que matare a
+  // Caín, siete veces será castigado. Entonces Jehová puso señal en Caín,
+  // para que no lo matase cualquiera que le hallara." estaba entero en la
+  // burbuja de DIOS, pero solo la primera oración es divina.
+  //
+  // El hebreo (TM) lo decide sin ambigüedad:
+  //   wayyōmer-lō YHWH        "y dijo Jehová a él"    -> marco
+  //   miyyēn ... yāšaq        "siete veces será..."   -> discurso
+  //   wayyāśəm YHWH śîmēn     "y puso Jehová señal"   -> NARRACIÓN
+  //     ʿal-Qayîn              wayyiqtol, 3ª preterito
+  //   ləballōt hakkēh-ʾōṯô   "para que no lo matase" -> NARRACIÓN
+  //     limṣāʾô                INFINITIVO lə-: no puede haber infinitivo
+  //                           dentro de discurso directo
+  //
+  // Es el mismo subtipo que la cola de clímax de Génesis 1 ("Sea la luz; y
+  // fue la luz"), pero con propósito en vez de fórmula de cierre: por eso
+  // run.mjs:splitClimax —que solo corta "y fue así"— no lo cubría.
+  const COLA = new RegExp(
+    '(?:^|(?<=[.;])\\s+)'
+    + '(?:Entonces\\s+)?'
+    + '(?:Jehov\u00e1|Dios|el Se\u00f1or)\\s+'
+    + '(?:puso|se\u00f1al|dio|hizo|estableci\u00f3|pondr\u00e1)\\b',
+    'u',
+  );
+  const PROPOSITO = /\bpara que no\b/;
+
+  it('GEN 4: el v.15 se parte en decreto divino y acción narrativa', () => {
+    const cap = JSON.parse(readFileSync(join(DATA, 'genesis', '4.json'), 'utf8'));
+    const v15 = cap.messages.filter((m) => m.verse === 15 && !m.isSectionTitle);
+    assert.deepEqual(v15.map((m) => m.id), ['g4_15a', 'g4_15b', 'g4_15c']);
+    assert.deepEqual(v15.map((m) => m.speaker), ['Narrador', 'Dios', 'Narrador']);
+    assert.equal(v15[1].text, 'Ciertamente que cualquiera que matare a Caín, siete veces será castigado.');
+    assert.match(v15[2].text, /^Entonces Jehová puso se\u00f1al en Ca\u00edn, para que no/);
+  });
+
+  it('GEN 4: no se perdió ni una letra al desdoblar v.15', () => {
+    const cap = JSON.parse(readFileSync(join(DATA, 'genesis', '4.json'), 'utf8'));
+    const letras = (s) => s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
+    const juntos = cap.messages
+      .filter((m) => m.verse === 15 && !m.isSectionTitle)
+      .map((m) => m.text).join(' ');
+    const fuente = 'Y le respondió Jehová: Ciertamente que cualquiera que matare a Caín, '
+      + 'siete veces será castigado. Entonces Jehová puso señal en Caín, para que no lo '
+      + 'matase cualquiera que le hallara.';
+    assert.equal(letras(juntos), letras(fuente), 'v.15: el texto no cuadra');
+  });
+
+  it('corpus: ninguna burbuja de habla contiene una cola con propósito', () => {
+    const culpables = [];
+    for (const { path } of chapters()) {
+      for (const m of JSON.parse(readFileSync(path, 'utf8')).messages) {
+        if (m.speaker === 'Narrador' || m.speaker === 'Sistema' || m.isSectionTitle) continue;
+        const hit = COLA.exec(m.text);
+        if (!hit || !PROPOSITO.test(m.text)) continue;
+        culpables.push(`${m.id}=${m.speaker} :: ...${m.text.slice(hit.index).trim().slice(0, 80)}`);
+      }
+    }
+    assert.deepEqual(culpables, []);
+  });
+});

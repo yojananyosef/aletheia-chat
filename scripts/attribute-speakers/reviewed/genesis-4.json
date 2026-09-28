@@ -42,6 +42,13 @@
     "confidence": 0.9
   },
   {
+    "verse": 15,
+    "subId": "c",
+    "speaker": "Narrador",
+    "confidence": 0.9,
+    "rule": "manual-split-proposito"
+  },
+  {
     "verse": 16,
     "subId": "",
     "speaker": "Narrador",
