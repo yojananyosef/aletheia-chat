@@ -139,3 +139,29 @@ describe('StorageService — capítulos completos', () => {
         expect(StorageService.isChapterComplete('genesis', 2)).toBe(false);
     });
 });
+
+describe('StorageService — acceso por enlace', () => {
+    it('roundtrip y null sin datos', () => {
+        expect(StorageService.getLinkedChapter('exodus')).toBeNull();
+        StorageService.setLinkedChapter('exodus', 5);
+        expect(StorageService.getLinkedChapter('exodus')).toBe(5);
+    });
+
+    it('el enlace NO ensucia el progreso: lastChapter sigue vacío', () => {
+        // Este es el bug: si el deep-link escribiera lastChapter, `isVisited`
+        // desbloquearía el libro entero para siempre.
+        StorageService.setLinkedChapter('exodus', 5);
+        expect(StorageService.getLastChapter('exodus')).toBeNull();
+    });
+
+    it('clearLinkedChapter lo borra', () => {
+        StorageService.setLinkedChapter('exodus', 5);
+        StorageService.clearLinkedChapter('exodus');
+        expect(StorageService.getLinkedChapter('exodus')).toBeNull();
+    });
+
+    it('ignora valores no numéricos', () => {
+        window.localStorage.setItem('naas:v1:linkedChapter:levitico', 'no-numero');
+        expect(StorageService.getLinkedChapter('levitico')).toBeNull();
+    });
+});

@@ -19,6 +19,7 @@ const Keys = {
     completed: (book: string, chapter: number) => `naas:${VERSION}:completed:${book}:${chapter}`,
     activity: `naas:${VERSION}:activity`,
     lastMessage: (bookId: string) => `naas:${VERSION}:lastMessage:${bookId}`,
+    linkedChapter: (bookId: string) => `naas:${VERSION}:linkedChapter:${bookId}`,
 };
 
 /** Clave única de favoritos (Fase 1: elimina el duplicado en PersistentStateContext). */
@@ -195,6 +196,29 @@ export class StorageService {
 
     static setLastChapter(bookId: string, chapter: number): void {
         writeRaw(Keys.lastChapter(bookId), String(chapter));
+    }
+
+    /**
+     * Capítulo al que se entró por enlace compartido en un libro bloqueado.
+     *
+     * Va APARTE de `lastChapter` a propósito: `isVisited` alimenta el
+     * desbloqueo progresivo, así que marcar aquí sería granting progresión por
+     * el solo hecho de recibir un enlace. Con esta clave el Home puede ofrecer
+     * el capítulo ("Compartido contigo") sin abrir el libro entero.
+     */
+    static setLinkedChapter(bookId: string, chapter: number): void {
+        writeRaw(Keys.linkedChapter(bookId), String(chapter));
+    }
+
+    static getLinkedChapter(bookId: string): number | null {
+        const raw = readRaw(Keys.linkedChapter(bookId));
+        if (raw === null) return null;
+        const value = Number(raw);
+        return Number.isFinite(value) ? value : null;
+    }
+
+    static clearLinkedChapter(bookId: string): void {
+        removeRaw(Keys.linkedChapter(bookId));
     }
 
     /** Marca hoy como día con lectura (racha). Idempotente por día. */

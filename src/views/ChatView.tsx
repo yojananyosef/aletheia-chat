@@ -14,6 +14,7 @@ import { BibleDataService } from '../core/services/BibleDataService';
 import { StorageService } from '../core/services/StorageService';
 
 import { BIBLE_BOOKS } from '../constants/books';
+import { isUnlocked } from '../utils/unlock';
 import { ChatHeader } from '../components/chat/ChatHeader';
 import { MessageBubble } from '../components/chat/MessageBubble';
 import { TypingIndicator } from '../components/chat/TypingIndicator';
@@ -51,9 +52,25 @@ export const ChatView: React.FC<ChatViewProps> = ({ bookId, chapter, initialData
 
     const bookConfig = BIBLE_BOOKS.find(b => b.id === bookId);
 
-    // Remember the last visited chapter for the Home list
+    // Remember the last visited chapter for the Home list.
+    //
+    // Solo si el libro ya está abierto: entrar por enlace compartido a un libro
+    // bloqueado no puede marcar "visitado", porque `isVisited` concede el
+    // desbloqueo permanente (ver utils/unlock). En ese caso el capítulo se
+    // guarda aparte para que el Home ofrezca "Compartido contigo" sin
+    // destrabar la cadena de libros.
     useEffect(() => {
-        StorageService.setLastChapter(bookId, chapter);
+        if (isUnlocked(
+            BIBLE_BOOKS,
+            bookId,
+            (b, c) => StorageService.isChapterComplete(b, c),
+            (b) => StorageService.getLastChapter(b) !== null || StorageService.getLastMessage(b) !== null,
+        )) {
+            StorageService.setLastChapter(bookId, chapter);
+            StorageService.clearLinkedChapter(bookId);
+        } else {
+            StorageService.setLinkedChapter(bookId, chapter);
+        }
     }, [bookId, chapter]);
 
     const onMessageNext = useCallback((msg: Message) => {

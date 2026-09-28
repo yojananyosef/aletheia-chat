@@ -62,6 +62,18 @@ export const HomeView: React.FC = () => {
         return map;
     }, [hasMounted, filteredBooks]);
 
+    // Capítulo compartido por enlace en un libro que sigue bloqueado: la fila se
+    // puede abrir, pero el libro NO cuenta como visitado ni se desbloquea.
+    const linkedChapters = useMemo(() => {
+        const map = new Map<string, number>();
+        if (!hasMounted) return map;
+        for (const b of filteredBooks) {
+            const ch = StorageService.getLinkedChapter(b.id);
+            if (ch !== null) map.set(b.id, ch);
+        }
+        return map;
+    }, [hasMounted, filteredBooks]);
+
     const isComplete = (bookId: string, chapter: number) =>
         hasMounted && StorageService.isChapterComplete(bookId, chapter);
 
@@ -76,8 +88,8 @@ export const HomeView: React.FC = () => {
         );
     }, [hasMounted]);
 
-    const handleSelectBook = (id: string) => {
-        router.push(`/${id}/${getInitialChapter(id)}`);
+    const handleSelectBook = (id: string, chapter?: number) => {
+        router.push(`/${id}/${chapter ?? getInitialChapter(id)}`);
     };
 
     const handleToggleLike = (fav: FavoriteMessage) => {
@@ -261,6 +273,7 @@ export const HomeView: React.FC = () => {
                                     lastChapter={hasMounted ? getInitialChapter(book.id) : 1}
                                     lastMessage={lastMessages.get(book.id) ?? null}
                                     lockHint={isLocked && prevName ? `Completa ${prevName}` : undefined}
+                                    linkChapter={linkedChapters.get(book.id) ?? null}
                                     isComplete={isComplete(book.id, hasMounted ? getInitialChapter(book.id) : 1)}
                                     onSelect={handleSelectBook}
                                 />
