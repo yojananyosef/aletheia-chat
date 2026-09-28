@@ -213,3 +213,84 @@ describe('corpus: el mandato del Génesis 2 es palabra de Dios', () => {
     assert.match(b.text, /como est\u00e1 dicho:/);
   });
 });
+
+describe('corpus: citar a Dios no es hablar como Dios', () => {
+  // Regresión de Génesis 3:3. "Pero del fruto del árbol que está en medio
+  // del huerto dijo Dios: No comeréis de él..." es la MUJER recitando la
+  // prohibición a la serpiente, no una aparición de Dios en el diálogo. En el
+  // hebreo (TM) el v.3 abre vayyōmer ha-ʾiššâ — la mujer es el sujeto — y el
+  // "dijo Dios" va dentro de su turno, sin reentrada del narrador.
+  //
+  // La regla ya se aplicaba bien dos versículos antes: en el v.1 la serpiente
+  // cita a Dios ("¿Conque Dios os ha dicho: No comáis...?") y la cita queda
+  // dentro de la burbuja de la Serpiente. El v.3 rompía esa misma regla.
+  //
+  // La firma que lo delata en cualquier capítulo: un marco del Narrador que
+  // (a) arranca con conectivo, (b) no trae sujeto narrativo propio,
+  // (c) está pegado al turno de un personaje, y (d) salta a DIOS. El corpus
+  // tiene 39 marcos "dijo Dios:" y solo este los cumplía los cuatro.
+  it('GEN 3: el v.3 es la Mujer citando a Dios, no una intervención de Dios', () => {
+    const cap = JSON.parse(readFileSync(join(DATA, 'genesis', '3.json'), 'utf8'));
+    const v3 = cap.messages.filter((m) => m.verse === 3 && !m.isSectionTitle);
+    assert.deepEqual(v3.map((m) => m.id), ['g3_3'], 'v.3 debe ser un turno único');
+    assert.equal(v3[0].speaker, 'Mujer');
+    assert.match(v3[0].text, /^pero del fruto/, 'continúa la frase abierta en el v.2');
+    assert.match(v3[0].text, /dijo Dios: No comeréis/, 'la cita a Dios va dentro de su turno');
+  });
+
+  it('GEN 3: v.1-v.4 el diálogo es serpiente ↔ mujer, sin Dios en escena', () => {
+    const cap = JSON.parse(readFileSync(join(DATA, 'genesis', '3.json'), 'utf8'));
+    const voces = new Map();
+    for (const m of cap.messages) {
+      if (m.verse > 4 || m.verse < 1 || m.isSectionTitle) continue;
+      if (!voces.has(m.verse)) voces.set(m.verse, []);
+      voces.get(m.verse).push(m.speaker);
+    }
+    assert.deepEqual(voces.get(1), ['Narrador', 'Serpiente']);
+    assert.deepEqual(voces.get(2), ['Narrador', 'Mujer']);
+    assert.deepEqual(voces.get(3), ['Mujer']);
+    assert.deepEqual(voces.get(4), ['Narrador', 'Serpiente']);
+    // Dios no reaparece hasta el v.8, cuando ya se pasea en el huerto.
+    const conDios = cap.messages.filter((m) => m.speaker === 'Dios' && m.verse < 8);
+    assert.deepEqual(conDios, [], 'Dios no debe hablar antes del v.8');
+  });
+
+  it('GEN 3: no se perdió ni una letra al fundir v.3', () => {
+    const cap = JSON.parse(readFileSync(join(DATA, 'genesis', '3.json'), 'utf8'));
+    const letras = (s) => s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
+    const juntos = cap.messages
+      .filter((m) => m.verse === 3 && !m.isSectionTitle)
+      .map((m) => m.text).join(' ');
+    const fuente = 'Pero del fruto del árbol que está en medio del huerto dijo Dios: '
+      + 'No comeréis de él, ni le tocaréis, para que no muráis.';
+    assert.equal(letras(juntos), letras(fuente), 'v.3: el texto no cuadra');
+  });
+
+  it('corpus: un personaje que cita a Dios no genera una burbuja de Dios', () => {
+    // La firma de GEN 3:3, que es lo único que la distingue de los marcos
+    // legítimos: el turno PREVIO es de un personaje, no del narrador. El
+    // narrador no reentra, no hay aparición de Dios, la cita va dentro del
+    // turno del personaje.
+    //
+    // No se confunde con los marcos válidos, que son de otra forma:
+    //   EZK 34:17a "Mas vosotras, ovejas mías, así dice Jehová el Señor:"
+    //     -> el turno previo es de Dios y el marco abre con vocativo: le
+    //        habla a su rebaño, sí es palabra divina.
+    //   PSA 50:16a "Pero al malo dijo Dios:"
+    //     -> el turno previo es de Dios y el narrador (Asaph) introduce la
+    //        cita; la burbuja de Dios es correcta.
+    const CITA = /(?:dijo|dice|habl\u00f3)\s+(?:Jehov\u00e1\s+)?(?:Dios|el Se\u00f1or)\s*:/;
+    const personajes = (s) => !['Narrador', 'Dios', 'Sistema', 'Serpiente'].includes(s);
+    const culpables = [];
+    for (const { path } of chapters()) {
+      const ms = JSON.parse(readFileSync(path, 'utf8')).messages;
+      for (let i = 1; i < ms.length; i++) {
+        if (ms[i].speaker !== 'Dios') continue;
+        if (!personajes(ms[i - 1].speaker)) continue;
+        if (!/^(?:Pero|Mas)\s/.test(ms[i - 1].text)) continue;
+        if (CITA.test(ms[i - 1].text)) culpables.push(`${ms[i - 1].id} (${ms[i - 1].speaker}) -> ${ms[i].id} :: ${ms[i - 1].text}`);
+      }
+    }
+    assert.deepEqual(culpables, []);
+  });
+});

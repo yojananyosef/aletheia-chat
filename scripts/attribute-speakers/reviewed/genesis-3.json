@@ -12,6 +12,13 @@
     "confidence": 0.9
   },
   {
+    "verse": 3,
+    "subId": "",
+    "speaker": "Mujer",
+    "confidence": 0.9,
+    "rule": "manual-cita-embebida"
+  },
+  {
     "verse": 5,
     "subId": "",
     "speaker": "Serpiente",
