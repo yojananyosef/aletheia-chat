@@ -264,10 +264,16 @@
             "text": "Y aconteció en el camino, que en una posada le salió al encuentro Jehová, y quiso matarlo."
         },
         {
-            "id": "e4_25",
+            "id": "e4_25a",
             "speaker": "Narrador",
             "verse": 25,
-            "text": "Entonces Séfora tomó un afilado pedernal, y cortó el prepucio de su hijo, y lo echó a sus pies, diciendo: A la verdad tú me eres un esposo de sangre."
+            "text": "Entonces Séfora tomó un afilado pedernal, y cortó el prepucio de su hijo, y lo echó a sus pies, diciendo:"
+        },
+        {
+            "id": "e4_25b",
+            "speaker": "Séfora",
+            "verse": 25,
+            "text": "A la verdad tú me eres un esposo de sangre."
         },
         {
             "id": "e4_26a",

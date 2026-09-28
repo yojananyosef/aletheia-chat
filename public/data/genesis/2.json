@@ -108,14 +108,20 @@
             "text": "Tomó, pues, Jehová Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase."
         },
         {
-            "id": "g2_16",
+            "id": "g2_16a",
             "speaker": "Narrador",
             "verse": 16,
-            "text": "Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto libremente podrás comer;"
+            "text": "Y mandó Jehová Dios al hombre, diciendo:"
+        },
+        {
+            "id": "g2_16b",
+            "speaker": "Dios",
+            "verse": 16,
+            "text": "De todo árbol del huerto libremente podrás comer;"
         },
         {
             "id": "g2_17",
-            "speaker": "Narrador",
+            "speaker": "Dios",
             "verse": 17,
             "text": "pero del árbol del conocimiento del bien y el mal no comerás; porque el día que de él comieres, ciertamente morirás."
         },

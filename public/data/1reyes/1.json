@@ -457,7 +457,13 @@
             "id": "1ki1_51b",
             "speaker": "Narrador",
             "verse": 51,
-            "text": "He aquí que Adonías tiene miedo del rey Salomón; pues se ha asido de los cuernos del altar, diciendo: Júreme hoy el rey Salomón que no matará a espada a su siervo."
+            "text": "He aquí que Adonías tiene miedo del rey Salomón; pues se ha asido de los cuernos del altar, diciendo:"
+        },
+        {
+            "id": "1ki1_51c",
+            "speaker": "Adonías",
+            "verse": 51,
+            "text": "Júreme hoy el rey Salomón que no matará a espada a su siervo."
         },
         {
             "id": "1ki1_52a",

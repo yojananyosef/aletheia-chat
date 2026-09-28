@@ -96,10 +96,16 @@
             "text": "Lleva este niño, y críamelo, y yo te lo pagaré. Y la mujer tomó al niño, y lo crió."
         },
         {
-            "id": "e2_10",
+            "id": "e2_10a",
             "speaker": "Narrador",
             "verse": 10,
-            "text": "Y cuando creció el niño, ella lo trajo a la hija de Faraón, la cual lo prohijó, y le puso por nombre Moisés, diciendo: Porque de las aguas lo saqué."
+            "text": "Y cuando creció el niño, ella lo trajo a la hija de Faraón, la cual lo prohijó, y le puso por nombre Moisés, diciendo:"
+        },
+        {
+            "id": "e2_10b",
+            "speaker": "Hija de Faraón",
+            "verse": 10,
+            "text": "Porque de las aguas lo saqué."
         },
         {
             "id": "e2_sec11_c619",

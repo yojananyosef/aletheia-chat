@@ -1,8 +1,15 @@
 [
   {
+    "verse": 16,
+    "subId": "b",
+    "speaker": "Dios",
+    "confidence": 0.9,
+    "rule": "manual-split-diciendo"
+  },
+  {
     "verse": 17,
     "subId": "",
-    "speaker": "Narrador",
+    "speaker": "Dios",
     "confidence": 0.85
   },
   {

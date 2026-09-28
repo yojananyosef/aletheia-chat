@@ -139,3 +139,77 @@ describe('corpus: la cola de clímax pertenece al narrador', () => {
     }
   });
 });
+
+describe('corpus: el mandato del Génesis 2 es palabra de Dios', () => {
+  // Regresión de Génesis 2:16-17. "Y mandó Jehová Dios al hombre, diciendo:" es un
+  // marco de narración, pero lo que viene tras los dos puntos es el decreto
+  // divino (el mandato de comer y la prohibición del árbol), igual que
+  // "Y dijo Dios:" en Génesis 1:26. El v.17 no lleva marco porque continúa el
+  // discurso abierto en el v.16 (mismo criterio que GEN 1:29b -> 1:30a).
+  const porVerso = (book, chapter) => {
+    const cap = JSON.parse(readFileSync(join(DATA, book, `${chapter}.json`), 'utf8'));
+    const out = new Map();
+    for (const m of cap.messages) {
+      if (m.isSectionTitle) continue;
+      if (!out.has(m.verse)) out.set(m.verse, []);
+      out.get(m.verse).push(m);
+    }
+    return out;
+  };
+
+  it('GEN 2: el marco queda en Narrador y el decreto en Dios', () => {
+    const g2 = porVerso('genesis', 2);
+    assert.deepEqual(
+      g2.get(16).map((m) => [m.id, m.speaker]),
+      [['g2_16a', 'Narrador'], ['g2_16b', 'Dios']],
+    );
+    assert.deepEqual(
+      g2.get(16).map((m) => m.text),
+      ['Y mandó Jehová Dios al hombre, diciendo:', 'De todo árbol del huerto libremente podrás comer;'],
+    );
+    assert.deepEqual(g2.get(17).map((m) => m.speaker), ['Dios'], 'v.17 continua el mandato de Dios');
+  });
+
+  it('GEN 2: no se perdió ni una letra al desdoblar v.16-17', () => {
+    const g2 = porVerso('genesis', 2);
+    const letras = (s) => s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
+    const fuente = {
+      16: 'Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto libremente podrás comer;',
+      17: 'pero del árbol del conocimiento del bien y el mal no comerás; porque el día que de él comieres, ciertamente morirás.',
+    };
+    for (const [v, t] of Object.entries(fuente)) {
+      const juntos = g2.get(Number(v)).map((m) => m.text).join(' ');
+      assert.equal(letras(juntos), letras(t), `v.${v}: el texto no cuadra`);
+    }
+  });
+
+  it('corpus: ningún marco "diciendo:" sin desdoblar queda en un turno del narrador', () => {
+    // El mismo fallo de Génesis 2:16, sistematicamente. Un turno de Narrador
+    // que TODAVIA contiene la cita tras los dos puntos debe estar desdoblado
+    // (marco Narrador + voz del hablante). Un caso nuevo debe romper esto.
+    //
+    // HEB 4:7b es la única excepción, y es correcta: "como está dicho: Si
+    // oyereis hoy su voz..." cita el Salmo 95:8 dentro de la reflexión del
+    // autor, igual que 4:4b y 4:5, que el corpus también deja en Narrador
+    // porque ahí quien habla es el Salmo, no un personaje de la escena.
+    const EXCEPTO = new Map([['heb4_7b', 'cita del Salmo 95:8 en la reflexión del autor']]);
+    const culpables = [];
+    for (const { path } of chapters()) {
+      for (const m of JSON.parse(readFileSync(path, 'utf8')).messages) {
+        if (m.isSectionTitle || m.speaker !== 'Narrador') continue;
+        if (EXCEPTO.has(m.id)) continue;
+        if (/(?:diciendo|dicho|dici\u00f3|habl\u00f3)\s*:\s*\S/u.test(m.text)) culpables.push(`${m.id} :: ${m.text}`);
+      }
+    }
+    assert.deepEqual(culpables, []);
+  });
+
+  it('las excepciones del barrido siguen siendo las documentadas', () => {
+    // Si alguien reintroduce un caso "arreglado", la excepción debe quitarse
+    // también: aquí se verifica que HEB 4:7b sigue siendo el único que queda.
+    const cap = JSON.parse(readFileSync(join(DATA, 'hebreos', '4.json'), 'utf8'));
+    const b = cap.messages.find((m) => m.id === 'heb4_7b');
+    assert.equal(b.speaker, 'Narrador');
+    assert.match(b.text, /como est\u00e1 dicho:/);
+  });
+});
