@@ -81,7 +81,7 @@ node --test scripts/attribute-speakers/run.test.mjs   # Regresión del pipeline 
   ./scripts/brand/build-icons.sh   # requiere librsvg (rsvg-convert) e ImageMagick
   ```
 
-- **Despliegue (Vercel):** define `NEXT_PUBLIC_SITE_URL` con el dominio final para que canonical, OpenGraph y sitemap emitan URLs absolutas correctas (por defecto: `https://aletheiachat.johan.cl`).
+- **Despliegue (Vercel):** define `NEXT_PUBLIC_SITE_URL` con el dominio final para que canonical, OpenGraph y sitemap emitan URLs absolutas correctas (por defecto: `https://chat.johan.cl`).
 - **Caché y seguridad:** `next.config.js` sirve `public/data/**` con `Cache-Control` (`max-age=3600`, `stale-while-revalidate=86400`) y añade `nosniff`, `Referrer-Policy` y `X-Frame-Options`.
 
 ## 📂 Estructura de datos
